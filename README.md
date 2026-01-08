@@ -2,6 +2,12 @@
 
 A RAG-powered chatbot that answers questions about UF Water Institute faculty members using GPT-4o and ChromaDB.
 
+## Live Deployment
+
+- **Frontend**: https://polite-sunshine-495327.netlify.app
+- **Backend API**: https://water-institute-chatbot.onrender.com
+- **GitHub Repository**: https://github.com/kcscroggins/water-institute-chatbot
+
 ## Setup Instructions
 
 ### 1. Install Python Dependencies
@@ -19,9 +25,10 @@ Create a `.env` file in the project root:
 cp .env.example .env
 ```
 
-Edit `.env` and add your OpenAI API key:
+Edit `.env` and add your UF Navigator API credentials:
 ```
-OPENAI_API_KEY=sk-...your_key_here
+NAVIGATOR_UF_API_KEY=sk-...your_key_here
+NAVIGATOR_API_ENDPOINT=https://api.ai.it.ufl.edu/v1
 ```
 
 ### 3. Ingest Faculty Data into ChromaDB
@@ -67,64 +74,74 @@ Try asking questions like:
 - "Tell me about Lisa Krimsky's expertise"
 - "Which faculty members work on climate change?"
 
-## Deploying to Production
+## Production Deployment
 
-### Backend Deployment (Render/Railway)
+This project is currently deployed using:
+- **Backend**: Render.com (Free tier)
+- **Frontend**: Netlify (Free tier)
 
-1. **Create a `Dockerfile`** (optional but recommended):
-```dockerfile
-FROM python:3.11-slim
-WORKDIR /app
-COPY backend/requirements.txt .
-RUN pip install -r requirements.txt
-COPY backend/ .
-COPY data/ ../data/
-COPY chroma/ ../chroma/
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
-```
+### Backend Deployment (Render.com)
 
-2. **Deploy to Render/Railway**:
-   - Push your code to GitHub
-   - Connect to Render.com or Railway.app
-   - Set environment variable: `OPENAI_API_KEY`
-   - Deploy!
+1. **Push code to GitHub** (already done)
 
-3. **After deployment**, run the ingestion script once:
-```bash
-python ingest_faculty.py
-```
+2. **Create Web Service on Render**:
+   - Go to [render.com](https://render.com) and sign up
+   - Click "New +" → "Web Service"
+   - Connect your GitHub repository
+   - Configure:
+     - **Build Command**: `pip install -r backend/requirements.txt && cd backend && python ingest_faculty.py`
+     - **Start Command**: `cd backend && uvicorn main:app --host 0.0.0.0 --port $PORT`
+     - **Branch**: `main`
+     - **Plan**: Free (or $7/month Starter for always-on)
 
-### Frontend Deployment
+3. **Add Environment Variables** in Render dashboard:
+   - `NAVIGATOR_UF_API_KEY` = Your UF Navigator API key
+   - `NAVIGATOR_API_ENDPOINT` = `https://api.ai.it.ufl.edu/v1`
 
-#### Option 1: WordPress Iframe Embed (Recommended - Most Stable)
+4. **Deploy** - Render will automatically run the ingestion script and start the server
 
-1. Host `frontend/index.html` on any static host (Netlify, Vercel, GitHub Pages)
-2. Update `API_URL` in `index.html` to your deployed backend URL
-3. In WordPress, add this to your page:
+**Note**: Free tier spins down after 15 minutes of inactivity. First request after idle takes 30-60 seconds to wake up. Upgrade to $7/month Starter plan for instant responses.
+
+### Frontend Deployment (Netlify)
+
+1. **Go to [netlify.com](https://netlify.com)** and sign up
+
+2. **Deploy**:
+   - Click "Add new site" → "Import an existing project"
+   - Choose GitHub and select your repository
+   - Configure:
+     - **Base directory**: (leave empty)
+     - **Publish directory**: `frontend`
+     - **Build command**: (leave empty)
+   - Click "Deploy site"
+
+3. **Done!** - Netlify deploys in ~30 seconds
+
+### WordPress Integration
+
+Add this iframe code to your WordPress page (in "Code" or "HTML" mode):
 
 ```html
 <iframe
-  src="https://your-frontend-url.com"
+  src="https://polite-sunshine-495327.netlify.app"
   width="100%"
   height="650px"
   frameborder="0"
-  style="border: none; border-radius: 12px;"
+  style="border: none; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);"
 ></iframe>
 ```
 
-#### Option 2: Direct WordPress Page Embed
-
-1. Update `API_URL` in the frontend HTML
-2. Copy the entire HTML content
-3. In WordPress, edit your page in "Code" or "HTML" mode
-4. Paste the HTML directly
+**Sharing Options**:
+- Share your WordPress page URL (recommended for official use)
+- Share the Netlify URL directly: https://polite-sunshine-495327.netlify.app
 
 ## Architecture
 
 - **Backend**: FastAPI + ChromaDB for vector search
 - **Frontend**: Vanilla HTML/CSS/JS (no dependencies)
-- **AI Model**: GPT-4o (adjustable in `main.py`)
+- **AI Model**: GPT-4o via UF Navigator API (adjustable in `main.py`)
 - **Vector DB**: ChromaDB (persistent storage in `chroma/db/`)
+- **Hosting**: Render.com (backend) + Netlify (frontend)
 
 ## API Endpoints
 
