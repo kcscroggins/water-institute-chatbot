@@ -167,3 +167,125 @@ n_results=3  # Increase for more context, decrease for faster responses
 
 ### Customize Colors
 Edit the CSS in `frontend/index.html` to match your WordPress theme.
+
+---
+
+## Future Enhancement: MCP Integration
+
+### What is MCP?
+
+MCP (Model Context Protocol) is Anthropic's open standard for connecting AI systems to external data sources and tools in real-time. It allows your chatbot to access "live" data instead of relying on static, pre-ingested information.
+
+### Current Limitations
+
+**Current Setup:**
+- Static data stored in ChromaDB
+- Must manually re-run `ingest_faculty.py` to update information
+- Limited to text files in the `data/` folder
+- No real-time information
+
+### MCP Benefits
+
+**With MCP Integration:**
+- ✅ **Live faculty data** from UF directory APIs
+- ✅ **Real-time publications** from research databases (Google Scholar, ORCID)
+- ✅ **Course information** from university catalogs
+- ✅ **Event calendars** for faculty availability and events
+- ✅ **News/announcements** from Water Institute RSS feeds
+- ✅ **Grant data** from funding databases (NSF, NIH)
+
+### Potential MCP Servers to Build
+
+1. **UF Directory Server**
+   - Pull current contact info, office hours, faculty status
+   - Endpoint: UF LDAP or Directory API
+
+2. **Publications Server**
+   - Query Google Scholar, ResearchGate, ORCID for recent papers
+   - Auto-update publication lists
+
+3. **Course Catalog Server**
+   - Show what courses faculty are teaching this semester
+   - Link to course descriptions and schedules
+
+4. **Calendar/Events Server**
+   - Water Institute events, seminars, workshops
+   - Faculty office hours and availability
+
+5. **News Feed Server**
+   - Latest Water Institute news and announcements
+   - Research highlights and press releases
+
+### Implementation Considerations
+
+**When to Add MCP:**
+- Faculty data changes frequently and needs real-time updates
+- You want live features (calendar booking, publication search)
+- You have access to UF APIs (directory, research databases)
+- Budget allows for more robust hosting (live API calls)
+
+**Trade-offs:**
+- **Pros**: Always up-to-date, richer data, dynamic queries
+- **Cons**: More complex, additional API costs, requires maintenance
+
+### Architecture with MCP
+
+```
+┌─────────────┐
+│   Frontend  │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐      ┌──────────────────┐
+│   Backend   │◄────►│  MCP Servers     │
+│  (FastAPI)  │      │  - UF Directory  │
+└──────┬──────┘      │  - Publications  │
+       │             │  - Courses       │
+       ▼             │  - Events        │
+┌─────────────┐      └──────────────────┘
+│  ChromaDB   │
+│  (Fallback) │
+└─────────────┘
+```
+
+**Hybrid Approach (Recommended):**
+- Keep ChromaDB for faculty bios/research descriptions (static context)
+- Add MCP servers for live data (publications, courses, events)
+- Use ChromaDB as fallback when APIs are unavailable
+
+### Getting Started with MCP
+
+1. **Read the MCP Documentation**: https://modelcontextprotocol.io
+2. **Install MCP SDK**: `pip install mcp`
+3. **Build a simple MCP server** (e.g., faculty directory)
+4. **Integrate with FastAPI backend** to query MCP servers alongside ChromaDB
+5. **Test with live data** and monitor API usage/costs
+
+### Example MCP Server (Pseudocode)
+
+```python
+from mcp.server import Server
+import requests
+
+server = Server("uf-directory")
+
+@server.tool()
+def get_faculty_contact(name: str):
+    """Get current contact info for a faculty member"""
+    response = requests.get(f"https://directory.ufl.edu/api/faculty/{name}")
+    return response.json()
+
+@server.tool()
+def get_recent_publications(faculty_id: str, limit: int = 5):
+    """Get recent publications from Google Scholar"""
+    # Query Google Scholar API
+    pass
+```
+
+### Resources
+
+- **MCP Documentation**: https://modelcontextprotocol.io
+- **MCP GitHub**: https://github.com/anthropics/mcp
+- **Claude MCP Guide**: https://docs.anthropic.com/claude/docs/mcp
+
+**Note**: MCP integration is optional and can be added incrementally. The current RAG-based system works well for static faculty profiles. Consider MCP when you need real-time data or want to expand functionality beyond what's in the text files.
