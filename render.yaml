@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: water-institute-chatbot
+    env: python
+    region: oregon
+    plan: free
+    branch: main
+    buildCommand: "pip install -r backend/requirements.txt && cd backend && python ingest_faculty.py"
+    startCommand: "cd backend && uvicorn main:app --host 0.0.0.0 --port $PORT"
+    envVars:
+      - key: NAVIGATOR_UF_API_KEY
+        sync: false
+      - key: NAVIGATOR_API_ENDPOINT
+        sync: false
+      - key: PYTHON_VERSION
+        value: 3.11.0
