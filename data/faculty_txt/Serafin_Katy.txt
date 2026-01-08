@@ -1,0 +1,32 @@
+Name: Katy Serafin  
+Role: Assistant Professor  
+Academic Unit: Department of Geography, University of Florida  
+Email: kserafin@ufl.edu  
+Office: Turlington Hall 3140, Gainesville, FL 32611-7315  
+Website: https://geog.ufl.edu/directory/dr-katy-serafin/  
+Google Scholar: https://scholar.google.com/citations?user=9L14LJwAAAAJ&hl=en  
+
+Subject Areas (from CSV):  
+Climate; Data Analysis/Modeling/Artificial Intelligence; Sea Level Rise  
+
+Research Focus:  
+Dr. Katy Serafin is a coastal scientist whose work examines **extreme sea levels, compound coastal flooding hazards, and human-natural coupled systems** in a changing climate. She blends observational datasets, statistical and numerical modelling to delineate the frequency, drivers and impacts of coastal flooding and erosion events. Her current research includes analyses of compound flooding (e.g., simultaneous wave runup + storm surge + high tide), atmospheric‐river flood damage trends, and socio-hydrologic risk trajectories for coastal communities.  [oai_citation:0‡Geography](https://geog.ufl.edu/directory/dr-katy-serafin/)  
+
+Professional Bio:  
+Katy Serafin earned her PhD in Ocean, Earth, and Atmospheric Sciences (Oregon State University, 2017), followed by a post-doctoral appointment in the Department of Geophysics at Stanford University (2018–2019).  [oai_citation:1‡Geography](https://geog.ufl.edu/directory/dr-katy-serafin/) She joined the University of Florida as Assistant Professor in the Department of Geography, holds affiliate faculty status with the UF Water Institute and Florida Climate Institute, and conducts interdisciplinary research spanning hydrology, climate sciences, geospatial analytics, and risk assessment.  [oai_citation:2‡Geography](https://geog.ufl.edu/directory/dr-katy-serafin/) She teaches courses including GEO 2230 “Living with Rising Seas”, GEO 3222 “Sea Level Science”, and GEO 4285/6938 “Water Risk and Extreme Events”.  [oai_citation:3‡Geography](https://geog.ufl.edu/directory/dr-katy-serafin/)  
+
+Notable Publications (from Google Scholar):  
+- Serafin, K. A., Koseff, J. R., Ouyang, D. & Suckale, J. (2024). *“Moving from total risk to community-based risk trajectories increases transparency and equity in flood risk mitigation planning along urban rivers.”* Environmental Research Letters, 19(6).  [oai_citation:4‡Geography](https://geog.ufl.edu/directory/dr-katy-serafin/)  
+- Quadrado, G. P. & Serafin, K. A. (2024). *“The timing, magnitude, and relative composition of extreme total water levels vary seasonally along the US Atlantic coast.”* Journal of Geophysical Research: Oceans, 129(9).  [oai_citation:5‡Geography](https://geog.ufl.edu/directory/dr-katy-serafin/)  
+- Bowers, C., Serafin, K. A. & Baker, J. W. (2024). *“Uncovering Drivers of Atmospheric River Flood Damage Using Interpretable Machine Learning.”* Natural Hazards Review, 25(3).  [oai_citation:6‡Geography](https://geog.ufl.edu/directory/dr-katy-serafin/)  
+
+Representative Themes & Expertise:  
+- Coastal flood risk & extreme sea-level events  
+- Compound flooding (storm surge + waves + high tides)  
+- Coastal resilience and adaptation to climate change  
+- Data-driven modelling (statistical / numerical) of human–natural systems  
+- GIS, remote sensing and geospatial analytics for coastal hazards  
+- Socio-hydrologic risk trajectories & equity in flood mitigation  
+
+Keywords:  
+Coastal flood risk; sea level rise; compound flooding; extreme water levels; climate adaptation; wave run-up; storm surge; coastal resilience; geospatial modelling; data-driven risk assessment.  

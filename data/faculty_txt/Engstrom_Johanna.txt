@@ -1,0 +1,31 @@
+Name: Johanna Engström  
+Role: Assistant Professor, Department of Geography  
+Academic Unit: College of Liberal Arts & Sciences, University of Florida  
+Email: joem@ufl.edu  
+Website: https://geog.ufl.edu/directory/dr-johanna-engstrom/  
+Google Scholar: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7jzw2RFMDWOO9GcP_shBdzPNl7ZhSPC125s4dpZRveT-W8ytgCbSnvgcxcOLTGWn0z5GSoVLYRLAJwUaerUBo2FE5K6A&user=JtyX6GAAAAAJ
+
+Subject Areas (from CSV):
+Climate, Data Analysis/Modeling/Artificial Intelligence, Water Resource Management
+
+Research Focus:  
+Dr. Engström’s research centers on **hydro-climatology, large-scale climate drivers, renewable energy land-use, and sustainable water resources**. Her work combines geospatial methods, climate analysis, hydrological data and decision-support modelling to address the interplay between climate variability, water availability, energy systems and land use. For example, she looks at how drought/flood cycles and teleconnections affect water and energy systems in the Southeastern U.S. and globally.  [oai_citation:0‡Geography](https://geog.ufl.edu/directory/dr-johanna-engstrom/?utm_source=chatgpt.com)  
+
+Professional Bio:  
+Dr. Engström earned her PhD in Geography (2017) at the University of Florida, following an M.S. in Physical Geography & Ecosystem Analysis from Lund University, Sweden, and a B.S. in Physical Geography (also Lund).  [oai_citation:1‡Geography](https://geog.ufl.edu/wp-content/uploads/sites/60/Johanna-CV-2024.pdf?utm_source=chatgpt.com) She joined UF’s Department of Geography as Assistant Professor and is an affiliate faculty member with the UF Water Institute.  [oai_citation:2‡waterinstitute.ufl.edu](https://waterinstitute.ufl.edu/8438-2/?utm_source=chatgpt.com) Her academic trajectory includes studies of hydropower production, drought vulnerability, land-use transitions (e.g., abandoned mines to solar farms), and extreme hydro-climatic events such as “precipitation whiplash”.  
+
+Notable Publications:  
+1. Engström, J., Jafarzadegan, K., & Moradkhani, H. (2020). *“Drought Vulnerability in the United States: An Integrated Assessment.”* Water, 12(7), 2033. — Integrates hydroclimate, vulnerability and resilience in U.S. water systems.  [oai_citation:3‡Geography](https://geog.ufl.edu/wp-content/uploads/sites/60/Johanna-CV-2024.pdf?utm_source=chatgpt.com)  
+2. Keellings, D. & Engström, J. (2019). *“The Future of Drought in the Southeastern U.S.: Projections from Downscaled CMIP5 Models.”* Water, 11(2), 259. — Uses downscaled climate models to project drought risk in the southeastern U.S.  [oai_citation:4‡Geography](https://geog.ufl.edu/wp-content/uploads/sites/60/Johanna-CV-2024.pdf?utm_source=chatgpt.com)  
+3. Engström, J., & Waylen, P. R. (2018). *“Drivers of long-term precipitation and runoff variability in the southeastern USA.”* Theoretical and Applied Climatology, 131(3-4), 133-1146. — Examines natural and anthropogenic controls on rainfall and runoff variability.  [oai_citation:5‡Semantic Scholar](https://www.semanticscholar.org/paper/Drivers-of-long-term-precipitation-and-runoff-in-Engstr%C3%B6m-Waylen/1b77c261983cfbaf40472366ffd744e843422410?utm_source=chatgpt.com)  
+
+Representative Themes & Expertise:  
+- Hydro-climatology & teleconnection impacts  
+- Climate-water-energy nexus (hydropower, land use transitions)  
+- Drought/flood cycles and extreme events (precipitation whiplash)  
+- Renewable energy siting (land conversion from mines to solar)  
+- GIS, remote sensing and decision support tools for sustainability  
+- Mixed-methods: big-data climate analysis + stakeholder/use-case modelling  
+
+Keywords:  
+Hydroclimatology; drought vulnerability; climate resilience; renewable energy land-use; water-energy-food nexus; precipitation whiplash; GIS & remote sensing; sustainable water management; teleconnections; southeast USA climate; abandoned mines to solar farms.  

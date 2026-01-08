@@ -1,0 +1,29 @@
+Name: Matt Whiles  
+Role: Professor & Chair, Department of Soil, Water & Ecosystem Sciences  
+Academic Unit: University of Florida (UF/IFAS)  
+Website: https://soils.ifas.ufl.edu/people/faculty/matt-whiles/  
+Google Scholar: https://scholar.google.com/citations?hl=en&user=AnT99JsAAAAJ&gmla=AJsN-F72XRuIdEJANqxdRuXl9r0xQtgabv6tQuxzWQfCzqM-XkcqrmZuX7OpqZVJlOK5RLRdIHUmuEVHehadsqXEvBTOQdZNB5GIMKCyb5b_dFODNdxGPgE  
+
+Subject Areas (from CSV):  
+Aquatic Biology; Ecology; Sustainability; Water Resource Management  
+
+Research Focus:  
+Dr. Matt Whiles is a freshwater ecosystem ecologist whose work spans headwater streams, wetland ecosystems, and the interactions between biotic communities and ecosystem functions under environmental change. His research includes quantifying the roles that aquatic animals play in ecosystem processes (e.g., nutrient cycling, energy flow), understanding responses of freshwater systems to stressors (such as amphibian declines, hydrologic alteration, land-use change) and translating science into restoration and management of aquatic habitats.  [oai_citation:0‡freshwater-science.org](https://freshwater-science.org/environmental-stewardship-2019?utm_source=chatgpt.com)  
+
+Professional Bio:  
+Dr. Whiles holds a Ph.D. in Ecology (University of Georgia) and has held faculty positions focusing on freshwater ecology and ecosystem sciences. At UF, he chairs the Department of Soil, Water & Ecosystem Sciences. He has supervised many graduate students, published widely (~130+ papers) and co-authored a prominent textbook in freshwater ecology.  [oai_citation:1‡freshwater-science.org](https://freshwater-science.org/environmental-stewardship-2019?utm_source=chatgpt.com)  
+
+Notable Publications (selected):  
+1. Whiles, M.R., et al. (2025). *“Drought-induced decreases in abundance of emergent aquatic insects impair stream ecosystem function.”* Freshwater Biology. — Demonstrates how drought reduces aquatic insect emergence and alters stream function.  [oai_citation:2‡Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1111/fwb.70011?utm_source=chatgpt.com)  
+2. Allen, D., Jones, J., Whiles, M.R., et al. (2024). *“Forest-stream habitats keep energy exchanges in balance: global perspectives.”* Ecology Letters. — A global synthesis showing how forest‐stream energy exchanges are balanced across climates, noting Whiles’s contribution.  [oai_citation:3‡Pennsylvania State University](https://www.psu.edu/news/research/story/forest-stream-habitats-keep-energy-exchanges-balance-global-team-finds?utm_source=chatgpt.com)  
+
+Representative Themes & Expertise:  
+- Freshwater ecosystem ecology and biodiversity  
+- Headwater streams and amphibian declines  
+- Energy and nutrient flow across aquatic-terrestrial interfaces  
+- Impacts of hydrologic alteration, climate stress and land use on aquatic ecosystems  
+- Restoration and management of freshwater habitats  
+- Linking basic ecology to applied conservation and management  
+
+Keywords:  
+Freshwater ecology; streams; aquatic insects; ecosystem function; amphibian decline; headwater systems; nutrient cycling; energy flow; land use change; aquatic habitat restoration.

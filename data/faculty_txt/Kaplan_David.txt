@@ -1,0 +1,34 @@
+Name: David Kaplan  
+Role: Associate Professor; Director, H. T. Odum Center for Wetlands  
+Academic Unit: Department of Environmental Engineering Sciences, Engineering School of Sustainable Infrastructure & Environment (ESSIE), University of Florida  
+Office Phone: 352-392-8439  
+Email: dkaplan@ufl.edu  
+Website: https://www.watershedecology.org/  (Watershed Ecology Lab)  [oai_citation:0‡watershedecology.org](https://www.watershedecology.org/?utm_source=chatgpt.com)  
+Google Scholar: https://scholar.google.com/citations?user=KDAxey0AAAAJ&hl=en
+
+Subject Areas (from CSV):  
+Ecology, Hydraulics/Hydrology, Sustainability
+
+Research Focus:  
+Dr. Kaplan’s research examines the **linkages among the hydrologic cycle, ecosystem processes and human activities**, with a focus on wetland, watershed and freshwater‐coastal interface systems.  [oai_citation:1‡essie.ufl.edu](https://essie.ufl.edu/people/name/david-kaplan/?utm_source=chatgpt.com) He leads the Watershed Ecology Lab at UF, exploring how changes in land use, water withdrawals, restoration efforts, nutrient loads and climate variability influence hydrology, ecosystem function and management outcomes.  [oai_citation:2‡watershedecology.org](https://www.watershedecology.org/?utm_source=chatgpt.com)  
+His work spans hydrologic modelling, ecosystem services assessment, wetland restoration, and decision support for water resource and environmental management agencies.  [oai_citation:3‡University of Florida Experts](https://experts.ufl.edu/experts/david.kaplan/?utm_source=chatgpt.com)  
+
+Professional Bio:  
+Dr. Kaplan earned his B.S. from Cornell University in 2000 and his Ph.D. from the University of Florida in 2010.  [oai_citation:4‡essie.ufl.edu](https://essie.ufl.edu/people/name/david-kaplan/?utm_source=chatgpt.com) He is Associate Professor in the Department of Environmental Engineering Sciences at UF/ESSIE, and directs the H. T. Odum Center for Wetlands.  [oai_citation:5‡essie.ufl.edu](https://essie.ufl.edu/people/name/david-kaplan/?utm_source=chatgpt.com) His lab hosts researchers investigating subjects like groundwater‐surface water coupling, wetland ecohydrology, nutrient cycling, restoration outcomes and climate impacts on water systems.  [oai_citation:6‡watershedecology.org](https://www.watershedecology.org/people.html?utm_source=chatgpt.com)  
+
+Notable Publications (selected):  
+– Kaplan, D.A., et al. (2022). *“The past, present, and potential future of phosphorus management in the Florida Everglades.”* Journal of the Society for Ecological Restoration. — Investigation of P‐pollution in a major wetland system.  [oai_citation:7‡University of Florida Experts](https://experts.ufl.edu/experts/david.kaplan/?utm_source=chatgpt.com)  
+– Acharya, S., Kaplan, D.A., et al. (2022). *“In-Situ Quantification and Prediction of Water Yield From Southern US Pine Forests.”* Water Resources Research. — Study linking forest management to regional water yield.  [oai_citation:8‡University of Florida Experts](https://experts.ufl.edu/experts/david.kaplan/?utm_source=chatgpt.com)  
+– Kaplan, D.A., et al. (Year). *“Modeling the connections between hydrology, water quality, and ecosystem health to support coastal preservation efforts across the Northern Gulf Coast.”* — Examples of his agency‐collaborative modelling work on watershed-coastal systems.  [oai_citation:9‡caires.center.ufl.edu](https://caires.center.ufl.edu/faculty-affiliates/david-kaplan-4/?utm_source=chatgpt.com)  
+
+Representative Themes & Expertise:  
+- Watershed hydrology & ecohydrology  
+- Wetland restoration & ecosystem services  
+- Groundwater‐surface water coupling  
+- Nutrient (nitrogen/phosphorus) dynamics in aquatic systems  
+- Hydrologic modelling for management & restoration  
+- Water resource sustainability in agricultural, natural and coastal settings  
+- Climate change impacts on water systems  
+
+Keywords:  
+Watershed hydrology; ecohydrology; wetland restoration; nutrient cycling; hydrologic modelling; ecosystem services; surface‐groundwater linkages; water resource sustainability; restoration ecology; coastal wetland management.  

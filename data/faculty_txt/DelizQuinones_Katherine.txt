@@ -1,0 +1,33 @@
+Name: Katherine Deliz Quiñones  
+Role: Assistant Professor  
+Academic Unit: Department of Environmental Engineering Sciences, Engineering School of Sustainable Infrastructure & Environment (ESSIE), University of Florida  
+Phone: 352-846-3913  
+Email: katherine.deliz@essie.ufl.edu  
+Website: https://essie.ufl.edu/people/name/katherine-deliz-quinones/  
+Google Scholar: https://scholar.google.com/citations?user=t8vTtBQAAAAJ&hl=en
+
+Subject Areas (from CSV):  
+Aquatic Biology, Aquatic Chemistry, Climate, Data Analysis/Modeling/Artificial Intelligence, Ecology, Geography/Land Use, Geology/Soils, Hydraulics/Hydrology, Policy/Legal/Governance, Sustainability, Water Quality, Water Resource Management, Water Treatment
+
+Research Focus:  
+Dr. Deliz Quiñones investigates the fate, transport and remediation of environmental pollutants and pathogens within built, natural and human systems. Her research explores how anthropogenic activities — including contamination, waste streams, land-use change and disturbances — affect microbiomes, biogeochemical cycles, pathogen dynamics and exposure risk in water systems. She also engages in community-engaged research to reduce environmental health disparities and enhance resilience in vulnerable communities.  [oai_citation:0‡essie.ufl.edu](https://essie.ufl.edu/people/name/katherine-deliz-quinones/?utm_source=chatgpt.com)
+
+Professional Bio:  
+Dr. Deliz Quiñones earned her BS and MS in Biology at the University of Puerto Rico, Mayagüez Campus, with a concentration in limnology and microbiology; she received her PhD in Environmental Engineering Sciences (biogeochemistry) from the University of Florida.  [oai_citation:1‡essie.ufl.edu](https://essie.ufl.edu/people/name/katherine-deliz-quinones/?utm_source=chatgpt.com) Before joining academia, she worked for four years in environmental consulting as a project and QA manager focusing on risk assessments and remediation. She began her UF academic career in fall 2017.  [oai_citation:2‡essie.ufl.edu](https://essie.ufl.edu/people/name/katherine-deliz-quinones/?utm_source=chatgpt.com) Her current appointment is in the Department of Environmental Engineering Sciences and affiliated with Systems Ecology & Ecological Engineering and Water Systems in ESSIE.  [oai_citation:3‡essie.ufl.edu](https://essie.ufl.edu/people/name/katherine-deliz-quinones/)
+
+Notable Publications:  
+You can find a full list on her Google Scholar profile.  [oai_citation:4‡Google Scholar](https://scholar.google.com/citations?hl=en&user=t8vTtBQAAAAJ&utm_source=chatgpt.com)  
+Here are sample contributions:  
+- Deliz Quiñones, K., et al. … *“Prevalence and Characterization of Antibiotic-Resistant Bacteria in Wastewater and Reclaimed Water”* (2020) — study on antibiotic resistance in reclaimed water systems.  
+- Deliz Quiñones, K., et al. … *“The role of waste types on PFAS in landfills”* (2023) — investigation of PFAS release from landfill waste types. (Source: ExpertNet research listing)  [oai_citation:5‡expertnet.org](https://expertnet.org/index.cfm?fuseaction=experts.details&id=130257&utm_source=chatgpt.com)  
+- Deliz Quiñones, K., … earlier work focused on mercury remediation in soil amendments during her PhD.  [oai_citation:6‡Faculty Websites](https://faculty.eng.ufl.edu/katherine-deliz-quinones/who-are-we/dr-deliz-bio/?utm_source=chatgpt.com)  
+
+Representative Themes & Expertise:  
+- Fate/transport of emerging contaminants (PFAS, heavy metals, pathogens)  
+- Water systems, microbiomes and built/natural interface  
+- Environmental health risk & resilience in vulnerable communities  
+- Remediation technologies, in situ monitoring (IoT), ecological engineering  
+- Community engagement research (CEnR) and sustainability  
+
+Keywords:  
+Contaminant fate-transport; pathogen exposure; water systems engineering; ecological engineering; remediation; PFAS; antibiotic resistance; environmental microbiomes; community resilience; built-natural systems integration.  

@@ -1,0 +1,34 @@
+Name: H. Dail Laughinghouse IV  
+Role: Associate Professor of Applied Phycology  
+Academic Unit: Department of Agronomy (Ft. Lauderdale Research & Education Center), UF/IFAS  
+Website: https://flrec.ifas.ufl.edu/faculty/h-dail-laughinghouse/  [oai_citation:0‡FLREC](https://flrec.ifas.ufl.edu/faculty/h-dail-laughinghouse/?utm_source=chatgpt.com)  
+Google Scholar: https://scholar.google.com/citations?user=bMKssuwAAAAJ&hl=en  [oai_citation:1‡Google Scholar](https://scholar.google.com/citations?hl=en&user=bMKssuwAAAAJ&utm_source=chatgpt.com)  
+
+Research Focus:  
+Dr. Laughinghouse’s research centres on **phycology** (the study of algae) across a wide range of systems—from tropical to polar, freshwater to marine, applied to both ecosystem health and remediation.  [oai_citation:2‡agronomy.ifas.ufl.edu](https://agronomy.ifas.ufl.edu/people/dail-laughinghouse-iv/?utm_source=chatgpt.com)  
+Key themes include harmful algal blooms (HABs), cyanobacteria systematics, algal-based remediation technologies (e.g., algal turf scrubbers), nutrient cycling and water quality, metagenomics/metatranscriptomics of photoautotrophs, and vegetation/filtration systems coupling to water resources.  [oai_citation:3‡agronomy.ifas.ufl.edu](https://agronomy.ifas.ufl.edu/media/agronomyifasufledu/documents/Dail-Laughinghouse-CV.pdf?utm_source=chatgpt.com)  
+He works at the interface of basic biodiversity/systematics (e.g., novel cyanobacteria in tropics & polar regions) and applied environmental-engineering / aquatic ecology solutions (e.g., algal-based remediation or bloom control) for water quality management.  [oai_citation:4‡ResearchGate](https://www.researchgate.net/profile/H-Laughinghouse-Iv?utm_source=chatgpt.com)  
+
+Professional Bio:  
+Dr. Laughinghouse holds a Ph.D. in Marine-Estuarine-Environmental Sciences from the University of Maryland, College Park (2012) and a B.S. in Biological Sciences (with honors) from Universidade de Santa Cruz do Sul, Brazil (2007).  [oai_citation:5‡agronomy.ifas.ufl.edu](https://agronomy.ifas.ufl.edu/media/agronomyifasufledu/documents/Dail-Laughinghouse-CV.pdf?utm_source=chatgpt.com)  
+He joined the University of Florida’s Institute of Food and Agricultural Sciences (UF/IFAS) in 2017, affiliated with the Ft. Lauderdale Research & Education Center (FLREC) and Agronomy Department, and serves as an Extension specialist in harmful algal blooms via Florida Sea Grant.  [oai_citation:6‡FLREC](https://flrec.ifas.ufl.edu/faculty/h-dail-laughinghouse/?utm_source=chatgpt.com)  
+His lab (“Laughinghouse Lab”) spans taxonomy, ecology, biotechnology and restoration: e.g., cyanobacteria biodiversity, algal remediation for watersheds, bio-fuel work, algal turf scrubbers and control of cyanobacteria in Florida freshwater/estuarine systems.  [oai_citation:7‡agronomy.ifas.ufl.edu](https://agronomy.ifas.ufl.edu/media/agronomyifasufledu/documents/Dail-Laughinghouse-CV.pdf?utm_source=chatgpt.com)  
+
+Subject Areas (from CSV):  
+Aquatic Biology; Aquatic Chemistry; Ecosystem Resilience; Water Quality; Water Resource Management; Water Treatment  
+
+Notable Publications (from Google Scholar):  
+1. Laughinghouse IV, H. D., Lefler, F. W. G., & Berthold, D. E. G. (2021). *“Untangling filamentous marine cyanobacterial diversity … with description of Vermifilum gen. nov.”* Molecular Phylogenetics & Evolution. — Demonstrates novel cyanobacteria taxonomy and implications for aquatic-ecosystem health.  [oai_citation:8‡agronomy.ifas.ufl.edu](https://agronomy.ifas.ufl.edu/media/agronomyifasufledu/documents/Dail-Laughinghouse-CV.pdf?utm_source=chatgpt.com)  
+2. Wood, S. A.; Kelly, L.; Bouma-Gregson, K.; Humbert, J. F.; Laughinghouse IV, H. D.; Lazorchak, J.; McAllister, T.; McQueen, A.; Puddick, J.; Quibbler, C.; Reitz, L.; Ryan, K.; Vadeboncoeur, Y.; Zastepa, A.; Davis, T. (2020). *“Toxic benthic freshwater cyanobacterial proliferations: challenges and solutions…”* Freshwater Biology, 65(10): 1824-1842. — Addresses emerging benthic cyanobacteria and management challenges in light of water-quality risks.  [oai_citation:9‡agronomy.ifas.ufl.edu](https://agronomy.ifas.ufl.edu/media/agronomyifasufledu/documents/Dail-Laughinghouse-CV.pdf?utm_source=chatgpt.com)  
+3. Jang, M.; Berthold, D. E. G.; Yu, Z.; Silva-Sanchez, C.; Laughinghouse IV, H. D.; Denslow, N.; Han, S. (2020). *“Atmospheric Progression of Microcystin-LR from Cyanobacterial Aerosol.”* Environmental Science & Technology Letters, 7(10): 740-745. — Shows how cyanotoxins may mobilize to the air, broadening aquatic-health implications to atmospheric pathways.  [oai_citation:10‡agronomy.ifas.ufl.edu](https://agronomy.ifas.ufl.edu/media/agronomyifasufledu/documents/Dail-Laughinghouse-CV.pdf?utm_source=chatgpt.com)  
+
+Representative Themes & Expertise:  
+- Algal ecology and phycology (freshwater, estuarine, polar)  
+- Cyanobacteria biodiversity and harmful-algal-bloom science  
+- Algal remediation technologies (algal turf scrubbers, phycoremediation)  
+- Nutrient cycling and water‐quality management (focus: Florida & beyond)  
+- Metagenomics, systematics, bio-engineering of algae for ecosystem services  
+- Field, lab and extension outreach bridging aquatic science and community/agency needs  
+
+Keywords:  
+Phycology; harmful algal blooms; cyanobacteria; algal-remediation; aquatic toxicology; aquatic ecosystem resilience; bioengineering algae; water quality; nutrient loading; aquatic geomicrobiology; algal turf scrubbers; Florida waters; polar microbial ecology.  

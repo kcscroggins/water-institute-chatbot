@@ -1,0 +1,29 @@
+Name: Mike Allen  
+Role: Director, Nature Coast Biological Station; Professor, Fisheries & Aquatic Sciences  
+Academic Unit: School of Forest Resources and Conservation, UF/IFAS  
+Email: msal@ufl.edu  
+Phone: (352) 325-6078
+
+Subject Areas (from CSV):
+Aquatic Biology, Data Analysis/Modeling/Artificial Intelligence, Ecology, Policy/Legal/Governance, Water Quality, Water Resource Management 
+
+Research Focus:  
+Mike Allen’s research program centres on fish population dynamics and fish community ecology in response to fishing pressure, habitat change, and species interactions. He employs a blend of empirical field studies, pond experiments, and computer simulation modelling to assess how various management strategies affect recreational fisheries. His current projects include evaluating coastal habitat restoration (such as living shorelines and reef-ball installations along the Cedar Key coastline) to support marine fish communities and prevent erosion.
+
+Professional Bio:  
+Dr. Mike Allen is a fisheries scientist and educator who serves as Director of the Nature Coast Biological Station (NCBS) and Professor in the Fisheries & Aquatic Sciences program at the University of Florida.  [oai_citation:0‡ncbs.ifas.ufl.edu](https://ncbs.ifas.ufl.edu/faculty/mike-allen/?utm_source=chatgpt.com) He completed his PhD in Fisheries and Statistics at Mississippi State University (1996) and holds an MS in Fisheries from Auburn University (1992) and a BS in Fisheries Ecology from Texas A&M University (1990).  [oai_citation:1‡ffgs.ifas.ufl.edu](https://ffgs.ifas.ufl.edu/faculty/allen-mike/?utm_source=chatgpt.com)
+
+Professor Allen’s work spans species-level to ecosystem-level questions, including how fishing mortality and habitat degradation influence fish populations, and how restoration efforts can reverse degradation of aquatic ecosystems. His work on recreational fisheries management has evaluated length-based regulation, harvest slot strategies (protecting older and larger fish), and habitat enhancement in lakes, reservoirs and marine environments.  [oai_citation:2‡ffgs.ifas.ufl.edu](https://ffgs.ifas.ufl.edu/faculty/allen-mike/?utm_source=chatgpt.com)  
+
+He holds courses such as FAS 6337C: Fish Population Dynamics and FAS 5276C: Field Ecology of Aquatic Organisms at UF.  [oai_citation:3‡ffgs.ifas.ufl.edu](https://ffgs.ifas.ufl.edu/faculty/allen-mike/?utm_source=chatgpt.com) Allen is recognized for using simulation models to support fisheries management decisions and engaging in interdisciplinary work across aquatic biology, modeling, governance and water resource management.  [oai_citation:4‡waterinstitute.ufl.edu](https://waterinstitute.ufl.edu/people/affiliate-faculty/?utm_source=chatgpt.com)  
+
+Representative Publications & Impacts:  
+- Allen, M.S. & Hightower, J.E. (2010). “Fish population dynamics: mortality, growth, and recruitment.” Inland Fisheries Management in North America 3: 43-79.  [oai_citation:5‡Google Scholar](https://scholar.google.com/citations?hl=en&user=mzmgWusAAAAJ&utm_source=chatgpt.com)  
+- Shaw, S.L. & Allen, M.S. (2014). “Localized spatial and temporal variation in reproductive effort of Florida Bass.” Transactions of the American Fisheries Society 143: 85-96.  [oai_citation:6‡ffgs.ifas.ufl.edu](https://ffgs.ifas.ufl.edu/faculty/allen-mike/?utm_source=chatgpt.com)  
+- Gwinn, D.C., Allen, M.S., Johnston, F.D., Brown, P., Todd, C.R., Arlinghaus, R. (2013). “Rethinking length-based fisheries regulations: the value of protecting old and large fish with harvest slots.” Fish and Fisheries.  [oai_citation:7‡ffgs.ifas.ufl.edu](https://ffgs.ifas.ufl.edu/faculty/allen-mike/?utm_source=chatgpt.com)  
+
+Contact & Affiliation:  
+Nature Coast Biological Station, PO Box 878, Cedar Key, FL 32625.  [oai_citation:8‡ffgs.ifas.ufl.edu](https://ffgs.ifas.ufl.edu/faculty/allen-mike/?utm_source=chatgpt.com)  
+Associated Faculty, UF Water Institute: “Aquatic Biology, Data Analysis/Modeling, Ecology, Policy/Legal/Governance, Water Quality, Water Resource Management.”  [oai_citation:9‡waterinstitute.ufl.edu](https://waterinstitute.ufl.edu/people/affiliate-faculty/?utm_source=chatgpt.com)
+
+Keywords: Fisheries science, fish population dynamics, recreational fisheries management, habitat restoration, coastal ecology, fish community responses, simulation modelling, living shorelines.

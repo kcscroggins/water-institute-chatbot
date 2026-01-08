@@ -1,0 +1,31 @@
+Name: Seonkyoo (Sean) Yoon  
+Role: Assistant Professor, Department of Geological Sciences  
+Academic Unit: College of Liberal Arts & Sciences, University of Florida  
+Email: yoon.s@ufl.edu  
+Website: https://yoon-group.github.io/  
+Google Scholar: https://scholar.google.com/citations?user=7vsoWfwAAAAJ [oai_citation:0‡Google Scholar](https://scholar.google.com/citations?hl=en&user=7vsoWfwAAAAJ&utm_source=chatgpt.com)  
+
+Subject Areas (from CSV):  
+Data Analysis/Modeling/Artificial Intelligence; Hydraulics/Hydrology; Water Resource Management  
+
+Research Focus:  
+Dr. Yoon is a physical hydrologist whose research investigates the dynamics of fluid flow and reactive transport in geological media—particularly porous and fractured rock systems.  [oai_citation:1‡geology.ufl.edu](https://geology.ufl.edu/directory/dr-seonkyoo-yoon/?utm_source=chatgpt.com) His work blends theoretical, computational, experimental and field-based approaches to understand how subsurface structure, flow inertia, diffusion, mixing, and geochemical reactions influence transport of water, solutes and energy across scales. For example, his group at the Yoon Research Group focuses on multiscale hydrogeology & geofluid processes, including karst water transport, acid-rock fracturing, and naturally generated hydrogen.  [oai_citation:2‡waterinstitute.ufl.edu](https://waterinstitute.ufl.edu/11861-2/?utm_source=chatgpt.com)  
+
+Professional Bio:  
+Seonkyoo Yoon received his Ph.D. in Civil & Environmental Engineering from Massachusetts Institute of Technology (2016) and previously held post-doctoral research positions. [oai_citation:3‡geology.ufl.edu](https://geology.ufl.edu/wp-content/uploads/sites/220/cv_Yoon.pdf?utm_source=chatgpt.com) He joined the University of Florida as Assistant Professor in the Department of Geological Sciences where he continues his integrative research program in hydrogeology and transport. He leads both the Geofluids Lab and the Quantitative Hydrogeology Lab in the Yoon Research Group, which uses high-performance computing, micro-fluidics, fluorescence spectroscopy and field work to study subsurface fluid/solute dynamics. [oai_citation:4‡yoon-group.github.io](https://yoon-group.github.io/?utm_source=chatgpt.com)  
+
+Notable Publications (selected):  
+1. Yoon, S., & Kang, P. K. (2021). *“Roughness, inertia, and diffusion effects on anomalous transport in rough channel flows.”* Physical Review Fluids. — Investigates how channel wall roughness and flow inertia generate anomalous tracer transport.  [oai_citation:5‡geology.ufl.edu](https://geology.ufl.edu/wp-content/uploads/sites/220/cv_Yoon.pdf?utm_source=chatgpt.com)  
+2. Wang, L., Yoon, S., Zheng, L., et al. (2023). *“Flux exchange between fracture and matrix dictates late-time tracer tailing.”* Journal of Hydrology. — Demonstrates how fracture-matrix exchange controls solute tailing in fractured rock.  [oai_citation:6‡geology.ufl.edu](https://geology.ufl.edu/wp-content/uploads/sites/220/cv_Yoon.pdf?utm_source=chatgpt.com)  
+3. Kim, T., Han, W.S., Yoon, S., Kang, P.K., et al. (2024). *“Evaluation of the Impact of Transition from Porous to Fractured Rock Media on 3D Field-scale DNAPLs Contamination.”* Journal of Hazardous Materials. — Field-scale examination of DNAPL transport in fractured media.  [oai_citation:7‡geology.ufl.edu](https://geology.ufl.edu/wp-content/uploads/sites/220/cv_Yoon.pdf?utm_source=chatgpt.com)  
+
+Representative Themes & Expertise:  
+- Hydrogeology & fractured-rock flow  
+- Reactive transport and mixing in subsurface media  
+- Porous-to-fractured media transitions and contaminant fate  
+- Computational modelling and high-performance simulation of subsurface flow  
+- Karst aquifer processes, natural hydrogen, aquifer recharge  
+- Field, laboratory and modelling integration  
+
+Keywords:  
+Fractured-rock hydrology; reactive transport; fluid–rock interaction; karst water systems; high-performance computing; subsurface mixing; DNAPL transport; geological media flow; water resource sustainability; aquifer recharge.  

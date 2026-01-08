@@ -1,0 +1,35 @@
+Name: Christa D. Court  
+Role: Associate Professor of Regional Economics; Director, Economic Impact Analysis Program  
+Academic Unit: Food and Resource Economics Department, UF/IFAS  
+Office: Economic Impact Analysis Program, 1121 MCCB, University of Florida  
+Phone: 352-294-7675  
+Email: ccourt@ufl.edu  
+Google Scholar: https://scholar.google.com/citations?user=Wabc0RcAAAAJ&hl=en  
+Personal Website: https://fred.ifas.ufl.edu/about/directory/christa-court/ 
+
+Subject Areas (from CSV):  
+Data Analysis/Modeling/Artificial Intelligence, Economics, Education/Communication, Historical/Social/Cultural, Sustainability, Water Resource Management
+
+Research Focus:  
+Dr. Court’s work emphasizes **regional economic modeling of human-natural system interactions**, with particular strength in disaster impact analysis for agriculture, forestry, fisheries, coastal and food industries. Her research program within the Economic Impact Analysis Program (EIAP) focuses on quantifying short- and long-term economic impacts of events such as hurricanes, harmful algal blooms, oil spills, pandemics and other stressors on Florida’s natural-resource and food sectors.  [oai_citation:0‡fred.ifas.ufl.edu](https://fred.ifas.ufl.edu/about/directory/christa-court/?utm_source=chatgpt.com)  
+She applies integrated economic-impact methods (e.g., input-output modeling, IMPLAN, econometrics) to assess **economic contributions, losses, and resilience** of industry sectors tied to water, natural resources, food systems, and disaster events. Her outputs include extension reports, fact sheets, and peer-reviewed journal articles aimed at informing policy, stakeholder management and resilience planning.  [oai_citation:1‡Ask IFAS - Powered by EDIS](https://edis.ifas.ufl.edu/experts/ccourt?utm_source=chatgpt.com)  
+
+Professional Bio:  
+Dr. Court earned her Ph.D. in Economics from West Virginia University (2012), preceded by an M.S. in Economics (2008) and a B.S./B.A. in Economics and Spanish from Middle Tennessee State University (2006).  [oai_citation:2‡fred.ifas.ufl.edu](https://fred.ifas.ufl.edu/about/directory/christa-court/?utm_source=chatgpt.com)  
+She directs the University of Florida’s EIAP, which collaborates with industry, government and extension to assess regional economic impacts of natural resource-based sectors and disaster events across Florida.  [oai_citation:3‡fred.ifas.ufl.edu](https://fred.ifas.ufl.edu/about/directory/christa-court/?utm_source=chatgpt.com)  
+Her affiliate faculty roles include the UF Water Institute, Florida Sea Grant, and the Regional Research Institute at WVU, reflecting multidisciplinary reach across water, food, environment and economics.  [oai_citation:4‡fred.ifas.ufl.edu](https://fred.ifas.ufl.edu/about/directory/christa-court/?utm_source=chatgpt.com)  
+
+Notable Publications (from Google Scholar / CV):  
+1. Court, C.D., Ferreira, J.P.P., Botta, R.P., McDaid, K. (2023). *“Economic Contributions of the Agriculture, Natural Resource, and Food Industries in Florida, 2019.”* UF/IFAS Extension Publication FE1136. — This study provides a comprehensive state-level baseline of economic contributions across Florida’s ag, natural resource and food sectors, informing policy and stakeholder analyses.  [oai_citation:5‡fred.ifas.ufl.edu](https://fred.ifas.ufl.edu/media/fredifasufledu/directory/cvs/faculty/Court-Academic-CV-March-20-2024.pdf?utm_source=chatgpt.com)  
+2. Botta, R.P., Court, C.D., Camp, E.V. (2023). *“Measuring the short‐term economic impacts of ecological restoration: A case study of Lone Cabbage Reef.”* UF/IFAS Extension Publication FE1133. — Demonstrates the economic output, jobs and value added associated with coastal ecological restoration, illustrating the “restoration economy.”  [oai_citation:6‡Ask IFAS - Powered by EDIS](https://edis.ifas.ufl.edu/experts/ccourt?utm_source=chatgpt.com)  
+3. Cruz, J., Ferreira, J.P.P., Court, C.D., & McDaid, K. (2024). *“2020-2021 Economic Contributions of the Florida Citrus Industry.”* UF/IFAS Extension Publication. — Focuses on the structural economic significance of Florida’s citrus sector within regional/regional frameworks and implications of crop losses.  [oai_citation:7‡FLVC Journals](https://journals.flvc.org/edis/article/view/134997?utm_source=chatgpt.com)  
+
+Representative Themes & Expertise:  
+- Regional economic modelling and input-output analysis  
+- Disaster impacts (hurricanes, oil spills, harmful algal blooms) on agriculture & food-natural‐resource sectors  
+- Economic contributions, value chains & resilience of fisheries, forestry, aquaculture  
+- Integrated human-natural systems economics (water, land use, environment)  
+- Extension-focused publications, stakeholder analysis, policy translation  
+
+Keywords:  
+Regional economics; economic impact analysis; natural-resource economics; disaster resilience; input-output modelling; fisheries economics; water-economics; ecological restoration economics; agriculture value chains; coastal economy.

@@ -1,0 +1,30 @@
+Name: Davie M. Kadyampakeni  
+Role: Associate Professor, Soil, Water & Ecosystem Sciences  
+Academic Unit: Citrus Research & Education Center (CREC), UF/IFAS  
+Phone: (863) 956-8843  
+Email: dkadyampakeni@ufl.edu  
+Website: https://crec.ifas.ufl.edu/people/faculty/davie-kadyampakeni/  
+Google Scholar: https://scholar.google.com/citations?user=_TvqRccAAAAJ&hl=en
+
+Subject Areas (from CSV):  
+Climate, Data Analysis/Modeling/Artificial Intelligence, Hydraulics/Hydrology, Water Quality, Water Resource Management
+
+Research Focus:  
+Dr. Kadyampakeni’s research emphasizes sustainable water management, nutrient dynamics and precision irrigation in citrus production systems, particularly under the dual pressures of high productivity demands and water-quality constraints. His program develops and implements decision-support tools and best management practices for surface and ground water conservation, drainage/irrigation optimization, and nutrient management in subtropical/horticultural systems. On a regional scale, his work addresses how citrus production interfaces with ecosystem water budgets, hydrologic resilience, and regulatory frameworks.  [oai_citation:0‡Citrus Research and Education Center](https://crec.ifas.ufl.edu/people/faculty/davie-kadyampakeni/)  
+
+Professional Bio:  
+Dr. Kadyampakeni earned his PhD in Soil & Water Science from the University of Florida in 2012, preceded by an MS in Agronomy (Irrigation) from the University of Malawi (2005) and a BS in Agricultural Engineering (University of Malawi, 2002).  [oai_citation:1‡Citrus Research and Education Center](https://crec.ifas.ufl.edu/people/faculty/davie-kadyampakeni/)  
+Before his current role he worked internationally in Malawi and Ghana on irrigation and water-management projects including a World Bank/IFAD assignment, and at the International Water Management Institute in Ghana.  [oai_citation:2‡Citrus Research and Education Center](https://crec.ifas.ufl.edu/people/faculty/davie-kadyampakeni/)  
+At UF/IFAS’s Citrus Research & Education Center, he leads applied research on water‐use efficiency, irrigation scheduling, precision agriculture technologies for water and nutrient management, and conservation of soil and water resources in citrus production.  [oai_citation:3‡Citrus Research and Education Center](https://crec.ifas.ufl.edu/people/faculty/davie-kadyampakeni/)  
+
+Selected Expertise & Themes:  
+- Precision irrigation & drainage systems in horticulture  
+- Soil–water–nutrient interactions under intensive crop production  
+- Water‐use efficiency and water‐quality conservation practices  
+- Modeling of water budgets for citrus systems  
+- Best management practices (BMPs) for surface/ground‐water in production landscapes  
+- Plant–soil–water system interactions, evapotranspiration, root‐zone dynamics  
+- Application of remote/automated sensing and decision‐support tools for irrigation  
+
+Keywords:  
+Water-use efficiency; precision irrigation; citrus production; nutrient management; drainage and surface/ground water interactions; soil–water science; ecosystem water budgets; water‐quality conservation; horticultural water management; decision-support tools.  

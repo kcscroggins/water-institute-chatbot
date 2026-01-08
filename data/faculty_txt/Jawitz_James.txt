@@ -1,0 +1,30 @@
+Name: James W. Jawitz  
+Role: Professor of Landscape Hydrology; Professor, Soil, Water & Ecosystem Sciences  
+Academic Unit: Department of Soil, Water & Ecosystem Sciences, UF/IFAS, University of Florida  
+Website: https://www.landscapehydrology.org/what-we-do/  
+Google Scholar: https://scholar.google.com/citations?user=nW8_WI0AAAAJ&hl=en 
+
+Subject Areas (from CSV):
+Data Analysis/Modeling/Artificial Intelligence, Hydraulics/Hydrology, Sustainability, Water Quality, Water Resource Management, Water Treatment 
+
+Research Focus:  
+Dr. Jawitz’s research programme addresses **water resource sustainability** within natural and managed hydrologic systems. He develops and applies hydro-ecological and biogeochemical modelling frameworks for watersheds, wetlands, aquifers and urban water systems. His work investigates how human activities—such as contaminant release, land-use change, nutrient loading and water withdrawals—impact hydrologic and ecological integrity, and how remediation or restoration strategies can mitigate those impacts.  [oai_citation:0‡soils.ifas.ufl.edu](https://soils.ifas.ufl.edu/people/faculty/james-w-jawitz/?utm_source=chatgpt.com)
+
+Professional Bio:  
+Dr. Jawitz is a Professor in the Department of Soil, Water & Ecosystem Sciences at the University of Florida (UF/IFAS). In his role he leads the Landscape Hydrology Laboratory.  [oai_citation:1‡soils.ifas.ufl.edu](https://soils.ifas.ufl.edu/people/faculty/james-w-jawitz/?utm_source=chatgpt.com) His teaching includes courses such as “Water Resource Sustainability” and “Contaminant Subsurface Hydrology”.  [oai_citation:2‡soils.ifas.ufl.edu](https://soils.ifas.ufl.edu/people/faculty/james-w-jawitz/?utm_source=chatgpt.com) His academic training and earlier work have combined soil science, groundwater hydrology and ecosystem services. According to UF Research Foundation sources, his overarching theme is securing sufficient water for human and agricultural users while protecting natural hydrologic systems.  [oai_citation:3‡ufrfprofessors.research.ufl.edu](https://ufrfprofessors.research.ufl.edu/jawitz-james/?utm_source=chatgpt.com)
+
+Notable Publications (from Google Scholar):  
+1. Jawitz, J.W. & Mitchell, J. (2011). “Temporal inequality of catchment discharge and solute export.” *Water Resources Research*, 47, W00J14. — Advances understanding of how catchments vary in time and influence solute export.  [oai_citation:4‡soils.ifas.ufl.edu](https://soils.ifas.ufl.edu/people/faculty/james-w-jawitz/?utm_source=chatgpt.com)  
+2. Padowski, J.C., & Jawitz, J.W. (2012). “Water availability and vulnerability of 225 large cities in the United States.” *Water Resources Research*, 48, W12529. — Large-scale assessment of urban water vulnerability in the U.S.  [oai_citation:5‡soils.ifas.ufl.edu](https://soils.ifas.ufl.edu/people/faculty/james-w-jawitz/?utm_source=chatgpt.com)  
+3. Yang, M., Annable, M.D., & Jawitz, J.W. (2014). “Light reflection visualization to determine solute diffusion into clays.” *Journal of Contaminant Hydrology*, 161:1-9. — Study of solute diffusion in clay aquifer systems, relevant to contaminant remediation.  [oai_citation:6‡soils.ifas.ufl.edu](https://soils.ifas.ufl.edu/people/faculty/james-w-jawitz/?utm_source=chatgpt.com)  
+
+Representative Themes & Expertise:  
+- Landscape hydrology & watershed ecology  
+- Wetlands, aquifers and contaminant transport  
+- Hydrologic systems modelling (surface/subsurface)  
+- Biogeochemical cycling & ecosystem services in aquatic systems  
+- Water resource sustainability for agriculture, urban, and natural systems  
+- Field and analytical work on nutrient loads, man-made disturbances and restoration  
+
+Keywords:  
+Landscape hydrology; water sustainability; watershed modelling; wetland ecology; contaminant transport; aquifer remediation; biogeochemistry; nutrient loading; natural and managed water systems; ecosystem services.  
