@@ -45,7 +45,7 @@ class ChatResponse(BaseModel):
 
 @app.get("/")
 async def root():
-    return {"status": "Water Institute Faculty Chatbot API is running"}
+    return {"status": "Water Institute Chatbot API is running"}
 
 @app.get("/health")
 async def health():
@@ -74,11 +74,14 @@ async def chat(request: ChatRequest):
             {
                 "role": "system",
                 "content": f"""You are a helpful assistant for the UF Water Institute.
-                You answer questions about faculty members based on the provided information.
-                Be concise, friendly, and accurate. If you don't have information to answer
-                a question, politely say so and suggest contacting the Water Institute directly.
+                You answer questions about the Water Institute, including faculty members, research areas,
+                programs, facilities, partnerships, and general information about the institute.
 
-                Context about faculty members:
+                Be concise, friendly, and accurate. Use the provided context to answer questions.
+                If you don't have enough information to answer a question, politely say so and
+                suggest contacting the Water Institute directly or visiting their website.
+
+                Relevant context:
                 {context}"""
             }
         ]

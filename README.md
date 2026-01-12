@@ -1,12 +1,35 @@
-# UF Water Institute Faculty Chatbot
+# UF Water Institute Chatbot
 
-A RAG-powered chatbot that answers questions about UF Water Institute faculty members using GPT-4o and ChromaDB.
+A RAG-powered chatbot that answers questions about the UF Water Institute, including faculty members, research areas, programs, facilities, and partnerships. Built with GPT-4o and ChromaDB.
 
 ## Live Deployment
 
 - **Frontend**: https://polite-sunshine-495327.netlify.app
 - **Backend API**: https://water-institute-chatbot.onrender.com
 - **GitHub Repository**: https://github.com/kcscroggins/water-institute-chatbot
+
+## Recent Updates (January 2026)
+
+### New Feature: General Water Institute Information
+
+The chatbot now answers questions about the entire Water Institute, not just faculty members!
+
+**What's New:**
+- ✅ Added general institute information data (`data/general_info/`)
+- ✅ Populated with real public information from UF Water Institute website
+- ✅ Enhanced ingestion script to process both faculty and general data
+- ✅ Updated system prompt to handle broader range of questions
+
+**New Information Available:**
+- **About**: Mission, vision, history, and core functions (established 2006)
+- **Research Areas**: $164M+ in active research, key themes, specialized projects
+- **Programs**: Graduate Fellows Program (WIGF), HSAC, travel awards
+- **Facilities**: Main office (570 Weil Hall), lab access, field sites
+- **Partnerships**: UF collaborations, Duke Energy, stakeholder engagement
+- **Contact**: Phone (352-392-5893), address, director info (Dr. Matt Cohen)
+
+**Data Sources:**
+All information was gathered from publicly available sources including the official UF Water Institute website (waterinstitute.ufl.edu) and related UF resources.
 
 ## Setup Instructions
 
@@ -31,7 +54,11 @@ NAVIGATOR_UF_API_KEY=sk-...your_key_here
 NAVIGATOR_API_ENDPOINT=https://api.ai.it.ufl.edu/v1
 ```
 
-### 3. Ingest Faculty Data into ChromaDB
+### 3. Ingest Data into ChromaDB
+
+The chatbot uses two types of data:
+- **Faculty profiles**: Located in `data/faculty_txt/` (16 faculty members)
+- **General institute info**: Located in `data/general_info/` (about, research areas, programs, facilities, partnerships, contact)
 
 ```bash
 cd backend
@@ -41,9 +68,15 @@ python ingest_faculty.py
 You should see output like:
 ```
 Found 16 faculty files
-Processing Mike Allen: 8 chunks
+Processing faculty: Mike Allen: 8 chunks
 ...
-✅ Successfully ingested 120 chunks from 16 faculty files
+Found 6 general info files
+Processing general info: About: 5 chunks
+Processing general info: Research Areas: 4 chunks
+...
+✅ Successfully ingested 150+ total chunks:
+   - 120+ faculty chunks
+   - 30+ general info chunks
 ```
 
 ### 4. Start the Backend Server
@@ -68,11 +101,19 @@ Then visit `http://localhost:3000`
 
 ## Testing the Chatbot
 
-Try asking questions like:
+### Faculty Questions:
 - "What is Mike Allen's research about?"
 - "Who studies water quality?"
 - "Tell me about Lisa Krimsky's expertise"
 - "Which faculty members work on climate change?"
+
+### General Institute Questions:
+- "What programs does the Water Institute offer?"
+- "How much research funding does the Water Institute have?"
+- "Where is the Water Institute located?"
+- "Who is the director of the Water Institute?"
+- "What are the main research areas of the Water Institute?"
+- "What partnerships does the Water Institute have?"
 
 ## Production Deployment
 
@@ -141,7 +182,33 @@ Add this iframe code to your WordPress page (in "Code" or "HTML" mode):
 - **Frontend**: Vanilla HTML/CSS/JS (no dependencies)
 - **AI Model**: GPT-4o via UF Navigator API (adjustable in `main.py`)
 - **Vector DB**: ChromaDB (persistent storage in `chroma/db/`)
+- **Data**: Faculty profiles (16) + General institute info (6 topics)
 - **Hosting**: Render.com (backend) + Netlify (frontend)
+
+## Data Structure
+
+```
+data/
+├── faculty_txt/              # Faculty profile information
+│   ├── Allen_Mike.txt
+│   ├── Krimsky_Lisa.txt
+│   └── ... (16 total)
+│
+└── general_info/             # Water Institute general information
+    ├── about.txt            # Mission, vision, history, core functions
+    ├── research_areas.txt   # Research themes, funding, projects
+    ├── programs.txt         # WIGF, HSAC, travel awards
+    ├── facilities.txt       # Office location, lab access, field sites
+    ├── partnerships.txt     # UF collaborations, stakeholders
+    └── contact.txt          # Address, phone, director info
+```
+
+**How It Works:**
+1. Both folders are ingested into a single ChromaDB collection
+2. Each chunk is tagged with metadata (`type: "faculty"` or `type: "general"`)
+3. When users ask questions, ChromaDB retrieves the most relevant chunks
+4. GPT-4o generates answers based on the retrieved context
+5. Sources are displayed to show where the information came from
 
 ## API Endpoints
 
@@ -149,7 +216,7 @@ Add this iframe code to your WordPress page (in "Code" or "HTML" mode):
 - `GET /health` - Check database status
 - `POST /chat` - Chat endpoint
   - Request: `{"message": "your question", "conversation_history": []}`
-  - Response: `{"response": "answer", "sources": ["Faculty Name"]}`
+  - Response: `{"response": "answer", "sources": ["Faculty Name" or "Water Institute - Topic"]}`
 
 ## Customization
 
@@ -168,6 +235,38 @@ n_results=3  # Increase for more context, decrease for faster responses
 ### Customize Colors
 Edit the CSS in `frontend/index.html` to match your WordPress theme.
 
+## Updating Data
+
+### Adding or Updating Faculty Profiles
+
+1. Add or edit `.txt` files in `data/faculty_txt/`
+2. Re-run the ingestion script:
+   ```bash
+   cd backend
+   python ingest_faculty.py
+   ```
+3. Restart the backend server (or redeploy on Render)
+
+### Updating General Institute Information
+
+1. Edit the relevant `.txt` files in `data/general_info/`:
+   - `about.txt` - Mission, vision, history
+   - `research_areas.txt` - Research themes and projects
+   - `programs.txt` - Educational programs
+   - `facilities.txt` - Facilities and resources
+   - `partnerships.txt` - Collaborations
+   - `contact.txt` - Contact information
+
+2. Re-run the ingestion script:
+   ```bash
+   cd backend
+   python ingest_faculty.py
+   ```
+
+3. Restart the backend server (or redeploy on Render)
+
+**Note**: On Render, the ingestion script runs automatically during deployment via the build command.
+
 ---
 
 ## Future Enhancement: MCP Integration
@@ -176,13 +275,15 @@ Edit the CSS in `frontend/index.html` to match your WordPress theme.
 
 MCP (Model Context Protocol) is Anthropic's open standard for connecting AI systems to external data sources and tools in real-time. It allows your chatbot to access "live" data instead of relying on static, pre-ingested information.
 
-### Current Limitations
+### Current Capabilities & Limitations
 
-**Current Setup:**
-- Static data stored in ChromaDB
-- Must manually re-run `ingest_faculty.py` to update information
-- Limited to text files in the `data/` folder
-- No real-time information
+**Current Setup (RAG with Static Data):**
+- ✅ Faculty profiles and expertise (16 faculty members)
+- ✅ General Water Institute information (mission, programs, research, facilities, partnerships)
+- ✅ Static data stored in ChromaDB
+- ⚠️ Must manually re-run `ingest_faculty.py` to update information
+- ⚠️ Limited to text files in the `data/` folder
+- ⚠️ No real-time information (events, news, course schedules)
 
 ### MCP Benefits
 

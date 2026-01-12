@@ -1,6 +1,6 @@
 """
-Script to ingest faculty text files into ChromaDB vector database.
-Run this once to populate the database with faculty information.
+Script to ingest faculty and general info text files into ChromaDB vector database.
+Run this once to populate the database with faculty and Water Institute information.
 """
 
 import chromadb
@@ -20,7 +20,7 @@ def chunk_text(text: str, chunk_size: int = 500, overlap: int = 50) -> list[str]
 
     return chunks
 
-def ingest_faculty_files():
+def ingest_all_data():
     # Initialize ChromaDB
     chroma_client = chromadb.PersistentClient(path="../chroma/db")
 
@@ -36,38 +36,74 @@ def ingest_faculty_files():
         metadata={"hnsw:space": "cosine"}
     )
 
-    # Path to faculty files
+    # Paths to data directories
     faculty_dir = Path("../data/faculty_txt")
+    general_dir = Path("../data/general_info")
 
-    # Process each faculty file
+    # Process all files
     documents = []
     metadatas = []
     ids = []
 
-    faculty_files = list(faculty_dir.glob("*.txt"))
-    print(f"Found {len(faculty_files)} faculty files")
+    # Process faculty files
+    if faculty_dir.exists():
+        faculty_files = list(faculty_dir.glob("*.txt"))
+        print(f"Found {len(faculty_files)} faculty files")
 
-    for idx, file_path in enumerate(faculty_files):
-        with open(file_path, 'r', encoding='utf-8') as f:
-            content = f.read()
+        for file_path in faculty_files:
+            with open(file_path, 'r', encoding='utf-8') as f:
+                content = f.read()
 
-        # Extract faculty name from filename
-        faculty_name = file_path.stem.replace('_', ' ')
+            # Extract faculty name from filename
+            faculty_name = file_path.stem.replace('_', ' ')
 
-        # Chunk the content
-        chunks = chunk_text(content)
+            # Chunk the content
+            chunks = chunk_text(content)
 
-        print(f"Processing {faculty_name}: {len(chunks)} chunks")
+            print(f"Processing faculty: {faculty_name}: {len(chunks)} chunks")
 
-        # Add each chunk to the collection
-        for chunk_idx, chunk in enumerate(chunks):
-            documents.append(chunk)
-            metadatas.append({
-                "source": faculty_name,
-                "file": file_path.name,
-                "chunk": chunk_idx
-            })
-            ids.append(f"{file_path.stem}_{chunk_idx}")
+            # Add each chunk to the collection
+            for chunk_idx, chunk in enumerate(chunks):
+                documents.append(chunk)
+                metadatas.append({
+                    "source": faculty_name,
+                    "file": file_path.name,
+                    "chunk": chunk_idx,
+                    "type": "faculty"
+                })
+                ids.append(f"faculty_{file_path.stem}_{chunk_idx}")
+    else:
+        print(f"⚠️  Faculty directory not found: {faculty_dir}")
+
+    # Process general info files
+    if general_dir.exists():
+        general_files = list(general_dir.glob("*.txt"))
+        print(f"\nFound {len(general_files)} general info files")
+
+        for file_path in general_files:
+            with open(file_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+
+            # Extract topic from filename
+            topic = file_path.stem.replace('_', ' ').title()
+
+            # Chunk the content
+            chunks = chunk_text(content)
+
+            print(f"Processing general info: {topic}: {len(chunks)} chunks")
+
+            # Add each chunk to the collection
+            for chunk_idx, chunk in enumerate(chunks):
+                documents.append(chunk)
+                metadatas.append({
+                    "source": f"Water Institute - {topic}",
+                    "file": file_path.name,
+                    "chunk": chunk_idx,
+                    "type": "general"
+                })
+                ids.append(f"general_{file_path.stem}_{chunk_idx}")
+    else:
+        print(f"⚠️  General info directory not found: {general_dir}")
 
     # Add all documents to ChromaDB
     if documents:
@@ -76,10 +112,14 @@ def ingest_faculty_files():
             metadatas=metadatas,
             ids=ids
         )
-        print(f"\n✅ Successfully ingested {len(documents)} chunks from {len(faculty_files)} faculty files")
+        faculty_count = sum(1 for m in metadatas if m.get("type") == "faculty")
+        general_count = sum(1 for m in metadatas if m.get("type") == "general")
+        print(f"\n✅ Successfully ingested {len(documents)} total chunks:")
+        print(f"   - {faculty_count} faculty chunks")
+        print(f"   - {general_count} general info chunks")
         print(f"Collection now contains {collection.count()} documents")
     else:
         print("❌ No documents to ingest")
 
 if __name__ == "__main__":
-    ingest_faculty_files()
+    ingest_all_data()
