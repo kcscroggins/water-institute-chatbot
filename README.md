@@ -10,6 +10,21 @@ A RAG-powered chatbot that answers questions about the UF Water Institute, inclu
 
 ## Recent Updates (January 2026)
 
+### Bulk Faculty Import (January 22, 2026)
+
+Expanded faculty database from 17 detailed profiles to **369 total faculty members** using the Water Institute's affiliate faculty database.
+
+**What's New:**
+- ✅ Imported 352 new affiliate faculty members from Excel database
+- ✅ Each faculty file includes: name, role, department, email, and keywords
+- ✅ Preserved 17 existing detailed profiles (Cohen, Kaplan, Krimsky, etc.)
+- ✅ All faculty tagged as "Affiliate Faculty, UF Water Institute"
+
+**Next Steps:**
+- Run `python ingest_faculty.py` to re-ingest all 369 faculty files
+- Optionally run `python enrich_faculty.py` to add publication data via Dimensions API
+- Redeploy to Render to update production
+
 ### New Feature: General Water Institute Information
 
 The chatbot now answers questions about the entire Water Institute, not just faculty members!
@@ -57,7 +72,7 @@ NAVIGATOR_API_ENDPOINT=https://api.ai.it.ufl.edu/v1
 ### 3. Ingest Data into ChromaDB
 
 The chatbot uses two types of data:
-- **Faculty profiles**: Located in `data/faculty_txt/` (16 faculty members)
+- **Faculty profiles**: Located in `data/faculty_txt/` (369 faculty members)
 - **General institute info**: Located in `data/general_info/` (about, research areas, programs, facilities, partnerships, contact)
 
 ```bash
@@ -67,15 +82,16 @@ python ingest_faculty.py
 
 You should see output like:
 ```
-Found 16 faculty files
+Found 369 faculty files
 Processing faculty: Mike Allen: 8 chunks
+Processing faculty: Youngho Kim: 3 chunks
 ...
 Found 6 general info files
 Processing general info: About: 5 chunks
 Processing general info: Research Areas: 4 chunks
 ...
-✅ Successfully ingested 150+ total chunks:
-   - 120+ faculty chunks
+✅ Successfully ingested 1500+ total chunks:
+   - 1400+ faculty chunks
    - 30+ general info chunks
 ```
 
@@ -182,17 +198,18 @@ Add this iframe code to your WordPress page (in "Code" or "HTML" mode):
 - **Frontend**: Vanilla HTML/CSS/JS (no dependencies)
 - **AI Model**: GPT-4o via UF Navigator API (adjustable in `main.py`)
 - **Vector DB**: ChromaDB (persistent storage in `chroma/db/`)
-- **Data**: Faculty profiles (16) + General institute info (6 topics)
+- **Data**: Faculty profiles (369) + General institute info (6 topics)
 - **Hosting**: Render.com (backend) + Netlify (frontend)
 
 ## Data Structure
 
 ```
 data/
-├── faculty_txt/              # Faculty profile information
-│   ├── Allen_Mike.txt
-│   ├── Krimsky_Lisa.txt
-│   └── ... (16 total)
+├── faculty_txt/              # Faculty profile information (369 total)
+│   ├── Allen_Mike.txt        # Detailed profile (17 with full research info)
+│   ├── Cohen_Matt.txt        # Director - detailed profile
+│   ├── Kim_Youngho.txt       # Affiliate faculty (352 basic profiles)
+│   └── ...
 │
 └── general_info/             # Water Institute general information
     ├── about.txt            # Mission, vision, history, core functions
@@ -202,6 +219,10 @@ data/
     ├── partnerships.txt     # UF collaborations, stakeholders
     └── contact.txt          # Address, phone, director info
 ```
+
+**Faculty Profile Types:**
+- **Detailed profiles (17)**: Full research descriptions, publications, education, keywords
+- **Basic profiles (352)**: Name, department, email, role as Water Institute affiliate
 
 **How It Works:**
 1. Both folders are ingested into a single ChromaDB collection
@@ -349,7 +370,7 @@ MCP (Model Context Protocol) is Anthropic's open standard for connecting AI syst
 ### Current Capabilities & Limitations
 
 **Current Setup (RAG with Static Data):**
-- ✅ Faculty profiles and expertise (16 faculty members)
+- ✅ Faculty profiles and expertise (369 faculty members - 17 detailed, 352 basic)
 - ✅ General Water Institute information (mission, programs, research, facilities, partnerships)
 - ✅ Static data stored in ChromaDB
 - ⚠️ Must manually re-run `ingest_faculty.py` to update information
