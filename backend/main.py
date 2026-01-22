@@ -81,6 +81,12 @@ async def chat(request: ChatRequest):
                 If you don't have enough information to answer a question, politely say so and
                 suggest contacting the Water Institute directly or visiting their website.
 
+                IMPORTANT: When answering questions about a specific faculty member, ALWAYS include their
+                Google Scholar link and Website URL at the end of your response if these are available
+                in the context. Format them as clickable links like this:
+                - Website: [link]
+                - Google Scholar: [link]
+
                 Relevant context:
                 {context}"""
             }

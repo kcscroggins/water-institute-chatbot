@@ -1,9 +1,10 @@
-Name: Bridget B. Baker  
-Role: Research Assistant Professor; Co-PI, UF Marine Animal Rescue Program  
-Academic Unit: Department of Wildlife Ecology & Conservation, UF/IFAS  
-Office: 322 Newins-Ziegler Hall  
-Phone: 352-846-0358  
-Email: bridgetbaker@ufl.edu  
+Name: Bridget B. Baker
+Role: Research Assistant Professor; Co-PI, UF Marine Animal Rescue Program
+Academic Unit: Department of Wildlife Ecology & Conservation, UF/IFAS
+Office: 322 Newins-Ziegler Hall
+Phone: 352-846-0358
+Email: bridgetbaker@ufl.edu
+Website: https://wec.ifas.ufl.edu/people/wec-faculty/
 Google Scholar: https://scholar.google.com/citations?user=ajVHP8MAAAAJ&hl=en
 
 Subject Areas (from CSV):  

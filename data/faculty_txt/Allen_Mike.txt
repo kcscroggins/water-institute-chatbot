@@ -1,8 +1,10 @@
-Name: Mike Allen  
-Role: Director, Nature Coast Biological Station; Professor, Fisheries & Aquatic Sciences  
-Academic Unit: School of Forest Resources and Conservation, UF/IFAS  
-Email: msal@ufl.edu  
+Name: Mike Allen
+Role: Director, Nature Coast Biological Station; Professor, Fisheries & Aquatic Sciences
+Academic Unit: School of Forest Resources and Conservation, UF/IFAS
+Email: msal@ufl.edu
 Phone: (352) 325-6078
+Website: https://ffgs.ifas.ufl.edu/faculty/allen-mike/
+Google Scholar: https://scholar.google.com/citations?user=mzmgWusAAAAJ&hl=en
 
 Subject Areas (from CSV):
 Aquatic Biology, Data Analysis/Modeling/Artificial Intelligence, Ecology, Policy/Legal/Governance, Water Quality, Water Resource Management 
