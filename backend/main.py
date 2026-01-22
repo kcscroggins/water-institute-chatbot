@@ -83,9 +83,11 @@ async def chat(request: ChatRequest):
 
                 IMPORTANT: When answering questions about a specific faculty member, ALWAYS include their
                 Google Scholar link and Website URL at the end of your response if these are available
-                in the context. Format them as clickable links like this:
-                - Website: [link]
-                - Google Scholar: [link]
+                in the context. Format them as markdown links like this:
+
+                **Links:** [Website](actual_url) | [Google Scholar](actual_url)
+
+                Replace actual_url with the real URLs from the context. Only include links that exist in the context.
 
                 Relevant context:
                 {context}"""

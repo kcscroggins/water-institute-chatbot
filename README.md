@@ -269,6 +269,77 @@ Edit the CSS in `frontend/index.html` to match your WordPress theme.
 
 ---
 
+## Faculty Data Enrichment (Dimensions API)
+
+Enrich faculty profiles with publications, grants, and citation metrics from [Dimensions.ai](https://www.dimensions.ai/).
+
+### Setup
+
+1. Get a Dimensions API key from your Dimensions account
+2. Add to your `.env` file:
+   ```
+   DIMENSIONS_API_KEY=your_key_here
+   ```
+
+### Usage
+
+```bash
+cd backend
+
+# Enrich all faculty (takes ~2-3 min due to rate limiting)
+python enrich_faculty.py
+
+# Enrich specific faculty member
+python enrich_faculty.py --name "David Kaplan"
+
+# Preview changes without saving
+python enrich_faculty.py --dry-run
+```
+
+### What It Adds
+
+For each faculty member, the script queries Dimensions and appends:
+
+- **Citation Metrics**: Total publications, citations, h-index
+- **Recent Publications**: Last 5 years, sorted by citations (with DOI links)
+- **Research Grants**: Active/recent grants with funding amounts and funders
+
+### Example Output
+
+After running, faculty files will include a section like:
+
+```
+--- Enriched Data (Updated: 2026-01-22) ---
+
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 87
+- Total Citations: 3,421
+- H-Index: 32
+- Average Citations per Paper: 39.3
+
+Recent Publications (from Dimensions.ai):
+- Watershed hydrology and ecohydrology... *Water Resources Research* (2024) - 45 citations
+  DOI: https://doi.org/10.1029/...
+
+Research Grants (from Dimensions.ai):
+- Modeling coastal wetland responses to sea level rise (2023-2026) - $450,000
+  Funder: National Science Foundation
+```
+
+### After Enrichment
+
+1. Review the updated files in `data/faculty_txt/`
+2. Re-ingest: `python ingest_faculty.py`
+3. Redeploy to Render (or restart local server)
+
+### Notes
+
+- Rate limited to 30 requests/minute (script handles this automatically)
+- Searches by name + "University of Florida" affiliation
+- For better matching, add ORCID IDs to faculty files in the future
+
+---
+
 ## Future Enhancement: MCP Integration
 
 ### What is MCP?
