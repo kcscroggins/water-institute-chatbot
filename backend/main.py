@@ -57,7 +57,7 @@ async def chat(request: ChatRequest):
         # Query ChromaDB for relevant faculty information
         results = collection.query(
             query_texts=[request.message],
-            n_results=3  # Get top 3 most relevant chunks
+            n_results=5  # Get top 5 most relevant chunks for better matching
         )
 
         # Build context from retrieved documents
@@ -80,6 +80,13 @@ async def chat(request: ChatRequest):
                 Be concise, friendly, and accurate. Use the provided context to answer questions.
                 If you don't have enough information to answer a question, politely say so and
                 suggest contacting the Water Institute directly or visiting their website.
+
+                FLEXIBLE MATCHING: Be flexible when interpreting user queries:
+                - Handle minor typos and misspellings in names (e.g., "Mathew" = "Matthew", "Kohen" = "Cohen")
+                - Recognize reordered phrases (e.g., "watershed ecohydrology & hydrology" = "watershed hydrology & ecohydrology")
+                - Match partial names (e.g., "Dr. Cohen" or "Matt" should match "Matthew J. Cohen")
+                - Understand synonyms and related terms (e.g., "water science" ≈ "hydrology", "publications" ≈ "papers" ≈ "research")
+                - If a query seems close to something in the context, make the connection and answer helpfully
 
                 CRITICAL REQUIREMENT: When answering questions about a specific faculty member, you MUST include their
                 Website and Google Scholar links at the END of your response. Look for lines starting with "Website:" and
