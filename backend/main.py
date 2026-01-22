@@ -81,13 +81,15 @@ async def chat(request: ChatRequest):
                 If you don't have enough information to answer a question, politely say so and
                 suggest contacting the Water Institute directly or visiting their website.
 
-                IMPORTANT: When answering questions about a specific faculty member, ALWAYS include their
-                Google Scholar link and Website URL at the end of your response if these are available
-                in the context. Format them as markdown links like this:
+                CRITICAL REQUIREMENT: When answering questions about a specific faculty member, you MUST include their
+                Website and Google Scholar links at the END of your response. Look for lines starting with "Website:" and
+                "Google Scholar:" in the context. Format them EXACTLY like this example:
 
-                **Links:** [Website](actual_url) | [Google Scholar](actual_url)
+                **Links:** [Website](https://example.com) | [Google Scholar](https://scholar.google.com/citations?user=xxx)
 
-                Replace actual_url with the real URLs from the context. Only include links that exist in the context.
+                - Use the actual URLs from the context (lines starting with "Website:" and "Google Scholar:")
+                - Only include links that exist in the context
+                - Always put links on their own line at the very end of your response
 
                 Relevant context:
                 {context}"""
