@@ -24,10 +24,10 @@ Enriched faculty profiles with detailed research information, publications, educ
 - ✅ Added: Education, Research Focus, Notable Publications, Awards, Teaching, Keywords
 - ✅ Sources: UF faculty pages, department websites, and web search results
 
-**Phase 3: Manual Enrichment (Ongoing)**
-- 📋 Created `data/faculty_needing_enrichment.csv` to track remaining faculty
-- 📋 Workflow: User provides research info → Update profile with education, publications, policy relevance → Remove from tracking CSV
-- ✅ Manually enriched 231 profiles (January 23-27, 2026), including:
+**Phase 3: Manual Enrichment (Complete)**
+- ✅ Created `data/faculty_needing_enrichment.csv` to track remaining faculty
+- ✅ Workflow: User provides research info → Update profile with education, publications, policy relevance → Remove from tracking CSV
+- ✅ Manually enriched 298 profiles (January 23-27, 2026), including:
   - Damian C. Adams (Natural Resource Economics, Associate Dean for Research)
   - Peter N. Adams (Geological Sciences, Geomorphology)
   - Shinsuke Agehara (Horticulture, GCREC)
@@ -88,10 +88,10 @@ keyword1; keyword2; keyword3; ...
 - **With Google Scholar/Website**: 97+ (URLs added during enrichment)
 - **Awaiting Enrichment**: 0 (complete!)
 
-**Next Steps:**
-- Continue manual enrichment using `data/faculty_needing_enrichment.csv`
-- Run `python ingest_faculty.py` to re-ingest after enrichment
-- Redeploy to Render to update production
+**Enrichment Complete!**
+- All 369 faculty profiles have been enriched
+- Run `python ingest_faculty.py` to re-ingest all profiles
+- Redeploy to Render to update production (auto-deploys on push to main)
 
 ---
 
@@ -290,11 +290,11 @@ Add this iframe code to your WordPress page (in "Code" or "HTML" mode):
 
 ```
 data/
-├── faculty_txt/                        # Faculty profile information (369 total)
+├── faculty_txt/                        # Faculty profile information (369 total - all enriched)
 │   ├── Cohen_Matt.txt                  # Director - detailed profile
-│   ├── AbdElrahman_Amr.txt             # Enriched profile (71 total)
+│   ├── AbdElrahman_Amr.txt             # Enriched profile
 │   ├── Graham_Wendy.txt                # Enriched profile
-│   ├── Kim_Youngho.txt                 # Basic profile (297 remaining)
+│   ├── Zimmerman_Andrew.txt            # Enriched profile
 │   └── ...
 │
 ├── general_info/                       # Water Institute general information
