@@ -1,13 +1,29 @@
 Name: Hardeep Singh
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Agronomy
+Academic Unit: Agronomy; West Florida Research and Education Center (WFREC), Jay
 Email: hardeep.singh1@ufl.edu
+Title: Assistant Professor & Cropping System Specialist
+
+Google Scholar: https://scholar.google.com/citations?user=3dTw_p8AAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Cropping system design and evaluation, Nutrient management and nitrogen loss mitigation, Cover crop integration and weed management strategies, Sustainable input use and crop fertility optimization
+
+Education:
+- Ph.D. in Agronomy/Crop Science
+- Research focus on cropping systems and nutrient management
 
 Research Focus:
-Dr. Singh is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agronomy.
+Dr. Singh is known for his research and extension work on sustainable cropping systems, nutrient management, weed and cover-crop interactions in row crops, and approaches to reduce nitrogen and other nutrient losses in agricultural landscapes. His work integrates field experimentation with cropping system design to address both agronomic productivity and environmental outcomes, especially in the Florida Panhandle and southeastern US. He employs field trials and long-term cropping system experiments, nutrient cycling and in-field monitoring such as petiole nitrate-N sampling, extension fact sheets and knowledge products for growers and consultants, and integration of technology including optical sensors and aerial imaging for crop monitoring. Research systems include row crop systems in the Florida Panhandle and Southeast US, peanut and cotton production systems with integrated cover crops and nutrient strategies, and emerging crops like hemp.
+
+Notable Publications:
+- Mitigating Nitrogen Losses in Row Crop Production Systems summarizing N cycling types of losses and approaches for reduction in Florida row crops - UF/IFAS (2023)
+- Extension fact sheets on crop nutrient management petiole sampling for in-season N decisions and nutrient deficiency guidance
+- Field research on cover crop cereal rye termination timing and effects on weed pressure and peanut yield - Weed Technology (2025)
+- Journal publications on enhanced efficiency fertilizers and nutrient use efficiency in row crops
+
+Policy Relevance:
+Dr. Singh's research supports evidence-based nutrient management and cropping system practices that reduce environmental nutrient losses while sustaining productivity, informing sustainable agricultural policy and BMP recommendations. His work directly investigates how cropping system design and nutrient management practices influence soil nutrient dynamics, weed suppression, and nutrient losses, which are essential components of sustainable agricultural ecosystems and water quality outcomes. His work influences nutrient and fertilizer best practices, cover crop and weed management integration, and on-farm decision support and BMP adoption.
 
 Keywords:
-Water Institute affiliate; Agronomy.
+agronomy; cropping systems; nutrient management; nitrogen; cover crops; weed management; peanut; cotton; corn; soybean; hemp; Florida Panhandle; nutrient loss mitigation; sustainable agriculture; fertilizer efficiency; row crops; WFREC

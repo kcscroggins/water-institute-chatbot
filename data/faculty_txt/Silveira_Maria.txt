@@ -1,13 +1,29 @@
-Name: Maria Silveira
+Name: Maria L. Silveira
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Soil and Water Sciences
+Academic Unit: Soil, Water, and Ecosystem Sciences; Range Cattle Research and Education Center
 Email: mlas@ufl.edu
+Title: Professor of Soil Science
+
+Google Scholar: https://scholar.google.com/citations?user=llySupIAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Grassland biogeochemistry, Nutrient cycling and soil fertility in pastures, Soil carbon sequestration and greenhouse gas mitigation, Water quality in grazing ecosystems, Nutrient management strategies for sustainable production
+
+Education:
+- Ph.D. in Soil Science
+- Research focus on grassland biogeochemistry and nutrient cycling
 
 Research Focus:
-Dr. Silveira is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Soil and Water Sciences.
+Dr. Silveira is known for her work in grassland biogeochemistry, nutrient cycling, and environmental soil science, especially as they relate to nutrient management, soil carbon dynamics, water quality, and ecosystem services in grassland and grazing land systems. She integrates soil nutrient processes with agronomic and ecological outcomes, particularly under forage production and pasture management systems. She employs field experiments on pasture nutrient and carbon dynamics, soil and water nutrient flux measurements, assessment of fertilization grazing and land management effects on soil properties, and integration of biogeochemical data with ecosystem service outcomes. Research systems include subtropical grassland ecosystems, pasture and grazing land systems for beef cattle and forage production, and soils and water in Florida and similar environments.
+
+Notable Publications:
+- Soil organic carbon characterization and pools - Geoderma
+- Collaborative rangeland and pasture science papers on grazing land productivity and ecosystem services - Journal of Environmental Quality, Rangelands, Grassland Science
+- Nutrient and forage responses to fertilization and management in perennial grasses including potassium and phosphorus responses
+- Long history of work bridging soil chemistry nutrient cycles and applied grazing land research
+
+Policy Relevance:
+Dr. Silveira's work supports sustainable land and water policies by generating evidence on nutrient and carbon processes in pastures, improving grazing land productivity while minimizing environmental impacts and enhancing ecosystem services. Her research directly addresses how soil nutrient processes and carbon dynamics operate and respond to management, contributing to both ecosystem function understanding and practical conservation strategies in agricultural systems. Her work influences soil nutrient and carbon cycling, water quality and pasture management practices, and ecosystem service quantification including carbon sequestration and nutrient retention.
 
 Keywords:
-Water Institute affiliate; Soil and Water Sciences.
+soil science; grassland biogeochemistry; nutrient cycling; soil carbon; carbon sequestration; water quality; grazing lands; pasture management; forage production; soil fertility; phosphorus; potassium; ecosystem services; Range Cattle Research Center; subtropical soils; greenhouse gas mitigation

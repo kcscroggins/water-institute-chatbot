@@ -1,13 +1,27 @@
-Name: Alex Sheremet
+Name: Alexandru (Alex) Sheremet
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Civil and Coastal Engineering, ESSIE
+Academic Unit: Civil and Coastal Engineering; Engineering School of Sustainable Infrastructure & Environment (ESSIE)
 Email: ashere@ufl.edu
+Title: University Term Professor
 
 Subject Areas:
-Water-related research
+Coastal and oceanographic engineering, Fluid mechanics and wave behavior, Wave-sediment interaction and seabed processes, Boat wake and coastal hydrodynamics impacts, Coastal ecosystem dynamics and sediment transport
+
+Education:
+- Ph.D. in Coastal/Ocean Engineering
+- Research focus on wave dynamics and nearshore processes
 
 Research Focus:
-Dr. Sheremet is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Civil and Coastal Engineering, ESSIE.
+Dr. Sheremet is known for his fundamental and applied research in coastal and oceanographic engineering, particularly in wave dynamics, nearshore processes, sediment transport, and fluid mechanics in coastal environments. He has contributed to understanding how waves, currents, and wake dynamics interact with seabed sediments and coastal systems, including boat wakes and their environmental impacts, and how these physical processes influence coastal morphology and ecosystem conditions. He employs experimental and theoretical fluid mechanics, numerical and analytical modeling of wave transformation and sediment interactions, time series and spectral analysis of hydrodynamics, field observations and statistical characterizations of wakes and coastal flows, and integration of hydrodynamic observations with coastal response analysis. Research systems include nearshore coastal environments, Florida coastal and intracoastal waters, shelf and surfzone regions where wave and sediment processes interact, and boat-wake influenced waterways and mangrove and shoreline ecotones.
+
+Notable Publications:
+- Observations of large infragravity wave runup and shoaling behavior relevant to coastal storm impacts and sediment dynamics
+- Modeling the statistical behavior of boat wakes and influence on coastal sediment mobilization shoreline erosion and turbidity - Journal of Geophysical Research: Oceans
+- Numerical models for nonlinear wave evolution and wake-bed interactions
+- Research on physical drivers of coastal morphological change
+
+Policy Relevance:
+Dr. Sheremet's research supports coastal resilience and management by improving understanding of physical processes such as wakes, waves, and sediment transport that influence coastal change and habitat health, informing erosion mitigation and sustainable waterway use. His work addresses wave and hydrodynamic drivers that directly shape coastal environments, including sediment mobilization, shoreline change, and coastal response to anthropogenic forcing such as boat traffic. His work influences physical coastal drivers including waves wakes and currents, sediment transport and shoreline change, and modeling and interpretation of coastal environmental dynamics.
 
 Keywords:
-Water Institute affiliate; Civil and Coastal Engineering, ESSIE.
+coastal engineering; oceanographic engineering; wave dynamics; fluid mechanics; sediment transport; nearshore processes; boat wakes; coastal hydrodynamics; shoreline erosion; coastal morphology; infragravity waves; wave-sediment interaction; Florida coast; surfzone; coastal resilience

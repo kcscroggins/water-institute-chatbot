@@ -1,13 +1,30 @@
-Name: Jason Vogel
+Name: Jason G. Vogel
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: School of Forest Resources and Conservation
 Email: jvogel@ufl.edu
+Title: Associate Professor; Forest Ecosystems Scientist
+
+Google Scholar: https://scholar.google.com/citations?user=Uj_Ksi8AAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Forest nutrient cycling and ecosystem biogeochemistry including carbon and nitrogen dynamics, Forest structure growth and resilience to climate and disturbance, Silvicultural systems and management for resilience and multiple ecosystem benefits
+
+Education:
+- Ph.D. in Forest Ecology/Ecosystem Science
+- Research focus on forest biogeochemistry and nutrient cycling
 
 Research Focus:
-Dr. Vogel is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in School of Forest Resources and Conservation.
+Dr. Vogel is known for forest ecosystems research focusing on nutrient cycling, forest structure and growth, resilience of forest processes to disturbance and climate change, and silvicultural approaches to sustain forest ecosystem functions. His work integrates ecological, biogeochemical, and management perspectives to understand how forests maintain productivity, nutrient balance, and structural complexity under environmental change and human intervention. He employs field ecological measurements including growth biomass and nutrient pools in forests, nutrient and carbon balance analyses across forest gradients and treatments, long-term ecological and silvicultural experiments, and integration of process-based ecological understanding with forest management scenarios. Research systems include Southern U.S. forest ecosystems especially pine systems such as longleaf pine, managed and natural forest stands varying in disturbance regimes and management histories, and research that informs sustainable forest management for multiple ecosystem services.
+
+Notable Publications:
+- Research on carbon allocation and nutrient dynamics in boreal and other forest ecosystems linking soil temperature and precipitation patterns to forest carbon and nutrient cycling
+- Applied forest ecology and nutrient stewardship with implications for silviculture disturbance recovery and climate resilience
+- Extension-oriented outputs on uneven-aged management systems in longleaf pine linking ecological understanding to management guidance for non-industrial landowners and agencies
+- Publications spanning peer-reviewed journals and collaborative research on forest biogeochemistry nutrient dynamics structural ecology and forest management
+- Work bridging highly cited ecological process research and practical silvicultural strategies relevant to forest stewardship
+
+Policy Relevance:
+Dr. Vogel's research informs forest management and conservation policy by clarifying how nutrient and carbon processes interact with disturbance, climate variability, and silviculture, advancing sustainable ecosystem stewardship. He advances understanding of how forests process nutrients and carbon under varying management and environmental conditions, shedding light on the mechanisms that sustain forest productivity and resilience, essential for informed decisions about forest conservation, climate mitigation, and resource stewardship. His research influences forest nutrient and carbon cycling processes, sustained productivity and resilience of forest ecosystems, and integration of ecological mechanisms with silvicultural practices.
 
 Keywords:
-Water Institute affiliate; School of Forest Resources and Conservation.
+forest ecology; nutrient cycling; carbon cycling; biogeochemistry; forest structure; silviculture; longleaf pine; Southern U.S. forests; forest resilience; disturbance; climate change; forest management; ecosystem services; nitrogen dynamics

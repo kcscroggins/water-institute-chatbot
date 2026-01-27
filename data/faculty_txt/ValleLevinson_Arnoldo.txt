@@ -2,12 +2,29 @@ Name: Arnoldo Valle-Levinson
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Civil and Coastal Engineering, ESSIE
 Email: arnoldo@ufl.edu
+Title: Professor
+
+Google Scholar: https://scholar.google.com/citations?user=2lZZB4oAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Coastal hydrodynamics and physical oceanography, Estuarine exchange and circulation mechanisms, Sea-level variability tides and subtidal flows, Numerical and analytical modeling of coastal flow, Interaction of wind density gradients and tides on transport processes, Impacts of coastal dynamics on nutrient sediment and organism transport
+
+Education:
+- Ph.D. in Physical Oceanography/Coastal Engineering
+- Research focus on coastal hydrodynamics and estuarine circulation
 
 Research Focus:
-Dr. Valle-Levinson is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Civil and Coastal Engineering, ESSIE.
+Dr. Valle-Levinson is a leading coastal physical oceanographer and hydrodynamic engineer whose research focuses on estuarine and coastal circulation, water exchange processes, tidal and subtidal flows, and coastal ocean dynamics. He integrates field observations, analytical theory, and numerical modeling to understand how waters move within and between estuaries, bays, fjords, lagoons, and the adjacent coastal ocean, including effects of wind, tides, density gradients, bathymetry, and climate variability. He employs field measurements with acoustic Doppler current profilers (ADCPs) and hydrographic instruments, analytical and numerical modeling of fluid mechanics in estuaries and coastal basins, long-term observational analyses of water level and flow variability, and synthesis of dynamics across climatic geographic and hydrologic gradients. Research systems include estuaries semi-enclosed coastal basins and shelves in temperate subtropical and tropical regions, Gulf of Mexico and Atlantic coastal waters in context of sea-level variability and estuarine exchange, and comparative studies spanning fjords lagoons and straits across global settings.
+
+Notable Publications:
+- Studies on tidal and subtidal exchange flows elucidating mechanisms of water and tracer transport in estuaries
+- Research on how atmospheric forcing and remote processes drive sea-level variability along the U.S. Atlantic and Gulf coasts
+- Analyses of bathymetric effects on circulation including impacts of human structures such as bridge piles and complex shoreline geometry
+- Foundational work on numerical and analytical frameworks for coastal flow including textbook and review materials on estuarine hydrodynamics
+- Highly cited internationally in physical oceanography and coastal engineering with hundreds of peer-reviewed papers
+
+Policy Relevance:
+Dr. Valle-Levinson's work provides essential physical insights into how coastal water movement affects estuarine health, nutrient and sediment transport, and sea-level rise responses, informing coastal management, adaptation planning, and environmental regulation. His research unravels the physical processes that govern water movement in estuaries and coastal seas, which are foundational to ecosystem connectivity, nutrient cycling, and responses to climate change including sea-level rise and storm surge. His research influences hydrodynamic frameworks that determine transport and mixing in coastal systems, mechanistic basis for nutrient sediment and organism distribution in estuaries, and scientific foundation for coastal adaptation and water quality management.
 
 Keywords:
-Water Institute affiliate; Civil and Coastal Engineering, ESSIE.
+coastal hydrodynamics; physical oceanography; estuarine circulation; tidal flows; subtidal flows; sea-level variability; numerical modeling; ADCP; water exchange; Gulf of Mexico; Atlantic coast; sediment transport; nutrient transport; bathymetry; climate variability; coastal engineering

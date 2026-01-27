@@ -1,13 +1,30 @@
-Name: Taylor Stein
+Name: Taylor V. Stein
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: School of Forest Resources and Conservation
 Email: tstein@ufl.edu
+Title: Professor of Ecotourism; Associate Director
+
+Google Scholar: https://scholar.google.com/citations?user=wKaGGAkAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Nature-based recreation and park visitor behavior, Ecotourism development and sustainable tourism in natural areas, Sense of place and place meanings in conservation contexts, Human motivations and environmental attitudes related to outdoor recreation, Social dimensions of public land management and conservation planning
+
+Education:
+- Ph.D. in Natural Resources/Recreation Management
+- Research focus on human dimensions of natural resource management
 
 Research Focus:
-Dr. Stein is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in School of Forest Resources and Conservation.
+Dr. Stein is known for his research and teaching in nature-based recreation, ecotourism, and human dimensions of natural resource management. His scholarship integrates recreation planning, visitor behavior, and sustainable use of natural landscapes, weaving together social science and environmental management perspectives. He employs social surveys and visitor assessment data including scenic beauty perception and visitor satisfaction, quantitative and qualitative analyses of recreation motivations and constraints, integration of social science and planning frameworks such as Limits of Acceptable Change, and extension fact sheets and planning guidance targeted at practitioners. Research systems include public forests and conservation lands such as Florida National Scenic Trail, recreation settings where human motivations intersect with ecological management, and nature-based tourism planning in rural and protected landscapes.
+
+Notable Publications:
+- Recreationists perceptions of scenic beauty and satisfaction at public forests assessing how forest management treatments influence user experiences and scenic values
+- Accounting for peoples constraints to nature-based recreation exploring social and demographic barriers to outdoor recreation participation in Florida - IFAS/EDIS
+- Valuing the ecosystem services of Floridas forest conservation programs assessing economic willingness-to-pay for water quality protection via forest conservation
+- Emerging work on mega trails and sense of place as tools for large-landscape conservation - Journal of Outdoor Recreation and Tourism
+- Extension guides on ecotourism business planning and integrating sustainability into tourism operations
+
+Policy Relevance:
+Dr. Stein's work supports sustainable landscape planning by integrating visitor motivations, recreation constraints, and social values into conservation strategies and extension resources that guide public land management. His work addresses human motivations, recreational use patterns, and planning frameworks that shape how people use, value, and support natural landscapes, crucial for linking human behaviors with environmental outcomes and conservation policy. His work influences recreation and tourism planning frameworks, human dimensions of conservation and protected area management, and outreach materials bridging science and land management practice.
 
 Keywords:
-Water Institute affiliate; School of Forest Resources and Conservation.
+ecotourism; nature-based recreation; visitor behavior; sense of place; conservation planning; sustainable tourism; human dimensions; recreation management; public lands; Florida National Scenic Trail; scenic beauty; ecosystem services; extension; forest resources

@@ -1,13 +1,30 @@
-Name: Rick Stepp
+Name: John Richard "Rick" Stepp
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Anthropology
+Academic Unit: Anthropology; Center for Latin American Studies; Tropical Conservation and Development Program; Land Use and Environmental Change Institute
 Email: stepp@ufl.edu
+Title: Professor of Anthropology; UF Research Foundation Professor
+
+Google Scholar: https://scholar.google.com/citations?user=nawSFg8AAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Ethnobiology and ecological anthropology, Traditional ecological knowledge and its transmission, Biocultural diversity and relationships among cultural and biological variation, Uses of wild plants for food medicinal and cultural purposes, Human adaptation and resilience in diverse socio-ecological systems
+
+Education:
+- Ph.D. in Anthropology
+- Research focus on ethnobiology and human-environment interactions
 
 Research Focus:
-Dr. Stepp is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Anthropology.
+Dr. Stepp is an environmental anthropologist and ethnobiologist whose research focuses on the relationships among biological diversity, cultural diversity, and traditional ecological knowledge, especially the ways in which humans understand, use, and manage plant resources such as wild food and medicinal plants, and how this knowledge changes under ecological and social shifts. He employs long-term ethnographic fieldwork in tropical contexts, cross-cultural and comparative analysis of plant use knowledge, integration of ecological data with cultural linguistic and behavioral datasets, and collaborative interdisciplinary research linking anthropology with ecology conservation and human geography. Research systems include Maya Forest and Mesoamerica, Greater Mekong region in Southeast Asia, and indigenous socio-linguistic groups globally.
+
+Notable Publications:
+- Studies on the importance of weeds and plant resources in traditional medicinal systems demonstrating that weeds are often the most culturally significant medicinal plants
+- Research on medicinal plant ethnoecology and climate change examining how environmental changes interact with traditional plant knowledge and conservation
+- Works on biocultural diversity and human-plant relationships across diverse settings with conservation dimensions
+- Contributions to ethnobiology theory including editorial and synthetic essays on the fields direction ethical issues and knowledge transmission processes
+- Over 5,000 citations per Google Scholar in Journal of Ethnobiology Ethnobiology Letters and interdisciplinary edited volumes
+
+Policy Relevance:
+Dr. Stepp's research clarifies how cultural knowledge of biological resources shapes conservation outcomes, food and health strategies, and human adaptation to environmental change, informing culturally grounded environmental policy and governance. His work elucidates how human cultures perceive, use, and manage biological resources, including plants that contribute to food systems, health, and land use practices which in turn influence ecosystem function. His research informs how human knowledge systems interface with ecological processes, a critical layer for environmental governance, conservation, and culturally appropriate natural resource management. His work influences biocultural diversity and ethnobiological synthesis, integration of human knowledge systems into conservation and environmental decision-making, and understanding of plant use and human nutrition and health linkages in ecological context.
 
 Keywords:
-Water Institute affiliate; Anthropology.
+ethnobiology; ecological anthropology; traditional ecological knowledge; biocultural diversity; medicinal plants; wild plants; Maya Forest; Mesoamerica; Southeast Asia; conservation; indigenous knowledge; human-environment interactions; plant use; cultural diversity; biodiversity

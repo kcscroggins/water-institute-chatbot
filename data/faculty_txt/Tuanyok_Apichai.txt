@@ -1,13 +1,31 @@
 Name: Apichai Tuanyok
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Veterinary Medicine
+Academic Unit: Veterinary Medicine (Medical Microbiology)
 Email: tuanyok@ufl.edu
+Title: Associate Professor
+
+Google Scholar: https://scholar.google.com/citations?user=6_XwgfAAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Medical and veterinary microbiology, Environmental and soil-associated bacterial pathogens, Melioidosis and glanders epidemiology, Bacterial genomics and comparative genomics, Phylogeography and population structure of pathogens, Horizontal gene transfer and pathogen evolution, Virulence factors and antimicrobial resistance
+
+Education:
+- Ph.D. in Microbiology/Molecular Biology
+- Research focus on bacterial genomics and environmental pathogens
 
 Research Focus:
-Dr. Tuanyok is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Veterinary Medicine.
+Dr. Tuanyok is an internationally recognized medical and environmental microbiologist best known for his work on Burkholderia pseudomallei and Burkholderia mallei, the causative agents of melioidosis and glanders. His research centers on bacterial genomics, phylogeography, virulence evolution, and environmental reservoirs, with major contributions to understanding how these pathogens persist in soil and water, spread geographically, evolve via horizontal gene transfer, and cause human and animal disease. He is a leading authority on the genomic epidemiology and environmental biology of these high-consequence pathogens. He employs whole-genome sequencing and comparative genomics, phylogenetic and phylogeographic reconstruction, analysis of lateral gene transfer and genomic islands, transcriptomics and gene expression analysis, environmental sampling frameworks for pathogen detection, and integration of genomic data with clinical and environmental metadata. Research systems include soil and environmental reservoirs of Burkholderia pseudomallei, tropical and subtropical regions such as Southeast Asia and Australia, and clinical and environmental isolates from human animal and environmental sources.
+
+Notable Publications:
+- Global and regional dissemination and evolution of Burkholderia pseudomallei (Nature Microbiology) - defining large-scale population structure and evolutionary history of the pathogen
+- Systematic review and consensus guidelines for environmental sampling of Burkholderia pseudomallei (PLoS Neglected Tropical Diseases) - key reference for detecting this pathogen in soil and water
+- Phylogeographic reconstruction of a bacterial species with high levels of lateral gene transfer (BMC Biology) - foundational work on pathogen evolution under extensive gene exchange
+- Genomic islands and virulence evolution in Burkholderia (BMC Genomics and Infection and Immunity) - clarifying genetic mechanisms underlying pathogenicity
+- Within-host evolution studies showing how B. pseudomallei evolves during chronic infection (mBio and PLoS Pathogens)
+- Approximately 4,600 citations with h-index of 38 reflecting significant influence in microbiology and infectious disease
+
+Policy Relevance:
+Dr. Tuanyok's work informs environmental surveillance, biosecurity, and public health policy by clarifying how dangerous pathogens persist in soil and water and spread across regions and hosts. He provides critical insight into how environmental microbes become human and animal health threats, bridging soil and water microbiology with infectious disease epidemiology and global health preparedness. His research influences environmental pathogen detection and surveillance, genomic tracking of disease emergence and spread, and understanding of pathogen evolution and virulence.
 
 Keywords:
-Water Institute affiliate; Veterinary Medicine.
+medical microbiology; Burkholderia pseudomallei; melioidosis; glanders; bacterial genomics; phylogeography; environmental pathogens; soil pathogens; waterborne pathogens; horizontal gene transfer; virulence; biosecurity; public health; veterinary medicine; Southeast Asia

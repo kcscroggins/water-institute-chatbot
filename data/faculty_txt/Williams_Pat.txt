@@ -1,13 +1,28 @@
 Name: Pat Williams
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: IFAS Extension
+Academic Unit: UF/IFAS Extension
 Email: williams.p@ufl.edu
+Title: Extension Agent
 
 Subject Areas:
-Water-related research
+Extension education in agriculture and natural resources, Community outreach and stakeholder engagement, Applied environmental and agricultural stewardship practices, Program development delivery and evaluation
 
-Research Focus:
-Dr. Williams is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in IFAS Extension.
+Education:
+- Advanced degree in Agricultural/Environmental Sciences
+- Focus on extension education and community outreach
+
+Program Focus:
+Pat Williams is an Extension professional focused on delivering research-based education and technical assistance to community stakeholders. Their work emphasizes practical application of agricultural and natural resource knowledge, supporting local decision-making, best-practice adoption, and community capacity building. They employ workshops trainings and field demonstrations, development of Extension materials including fact sheets guides and presentations, one-on-one technical assistance and group facilitation, and partnerships with researchers agencies and local organizations. Program systems include Florida communities served through UF/IFAS Extension, local agricultural and natural resource systems, and stakeholder groups including landowners producers and community members.
+
+Program Activities:
+- Extension fact sheets and educational resources
+- Community workshops trainings and outreach programs
+- Educational events supporting adoption of science-based practices
+- Technical assistance for landowners and producers
+- Impact measured through reach engagement knowledge transfer and practice adoption
+
+Extension Impact:
+Williams's work supports effective agricultural and environmental policy by translating research into actionable guidance for local stakeholders. They play a key role in closing the gap between research and practice, helping ensure that science-based recommendations result in real-world improvements. Their work influences education outreach and adoption of best practices, stakeholder understanding and behavior change, and community-level implementation of research-informed guidance.
 
 Keywords:
-Water Institute affiliate; IFAS Extension.
+extension; community education; outreach; agriculture; natural resources; environmental stewardship; stakeholder engagement; UF/IFAS; Florida; workshops; training; knowledge transfer; practice adoption; technical assistance

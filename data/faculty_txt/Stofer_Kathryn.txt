@@ -1,13 +1,31 @@
-Name: Kathryn "Katie" Stofer
+Name: Kathryn A. "Katie" Stofer
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Agricultural Education and Communications
+Academic Unit: Agricultural Education and Communication
 Email: stofer@ufl.edu
+Title: Associate Professor
+
+Google Scholar: https://scholar.google.com/citations?user=xFGJSqEAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Science communication and public understanding of science, Informal science education including museums media and outreach programs, Communication of agricultural environmental and biological sciences, Scientist-public interactions and credibility and trust, Media ecosystems and narrative framing of science, Ethics and equity in science communication
+
+Education:
+- Ph.D. in Science Education/Communication
+- Research focus on public engagement with science
 
 Research Focus:
-Dr. Stofer is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural Education and Communications.
+Dr. Stofer is known for her scholarship in science communication, public engagement with science, and informal science education, particularly at the intersection of agriculture, environment, and emerging technologies. Her work examines how scientific information is produced, framed, transmitted, and interpreted by public audiences, with special attention to trust, credibility, media formats, and communication practices within scientific and extension institutions. She employs qualitative and quantitative social science research, content analysis of media and science messaging, survey research on public attitudes and trust, case studies of science outreach extension and engagement programs, and interdisciplinary collaboration with scientists and communicators. Research systems include public audiences engaging with agricultural and environmental science, scientists and extension professionals as communicators, informal learning environments such as museums and outreach initiatives, and media platforms conveying science to non-expert audiences.
+
+Notable Publications:
+- Research on how scientists conceptualize and enact public engagement
+- Studies on barriers and incentives for scientists communicating beyond academia
+- Work on the role of media formats and storytelling in shaping science understanding
+- Evaluations of informal science education and outreach effectiveness
+- Ethical and inclusive approaches to science communication
+- Publications in science communication agricultural education environmental communication and public engagement journals
+
+Policy Relevance:
+Dr. Stofer's work informs how institutions, scientists, and extension systems communicate evidence-based knowledge, influencing public trust, engagement, and uptake of science relevant to agriculture and environmental decision-making. Her relevance lies in how scientific knowledge about agriculture, environment, and natural resources is communicated, trusted, and acted upon, which strongly shapes public understanding, policy support, and adoption of science-based practices. Her work influences science communication practices and training, public trust and engagement with agricultural and environmental science, and effectiveness of extension and outreach messaging.
 
 Keywords:
-Water Institute affiliate; Agricultural Education and Communications.
+science communication; public engagement; informal science education; agricultural communication; environmental communication; trust; credibility; media; outreach; extension; public understanding of science; narrative framing; museums; science literacy

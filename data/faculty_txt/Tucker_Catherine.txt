@@ -1,13 +1,31 @@
-Name: Catherine Tucker
+Name: Catherine M. Tucker
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Center for Latin American Studies
+Academic Unit: Center for Latin American Studies; Department of Anthropology
 Email: tuckerc@ufl.edu
+Title: Professor; Associate Director of Academic Affairs
+
+Google Scholar: https://scholar.google.com/citations?user=0MV-RawAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Environmental governance and collective action, Community-based natural resource management including forests water and common-pool resources, Climate change adaptation among smallholder and indigenous communities, Institutional analysis and political ecology, Sustainability and livelihood resilience in changing socio-ecological contexts, Coffee production systems and cultural value chains
+
+Education:
+- Ph.D. in Anthropology
+- Research focus on environmental governance and socio-ecological systems
 
 Research Focus:
-Dr. Tucker is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Center for Latin American Studies.
+Dr. Tucker is an interdisciplinary social-ecological systems scholar and cultural and environmental anthropologist whose work explores environmental governance, collective action, common-pool resource management, climate adaptation, and sustainability, especially in mountainous and rural Latin American contexts. Her research integrates institutional analysis, political ecology, and ethnography to understand how communities interact with their environments and make decisions about natural resource use under socioeconomic and climatic stress. She employs mixed qualitative and quantitative social science research, ethnographic fieldwork and participant observation, institutional and policy analysis, and engagement with interdisciplinary teams on social-ecological modeling and governance. Geographic expertise includes Central America such as Honduras and Guatemala, Mexico, Peru, and broader comparative mountain regions.
+
+Notable Publications:
+- Fostering sustainability through environmentally friendly coffee production and alternative trade - studies environmental and economic outcomes in coffee systems
+- Governance of interdependent ecosystem services and common-pool resources - article linking governance frameworks with ecosystem services
+- Catalyzing Transformations to Sustainability in the World's Mountains - collaborative research on mountain social-ecological systems
+- Creating equitable water institutions on disputed land: a Honduran case study - explores community cooperation and water governance
+- Books including Coffee Culture: Local Experiences Global Connections and Changing Forests: Collective Action Common Property and Coffee in Honduras combining ethnographic institutional and historical analysis
+- Publications in interdisciplinary outlets spanning environmental governance anthropology sustainability science political ecology and social-ecological systems research
+
+Policy Relevance:
+Dr. Tucker's work informs environmental and sustainability policy by clarifying institutional conditions and social processes that enable resilient governance of common-pool resources and adaptive strategies in the face of climate and market change. She advances understanding of how social institutions and community governance structures interact with ecological processes to shape sustainable outcomes, especially in regions facing climate stress, market pressures, and institutional change. Her research influences governance models for natural resource management, institutional analysis of environmental commons, and policy design for adaptive and equitable environmental governance.
 
 Keywords:
-Water Institute affiliate; Center for Latin American Studies.
+environmental governance; collective action; common-pool resources; climate adaptation; sustainability; Latin America; Honduras; Guatemala; Mexico; anthropology; political ecology; institutional analysis; coffee systems; community-based management; socio-ecological systems; mountain regions

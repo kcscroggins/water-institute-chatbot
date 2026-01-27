@@ -1,13 +1,32 @@
 Name: Lincoln Zotarelli
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Horticultural Sciences 
+Academic Unit: Horticultural Sciences
 Email: lzota@ufl.edu
+Title: Professor
+
+Google Scholar: https://scholar.google.com/citations?user=bUU6zcwAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Irrigation scheduling and water management, Nitrogen management and fertilizer use efficiency, Soil moisture dynamics in sandy soils, Soil organic matter and aggregate-associated carbon, Vegetable crop production systems, Soil-plant-atmosphere interactions
+
+Education:
+- Ph.D. in Soil Science/Horticulture
+- Research focus on irrigation and nutrient management
 
 Research Focus:
-Dr. Zotarelli is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Horticultural Sciences .
+Dr. Zotarelli is an internationally recognized horticultural scientist known for his work on irrigation management, nitrogen and water use efficiency, and soil-plant-water interactions in vegetable cropping systems, particularly on sandy soils. He is especially well known for linking irrigation scheduling, nutrient management, and soil physical processes to improve crop productivity while reducing nutrient losses and environmental impacts. He employs field experiments in commercial and research-scale cropping systems, soil moisture sensing and interpretation, nitrogen mass balance and leaching measurements, evapotranspiration modeling using FAO-56 Penman-Monteith, integration of irrigation technology with nutrient management, and applied modeling and decision-support tools. Research systems include vegetable cropping systems in Florida and subtropical regions, sandy and low-organic-matter soils, drip irrigation seepage irrigation and plasticulture systems, and comparative systems including tropical and subtropical agroecosystems.
+
+Notable Publications:
+- Nitrogen and water use efficiency in vegetable crops
+- Nitrate leaching and nutrient losses in sandy soils
+- Soil organic carbon fractions and aggregation under management
+- Irrigation scheduling using soil moisture sensors
+- Coupling irrigation technologies with nutrient management
+- Publications in Agricultural Water Management, Soil Biology and Biochemistry, Soil Science Society of America Journal, Journal of Environmental Quality, and Scientia Horticulturae
+- Major contributor to UF/IFAS EDIS publications for growers and water managers
+
+Policy Relevance:
+Zotarelli's research underpins irrigation and nutrient management guidelines that improve water-use efficiency, reduce nutrient losses, and support sustainable agricultural production. He provides actionable, field-tested science that connects hydrology, soil processes, and nutrient management, directly shaping how intensive cropping systems are managed in environmentally sensitive regions. His work influences irrigation scheduling and water-use policy, nutrient management standards and BMPs, and grower adoption of soil moisture sensing and decision-support tools.
 
 Keywords:
-Water Institute affiliate; Horticultural Sciences .
+irrigation management; nitrogen management; water use efficiency; nutrient use efficiency; soil moisture; sandy soils; vegetable production; nitrate leaching; drip irrigation; evapotranspiration; BMPs; Florida agriculture; horticulture; decision support

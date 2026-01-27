@@ -1,13 +1,27 @@
-Name: Ray Thomas
+Name: Ray G. Thomas
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Geological Sciences
 Email: rgthomas@ufl.edu
+Title: Associate Professor (Teaching Faculty)
 
 Subject Areas:
-Water-related research
+Introductory physical geology, Earth materials including minerals and rocks, Surface processes and geomorphology, Natural hazards and geologic risk, Earth systems thinking for undergraduate education
+
+Education:
+- Ph.D. in Geological Sciences
+- Focus on geoscience education and Earth materials
 
 Research Focus:
-Dr. Thomas is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Geological Sciences.
+Dr. Thomas is known primarily as a geoscience educator specializing in introductory and applied geology, with strengths in earth materials, surface processes, and geologic hazards as they are taught to broad student audiences. His impact is centered on curriculum development, instruction, and geoscience literacy, rather than on a large current research publication program. He employs classroom and laboratory instruction, curriculum and course design in geoscience, field-based teaching and applied demonstrations, and development of instructional materials for geologic literacy. Teaching systems include broad global Earth systems as instructional contexts and Florida and southeastern U.S. geology for teaching applications.
+
+Notable Publications:
+- Undergraduate geology courses and laboratory curricula
+- Teaching materials covering minerals, rocks, Earth processes, and hazards
+- Field-based instructional activities used in geology education
+- Contributions primarily instructional rather than research-driven with value in training students and non-specialists in core geologic concepts
+
+Policy Relevance:
+Dr. Thomas's role supports environmental and Earth-system decision-making indirectly by building foundational geoscience literacy among students who move into applied environmental, engineering, and policy fields. He contributes to the human capital layer of Earth systems science by ensuring that students acquire a working understanding of geology, knowledge that is essential for informed decisions in environmental management, engineering, and hazard mitigation. His work influences geoscience education and literacy, and preparation of students for applied Earth and environmental fields.
 
 Keywords:
-Water Institute affiliate; Geological Sciences.
+geoscience education; geology; Earth materials; minerals; rocks; surface processes; geomorphology; natural hazards; geologic risk; undergraduate education; curriculum development; Florida geology; Earth systems; teaching

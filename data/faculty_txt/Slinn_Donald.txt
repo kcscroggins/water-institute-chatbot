@@ -1,13 +1,30 @@
-Name: Donald Slinn
+Name: Donald W. Slinn
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Coastal and Oceanographic Engineering
+Academic Unit: Coastal and Oceanographic Engineering; Engineering School of Sustainable Infrastructure & Environment (ESSIE)
 Email: slinn@ufl.edu
+Title: Professor
+
+Google Scholar: https://scholar.google.com/citations?user=Ff_qWWgAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Environmental fluid mechanics and turbulence, Wave mechanics and coastal boundary layer processes, Air-sea interaction and wave-current dynamics, Sediment transport under waves and currents, Atmospheric dispersion and aerosol transport, Coastal and estuarine transport modeling
+
+Education:
+- Ph.D. in Fluid Mechanics/Coastal Engineering
+- Research focus on environmental flow processes and turbulence
 
 Research Focus:
-Dr. Slinn is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Coastal and Oceanographic Engineering.
+Dr. Slinn is internationally known for his fundamental contributions to fluid mechanics, environmental flow processes, and coastal/ocean engineering, particularly in turbulence, wave motion, aerosols and atmospheric dispersion, shoreline and surfzone dynamics, and multiphase flows in natural systems. His work parlayed rigorous physical and applied mathematical modeling into better understanding and prediction of how environmental flows interact with sediments, coastal structures, and the atmosphere. He employs theoretical and mathematical modeling of fluid flow, experimental and field validations of coastal and environmental fluid processes, integration of physical models with environmental systems, and development of transport and dispersion algorithms for environmental engineering. Research systems include surfzone and coastal wave zones, estuarine flows and sediment boundaries, atmospheric boundary layer processes that influence coastal transport, and natural and engineered interfaces such as shorelines and breakwaters.
+
+Notable Publications:
+- Turbulence and boundary layer theory applied to environmental flow systems - Journal of Fluid Mechanics
+- Wave mechanics and coastal hydrodynamics exploring wave transformation shore interaction and momentum exchange - Coastal Engineering
+- Atmospheric dispersion models relevant to pollutant and aerosol transport - Journal of Geophysical Research
+- Multiphase flow theory with relevance to sediments and suspended loads in coastal waters - Environmental Fluid Mechanics, Ocean Engineering
+- Highly cited work spanning multiple environmental fluid mechanics fields
+
+Policy Relevance:
+Dr. Slinn's research underpins predictive models of environmental transport, informing coastal engineering, hazard assessment, and dispersion modeling efforts that support environmental risk management and resilience planning. His work provides foundational physical process understanding including turbulence, wave dynamics, and dispersion that is essential for interpreting how coastal and atmospheric flows influence transport of sediments, nutrients, pollutants, and energy in environmental systems. His work influences wave and boundary layer dynamics, sediment and pollutant transport mechanics, environmental dispersion and coastal interaction models, and theory applied in coastal resilience and risk frameworks.
 
 Keywords:
-Water Institute affiliate; Coastal and Oceanographic Engineering.
+fluid mechanics; turbulence; coastal engineering; wave mechanics; boundary layer; sediment transport; atmospheric dispersion; aerosol transport; surfzone; estuarine flows; air-sea interaction; environmental transport; coastal hydrodynamics; multiphase flow; oceanographic engineering

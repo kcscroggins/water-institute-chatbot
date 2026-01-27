@@ -2,12 +2,26 @@ Name: Aditya Singh
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Agricultural and Biological Engineering
 Email: aditya01@ufl.edu
+Title: Assistant Professor
 
 Subject Areas:
-Water-related research
+Hyperspectral and hypertemporal remote sensing, Plant nutrient status and stress assessment, Landscape-scale optical sensing and ecosystem function, Integration of remote sensing with climate soils and crop models, UAV and spectral sensors for agricultural assessment
+
+Education:
+- Ph.D. in Remote Sensing/Environmental Science
+- Research focus on optical spectroscopy and ecosystem monitoring
 
 Research Focus:
-Dr. Singh is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural and Biological Engineering.
+Dr. Singh is known for his application of optical remote sensing and spectroscopy to ecosystem science and precision agriculture, especially in assessing plant nutrient status, plant health, water and stress responses in vegetation, and landscape function. His work integrates leaf-level, proximal canopy, airborne, and satellite spectral data to infer plant and ecosystem processes, advancing mechanistic models of ecosystem function that span agricultural and natural systems. He employs multi-scale optical reflectance spectroscopy, proximal and airborne imaging spectroscopy, integration of remote sensing with mechanistic process models, and development of remote sensing-derived products for stakeholders. Research systems include forest and grassland ecosystem structure and function, agricultural ecosystems with optical stress detection for irrigation demand and nutrient use, and landscape-scale nutrient and water stress assessment.
+
+Notable Publications:
+- Imaging spectroscopy methods for mapping canopy foliar chemical and morphological traits
+- Applications of Unmanned Aerial Systems in Agricultural Operation Management multi-part extension series on platforms payloads and best practices
+- Co-authorship on remote sensing and artificial intelligence applications for crop yield forecasting and sensing workflows - extension publications
+- Peer-reviewed research on imaging spectroscopy algorithms and canopy traits
+
+Policy Relevance:
+Dr. Singh's research advances remote sensing tools that support environmental monitoring, precision agriculture decision support, and ecosystem process understanding, improving capacity to detect and manage plant stress and resource use at scale. His remote sensing techniques provide critical observational data for understanding vegetation water and nutrient stress, plant functioning, and ecosystem responses to environmental change. This enables quantitative assessment of stress drivers, nutrient status, and functional dynamics across scales. His work influences remote sensing data integration for ecosystem health, plant stress and nutrient status detection, and development of decision-support products based on spectral analysis.
 
 Keywords:
-Water Institute affiliate; Agricultural and Biological Engineering.
+remote sensing; hyperspectral imaging; spectroscopy; plant stress; nutrient status; precision agriculture; UAV; ecosystem function; vegetation monitoring; water stress; canopy traits; imaging spectroscopy; agricultural engineering; landscape ecology; decision support

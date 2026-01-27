@@ -2,12 +2,29 @@ Name: Jamin Wells
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: History
 Email: jamin.wells@ufl.edu
+Title: Associate Professor
+
+Google Scholar: https://scholar.google.com/citations?user=4LyW44wAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Environmental history, History of science and technology, Infrastructure development and landscape transformation, Water management and conservation history, Environmental governance, U.S. environmental and political history with 20th century emphasis
+
+Education:
+- Ph.D. in History
+- Research focus on environmental history and history of science and technology
 
 Research Focus:
-Dr. Wells is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in History.
+Dr. Wells is a historian of environment, science, and technology whose work examines how landscapes, infrastructure, and environmental knowledge are shaped by political, economic, and cultural forces. He is particularly known for scholarship on the environmental and infrastructural history of the modern United States, including water management, conservation, and the long-term consequences of development and governance decisions on ecological systems. He employs archival research and historical analysis, interpretation of policy documents technical reports and institutional records, and interdisciplinary synthesis linking historical narratives to environmental systems. Research systems include the United States with emphasis on modern and contemporary periods, landscapes shaped by infrastructure including water control land use and conservation regimes, and institutions governing environmental knowledge and practice.
+
+Notable Publications:
+- Historical development of environmental governance and infrastructure
+- How scientific expertise and engineering practices shape environmental decision-making
+- Long-term social and ecological consequences of policy and technological systems
+- Scholarly articles and essays in environmental history and history of science venues
+- Publications in journals and edited volumes focused on environmental history STS and American history
+
+Policy Relevance:
+Wells's work informs contemporary environmental decision-making by revealing how past policy choices, institutional arrangements, and technical systems continue to structure present-day environmental challenges. He provides long-term historical perspective on environmental governance and infrastructure, helping decision-makers understand path dependence, unintended consequences, and institutional inertia in environmental systems. His work influences historical and institutional understanding of environmental governance, framing of environmental problems beyond short-term technical fixes, and integration of historical insight into policy and planning.
 
 Keywords:
-Water Institute affiliate; History.
+environmental history; history of science; history of technology; infrastructure; water management; conservation; environmental governance; landscape transformation; policy history; United States; 20th century; archival research; institutional history; path dependence

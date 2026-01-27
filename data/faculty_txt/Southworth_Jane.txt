@@ -2,12 +2,29 @@ Name: Jane Southworth
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Geography
 Email: jsouthwo@ufl.edu
+Title: Professor & Department Chair
+
+Google Scholar: https://scholar.google.com/citations?user=L7iAPHcAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Land change science and land use/land cover change, Remote sensing time-series analysis with AI and machine learning, Vegetation dynamics and climatic drivers of change, Human-environment interactions across socio-ecological systems, Scaling and modeling issues in spatial and temporal analyses, Impacts of climate variability and change on landscapes and people
+
+Education:
+- Ph.D. in Geography
+- Research focus on remote sensing and land change science
 
 Research Focus:
-Dr. Southworth is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Geography.
+Dr. Southworth is an internationally recognized geographer whose scholarship centers on land change science and social-ecological systems, with deep expertise in remote sensing, vegetation dynamics, land use and land cover change, spatial analysis, and GeoAI/machine learning approaches to environmental observation and modeling. Her work links human-environment interactions with climatic drivers, land use transitions, and large-scale vegetation patterns across diverse ecosystems. She employs satellite remote sensing with multi-sensor time series, GeoAI and machine learning for classification and change detection, GIS and spatial modeling, interdisciplinary synthesis of environmental and social data, and land change modeling frameworks and scaling approaches. Research systems include global vegetation dynamics across biomes and savannas, human-landscape systems around protected areas in Africa and Latin America, agricultural and forest transitions, urban and peri-urban land cover change, and climate-vegetation interactions across scales.
+
+Notable Publications:
+- Latitudes and land use: Global biome shifts in vegetation persistence across three decades analysis of biome change using long time series of remote sensing data
+- Linking forest management to surrounding lands: a citizen-based approach to regional land-use transitions
+- Machine learning versus deep learning in land system science: a decision-making framework for effective land classification
+- Articles on the role of people and parks in fire frequency and timing in savanna ecosystems and urban greenness trends
+- Over 115 peer-reviewed journal articles and books with thousands of citations
+
+Policy Relevance:
+Dr. Southworth's work produces high-resolution, time-series analyses that inform environmental policy and sustainability efforts by linking land cover dynamics with climate variability, land use transitions, and socio-ecological processes. Her remote sensing and landscape change work is foundational to interpreting large-scale environmental patterns that interact with biogeochemical cycles and water resources. Her work influences remote sensing and GeoAI analytical frameworks, landscape change indicators and climate impacts, and interdisciplinary socio-ecological modeling.
 
 Keywords:
-Water Institute affiliate; Geography.
+geography; land change science; remote sensing; GeoAI; machine learning; vegetation dynamics; land cover change; land use; climate change; human-environment interactions; GIS; spatial analysis; time series; savannas; Africa; Latin America; socio-ecological systems

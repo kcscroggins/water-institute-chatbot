@@ -1,13 +1,30 @@
-Name: Amanda Subalusky
+Name: Amanda L. Subalusky
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Biology
 Email: asubalusly@ufl.edu
+Title: Assistant Professor
+
+Google Scholar: https://scholar.google.com/citations?user=qYIBCNsAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Ecosystem ecology and biogeochemistry, Cross-ecosystem nutrient transport and land-water linkages, Consumer-driven nutrient cycling and trophic cascades, Impacts of large mammals on aquatic ecosystems, Freshwater ecology and food-web dynamics, Biodiversity loss and ecosystem functioning
+
+Education:
+- Ph.D. in Ecology/Ecosystem Science
+- Research focus on biogeochemistry and animal-mediated nutrient cycling
 
 Research Focus:
-Dr. Subalusky is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Biology.
+Dr. Subalusky is an ecosystem ecologist best known for her work on cross-ecosystem nutrient fluxes, consumer-driven biogeochemistry, and the ecological consequences of large animal populations. Her research has been especially influential in demonstrating how large vertebrates such as hippopotamus act as mobile nutrient vectors, fundamentally reshaping aquatic-terrestrial linkages, food webs, and biogeochemical cycles. She combines field ecology with biogeochemical measurements to reveal how animal behavior and density scale up to ecosystem-level processes. She employs field experiments and long-term ecological monitoring, measurement of nutrient fluxes including nitrogen phosphorus and carbon, stable isotope analysis and ecosystem mass balance approaches, comparative studies across gradients of animal density, and integration of ecological theory with biogeochemical data. Research systems include tropical river and savanna ecosystems notably East Africa, freshwater rivers influenced by large herbivores, aquatic-terrestrial interface zones, and broader relevance to global change and defaunation scenarios.
+
+Notable Publications:
+- Annual mass drownings of the Serengeti wildebeest migration influence nutrient cycling and storage in the Mara River - Proceedings of the National Academy of Sciences (PNAS)
+- Research on hippos as ecosystem engineers documenting consumer-driven nutrient dynamics in African rivers - Ecosystems and Limnology & Oceanography
+- Animal-mediated nutrient cycling synthesis work connecting biodiversity loss to altered ecosystem function
+- Co-authored synthesis papers in Science and Nature Ecology & Evolution linking defaunation to global nutrient redistribution
+- Highly visible and influential publication record in top ecology and science journals
+
+Policy Relevance:
+Dr. Subalusky's work provides mechanistic evidence that wildlife populations are integral to nutrient regulation and ecosystem stability, informing conservation strategies that recognize animals as functional components of biogeochemical systems. Her research directly measures and models carbon, nitrogen, and phosphorus fluxes driven by animal populations, making her work central to understanding how biological communities regulate nutrient movement and ecosystem functioning, particularly at land-water interfaces. Her work influences understanding of nutrient fluxes and ecosystem coupling, integration of wildlife conservation with ecosystem management, and recognition of biological controls on biogeochemical processes.
 
 Keywords:
-Water Institute affiliate; Biology.
+ecosystem ecology; biogeochemistry; nutrient cycling; cross-ecosystem fluxes; large mammals; hippopotamus; wildebeest; freshwater ecology; consumer-driven processes; trophic cascades; defaunation; aquatic-terrestrial linkages; East Africa; Mara River; wildlife conservation

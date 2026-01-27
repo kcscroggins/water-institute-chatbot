@@ -2,12 +2,30 @@ Name: Yixin Wen
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Geography
 Email: yixin.wen@ufl.edu
+Title: Assistant Professor
+
+Google Scholar: https://scholar.google.com/citations?user=7FpIau0AAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Land use and land-cover change, Human-environment interactions, Environmental governance and policy, Urbanization and landscape transformation, Sustainability and development geography, Spatial analysis of environmental systems
+
+Education:
+- Ph.D. in Geography
+- Research focus on land-use change and human-environment interactions
 
 Research Focus:
-Dr. Wen is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Geography.
+Dr. Wen is a human-environment geographer whose work focuses on land use and land-cover change, environmental governance, and spatial patterns of sustainability and development. Her research examines how human decision-making, institutions, and socioeconomic forces shape landscapes over time, often using spatial and quantitative methods to understand environmental change, resource use, and policy impacts. She employs Geographic Information Systems and remote sensing, spatial analysis and quantitative modeling of land-use dynamics, and integration of spatial data with socioeconomic and policy variables. Research systems include urban and peri-urban landscapes, regions experiencing rapid land-use change, and comparative geographic analyses in U.S. and international contexts.
+
+Notable Publications:
+- Quantifying land-cover change and urban expansion
+- Linking policy governance and economic drivers to landscape outcomes
+- Assessing environmental impacts of development patterns
+- Spatial patterns and drivers of land-use change
+- Integration of remote sensing data with socioeconomic indicators
+- Publications in geography and interdisciplinary environmental journals
+
+Policy Relevance:
+Wen's work informs land-use planning and environmental policy by revealing how spatial patterns of development and governance decisions shape long-term environmental outcomes. She provides spatial and analytical insight into how human activities transform landscapes, offering evidence critical for sustainable planning, environmental governance, and mitigation of land-use impacts. Her work influences land-use planning and spatial policy analysis, understanding of development-environment tradeoffs, and evidence-based environmental governance.
 
 Keywords:
-Water Institute affiliate; Geography.
+land use; land-cover change; human-environment geography; GIS; remote sensing; spatial analysis; environmental governance; urbanization; landscape transformation; sustainability; development geography; environmental policy; land-use modeling

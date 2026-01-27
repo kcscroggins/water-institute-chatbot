@@ -1,13 +1,30 @@
-Name: Roy Yanong
+Name: Roy P. E. Yanong
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: UF/IFAS Tropical Aquaculture Laboratory
 Email: rpy@ufl.edu
+Title: Professor; Extension Veterinarian
+
+Google Scholar: https://scholar.google.com/citations?user=OhOKVn8AAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Aquatic animal health and fish diseases, Disease diagnostics and pathology, Biosecurity and health management in aquaculture, Ornamental fish health and production systems, Aquatic animal welfare and regulatory compliance
+
+Education:
+- D.V.M. (Doctor of Veterinary Medicine)
+- Specialization in aquatic animal health and fish medicine
 
 Research Focus:
-Dr. Yanong is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in UF/IFAS Tropical Aquaculture Laboratory.
+Dr. Yanong is an aquatic animal health veterinarian internationally recognized for his work on fish health, disease diagnosis, biosecurity, and health management in aquaculture and ornamental fish systems. He is especially known for translating veterinary science into practical guidance for producers, regulators, and aquatic animal professionals, bridging research, diagnostics, and on-the-ground management. He employs clinical and laboratory disease diagnostics, development of health management and biosecurity protocols, applied research and case-based studies, extension education and professional training, and collaboration with regulatory agencies and industry. Research systems include freshwater and marine aquaculture systems, ornamental fish industry with major emphasis, commercial producers hobbyists and aquatic animal professionals, and Florida and national aquaculture sectors.
+
+Notable Publications:
+- Extension fact sheets manuals and diagnostic guides on fish health and disease
+- Peer-reviewed and applied articles on aquatic animal health
+- Professional training programs and workshops
+- Guidance used by industry veterinarians and regulatory agencies
+- Publications addressing disease prevention biosecurity and health management
+
+Policy Relevance:
+Yanong's work supports aquaculture regulation and sustainability by providing science-based guidance that improves animal health, biosecurity, and compliance. He provides critical applied expertise that ensures aquaculture systems are biologically sustainable, economically viable, and compliant with animal health standards. His work influences disease prevention and biosecurity practices, aquatic animal welfare and health outcomes, and industry standards and regulatory guidance.
 
 Keywords:
-Water Institute affiliate; UF/IFAS Tropical Aquaculture Laboratory.
+aquatic animal health; fish diseases; veterinary medicine; aquaculture; ornamental fish; disease diagnostics; biosecurity; fish health management; Tropical Aquaculture Laboratory; Florida; animal welfare; regulatory compliance; extension

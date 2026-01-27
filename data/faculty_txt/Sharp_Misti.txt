@@ -2,12 +2,26 @@ Name: Misti Sharp
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Food and Resource Economics
 Email: mistisharp@ufl.edu
+Title: Instructional Associate Professor & Undergraduate Coordinator
 
 Subject Areas:
-Water-related research
+Natural resource economics and management, Water institutions and environmental policy, Private landowner behavior and resource management decisions, Adaptation attitudes to environmental change, Teaching and curriculum development in economics
+
+Education:
+- Ph.D. in Economics/Resource Economics
+- Research focus on natural resource economics and policy
 
 Research Focus:
-Dr. Sharp is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Food and Resource Economics.
+Dr. Sharp is known for her work in applied resource economics with a focus on water institutions, natural resource management, and attitudes toward environmental adaptation policies, combining research with high-impact undergraduate teaching and curriculum leadership. She brings economic analysis to natural resource use, policy contexts such as sea-level rise adaptation, and the behavior of private landowners related to forest and water management. She employs applied economic modeling and econometric analysis, policy evaluation and behavioral survey analysis, integration of economic theory with resource and environmental decision contexts, and case study and comparative analysis across regions. Research systems include southeastern United States natural resource and environmental systems, landowner resource decision-making, water conservation institutional structures, and environmental adaptation attitudes.
+
+Notable Publications:
+- Institutional constraints on cost-effective water management analyzing selenium contamination management
+- Attitudes about Sea Level Rise Adaptation comparing adaptation attitudes across Florida - EDIS
+- Impact of COVID-19 on management of non-industrial private forests and landowner decision research
+- Research on private forest owner preferences for cost-share fuel reduction programs in the southeastern US
+
+Policy Relevance:
+Dr. Sharp's work informs resource management policy by revealing how economic incentives, institutional constraints, and public attitudes shape decisions affecting water and land systems. Her research explores economic and human dimensions of environmental resource management, including water institutions and attitudes toward adaptation, an enabling layer that influences how resource policies are formed and implemented. Her work influences resource policy design and evaluation, economic behavior of private resource owners, and attitudinal responses to environmental risks such as sea-level rise.
 
 Keywords:
-Water Institute affiliate; Food and Resource Economics.
+resource economics; natural resource management; water institutions; environmental policy; landowner behavior; sea-level rise; climate adaptation; economic incentives; policy analysis; forest management; water conservation; southeastern US; behavioral economics; private landowners

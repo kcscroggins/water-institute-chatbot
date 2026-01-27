@@ -1,13 +1,28 @@
-Name: Mickie Swisher
+Name: Marilyn E. "Mickie" Swisher
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Family Youth and Community Science
+Academic Unit: Family, Youth and Community Sciences
 Email: mesw@ufl.edu
+Title: Associate Professor of Sustainable Agriculture and Family, Youth and Community Sciences
 
 Subject Areas:
-Water-related research
+Sustainable agriculture and organic food systems development, Community food security and food systems resilience, Decision making under risk and uncertainty in rural and agricultural settings, Social networks research design and strategic choices in farming and resource use
+
+Education:
+- Ph.D. in Agricultural/Community Sciences
+- Research focus on sustainable agriculture and community food systems
 
 Research Focus:
-Dr. Swisher is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Family Youth and Community Science.
+Dr. Swisher is known for her interdisciplinary work in sustainable agriculture, community food systems, and decision-making under risk and uncertainty, particularly as they relate to farmers, rural communities, and food security. She bridges social science, sustainable farming systems, and collaborative research design to assess how individuals and communities make complex agricultural decisions and how community systems adapt to environmental, economic, and social changes. She employs mixed-methods social science research including qualitative and quantitative approaches, participatory and stakeholder-driven research design, community assessment and program evaluation tools, and collaborative interdisciplinary approaches combining social science with biological and environmental research. Research systems include sustainable and organic food systems in Florida and beyond, rural development and food systems in Latin America the Caribbean and Africa, and community food security farmer decision-making and agricultural practice adoption.
+
+Notable Publications:
+- Studies on the roles of farmer organizations in agricultural development and the dynamics of input supply sectors in Haiti
+- Research examining the environmental impacts of cover crop use through scientometric analysis reflecting interest in sustainable production practices and their broader implications
+- Articles exploring consumer preferences regarding organic food labeling and local food systems dynamics indicating engagement with food system economics and community food security
+- Conference and workshop presentations on sustainable agriculture topics such as stakeholder-engaged research design for strawberry growers and organic production systems
+- Interdisciplinary and applied research outputs related to agricultural decision-making community food systems and sustainable agriculture
+
+Policy Relevance:
+Dr. Swisher's work supports agricultural sustainability policy by elucidating how social, economic, and environmental factors interact in community food systems and by improving research design and stakeholder engagement for sustainable food systems solutions. She advances understanding of how producers and communities navigate complex decisions that link social, economic, and biophysical outcomes, enabling more effective policies and practices that promote sustainable agriculture and resilient food systems. Her research influences farmer and community decision science, participatory approaches in agricultural research and extension, and sustainable and organic food system development.
 
 Keywords:
-Water Institute affiliate; Family Youth and Community Science.
+sustainable agriculture; community food systems; food security; decision making; risk and uncertainty; organic agriculture; rural development; participatory research; stakeholder engagement; Latin America; Caribbean; Africa; Florida; farmer organizations; food systems resilience

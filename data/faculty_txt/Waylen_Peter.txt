@@ -1,13 +1,29 @@
-Name: Peter Waylen
+Name: Peter R. Waylen
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Geography
 Email: prwaylen@ufl.edu
+Title: Professor
 
 Subject Areas:
-Water-related research
+Climate variability and change, Hydroclimatology including rainfall-runoff relationships droughts and floods, Tropical and subtropical climate systems, Climate extremes and risk, Climate-society interactions and vulnerability
+
+Education:
+- Ph.D. in Geography/Climatology
+- Research focus on climate variability and hydroclimatology
 
 Research Focus:
-Dr. Waylen is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Geography.
+Dr. Waylen is a climatologist and physical geographer best known for his work on climate variability, hydroclimatology, and climate-society linkages, with a strong emphasis on regional climate patterns, rainfall variability, extremes, and teleconnections such as ENSO. His scholarship connects atmospheric processes to hydrologic responses and human systems, particularly in the Caribbean, Central America, Florida, and other tropical-subtropical regions. He employs statistical climate analysis of long-term observational records, teleconnection analysis including ENSO impacts on regional climate, regional climate characterization and trend analysis, and integration of climate data with hydrologic and societal indicators. Research systems include the Caribbean and Central America, Florida and the southeastern United States, tropical and subtropical river basins, and regions sensitive to climate variability and extremes.
+
+Notable Publications:
+- Research on rainfall variability and ENSO impacts in the Caribbean and Central America
+- Hydroclimatic drivers of floods and droughts in tropical basins
+- Climate risk and vulnerability in small island and developing regions
+- Long-term trend analysis of precipitation and temperature records
+- Publications in geography climatology and environmental science journals addressing regional climate dynamics and their hydrologic and societal implications
+- Work frequently cited in studies of regional climate diagnostics water-resource sensitivity and climate hazard assessment
+
+Policy Relevance:
+Dr. Waylen's work informs water-resource planning, climate adaptation, and hazard preparedness by clarifying how large-scale climate variability translates into regional hydrologic risk. He provides foundational insight into how climate variability drives hydrologic extremes, a prerequisite for managing water resources and climate risk in vulnerable regions. His research influences climate diagnostics and risk assessment, understanding of teleconnections and regional climate sensitivity, and climate-informed planning for water and hazard management.
 
 Keywords:
-Water Institute affiliate; Geography.
+climatology; hydroclimatology; climate variability; ENSO; teleconnections; rainfall; drought; floods; Caribbean; Central America; Florida; tropical climate; climate extremes; water resources; climate risk; physical geography

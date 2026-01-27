@@ -1,14 +1,31 @@
-Name: Matthew Whiles
+Name: Matthew R. Whiles
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Soil and Water Sciences
 Email: mwhiles@ufl.edu
-Google Scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&user=AnT99JsAAAAJ&gmla=AJsN-F72XRuIdEJANqxdRuXl9r0xQtgabv6tQuxzWQfCzqM-XkcqrmZuX7OpqZVJlOK5RLRdIHUmuEVHehadsqXEvBTOQdZNB5GIMKCyb5b_dFODNdxGPgE
+Title: Professor
+
+Google Scholar: https://scholar.google.com/citations?user=AnT99JsAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Stream and river ecology, Aquatic food webs and secondary production, Nutrient cycling and organic matter dynamics, Benthic invertebrate ecology, Cross-ecosystem subsidies and land-water linkages, Effects of land use and disturbance on freshwater ecosystems
+
+Education:
+- Ph.D. in Ecology/Aquatic Sciences
+- Research focus on stream ecology and ecosystem processes
 
 Research Focus:
-Dr. Whiles is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Soil and Water Sciences.
+Dr. Whiles is a stream and aquatic ecologist internationally recognized for his work on energy flow, nutrient dynamics, and food-web structure in streams and rivers. He is especially known for integrating benthic ecology, invertebrate production, organic matter dynamics, and biogeochemical processes to understand how freshwater ecosystems function across land-water interfaces. His research clarifies how nutrients and energy move through aquatic systems and how disturbances such as land use change and hydrologic alteration affect ecosystem processes. He employs field measurements of nutrient fluxes organic matter and invertebrate production, stable isotope analysis to trace energy and nutrient pathways, quantification of secondary production and trophic structure, long-term and comparative field studies across watersheds, and integration of ecological and biogeochemical datasets. Research systems include streams and rivers in agricultural and forested landscapes, midwestern and southeastern U.S. freshwater systems, watersheds experiencing land-use change or nutrient loading, and comparative studies across temperate freshwater ecosystems.
+
+Notable Publications:
+- Secondary production of stream invertebrates and its role in ecosystem energy budgets
+- Nutrient and organic matter processing in streams and rivers
+- Linkages between terrestrial inputs and aquatic food webs
+- Effects of land use and nutrient enrichment on stream ecosystem structure and function
+- Publications in Ecology, Freshwater Biology, Freshwater Science, and Ecosystems
+- Work widely cited for advancing quantitative understanding of nutrient and energy movement through freshwater systems
+
+Policy Relevance:
+Whiles's work informs water-quality management and watershed policy by clarifying how nutrients and organic matter are processed within streams, shaping ecosystem health and downstream impacts. He provides foundational insight into how freshwater ecosystems process nutrients and energy, a critical link between terrestrial nutrient sources and downstream water-quality outcomes. His work influences understanding of nutrient fate and transformation in streams, ecological indicators used in water-quality and watershed assessment, and science-based management of freshwater ecosystems.
 
 Keywords:
-Water Institute affiliate; Soil and Water Sciences.
+stream ecology; river ecology; aquatic food webs; nutrient cycling; organic matter dynamics; benthic invertebrates; secondary production; stable isotopes; biogeochemistry; freshwater ecosystems; land-water linkages; water quality; watershed management; ecosystem function

@@ -1,15 +1,31 @@
-Name: Sudeep Sidhu
+Name: Sudeep S. Sidhu
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: IFAS Extension Disctrict II
+Academic Unit: Agronomy; UF/IFAS North Florida Research and Education Center (NFREC) - Quincy
 Email: s.sidhu@ufl.edu
+Title: Assistant Professor of Agronomy
+
 Google Scholar: https://scholar.google.com/citations?user=qMrZY6sAAAAJ&hl=en
 Website: https://svaec.ifas.ufl.edu/faculty-and-staff/faculty-directory/sudeep-sidhu-faculty-profile-page/
 
 Subject Areas:
-Water-related research
+Precision nutrient and water management, Conservation tillage and cropping systems, Integrated crop-livestock and sod-based rotation systems, Enhanced-efficiency fertilizers and nitrogen management, Site-specific agronomic recommendations and BMP evaluation, On-farm variety trials and fertilization optimization
+
+Education:
+- Ph.D. in Agronomy/Soil Science
+- Research focus on precision agriculture and nutrient management
 
 Research Focus:
-Dr. Sidhu is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in IFAS Extension Disctrict II.
+Dr. Sidhu is known for his applied agronomic and nutrient management research, focusing on precision nutrient and water management, conservation cropping systems, and best management practices (BMPs) that improve crop productivity while reducing environmental impacts such as nutrient leaching. His work marries field-based agronomy, precision technology, and soil-plant-water processes to generate site-specific strategies for crops like corn, cotton, peanuts, and soybeans. He employs field-based agronomy and long-term demonstration trials, use of lysimeters and deep core soil sampling to assess water quality outcomes, precision tools like Veris MSP3 soil mapping and soil moisture sensors and NDVI for site-specific management, on-farm testing of variable rate irrigation and fertilizer application technologies, and integration of cropping system practices with water and nutrient cycling assessment. Research systems include row crops and forage systems in the Florida Panhandle and Suwannee Valley, soil and water quality implications in sandy humid subtropical soils, and cropping systems with cover crops and rotational grazing.
+
+Notable Publications:
+- Methods to Quantify In-Field Nutrient Leaching - EDIS extension publication
+- Controlled-Release Potassium Fertilization in Peanut Production in Florida - extension bulletin
+- Sulfur Deficiency in Cotton: Causes Symptoms and Considerations - crop nutrient guidance
+- Peanut Production Guide: Management and Cultural Practices for Peanuts - multi-author production guide
+- Peer-reviewed research on cropping systems precision agriculture and nutrient/water management
+
+Policy Relevance:
+Dr. Sidhu's research and extension work provide evidence-based, site-specific management recommendations that improve nutrient and water use efficiency and reduce environmental impacts, supporting sustainable agricultural policy and practice. His work directly ties nutrient and water management practices to soil and water quality outcomes by developing and demonstrating BMPs and precision approaches that reduce nutrient losses while maintaining crop productivity. This plays a critical role in groundwater and surface water protection in agricultural landscapes. His work influences precision nutrient management and BMP adoption, integration of agronomic practices with environmental quality goals, and on-farm translation of research through field demonstrations and stakeholder engagement.
 
 Keywords:
-Water Institute affiliate; IFAS Extension Disctrict II.
+precision agriculture; nutrient management; water management; agronomy; conservation tillage; cropping systems; best management practices; nitrogen; fertilizer; corn; cotton; peanuts; soybeans; Florida Panhandle; Suwannee Valley; water quality; nutrient leaching; site-specific management

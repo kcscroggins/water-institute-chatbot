@@ -1,13 +1,29 @@
-Name: Lynn Sollenberger
+Name: Lynn E. Sollenberger
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Agronomy
 Email: lesollen@ufl.edu
+Title: Distinguished Professor Emeritus of Agronomy
+
+Google Scholar: https://scholar.google.com/citations?user=k5xt4gsAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Forage and grassland ecology and management, Forage quality and nutritive assessment, Grazing management systems and livestock-forage interactions, Grass-legume pasture mixtures and legume inclusion strategies, Forage production systems including warm-season grasses, Bioenergy cropping systems with forage species
+
+Education:
+- Ph.D. in Agronomy/Forage Science
+- Research focus on grassland systems and forage production
 
 Research Focus:
-Dr. Sollenberger is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agronomy.
+Dr. Sollenberger is known for her leadership in forage crop and grassland systems research, integrating forage production, grazing livestock management, nutrient cycling, and sustainable grassland ecology. Her work advances forage quality assessment, grazing management strategies, and optimization of grass-legume mixed systems for animal production and ecosystem services. She has also contributed to bioenergy crop feedstock research and improved understanding of how grassland systems interact with soil nutrients and water dynamics. She employs field trials and long-term pasture research, forage quality analysis including nutrient composition and digestibility metrics, evaluation of grazing management impacts on plant soil and animal performance, and collaborative interdisciplinary research integrating plant soil and animal data. Research systems include pasture and forage systems of Florida and Southeast US, warm-season grasses such as bahiagrass elephantgrass and limpograss, grass-legume mixtures including rhizoma peanut and pintoi peanut, and livestock-forage interface in beef and dairy production.
+
+Notable Publications:
+- Defining Forage Quality co-authored with A Adesogan and J Vendramini - UF/IFAS EDIS
+- Management guides for grazing systems including rotational vs continuous grazing and forage production guidelines
+- Collaborative forage research updates including grass-legume mixtures and nutrient impacts in pasture systems
+- Research exploring annual legumes and warm-season grass nutrient dynamics in forage systems
+
+Policy Relevance:
+Dr. Sollenberger's research and extension leadership provide evidence-based frameworks for managing grassland forage systems that optimize nutrient cycling, forage quality, and environmental sustainability, supporting resource-efficient livestock and pasture management. Her work on grassland and forage systems directly addresses nutrient cycling within pastures, forage quality, and grazing management, all of which shape how nutrients are retained, transferred to livestock, or lost from agricultural soils, influencing water quality and soil nutrient status. Her work influences forage quality and nutrient concentration standards, grazing and pasture nutrient management recommendations, and grass-legume integration for sustainable production systems.
 
 Keywords:
-Water Institute affiliate; Agronomy.
+forage; grassland ecology; grazing management; forage quality; pasture systems; warm-season grasses; bahiagrass; limpograss; grass-legume mixtures; rhizoma peanut; livestock production; nutrient cycling; beef cattle; dairy; bioenergy crops; Professor Emeritus

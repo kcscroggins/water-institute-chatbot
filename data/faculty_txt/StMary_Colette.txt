@@ -1,13 +1,30 @@
-Name: Colette St Mary
+Name: Colette M. St. Mary
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Biology
 Email: stmary@ufl.edu
+Title: Professor & Associate Chair
+
+Google Scholar: https://scholar.google.com/citations?user=U1pETGwAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Evolutionary ecology and life-history theory, Behavioral ecology and parental care evolution, Sexual selection and mating systems, Phenotypic plasticity and reproductive strategies, Evolutionary responses to environmental toxicants, Impacts of hatchery rearing on wild fish performance
+
+Education:
+- Ph.D. in Biology/Evolutionary Ecology
+- Research focus on behavioral ecology and evolution of reproductive strategies
 
 Research Focus:
-Dr. St Mary is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Biology.
+Dr. St. Mary is a highly cited evolutionary biologist and behavioral ecologist known for her work on the evolution of reproductive life-history traits, particularly parental care, sex allocation, and mating systems in fishes. She also investigates behavioral ecology across taxa, the evolutionary aspects of life history, and applies evolutionary principles to applied ecological and conservation problems, including effects of environmental contaminants and hatchery practices on reproductive function. She employs laboratory experiments and controlled behavioral studies, field work with fish model organisms, mathematical and statistical modeling of evolutionary dynamics, and comparative analyses across species and ecological contexts. Research systems include fish model organisms such as sand goby and Florida flagfish, broadly relevant across vertebrates, and evolutionary biology contexts spanning ecology behavior and life history tradeoffs.
+
+Notable Publications:
+- Sexual selection for male parental care in the sand goby demonstrating how male parental care enhances offspring survival and attracts mates
+- Parental care and mate attraction in the Florida flagfish exploring behavioral ecology of care strategies
+- Studies on the effects of agricultural contaminants on reproductive morphology and spermatogenesis in giant toads highlighting evolutionary and ecological responses to environmental stressors
+- Work on autotomy and survival tradeoffs in insects showing evolutionary pressures that shape defensive morphologies
+- Thousands of citations and numerous publications in leading journals
+
+Policy Relevance:
+Dr. St. Mary's research elucidates how evolutionary processes shape organismal behavior and life history, informing conservation and management strategies that consider evolutionary and ecological dynamics. Her research on evolutionary and behavioral responses to environmental conditions is foundational for understanding how populations respond to ecological stressors, a critical piece of the broader environmental systems context. Her work influences evolutionary and life-history theory, behavioral ecology as it relates to conservation outcomes, and integrating evolutionary principles into applied ecological understanding.
 
 Keywords:
-Water Institute affiliate; Biology.
+evolutionary ecology; behavioral ecology; life history; parental care; sexual selection; mating systems; fish biology; reproductive strategies; phenotypic plasticity; environmental toxicants; hatchery effects; conservation biology; Florida flagfish; sand goby

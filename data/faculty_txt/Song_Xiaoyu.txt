@@ -1,13 +1,29 @@
 Name: Xiaoyu Song
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Civil and Coastal Engineering, ESSIE
+Academic Unit: Civil and Coastal Engineering; Engineering School of Sustainable Infrastructure & Environment (ESSIE)
 Email: xiaoyu.song@essie.ufl.edu
+Title: Associate Professor
+
+Google Scholar: https://scholar.google.com/citations?user=aksOfrcAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Computational geomechanics and numerical modeling, Multiscale and multiphysics modeling of geomaterials, Strain localization and failure prediction in unsaturated soils, Periporomechanics and nonlocal constitutive paradigms for porous media, High-performance computing applications in civil and environmental engineering
+
+Education:
+- Ph.D. in Civil Engineering/Geomechanics
+- Research focus on computational modeling and numerical simulation
 
 Research Focus:
-Dr. Song is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Civil and Coastal Engineering, ESSIE.
+Dr. Song is known for his innovative theoretical and computational modeling in geomechanics, especially focused on multiphysics and multiscale numerical modeling of porous geomaterials, including strain localization, failure mechanisms in unsaturated soils, and advanced periporomechanics frameworks. His work addresses mechanical behavior and instability in soils and geomaterials under complex loading and environmental conditions, integrating high-performance computing, nonlocal models, and multiphysics coupling across length scales. He employs advanced numerical techniques and meshfree methods for porous media mechanics, periporomechanics frameworks bridging micro to macro-scale behavior, high-performance computing for large-scale geomechanical simulations, and finite element and nonlocal continuum methods for slope stability and soil failure. Research systems include unsaturated soils and porous geomaterials and three-phase porous media, slope stability and geohazard contexts influenced by environmental loads, and computational frameworks applicable to infrastructure resilience in variable environmental settings.
+
+Notable Publications:
+- Modeling Thermal Slope Failure through a Nonlocal THM Meshless Paradigm development of periporomechanics modeling for complex porous media failure
+- Large-deformation localized failure in geomaterials via nonlocal meshfree methods - International Journal for Numerical and Analytical Methods in Geomechanics
+- Dynamic crack branching in unsaturated porous media through micro-periporomechanics
+- Publications in Ocean Engineering and numerical modeling outlets
+
+Policy Relevance:
+Dr. Song's research enhances predictive capabilities for soil and infrastructure failure under environmental stresses, providing rigorous computational methods relevant to hazard mitigation, resilient design, and geotechnical risk assessment. His work advances fundamental understanding of soil mechanics and failure processes, which is crucial for predicting soil strength and stability under environmental loads, including water content changes and climate stressors, and informs infrastructure resilience, landslide risk, and environmental geotechnics. His work influences computational and numerical methods for geomechanics, soil instability and failure prediction under environmental load, and use of HPC in civil and environmental engineering challenges.
 
 Keywords:
-Water Institute affiliate; Civil and Coastal Engineering, ESSIE.
+geomechanics; computational modeling; numerical simulation; porous media; unsaturated soils; strain localization; periporomechanics; multiphysics; multiscale modeling; high-performance computing; slope stability; geohazards; soil mechanics; infrastructure resilience; ESSIE

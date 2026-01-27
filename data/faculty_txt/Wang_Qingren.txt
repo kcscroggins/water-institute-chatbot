@@ -1,13 +1,30 @@
 Name: Qingren Wang
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Tropical Research and Education Center Homestead
+Academic Unit: UF/IFAS Extension - Tropical Research and Education Center (Homestead); Miami-Dade County
 Email: qrwang@ufl.edu
+Title: Extension Agent IV, Ph.D.
 
 Subject Areas:
-Water-related research
+Commercial vegetable and specialty crop production systems in South Florida, Soil management and fertility including nutrient stewardship, Disease and pest management in vegetable crops, Extension education on best practices for irrigation fertilization and crop protection, Translation of research into grower-oriented guidelines and publications
 
-Research Focus:
-Dr. Wang is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Tropical Research and Education Center Homestead.
+Education:
+- Ph.D. in Soil Science/Agronomy
+- Focus on vegetable production and nutrient management
+
+Program Focus:
+Dr. Wang is known for extension and applied research in vegetable crop production systems, emphasizing soil management, nutrient stewardship, pest and disease control, and production guidelines for subtropical vegetable and specialty crops grown in South Florida. He bridges applied agronomy, soil science, and commercial vegetable systems to provide tailored guidance for growers on crop management, soil fertility, and environmental stewardship in intensive production environments. He employs development of UF/IFAS fact sheets and extension publications on disease control nutrient management and crop production practices, field-based applied agronomic experience including soil test calibration pest and disease scouting and production systems, engagement with growers through workshops trainings and on-farm support, and support for regional extension teams on soil nutrient testing fertilizer recommendations and integrated pest management. Program systems include subtropical vegetable production systems in Miami-Dade County and South Florida especially Homestead and nearby agricultural hubs, and intensive and specialty vegetable systems such as beans peppers squash and Asian vegetables.
+
+Program Activities:
+- Disease Control for Snap Beans in Florida - a sequential disease management program for growers
+- Management of Powdery Mildew in Beans - practical disease management guidance
+- Pepper Production in Miami-Dade County - production guidelines including soil and water management
+- Implementing 4Rs Nutrient Stewardship for Tomato Production - fact sheet on nutrient management
+- Nutrient Management Recommendations Based on Mehlich-3 for Calcareous Soils - soil test interpretation for South Florida conditions
+- Summer Squash Production and specialty vegetable fact sheets tailored to local conditions
+- Contributions to Vegetable Production Handbook of Florida
+
+Extension Impact:
+Wang's work advances sustainable vegetable production by translating soil science, nutrient management, and crop protection research into actionable practices for growers, enhancing environmental stewardship and crop profitability. His efforts ensure that science-based soil and nutrient management practices are adopted in South Florida's vegetable production sector, reducing environmental risk while maintaining crop performance. This linkage is crucial in intensive agricultural landscapes where nutrient losses can impact water quality. His work influences grower education on nutrient management and soil health, translation of research into practical production guidance, and stakeholder adoption of integrated crop production practices.
 
 Keywords:
-Water Institute affiliate; Tropical Research and Education Center Homestead.
+vegetable production; extension; soil management; nutrient stewardship; Miami-Dade County; South Florida; Homestead; calcareous soils; Mehlich-3; disease management; pest management; specialty crops; subtropical agriculture; fertilization; irrigation

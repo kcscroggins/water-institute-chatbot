@@ -2,12 +2,29 @@ Name: Sanjay Shukla
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Agricultural and Biological Engineering
 Email: sshukla@ufl.edu
+Title: Professor
+
+Google Scholar: https://scholar.google.com/citations?user=nID94UcAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Watershed hydrology and surface-subsurface water interactions, Non-point source pollution and sediment transport, Stormwater quality and erosion processes, Hydrologic modeling of agricultural and forested watersheds, Water resources planning and management, Soil erosion processes and prediction
+
+Education:
+- Ph.D. in Agricultural/Biological Engineering or Hydrology
+- Research focus on watershed systems and environmental modeling
 
 Research Focus:
-Dr. Shukla is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural and Biological Engineering.
+Dr. Shukla is known for his research in hydrology, watershed and stormwater management, nonpoint source pollution, soil erosion, and environmental systems modeling, with a strong focus on integrating physical processes with environmental quality and agricultural landscapes. He has made foundational contributions to understanding how water and sediment move across landscapes, how agricultural practices influence runoff and pollutant transport, and how models can be used for watershed planning and decision support. He employs development and application of hydrologic and sediment transport models, field measurement and monitoring of watershed processes, analysis and partitioning of runoff sediment yield and pollutant fluxes, and integration of models with management decision frameworks. Research systems include agricultural watersheds and forested catchments, urbanizing watersheds impacted by land-use change, and Florida and southeastern US landscapes.
+
+Notable Publications:
+- Development and evaluation of watershed models addressing runoff sediment and nutrient transport - Water Resources Research
+- Studies linking agricultural practices to water quality outcomes - Journal of Hydrology
+- Research on stormflow generation mechanisms and soil erosion dynamics - Hydrological Processes
+- Integration of hydrologic processes into decision support for land and water management - Transactions of the ASABE
+- Thousands of citations with substantial h-index reflecting sustained influence
+
+Policy Relevance:
+Dr. Shukla's research supports evidence-based watershed planning and water quality policy by quantifying how land management and hydrologic processes interact to shape runoff, sediment yield, and pollutant transport. His research directly addresses how water moves across landscapes and how sediments and pollutants are generated and transported, which are core components of soil and water quality systems. His modeling and empirical work inform predictive and management frameworks for addressing watershed and agricultural impacts. His work influences watershed modeling and decision support, understanding of runoff and sediment dynamics, and evidence for agricultural conservation practices and water policy.
 
 Keywords:
-Water Institute affiliate; Agricultural and Biological Engineering.
+hydrology; watershed management; non-point source pollution; sediment transport; stormwater; soil erosion; hydrologic modeling; water quality; agricultural watersheds; runoff; pollutant transport; water resources; environmental modeling; decision support; Florida

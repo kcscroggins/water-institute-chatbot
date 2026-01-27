@@ -2,12 +2,29 @@ Name: Benjamin Wilkinson
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: School of Forest Resources and Conservation
 Email: benew@ufl.edu
+Title: Assistant Professor
+
+Google Scholar: https://scholar.google.com/citations?user=iWU4I9kAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Forest ecosystem ecology, Carbon and nutrient cycling, Plant-soil feedbacks and belowground processes, Ecosystem responses to disturbance and environmental change, Functional traits and ecosystem functioning
+
+Education:
+- Ph.D. in Ecology/Forest Science
+- Research focus on ecosystem biogeochemistry and plant-soil interactions
 
 Research Focus:
-Dr. Wilkinson is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in School of Forest Resources and Conservation.
+Dr. Wilkinson is a forest and ecosystem ecologist whose research focuses on plant-soil interactions, nutrient and carbon cycling, and ecosystem responses to environmental change. His work emphasizes mechanistic understanding of how forests regulate biogeochemical processes, particularly how vegetation traits, soil processes, and disturbance shape ecosystem functioning across landscapes. He employs field measurements of forest structure productivity and nutrient pools, soil and plant biogeochemical analyses, experimental and observational studies across forest gradients, and integration of ecological theory with empirical data. Research systems include temperate and subtropical forest ecosystems, managed and natural forest landscapes, and systems experiencing nutrient limitation disturbance or climate stress.
+
+Notable Publications:
+- Controls on forest carbon storage and turnover
+- Nutrient limitation and allocation in forest ecosystems
+- Links between plant functional traits and soil processes
+- Ecosystem-level consequences of disturbance and management
+- Publications in ecology and ecosystem science journals addressing nutrient and carbon processes in forested systems
+
+Policy Relevance:
+Wilkinson's research informs forest management and climate policy by clarifying the ecological mechanisms that regulate carbon storage, nutrient availability, and ecosystem resilience. He provides mechanistic insight into how forests regulate biogeochemical cycles, which is foundational for predicting ecosystem responses to disturbance, management, and climate change. His work influences understanding of forest carbon and nutrient dynamics, scientific basis for forest resilience and management strategies, and integration of plant and soil processes in ecosystem models.
 
 Keywords:
-Water Institute affiliate; School of Forest Resources and Conservation.
+forest ecology; ecosystem ecology; carbon cycling; nutrient cycling; plant-soil interactions; biogeochemistry; functional traits; forest management; disturbance; environmental change; ecosystem resilience; belowground processes

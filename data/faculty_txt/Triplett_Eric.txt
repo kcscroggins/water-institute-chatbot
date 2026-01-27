@@ -1,13 +1,31 @@
-Name: Eric Triplett
+Name: Eric W. Triplett
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Microbiology and Cell Science
 Email: ewt@ufl.edu
+Title: Professor and Chair
+
+Google Scholar: https://scholar.google.com/citations?user=0UTNJyYAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Molecular microbial ecology, Soil and rhizosphere microbiomes, Plant-microbe interactions and endophytic bacteria, Nitrogen fixation and plant growth-promoting microbes, Freshwater microbial communities, Human and animal microbiomes including early-life immune development, Environmental drivers of microbial diversity
+
+Education:
+- Ph.D. in Microbiology
+- Research focus on molecular microbial ecology and microbiome science
 
 Research Focus:
-Dr. Triplett is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Microbiology and Cell Science.
+Dr. Triplett is a foundational figure in molecular microbial ecology. He is widely known for pioneering high-throughput, culture-independent methods to characterize microbial diversity and for applying these tools to soil, rhizosphere, freshwater, and host-associated microbiomes. His work helped establish how environmental factors such as soil pH, land use, and plant hosts structure microbial communities and how microbes, in turn, influence nutrient cycling, plant productivity, and host health. He has also made major contributions to plant-microbe interactions including biological nitrogen fixation and to human microbiome research related to immune development and autoimmunity. He employs high-throughput sequencing including 16S rRNA and metagenomics, development and application of microbial diversity metrics, comparative microbial community analysis across environments, genomics of bacteria and microbial consortia, and integration of molecular data with environmental and host metadata. Research systems include agricultural soils and rhizospheres, natural and managed freshwater systems, tropical and temperate soils including deforestation gradients, and host-associated systems such as plant roots and human gut microbiomes.
+
+Notable Publications:
+- Pyrosequencing enumerates and contrasts soil microbial diversity (ISME Journal) - among the earliest demonstrations of high-throughput sequencing for soil microbial community analysis foundational for modern soil microbiome research
+- Early molecular surveys of agricultural and natural soils establishing baseline concepts of microbial diversity and land-use effects (Applied and Environmental Microbiology)
+- Soil pH as a dominant driver of microbial community composition (Microbial Ecology) - widely cited demonstration of environmental control on microbiomes
+- Rhizosphere and plant-associated microbiomes clarifying how plants shape microbial communities and benefit from microbial functions such as nitrogen fixation
+- Human microbiome and autoimmunity research connecting microbial community composition in early life to immune outcomes such as type 1 diabetes
+- Approximately 30,000 citations with h-index of 85 reflecting exceptional influence across disciplines
+
+Policy Relevance:
+Dr. Triplett's work provides the microbial and genomic foundation needed to inform sustainable agriculture, soil health management, ecosystem monitoring, and microbiome-informed health and environmental policy. He helped define how microbial communities are studied at scale and demonstrated that microbes are central drivers of ecosystem function, nutrient cycling, and host health. His work connects molecular biology to real-world environmental and agricultural outcomes. His research influences measurement and interpretation of microbial diversity, understanding of microbial controls on soil fertility and plant productivity, and integration of microbiomes into ecosystem and health science.
 
 Keywords:
-Water Institute affiliate; Microbiology and Cell Science.
+microbial ecology; microbiome; soil microbiome; rhizosphere; nitrogen fixation; plant-microbe interactions; metagenomics; 16S rRNA; microbial diversity; soil pH; freshwater microbiology; human microbiome; autoimmunity; high-throughput sequencing; agricultural microbiology

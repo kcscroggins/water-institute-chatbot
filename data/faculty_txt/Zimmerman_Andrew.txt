@@ -2,12 +2,29 @@ Name: Andrew Zimmerman
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Geological Sciences
 Email: azimmer@ufl.edu
+Title: Associate Professor
+
+Google Scholar: https://scholar.google.com/citations?user=Dh2TSsQAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Environmental and isotope geochemistry, Carbon cycling and organic matter dynamics, Soil and sediment biogeochemistry, Land-water carbon fluxes, Climate-carbon feedbacks
+
+Education:
+- Ph.D. in Geochemistry/Earth Sciences
+- Research focus on carbon cycling and organic matter transformations
 
 Research Focus:
-Dr. Zimmerman is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Geological Sciences.
+Dr. Zimmerman is an environmental geochemist recognized for his work on carbon cycling, organic matter transformations, and biogeochemical processes in soils and sediments. His research focuses on how carbon is stabilized, transformed, and exchanged between terrestrial and aquatic systems, with implications for climate feedbacks, land-use change, and long-term carbon storage. He employs stable isotope analysis including carbon isotopes, molecular and bulk characterization of organic matter, laboratory and field studies of soils and sediments, experimental manipulation of biogeochemical conditions, and integration of geochemical data with ecosystem processes. Research systems include soils and sediments across terrestrial and aquatic environments, systems influenced by land-use change and disturbance, and interfaces between rivers wetlands and coastal environments.
+
+Notable Publications:
+- Controls on soil and sediment organic carbon persistence
+- Transformation pathways of organic matter across environments
+- Geochemical signatures of carbon sources and processes
+- Linkages between terrestrial carbon inputs and aquatic processing
+- Publications in geochemistry and biogeochemistry journals addressing mechanisms of carbon stabilization degradation and transport
+
+Policy Relevance:
+Zimmerman's research informs climate and land-management policy by clarifying the mechanisms that control carbon storage and exchange across terrestrial and aquatic systems. He provides mechanistic insight into carbon stabilization and loss, which is critical for predicting climate feedbacks and evaluating land-use and management strategies. His work influences understanding of soil and sediment carbon persistence, scientific basis for carbon accounting and climate models, and integration of geochemistry into ecosystem and Earth system science.
 
 Keywords:
-Water Institute affiliate; Geological Sciences.
+environmental geochemistry; isotope geochemistry; carbon cycling; organic matter; soil carbon; sediment biogeochemistry; carbon storage; climate feedbacks; land-water interface; stable isotopes; carbon persistence; Earth system science

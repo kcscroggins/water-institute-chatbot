@@ -1,13 +1,29 @@
-Name: Patrick Wilson
+Name: Patrick C. Wilson
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Indian River Research and Education Center - Ft Pierce
 Email: pcwilson@ufl.edu
+Title: Associate Professor
 
 Subject Areas:
-Water-related research
+Water quality and pollution control, Nutrient fate transport and mitigation, Agricultural and urban runoff management, Treatment wetlands and engineered treatment systems, Environmental monitoring and assessment
+
+Education:
+- Ph.D. in Environmental Engineering
+- Research focus on water quality and contaminant fate and transport
 
 Research Focus:
-Dr. Wilson is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Indian River Research and Education Center - Ft Pierce.
+Dr. Wilson is an environmental engineer known for his work on water quality, contaminant fate and transport, and treatment technologies in agricultural and urban water systems. His research focuses on how nutrients and contaminants move through soils and waters, and how engineered and nature-based solutions can reduce pollution and improve water quality, particularly in Florida's coastal and agricultural regions. He employs field and laboratory measurements of water and soil quality, design and evaluation of treatment wetlands and best management practices, nutrient mass balance and transport analysis, monitoring of surface and groundwater systems, and applied engineering analysis for real-world systems. Research systems include Florida agricultural landscapes especially south and coastal Florida, watersheds connected to the Indian River Lagoon and estuarine systems, and managed treatment systems bridging land and water.
+
+Notable Publications:
+- Nutrient removal efficiency of treatment wetlands
+- Fate and transport of nitrogen and phosphorus
+- Performance of engineered systems under field conditions
+- Design principles for water-quality improvement in agricultural regions
+- Publications in environmental engineering and water-quality journals
+- Applied reports BMP evaluations and stakeholder-facing guidance for Florida water management
+
+Policy Relevance:
+Wilson's work provides the technical basis for water-quality regulations, BMP design, and infrastructure investments aimed at reducing nutrient pollution. He contributes actionable engineering science that directly informs how nutrient pollution is reduced in real landscapes, especially in environmentally sensitive coastal regions. His work influences design and performance of nutrient mitigation infrastructure, water-quality compliance and regulatory strategy, and implementation of BMPs and treatment systems.
 
 Keywords:
-Water Institute affiliate; Indian River Research and Education Center - Ft Pierce.
+environmental engineering; water quality; nutrient transport; treatment wetlands; BMPs; best management practices; pollution control; agricultural runoff; Indian River Lagoon; coastal Florida; nitrogen; phosphorus; contaminant fate; groundwater; surface water

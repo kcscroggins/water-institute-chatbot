@@ -2,13 +2,29 @@ Name: Weizhe Weng
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Food and Resource Economics
 Email: wweng@ufl.edu
+Title: Assistant Professor
+
 Google Scholar: https://scholar.google.com/citations?user=E75C1nQAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Agricultural and resource economics, Producer decision-making under risk and uncertainty, Policy evaluation and market impacts, Environmental and resource policy analysis, Agricultural markets and price dynamics
+
+Education:
+- Ph.D. in Agricultural/Resource Economics
+- Research focus on applied econometrics and policy analysis
 
 Research Focus:
-Dr. Weng is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Food and Resource Economics.
+Dr. Weng is an applied agricultural and environmental economist whose work centers on econometric analysis of agricultural markets, producer behavior, and policy impacts, with particular attention to risk, uncertainty, and decision-making under environmental and market constraints. His research applies rigorous quantitative methods to evaluate how policies, prices, and shocks influence outcomes in agricultural and resource systems. He employs econometric modeling including panel data causal inference and structural models, analysis of large administrative and survey datasets, quantitative policy evaluation and counterfactual analysis, and integration of economic models with environmental and production contexts. Research systems include U.S. agricultural systems with relevance to Florida specialty crops, market and policy environments affecting producers and land managers, and resource and environmental policy contexts influencing agricultural decisions.
+
+Notable Publications:
+- Effects of policy interventions on producer behavior and market outcomes
+- Risk and uncertainty in agricultural production and investment
+- Market responses to environmental or economic shocks
+- Causal identification of policy and market effects on agricultural outcomes
+- Publications in agricultural and applied economics journals with methodological rigor and policy relevance
+
+Policy Relevance:
+Weng's research informs agricultural and environmental policy by providing causal evidence on how incentives and uncertainty influence producer behavior and market outcomes. He provides quantitative, policy-relevant insight into how economic forces and uncertainty drive decisions in agriculture, which is essential for designing effective policies and programs that influence resource use and environmental performance. His work influences economic incentives and policy design, understanding of risk and uncertainty in producer decisions, and evidence-based evaluation of agricultural and resource policies.
 
 Keywords:
-Water Institute affiliate; Food and Resource Economics.
+agricultural economics; resource economics; applied econometrics; policy analysis; producer behavior; risk; uncertainty; market impacts; causal inference; panel data; agricultural markets; environmental policy; Florida agriculture; decision-making

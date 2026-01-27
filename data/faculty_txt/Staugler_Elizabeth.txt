@@ -1,13 +1,31 @@
-Name: Elizabeth Staugler
+Name: Elizabeth A. Staugler (Betty Staugler)
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Florida Sea Grant
+Academic Unit: Florida Sea Grant College Program
 Email: staugler@ufl.edu
+Title: NOAA Harmful Algal Bloom (HAB) Liaison
 
 Subject Areas:
-Water-related research
+Harmful algal bloom outreach and communication, Coastal water quality and ecosystem impacts of algal blooms, Integration of remote sensing and HAB forecast products into decision support, Stakeholder needs assessment for science tools, Coastal socioeconomic and ecological impact analysis
 
-Research Focus:
-Dr. Staugler is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Florida Sea Grant.
+Education:
+- Background in marine science and environmental communication
+- Focus on harmful algal bloom science and coastal outreach
+
+Program Focus:
+Elizabeth Staugler is widely recognized for her work in harmful algal bloom (HAB) outreach, communication, and stakeholder engagement, linking scientific research with real-world coastal management and decision-making needs. In her NOAA HAB Liaison role, she coordinates the translation of satellite data, forecasts, and research products into usable information for local resource managers, public health officials, coastal communities, and other stakeholders. She employs facilitated stakeholder engagement and feedback loops between NOAA scientists and coastal managers, development of data-driven communication tools based on forecasting and remote sensing outputs, workshops and teaching for resource managers and public health professionals, and collaborative synthesis across agencies and Sea Grant programs to improve HAB data access and usability. Program systems include Florida coastal waters and estuaries in Gulf of Mexico and Atlantic coastal zones, nationwide coordination across Sea Grant programs for HAB communication, and interactions between nutrients climate variability and algal bloom dynamics in coastal waters.
+
+Program Activities:
+- State of the Science for Harmful Algal Blooms in Florida: Karenia brevis and Microcystis spp consensus report - Sea Grant
+- State of the Science for Cyanobacterial Blooms in Florida guidance for blue-green algae across freshwater and marine systems
+- Economic Impacts of Artificial Reefs fact sheets assessing socioeconomic contributions of reef programs
+- Barotrauma and Successful Release of Deep-Water Fish extension fact sheets supporting sustainable fisheries practices
+- Sea Grant symposia and collaborative science fora aligning research and management needs for HABs
+
+Extension Impact:
+Her work is deeply embedded in applied coastal environmental systems, particularly the detection, communication, and management of harmful algal blooms, phenomena strongly influenced by nutrient dynamics, water quality, and climatic drivers. Her role amplifies the translation of scientific data such as satellite HAB forecasts into usable tools and outreach for communities and managers tasked with responding to bloom events and protecting coastal ecosystems.
+
+Policy Relevance:
+Elizabeth Staugler's work integrates scientific products from NOAA and Sea Grant with community and resource-manager needs to improve HAB forecasting communication, water quality decision support, and coastal ecosystem resilience. She provides a critical nexus between science and practice for harmful algal bloom issues that affect human health, coastal economies, and ecosystem integrity. Her work influences coastal ecological hazard communication and outreach, stakeholder integration of remote sensing and forecasting tools, and socio-ecological understanding of HAB impacts.
 
 Keywords:
-Water Institute affiliate; Florida Sea Grant.
+harmful algal blooms; HAB; Karenia brevis; red tide; cyanobacteria; blue-green algae; Florida Sea Grant; NOAA; coastal water quality; remote sensing; forecasting; stakeholder engagement; coastal management; public health; ecosystem services; Gulf of Mexico

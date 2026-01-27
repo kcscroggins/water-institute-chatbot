@@ -1,13 +1,31 @@
-Name: Spyros Svoronos
+Name: Spyros A. Svoronos
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Chemical Engineering
 Email: svoronos@ufl.edu
+Title: Professor
+
+Google Scholar: https://scholar.google.com/citations?user=G_rkhUoAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Process control and systems engineering, Dynamic modeling of chemical processes, Process monitoring fault detection and diagnosis, Optimization and control of nonlinear systems, Integration of data analytics with first-principles models
+
+Education:
+- Ph.D. in Chemical Engineering
+- Research focus on process control and systems engineering
 
 Research Focus:
-Dr. Svoronos is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Chemical Engineering.
+Dr. Svoronos is known for his work in chemical process control, process modeling, and optimization, with sustained contributions to dynamic systems, control theory applied to chemical processes, and data-driven process monitoring. His research emphasizes how complex chemical and industrial systems can be modeled, controlled, and optimized to improve performance, stability, and efficiency, bridging theory and industrially relevant applications. He employs control theory including classical and advanced control methods, mathematical modeling of dynamic process systems, optimization algorithms for chemical and industrial processes, statistical and data-driven techniques for process monitoring, and simulation-based analysis of complex engineered systems. Research systems include chemical and biochemical processing systems, industrial process operations requiring stability and efficiency, and energy and materials processing contexts where control and optimization are critical.
+
+Notable Publications:
+- Research on model-based and data-driven process control
+- Fault detection and diagnosis in chemical processes
+- Dynamic optimization of nonlinear process systems
+- Integration of control theory with practical chemical engineering problems
+- Publications in Industrial & Engineering Chemistry Research, Chemical Engineering Science, and core journals in process systems engineering
+- Long-term influential contributions to control and modeling within chemical engineering
+
+Policy Relevance:
+Dr. Svoronos's work advances the analytical and control frameworks needed to operate engineered systems efficiently and safely, supporting improved performance in industrial, energy, and environmentally relevant processes. His relevance is methodological and enabling: the modeling, control, and optimization tools he develops are foundational for industrial and environmental process systems, including treatment, separation, and energy processes that underpin environmental management and resource efficiency. His research influences process control and optimization frameworks, stability and efficiency of industrial and treatment systems, and translation of theory into operational decision-making.
 
 Keywords:
-Water Institute affiliate; Chemical Engineering.
+process control; systems engineering; chemical engineering; dynamic modeling; optimization; process monitoring; fault detection; nonlinear systems; data analytics; simulation; industrial processes; treatment systems; control theory

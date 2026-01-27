@@ -2,14 +2,30 @@ Name: Xiao Yu
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Civil and Coastal Engineering, ESSIE
 Email: xiao.yu@essie.ufl.edu
+Title: Associate Professor
+
 Google Scholar: https://scholar.google.com/citations?user=Of57liMAAAAJ&hl=en
 Website: https://faculty.eng.ufl.edu/environmental-fluid-dynamics-laboratory/
 
 Subject Areas:
-Water-related research
+Environmental and coastal fluid dynamics, Hydrodynamics of estuaries and coastal oceans, Sediment transport and morphodynamics, Mixing dispersion and transport processes, Physical drivers of water quality and coastal processes
+
+Education:
+- Ph.D. in Environmental/Coastal Engineering
+- Research focus on environmental fluid dynamics and transport processes
 
 Research Focus:
-Dr. Yu is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Civil and Coastal Engineering, ESSIE.
+Dr. Yu is an environmental and coastal engineer known for his work on environmental fluid dynamics, particularly the transport, mixing, and dispersion of momentum, sediments, and contaminants in coastal and estuarine systems. His research provides mechanistic understanding of how physical hydrodynamics control water quality, sediment processes, and ecosystem-relevant transport pathways in nearshore and coastal environments. He employs numerical modeling of hydrodynamics and transport processes, theoretical and computational fluid dynamics, analysis of turbulence stratification and mixing, integration of field observations with physical models, and high-resolution simulation of coastal and estuarine flows. Research systems include estuaries coastal oceans and nearshore environments, systems influenced by tides waves and stratification, and coastal regions where transport processes shape water quality and sediment dynamics.
+
+Notable Publications:
+- Turbulence and mixing in stratified coastal flows
+- Physical controls on sediment and contaminant transport
+- Hydrodynamic processes shaping estuarine circulation
+- Model development and validation for coastal systems
+- Publications in coastal engineering environmental fluid dynamics and physical oceanography journals
+
+Policy Relevance:
+Yu's research supports coastal and water-quality management by providing the physical basis needed to predict transport, mixing, and dispersion in coastal environments. He provides foundational physical insight into how coastal waters move and mix, which underpins effective modeling, prediction, and management of water quality and sediment dynamics. His work influences physical modeling of coastal systems, understanding of transport and dispersion mechanisms, and design and evaluation of coastal and environmental interventions.
 
 Keywords:
-Water Institute affiliate; Civil and Coastal Engineering, ESSIE.
+environmental fluid dynamics; coastal engineering; hydrodynamics; estuarine systems; sediment transport; mixing; dispersion; turbulence; stratification; coastal ocean; water quality; numerical modeling; transport processes; ESSIE

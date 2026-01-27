@@ -1,13 +1,29 @@
-Name: Andres Susaeta
+Name: Andrés Susaeta
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: School of Forest Resources and Conservation
 Email: asusaeta@ufl.edu
+Title: Associate Professor
 
 Subject Areas:
-Water-related research
+Forest economics and forest policy, Private forest landowner behavior and incentives, Timber markets and forest product supply, Economics of bioenergy and biomass utilization, Forest carbon markets and ecosystem service valuation, Risk uncertainty and investment decisions in forestry
+
+Education:
+- Ph.D. in Forest Resources/Economics
+- Research focus on forest economics and landowner decision-making
 
 Research Focus:
-Dr. Susaeta is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in School of Forest Resources and Conservation.
+Dr. Susaeta is a forest economist whose work focuses on forest landowner decision-making, forest policy, timber markets, and the economics of forest management under uncertainty. He is especially known for analyzing how private forest owners respond to economic incentives, policy instruments, and risk, including markets for timber, bioenergy, ecosystem services, and carbon. His research bridges economic theory, applied modeling, and policy-relevant analysis in forest and natural resource systems. He employs econometric and statistical analysis, optimization and dynamic decision models, policy analysis and scenario modeling, survey-based and revealed-preference analysis of landowners, and integration of biophysical forest data with economic models. Research systems include Southern U.S. forest systems with strong emphasis on private non-industrial forest ownership landscapes and forest management contexts influenced by policy, markets, and climate risk.
+
+Notable Publications:
+- Research on landowner participation in forest carbon and ecosystem service markets
+- Economic feasibility and supply dynamics of forest bioenergy and woody biomass
+- Risk preferences and forest investment behavior under uncertainty
+- Policy impacts on forest management, harvesting, and land use change
+- Publications in Forest Policy and Economics, Journal of Forest Economics, Energy Policy, and related applied economics outlets
+- Extension-oriented and policy-facing analyses used by agencies and stakeholders involved in forest management and planning
+
+Policy Relevance:
+Dr. Susaeta's research informs forest and climate policy by quantifying how economic incentives and risk influence private landowner behavior, shaping forest management outcomes at landscape and regional scales. He addresses a core systems bottleneck: forests are largely managed by private actors, and environmental outcomes depend on how those actors respond to prices, policies, and risk. His work clarifies which incentives actually change behavior. His research influences economic and policy incentives for forest management, design of carbon biomass and ecosystem service markets, and understanding of private landowner responses to regulation and climate policy.
 
 Keywords:
-Water Institute affiliate; School of Forest Resources and Conservation.
+forest economics; forest policy; landowner behavior; timber markets; bioenergy; biomass; carbon markets; ecosystem services; risk; uncertainty; forest investment; Southern U.S. forests; private forests; policy analysis; economic modeling

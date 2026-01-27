@@ -1,13 +1,31 @@
-Name: Christopher Vincent
+Name: Christopher I. Vincent
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Citrus Research and Education Center-Horticulture
+Academic Unit: Horticultural Sciences, Citrus Research and Education Center
 Email: civince@ufl.edu
+Title: Associate Professor
+
+Google Scholar: https://scholar.google.com/citations?user=LjsljAYAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Citrus ecophysiology and stress biology, Photosynthesis carbohydrate allocation and source-sink dynamics, Response of citrus and other perennial crops to environmental stressors, Fruit set flowering and yield management under biotic and abiotic stress, Integrated crop management strategies in perennial systems, Effects of production practices on citrus performance
+
+Education:
+- Ph.D. in Plant Physiology/Horticultural Sciences
+- Research focus on citrus physiology and stress biology
 
 Research Focus:
-Dr. Vincent is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Citrus Research and Education Center-Horticulture.
+Dr. Vincent is known for his plant physiological and horticultural research applied to perennial fruit crops, particularly citrus physiology, stress responses, carbohydrate allocation, and production challenges under disease pressure such as citrus greening and huanglongbing. He combines fundamental plant science with applied crop management to inform improved citrus productivity and resilience in Florida's subtropical environment. He employs gas exchange and chlorophyll fluorescence for photosynthetic analysis, physiological measurements of water relations carbon allocation and tree hydraulics, field and controlled environment studies of crop responses to management and stress, and applied plant science integrated with cropping system factors. Research systems include Florida citrus production systems, tropical and subtropical perennial fruit systems, huanglongbing-affected groves and stress-impacted tree populations, and integrated management approaches for perennial woody crops.
+
+Notable Publications:
+- Importance of measuring and reporting environmental conditions across plant science subdisciplines (Plant Physiology 2025) - emphasizing reproducibility and environmental context in plant research
+- Source-sink transport as a constraint on photosynthesis and ecophysiological patterns (Plant Physiology 2025) - exploring how carbohydrate movement influences plant function in woody crops
+- Impact of wind intensity on tree hydraulic and photosynthetic dysfunction (New Phytologist 2025) - examining stress responses relevant for field conditions including hurricanes
+- Particle films enhance growth and yield of sweet orange under huanglongbing conditions (HortScience 2025) - applied crop management under disease pressure
+- Photoselective particle films influence citrus physiology and growth (Scientia Horticulturae 2023)
+- Over 1,200 citations spanning plant physiology plant-environment interactions horticultural science and crop protection
+
+Policy Relevance:
+Dr. Vincent's work informs sustainable crop management and adaptation strategies in perennial agriculture by clarifying physiological constraints and responses that drive productivity and stress resilience under biotic and abiotic challenges. He advances knowledge of how plant physiological processes interact with environmental stressors and management practices, enabling better decision support for growers confronting disease pressure such as huanglongbing and extreme weather in perennial systems such as citrus. His research influences crop physiological measurement and interpretation, integration of stress biology with horticultural practice, and evidence-based recommendations for citrus production systems.
 
 Keywords:
-Water Institute affiliate; Citrus Research and Education Center-Horticulture.
+citrus; plant physiology; ecophysiology; photosynthesis; carbohydrate allocation; huanglongbing; citrus greening; stress biology; water relations; particle films; perennial crops; Florida citrus; source-sink dynamics; horticultural sciences; crop management

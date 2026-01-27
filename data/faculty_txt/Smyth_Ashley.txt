@@ -1,13 +1,30 @@
-Name: Ashley Smyth
+Name: Ashley R. Smyth
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Tropical Research and Education Center Homestead
+Academic Unit: Soil, Water, and Ecosystem Sciences; Tropical Research and Education Center - Homestead
 Email: ashley.smyth@ufl.edu
+Title: Associate Professor of Biogeochemistry
+
+Google Scholar: https://scholar.google.com/citations?user=L9wjVzIAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Nitrogen biogeochemistry and ecosystem nutrient cycling, Estuarine and coastal ecosystem processes affecting nutrient removal, Microbial ecology influencing nutrient transformations, Coastal ecosystem services including oysters marshes and seagrasses, Effects of climate variability and sea-level rise on coastal biogeochemistry
+
+Education:
+- Ph.D. in Biogeochemistry/Ecosystem Science
+- Research focus on nitrogen cycling and coastal ecosystem processes
 
 Research Focus:
-Dr. Smyth is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Tropical Research and Education Center Homestead.
+Dr. Smyth is a biogeochemist and ecosystem scientist whose research spans nitrogen cycling, estuarine and coastal biogeochemical processes, nutrient fate and transport, and ecosystem function under environmental change. Her work elucidates how habitat structure, benthic communities such as oysters seagrasses and marshes, and environmental variability including climate change and sea-level rise influence nutrient transformations and ecosystem services in coastal landscapes. She employs field observations and manipulative experiments to quantify nutrient transformation and fluxes, biogeochemical modeling and sensor-based monitoring of greenhouse gas and nutrient dynamics, and integration of ecological geochemical and physical data to interpret ecosystem functioning. Research systems include South Florida coastal wetlands and estuaries, oyster reefs salt marshes seagrass meadows and urban coastal waters, and broader subtropical and estuarine ecosystems undergoing climate and anthropogenic pressures.
+
+Notable Publications:
+- Biological activity exceeds biogenic structure in influencing sediment denitrification in experimental oyster reefs - Marine Ecology Progress Series
+- Oyster-mediated benthic-pelagic coupling modifies nitrogen pools and processes - Marine Ecology Progress Series
+- Assessing nitrogen dynamics throughout the estuarine landscape - Estuaries and Coasts
+- Work on habitat-specific denitrification ecosystem services of living shorelines and carbon and nitrogen fluxes in coastal vegetation
+- Over 3,900 citations in soil water and coastal biogeochemistry literature
+
+Policy Relevance:
+Dr. Smyth's work informs nutrient management and ecosystem service accounting in coastal systems, providing empirical foundations for mitigating eutrophication, enhancing nitrogen removal, and adapting to climate-driven changes in coastal biogeochemistry. Her research directly interrogates how nitrogen cycles through estuarine and coastal systems, how habitat structure and community composition affect nutrient transformation and removal, and how climate and sea-level change influence biogeochemical processes. Her work influences nitrogen transformation and removal processes, biogeochemical impacts of restoration such as oyster reefs and living shorelines, and understanding climate and sea-level rise impacts on coastal nutrient dynamics.
 
 Keywords:
-Water Institute affiliate; Tropical Research and Education Center Homestead.
+biogeochemistry; nitrogen cycling; coastal ecosystems; estuarine processes; denitrification; nutrient transformations; oyster reefs; seagrass; salt marshes; ecosystem services; South Florida; climate change; sea-level rise; water quality; TREC; microbial ecology; living shorelines

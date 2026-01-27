@@ -1,15 +1,31 @@
 Name: Amelia Winger-Bearskin
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Digital World
+Academic Unit: Digital Worlds Institute
 Email: amelia@digitalworlds.ufl.edu
+Title: Assistant Professor
+
 Google Scholar: https://scholar.google.com/citations?user=SWpBU68AAAAJ&hl=en
-Website: www.studioamelia.com
+Website: https://www.studioamelia.com
 
 Subject Areas:
-Water-related research
+Indigenous data sovereignty and governance, Artificial intelligence ethics and accountability, Immersive media and spatial computing, Digital art storytelling and cultural preservation, Technology design through Indigenous and decolonial frameworks
+
+Education:
+- Advanced degree in Digital Arts/Media
+- Research focus on Indigenous perspectives in technology and data governance
 
 Research Focus:
-Dr. Winger-Bearskin is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Digital World.
+Dr. Winger-Bearskin is an artist, technologist, and scholar internationally recognized for her work on Indigenous data sovereignty, artificial intelligence, immersive media, and ethical technology design. Her practice-centered research examines how emerging digital technologies including AI, XR, and data systems intersect with culture, land, governance, and power, with a strong emphasis on Indigenous perspectives, consent, and stewardship in digital systems. She employs practice-based research and artistic production, design research and speculative prototyping, interdisciplinary scholarship bridging art technology and policy, community-engaged and culturally grounded research methods, and critical analysis of data systems and algorithmic power. Research systems include Indigenous communities and knowledge systems, digital platforms AI systems and data infrastructures, and cultural institutions governance frameworks and public-facing technologies.
+
+Notable Publications:
+- Peer-reviewed articles and essays on Indigenous data governance and AI ethics
+- Public scholarship addressing technology accountability and cultural consent
+- Immersive and interactive art installations
+- Design frameworks for ethical and culturally grounded technology systems
+- Work presented in museums festivals academic forums and policy-oriented settings
+
+Policy Relevance:
+Winger-Bearskin's work informs technology governance and institutional decision-making by embedding Indigenous frameworks of consent, stewardship, and accountability into AI and data systems. She provides critical frameworks for governing digital systems that increasingly shape environmental, cultural, and institutional decision-making, especially where data and land intersect. Her work influences ethical and cultural governance of AI and data systems, design of accountable community-centered technologies, and institutional narratives around technology power and stewardship.
 
 Keywords:
-Water Institute affiliate; Digital World.
+Indigenous data sovereignty; AI ethics; artificial intelligence; immersive media; XR; digital art; data governance; technology ethics; decolonial frameworks; cultural preservation; consent; stewardship; Digital Worlds; practice-based research

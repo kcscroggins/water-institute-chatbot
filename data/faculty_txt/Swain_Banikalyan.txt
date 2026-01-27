@@ -1,14 +1,30 @@
 Name: Banikalyan Swain
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Infectious Diseases and Immunology
+Academic Unit: Infectious Diseases and Immunology, College of Veterinary Medicine
 Email: swainb@ufl.edu
-Google Scholar: https://scholar.google.co.in/citations?user=Y5qmLAwAAAAJ&hl=en
+Title: Research Assistant Professor
+
+Google Scholar: https://scholar.google.com/citations?user=Y5qmLAwAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Innate and adaptive immune responses in vertebrates especially fish, Molecular mechanisms of immune signaling and pathogen recognition, Recombinant vaccine vector design for aquaculture disease prevention, Host-pathogen interactions and bacterial pathogenesis in aquatic organisms
+
+Education:
+- Ph.D. in Immunology/Veterinary Sciences
+- Research focus on molecular immunology and vaccine development
 
 Research Focus:
-Dr. Swain is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Infectious Diseases and Immunology.
+Dr. Swain is known for his veterinary and comparative immunology research, especially in molecular mechanisms of host immune responses and innovative vaccine development for aquaculture pathogens using recombinant vaccine vectors. His work focuses on designing and evaluating genetically engineered microbes that stimulate protective immunity in fish, with broader implications for animal health and infectious disease control. He employs molecular cloning and genetic engineering, recombinant vaccine construction and evaluation, immunological assays including antibody response and cytokine profiling, fish disease challenge models for aquatic infection studies, cellular and molecular immunology techniques, and integration of host immunobiology with pathogen genomics. Research systems include aquatic vertebrates especially teleost fish and their infectious disease agents, Edwardsiella piscicida and other bacterial fish pathogens, and comparative immunological systems relevant to broader veterinary infectious disease.
+
+Notable Publications:
+- Research on recombinant attenuated Edwardsiella piscicida vaccine vectors that confer protection against fish pathogens demonstrating translational vaccine design and evaluation in aquaculture health
+- Studies on molecular characterization of innate immune receptors such as Toll-like receptors and NOD-like receptors in fish linking pathogen recognition to downstream immune signaling and host defense mechanisms
+- Reviews and original research on fish immunological responses and vaccine approaches for controlling infectious disease in aquaculture systems
+- Over 1,000 citations indicating influence in immunology and vaccine development research domains
+- Publications in journals covering immunology, molecular biology, microbiology, and veterinary infectious disease
+
+Policy Relevance:
+Dr. Swain's work advances understanding of immune mechanisms and supports development of innovative vaccine strategies that enhance aquatic animal health and inform disease prevention policies in aquaculture industries. He provides crucial mechanistic knowledge about how vertebrate immune systems recognize and respond to pathogens, and he develops novel vaccine vectors that could reduce disease burdens in aquaculture, a growing source of global animal protein. His research influences immune mechanism elucidation in host-pathogen systems, translational vaccine design and evaluation for aquaculture, and integration of immunology with disease control strategies.
 
 Keywords:
-Water Institute affiliate; Infectious Diseases and Immunology.
+immunology; vaccine development; aquaculture; fish health; Edwardsiella piscicida; host-pathogen interactions; innate immunity; adaptive immunity; recombinant vaccines; molecular immunology; pathogen recognition; veterinary medicine; infectious disease; aquatic animals

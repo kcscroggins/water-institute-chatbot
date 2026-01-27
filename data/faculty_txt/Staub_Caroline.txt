@@ -1,13 +1,30 @@
-Name: Caroline Staub
+Name: Caroline G. Staub
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: AG-International Programs
+Academic Unit: UF/IFAS International Programs (Feed the Future AREA Project)
 Email: carogstaub@ufl.edu
+Title: Project Coordinator & Climate Smart Solutions Leader
 
 Subject Areas:
-Water-related research
+Climate-smart agriculture and climate adaptation strategies, Participatory and farmer-led extension approaches, Agricultural decision support tools and risk management, Applied agronomy and capacity building in data-limited tropical systems, International agricultural development with emphasis on Haiti
 
-Research Focus:
-Dr. Staub is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in AG-International Programs.
+Education:
+- Ph.D. in Agricultural/Environmental Science
+- Focus on climate adaptation and participatory extension
+
+Program Focus:
+Caroline Staub is known for her leadership in international agricultural development, climate-smart agriculture, and participatory extension approaches, specifically coordinating efforts under the Feed the Future Haiti AREA (Appui à la Recherche et au Développement Agricole) Project. Her work centers on climate adaptation, farmer decision-making, and stakeholder capacity building to help agricultural communities better anticipate and respond to climate-related risks. She employs co-development and facilitation of Participatory Integrated Climate Services for Agriculture (PICSA) trainings and workshops for extension workers and farmers, organization and delivery of climate and weather data interpretation workshops for agricultural communities, coordination of multi-disciplinary teams to implement climate adaptation programming, and integration of climate information into agronomic decision-making processes. Program systems include smallholder agricultural systems in Haiti, climate-vulnerable rainfed farming contexts, and agricultural communities with limited access to weather and climate data.
+
+Program Activities:
+- Farmer-led participatory extension leads Haitian farmers to anticipate climate-related risks and adjust livelihood strategies - Journal of Rural Studies (2020)
+- Coping with climatic shocks: local perspectives from Haiti's rural mountain regions - Population and Environment (2020)
+- Guidelines for Establishing and Maintaining Farm-Based Weather Stations in Haiti technical guide
+- PICSA training and weather data use training workshops for extension professionals and agricultural stakeholders in Haiti
+
+Extension Impact:
+Her outputs span applied field research, extension publications, and capacity-building materials that directly support climate adaptation in agriculture, particularly in resource-limited international contexts. She plays a crucial enabling role by translating climate information, participatory methods, and extension processes into actionable farming decisions that shape agricultural input use, risk management, and sustainability under climate variability.
+
+Policy Relevance:
+Caroline Staub's work supports resilient agricultural policy and practice by enabling farmer-led decision making and integrating climate services into agricultural extension, advancing sustainable livelihood strategies in climate-vulnerable contexts. Her work influences climate service integration in agricultural extension, farmer capacity building for climate risk management, and development of participatory decision-support frameworks for smallholders.
 
 Keywords:
-Water Institute affiliate; AG-International Programs.
+climate-smart agriculture; climate adaptation; participatory extension; PICSA; Haiti; Feed the Future; international development; smallholder agriculture; decision support; weather stations; capacity building; agricultural risk management; climate services; AREA Project

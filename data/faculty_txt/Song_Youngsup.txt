@@ -2,12 +2,28 @@ Name: Youngsup Song
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Mechanical and Aerospace Engineering
 Email: song@mae.ufl.edu
+Title: Assistant Professor
+
+Google Scholar: https://scholar.google.com/citations?user=Ll2Os7IAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Heat transfer and thermal-fluid interaction, Multiphase and phase change processes including boiling and condensation, Interfacial phenomena and surface engineering for thermal performance, Thermal management of electronics and energy devices, Thermal energy storage technologies, Advanced materials for enhanced heat transfer and energy systems
+
+Education:
+- Ph.D. in Mechanical Engineering
+- Research focus on thermal-fluid science and interfacial phenomena
 
 Research Focus:
-Dr. Song is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Mechanical and Aerospace Engineering.
+Dr. Song is known for his research in thermal-fluid science and interfacial phenomena, particularly phase change heat transfer, boiling and multiphase thermal processes, and thermal energy storage mechanisms. His work integrates fundamental physics, materials design, and thermal management strategies to tackle challenges in electronic cooling, energy systems, and advanced materials for thermal applications. He employs experimental and analytical studies of pool boiling and critical heat flux, surface and materials design to tailor interfacial behavior, integration of thermal science with electrochemical or phase change energy systems, and thermal transport characterization at micro and macro scales. Research systems include electronics thermal management in mobility and EV and high-performance systems, energy systems including thermal energy storage and flow battery thermal management, and materials and surface science for enhanced phase change and heat transfer.
+
+Notable Publications:
+- Heat transfer enhancements via structured surfaces including hierarchical structures that improve pool boiling performance - Advanced Materials (2022)
+- Unified descriptors for critical heat flux enhancements during boiling on engineered surfaces - International Journal of Heat and Mass Transfer (2022)
+- Phase change materials and supercooling dynamics in variable conditions - Cell Reports Physical Science (2023)
+- Simultaneous storage of heat and electricity in flow battery systems - ACS Omega (2025)
+
+Policy Relevance:
+Dr. Song's research develops innovative thermal transport and materials strategies that support high-performance cooling, energy storage technologies, and thermal solutions for emerging engineering systems. His work significantly advances thermal transport and phase change processes that are vital to energy systems, materials integration, and engineered environmental technologies. His work influences thermal management and efficiency, surface and materials design for enhanced heat transfer, and multiphase energy system performance.
 
 Keywords:
-Water Institute affiliate; Mechanical and Aerospace Engineering.
+thermal-fluid science; heat transfer; phase change; boiling; multiphase processes; interfacial phenomena; surface engineering; thermal management; electronics cooling; thermal energy storage; flow batteries; advanced materials; mechanical engineering; energy systems

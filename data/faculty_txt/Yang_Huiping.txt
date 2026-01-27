@@ -2,12 +2,29 @@ Name: Huiping Yang
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: School of Forest Resources and Conservation
 Email: huipingyang@ufl.edu
+Title: Professor
+
+Google Scholar: https://scholar.google.com/citations?user=76RF_RQAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Forest and wetland biogeochemistry, Carbon sequestration and ecosystem carbon balance, Nitrogen and phosphorus cycling and limitation, Nutrient stoichiometry and ecosystem productivity, Greenhouse gas fluxes, Responses of ecosystems to management and environmental change
+
+Education:
+- Ph.D. in Forest Ecology/Biogeochemistry
+- Research focus on carbon and nutrient cycling in forest ecosystems
 
 Research Focus:
-Dr. Yang is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in School of Forest Resources and Conservation.
+Dr. Yang is a forest ecologist and biogeochemist known for her work on carbon, nitrogen, and phosphorus cycling in forest and wetland ecosystems. Her research emphasizes how nutrient availability, stoichiometry, and environmental drivers regulate ecosystem productivity, carbon storage, and greenhouse gas dynamics, particularly in subtropical and tropical systems. She employs field measurements of carbon stocks and nutrient pools, soil plant and litter biogeochemical analyses, gas flux measurements and ecosystem carbon accounting, experimental manipulations of nutrient availability, and comparative studies across ecosystem types and management regimes. Research systems include forests and wetlands of the southeastern U.S., subtropical and tropical forest ecosystems, managed and restored forest and wetland landscapes, and systems sensitive to nutrient limitation and climate drivers.
+
+Notable Publications:
+- Interactions between nutrient availability and carbon sequestration
+- Controls on forest and wetland greenhouse gas emissions
+- Effects of management restoration and disturbance on biogeochemical cycles
+- Cross-ecosystem comparisons of nutrient limitation and productivity
+- Publications in ecology biogeochemistry and environmental science journals
+
+Policy Relevance:
+Yang's work informs climate and land-management policy by clarifying how nutrient dynamics regulate ecosystem carbon storage and greenhouse gas emissions. She provides mechanistic understanding of carbon-nutrient interactions, which is essential for predicting ecosystem responses to management and climate change. Her work influences forest and wetland management for carbon storage, scientific basis for climate mitigation strategies, and integration of nutrient dynamics into ecosystem and climate models.
 
 Keywords:
-Water Institute affiliate; School of Forest Resources and Conservation.
+forest biogeochemistry; wetland biogeochemistry; carbon cycling; carbon sequestration; nitrogen cycling; phosphorus cycling; nutrient limitation; stoichiometry; greenhouse gas; ecosystem productivity; subtropical forests; climate mitigation; ecosystem restoration

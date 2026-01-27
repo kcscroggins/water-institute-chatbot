@@ -2,12 +2,29 @@ Name: Alyson Young
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Anthropology
 Email: agyoung@ufl.edu
+Title: Assistant Professor
+
+Google Scholar: https://scholar.google.com/citations?user=lmhjfGMAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Cultural and environmental anthropology, Human-environment interactions, Livelihoods resource use and adaptation, Environmental governance and policy impacts on communities, Social dimensions of sustainability and development
+
+Education:
+- Ph.D. in Anthropology
+- Research focus on human-environment relationships and environmental governance
 
 Research Focus:
-Dr. Young is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Anthropology.
+Dr. Young is a cultural anthropologist whose work examines human-environment relationships, livelihoods, and social institutions, with particular attention to how communities navigate environmental change, resource access, and governance. Her scholarship emphasizes ethnographic and mixed-method approaches to understanding how environmental policies and ecological dynamics intersect with everyday social life. She employs ethnographic fieldwork including interviews and participant observation, qualitative and mixed-method research, community-based and comparative analysis, and integration of social data with environmental and policy contexts. Research systems include communities dependent on natural resources, regions experiencing environmental change or policy intervention, and comparative place-based research across various regions.
+
+Notable Publications:
+- Social responses to environmental and economic change
+- Governance institutions and local knowledge systems
+- Equity and distributional effects of environmental policies
+- Lived experiences of sustainability and adaptation initiatives
+- Publications in anthropology and interdisciplinary environmental journals
+
+Policy Relevance:
+Young's research informs environmental and resource policy by highlighting how governance structures and ecological change affect communities, equity, and adoption outcomes. She provides grounded social insight into how environmental policies and ecological changes play out in real communities, helping bridge the gap between technical solutions and social realities. Her work influences social acceptance and equity of environmental policy, understanding of community-level adaptation and response, and integration of local knowledge into governance and planning.
 
 Keywords:
-Water Institute affiliate; Anthropology.
+anthropology; cultural anthropology; environmental anthropology; human-environment interactions; livelihoods; resource access; environmental governance; sustainability; adaptation; ethnography; community-based research; social dimensions; policy impacts

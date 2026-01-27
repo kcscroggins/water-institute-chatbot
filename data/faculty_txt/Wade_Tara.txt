@@ -1,13 +1,30 @@
 Name: Tara Wade
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Food and Resource Economics
+Academic Unit: Food and Resource Economics; UF/IFAS Southwest Florida Research and Education Center
 Email: tara.wade@ufl.edu
+Title: Associate Professor of Agricultural and Resource Economics
+
+Google Scholar: https://scholar.google.com/citations?user=FQKkcHsAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Natural resource economics and environmental policy design, Adoption of conservation practices in agriculture, Econometric and discrete choice modeling of producer behavior, Valuation of ecosystem services and water and soil quality programs, Assessment of agricultural markets and enterprise economics
+
+Education:
+- Ph.D. in Agricultural/Resource Economics
+- Research focus on conservation practice adoption and environmental economics
 
 Research Focus:
-Dr. Wade is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Food and Resource Economics.
+Dr. Wade is a natural resource and agricultural economist specializing in empirical analysis of conservation practice adoption, resource decisions by farmers and landowners, and the economic incentives shaping environmental stewardship and ecosystem service provision. Her work blends econometric and discrete choice models with large datasets to understand why producers adopt or do not adopt conservation-oriented practices and how policy and market incentives can be designed to improve environmental outcomes. She employs econometrics including logit and choice models using large administrative and survey datasets, applied quantitative modeling of adoption decisions and policy response, and production of extension economics tools such as enterprise budgets and price trend analyses. Research systems include agricultural production systems in Florida and the U.S., specialty crop economics such as bell peppers watermelons and sweet corn, and economic dimensions of soil water and carbon markets.
+
+Notable Publications:
+- Peer-reviewed journal articles on conservation practice adoption models and economic determinants of tillage and resource decisions
+- USDA Economic Research Service and AAEA contributions on conservation compliance adoption rates and farmer incentives
+- EDIS extension publications on specialty crop enterprise budgets price trend reviews water quality credit trading and carbon credit markets tailored to producers and Extension stakeholders
+- Collaborative outputs on nitrogen fertilization guidelines and ecosystem services measurement integrating economic and biophysical perspectives
+- Publications in Journal of Agricultural and Resource Economics and Journal of Agricultural and Applied Economics
+
+Policy Relevance:
+Dr. Wade's work informs the design of effective conservation policies and incentive mechanisms by quantifying how economic factors influence producer behavior and the adoption of environmentally beneficial practices. She contributes essential insights into why and how economic incentives influence agricultural decision-making and conservation adoption, which is critical for designing policies that link economic behavior to environmental stewardship. Her research influences economic incentives for conservation and resource management, policy effectiveness related to adoption of sustainable practices, and integration of economics with environmental and agricultural decision models.
 
 Keywords:
-Water Institute affiliate; Food and Resource Economics.
+resource economics; agricultural economics; conservation adoption; econometrics; discrete choice modeling; ecosystem services; water quality; carbon markets; specialty crops; Florida agriculture; farm economics; enterprise budgets; environmental policy; incentive mechanisms

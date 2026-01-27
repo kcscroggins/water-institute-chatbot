@@ -1,13 +1,28 @@
 Name: Renata Serra
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: African Studies
+Academic Unit: Center for African Studies
 Email: rserra@ufl.edu
+Title: Instructional Professor
 
 Subject Areas:
-Water-related research
+Political economy of agriculture and livestock sectors in Africa, Development policy analysis and institutional determinants, Gender intersectionality and empowerment in rural economies, Social capital collective action and microfinance, Resilience to climate change and livelihood diversification, Agricultural and development strategies in low-income countries
+
+Education:
+- Ph.D. in Economics/Development Economics
+- Research focus on African development and agricultural policy
 
 Research Focus:
-Dr. Serra is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in African Studies.
+Dr. Serra is known for her work as an applied development economist with extensive research, teaching, and consultancy experience on African development issues, particularly in the Sahel region and francophone West Africa. Her expertise spans agricultural and livestock policy, political economy of reforms, gender and intersectionality in value chains, resilience to climate change, social capital, and rural transformation. She employs applied economic analysis using quantitative and qualitative methods, political economy frameworks for policy evaluation, gender and intersectional analytical approaches, and field-based and cross-country comparative studies. Research systems include West and East Africa including Sahelian countries such as Mali, Senegal, Niger, Chad, Mauritania, Ethiopia, Rwanda, and Uganda, rural and agricultural economies with emphasis on policy environments, and gendered economic participation and social sector reforms.
+
+Notable Publications:
+- Child fostering in Africa: When labor and schooling motives may coexist - Journal of Development Economics (2009)
+- Filling knowledge gaps to strengthen livestock policies in low-income countries - Global Food Security (2020)
+- Research on climate change effects and livelihood diversification in Ghana - Climate and Development
+- Studies on institutional environment and technical efficiency in West African cotton sectors - Journal of Agricultural Economics
+- Agricultural Policies and Development in the Sahel - Oxford Handbook of the African Sahel
+
+Policy Relevance:
+Dr. Serra's work informs policies and interventions that strengthen agricultural and livestock sectors, advance gender equity in economic participation, and improve institutional frameworks for resilient development in West and East Africa. Her research directly addresses policy environments, institutional constraints, and socio-economic systems that shape agricultural productivity, rural livelihoods, and resilience to environmental and economic change in African economies, foundational for understanding development outcomes tied to environmental pressures and food systems. Her work influences agricultural policy and institutional reform, gender and intersectional economic participation, and development resilience and climate adaptation strategies.
 
 Keywords:
-Water Institute affiliate; African Studies.
+development economics; African studies; agricultural policy; political economy; gender; intersectionality; Sahel; West Africa; climate resilience; rural livelihoods; livestock policy; social capital; institutional analysis; value chains; food security

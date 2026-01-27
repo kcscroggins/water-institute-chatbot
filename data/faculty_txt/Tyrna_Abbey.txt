@@ -1,13 +1,28 @@
 Name: Abbey Tyrna
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: IFAS Extension
+Academic Unit: UF/IFAS Extension
 Email: atyrna@ufl.edu
+Title: Extension Agent
 
 Subject Areas:
-Water-related research
+Agricultural and environmental extension, Water quality protection and nutrient management, Conservation practice adoption and behavior change, Outreach design communication and program evaluation, Stakeholder engagement in agricultural and natural resource systems
 
-Research Focus:
-Dr. Tyrna is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in IFAS Extension.
+Education:
+- Advanced degree in Agricultural/Environmental Sciences
+- Focus on extension and conservation outreach
+
+Program Focus:
+Abbey Tyrna is known for applied extension and research at the interface of agriculture, water quality, and stakeholder behavior, with emphasis on how outreach, communication, and decision-support tools influence adoption of conservation and nutrient-management practices. Her work combines extension program delivery with applied social-science research evaluating effectiveness of conservation messaging and interventions. She employs survey research and program evaluation methods, behavioral and communication analysis related to conservation adoption, design and delivery of workshops trainings and decision-support materials, and collaboration with scientists agencies and producers to translate research into practice. Program systems include Florida agricultural and watershed contexts, producer and land-manager decision environments, and extension audiences engaged in nutrient and water-quality stewardship.
+
+Program Activities:
+- Peer-reviewed applied research evaluating how outreach communication strategies and decision frameworks influence environmental and agricultural practice adoption
+- Extension fact sheets and educational materials
+- Workshops and trainings for producers and stakeholders
+- Program evaluation reports used to refine conservation outreach
+- Impact assessed through behavior change adoption and improved program design
+
+Extension Impact:
+Tyrna's work strengthens environmental policy and conservation outcomes by identifying effective outreach and communication strategies that translate science into measurable practice change. She operates at a critical bottleneck, the adoption gap, ensuring that evidence-based nutrient and water-quality practices are actually implemented by producers and land managers. Her work influences conservation practice adoption, effectiveness of extension and outreach programs, and behavioral drivers of environmental stewardship.
 
 Keywords:
-Water Institute affiliate; IFAS Extension.
+extension; conservation adoption; water quality; nutrient management; outreach; program evaluation; behavior change; stakeholder engagement; agricultural extension; Florida; watershed; communication; decision support; best management practices

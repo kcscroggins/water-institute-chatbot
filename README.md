@@ -84,9 +84,9 @@ keyword1; keyword2; keyword3; ...
 
 **Current Statistics:**
 - **Total Faculty Files**: 369
-- **Enriched Profiles**: 231 (71 automated + 160 manual)
-- **With Google Scholar/Website**: 97 (URLs added)
-- **Awaiting Enrichment**: 138 (tracked in CSV)
+- **Enriched Profiles**: 369 (71 automated + 298 manual)
+- **With Google Scholar/Website**: 97+ (URLs added during enrichment)
+- **Awaiting Enrichment**: 0 (complete!)
 
 **Next Steps:**
 - Continue manual enrichment using `data/faculty_needing_enrichment.csv`
@@ -309,9 +309,8 @@ data/
 ```
 
 **Faculty Profile Types:**
-- **Enriched profiles (231)**: Full research descriptions, publications, education, policy relevance, keywords
-- **With URLs only (18)**: Basic info + Google Scholar/Website links (awaiting enrichment)
-- **Basic profiles (120)**: Name, department, email, role as Water Institute affiliate
+- **Enriched profiles (369)**: Full research descriptions, publications, education, policy relevance, keywords
+- **Awaiting enrichment (0)**: All faculty profiles have been enriched!
 
 **How It Works:**
 1. Both folders are ingested into a single ChromaDB collection
@@ -459,7 +458,7 @@ MCP (Model Context Protocol) is Anthropic's open standard for connecting AI syst
 ### Current Capabilities & Limitations
 
 **Current Setup (RAG with Static Data):**
-- ✅ Faculty profiles and expertise (369 faculty members - 231 enriched, 138 basic)
+- ✅ Faculty profiles and expertise (369 faculty members - all enriched)
 - ✅ General Water Institute information (mission, programs, research, facilities, partnerships)
 - ✅ Static data stored in ChromaDB
 - ⚠️ Must manually re-run `ingest_faculty.py` to update information

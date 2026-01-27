@@ -1,13 +1,29 @@
-Name: Ian Small
+Name: Ian M. Small
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: North Florida Research and Education Center - Quincy
+Academic Unit: Plant Pathology; UF/IFAS North Florida Research and Education Center - Quincy
 Email: ismall@ufl.edu
+Title: Associate Professor
+
+Google Scholar: https://scholar.google.com/citations?user=9KuK6GkAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Plant disease epidemiology and quantitative disease modeling, Integrated disease management strategies, Smart crop protection phenotyping and decision support tools, Crop protection in field crops including peanut cotton carinata soybean and corn
+
+Education:
+- Ph.D. in Plant Pathology
+- Research focus on epidemiology and integrated disease management
 
 Research Focus:
-Dr. Small is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in North Florida Research and Education Center - Quincy.
+Dr. Small is known for his integrated research and extension program in plant pathology, focusing on epidemiology, integrated disease management, smart crop protection, and crop breeding for disease resistance. He leads work that combines quantitative disease assessment, host-pathogen-environment interaction analysis, and development of decision support tools including remote sensing and machine learning to improve crop health and production outcomes. He employs epidemiological assessment of progression and spatial distribution of plant diseases, integration of remote sensing image analysis machine learning and sensor data for disease detection and modeling, development of decision tools and algorithms for risk assessment in crop protection, and interdisciplinary collaboration with agronomists breeders engineers and computer scientists. Research systems include field crops in humid subtropical climates in North Florida and Southeast US, and plant-pathogen-environment systems affecting peanut cotton soybeans corn and emergent biofuel crops like carinata.
+
+Notable Publications:
+- Carinata the Sustainable Crop for a Bio-based Economy: Production Recommendations for the Southeastern United States - UF/IFAS Extension
+- Cotton Cultural Practices and Fertility Management - Extension publication
+- Estimating Cotton Yield tools for growers to integrate disease and agronomic management - Extension publication
+- Peer-reviewed research on plant disease epidemiology in field crops including nematode and pathogen population dynamics
+
+Policy Relevance:
+Dr. Small's research and extension work support sustainable agriculture by generating tools and strategies to manage plant diseases, reduce yield losses, and improve decision support for growers and stakeholders. His work directly affects crop health, nutrient uptake, and resilience, all of which influence how cropping systems function and how inputs like fertilizers and water are used and potentially lost within agricultural landscapes. His work influences disease management integrated with cropping system practices, risk assessment tools combining environmental and disease data, and precision and predictive crop protection approaches.
 
 Keywords:
-Water Institute affiliate; North Florida Research and Education Center - Quincy.
+plant pathology; epidemiology; disease management; integrated pest management; smart crop protection; remote sensing; machine learning; peanut; cotton; carinata; soybean; corn; decision support; phenotyping; NFREC; North Florida; crop health; disease modeling

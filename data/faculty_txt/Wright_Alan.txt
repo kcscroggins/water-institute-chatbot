@@ -1,13 +1,31 @@
-Name: Alan Wright
+Name: Alan L. Wright
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Indian River Research and Education Center - Ft Pierce
 Email: alwr@ufl.edu
+Title: Professor
+
+Google Scholar: https://scholar.google.com/citations?user=qejMU1IAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Soil health and soil quality, Soil organic matter and carbon dynamics, Nutrient availability and soil fertility, Soil physical properties including aggregation water holding and structure, Management effects on soils in agricultural systems
+
+Education:
+- Ph.D. in Soil Science
+- Research focus on soil organic matter and nutrient dynamics
 
 Research Focus:
-Dr. Wright is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Indian River Research and Education Center - Ft Pierce.
+Dr. Wright is a soil scientist best known for his work on soil physical, chemical, and biological properties, with particular emphasis on soil organic matter, nutrient availability, and soil health in managed agricultural systems. His research addresses how soil management practices influence productivity and environmental outcomes, especially in Florida's sandy soils and subtropical production systems. He employs field and laboratory measurement of soil physical and chemical properties, soil organic matter fractionation and carbon analysis, nutrient extraction and fertility assessment, evaluation of management practices including fertilization amendments and cropping systems, and long-term and applied field experiments. Research systems include Florida agricultural soils especially sandy and low-organic-matter soils, horticultural and row-crop production systems, and subtropical agroecosystems where soil constraints strongly shape outcomes.
+
+Notable Publications:
+- Effects of management practices on soil carbon and organic matter pools
+- Relationships between soil physical condition and nutrient dynamics
+- Soil fertility constraints in sandy subtropical soils
+- Indicators and measurement of soil health
+- Publications in soil science and agronomy journals
+- Work supporting management recommendations and extension guidance for Florida producers
+
+Policy Relevance:
+Wright's research provides the scientific basis for soil management and fertility recommendations that support sustainable production and environmental stewardship. He contributes foundational applied soil science that directly informs how soils are managed for productivity, resilience, and environmental performance. His work influences soil management and fertility practices, understanding of soil constraints in subtropical systems, and translation of soil science into producer-facing recommendations.
 
 Keywords:
-Water Institute affiliate; Indian River Research and Education Center - Ft Pierce.
+soil science; soil health; soil organic matter; carbon dynamics; nutrient availability; soil fertility; soil physical properties; Florida soils; sandy soils; subtropical agriculture; soil management; agronomy; IRREC

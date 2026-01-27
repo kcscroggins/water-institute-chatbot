@@ -1,13 +1,27 @@
-Name: Scot Smith
+Name: Scot E. Smith
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: School of Forest Resources and Conservation
 Email: sesmith@ufl.edu
+Title: Professor
 
 Subject Areas:
-Water-related research
+Forest and natural resource management, Land and water resource assessment, Spatial analysis and remote sensing applications, Environmental management in diverse ecological contexts
+
+Education:
+- Ph.D. in Forest Resources/Environmental Science
+- Research focus on spatial analysis and natural resource management
 
 Research Focus:
-Dr. Smith is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in School of Forest Resources and Conservation.
+Dr. Smith is known for applied environmental research and natural resource management, especially in forest and land management, mapping land and water resources, and interdisciplinary project leadership. His work draws on spatial data, remote sensing, and ecosystem analysis to inform sustainable resource planning and conservation decisions. He employs remote sensing and geospatial mapping, field-based natural resource assessment, integration of ecological and spatial data for management insights, and multi-disciplinary approaches linking ecology geography and resource planning. Research systems include forest and landscape ecosystems, water and land resources in ecological and management contexts, and case studies in Africa including Egypt, Ethiopia, Kenya, and Tanzania.
+
+Notable Publications:
+- Remote sensing and landcover classification methods using object-based modeling with multi-view UAS data
+- Soil and water variable prediction using remote sensing spectral indices including soil total nitrogen and exchangeable potassium models
+- Integration of geographic information systems GIS and analytical hierarchy process for environmental site selection and management
+- Publications in environmental monitoring geospatial analysis and applied landscape science
+
+Policy Relevance:
+Dr. Smith's research leverages geospatial and environmental data to support sustainable land and water resource management, informing conservation strategies and environmental decision frameworks across varied ecosystems. His work develops and applies spatial and remote sensing methods that are foundational for land and water resource mapping, monitoring soil properties, nutrient proxies, and environmental dynamics, enabling environmental decision-making across scales. His work influences remote sensing and spatial models for ecosystem assessment, integration of environmental data for resource planning, and resource mapping and monitoring at landscape to regional scales.
 
 Keywords:
-Water Institute affiliate; School of Forest Resources and Conservation.
+forest resources; natural resource management; remote sensing; spatial analysis; GIS; geospatial mapping; land cover classification; soil prediction; water resources; conservation; environmental management; landscape ecology; UAS; Africa

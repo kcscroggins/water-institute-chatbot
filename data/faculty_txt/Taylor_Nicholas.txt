@@ -1,13 +1,29 @@
-Name: Nicholas Taylor
+Name: Nicholas W. Taylor
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Program for Resource Efficient Communities (PREC)
+Academic Unit: Program for Resource Efficient Communities (PREC); UF/IFAS Energy Extension Service
 Email: nwtaylor@ufl.edu
+Title: State Specialized Extension Agent III
 
 Subject Areas:
-Water-related research
+Water conservation behavior and residential water use patterns, Energy and utility data analysis for community resource efficiency, Extension program development focused on sustainable water and energy use, Evaluation of conservation policies and urban landscape water demands
 
-Research Focus:
-Dr. Taylor is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Program for Resource Efficient Communities (PREC).
+Education:
+- Advanced degree in Environmental Science/Resource Management
+- Focus on water conservation and community resource efficiency
+
+Program Focus:
+Nicholas Taylor is known for his work on resource efficiency and conservation in residential and community settings, particularly water and energy use analysis, conservation program evaluation, and data-driven decision support for utilities, government agencies, and extension practitioners. He leads the H2OSAV extension program, which uses utility data and analytical tools to help optimize water conservation efforts across Florida communities. He employs analysis of utility consumption data to identify patterns and targets for conservation, development and dissemination of public-facing extension fact sheets and datasets, data visualization tools and GIS applications for demand management planning, and stakeholder engagement with utilities water management districts and community planners. Program systems include Florida residential and urban water and energy use systems, utility service territories such as Gainesville Regional Utilities and Tampa Bay Water, and extension audiences and county and municipal planning contexts.
+
+Program Activities:
+- Residential Irrigation Water Costs in Osceola County and Orange County Florida - analysis of irrigation water use and cost context
+- Florida H2OSAV Insights: Home Water Use in GRU and Osceola and Orange Counties - fact sheets providing basic residential water utilization data
+- How much water am I using to irrigate my yard? - contextual fact sheet comparing outdoor irrigation to common indoor uses
+- Fact sheets published in English and Spanish to support broad outreach
+- Co-authored studies on irrigation restriction awareness and conservation message evaluation in peer-reviewed outlets such as AWWA Water Science and conference proceedings
+- Applied outputs emphasizing usable data practical insights and conservation messaging
+
+Extension Impact:
+Taylor's work equips utilities, planners, and communities with data-driven insights and extension tools needed to develop effective water and energy conservation strategies, advancing sustainability in residential and urban landscapes. He targets how people and systems use finite water and energy resources, generating evidence and extension materials that support efficient use policies and community planning, which are key to sustainable resource governance. His work influences water demand analysis and conservation messaging, utility data utilization for planning, and extension of resource efficiency best practices.
 
 Keywords:
-Water Institute affiliate; Program for Resource Efficient Communities (PREC).
+water conservation; resource efficiency; residential water use; energy conservation; utility data analysis; H2OSAV; extension; community planning; irrigation; demand management; Florida; urban water; conservation messaging; GIS; data visualization

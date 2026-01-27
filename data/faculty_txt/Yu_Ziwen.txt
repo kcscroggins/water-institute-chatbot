@@ -2,13 +2,29 @@ Name: Ziwen Yu
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Agricultural and Biological Engineering
 Email: ziwen.yu@ufl.edu
+Title: Assistant Professor
+
 Google Scholar: https://scholar.google.com/citations?user=Xxwl5ZQAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Precision agriculture and smart farming systems, Agricultural sensing and instrumentation, Data analytics and modeling for agricultural systems, Resource-efficient crop and field management, Engineering solutions for agricultural productivity and sustainability
+
+Education:
+- Ph.D. in Agricultural/Biological Engineering
+- Research focus on precision agriculture and sensing technologies
 
 Research Focus:
-Dr. Yu is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural and Biological Engineering.
+Dr. Yu is an agricultural and biological engineer whose work focuses on precision agriculture, sensing, and data-driven methods to improve agricultural management and environmental performance. He is known for integrating engineering, sensing technologies, and analytical methods to support efficient resource use and decision-making in agricultural systems. He employs sensor development and deployment for field-scale monitoring, data acquisition processing and analytics, engineering design and system integration, modeling and decision-support tools for agriculture, and field experiments and applied system evaluation. Research systems include crop production systems relevant to Florida and the southeastern U.S., managed agricultural landscapes requiring fine-scale monitoring, and systems where sensing and analytics improve management outcomes.
+
+Notable Publications:
+- Development and application of sensing technologies for agriculture
+- Data-driven approaches to optimize resource use and management
+- Engineering solutions that improve efficiency and sustainability in production systems
+- Publications in agricultural engineering and precision agriculture journals
+- Sensor-based monitoring and system design for optimized agricultural practices
+
+Policy Relevance:
+Yu's work supports evidence-based agricultural management and sustainability by providing engineering tools that improve monitoring, efficiency, and decision-making. He contributes engineering innovations that translate data into actionable insight, enabling more precise and efficient agricultural management. His work influences sensing and monitoring infrastructure, data-driven agricultural decision-making, and engineering design for sustainable production systems.
 
 Keywords:
-Water Institute affiliate; Agricultural and Biological Engineering.
+precision agriculture; agricultural engineering; sensing technologies; smart farming; data analytics; instrumentation; resource efficiency; crop management; decision support; field monitoring; sustainable agriculture; Florida agriculture

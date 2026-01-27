@@ -2,12 +2,29 @@ Name: Shouan Zhang
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Tropical Research and Education Center Homestead
 Email: szhang0007@ufl.edu
+Title: Assistant Professor
+
+Google Scholar: https://scholar.google.com/citations?user=xNpKEfAAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Tropical and subtropical horticultural crop production, Crop physiology and growth responses, Nutrient and water management in specialty crops, Stress physiology and management, Production system optimization for high-value crops
+
+Education:
+- Ph.D. in Horticulture/Crop Science
+- Research focus on crop physiology and production systems
 
 Research Focus:
-Dr. Zhang is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Tropical Research and Education Center Homestead.
+Dr. Zhang is a horticultural scientist whose work focuses on crop physiology, production systems, and management strategies for tropical and subtropical horticultural crops. His research emphasizes optimizing plant performance, yield, and quality under Florida's subtropical conditions, often addressing environmental stressors, nutrient and water management, and production efficiency in specialty crop systems. He employs field and controlled-environment experiments, physiological measurements including growth yield and plant performance indicators, evaluation of fertilization and irrigation strategies, comparative trials of management practices, and integration of applied research with grower needs. Research systems include tropical and subtropical horticultural systems, South Florida production environments, and specialty crop systems typical of the TREC region.
+
+Notable Publications:
+- Effects of nutrient and water management on crop performance
+- Physiological responses of horticultural crops to environmental stress
+- Optimization of production practices for yield and quality
+- Publications in horticulture and crop science journals
+- Applied research supporting extension guidance and grower recommendations
+
+Policy Relevance:
+Zhang's work informs grower guidance and agricultural programs by providing science-based strategies to improve productivity and resilience in specialty crop systems. He provides applied, field-relevant science that helps producers adapt management practices to subtropical conditions and environmental constraints. His work influences crop management and production practices, nutrient and water use efficiency at the field level, and translation of horticultural research into grower adoption.
 
 Keywords:
-Water Institute affiliate; Tropical Research and Education Center Homestead.
+horticulture; tropical crops; subtropical crops; crop physiology; production systems; nutrient management; water management; stress physiology; specialty crops; South Florida; TREC; yield optimization; grower guidance

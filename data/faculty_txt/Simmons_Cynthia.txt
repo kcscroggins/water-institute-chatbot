@@ -1,13 +1,28 @@
-Name: Cynthia Simmons
+Name: Cynthia S. Simmons
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Geography
+Academic Unit: Geography; Land Use & Environmental Change Institute
 Email: cssimmons@ufl.edu
+Title: Associate Professor
+
+Google Scholar: https://scholar.google.com/citations?user=qcS5yogAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Political economy and social processes in environmental change, Land conflict agrarian reform and development in Amazonia, Human geography of environmental management and policy, Local and regional scales of landscape transformation, Integration of social theory with environmental outcomes
+
+Education:
+- Ph.D. in Geography
+- Research focus on human-environment interactions and political economy
 
 Research Focus:
-Dr. Simmons is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Geography.
+Dr. Simmons is a human geographer whose scholarship examines social-environmental interactions, political economy, land change, and development processes, especially in Amazonia and other Latin American contexts. Her work focuses on how economic development, environmental policy, and social processes at multiple scales influence local landscapes, livelihoods, and conflicts over land and natural resources. She employs qualitative and quantitative social science methods, political economy and interdisciplinary analysis, fieldwork and case studies in Latin America, and critical geography approaches to environment-society relations. Research systems include Amazonian frontier regions and the broader Amazon basin, Latin American rural and agrarian landscapes, and human-environment interaction zones where policy, economy, and ecology intersect.
+
+Notable Publications:
+- Forest Transition and Fuzzy Environments in Neoliberal Mexico exploring deforestation land use change and social dynamics - Land
+- Multiple papers on contentious land change in Amazonia intersecting political economy with environmental outcomes
+- Interdisciplinary publications on environmental governance and landscape politics
+
+Policy Relevance:
+Dr. Simmons's research informs environmental policy and governance by elucidating how social and economic processes shape landscape change and resource conflicts, bridging geographic theory with real-world socio-ecological debates. Her work illuminates how social, economic, and policy structures influence environmental change and land use outcomes, essential for understanding drivers behind ecological pressures and human responses in landscapes such as Amazonia. Her work influences understanding of socio-economic drivers of land change, intersections between policy development and environment, and critical perspectives on governance and environmental justice.
 
 Keywords:
-Water Institute affiliate; Geography.
+human geography; political economy; land change; Amazonia; Latin America; environmental governance; agrarian reform; land conflict; deforestation; landscape transformation; human-environment interactions; development geography; environmental policy; socio-ecological systems

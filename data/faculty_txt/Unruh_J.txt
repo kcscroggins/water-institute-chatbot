@@ -1,13 +1,30 @@
 Name: J. Bryan Unruh
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: West Florida Research and Education Center
+Academic Unit: Environmental Horticulture; West Florida Research and Education Center
 Email: jbu@ufl.edu
+Title: Professor; Associate Center Director
+
+Google Scholar: https://scholar.google.com/citations?user=TRN8yyEAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Turfgrass science and management, Water quality including nutrient leaching and runoff and nutrient stewardship, Water quantity concerns including drought resistance and irrigation strategies, Pest management in turf systems, Cultivar development and stress-tolerance screening, Best management practices for sustainable turf maintenance
+
+Education:
+- Ph.D. in Horticulture/Turfgrass Science
+- Research focus on turfgrass management and environmental stewardship
 
 Research Focus:
-Dr. Unruh is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in West Florida Research and Education Center.
+Dr. Unruh is known for his leadership in turfgrass science and management, focusing on nutrient and water management, environmental stewardship, and sustainable turfgrass systems. He is a recognized authority on best management practices (BMPs) that reduce nutrient leaching and runoff from turfgrass landscapes, improve water-use efficiency, and promote environmentally responsible maintenance in golf courses, sod production, and urban landscapes. He employs field experimentation on turf performance irrigation and fertilization regimes, assessment of nutrient dynamics including nitrogen leaching studies in managed landscapes, development and evaluation of cultivar responses to environmental stresses, and collaboration with extension and industry stakeholders to translate research to practice. Research systems include turfgrass systems in Florida's subtropical and Gulf Coast climates, golf courses athletic fields urban lawns and sod production environments, and water-limited and nutrient concern landscapes where stewardship practices matter.
+
+Notable Publications:
+- Urban turfgrass fertilization and irrigation BMPs aimed at reducing water pollution and conserving resources
+- Studies on nitrogen leaching under various turfgrass management regimes linking fertilizer use with environmental outcomes
+- Extension fact sheets on lawn watering such as Watering Your Florida Lawn and fertilizer spreader calibration used widely in outreach and homeowner education
+- Collaborative peer-reviewed work on water use and weed and pest management in golf courses and landscape turf
+- Scholarship spanning extension publications technical reports and field-based journal articles bridging basic turfgrass science with real-world applications
+
+Policy Relevance:
+Dr. Unruh's work informs policies and stewardship programs by providing science-based evidence on how turfgrass management influences nutrient and water dynamics, shaping BMPs, educational outreach, and landscape sustainability standards. He provides critical insights into how managed turf systems interact with water and nutrient cycles, helping stakeholders adopt practices that reduce leaching and runoff, key factors in protecting water bodies from eutrophication and conserving limited freshwater supplies. His research influences best management practices for turfgrass systems, nutrient and water stewardship in urban and recreational landscapes, and translation of research to extension and industry outreach.
 
 Keywords:
-Water Institute affiliate; West Florida Research and Education Center.
+turfgrass; turf management; water quality; nutrient leaching; nitrogen; irrigation; best management practices; BMPs; golf courses; urban landscapes; sod production; water conservation; environmental horticulture; Florida; West Florida REC
