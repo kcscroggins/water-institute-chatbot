@@ -1,13 +1,32 @@
-Name: Roger Kjelgren
+Name: Roger Kjelgren, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Mid Florida Research and Education Center
+Academic Unit: UF/IFAS Mid-Florida Research and Education Center (MREC)
 Email: rkjelgren@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=Q1sk1sgAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Plant water use; Irrigation efficiency; Water conservation; Sustainable landscaping; Urban horticulture; Plant water relations; Water stress physiology
+
+Education:
+- Ph.D.
+- Professor Emeritus / Former Director, Mid-Florida Research and Education Center, University of Florida
 
 Research Focus:
-Dr. Kjelgren is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Mid Florida Research and Education Center.
+Dr. Kjelgren is a Professor Emeritus specializing in water use, water conservation, and plant-landscape relationships. His research applies horticultural and environmental science to quantify plant water use, irrigation efficiency, and sustainable landscape practices for urban and agricultural systems. He studies plant water stress responses, soil moisture dynamics, and water-wise landscape design, particularly for Florida and semi-tropical environments.
+
+Notable Publications:
+- Growth and water relations of Liquidambar styraciflua L. - linking water and nutrient availability to plant physiology. DOI: 10.1007/BF00202073
+- Variation in Hydric Response of Two Industrial Hemp Varieties to Induced Water Stress - measuring water use and stress responses. DOI: 10.3390/horticulturae9040431
+- Extensive body of work on water-wise landscape designs and irrigation norms
+
+Water Institute Relevance:
+Dr. Kjelgren's work on plant water relations and irrigation efficiency directly influences soil moisture regimes—a key driver of nutrient cycling and retention in soils. Plant water use and soil moisture strongly modulate soil organic matter decomposition and nutrient leaching. Improved understanding of plant hydration and water conservation influences landscape water use, soil health, and runoff dynamics, which in turn affect nutrient transport to water bodies. His research provides quantitative evidence supporting water conservation policies and sustainable landscape guidelines.
+
+Role in Research-to-Policy Pipeline:
+Applied research producer with strong Extension and policy relevance. Bridges plant-water relations with landscape/irrigation efficiencies, informing water-use standards, landscape guidelines, and resource conservation policies.
+
+Strategic Value:
+Answers the question: "How does plant water use drive soil moisture and influence nutrient cycling and loss?" Influences irrigation standards, water conservation practices, and soil moisture regimes affecting nutrient stabilization and leaching.
 
 Keywords:
-Water Institute affiliate; Mid Florida Research and Education Center.
+plant water use; irrigation efficiency; water conservation; sustainable landscaping; urban horticulture; water stress; soil moisture; plant physiology; water-wise design; Florida landscapes; MREC

@@ -2,12 +2,24 @@ Name: Boce Zhang
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Food Science and Human Nutrition
 Email: boce.zhang@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=3pwXTXkAAAAJ
+Website: https://fshn.ifas.ufl.edu/about/faculty-bio-pages/zhang/
 
 Subject Areas:
-Water-related research
+Food safety, Food microbiology, Pathogen surveillance, Machine learning
+
+Education:
+- Ph.D. in Food Science & Human Nutrition, University of Maryland (2012)
+- B.S. in Chemistry, Tsinghua University (2008)
+- Postdoctoral ORISE Fellow, USDA Environmental Microbial and Food Safety (2016)
 
 Research Focus:
-Dr. Zhang is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Food Science and Human Nutrition.
+Dr. Zhang specializes in food safety and food microbiology with research integrating microbial omics, machine learning, nanotechnology, and biointerface science to study the mechanisms of pathogen persistence. His current projects include AI-enabled sensor arrays for pathogen detection, nanopore sequencing for surveillance, and biofilm intervention strategies.
+
+Notable Publications:
+- Paper chromogenic array with machine learning for pathogen surveillance (Nature Food, 2021)
+- Nanopore transcriptome sequencing technology (Advanced Science, 2022)
+- Multiplex pathogen detection using neural networks (Biosensor Bioelectronics, 2021)
 
 Keywords:
-Water Institute affiliate; Food Science and Human Nutrition.
+Food safety; food microbiology; pathogen surveillance; transcriptomics; machine learning; nanotechnology; biofilms; RNA sequencing; AI sensors.

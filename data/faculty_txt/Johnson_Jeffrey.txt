@@ -1,13 +1,32 @@
-Name: Jeffrey Johnson
+Name: Jeffrey C. Johnson
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Anthropology
 Email: johnsonje@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=jH2otREAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Social and quantitative anthropology; Network analysis; Complex systems; Cultural and social dynamics; Human-environment interactions; Ecological anthropology; Applied ethnographic methods
+
+Education:
+- Preeminent Professor, Anthropology, University of Florida
 
 Research Focus:
-Dr. Johnson is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Anthropology.
+Dr. Johnson is a Preeminent Professor in Anthropology whose work spans social networks, quantitative methods, cultural anthropology, ecological anthropology, and socio-ecological systems. He applies network models and quantitative analysis to understand human behavior, group dynamics, food webs, and interactions between people and environments. His research frequently addresses marine and coastal communities, fisheries and resource management, and isolated or extreme environments.
+
+Notable Publications:
+- Johnson, J.C., Borgatti, S.P., & Everett, M.G. Analyzing Social Networks. SAGE Publications, 2013.
+- Luczkovich, J.J., Deehr, R.A., Johnson, J.C., et al. Linking Fishing Behavior and Ecosystem Dynamics Using Social and Ecological Network Models.
+- Johnson, J.C., Van Holt, T., Crona, B., et al. The consequences of landscape change on fishing strategies.
+- Ambrose, W.G. Jr., Clough, L.M., Johnson, J.C., et al. Interpreting environmental change in coastal Alaska using traditional and scientific ecological knowledge.
+
+Water Institute Relevance:
+Dr. Johnson's expertise in social network models and human-environment interactions helps explain how human social structures and behaviors shape ecosystem outcomes. His work on socio-ecological modeling addresses coastal fisheries and human-ecosystem interactions affecting nutrient and food-web dynamics in water systems. His analytical frameworks elucidate decision pathways and social drivers affecting ecosystem resource use, which is essential for understanding the human dimensions of water resource management and policy implementation.
+
+Role in Research-to-Policy Pipeline:
+Research producer with interdisciplinary reach. Generates novel analytical methods and empirical insights used by anthropologists, ecologists, and interdisciplinary teams addressing human-environment systems.
+
+Strategic Value:
+Answers the question: "How do human social structures and behaviors shape ecosystem outcomes?" Provides network approaches to resource management and interdisciplinary models linking people and ecological outcomes.
 
 Keywords:
-Water Institute affiliate; Anthropology.
+social network analysis; quantitative anthropology; ecological anthropology; human-environment interactions; socio-ecological systems; coastal communities; fisheries management; cultural dynamics; complex systems; resource management

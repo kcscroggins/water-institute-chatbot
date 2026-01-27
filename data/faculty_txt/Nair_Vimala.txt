@@ -1,13 +1,34 @@
-Name: Vimala Nair
+Name: Vimala D. Nair
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Soil and Water Sciences
 Email: vdn@ufl.edu
+Title: Research Professor, Environmental Soil Chemistry; Fellow, SSSA and ASA
+
+Google Scholar: https://scholar.google.com/citations?user=_xgUqpEAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Phosphorus cycling fate and transport in soils and aquatic systems, Environmental soil chemistry with focus on nutrient behavior, Soil carbon sequestration and agroforestry systems, Biochar effects on soil nutrient dynamics and carbon footprints, Phosphorus saturation and risk assessment frameworks, Wetland nutrient processes and water quality implications
+
+Education:
+- Ph.D. Soil Science, University of Florida
+- M.S. Soil Science, University of Agricultural Sciences (India)
+- B.S. Agriculture, University of Agricultural Sciences (India)
 
 Research Focus:
-Dr. Nair is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Soil and Water Sciences.
+Dr. Nair is an internationally recognized environmental soil chemist whose work focuses on nutrient fate and transport (especially phosphorus), soil carbon sequestration, biochar applications, and phosphorus risk assessment in agricultural and wetland systems. She is a fellow of both the Soil Science Society of America and the American Society of Agronomy. She advances mechanistic and applied understanding of nutrient behavior in soils and watersheds, and her findings directly inform nutrient management strategies, environmental risk assessment, and watershed protection practices. Research systems include agricultural landscapes with legacy nutrient issues, wetlands and aquatic systems (e.g., Everglades stormwater treatment areas), sandy subtropical soils of Florida, and global collaborative research across multiple continents.
+
+Notable Publications:
+- Co-editor of Scientific Writing and Communication in Agriculture and Natural Resources (Springer)
+- Co-author of An Introduction to Agroforestry: Four Decades of Scientific Developments (Springer)
+- Phosphorus-induced phosphorus transformations in biosolids from diverse sources (Journal of Environmental Quality, 2022)
+- Biochar effects on phosphorus management (Frontiers in Sustainable Food Systems, 2020)
+- Mining of soil legacy phosphorus without jeopardizing crop yield (Agrosystems, Geosciences & Environment, 2020)
+- Subsurface phosphorus transport and groundwater risk across land uses (Geoderma, 2019)
+- Consistency of the Threshold Phosphorus Saturation Ratio across diverse soils (Agrosystems, Geosciences & Environment, 2018)
+- Soil phosphorus storage capacity for environmental risk assessment (Frontiers in Environmental Science, 2014)
+
+Policy Relevance:
+Dr. Nair produces mechanistic and applied science on nutrient fate and transport, informing nutrient management strategies, environmental risk assessment tools, and best practices for reducing phosphorus and carbon losses from agricultural and wetland systems. Her work elucidates mechanisms of nutrient retention and release (e.g., soil phosphorus saturation, biochar effects) and interacts directly with water quality implications. Her findings inform how nutrient loading influences aquatic systems, including groundwater and surface water quality, and support strategies to mitigate nutrient export. Her research feeds into phosphorus risk assessment tools, BMP evaluation, and nutrient management frameworks used by stakeholders and policy communities.
 
 Keywords:
-Water Institute affiliate; Soil and Water Sciences.
+phosphorus; phosphorus cycling; nutrient transport; environmental soil chemistry; soil carbon; carbon sequestration; biochar; agroforestry; phosphorus saturation; risk assessment; legacy phosphorus; wetlands; Everglades; water quality; groundwater; nutrient management; SSSA Fellow; ASA Fellow

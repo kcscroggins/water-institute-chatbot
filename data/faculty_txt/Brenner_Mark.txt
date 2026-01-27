@@ -1,13 +1,31 @@
 Name: Mark Brenner
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Geological Sciences
+Role: Distinguished Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Geological Sciences
 Email: brenner@ufl.edu
 
 Subject Areas:
-Water-related research
+Paleolimnology, Environmental Geochemistry, Lake Sediment Records, Climate Reconstruction, Water Quality History
+
+Education:
+- Ph.D. Limnology / Environmental Sciences, University of Minnesota
+- M.S. Limnology, University of Minnesota
+- B.A. Biology / Environmental Sciences
 
 Research Focus:
-Dr. Brenner is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Geological Sciences.
+Mark Brenner is an internationally recognized paleolimnologist and environmental geochemist whose work reconstructs long-term environmental, climate, and water-quality change using lake sediment records. His research integrates geology, chemistry, and ecology to reconstruct past environments, including paleolimnology from lake sediment cores, water-quality history (nutrients, eutrophication), climate variability and change, carbon and nutrient cycling, isotope geochemistry, and human impacts on aquatic systems. He works across temporal scales from decades to millennia, providing the historical baselines needed to understand whether modern environmental change is unprecedented, accelerated, or policy-driven. He has extensive experience in Florida, the Caribbean, and Central America.
+
+Selected Publications:
+- Publications in Quaternary Research, Palaeogeography Palaeoclimatology Palaeoecology, Journal of Paleolimnology, Limnology and Oceanography, Environmental Science & Technology
+- Highly cited and foundational work in paleolimnology and lake-system science
+
+Water & Policy Relevance:
+- Pre-disturbance baselines for Florida lakes
+- Long-term context for nutrient enrichment, algal blooms, and ecosystem regime shifts
+- Evaluating BMAP effectiveness and setting realistic restoration targets
+- Understanding legacy nutrient loading
+- Past drought and wet-period frequency reconstruction
+- Climate-lake interactions and sensitivity of Florida waters to climate variability
+- Everglades and tropical system reconstructions
 
 Keywords:
-Water Institute affiliate; Geological Sciences.
+Paleolimnology; lake sediments; sediment cores; environmental geochemistry; isotope geochemistry; water quality history; eutrophication; nutrients; climate reconstruction; climate variability; Florida lakes; Everglades; Caribbean; restoration baselines; legacy nutrients; Water Institute affiliate

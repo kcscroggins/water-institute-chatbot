@@ -2,12 +2,18 @@ Name: Olesya Savchenko
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Food and Resource Economics
 Email: olesya.savchenko@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=9w9LX08AAAAJ&hl=en
+Website: https://fred.ifas.ufl.edu/faculty/Savchenko/
 
 Subject Areas:
-Water-related research
+Environmental economics, Water resource management, Aquatic invasive species, Harmful algal blooms
+
+Education:
+- Ph.D. in Applied Economics, University of Illinois Urbana-Champaign (2017) - Specialization in Natural Resource and Environmental Economics
+- Postdoctoral fellowship, University of Delaware Center for Experimental and Applied Economics
 
 Research Focus:
-Dr. Savchenko is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Food and Resource Economics.
+Dr. Savchenko employs experimental economics and non-market valuation to examine the impact of human behavioral changes on natural systems and develop agri-environmental policies. Her current work addresses water quality adoption, aquatic invasive species management, harmful algal blooms' economic effects, and sustainable food consumption patterns.
 
 Keywords:
-Water Institute affiliate; Food and Resource Economics.
+Environmental economics and policy; water resource management; pro-environmental behavior adoption; agricultural economics; non-market valuation; experimental economics; aquatic invasive species economics.

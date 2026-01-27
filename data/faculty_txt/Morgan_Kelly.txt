@@ -1,13 +1,32 @@
-Name: Kelly Morgan
+Name: Kelly T. Morgan
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Soil and Water Sciences
 Email: conserv@ufl.edu
+Title: Professor Emeritus
+
+Google Scholar: https://scholar.google.com/citations?user=RzuvjQEAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Soil nutrient cycling and bioavailability, Nitrogen and phosphorus soil chemistry, Irrigation-nutrient interactions and water quality, Best Management Practices for nutrient use efficiency, Soil testing fertility interpretation and fertilizer recommendations, Agronomic production systems
+
+Education:
+- Ph.D. Soil Science, University of Florida
+- M.S. Soil Science, University of Florida
+- B.S. Agronomy, University of Florida
 
 Research Focus:
-Dr. Morgan is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Soil and Water Sciences.
+Dr. Morgan is a nationally recognized soil fertility and nutrient management specialist known for research on nutrient cycling, nitrogen and phosphorus behavior in agricultural soils, soil test interpretation, and integration of water and nutrient management for sustainable crop production — especially within Florida's unique sandy soils and intensive cropping systems. His work combines fundamental nutrient process understanding with practical management guidance that has shaped fertilizer use recommendations, water management guidelines, and Best Management Practices (BMPs) across Florida agriculture. Research systems include Florida agricultural systems (sandy soils, high rainfall environments), citrus, vegetable, sugarcane, and row-crop production.
+
+Notable Publications:
+- Articles quantifying soil nitrogen and phosphorus transformations, fertilizer response curves, and nutrient movement under irrigation and rainfall in Florida soils
+- Work on modeling N and P availability and soil-plant nutrient interactions in diverse cropping systems
+- Nutrition of Florida Citrus Trees (3rd Edition) - comprehensive nutrient management reference widely used by growers and consultants
+- Soil sampling, interpretation, and fertility fact sheets for making fertilizer decisions
+- Agronomic BMPs and Total Maximum Daily Load (TMDL) guidance linking nutrient input with water quality outcomes
+- 4R nutrient stewardship guidance for crop production
+
+Policy Relevance:
+Dr. Morgan produces mechanistic science and BMP guidance that informs nutrient management policy and agricultural practices to balance crop productivity with minimized nutrient loss and improved water quality outcomes. His research directly addresses nutrient cycling, soil fertility, and nutrient loss pathways in agricultural systems, including nitrogen leaching and phosphorus mobility. His work elucidates mechanisms controlling nutrient availability and movement in soils (adsorption/desorption, mineralization, leaching), critical for understanding nutrient retention and loss to water. His Extension recommendations and involvement with BMP guidance support policy compliance and nutrient management regulation at county and state levels.
 
 Keywords:
-Water Institute affiliate; Soil and Water Sciences.
+soil fertility; nutrient cycling; nitrogen; phosphorus; nutrient management; BMPs; best management practices; soil testing; fertilizer recommendations; citrus nutrition; irrigation; water quality; nutrient leaching; sandy soils; Florida agriculture; 4R stewardship; TMDL

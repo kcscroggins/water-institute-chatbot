@@ -1,13 +1,38 @@
 Name: Joseph Bisesi
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Environmental Global Health
+Role: Associate Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Environmental & Global Health, College of Public Health & Health Professions
 Email: jbisesi@phhp.ufl.edu
 
 Subject Areas:
-Water-related research
+Environmental Toxicology, Cyanotoxins, Harmful Algal Blooms, Water Quality, Public Health, Risk Assessment
+
+Education:
+- Ph.D. Environmental Health Sciences / Toxicology, University of South Carolina
+- M.S. Environmental Health Sciences, University of South Carolina
+- B.S. Biology, University of South Carolina
 
 Research Focus:
-Dr. Bisesi is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Environmental Global Health.
+Joseph Bisesi is an environmental health scientist and toxicologist whose work focuses on contaminants in water and the human health risks they pose, especially cyanotoxins from harmful algal blooms (HABs), drinking water contaminants, and emerging pollutants. His research is highly applied and policy-relevant, covering cyanotoxins (microcystins, cylindrospermopsin), HABs and human exposure pathways, drinking water contamination, risk assessment and regulatory thresholds, environmental exposure modeling, and public health surveillance and response. His research frequently informs health advisories, monitoring strategies, and regulatory discussions. He serves as a health-impact translator, connecting water contamination to measurable human risk and policy decisions.
+
+Selected Publications:
+- "Microbiome Composition and Function in Aquatic Vertebrates" (Frontiers in Microbiology, 2021) - Highly cited open-access paper
+- "Higher intestinal and circulatory lactate associated NOX2 activation after microcystin-LR exposure" (2020) - Microcystin mechanistic toxicology
+- "Beyond cyanotoxins: increased Legionella, antibiotic resistance genes, and disinfection byproducts during harmful cyanobacterial blooms" (2023) - HABs and drinking water treatment risks
+- "Characterization of Atmospheric Processes of Brevetoxins in Sea Spray Aerosols from Red Tide Events" (Environmental Science & Technology, 2022)
+- Publications in Environmental Health Perspectives, Toxins, Journal of Water and Health, Science of the Total Environment, Environmental Toxicology
+
+Florida HAB & Public Health Relevance:
+- Freshwater HAB events in lakes, rivers, and reservoirs (Lake Okeechobee-connected waters, inland lakes)
+- Human exposure through drinking water, recreation, and aerosols
+- Florida red tide (Karenia brevis) and brevetoxin aerosol exposure
+- EPA and state health advisory development
+- Cyanotoxin guideline value interpretation
+- Decision-making for water treatment, public advisories, and monitoring
+
+Policy Relevance:
+- Supports FDOH, DEP, and utility decision-making
+- Informs anticipatory risk management as warming and nutrient loading increase HAB frequency
+- Links environmental monitoring to health outcomes
 
 Keywords:
-Water Institute affiliate; Environmental Global Health.
+Environmental toxicology; cyanotoxins; microcystin; harmful algal blooms; HABs; water quality; public health; drinking water; risk assessment; exposure science; red tide; brevetoxins; Karenia brevis; aerosol exposure; health advisories; regulatory science; Water Institute affiliate

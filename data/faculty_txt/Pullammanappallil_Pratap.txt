@@ -2,12 +2,28 @@ Name: Pratap Pullammanappallil
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Agricultural and Biological Engineering
 Email: pcpratap@ufl.edu
+Title: Professor
+
+Google Scholar: https://scholar.google.com/citations?user=IjteorwAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Anaerobic digestion and biogas systems, Organic waste treatment and resource recovery, Agricultural and industrial waste management, Environmental biotechnology, Renewable energy from biological systems
+
+Education:
+- Ph.D. Agricultural and Biological Engineering
+- Research focus on biological waste treatment and biogas systems
 
 Research Focus:
-Dr. Pullammanappallil is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural and Biological Engineering.
+Dr. Pullammanappallil is known for biological and environmental engineering focused on waste-to-resource systems, particularly anaerobic digestion, biogas production, and the treatment and valorization of organic wastes from agricultural, municipal, and industrial sources. His work integrates engineering design, process modeling, and system optimization to convert waste streams into energy and useful byproducts. He employs design and evaluation of anaerobic digestion systems, process modeling and system optimization, laboratory- and pilot-scale reactor experiments, and techno-economic and performance assessment of treatment systems. Research systems include agricultural waste streams such as manure crop residues and food waste, municipal and industrial organic wastes, and distributed and facility-scale waste treatment and energy systems.
+
+Notable Publications:
+- Improving efficiency and stability of anaerobic digestion
+- Design considerations for waste-to-energy systems
+- Integration of biological treatment with energy recovery
+- Publications in Bioresource Technology, Waste Management, and Applied Engineering in Agriculture
+
+Policy Relevance:
+Dr. Pullammanappallil's research supports decisions about sustainable waste management and renewable energy by providing engineering evidence for viable waste-to-resource systems. He develops practical, engineered solutions that reduce waste, generate renewable energy, and improve the sustainability of agricultural and municipal systems. His work focuses on engineered biological systems that manage organic wastes and recover energy, linking environmental protection with renewable energy and circular-economy objectives. His research influences waste-to-energy system design, resource recovery and circular-economy implementation, and engineering feasibility of biological treatment technologies.
 
 Keywords:
-Water Institute affiliate; Agricultural and Biological Engineering.
+biological engineering; anaerobic digestion; biogas; organic waste; waste treatment; resource recovery; agricultural waste; municipal waste; environmental biotechnology; renewable energy; waste-to-energy; process modeling; system optimization; circular economy

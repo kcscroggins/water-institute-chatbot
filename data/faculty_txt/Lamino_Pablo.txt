@@ -1,13 +1,34 @@
-Name: Pablo Lamino
+Name: Pablo Lamino, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Agricultural Education and Communication
 Email: pablo.lamino@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=sak8IEAAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Agricultural leadership; Intercultural communication; Environmental perception; Rural communities; Indigenous agriculture; Extension effectiveness; Knowledge, attitudes, and practices (KAP); Migration studies
+
+Education:
+- Ph.D.
+- Assistant Professor, Agricultural Education and Communication, University of Florida
 
 Research Focus:
-Dr. Lamino is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural Education and Communication.
+Dr. Lamino is an Assistant Professor specializing in agricultural leadership and communication research. His work focuses on leadership development, indigenous and rural communities, migration, environmental and agricultural perceptions, and intercultural competencies in both domestic and international agricultural contexts. He combines qualitative and mixed-methods approaches to understand community perspectives, behavior, and extension dynamics that influence agricultural and environmental practice adoption.
+
+Notable Publications:
+- Factors Influencing Vegetable Consumption Among Floridians: An Exploratory Study. DOI: 10.4148/1051-0834.2596
+- Agents of change: the role of health and nutrition female field technicians in transforming rural extension in the western highlands of Guatemala. Frontiers in Sustainable Food Systems.
+- Intercultural Competencies series (EDIS) - practical guidance for extension professionals. https://edis.ifas.ufl.edu/publication/WC492
+- Agricultural identity of Indigenous Salasacas in Ecuador - ethnographic research on indigenous agricultural practices
+- Environmental perception and youth migration studies across cultural contexts
+
+Water Institute Relevance:
+Dr. Lamino's work on environmental perceptions, leadership, and extension effectiveness influences how communities and extension agents engage with environmental issues, which can affect adoption of nutrient management practices and conservation behaviors. His research on attitudes toward sustainable agriculture and environmental behavior provides insight into human drivers that indirectly affect soil and water outcomes. Understanding socio-cultural factors is critical for designing Extension programs that effectively promote water-friendly agricultural practices in diverse communities.
+
+Role in Research-to-Policy Pipeline:
+Research producer with applied relevance. Generates evidence on behavioral, leadership, and perception dimensions that inform education, extension practice, and policy framing for environmental programs.
+
+Strategic Value:
+Answers the question: "How do cultural perceptions and leadership capacity shape community engagement with environmental and agricultural practices?" Influences human dimensions of agricultural adoption, extension capacity building, and environmental education design.
 
 Keywords:
-Water Institute affiliate; Agricultural Education and Communication.
+agricultural leadership; intercultural communication; environmental perception; rural communities; indigenous agriculture; extension education; KAP research; behavior change; sustainable agriculture adoption; Latin America; Guatemala

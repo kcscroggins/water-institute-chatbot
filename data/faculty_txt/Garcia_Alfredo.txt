@@ -1,13 +1,28 @@
 Name: Alfredo Garcia
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Industrial and Systems Engineering
+Role: Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Industrial and Systems Engineering
 Email: alfredo.garcia@ufl.edu
 
 Subject Areas:
-Water-related research
+Operations Research, Optimization, Stochastic Modeling, Decision Analysis, Resource Allocation, Risk Management
 
 Research Focus:
-Dr. Garcia is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Industrial and Systems Engineering.
+Alfredo Garcia is an operations research scholar specializing in optimization and decision-making under uncertainty for complex, resource-constrained systems. His research areas include operations research and optimization, stochastic and robust decision-making, resource allocation under uncertainty, risk-aware systems design, and infrastructure and network optimization. His work focuses on how to allocate limited resources optimally when systems are dynamic, uncertain, and multi-objective, developing formal decision and optimization frameworks that are implemented by engineers, planners, and policymakers.
+
+Selected Publications:
+- Foundational work in stochastic optimization and control addressing decisions under uncertainty and incomplete information
+- Research on risk-sensitive and robust optimization for safety-critical and resource-constrained systems
+- Generalizable mathematical tools used across infrastructure, environmental, and operational contexts
+
+Water & Policy Relevance:
+- Optimization tools for designing nutrient-management strategies
+- Monitoring network design under resource constraints
+- Intervention portfolio optimization for water quality
+- Formalizing trade-offs and constraints in regulatory decisions
+- Resource allocation for environmental monitoring and intervention
+- Risk-aware planning for nutrient reduction investments
+- Decision models balancing cost, risk, and environmental outcomes
+- Mathematical frameworks for BMAP implementation optimization
 
 Keywords:
-Water Institute affiliate; Industrial and Systems Engineering.
+Operations research; optimization; stochastic modeling; decision analysis; resource allocation; risk management; uncertainty; systems engineering; infrastructure optimization; environmental decision-making; Water Institute affiliate

@@ -1,13 +1,31 @@
-Name: Debra Murie
+Name: Debra J. Murie
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: School of Forest Resources and Conservation
 Email: dmurie@ufl.edu
+Title: Professor
+
+Google Scholar: https://scholar.google.com/citations?user=OI-Jr_cAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Fisheries ecology and age growth mortality studies, Population dynamics of marine fishes, Bioenergetics and life history analysis, Empirical data for stock assessment models, Marine conservation and sustainable resource use
+
+Education:
+- Ph.D. Fisheries Science, University of Washington
+- M.S. Fisheries Science, University of Washington
+- B.S. Biology, Simon Fraser University (Canada)
 
 Research Focus:
-Dr. Murie is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in School of Forest Resources and Conservation.
+Dr. Murie is a marine fisheries ecologist and population dynamics scientist with deep expertise in age and growth, mortality, and bioenergetics of coastal and reef fish species in Gulf of Mexico and southeastern U.S. waters. Her work supports sustainable fisheries management and conservation of exploited fish stocks. Her empirical biological data on fish populations feed directly into stock assessment models, fisheries regulation frameworks, and management decisions for recreational and commercial species. Research systems include nearshore and reef fish species in the Gulf of Mexico and Atlantic southeastern U.S., with species studied including greater amberjack, grouper, sheepshead, and others important to recreational and commercial fisheries.
+
+Notable Publications:
+- Age and Growth of Greater Amberjack in the Gulf of America - comprehensive assessment of sex- and region-specific growth parameters that inform stock status and models
+- Nonlethal sex determination methods for greater amberjack - improves fisheries sampling and biological characterization
+- Long-term work on otolith (ear stone) analysis and age structure for multiple reef fish species
+- Co-authorship on stock assessment supporting models for sustainable fishery management
+- Contributions to SEDAR (Southeast Data, Assessment, and Review) regional stock assessment programs
+
+Policy Relevance:
+Dr. Murie produces foundational biological insights that inform fisheries stock assessment and management frameworks, supporting regulatory decisions for reef and coastal fish species in the Gulf of Mexico and Southeast U.S. Her work enhances understanding of marine population responses to environmental and fishing pressures, which is vital for ecosystem management where water quality interacts with fish habitat and community structure. Her contributions influence marine resource management frameworks, which can intersect with coastal ecosystem protection.
 
 Keywords:
-Water Institute affiliate; School of Forest Resources and Conservation.
+fisheries ecology; population dynamics; age and growth; mortality; bioenergetics; stock assessment; marine fish; reef fish; greater amberjack; grouper; Gulf of Mexico; otolith analysis; SEDAR; sustainable fisheries; marine conservation

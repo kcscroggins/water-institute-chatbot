@@ -1,13 +1,34 @@
-Name: Damian Adams
+Name: Damian C. Adams
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: School of Forest Resources and Conservation
+Academic Unit: School of Forest, Fisheries & Geomatics Sciences; Food and Resource Economics Department
 Email: dcadams@ufl.edu
 
 Subject Areas:
-Water-related research
+Natural resource economics, Non-market valuation, Ecosystem services, Forest policy, Invasive species management
+
+Education:
+- Ph.D. Food and Resource Economics, University of Florida (2007)
+- M.Phil. Land Economy, University of Cambridge, England (2004)
+- J.D. Law, University of Florida (2001)
 
 Research Focus:
-Dr. Adams is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in School of Forest Resources and Conservation.
+Dr. Adams is a Professor of Natural Resource Economics and Policy and serves as Associate Dean for Research within UF/IFAS. His research centers on non-market valuation of ecosystem goods and services, particularly related to forests and natural resources. He studies how people value ecosystem services, how preferences and attitudes affect those values, and how this information can inform policy decisions. His work uses survey-based data, econometric and bioeconomic modeling, and non-market valuation methods to address topics such as invasive species management, conservation policy, carbon sequestration, water resources, and economic valuation of natural resources.
+
+Administrative Roles:
+- Associate Dean for Research, UF/IFAS
+- Director, ProForest (uniting experts in forest management and policy)
+- Editor-in-Chief, Forests journal
+
+Notable Publications:
+- Technology Adoption and Mitigation of Invasive Species Damage and Risk: Application to Zebra Mussels (Journal of Bioeconomics, 2012)
+- Public Preferences for Controlling Upland Invasive Plants in State Parks: Application of a Choice Model (Forest Policy and Economics, 2011)
+- Fairness, Farmers Markets, and Local Production (American Journal of Agricultural Economics, 2009)
+
+Research Metrics:
+- 90 journal articles published
+- 81 book chapters and other non-refereed publications
+- 3,477+ citations (Google Scholar)
+- Over $32 million in research funding as investigator
 
 Keywords:
-Water Institute affiliate; School of Forest Resources and Conservation.
+Natural resource economics; non-market valuation; ecosystem services; forest policy; forest economics; invasive species; carbon sequestration; water resources; bioeconomic modeling; preference-based valuation; environmental decision making; conservation policy.

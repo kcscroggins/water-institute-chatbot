@@ -1,13 +1,39 @@
 Name: Claire Lewis
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Center for Landscape Conservation and Ecology
+Academic Unit: UF/IFAS Center for Land Use Efficiency (formerly Center for Landscape Conservation and Ecology)
 Email: Clairelewis@ufl.edu
 
 Subject Areas:
-Water-related research
+Sustainable landscape design; Water conservation; Florida-Friendly Landscaping; Best management practices; Nutrient runoff reduction; Urban landscapes; Extension outreach; Environmental stewardship
+
+Position:
+- State Specialized Agent II, University of Florida
+- Director, Florida-Friendly Landscaping Program
 
 Research Focus:
-Dr. Lewis is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Center for Landscape Conservation and Ecology.
+Claire Lewis leads the Florida-Friendly Landscaping (FFL) Program, a statewide UF/IFAS Extension initiative that promotes sustainable, low-impact landscape practices to conserve water, protect environmental quality, and reduce pollutant loading into Florida's waters. Her work focuses on reducing water use and nutrient runoff from residential and urban landscapes by promoting appropriate plant selection, soil care, irrigation scheduling, and BMP adoption. She engages with homeowners, landscape professionals, builders, developers, HOAs, and community planning groups across Florida.
+
+Notable Publications and Outputs:
+- Floridians' Engagement in Landscape Best Practices to Protect Water Resources - statewide survey report on landscape practices tied to water quality, irrigation, and fertilizer BMPs
+- Managing Landscape Irrigation to Avoid Soil and Nutrient Losses - fact sheet guiding water and nutrient management in landscapes
+- The Role of Soil Management in Minimizing Water and Nutrient Losses from the Urban Landscape - extension guidance supporting reduced runoff and improved soil outcomes
+- Ten Strategies for Working With Your Home Owner Association to Convert to a Florida-Friendly Yard - practical outreach on implementing FFL principles
+- Steps to a Florida-Friendly Landscape - EDIS publication on sustainable landscape practices
+- Edible Landscaping Using Florida-Friendly Principles - guidance on plant selection and soil health
+
+Extension Programs:
+- Florida-Friendly Landscaping Program (Director) - statewide initiative promoting sustainable landscape practices
+- Community and industry engagement on water-conscious design
+- Training for landscape professionals, Master Gardeners, and Extension agents
+
+Water Institute Relevance:
+The core of FFL programming is reducing water use and nutrient runoff from residential and urban landscapes by promoting appropriate plant selection, soil care, irrigation scheduling, and BMP adoption - all direct drivers of nutrient transport from land into surface waters. FFL practices explicitly address soil and water management (irrigation, fertilization) aimed at minimizing soil nutrient loss and protecting water quality. Widespread adoption of FFL principles can reduce nonpoint source pollution, improve soil health, enhance stormwater infiltration, and contribute to water quality protection in watershed contexts.
+
+Role in Research-to-Policy Pipeline:
+Extension/implementation specialist. Directs Extension programming that translates science-based sustainable landscaping practices into community education, outreach, and best practice adoption across homeowners, professionals, and municipalities. Provides evidence-based landscape best practices that inform community planning and environmental stewardship policies.
+
+Strategic Value:
+Answers the question: "How can everyday landscape decisions be guided so that soil health, nutrient retention, and water quality are protected at scale?" Influences adoption of sustainable landscape BMPs, community and industry engagement on water-conscious design, and behavior change in irrigation and fertilization practices to reduce urban nonpoint source pollution.
 
 Keywords:
-Water Institute affiliate; Center for Landscape Conservation and Ecology.
+Florida-Friendly Landscaping; FFL; sustainable landscaping; water conservation; nutrient runoff; urban landscapes; best management practices; BMPs; irrigation; fertilizer management; nonpoint source pollution; Extension outreach; soil health; stormwater; landscape design

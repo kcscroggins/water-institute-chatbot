@@ -1,13 +1,31 @@
-Name: Robert McCleery
+Name: Robert A. McCleery
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Wildlife Ecology and Conservation
 Email: ramccleery@ufl.edu
+Title: Professor
+
+Google Scholar: https://scholar.google.com/citations?user=j-fqNBIAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Wildlife ecology and conservation biology, Effects of land-use change and fragmentation on animal communities, Endangered species ecology and recovery, Invasive predators and community dynamics, Behavioral ecology and habitat selection, Interactions between wildlife and changing landscapes
+
+Education:
+- Ph.D. Wildlife Ecology, Texas A&M University
+- M.S. Wildlife Ecology, Texas A&M University
+- B.S. Wildlife Biology, University of Montana
 
 Research Focus:
-Dr. McCleery is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Wildlife Ecology and Conservation.
+Dr. McCleery is a wildlife ecologist and conservation biologist whose research focuses on how land-use change, habitat fragmentation, invasive species, and ecological interactions influence wildlife populations and community dynamics — from small mammals to mesopredators and endangered species. His work spans terrestrial ecosystems in Florida and global contexts (e.g., savannas in Africa), examining small mammals, mesopredators, and other vertebrate taxa, as well as wildlife responses to agricultural mosaics, urbanization, and conservation zones. His portfolio includes over 200 publications on wildlife ecology and conservation.
+
+Notable Publications:
+- Marsh rabbit mortalities tie pythons to mammal declines in Everglades - documented impacts of invasive Burmese pythons on native mammal populations
+- Studies on landscape effects on small mammal communities in conservation-agriculture interfaces
+- Research on prescribed fire, habitat structure, and mammal diversity in longleaf pine ecosystems
+- Work on remote sensing and habitat selection modeling using next-generation data
+- Endangered species ecology research on Key Largo woodrat and lower Keys marsh rabbit recovery
+
+Policy Relevance:
+Dr. McCleery produces ecological evidence that informs biodiversity conservation strategies, land-use policies, and wildlife management frameworks to maintain ecosystem integrity and species persistence. His work on ecosystem change and habitat integrity provides context for how altered landscapes affect biodiversity and ecosystem function, essential for integrated conservation and land-use planning affecting ecosystem services. His findings on land-use change and ecosystem integrity indirectly touch on ecosystem function including nutrient retention and trophic dynamics.
 
 Keywords:
-Water Institute affiliate; Wildlife Ecology and Conservation.
+wildlife ecology; conservation biology; land-use change; habitat fragmentation; invasive species; endangered species; small mammals; mesopredators; Burmese pythons; Everglades; Key Largo woodrat; marsh rabbit; prescribed fire; longleaf pine; habitat selection; remote sensing; biodiversity; ecosystem management

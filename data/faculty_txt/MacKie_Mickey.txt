@@ -2,12 +2,23 @@ Name: Mickey MacKie
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Geological Sciences
 Email: emackie@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=u1nS0NQAAAAJ&hl=en&oi=ao
+Website: https://www.gatorglaciology.com/
 
 Subject Areas:
-Water-related research
+Glaciology, Machine learning, Sea level rise, Geophysics
+
+Education:
+- Ph.D. Geophysics, Stanford University
 
 Research Focus:
-Dr. MacKie is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Geological Sciences.
+Dr. MacKie and the Gator Glaciology Lab investigate conditions beneath ice sheets and their influence on ice sheet evolution. Her research uses machine learning and geostatistical simulation methods to study the topographic and geologic characteristics of ice sheets. Field work is conducted in Svalbard and Greenland. The lab uses AI to analyze what lies beneath glaciers and how they are moving and melting, with implications for sea level rise projections.
+
+Notable Achievements:
+- One of UF's newest AI faculty members
+- Uses HiPerGator for machine learning analysis
+- Research quantifies uncertainty in future sea-level rise projections for policy makers
+- Leads team of undergraduate students from geology, computer science, physics, math, and data science
 
 Keywords:
-Water Institute affiliate; Geological Sciences.
+Glaciology; machine learning; sea level rise; ice sheet dynamics; geophysics; geostatistics; polar research; Greenland; Svalbard; climate change.

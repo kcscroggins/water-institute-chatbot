@@ -1,13 +1,28 @@
 Name: Karen Garrett
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Plant Pathology
+Role: Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Plant Pathology
 Email: karengarrett@ufl.edu
 
 Subject Areas:
-Water-related research
+Plant Disease Epidemiology, Climate-Disease Interactions, Landscape Ecology, Risk Modeling, Agroecosystem Resilience
 
 Research Focus:
-Dr. Garrett is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Plant Pathology.
+Karen Garrett is a plant disease epidemiologist specializing in climate- and landscape-driven pathogen dynamics in agricultural systems. Her research areas include plant disease epidemiology, landscape and spatial ecology of pathogens, climate-disease interactions, risk modeling and forecasting, and agroecosystem resilience and management. Her work explicitly connects ecological theory, mathematical modeling, and applied plant health, examining how climate, landscape structure, and management practices shape the spread, persistence, and risk of plant pathogens.
+
+Selected Publications:
+- "Climate change effects on plant disease: genomes to ecosystems" (Annual Review of Phytopathology) - Foundational synthesis linking climate drivers to disease dynamics across scales
+- "The effects of climate variability and the color of weather time series on agricultural diseases and pests" (PLoS ONE) - Introduces stochastic and temporal structure into disease-risk modeling
+- "Epidemiology in mixed host populations" (Phytopathology) - Influential work on diversity, landscape structure, and disease suppression
+
+Water & Policy Relevance:
+- Soil management and nutrient regimes affecting plant health and disease pressure
+- Plant disease altering crop yields and residue inputs affecting soil carbon
+- Disease dynamics conditioning success of soil and nutrient management strategies
+- Climate adaptation strategies for agriculture
+- Systems-level resilience planning for agroecosystems
+- Crop-disease risk assessment under changing climate
+- Landscape structure effects on pathogen spread
+- Integration of biological stressors into nutrient management planning
 
 Keywords:
-Water Institute affiliate; Plant Pathology.
+Plant pathology; disease epidemiology; climate-disease interactions; landscape ecology; risk modeling; agroecosystem resilience; crop disease; climate adaptation; pathogen dynamics; agricultural systems; Water Institute affiliate

@@ -1,13 +1,31 @@
-Name: Paul Mueller
+Name: Paul A. Mueller
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Geological Sciences
 Email: pamueller@ufl.edu
+Title: Professor of Geology
+
+Google Scholar: https://scholar.google.com/citations?user=xLOZ0JwAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Isotope geochemistry and geochronology, Tectonics and continental crust evolution, Precambrian geology, Elemental and radiogenic isotope systematics, Geodynamic evolution of crust and mantle
+
+Education:
+- Ph.D. Geology, University of Florida
+- M.S. Geology, University of Florida
+- B.S. Geology, University of Florida
 
 Research Focus:
-Dr. Mueller is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Geological Sciences.
+Dr. Paul A. Mueller is an internationally recognized geochemist and geochronologist specializing in the chemical and geodynamic evolution of the Earth's crust and mantle, with a focus on isotope systematics (U-Pb, Rb-Sr, Sm-Nd, Lu-Hf) in igneous, metamorphic, and sedimentary rocks. His work provides fundamental constraints on continental crust formation, tectonic evolution, and early Earth processes. Research systems include Precambrian terranes globally (e.g., Wyoming province, southern Appalachians), ancient continental crust and orogenic systems, and integration of field samples with laboratory isotope measurements. His publication record spans over 40 years and includes hundreds of peer-reviewed articles across geology and geochemistry.
+
+Notable Publications:
+- Trace element and Lu-Hf systematics in Hadean-Archean detrital zircons: Implications for crustal evolution (Journal of Geology, 2012)
+- Paleoproterozoic evolution of the Farmington zone: Terrane accretion studies (Lithosphere, 2011)
+- 2450 Ma metamorphism recorded in 3250 Ma gneisses - fundamental insights on ancient metamorphic events
+- Crustal evolution in the southern Appalachian orogen: Hf isotope evidence (Journal of Geology, 2010)
+- Contributions to GSA Memoirs on mantle and crustal processes in the Hadean and Archean
+
+Policy Relevance:
+Dr. Mueller produces foundational evidence on Earth's crustal and tectonic evolution using radiogenic isotope systems, supporting advanced geoscience models of continental formation and deep Earth processes. While his research deals with ancient crust and mantle evolution, his fundamental geochemical expertise contributes to broader geological context for understanding sediment parent materials and long-term geochemical reservoirs that ultimately influence surface geochemistry.
 
 Keywords:
-Water Institute affiliate; Geological Sciences.
+isotope geochemistry; geochronology; U-Pb; Rb-Sr; Sm-Nd; Lu-Hf; continental crust; tectonics; Precambrian; Archean; Hadean; zircon; crustal evolution; Wyoming province; Appalachians; mantle; geodynamics

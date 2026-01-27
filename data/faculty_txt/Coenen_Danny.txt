@@ -1,13 +1,32 @@
 Name: Danny Coenen
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: SNRE
+Role: Instructional Associate Professor; Undergraduate Coordinator; Affiliate Faculty, UF Water Institute
+Academic Unit: School of Natural Resources and Environment (SNRE)
 Email: dcoenen@ufl.edu
 
 Subject Areas:
-Water-related research
+Environmental Science Education, Climate Change, Lake Ecology, Systems Thinking, Interdisciplinary Environmental Studies
+
+Education:
+- Ph.D. Natural Resources and Environment, University of Florida (Howard T. Odum Center for Wetlands)
 
 Research Focus:
-Dr. Coenen is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in SNRE.
+Danny Coenen is an instructional associate professor and undergraduate coordinator in the School of Natural Resources and Environment (SNRE). His primary responsibilities focus on teaching environmental science courses and supporting the undergraduate environmental science program. His teaching emphasizes systems thinking, environmental literacy, and critical evaluation of complex environmental issues using interdisciplinary approaches that integrate physical, biological, and socio-ecological perspectives. His earlier research focused on lake temperature trends as climate indicators in Florida ecosystems.
+
+Teaching:
+- EVR2001 Introduction to Environmental Science
+- EVS3000 Environmental Science
+- EVS4932 First-Year Environmental Science
+- Faculty advisor for Environmental Science Alliance student organization
+
+Selected Research:
+- "Lake Temperature Trends as Indicators for Climatic Change in Florida" (2007) - Analysis of long-term thermal behavior of Florida lakes as ecological and climate indicators
+
+Water & Policy Relevance:
+- Environmental literacy and science education for future environmental professionals
+- Interdisciplinary systems thinking for water, soil, and climate policy
+- Lake temperature trends and aquatic ecosystem responses to climate
+- Foundational training in ecosystem processes and climate impacts
+- Mentoring students in environmental science and community engagement
 
 Keywords:
-Water Institute affiliate; SNRE.
+Environmental science; education; SNRE; climate change; lake temperature; climate indicators; limnology; systems thinking; interdisciplinary; undergraduate coordinator; environmental literacy; Water Institute affiliate

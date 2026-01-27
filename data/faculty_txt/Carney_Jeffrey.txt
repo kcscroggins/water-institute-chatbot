@@ -1,13 +1,37 @@
 Name: Jeffrey Carney
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Architecture
+Role: Professor of Architecture; Director, Florida Institute for Built Environment Resilience (FIBER); Affiliate Faculty, UF Water Institute
+Academic Unit: School of Architecture, College of Design, Construction and Planning
 Email: j.carney@ufl.edu
+Website: https://dcp.ufl.edu/fiber/
 
 Subject Areas:
-Water-related research
+Climate Adaptation, Community Resilience, Urban Design, Digital Twins, Coastal Urbanism, Built Environment Resilience
+
+Education:
+- M.Arch, University of California, Berkeley
+- MCP (Master of City Planning), University of California, Berkeley
+- B.A., Washington University
 
 Research Focus:
-Dr. Carney is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Architecture.
+Jeffrey Carney is a Professor of Architecture and founding Director of the Florida Institute for Built Environment Resilience (FIBER). His work focuses on climate adaptation and community resilience in the built environment, particularly in coastal and flood-prone regions. He leads interdisciplinary research and engagement programs that help Florida communities prepare for climate impacts through innovative design, planning, and technology. His research areas include climate adaptation strategies for buildings and communities, urban digital twins for resilience planning, delta and coastal urbanism, community-engaged resilience planning, and the intersection of design and climate policy. Through FIBER, he coordinates university-wide efforts to support resilient design and planning across Florida.
+
+Selected Publications & Programs:
+- "Florida Resilient Cities" program essays - Community resilience planning frameworks
+- "Delta Urbanism" book chapters - Design strategies for water-dominated landscapes and climate adaptation
+- FIBER research reports on built environment resilience
+
+FIBER Programs:
+- Florida Resilient Cities initiative
+- Community resilience planning workshops
+- Urban digital twin development for climate scenarios
+- Cross-disciplinary built environment research
+
+Climate & Policy Relevance:
+- Climate adaptation planning for Florida communities
+- Resilience standards for built environment
+- Sea-level rise and flooding preparedness
+- Community engagement in climate planning
+- Integration of design, policy, and technology for resilience
 
 Keywords:
-Water Institute affiliate; Architecture.
+Architecture; climate adaptation; community resilience; FIBER; built environment; urban design; digital twins; coastal urbanism; delta urbanism; sea-level rise; flooding; resilience planning; Florida Resilient Cities; climate policy; Water Institute affiliate

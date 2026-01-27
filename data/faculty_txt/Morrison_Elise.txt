@@ -2,12 +2,21 @@ Name: Elise Morrison
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Environmental Engineering Sciences, ESSIE
 Email: elise.morrison@essie.ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=r3-EWUAAAAAJ&hl=en&oi=ao
+Website: https://faculty.eng.ufl.edu/elise-morrison/
 
 Subject Areas:
-Water-related research
+Nutrient biogeochemistry, Wetland ecosystems, Coastal ecology, Harmful algal blooms
 
 Research Focus:
-Dr. Morrison is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Environmental Engineering Sciences, ESSIE.
+The Morrison Research Group investigates ecosystem-scale responses in aquatic networks and coastal environments to human disturbances. They employ chemical and laboratory analyses to quantify nutrient (nitrogen and phosphorus) concentrations, stable isotopes, chemical biomarkers and spectroscopy indices.
+
+Current Research:
+- Integrating novel approaches to understand biogeochemical processes in wetland-human interactions
+- Identifying nutrient sources influencing harmful algal blooms in Florida systems
+- Examining microbial community influence on elemental cycling in wetlands and coastal areas
+- Assessing impacts of Piney Point nutrient releases on Tampa Bay
+- Developing sensing platforms to predict coastal hazards
 
 Keywords:
-Water Institute affiliate; Environmental Engineering Sciences, ESSIE.
+Nutrient biogeochemistry; nitrogen and phosphorus cycling; stable isotope analysis; microbial ecology; wetland and coastal ecosystem assessment; harmful algal blooms; environmental sensing technology.

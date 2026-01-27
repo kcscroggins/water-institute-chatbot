@@ -2,12 +2,24 @@ Name: Ahn Jaehyun
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Agricultural Education and Communication
 Email: jaehyunahn@ufl.edu
+Google Scholar: https://scholar.google.com.vn/citations?user=rPcv934AAAAJ&hl=en
+Website: https://aec.ifas.ufl.edu/directory/faculty/jaehyun-ahn/
 
 Subject Areas:
-Water-related research
+Agricultural innovation, Artificial intelligence in farming, Food security, Science communication
+
+Education:
+- Ph.D. Agricultural Leadership, Education, and Communications, Texas A&M (2021)
+- Ph.D. Health Services Research, Texas A&M (2016)
+- M.A.B. Agribusiness, Texas A&M (2012)
+- B.A. Business, Dongseo University, South Korea (2007)
 
 Research Focus:
-Dr. Jaehyun is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural Education and Communication.
+Dr. Ahn specializes in agricultural innovation, artificial intelligence applications in farming, food security challenges, and science communication. His work addresses food security and agricultural challenges while exploring how artificial intelligence and machine learning can transform agricultural practices.
+
+Notable Achievements:
+- Secured $815,000 in grant funding as co-principal investigator (2023)
+- Dean's one-time merit award from Texas A&M College of Agriculture and Life Sciences (2022)
 
 Keywords:
-Water Institute affiliate; Agricultural Education and Communication.
+Agricultural innovation diffusion; AI/machine learning in agriculture; food and agricultural defense and security; science communication; extension education; transdisciplinary collaboration.

@@ -2,12 +2,23 @@ Name: Chunli Dai
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: School of Forest, Fisheries, and Geomatics Sciencies
 Email: chunlidai@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=sp37w9UAAAAJ&hl=en&authuser=1
 
 Subject Areas:
-Water-related research
+Geodesy, Remote sensing, Geophysics, Tsunami and landslide detection
+
+Education:
+- Ph.D. Geodetic Science, The Ohio State University (2015)
+- M.Sc. Geodetic Science, The Ohio State University (2012)
+- M.Sc. Astrometry and Celestial Mechanics, Chinese Academy of Sciences (2011)
 
 Research Focus:
-Dr. Dai is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in School of Forest, Fisheries, and Geomatics Sciencies.
+Dr. Dai specializes in geodesy, geophysics, and remote sensing. Her research covers detection of tsunamigenic landslides, quantification of volcanic eruptions, coastline mapping, and earthquake focal mechanism characterization using satellite gravimetry. She uses various remote sensing data (GPS, InSAR, satellite imagery, satellite gravimetry) for coseismic deformation studies and machine learning for landslide detection.
+
+Notable Work:
+- Paper on Alaska tsunami threat from retreating glaciers (Geophysical Research Letters, 2020)
+- Featured in NASA Earth Observatory and EurekAlert
+- Published in Remote Sensing of Environment, Geophysical Research Letters, Earth and Planetary Science Letters
 
 Keywords:
-Water Institute affiliate; School of Forest, Fisheries, and Geomatics Sciencies.
+Geodesy; remote sensing; satellite gravimetry; landslide detection; tsunami hazards; coseismic deformation; InSAR; machine learning for geosciences.

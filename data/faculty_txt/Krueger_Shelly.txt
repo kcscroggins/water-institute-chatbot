@@ -1,13 +1,36 @@
-Name: Shelly Krueger
+Name: Shelly L. Krueger
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Florida Sea Grant
+Academic Unit: Florida Sea Grant (UF/IFAS Extension, Monroe County)
 Email: shellykrueger@ufl.edu
 
 Subject Areas:
-Water-related research
+Coastal water quality; Habitat restoration; Marine stewardship; Fisheries; Citizen science; Coral reef health; Marine education; Invasive species
+
+Position:
+- Extension Agent III, Florida Sea Grant, Monroe County (Florida Keys)
+- Marine Biologist
 
 Research Focus:
-Dr. Krueger is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Florida Sea Grant.
+Shelly Krueger is a Sea Grant Extension Agent specializing in marine science-based Extension education and community outreach in the Florida Keys. She focuses on coastal water quality, habitat restoration, fisheries stewardship, and marine citizen science. As a marine biologist, she works directly with residents, volunteers, and agencies on practical environmental management and stewardship programs, converting coastal and marine science into community action.
+
+Notable Publications and Outputs:
+- Artificial Reefs & Habitat Enhancement Fact Sheet - UF/IFAS peer-reviewed publication on artificial reef deployments in Florida
+- Ocean Acidification: Effects on Sponges - UF/IFAS publication on pH impacts on sponge ecology
+- The Coral Holobiont - educational overview of coral biology and microbiomes for resource professionals
+- American Horseshoe Crab Fact Sheet - UF/IFAS Extension publication on marine species ecology
+
+Leadership Roles:
+- Florida Keys National Marine Sanctuary Water Quality Protection Program Steering Committee
+- City of Key West Sustainability Advisory Board
+
+Water Institute Relevance:
+Shelly's work on coastal water quality directly engages issues tied to nutrient runoff, eutrophication, and marine habitat degradation in nearshore ecosystems where land-based nutrient inputs affect reef and seagrass health. Through her leadership roles on water quality steering committees, she influences water quality policy and community priorities affecting coastal nutrient outcomes. Her citizen science and monitoring programs generate data on water quality and ecological response relevant to nutrient dynamics and pollutant tracking in the Florida Keys.
+
+Role in Research-to-Policy Pipeline:
+Extension/implementation specialist with applied science translation. Converts coastal and marine science into practical education, community programs, and collaborative restoration efforts that support local environmental outcomes.
+
+Strategic Value:
+Answers the question: "How do coastal communities monitor and manage water quality impacts driven by nutrient runoff and marine stressors?" Influences public engagement in water quality monitoring, habitat restoration, and interagency coastal management collaborations.
 
 Keywords:
-Water Institute affiliate; Florida Sea Grant.
+Florida Sea Grant; coastal water quality; Florida Keys; habitat restoration; coral reefs; citizen science; marine stewardship; fisheries; sponges; ocean acidification; nutrient runoff; eutrophication; Extension education

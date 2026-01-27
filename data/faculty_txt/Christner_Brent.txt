@@ -1,13 +1,38 @@
 Name: Brent Christner
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Microbiology and Cell Science
+Role: Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Microbiology and Cell Science
 Email: xner@ufl.edu
 
 Subject Areas:
-Water-related research
+Environmental Microbiology, Cryosphere Microbiology, Atmospheric Microbiology, Ice Nucleation, Biogeochemical Cycling
+
+Education:
+- Ph.D. Environmental Microbiology / Microbial Ecology
+- M.S. Environmental Sciences
+- B.S. Biology / Microbiology
 
 Research Focus:
-Dr. Christner is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Microbiology and Cell Science.
+Brent Christner is an internationally recognized environmental microbiologist studying microbial life in extreme environments, particularly cold ecosystems such as glaciers, snow, ice cores, and the atmosphere. His work spans microbiology, Earth science, and climate processes, including microbial ecology of ice, snow, and glacial systems, atmospheric microbiology (microbes in clouds, precipitation, aerosols), ice-nucleating bacteria and proteins, biogeochemical cycling in extreme environments, and microbial survival and activity at low temperatures. His research integrates field sampling, molecular biology, and geochemical analysis to understand how microorganisms influence and are influenced by cryosphere processes, atmospheric chemistry, and biogeochemical cycles.
+
+Selected Publications:
+- "Ubiquity of Biological Ice Nucleators in Snowfall" (Science, 2008) - Flagship finding on biological ice nucleators in global snowfall; ~500+ citations
+  PDF: https://christnerlab.com/publications
+- "Geographic, seasonal, and precipitation chemistry influence on the abundance and activity of biological ice nucleators in rain and snow" (PNAS, 2008) - Biological ice nucleators vary with season and precipitation chemistry; ~250+ citations
+  PDF: https://christnerlab.com/publications
+- "Bacterial recovery from ancient glacial ice" (Environmental Microbiology, 2003) - Viable bacteria/DNA from ancient glacial ice; ~200+ citations
+  PDF: https://christnerlab.com/publications
+- "Microbial processes in the weathering crust aquifer of a temperate glacier" (The Cryosphere, 2018) - Glacier weathering crust as active microbial habitat
+- "Cloudy with a Chance of Microbes" (Microbe, 2012) - Synthesis of microbes in clouds and biological ice nucleation
+- Publications in Science, PNAS, Nature Geoscience, The ISME Journal, Environmental Microbiology
+
+Water & Climate Relevance:
+- Biological contributions to cloud formation and precipitation
+- How microbes affect ice formation and melting
+- Feedbacks between microbial activity and climate processes
+- Snowpack dynamics and cryosphere changes under warming
+- Atmospheric water systems and precipitation variability
+- Global biogeochemical cycles
+- Climate feedback mechanisms
 
 Keywords:
-Water Institute affiliate; Microbiology and Cell Science.
+Environmental microbiology; cryosphere; glaciers; ice cores; atmospheric microbiology; ice nucleation; biological ice nucleators; precipitation; snow; biogeochemical cycling; climate feedbacks; extreme environments; astrobiology; microbial ecology; Water Institute affiliate

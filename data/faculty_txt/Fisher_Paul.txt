@@ -1,13 +1,34 @@
 Name: Paul Fisher
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Environmental Horticulture
+Role: Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Environmental Horticulture
 Email: pfisher@ufl.edu
 
 Subject Areas:
-Water-related research
+Floriculture, Greenhouse Production, Irrigation Management, Fertigation, Nutrient Efficiency, Container Production
 
 Research Focus:
-Dr. Fisher is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Environmental Horticulture.
+Paul Fisher is a globally recognized floriculture scientist specializing in irrigation, fertilization, and water-nutrient efficiency in containerized plant production (greenhouse and nursery systems). His research areas include greenhouse and nursery crop nutrition, irrigation management (ET-, sensor-, and substrate-based), fertilizer formulation and delivery, substrate physical and chemical properties, runoff and leachate reduction, BMPs for protected agriculture, and decision-support tools for growers. His work underpins industry standards and regulatory guidance for nutrient management in container production, designing systems that deliver the right water and nutrients at the right time to minimize leaching, runoff, and waste while maintaining crop quality.
+
+Selected Publications:
+- "Managing irrigation and fertilization to reduce nutrient leaching in container production" (HortScience) - Foundational evidence that precise irrigation/fertigation dramatically reduces N and P leaching
+  PDF: https://journals.ashs.org/hortsci/downloadpdf/journals/hortsci/45/3/article-p401.pdf
+- "Water and nutrient efficiency in greenhouse crop production" (HortTechnology) - Best practices for closed-loop irrigation, substrate selection, and fertilizer control
+  PDF: https://journals.ashs.org/horttech/downloadpdf/journals/horttech/19/1/article-p8.pdf
+- "Substrate properties and nutrient availability in containerized crops" (HortScience) - Links substrate chemistry to nutrient retention vs. loss
+  PDF: https://journals.ashs.org/hortsci/downloadpdf/journals/hortsci/44/3/article-p645.pdf
+- "Precision fertigation strategies for greenhouse crops" (Acta Horticulturae) - Internationally cited synthesis on fertigation control to minimize runoff
+- "Irrigation management for container-grown plants" (EDIS) - Most used Extension reference for reducing irrigation-driven nutrient loss
+  PDF: https://edis.ifas.ufl.edu/pdf/AE/AE123/AE123.pdf
+
+Water & Policy Relevance:
+- Irrigation frequency and volume control for nitrate and phosphate leaching reduction
+- Substrate selection affecting nutrient adsorption and release
+- Closed-loop and recirculating irrigation systems for zero-runoff production
+- Precision fertigation reducing over-application of nutrients
+- Industry standards for nursery and greenhouse nutrient management
+- Urban and peri-urban nutrient reduction near production hubs
+- Water quality protection in containerized horticulture systems
+- Scalable BMPs for protected agriculture
 
 Keywords:
-Water Institute affiliate; Environmental Horticulture.
+Environmental horticulture; floriculture; greenhouse production; nursery crops; irrigation management; fertigation; nutrient efficiency; leaching reduction; container production; substrate chemistry; BMPs; runoff prevention; water quality; Water Institute affiliate

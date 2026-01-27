@@ -1,13 +1,33 @@
-Name: Kotryna Klizentyte
+Name: Kotryna Klizentyte, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: School of Forest, Fisheries, and Geomatics Sciencies
+Academic Unit: School of Forest, Fisheries, and Geomatics Sciences
 Email: kklizentyte@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=9JFwVwUAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Ecosystem services valuation; Natural resource economics; Stated preference modeling; Conservation policy; Willingness-to-pay analysis; Land use economics; Recreation economics; Aquifer conservation
+
+Education:
+- Ph.D.
+- Assistant Professor of Natural Resource Economics and Policy, University of Florida
 
 Research Focus:
-Dr. Klizentyte is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in School of Forest, Fisheries, and Geomatics Sciencies.
+Dr. Klizentyte is an Assistant Professor specializing in economic valuation of ecosystem services and natural resource policy analysis. She uses stated and revealed preference models to assess public preferences and economic tradeoffs connected to environmental management decisions such as conservation programs, recreation, and land use change. Her research generates quantitative evidence on values and preferences that inform policy design and evaluation for natural resource management, especially where economic incentives and ecosystem services intersect.
+
+Notable Publications:
+- Valuing the Upper Floridan Aquifer: Exploring public preferences for ecosystem service values and problem framing to support aquifer conservation. Journal of Environmental Management (2025). DOI: 10.1016/j.jenvman.2025.128026
+- Recreation Area Characteristics and Their Impact on Property Values within Florida's Wekiva River System. Society & Natural Resources. DOI: 10.1080/08941920.2023.2254730
+- Economic analysis of forest management and ecosystem services - connecting timber, carbon sequestration, and water yield outcomes
+- Perceived Drivers and Barriers to Entering the Sustainable Agritourism and Ecotourism Industry in Florida
+
+Water Institute Relevance:
+Dr. Klizentyte's work on valuation and preferences directly informs design and acceptance of conservation programs that influence land management practices affecting water quality, aquifer health, and ecosystem services. Her research on the Upper Floridan Aquifer quantifies public willingness to pay for groundwater conservation—essential for designing incentive programs like nutrient management payment schemes. By understanding what society values regarding water and ecosystem services, her work helps predict public support and economic feasibility of policies that reduce nutrient and pollutant loss into Florida's water systems.
+
+Role in Research-to-Policy Pipeline:
+Structural/governance layer. Produces evidence on public willingness to support management programs (e.g., aquifer conservation, BMP incentives) that directly impact soil and water quality governance.
+
+Strategic Value:
+Answers the question: "What is society willing to pay for water and ecosystem services benefits?" Influences ecosystem service program design, payment structures, public acceptance of conservation policy, and integration of economic and ecological objectives.
 
 Keywords:
-Water Institute affiliate; School of Forest, Fisheries, and Geomatics Sciencies.
+ecosystem services valuation; natural resource economics; stated preference; willingness to pay; aquifer conservation; Floridan Aquifer; conservation policy; recreation economics; land use change; BMP incentives; water quality policy

@@ -2,12 +2,21 @@ Name: Alberto Canestrelli
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Environmental Engineering Sciences, ESSIE
 Email: alberto.canestrelli@essie.ufl.edu
+Google Scholar: https://scholar.google.it/citations?user=pJLfAHoAAAAJ&hl=it
 
 Subject Areas:
-Water-related research
+Coastal hydrodynamics, Salt marsh morphodynamics, Storm surge forecasting, Beach recovery
+
+Education:
+- Ph.D. Civil and Environmental Engineering, University of Padova, Italy
+- Post-docs at Boston University and Penn State University
 
 Research Focus:
-Dr. Canestrelli is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Environmental Engineering Sciences, ESSIE.
+Dr. Canestrelli's primary research focus is on numerical modeling of coastal and estuarine hydrodynamics and morphodynamics. He studies the long-term morphodynamic evolution of river estuaries and back barrier basins, with particular focus on salt marsh erosion and progradation. His research also addresses storm surge forecasting, beach recovery modeling, nutrient dispersal in estuarine waters, and the impact of crab grazing on tidal creek hydrodynamics.
+
+Notable Achievements:
+- NSF CAREER Award recipient
+- Research on how ecosystem engineering by mussels affects coastal ecosystems' ability to keep pace with sea-level rise (collaboration with Royal Netherlands Institute for Sea Research)
 
 Keywords:
-Water Institute affiliate; Environmental Engineering Sciences, ESSIE.
+Coastal hydrodynamics; salt marsh morphodynamics; storm surge forecasting; estuarine modeling; beach recovery; sea-level rise; nutrient dispersal; tidal creeks.

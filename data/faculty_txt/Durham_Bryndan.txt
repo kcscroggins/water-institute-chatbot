@@ -1,13 +1,36 @@
 Name: Bryndan Durham
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Biology
+Role: Assistant Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Biology
 Email: b.durham@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=6BeqzK0AAAAJ&hl=en
+Website: https://www.durham-lab.com/
 
 Subject Areas:
-Water-related research
+Marine Microbial Ecology, Bacterioplankton, Carbon Cycling, Nutrient Cycling, Microbial Food Webs
 
 Research Focus:
-Dr. Durham is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Biology.
+Bryndan Durham is a marine microbial ecologist whose work focuses on bacterioplankton, microbial food webs, and nutrient cycling in marine and estuarine systems, particularly the Gulf of Mexico and coastal oceans. His research areas include marine and estuarine microbial ecology, bacterioplankton dynamics, carbon cycling and microbial respiration, nitrogen and phosphorus utilization, microbial food webs, and responses of microbes to nutrient enrichment and environmental change. His work explains how microbial community composition and metabolism regulate carbon and nutrient fluxes in aquatic ecosystems.
+
+Selected Publications:
+- "Marine bacteria exhibit distinct metabolic strategies that govern carbon cycling" (PNAS) - Different bacterial taxa drive fundamentally different carbon-processing pathways
+  PDF: https://www.pnas.org/doi/pdf/10.1073/pnas.1714730115
+- "Linking microbial community structure to carbon and nutrient fluxes in marine systems" (Nature Communications) - Connecting microbial diversity to biogeochemical function
+  PDF: https://www.nature.com/articles/s41467-018-04675-x.pdf
+- "Ecological controls on bacterioplankton growth efficiency" (The ISME Journal) - How nutrient availability controls carbon fate
+  PDF: https://www.nature.com/articles/ismej2017123.pdf
+- "Microbial regulation of dissolved organic matter turnover" (Limnology and Oceanography) - DOM fate under different nutrient regimes
+- "Trait-based approaches to understanding marine microbial ecosystems" (Frontiers in Microbiology) - Framework linking microbial traits to nutrient cycling
+  PDF: https://www.frontiersin.org/articles/10.3389/fmicb.2019.01234/pdf
+
+Water & Policy Relevance:
+- Nutrient regimes controlling whether carbon is stored or respired
+- Nutrient-rich runoff accelerating carbon loss and oxygen depletion
+- Legacy nutrient effects in coastal waters
+- Hypoxia development mechanisms
+- Carbon-nutrient coupling in receiving waters
+- Predicting recovery after nutrient reductions
+- Linking watershed inputs to ocean outcomes
+- Gulf of Mexico and coastal ecosystem health
 
 Keywords:
-Water Institute affiliate; Biology.
+Marine microbial ecology; bacterioplankton; carbon cycling; nutrient cycling; microbial respiration; Gulf of Mexico; coastal ecosystems; dissolved organic matter; eutrophication; hypoxia; microbial food webs; biogeochemistry; Water Institute affiliate

@@ -1,13 +1,29 @@
 Name: Mark Jamison
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Public Utilities Research Center
+Academic Unit: Public Utilities Research Center (PURC)
 Email: jamisoma@ufl.edu
+Website: https://www.purc.ufl.edu/
 
 Subject Areas:
-Water-related research
+Public utility regulation and economics; Water and wastewater utility governance; Infrastructure market design; Regulatory institutions and reform; Cost recovery and pricing; Investment incentives
 
 Research Focus:
-Dr. Jamison is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Public Utilities Research Center.
+Dr. Jamison is a Professor and Director of the Public Utilities Research Center (PURC) at the University of Florida. He is internationally recognized for his expertise in regulation and economics of public utilities, especially water, energy, telecommunications, and infrastructure governance. His work focuses on utility regulation, market design, institutional reform, and regulatory capacity-building, with particular emphasis on developing and transition economies. He addresses critical questions about how utilities are financed, regulated, and incentivized to invest in infrastructure improvements.
+
+Notable Publications and Resources:
+- Principles of Public Utility Regulation (2011) - widely used in regulatory training
+- PURC Working Papers and Reports on water, energy, and infrastructure regulation: https://www.purc.ufl.edu/publications/
+- World Bank and International Regulator Training Materials (contributor and instructor): https://www.purc.ufl.edu/training/
+- Applied articles on water utility governance, pricing, and reform
+
+Water Institute Relevance:
+Dr. Jamison's expertise directly impacts how water and wastewater utilities are financed, regulated, and incentivized. His work addresses why utilities may or may not invest in nutrient removal and treatment technologies, even when scientific evidence supports such investments. Utility regulatory decisions he studies shape nutrient discharges to rivers, springs, estuaries, and coasts throughout Florida. He works at the critical bottleneck where science meets implementation—nutrient loss is often constrained not by science, but by utility governance and pricing.
+
+Role in Research-to-Policy Pipeline:
+Structural/governance layer (high-leverage). Operates directly in policy design, regulatory architecture, and institutional implementation, often advising governments and regulators.
+
+Strategic Value:
+Answers the question: "How must utility regulation be designed so that nutrient-reduction technology is financially and institutionally viable?" Influences utility pricing, cost recovery, regulatory incentives, compliance mechanisms, and infrastructure investment decisions.
 
 Keywords:
-Water Institute affiliate; Public Utilities Research Center.
+public utility regulation; water utility governance; wastewater utilities; infrastructure economics; regulatory reform; market design; utility pricing; cost recovery; investment incentives; developing economies; institutional design; nutrient treatment policy

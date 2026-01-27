@@ -4,10 +4,19 @@ Academic Unit: Agricultural and Biological Engineering
 Email: wgraham@ufl.edu
 
 Subject Areas:
-Water-related research
+Hydrologic modeling, Water quality, Groundwater resources, Climate impacts
+
+Education:
+- Ph.D. Civil Engineering, Massachusetts Institute of Technology (1989)
+- B.S.E. Environmental Engineering, University of Florida (1981)
 
 Research Focus:
-Dr. Graham is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural and Biological Engineering.
+Dr. Graham is the Carl S. Swisher Eminent Scholar in Water Resources and founding Director of the Water Institute. Her research focuses on coupled hydrologic-water quality-ecosystem modeling, groundwater resources evaluation and remediation, impacts of agricultural production on surface and groundwater quality, and development of hydrologic indicators of ecosystem status. She also works on climate variability impacts on water resources and stochastic modeling with data assimilation.
+
+Notable Work:
+- Quantifying nitrate leaching to groundwater in Suwannee River Basin
+- 4,957+ citations on Google Scholar
+- Former Chair, Department of Agricultural and Biological Engineering (2003-2006)
 
 Keywords:
-Water Institute affiliate; Agricultural and Biological Engineering.
+Hydrologic modeling; water quality; groundwater resources; climate impacts on water; stochastic modeling; data assimilation; Suwannee River; nitrate leaching; ecosystem indicators.

@@ -2,12 +2,31 @@ Name: David Keellings
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Geography
 Email: djkeellings@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=csl4r44AAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Climate extremes; Disaster climatology; Tropical cyclones; Rainfall hazards; Heat waves; Climate risk; Social vulnerability; Environmental hazard mapping
+
+Education:
+- Associate Professor, Geography, University of Florida
 
 Research Focus:
-Dr. Keellings is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Geography.
+Dr. Keellings is an Associate Professor in Geography specializing in climate extremes, disaster climatology, and the interaction of weather with human systems. His research focuses on heat waves, tropical cyclones, rainfall extremes, climate risk, and social/environmental vulnerability across scales. He conducts climate data analysis and environmental hazard mapping for the southeastern United States, Caribbean, and tropical storm contexts, with applications to urban heat, rainfall intensity, and hazard exposure.
+
+Notable Publications:
+- Keellings, D.L., & Hernández Ayala, J.J. (2020). Climate and tropical cyclone risk in the Caribbean. International Journal of Climatology. DOI: 10.1002/joc.6580
+- Keellings, D.L. (2019). Rainfall and flooding extremes in the southeastern U.S.: recent changes and future risks. Springer.
+- Keellings, D.L., & Sutter, D. (2019). Compounding Heat Waves and Humidity in the Southeastern U.S.: Observations and Climate Model Projections.
+- Keellings, D.L., & Ayala, J.J.H. (2021). Statistical models of tropical cyclone rainfall hazards. Earth's Future. DOI: 10.1029/2020EF001800
+
+Water Institute Relevance:
+Dr. Keellings' research on rainfall extremes and climate variability directly supports understanding of precipitation intensity and timing, which influence soil erosion, runoff, and nutrient mobilization. Extreme rainfall and flooding events—core topics in his work—are key drivers of nutrient loss and transport across Florida's landscapes. His climate hazard assessments and flood projections inform water-resource management and help predict how extreme precipitation will affect water quality under climate change scenarios.
+
+Role in Research-to-Policy Pipeline:
+Research producer with applied relevance. Generates evidence on climate extremes that informs water management, hazard planning, and climate adaptation; work feeds into risk assessment and policy design.
+
+Strategic Value:
+Answers the question: "How will extreme precipitation and climate variability influence runoff, erosion, and nutrient transport?" Influences climate hazard assessments, flood and rainfall intensity projections, and risk analysis for water and land management.
 
 Keywords:
-Water Institute affiliate; Geography.
+climate extremes; tropical cyclones; rainfall hazards; heat waves; climate risk; disaster climatology; flooding; social vulnerability; southeastern United States; Caribbean; climate adaptation; hazard mapping

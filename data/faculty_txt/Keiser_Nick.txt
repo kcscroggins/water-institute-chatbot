@@ -1,13 +1,33 @@
-Name: Nick Keiser
+Name: Nick (Carl N.) Keiser
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Biology
 Email: ckeiser@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=CfgGDJQAAAAJ&hl=en
+Website: www.keiserlab.com
 
 Subject Areas:
-Water-related research
+Behavioral ecology; Infectious disease ecology; Host-parasite interactions; Disease transmission; Social behavior; Invertebrate ecology; Parasite biodiversity
+
+Education:
+- Assistant Professor, Biology, University of Florida
 
 Research Focus:
-Dr. Keiser is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Biology.
+Dr. Keiser is an Assistant Professor in Biology specializing in behavioral ecology and infectious disease ecology. His research focuses on how animal behavior influences disease dynamics, especially in invertebrates such as spiders, flies, snails, ticks, and their associated parasites. His lab curates the Spider Parasite Digital Research (SPDR) Collection to study parasite-host interactions and parasite biodiversity. He investigates social determinants of infection spread and how individual and group behavior shapes transmission patterns.
+
+Notable Publications:
+- Research on behavioral disease ecology exploring how host behavior influences infection risk and transmission patterns
+- Studies on social spider colonies and parasite load dynamics
+- Work on parasite biodiversity databases and host-parasite coevolution
+- Publications indexed on Google Scholar covering behavioral ecology and infectious disease dynamics
+
+Water Institute Relevance:
+While Dr. Keiser's primary focus is behavioral disease ecology rather than water systems directly, his work contributes to understanding ecological processes that can inform broader ecosystem health assessments. Disease dynamics and population behavior can influence food webs and energy flow with implications for ecosystem function. His research on aquatic and semi-aquatic invertebrates (such as snails) provides connections to freshwater ecosystem health and disease transmission in water-associated environments.
+
+Role in Research-to-Policy Pipeline:
+Research producer (fundamental ecological research). Generates insights into host-parasite interactions and behavioral determinants of disease that can inform ecological risk assessments.
+
+Strategic Value:
+Answers the question: "How does individual and social animal behavior affect infection dynamics and parasite transmission in ecological communities?" Provides ecological determinants of disease risk and parasite biodiversity data.
 
 Keywords:
-Water Institute affiliate; Biology.
+behavioral ecology; disease ecology; host-parasite interactions; infectious disease; invertebrates; spiders; snails; ticks; parasite biodiversity; social behavior; disease transmission; SPDR Collection

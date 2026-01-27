@@ -1,13 +1,29 @@
-Name: Michael Perfit
+Name: Michael R. Perfit
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Geological Sciences
 Email: mperfit@ufl.edu
+Title: Professor
+
+Google Scholar: https://scholar.google.com/citations?user=zxwOA0QAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Marine geology and oceanic crust formation, Igneous petrology and volcanology, Mid-ocean ridge processes, Geochemistry of basalts and magmatic systems, Submarine volcanic and hydrothermal environments
+
+Education:
+- Ph.D. Geological Sciences
+- Research focus on marine geology and geochemistry
 
 Research Focus:
-Dr. Perfit is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Geological Sciences.
+Dr. Perfit is known for marine geology and geochemistry, with a long-standing focus on igneous processes, mid-ocean ridge volcanism, submarine lava formation, and the geochemical evolution of the oceanic crust. His work has helped clarify how magma generation, differentiation, and eruption processes shape seafloor geology and influence the chemical composition of the oceans over geological timescales. He employs geochemical and isotopic analysis of volcanic rocks, petrologic and mineralogical characterization, field-based marine geology including submersible- and cruise-based sampling, and integration of geochemical data with tectonic and volcanic models. Research systems include mid-ocean ridges and ocean basins, submarine volcanic systems, and global-scale oceanic crust processes.
+
+Notable Publications:
+- Magma evolution and eruption dynamics at mid-ocean ridges
+- Chemical variability of oceanic basalts
+- Links between tectonics, volcanism, and ocean chemistry
+- Publications in Journal of Geophysical Research: Solid Earth, Geochemistry Geophysics Geosystems, and Earth and Planetary Science Letters
+
+Policy Relevance:
+While not policy-facing, Dr. Perfit's research supplies fundamental knowledge about Earth system processes that inform long-term models of ocean chemistry, crustal formation, and planetary evolution. He contributes foundational scientific understanding of how the ocean floor forms and evolves, which is essential for interpreting ocean chemistry, tectonics, and geologic history. His work provides deep-time and process-level understanding of Earth's oceanic crust and geochemical cycles that underpin broader Earth system science. His research influences scientific baselines and theory, geochemical and petrologic frameworks, and interpretation of marine geological data.
 
 Keywords:
-Water Institute affiliate; Geological Sciences.
+marine geology; geochemistry; igneous petrology; mid-ocean ridge; volcanism; oceanic crust; basalt; magmatic systems; hydrothermal; submarine volcanic; tectonics; ocean chemistry; Earth system science; geophysics

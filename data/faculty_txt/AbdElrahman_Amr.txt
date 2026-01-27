@@ -4,10 +4,34 @@ Academic Unit: School of Forest Resources and Conservation
 Email: aamr@ufl.edu
 
 Subject Areas:
-Water-related research
+Remote sensing, Geospatial analysis, GIS, UAS/drone imagery, Precision agriculture
+
+Education:
+- Ph.D. Civil Engineering - Geomatics, University of Florida
+- Earlier degrees in Civil Engineering and Digital Mapping, Ain Shams University, Cairo, Egypt
 
 Research Focus:
-Dr. Abd-Elrahman is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in School of Forest Resources and Conservation.
+Dr. Abd-Elrahman is an Associate Professor of Geomatics whose research focuses on remote sensing and geospatial analysis applications in precision agriculture and natural resource management. He utilizes multi-spectral and hyperspectral images acquired from satellite, airborne, and small Unmanned Aircraft Systems (sUAS) as well as LiDAR datasets. He uses machine learning algorithms, including deep learning networks (CNN, FCN, Deeplab) to analyze high spatial resolution sUAS images for wetland classification, vegetation analysis, and ecosystem monitoring.
+
+Notable Publications:
+- Deep Convolutional Neural Network Training Enrichment using Multi-View Object-based Analysis of UAS Imagery for Wetlands Classification (ISPRS Journal, 2018)
+- Remote sensing technique for detecting laurel wilt disease in avocado (Computers and Electronics in Agriculture, 2019)
+- Classification of Submerged Aquatic Vegetation in Black River Using Hyperspectral Image Analysis (Geomatica, 2014)
+- Object-based Image Analysis Method using Fully Convolutional Networks for Wetland Land Covers (Remote Sensing, 2018)
+
+Awards:
+- ASPRS Presidential Citation (2016)
+- NACTA Teacher Fellow (2013)
+
+Teaching:
+- Image Processing for Remote Sensing
+- Geographic Information Systems (GIS)
+- GIS Fundamentals
+- Forest Information Systems
+
+Professional Service:
+- American Society for Photogrammetry and Remote Sensing (ASPRS)
+- Leadership roles in geomatics and UAS workshops and committees
 
 Keywords:
-Water Institute affiliate; School of Forest Resources and Conservation.
+Remote sensing; geospatial analysis; GIS; UAS/drone imagery; LiDAR; hyperspectral imaging; wetland classification; precision agriculture; soil and water quality modeling; ecosystem monitoring; deep learning; CNN; image classification; submerged aquatic vegetation; avocado disease detection.

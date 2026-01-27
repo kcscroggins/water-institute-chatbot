@@ -1,13 +1,33 @@
-Name: Brett Scheffers
+Name: Brett R. Scheffers
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Wildlife Ecology and Conservation
 Email: brett.scheffers@ufl.edu
+Title: Associate Professor
+
+Google Scholar: https://scholar.google.com/citations?user=4HfsgFUAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Conservation biology and global biodiversity loss, Climate change impacts on species and ecosystems, Tropical ecology and forest systems, Microclimates thermal refugia and organismal exposure, Wildlife trade hunting and human pressures on biodiversity, Extinction risk and vulnerability assessment
+
+Education:
+- Ph.D. Ecology/Conservation Biology
+- Research focus on global change ecology and climate-biodiversity interactions
 
 Research Focus:
-Dr. Scheffers is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Wildlife Ecology and Conservation.
+Dr. Scheffers is internationally recognized for global-scale conservation biology and climate-change ecology, particularly for showing how climate change, microclimates, habitat structure, and human pressures jointly reshape biodiversity from genes to ecosystems. He is a central figure in demonstrating that fine-scale thermal heterogeneity (microhabitats, forest canopies, soil and near-surface temperatures) can buffer or fail to buffer organisms from climate extremes, with major implications for extinction risk, conservation planning, and human well-being. He employs global meta-analysis and synthesis, large collaborative datasets across multiple taxa and regions, integration of field ecology with climate and spatial data, trait-based and phylogenetic vulnerability analyses, and cross-scale approaches from microhabitats to biomes to people. Research systems include tropical forests especially Southeast Asia and the tropics broadly, global biodiversity patterns across terrestrial systems, and multi-taxon analyses including amphibians reptiles birds mammals and invertebrates.
+
+Notable Publications:
+- The broad footprint of climate change from genes to biomes to people - Science (2016)
+- Biodiversity redistribution under climate change - Science (2017)
+- Assessing species vulnerability to climate change - Nature Climate Change (2015)
+- Microhabitats reduce animals' exposure to climate extremes - Global Change Biology (2014)
+- Global buffering of temperatures under forest canopies - Nature Ecology & Evolution (2019)
+- Global wildlife trade across the tree of life - Science (2019)
+- Global maps of soil temperature / SoilTemp database - Global Change Biology (2020-2022)
+- Over 16,400 total citations with h-index of 45
+
+Policy Relevance:
+Dr. Scheffers's research reshapes how conservation planning accounts for climate exposure, showing that habitat structure, microclimates, and human pressures critically mediate extinction risk under climate change. He provides foundational, cross-scale insight into how climate change interacts with ecology and habitat structure to drive biodiversity loss, making his work central to modern conservation science. His work defines the ecological constraints and exposure pathways through which climate change, habitat loss, and human pressure affect biodiversity, informing conservation priorities and adaptation strategies. His research papers are field-defining and frequently cited in IPBES, IPCC-adjacent, and conservation policy contexts. His work influences climate adaptation framing for biodiversity, conservation prioritization and vulnerability assessment, and integration of microclimate and habitat structure into policy and planning.
 
 Keywords:
-Water Institute affiliate; Wildlife Ecology and Conservation.
+conservation biology; climate change; biodiversity; global change ecology; microclimate; thermal refugia; extinction risk; vulnerability assessment; tropical ecology; forest canopy; wildlife trade; species redistribution; habitat structure; soil temperature; amphibians; reptiles

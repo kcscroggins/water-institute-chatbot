@@ -2,12 +2,23 @@ Name: Anna Peterson
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Religion/Sustainability Studies
 Email: annap@ufl.edu
+Google Scholar: https://scholar.google.com/citations?hl=en&user=HXU0lTAAAAAJ&scilu=&scisig=ACUpqDcAAAAAaDhsPka-teosdFTD_wvp2hVB2S8&gmla=AH8HC4waC31DQk3fdTYu2S0rlRjmAAxAdZOVXT5VJDHt8QjOXb23VuUGN3skzatqxP-rye7gbfa97eWTM24FFHCQ7cme0Suj58ITLKMdrHU&sciund=4522176646642912841
+Website: https://people.clas.ufl.edu/annap/
 
 Subject Areas:
-Water-related research
+Social ethics, Environmental ethics, Religion and social change, Sustainability
+
+Education:
+- PhD in Ethics and Society, University of Chicago Divinity School
+- Undergraduate degree in Religious Studies, UC Berkeley
 
 Research Focus:
-Dr. Peterson is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Religion/Sustainability Studies.
+Dr. Peterson specializes in social ethics with emphasis on moral claims in everyday contexts. Key areas include social ethics, environmental ethics, religion and social change, animal studies, and Latin American religion and politics. She leads collaborative work on "Ethics in the Public Sphere," examining contentious public issues like police violence, climate change, and sexual violence.
+
+Notable Publications:
+- "With God on Our Side: Religion, Social Movements, and Social Change" (2024)
+- "Works Righteousness: Material Practice in Ethical Theory" (2020)
+- "Cats and Conservationists: The Debate over Who Owns the Outdoors" (2020)
 
 Keywords:
-Water Institute affiliate; Religion/Sustainability Studies.
+Social ethics; environmental ethics; religion; social movements; animal ethics; Latin America; public sphere ethics; sustainability.

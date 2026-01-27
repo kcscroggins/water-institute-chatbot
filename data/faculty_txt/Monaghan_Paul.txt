@@ -2,12 +2,29 @@ Name: Paul Monaghan
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Agricultural Education and Communications
 Email: paulf@ufl.edu
+Title: Associate Professor
+
+Google Scholar: https://scholar.google.com/citations?user=ZP9qJSQAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Agricultural and environmental communication, Science and risk communication, Public perception of agriculture and natural resource issues, Message framing and audience segmentation, Trust in science institutions and expertise, Survey research and quantitative social science methods
+
+Education:
+- Ph.D. Agricultural Education and Communication, University of Florida
+- M.S. Agricultural Education, University of Florida
+- B.A. Sociology, University of Florida
 
 Research Focus:
-Dr. Monaghan is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural Education and Communications.
+Dr. Monaghan is an agricultural communication and public opinion scholar known for research on science communication, risk perception, public trust, message framing, and stakeholder engagement around agriculture, natural resources, and environmental issues. His work focuses on how information is interpreted by different audiences and how communication strategies affect understanding, attitudes, and behavior. He operates primarily at the science-to-public understanding-to-policy acceptance layer, generating empirical evidence on how environmental and agricultural information is communicated and received. Research populations include agricultural producers and rural stakeholders, general public audiences engaging with environmental issues, and policy-relevant communication contexts around water quality, agriculture, and sustainability.
+
+Notable Publications:
+- Public perceptions of agriculture and environmental issues - survey-based analyses of attitudes toward farming, sustainability, and regulation
+- Risk and crisis communication in agricultural and natural resource contexts
+- Message framing effects on trust, understanding, and behavioral intent related to environmental topics
+- Communication strategies for controversial science topics, including environmental regulation and agricultural practices
+
+Policy Relevance:
+Dr. Monaghan produces empirical evidence on how environmental and agricultural information is communicated and received, informing outreach strategies, Extension messaging, and policy communication for improved public understanding and acceptance. His work is relevant to how information about nutrient loss, water quality, and soil management is communicated and understood by stakeholders, which can influence behavioral adoption of practices. He plays a significant role in the governance and adoption layer, helping explain why policies, BMPs, or scientific recommendations succeed or fail based on communication, trust, and framing.
 
 Keywords:
-Water Institute affiliate; Agricultural Education and Communications.
+agricultural communication; environmental communication; science communication; risk communication; public perception; message framing; audience segmentation; trust in science; stakeholder engagement; survey research; Extension; policy communication; behavior change; water quality communication

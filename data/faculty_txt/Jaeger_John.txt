@@ -1,13 +1,29 @@
 Name: John Jaeger
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Geological Sciences
+Role: Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Geological Sciences
 Email: jmjaeger@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=b_CJnfcAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Sedimentology, Stratigraphy, Coastal Processes, Nearshore Processes, Fluvial-Deltaic Systems, Sediment Transport, Landscape Evolution, Geomorphology
 
 Research Focus:
-Dr. Jaeger is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Geological Sciences.
+John Jaeger is a geologist specializing in sedimentology, stratigraphy, and coastal/nearshore geologic processes, with emphasis on sediment transport, deposition, and landscape evolution in fluvial, deltaic, and coastal systems. His research areas include sedimentology and stratigraphy, coastal and nearshore processes, fluvial-deltaic systems, sediment transport and deposition, and landscape evolution and geomorphology. His work clarifies how physical earth processes control material fluxes that shape environments over time, providing process-level geologic understanding that underpins coastal management, hazard assessment, and sediment-based restoration planning.
+
+Selected Publications:
+- Empirical and modeling studies of sediment transport and deposition in coastal and fluvial systems
+- Research linking hydrodynamics and sediment budgets to coastal morphology and change
+- Contributions to Geology, Journal of Sedimentary Research, Marine Geology, and related venues
+
+Water & Policy Relevance:
+- Sediment transport controls where nutrients and particulate carbon are mobilized, stored, or buried across landscapes
+- Sediment delivery affecting estuarine and coastal water quality
+- Understanding of eutrophication and habitat conditions influenced by sediment processes
+- Physical-process understanding for managing sediment-driven nutrient transport
+- Coastal change assessment for watershed and shoreline policy
+- Sediment management and coastal restoration planning
+- Interpretation of nutrient and carbon transport pathways
+- Hazard and change assessment in sediment-dominated systems
 
 Keywords:
-Water Institute affiliate; Geological Sciences.
+Sedimentology; stratigraphy; coastal processes; nearshore geology; sediment transport; fluvial systems; deltaic systems; geomorphology; landscape evolution; coastal morphology; sediment budgets; coastal restoration; Water Institute affiliate

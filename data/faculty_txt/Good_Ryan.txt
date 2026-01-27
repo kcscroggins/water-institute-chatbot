@@ -2,12 +2,22 @@ Name: Ryan Good
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: School of Natural Resources and Environment
 Email: ryangood@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=1mDL_qsAAAAJ&hl=en
+Website: https://snre.ifas.ufl.edu/people/faculty-staff-and-administration/good/
 
 Subject Areas:
-Water-related research
+Geography and geospatial analysis, Land use policy, Natural resource management, International development
 
 Research Focus:
-Dr. Good is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in School of Natural Resources and Environment.
+Dr. Good's work examines cross-cutting questions of interest to many disciplines using geospatial expertise and mixed methodologies. Key research areas include agricultural and natural resource management and policy, land use and land cover change dynamics, and urban-rural interactions. Geographic focus includes developing and emerging regions, particularly East and Southern Africa.
+
+Teaching:
+- EVR2001: Introduction to Environmental Science
+- EVS4932: Climate Entrepreneurship
+- IDS2935: Why Maps Matter
+
+Affiliations:
+Affiliate Faculty: Department of Geography, Tropical Conservation & Development Program, Center for African Studies, UF Water Institute
 
 Keywords:
-Water Institute affiliate; School of Natural Resources and Environment.
+Geography; geospatial analysis; environmental and economic research; natural resource management; land use policy; international development; Africa.

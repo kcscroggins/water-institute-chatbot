@@ -1,13 +1,34 @@
-Name: Norman Leppla
+Name: Norman C. Leppla, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Entomology and Nematology
 Email: ncleppla@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=NwL5bKkAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Integrated pest management (IPM); Biological control; Insect ecology; Insect behavior; Pest forecasting; Decision support systems; Host-plant-insect interactions; Agricultural entomology
+
+Education:
+- Ph.D.
+- Professor Emeritus, Entomology and Nematology, University of Florida
 
 Research Focus:
-Dr. Leppla is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Entomology and Nematology.
+Dr. Leppla is a Professor Emeritus known for applied insect ecology and pest management, especially in agricultural systems. His expertise includes integrated pest management (IPM), biological control, insect behavior and ecology, and decision support tools for managing insect pests in crops such as citrus, vegetables, and ornamentals. His work spans ecology, extension, and practical management of insect populations affecting crop production, with extensive contributions to natural enemy communities (parasitoids, predators) and host-plant-insect interactions.
+
+Notable Publications:
+- IPM and insect ecology in southern crop systems - foundational studies on insect population thresholds, predator-prey interactions, and IPM implementation
+- Biological control efficacy and natural enemy contributions - studies quantifying roles of parasitoids and predators in suppressing pest populations
+- Decision support tools for pest management - sampling plans and action thresholds for key pests like thrips and whiteflies
+- Extension-oriented field guides and technical reports translating research into practice (via IFAS EDIS)
+- Educational materials, sampling protocols, and forecasting systems for pest monitoring
+
+Water Institute Relevance:
+Dr. Leppla's expertise in insect-plant interactions and pest ecology intersects with soil and nutrient cycles indirectly via crop health, plant nutrient use, and agroecosystem productivity. Insect herbivory influences plant growth and nutrient allocation, and pest management affects fertilizer use efficiency. Changes in pest pressure (e.g., defoliation) can indirectly alter plant biomass production, root exudation, and residue return - processes that interact with soil organic matter and nutrient cycling. IPM adoption and pest management policies influence agricultural sustainability and input use, including how producers manage nitrogen and other nutrients in the context of plant health.
+
+Role in Research-to-Policy Pipeline:
+Research producer with strong Extension translation. Produces fundamental ecological insights and applied IPM tools that directly feed into agricultural practice, Extension outreach, and pest management guidelines that support sustainable production with balanced nutrient and water use.
+
+Strategic Value:
+Answers the question: "How do insect pests and natural enemies mediate crop performance and management decisions that influence agroecosystem sustainability?" Influences integrated pest management adoption, biological control strategies, and decision support for sustainable crop health that connects to nutrient efficiency and water use in agricultural systems.
 
 Keywords:
-Water Institute affiliate; Entomology and Nematology.
+integrated pest management; IPM; biological control; insect ecology; pest forecasting; entomology; agricultural pests; natural enemies; parasitoids; predators; crop protection; decision support; Extension; citrus pests; vegetable crops

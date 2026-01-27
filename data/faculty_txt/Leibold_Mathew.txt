@@ -1,13 +1,33 @@
-Name: Mathew Leibold
+Name: Mathew A. Leibold, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Biology
 Email: mleibold@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=HWxmXLwAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Metacommunity ecology; Spatial ecological theory; Food web structure; Ecosystem function; Ecological stoichiometry; Biodiversity-ecosystem functioning; Aquatic ecosystems; Nutrient dynamics; Community ecology
+
+Education:
+- Ph.D.
+- Distinguished Professor, Biology, University of Florida
 
 Research Focus:
-Dr. Leibold is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Biology.
+Dr. Leibold is a Distinguished Professor known for his fundamental contributions to community and ecosystem ecology, particularly in metacommunity theory, biodiversity-ecosystem function relationships, ecological stoichiometry (nutrient ratios), food web dynamics, and spatial scaling of ecological processes. His work links species interactions to ecosystem processes such as nutrient cycling and primary productivity in aquatic and terrestrial systems. He studies how nutrient ratios (N:P:C) influence consumer-resource interactions, community structure, and ecosystem function.
+
+Notable Publications:
+- Spatial scale dictates the productivity-biodiversity relationship (Nature) - highly cited analysis of how spatial arrangement and productivity shape biodiversity patterns
+- Contributions to ecological stoichiometry literature linking nutrient ratios to consumer-resource interactions and ecosystem processes
+- Food web and metacommunity theory synthesis - conceptual frameworks tying species interactions, nutrient cycling, and ecosystem function
+- Foundational papers on community ecology, biodiversity, and ecosystem processes
+
+Water Institute Relevance:
+Dr. Leibold's research on ecological stoichiometry directly addresses how nutrient ratios (e.g., N, P, C) influence species performance, community structure, and ecosystem processes such as primary production and decomposition - key mechanisms that underpin nutrient cycling and loss pathways in ecosystems. His theoretical frameworks are central to understanding how nutrient availability and ratios influence ecosystem responses that drive patterns of biomass production, decomposition, and nutrient retention or release. His work informs ecosystem and biogeochemical models used for nutrient-loss prediction and aquatic ecosystem management.
+
+Role in Research-to-Policy Pipeline:
+Research producer (primary). Produces highly conceptual and quantitative ecological theory that informs environmental prediction, biodiversity conservation, and ecosystem management frameworks. His foundational research supports nutrient-biodiversity modeling and ecosystem function predictions used in environmental management and conservation planning.
+
+Strategic Value:
+Answers the question: "How do nutrient ratios and biodiversity interplay shape ecosystem structure and function?" Influences theoretical frameworks linking nutrients to community and ecosystem dynamics, development of ecosystem models for nutrient impacts, and cross-scale ecological predictions that inform ecosystem management and conservation decisions.
 
 Keywords:
-Water Institute affiliate; Biology.
+metacommunity ecology; food web ecology; ecological stoichiometry; biodiversity-ecosystem function; nutrient dynamics; spatial ecology; aquatic ecosystems; community ecology; nutrient ratios; ecosystem modeling; primary productivity; N:P stoichiometry

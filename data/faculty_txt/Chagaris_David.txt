@@ -1,13 +1,34 @@
 Name: David Chagaris
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Nature Coast Biological Station
+Role: Research Associate Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: UF/IFAS Nature Coast Biological Station
 Email: dchagaris@ufl.edu
 
 Subject Areas:
-Water-related research
+Quantitative Fisheries, Ecosystem Modeling, Aquatic Ecology, Food-Web Dynamics, Marine Resource Management
 
 Research Focus:
-Dr. Chagaris is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Nature Coast Biological Station.
+David Chagaris is an expert in ecosystem-based fisheries science who develops and applies quantitative food-web and ecosystem models to understand how marine fish populations and broader ecosystems respond to fishing pressure, environmental change, policy options and management strategies, and trophic interactions and predator-prey dynamics. He combines mechanistic models (e.g., Ecopath with Ecosim) with empirical data to inform science-based decision making in marine resource management. His research is especially relevant to Gulf of Mexico and West Florida Shelf marine ecosystems, which tie into coastal ecology, climate influences, and fisheries sustainability.
+
+Selected Publications:
+- "Simulating the Trophic Impacts of Fishery Policy Options on the West Florida Shelf Using Ecopath with Ecosim" (Marine and Coastal Fisheries, 2015) - Uses ecosystem modeling to simulate how alternative fishery policies affect trophic structure; one of his most cited works
+  PDF: https://www.semanticscholar.org/paper/Simulating-the-Trophic-Impacts-of-Fishery-Policy-on-Chagaris-Mahmoudi/bea48cdb4bb738f19384e481d78dfc7380e6f304
+- "Management challenges are opportunities for fisheries ecosystem models in the Gulf of Mexico" (Marine Policy, 2019) - Integrating ecosystem modeling into real-world fisheries management
+- "Relative effects of multiple stressors on reef food webs in the Northern Gulf of Mexico revealed via ecosystem modeling" (Frontiers in Marine Science, 2020) - Explores how multiple stressors collectively influence Gulf reef ecosystems
+- "Technical Documentation of a U.S. Gulf of Mexico Ecosystem Model" (NOAA Technical Memorandum NMFS-SEFSC-751, 2021) - Gulf-wide ecosystem model developed with RESTORE Science funding
+
+Research Programs:
+- West Florida Shelf Ecosystem Model using Ecopath with Ecosim
+- Simulation of red tide impacts, fishing pressure changes, and management strategies
+- Gulf of Mexico ecosystem modeling for NOAA and fisheries management councils
+- Decision-support tools for sustainable harvest limits and bycatch management
+
+Water & Policy Relevance:
+- Ecosystem-based fisheries management moving beyond single-species approaches
+- Environmental drivers including temperature, red tides, habitat quality, and hypoxia
+- Decision support for Gulf and South Atlantic Fisheries Management Councils and NOAA
+- Coastal water quality and watershed-to-sea connectivity in Florida's Big Bend and Suwannee River estuary
+- Climate and disturbance response evaluations
+- Integrated water-ecosystem models
 
 Keywords:
-Water Institute affiliate; Nature Coast Biological Station.
+Ecosystem modeling; Ecopath with Ecosim; quantitative fisheries; food-web dynamics; Gulf of Mexico; West Florida Shelf; marine ecology; fisheries management; trophic interactions; red tide; climate change; decision support; NOAA; Nature Coast Biological Station; Water Institute affiliate

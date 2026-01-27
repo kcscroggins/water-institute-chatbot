@@ -1,13 +1,31 @@
-Name: Laura Reynolds
+Name: Laura K. Reynolds
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Soil and Water Sciences
+Academic Unit: Soil, Water, and Ecosystem Sciences
 Email: lkreynolds@ufl.edu
+Title: Associate Professor
+
+Google Scholar: https://scholar.google.com/citations?user=AVsjjogAAAAJ&hl=en
+Website: https://lkreynolds.com
 
 Subject Areas:
-Water-related research
+Coastal and marine ecology, Submerged aquatic vegetation (SAV) ecology and restoration, Ecosystem services in coastal systems, Population genetics of foundational marine plants, Biogeochemical processes in vegetated coastal habitats, Impacts of stressors on marine plant communities
+
+Education:
+- Ph.D. Marine Ecology/Coastal Science
+- Research focus on seagrass ecology and restoration
 
 Research Focus:
-Dr. Reynolds is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Soil and Water Sciences.
+Dr. Reynolds is known for coastal and marine ecology, with a research emphasis on seagrass and submerged aquatic vegetation ecology, genetic diversity and ecosystem function, restoration ecology, habitat-forming marine plants, and coastal ecosystem services. She employs field experiments and observational studies in coastal marine habitats, genetic analyses of plant populations, assessment of ecological responses to environmental variability, and integrative ecological synthesis linking plant traits to ecosystem outcomes. Research systems include seagrass meadows and coastal marine environments, estuaries and nearshore ecosystems, and systems experiencing climate change impacts and restoration interventions.
+
+Notable Publications:
+- Genetic diversity and its influence on restoration success
+- Ecological dynamics of seagrasses and coastal plants
+- Habitat-forming species and ecosystem service provision
+- Biogeochemical interactions within vegetated coastal systems
+- Publications in PLoS One, Marine Ecology Progress Series, Journal of Ecology, and Restoration Ecology
+
+Policy Relevance:
+Dr. Reynolds's work supports evidence-based coastal restoration and conservation by linking plant community attributes to ecosystem functions and resilience under environmental change. She provides ecosystem-level insight into how coastal plant communities structure ecological processes and deliver services that support biodiversity, water quality, and shoreline stability. Her research directly examines biological and ecological drivers of coastal system function and is widely used to inform habitat management and restoration strategies in coastal environments. Her work influences coastal restoration design and evaluation, habitat condition and resilience metrics, and ecosystem services quantification for policy and management.
 
 Keywords:
-Water Institute affiliate; Soil and Water Sciences.
+coastal ecology; marine ecology; seagrass; submerged aquatic vegetation; SAV; restoration ecology; ecosystem services; population genetics; coastal habitats; estuaries; blue carbon; climate change; habitat restoration; marine plants; biodiversity

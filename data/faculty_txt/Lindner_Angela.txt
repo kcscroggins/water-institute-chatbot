@@ -1,13 +1,36 @@
-Name: Angela Lindner
+Name: Angela S. Lindner, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Environmental Engineering Sciences, ESSIE
 Email: alind@eng.ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=nPH8OeAAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Environmental microbiology; Bioremediation; Organic contaminant oxidation; Green engineering; Sustainable engineering; Pollution prevention; Life cycle analysis; Environmental chemistry; Groundwater restoration
+
+Education:
+- Ph.D., Civil and Environmental Engineering, University of Michigan
+- Associate Professor, Environmental Engineering Sciences, University of Florida
+- Interim Vice Provost for Undergraduate Affairs, University of Florida
 
 Research Focus:
-Dr. Lindner is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Environmental Engineering Sciences, ESSIE.
+Dr. Lindner is an environmental engineer whose scholarly focus has encompassed bioremediation, microbial oxidation of contaminants, sustainable engineering, pollution prevention, life cycle analysis, and green engineering principles. Her work spans environmental engineering fundamentals and applied environmental science, addressing environmental contaminant fate and transport, microbial transformation processes, and sustainability of engineered systems relevant to soils, water, and waste streams. She has taught courses in groundwater restoration, pollution prevention, green engineering, and environmental chemistry.
+
+Notable Publications:
+- Mechanistic studies on biodegradation of aromatic compounds and substituted organics
+- Life cycle analysis of gasoline, battery, and electric lawn mowers - comparison of environmental impacts connecting to sustainable design principles
+- Methanotrophic oxidation of PCB analogues and other organic contaminants - mechanistic bioremediation research
+- Interfacial tension between organic liquids and water - relevant to contaminant partitioning and fate in environmental systems
+- Articles on green engineering, pollution prevention, and life-cycle analysis
+- 60+ publications spanning sustainability and environmental engineering
+
+Water Institute Relevance:
+Dr. Lindner's research on bioremediation and microbial transformation of organic pollutants has mechanistic overlap with microbial processes in soil and groundwater, which can impact nutrient cycling indirectly, especially where contaminant and nutrient dynamics intersect. Her leadership in sustainable engineering and green design frameworks influences engineering practice and education that share principles with nutrient-focused sustainability (e.g., pollution prevention). Her work on biodegradation and sustainable engineering provides essential mechanistic understanding of contaminant transformation - knowledge that intersects with broader ecosystem health and remediation strategies in soil and water systems.
+
+Role in Research-to-Policy Pipeline:
+Research producer and education specialist. Generates evidence and educational frameworks that support sustainable engineering practices and pollution mitigation strategies, contributing to environmental protection goals and curriculum development in engineering education.
+
+Strategic Value:
+Answers the question: "How can engineered and biological processes be leveraged to remediate contaminated environments and promote sustainability within soil and water systems?" Influences design and evaluation of pollution prevention strategies, adoption of green engineering education, and understanding of microbial contaminant transformation processes.
 
 Keywords:
-Water Institute affiliate; Environmental Engineering Sciences, ESSIE.
+environmental engineering; bioremediation; microbial transformation; sustainable engineering; green engineering; pollution prevention; life cycle analysis; groundwater restoration; contaminant fate; organic chemistry; biodegradation; environmental chemistry; ESSIE

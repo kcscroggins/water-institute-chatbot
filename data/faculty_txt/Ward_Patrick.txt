@@ -2,12 +2,18 @@ Name: Patrick Ward
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Food and Resource Economics
 Email: wardp@ufl.edu
+Google Scholar: https://scholar.google.com/citations?hl=en&user=3XsJYXIAAAAJ
+Website: https://patrick-s-ward.com/
 
 Subject Areas:
-Water-related research
+Agricultural economics, International development, Water resource management, Climate adaptation
+
+Education:
+- Ph.D. in Agricultural Economics with International Development specialization, Purdue University
+- Visiting researcher at International Center for Climate Governance, Venice, Italy
 
 Research Focus:
-Dr. Ward is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Food and Resource Economics.
+Patrick Ward specializes in sustainable development with emphasis on agriculture in low- and middle-income countries. His work integrates interdisciplinary approaches to evaluate policy interventions addressing environmental and developmental challenges. Current research includes rural financial market development, agricultural risk management, soil fertility and conservation, rural mechanization markets, and water resource management. Fieldwork spans South Asia, China, Malawi, and Kenya.
 
 Keywords:
-Water Institute affiliate; Food and Resource Economics.
+Agricultural economics and policy; international development; environmental resource management; financial services and insurance; climate-adaptive agriculture; rural mechanization; water management.

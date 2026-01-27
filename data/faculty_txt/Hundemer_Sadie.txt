@@ -2,12 +2,24 @@ Name: Sadie Hundemer
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Agricultural Education and Communications
 Email: shundemer@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=M0HUh_MAAAAJ&hl=en&oi=ao
+Website: https://aec.ifas.ufl.edu/directory/faculty/sadie-hundemer/
 
 Subject Areas:
-Water-related research
+Science communication, Water sustainability communication, Climate change communication, Stakeholder conflict resolution
+
+Education:
+- Ph.D. Forest Resources and Conservation, University of Florida (2021)
+- M.S. Environmental Science, University of West Florida (2014)
+- B.S. Business Administration, The Ohio State University (2001)
 
 Research Focus:
-Dr. Hundemer is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural Education and Communications.
+Dr. Hundemer's research addresses polarization in agriculture and natural resources. Key areas include stakeholder conflict resolution, political polarization of agricultural issues, water sustainability communication, and climate change communication. She specializes in "wicked problems" and mental modeling approaches. Her Ethics of Expertise research lab investigates scientists' public engagement goals and science's role in democracy.
+
+Awards:
+- 2023 Archer Early Career Seed Grant
+- 2022 Outstanding Dissertation Award, Forest Resources and Conservation
+- 2020 National Science Foundation Doctoral Dissertation Improvement Grant
 
 Keywords:
-Water Institute affiliate; Agricultural Education and Communications.
+Communication theory; partisanship management; scientist ethics; trust in higher education; stakeholder collaboration; natural resources communication; water sustainability; climate change communication.

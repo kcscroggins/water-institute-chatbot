@@ -1,13 +1,30 @@
 Name: Sabine Grunwald
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Soil and Water Sciences
+Role: Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Soil and Water Sciences
 Email: sabgru@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=XnTnqZ8AAAAJ&hl=en
+Website: http://ufgrunwald.com/
 
 Subject Areas:
-Water-related research
+Digital Soil Mapping, Soil Carbon Modeling, Spatiotemporal Analysis, Soil Health Assessment, Geospatial Analytics, Machine Learning
 
 Research Focus:
-Dr. Grunwald is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Soil and Water Sciences.
+Sabine Grunwald is a soil scientist and global leader in digital soil mapping and soil carbon modeling, specializing in spatial and temporal analysis of soil systems. Her research areas include digital soil mapping (DSM), soil carbon and soil health assessment, spatiotemporal soil modeling, soil degradation and land-use change, human-soil-landscape interactions, and machine learning and geospatial analytics in soil science. She is a foundational figure in data-driven soil science, generating methods, datasets, and conceptual frameworks that underpin soil monitoring programs, carbon accounting, and land-management decision systems.
+
+Selected Publications:
+- "Multi-criteria characterization of recent digital soil mapping and modeling approaches" (Geoderma) - Influential synthesis defining the DSM field
+- Numerous highly cited papers on soil carbon stocks, spatial uncertainty, and soil data analytics used in carbon accounting and soil monitoring
+- "Environmental Soil-Landscape Modeling" (CRC Press) - Core reference text linking soil science, geospatial modeling, and environmental decision-making
+
+Water & Policy Relevance:
+- Direct mapping of soil carbon stocks and their spatial-temporal variability
+- Methods and models quantifying nutrient loss and carbon dynamics at scale
+- Soil carbon accounting for climate mitigation policy
+- Land-use and soil-health assessment frameworks
+- Uncertainty quantification in soil monitoring
+- Scientific credibility foundation for carbon and soil policy
+- Data-driven approaches to soil condition assessment
+- Supporting land management and restoration planning
 
 Keywords:
-Water Institute affiliate; Soil and Water Sciences.
+Digital soil mapping; soil carbon; spatiotemporal modeling; soil health; geospatial analytics; machine learning; soil degradation; land-use change; carbon accounting; soil monitoring; uncertainty analysis; Water Institute affiliate

@@ -1,13 +1,31 @@
 Name: Jack Davis
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: History
+Role: Professor of History; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of History
 Email: davisjac@ufl.edu
 
 Subject Areas:
-Water-related research
+Environmental History, Conservation Policy, Wetlands History, Florida History, Water Governance
 
 Research Focus:
-Dr. Davis is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in History.
+Jack Davis is one of the most influential environmental historians in the United States, best known for his work on American environmental history, conservation policy, and human-nature relationships, with a strong emphasis on Florida, the American South, and wetlands. His research areas include environmental history, conservation and land-use policy, wetlands, water, and coastal environments, race, power, and environmental governance, and long-run institutional drivers of ecological change. His work is foundational for understanding why today's water, soil, and nutrient problems exist.
+
+Selected Publications:
+- "An Everglades Providence: Marjory Stoneman Douglas and the American Environmental Century" (2009) - Pulitzer Prize winner; definitive history of Everglades conservation and water management politics
+- "The Gulf: The Making of an American Sea" (2017) - Kirkus Prize winner; environmental history of oil, fisheries, wetlands, nutrient loading, and governance
+- "Race, Class, and Environmental Politics in the Everglades" (Environmental History) - How power asymmetries shaped Everglades water management; ~300+ citations
+  PDF: https://www.jstor.org/stable/3985883
+- "Conservation's Quiet Success: The Rise of Environmental Management" (Journal of American History) - How environmental governance shifted to technocratic management
+- "Environmentalism in the American South" (Journal of Southern History) - Southern land, water, and agricultural policy history
+  PDF: https://www.jstor.org/stable/27648994
+
+Water & Policy Relevance:
+- Historical drivers of Everglades drainage and phosphorus crisis
+- Gulf of Mexico eutrophication history and basin-scale nutrient pathways
+- How governance decisions created today's water and nutrient challenges
+- Legacy nutrients and policy inertia
+- Power, race, and environmental governance outcomes
+- Root causes of persistent environmental policy failures
+- Historical context for BMAP and restoration efforts
 
 Keywords:
-Water Institute affiliate; History.
+Environmental history; conservation; Everglades; Gulf of Mexico; water policy; wetlands; Florida history; American South; land use; governance; race and environment; Pulitzer Prize; legacy nutrients; drainage history; Water Institute affiliate

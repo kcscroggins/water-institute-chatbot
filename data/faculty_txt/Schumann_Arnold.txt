@@ -1,13 +1,32 @@
-Name: Arnold Schumann
+Name: Arnold W. Schumann
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Citrus Research and Education Center-Horticulture
+Academic Unit: Horticultural Sciences; Citrus Research and Education Center (CREC), Lake Alfred
 Email: schumaw@ufl.edu
+Title: Professor
+
+Google Scholar: https://scholar.google.com/citations?user=_fTO3fEAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Precision agriculture, Nutrient management especially nitrogen, Variable-rate application technologies, Crop sensing and canopy measurement, Weed detection and crop monitoring using computer vision, Citrus production systems and plant nutrition, Disease-nutrition interactions
+
+Education:
+- Ph.D. in Agricultural Engineering/Precision Agriculture
+- Research focus on sensing technologies and nutrient management systems
 
 Research Focus:
-Dr. Schumann is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Citrus Research and Education Center-Horticulture.
+Dr. Schumann is internationally known for precision agriculture and sensor-driven nutrient and crop management, with a long and influential body of work on variable-rate nitrogen management, real-time sensing of tree canopy structure, soil-plant variability, and deep learning applications for weed detection, crop health, and yield estimation. He is a foundational figure in translating engineering, sensing, and data analytics into practical nutrient and input management systems, particularly in citrus and perennial cropping systems, with clear implications for productivity, environmental protection, and input efficiency. He employs ultrasonic and sensor-based canopy measurement, variable-rate fertilizer and sprayer systems, deep learning and convolutional neural networks for image analysis, spatial analysis of soil and yield variability, and field-scale experimentation and production-zone delineation. Research systems include citrus groves in Florida and comparable systems, perennial cropping systems, turfgrass blueberry strawberry and row-crop analogs, and commercial agricultural production environments.
+
+Notable Publications:
+- Nitrogen best management practice for citrus trees Parts I and II - Scientia Horticulturae (2006)
+- Nutrient management zones for citrus based on soil and tree variability - Precision Agriculture (2006)
+- Variable rate nitrogen application based on ultrasonically-sensed tree size - Applied Engineering in Agriculture (2005)
+- Software development for real-time ultrasonic canopy mapping - Computers and Electronics in Agriculture (2005)
+- Deep learning for image-based weed detection - European Journal of Agronomy (2019)
+- Deep learning techniques for in-crop weed recognition review - Precision Agriculture (2024)
+- Over 6,300 total citations with h-index of 45
+
+Policy Relevance:
+Dr. Schumann's research provides the technical foundation for nutrient best-management practices and precision input regulation, enabling reductions in fertilizer losses while maintaining agricultural productivity. His work defines how modern agriculture operationalizes nutrient efficiency, making it possible to reduce nitrogen losses, target inputs spatially, and align productivity with environmental protection. While not a soil biogeochemist per se, his work directly governs how nutrients especially nitrogen are applied, where they go, and how losses are reduced through precision management, a key leverage point in agricultural nutrient systems. His work influences nutrient application efficiency, precision agriculture technology adoption, decision support for fertilizer and agrochemical management, and AI integration into production agriculture.
 
 Keywords:
-Water Institute affiliate; Citrus Research and Education Center-Horticulture.
+precision agriculture; nutrient management; nitrogen; variable-rate application; citrus; crop sensing; canopy measurement; deep learning; weed detection; computer vision; plant nutrition; fertilizer efficiency; best management practices; sensor technology; CREC

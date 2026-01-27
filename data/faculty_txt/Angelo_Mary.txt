@@ -1,13 +1,41 @@
-Name: Mary Angelo
+Name: Mary Jane Angelo
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: College of Law
+Academic Unit: College of Law (Levin College of Law)
 Email: angelo@law.ufl.edu
+Website: https://law.ufl.edu/faculty/mary-jane-angelo/
 
 Subject Areas:
-Water-related research
+Environmental law, Water and wetlands law, Pesticide law, Endangered species law, Sustainable agriculture, GMO regulation, Land use law, Law-science interaction in environmental policy
+
+Education:
+- J.D. (with Honors), University of Florida Levin College of Law
+- M.S. Entomology, University of Florida
+- B.S. Biological Sciences (High Honors), Rutgers University
 
 Research Focus:
-Dr. Angelo is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in College of Law.
+Professor Angelo is an Emeritus Samuel T. Dell Professor and Emeritus Professor of Law at the University of Florida Levin College of Law. Her scholarship draws on her background in biological sciences coupled with experience as an environmental lawyer. Her research explores the intersection of law and science, particularly focusing on how ecological sciences are used in, and can inform, environmental law. Areas of focus include pesticide law, endangered species law, water and wetlands law, sustainable agriculture, and regulation of genetically modified organisms.
+
+Professional Background:
+- Former Co-Director of the Environmental and Land Use Law Program at UF Law
+- U.S. Environmental Protection Agency (EPA), Office of the Administrator and Office of General Counsel, Washington, D.C.
+- Senior Assistant General Counsel, St. Johns River Water Management District, Florida
+
+Notable Publications:
+- Food, Agriculture, and Environmental Law (Environmental Law Institute, 2013) - co-authored with William S. Eubanks and Jason Czarnezki
+- The Law and Ecology of Pesticides and Pest Management (Ashgate Publishing Limited, 2013)
+- A Model Wetlands Protection Ordinance: Legal Considerations
+- Stumbling Toward Success: A Story of Adaptive Law and Ecological Resilience
+- Harnessing the Power of Science in Environmental Law
+- Articles in Texas Law Review, Wake Forest Law Review, George Mason Law Review, Harvard Environmental Law Review, Ecology Law Quarterly, and Environmental Law
+
+Service:
+- National Academy of Sciences/National Research Council Committee on Independent Scientific Review of Everglades Restoration Progress
+- National Academy of Sciences/National Research Council Committee on Ecological Risk Assessment under FIFRA and the ESA
+- Member-Scholar, Center for Progressive Reform, Washington, D.C.
+
+Teaching:
+- Environmental Law
+- Land Use Law
 
 Keywords:
-Water Institute affiliate; College of Law.
+Water Institute affiliate; environmental law; water law; wetlands law; pesticide law; endangered species; sustainable agriculture; GMO regulation; land use law; Everglades restoration; ecological risk assessment; law and science; EPA; St. Johns River

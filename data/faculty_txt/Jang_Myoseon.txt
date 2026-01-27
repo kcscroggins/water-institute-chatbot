@@ -2,12 +2,28 @@ Name: Myoseon Jang
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Environmental Engineering Sciences, ESSIE
 Email: mjang@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=RUjvSQ8AAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Atmospheric chemistry; Aerosol science; Secondary organic aerosol (SOA) formation; Multiphase reactions; Air quality modeling; Photochemical processes; Particulate matter dynamics
+
+Education:
+- Associate Professor, Environmental Engineering Sciences, University of Florida
 
 Research Focus:
-Dr. Jang is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Environmental Engineering Sciences, ESSIE.
+Dr. Jang is an Associate Professor in Environmental Engineering Sciences specializing in atmospheric chemistry and aerosol science. Her research focuses on secondary organic aerosol (SOA) formation, multiphase reactions of atmospheric pollutants, and the impacts of airborne particulates on health and climate. She combines experimental chamber work, modeling, and photochemical simulations to characterize aerosol processes. Her work provides quantitative understanding of aerosol processes that inform air quality modeling, pollution regulation, and climate forcing assessments.
+
+Notable Publications:
+- Jang, M., Sun, S., Winslow, R.J., Han, S., & Yu, Z. (2020). In situ aerosol acidity measurements using a UV–Visible micro-spectrometer and its application to ambient air. Aerosol Science and Technology. DOI: 10.1080/02786826.2021.1898536
+- Yu, Z. & Jang, M. (2020). Simulating the impact of long-range transported Asian mineral dust on the formation of sulfate and nitrate during the KORUS-AQ campaign. ACS Earth and Space Chemistry. DOI: 10.1021/acsearthspacechem.0c00074
+- Jang, M., Yu, Z., & Han, S. (2019). Atmospheric processes of aromatic hydrocarbons in the presence of mineral dust particles under the urban environment. ACS Earth and Space Chemistry.
+- Park, J. & Jang, M. (2017). Heterogeneous photooxidation of SO₂ in the presence of airborne mineral dust particles. Environmental Science & Technology. DOI: 10.1021/acs.est.7b00588
+
+Water Institute Relevance:
+Dr. Jang's expertise in atmospheric chemistry connects to water systems through nutrient deposition pathways. Atmospheric aerosols contribute to deposition of nitrogen (ammonium, nitrate) and other nutrients to terrestrial and aquatic ecosystems, affecting biogeochemical cycles. Her work on aerosol formation, pollutant transformation, and atmospheric chemistry influences nutrient cycling and is a key component of integrated nutrient-cycle models. Understanding how airborne pollutants form, transform, and deposit helps explain nutrient loading to water bodies from atmospheric sources.
+
+Role in Research-to-Policy Pipeline:
+Research producer (fundamental and applied atmospheric science). Generates quantitative understanding of aerosol processes that inform air quality modeling, pollution regulation, climate forcing assessments, and health risk modeling.
 
 Keywords:
-Water Institute affiliate; Environmental Engineering Sciences, ESSIE.
+atmospheric chemistry; aerosol science; secondary organic aerosol; SOA formation; multiphase reactions; photochemical smog; air quality modeling; particulate matter; PM2.5; nutrient deposition; nitrogen deposition; climate forcing; environmental health

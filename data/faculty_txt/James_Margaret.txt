@@ -1,13 +1,29 @@
-Name: Margaret James
+Name: Margaret O. James
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Pharmacy 
+Academic Unit: College of Pharmacy, Department of Medicinal Chemistry
 Email: mojames@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=6edliokAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Medicinal chemistry; Drug metabolism; Xenobiotic biotransformation; Toxicology; Environmental chemical exposure; Pharmacokinetics
+
+Education:
+- Ph.D., Biochemistry, University of London
+- Professor Emeritus, Medicinal Chemistry, University of Florida
 
 Research Focus:
-Dr. James is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Pharmacy .
+Dr. James is a Professor Emeritus in Medicinal Chemistry at the University of Florida College of Pharmacy. Her research focuses on the metabolism, biotransformation, and toxicity of drugs and environmental chemicals. She investigates how the body processes xenobiotics (foreign chemical substances) including pharmaceuticals and environmental toxicants. Her work on glutathione transferase Z1 and dichloroacetate metabolism has contributed to understanding how humans metabolize both therapeutic drugs and environmental contaminants.
+
+Notable Publications:
+- Mangal N., James M.O., Stacpoole P.W. (2018). Model-informed dose optimization of dichloroacetate for the treatment of congenital lactic acidosis in children. Journal of Clinical Pharmacology. DOI: 10.1002/jcph.1009
+- Multiple publications on glutathione transferase Z1 metabolism of drugs and toxicants
+- Extensive body of work on xenobiotic biotransformation pathways
+
+Water Institute Relevance:
+Dr. James's expertise in environmental chemical exposure and toxicology provides important connections to water quality research. Her work on how organisms metabolize environmental contaminants is relevant to understanding the health impacts of water pollutants, chemical runoff, and bioaccumulation of toxicants in aquatic food chains. This represents the downstream health impacts pathway where environmental water quality translates to human and ecological health outcomes.
+
+Role in Research-to-Policy Pipeline:
+Mechanistic/enabling research on toxicology and exposure pathways. Provides foundational understanding of how environmental chemicals (including waterborne contaminants) affect biological systems.
 
 Keywords:
-Water Institute affiliate; Pharmacy .
+medicinal chemistry; drug metabolism; xenobiotic biotransformation; toxicology; environmental chemicals; pharmacokinetics; glutathione transferase; dichloroacetate; contaminant exposure; water quality health impacts

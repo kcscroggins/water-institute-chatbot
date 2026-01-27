@@ -1,13 +1,35 @@
-Name: Lisa Lundy
+Name: Lisa K. Lundy, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Agricultural Education and Communications
+Academic Unit: Agricultural Education and Communication
 Email: lisalundy@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=MjLSulwAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Agricultural communication; Natural resource communication; Public relations; Science communication; Visual communication; Extension marketing; Audience engagement; Strategic communication; Crisis communication
+
+Education:
+- Ph.D.
+- Professor, Agricultural Education and Communication, University of Florida
 
 Research Focus:
-Dr. Lundy is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural Education and Communications.
+Dr. Lundy is a scholar of agricultural and natural resource communication, especially public relations, science communication, visual communication (photography/media), and outreach strategy for agricultural and Extension audiences. Her work helps Extension professionals, scientists, and organizations communicate effectively with diverse publics and stakeholders. She studies strategic planning for Extension marketing, audience engagement, and crisis and risk communication in rural/agricultural contexts.
+
+Notable Publications and Outputs:
+- Extension Marketing: Building a Successful Local Extension Marketing Campaign (EDIS) - foundations of local Extension marketing
+- Extension Marketing: Integrated Marketing (EDIS) - strategies for integrating communication elements
+- Extension Marketing: Campaign Planning and Audience Analysis (EDIS) - tools for planning effective communication
+- Smartphone Photography to Communicate Science (EDIS) - guidance on leveraging photography for science outreach
+- Media relations and news writing guidance for Extension professionals
+- Scholarly works on communication theory, opinion leader use, and critical thinking in communication contexts
+
+Water Institute Relevance:
+By improving how scientists and Extension professionals communicate about agricultural and environmental topics, Dr. Lundy's expertise supports the dissemination of soil/nutrient/water science to stakeholders and policy audiences. As a communication strategist, she contributes to how relevant science (including soil or watershed science) is presented to stakeholders and policy audiences, influencing adoption and understanding. Effective communication is essential to translating soil and water science to public and policy audiences and promoting adoption of evidence-based practices.
+
+Role in Research-to-Policy Pipeline:
+Extension/implementation specialist and communication scholar. Produces evidence informing communication strategies and practice for Extension and public engagement. Generates communication strategies that strengthen how Extension and science organizations engage diverse audiences, shaping public understanding of agricultural and environmental issues.
+
+Strategic Value:
+Answers the question: "How do scientists and Extension professionals communicate complex agricultural and environmental science effectively to stakeholders, communities, and decision-makers?" Influences communication strategy and public engagement practice, Extension marketing and stakeholder outreach, and visual and media approaches to disseminating scientific knowledge.
 
 Keywords:
-Water Institute affiliate; Agricultural Education and Communications.
+agricultural communication; science communication; public relations; Extension marketing; visual communication; audience engagement; strategic communication; photography; media relations; stakeholder outreach; natural resource communication; crisis communication

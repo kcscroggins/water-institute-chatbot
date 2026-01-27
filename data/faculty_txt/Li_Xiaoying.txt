@@ -1,13 +1,34 @@
-Name: Xiaoying Li
+Name: Xiaoying Li, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Horticultural Sciences
+Academic Unit: Horticultural Sciences; UF/IFAS Tropical Research and Education Center (TREC)
 Email: xiaoying.li@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=ckPDqoMAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Vegetable crop science; Sustainable production systems; Crop diversification; Integrated pest management; Plant pathology; Nematode management; Soilborne diseases; Fertilizer management; Specialty vegetables; Subtropical horticulture
+
+Education:
+- Ph.D.
+- Assistant Professor, Horticultural Sciences, University of Florida
 
 Research Focus:
-Dr. Li is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Horticultural Sciences.
+Dr. Li is known for vegetable crop science, sustainable production systems, disease and pathogen management, and crop diversification - especially in subtropical and tropical vegetable production contexts. Her research integrates crop physiology, plant pathology, and sustainable horticultural systems to improve the profitability and resilience of specialty and ethnic vegetable production in Florida. She works on crop introduction and diversification (edamame, okra), integrated pest and pathogen management (nematodes, soilborne diseases), and technology for disease detection and crop health monitoring.
+
+Notable Publications:
+- Sustainable practices in tropical horticulture: a path to resilient agricultural systems - commentary advocating sustainability and resilience in tropical crop systems
+- Chapters in the Vegetable Production Handbook of Florida - including Fertilizer Management for Vegetable Production in Florida and Ethnic Vegetable Production
+- Edamame Growth Stages in Miami-Dade County (EDIS) - practical guidance for vegetable phenology and management in Florida
+- Applied outreach articles on sustainable field practices, crop diversification, nematode and soilborne pathogen monitoring
+- Research on specialty and ethnic vegetable agronomy for small farms
+
+Water Institute Relevance:
+Dr. Li's work on fertilizer management, crop nutrition, and sustainable production practices deals directly with crop nutrient dynamics, nutrient uptake, and field-level nutrient management, which are foundational to soil nutrient cycling and nutrient-loss mitigation in vegetable systems. Nutrient recommendations and management practices strongly influence soil nutrient balance, fertilizer use efficiency, and potential nutrient runoff, connecting her research to nutrient-loss pathways and water quality outcomes in agricultural landscapes. Projects aimed at sustainable production and soil health contribute to soil structure, organic matter dynamics, and reduced nutrient leaching.
+
+Role in Research-to-Policy Pipeline:
+Applied research producer with strong Extension integration. Conducts field-based and laboratory research tailored to grower needs and translates findings into production recommendations, technologies, and outreach for small farms and vegetable producers. Generates agronomic evidence and recommendations that inform nutrient management strategies and fertilization guidelines.
+
+Strategic Value:
+Answers the question: "How can vegetable cropping systems be designed and managed to balance high productivity with sound nutrient stewardship and soil health?" Influences fertilizer management and nutrient input optimization, crop diversification and resilience strategies, and sustainable field practices that reduce nutrient runoff from vegetable systems in subtropical climates.
 
 Keywords:
-Water Institute affiliate; Horticultural Sciences.
+vegetable crops; sustainable production; crop diversification; integrated pest management; nematodes; soilborne diseases; fertilizer management; nutrient stewardship; specialty vegetables; ethnic vegetables; tropical horticulture; TREC; South Florida; edamame; small farms

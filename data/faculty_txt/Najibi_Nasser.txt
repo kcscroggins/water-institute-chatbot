@@ -2,12 +2,14 @@ Name: Nasser Najibi
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Agricultural and Biological Engineering
 Email: nnajibi@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=0WHw-1MAAAAJ&hl=en
+Website: https://nassernajibi.com/
 
 Subject Areas:
-Water-related research
+Climate risk assessment, Disaster resilience, Hydroclimate systems, Infrastructure planning
 
 Research Focus:
-Dr. Najibi is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural and Biological Engineering.
+Dr. Najibi specializes in enhancing climate risk assessments and disaster resilience in built and environmental systems. His work centers on three core areas: (1) Multisectoral-Multiscale Risks - analyzing hydroclimate extremes (floods, droughts, precipitation events, heat/cold waves) affecting natural and built environments; (2) Climate Resilience Adaptation - developing stochastic decision models for infrastructure and ecosystem responses; (3) Climate Vulnerability Assessment - combining process-based insights with ensemble frameworks.
 
 Keywords:
-Water Institute affiliate; Agricultural and Biological Engineering.
+Hydroclimate systems analysis; natural hazards and disaster resilience; climate adaptation and sustainability; infrastructure planning and management; stochastic decision-making under uncertainty; systems resilience.

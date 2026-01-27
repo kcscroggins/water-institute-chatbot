@@ -2,12 +2,19 @@ Name: Chang Zhao
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Agronomy
 Email: changzhao@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=C9z9unYAAAAJ&hl=en
+Website: https://agronomy.ifas.ufl.edu/people/chang-zhao/
 
 Subject Areas:
-Water-related research
+Geographic Information Science, Remote sensing, Ecosystem services, AI/Machine learning
+
+Education:
+- Ph.D. in Geography, University of Iowa (2018)
+- Geoinformatics Certificate, University of Iowa (2018)
+- B.E. in Geodesy and Geomatics Engineering, Wuhan University (2012)
 
 Research Focus:
-Dr. Zhao is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agronomy.
+Dr. Zhao's work centers on Geographic Information Science, Remote Sensing, Geovisualization, Ecosystem Service Assessments, and AI (Machine Learning and Deep Learning). Her current projects involve quantifying ecosystem service dynamics across urban and agricultural landscapes using machine learning and remote sensing, integrating socioeconomic data to understand drivers affecting human well-being.
 
 Keywords:
-Water Institute affiliate; Agronomy.
+Geospatial analysis and AI applications; remote sensing and geovisualization; ecosystem service quantification; spatiotemporal data mining; sustainable land use planning.

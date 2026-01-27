@@ -1,13 +1,32 @@
-Name: Martha Kohen
+Name: Martha Kohen, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: School of Architecture DCP
+Academic Unit: School of Architecture – Design, Construction & Planning (DCP)
 Email: mkohen@ufl.edu
 
 Subject Areas:
-Water-related research
+Architecture; Urban design; Community design processes; Participatory planning; Spatial justice; Housing affordability; Design policy; Equitable development
+
+Education:
+- Ph.D.
+- Associate Professor, School of Architecture, University of Florida
 
 Research Focus:
-Dr. Kohen is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in School of Architecture DCP.
+Dr. Kohen is an Associate Professor in the School of Architecture specializing in architecture, urban design, community design processes, and participatory/equitable development. Her work emphasizes how design methods engage communities and shape public space, affordable housing, and spatial justice. She focuses on design as a civic, policy, and community practice, exploring how inclusive design and planning frameworks can lead to land-use outcomes that balance community needs with environmental resilience.
+
+Notable Outputs:
+- Design research on participatory community processes (chapters, proceedings)
+- Contributions to discourse on spatial justice and public design education
+- Design-research essays and edited collections exploring community interface with design practice
+- Work on equitable development and housing affordability
+
+Water Institute Relevance:
+Dr. Kohen's work on community design, urban planning, and governance shapes how land use decisions are made, which indirectly influence environmental outcomes. Decisions about urban form, open space, and infrastructure affect stormwater management, soil sealing, and runoff regimes. Her expertise in participatory design processes can inform how green infrastructure and water-sensitive urban design are integrated into community planning, ensuring that water management solutions address both environmental and social equity concerns.
+
+Role in Research-to-Policy Pipeline:
+Structural/governance and design layer. Focuses on design processes, community engagement, and spatial policy frameworks that influence how built environments are shaped, affecting upstream determinants of development patterns and their environmental impacts.
+
+Strategic Value:
+Answers the question: "How are land-use decisions and design processes structured?" Influences urban and community design governance, civic engagement frameworks, and land-use policy processes that shape how development patterns affect soil sealing, stormwater runoff, and resource management.
 
 Keywords:
-Water Institute affiliate; School of Architecture DCP.
+architecture; urban design; community design; participatory planning; spatial justice; equitable development; housing affordability; green infrastructure; stormwater management; civic engagement; land use policy

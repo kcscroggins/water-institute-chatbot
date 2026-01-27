@@ -2,6 +2,8 @@ Name: Amelia Winger-Bearskin
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Digital World
 Email: amelia@digitalworlds.ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=SWpBU68AAAAJ&hl=en
+Website: www.studioamelia.com
 
 Subject Areas:
 Water-related research

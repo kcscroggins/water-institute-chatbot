@@ -1,13 +1,30 @@
-Name: Sadie Ryan
+Name: Sadie J. Ryan
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Geography
 Email: sjryan@ufl.edu
+Title: Professor of Medical Geography
+
+Google Scholar: https://scholar.google.com/citations?user=pPLqtm0AAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Medical geography and disease ecology, Vector-borne disease risk modeling, Climate and health interactions, Spatial epidemiology and geospatial predictive models, Social-ecological drivers of disease emergence and spread
+
+Education:
+- Ph.D. Geography/Ecology
+- Research focus on quantitative disease ecology and spatial modeling
 
 Research Focus:
-Dr. Ryan is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Geography.
+Dr. Ryan is a leading medical geographer and disease ecologist whose work focuses on quantitative spatial modeling of disease risk, particularly for vector-borne and climate-sensitive diseases, and the social-ecological determinants of disease emergence and spread. She integrates geospatial analysis, ecology, and epidemiology to understand how environmental and climatic factors influence disease dynamics internationally. She employs quantitative geospatial modeling including risk mapping and suitability analyses, climate-health integrative models, interdisciplinary approaches linking ecology epidemiology and geography, and large historical and climate datasets for forecasting disease risk. Research systems include global landscapes of infectious disease risk, tropical and subtropical environments, and human-environment interfaces affecting disease transmission.
+
+Notable Publications:
+- Modeling vector-borne disease suitability under future climate scenarios
+- Quantifying climate impacts on dengue, malaria, and other infectious diseases
+- Integrating environmental, social, and biological variables in disease risk assessment
+- Interdisciplinary frameworks for emerging pathogen risk prediction
+- Nearly 200 peer-reviewed articles with over 11,000 citations
+
+Policy Relevance:
+Dr. Ryan's research informs public health and environmental policy by quantifying how climate, land use, and socio-ecological factors influence disease risk, supporting evidence-based adaptation and intervention strategies. She provides system-level insight into how climate and spatial dynamics shape disease ecology, offering predictive tools essential for planning public health responses in a warming world. Her research directly connects environmental conditions to patterns of disease risk and transmission, supplying essential knowledge for understanding health outcomes in changing ecosystems and climates. Her work influences spatial disease risk modeling and forecasting, climate-health decision support frameworks, and interdisciplinary synthesis of geography ecology and epidemiology.
 
 Keywords:
-Water Institute affiliate; Geography.
+medical geography; disease ecology; vector-borne disease; climate and health; spatial epidemiology; geospatial modeling; risk mapping; dengue; malaria; infectious disease; climate change; public health; emerging pathogens; environmental health; tropical disease

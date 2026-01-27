@@ -2,12 +2,27 @@ Name: Steven Noll
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: History
 Email: nolls@ufl.edu
+Title: Professor of History
 
 Subject Areas:
-Water-related research
+Environmental history of Florida and the American South, History of land use conservation and environmental regulation, Public health and disability history, Social policy and institutional development, History of science medicine and environment
+
+Education:
+- Ph.D. History, University of Florida
+- M.A. History, University of Florida
+- B.A. History, University of Florida
 
 Research Focus:
-Dr. Noll is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in History.
+Dr. Noll is a prominent historian of the American South and modern United States, with particular emphasis on Florida history, environmental history, disability history, public health, and social policy. He is especially well known for his scholarship on Florida's environmental past, including land use, conservation, and the socio-political forces shaping environmental decision-making. His work operates upstream of policy by providing historical context, institutional memory, and narrative analysis that shape how environmental problems, governance structures, and public attitudes evolved over time. Research systems include Florida statewide with emphasis on the 20th century, Southern United States, government institutions and environmental agencies, and communities affected by environmental and public health change.
+
+Notable Publications:
+- Ditch of Dreams: The Cross Florida Barge Canal and the Struggle for Florida's Future - definitive environmental history of a major infrastructure project that shaped Florida's land, water policy, and conservation movement
+- Feeble-Minded in Our Midst - foundational work in disability history and public policy
+- The Slow Death of the New Deal - broader political history informing institutional change
+- Numerous peer-reviewed articles and book chapters on Florida environmental history, conservation politics, and public institutions
+
+Policy Relevance:
+Dr. Noll provides historical analysis that explains how past land and water decisions, institutional structures, and political conflicts produced today's environmental challenges, informing more context-aware environmental policy and planning. His work provides historical grounding for environmental governance, showing how political, economic, and cultural forces shaped water management institutions, land development patterns, conservation policy trajectories, and public resistance or support for environmental regulation. By documenting historical land use decisions, infrastructure projects, and conservation failures/successes, his scholarship helps explain why contemporary nutrient and water problems exist (e.g., drainage, canalization, wetland loss).
 
 Keywords:
-Water Institute affiliate; History.
+environmental history; Florida history; American South; land use; conservation; water policy; Cross Florida Barge Canal; environmental governance; institutional history; public policy; 20th century; wetlands; drainage; canalization

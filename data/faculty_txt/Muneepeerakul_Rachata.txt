@@ -2,12 +2,30 @@ Name: Rachata Muneepeerakul
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Agricultural and Biological Engineering
 Email: rmuneepe@ufl.edu
+Title: Professor
+
+Google Scholar: https://scholar.google.com/citations?user=H1OAQgUAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Complex and coupled natural-human systems modeling, Dynamical systems stochastic processes and network theory, Ecological pattern formation and spatial population dynamics, Modeling environmental impacts on human mobility and adaptation, Resilience of water-subsidized socio-ecological systems, Interdisciplinary environmental change models
+
+Education:
+- Ph.D. Civil and Environmental Engineering, Princeton University
+- M.A. Civil and Environmental Engineering, Princeton University
+- B.Eng. Civil Engineering, Chulalongkorn University (Thailand)
 
 Research Focus:
-Dr. Muneepeerakul is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural and Biological Engineering.
+Dr. Muneepeerakul is known as a complex systems modeler whose research blends mathematical, computational, and network models to investigate coupled natural-human systems, including environmental change, ecological pattern formation, and human adaptation processes. His work is highly interdisciplinary, spanning ecology, hydrology, socio-environmental dynamics, and system resilience. He develops theoretical and computational frameworks that contribute to advancing system-level understanding of environmental and social processes, with applications to environmental management and policy contexts via coupled modeling of resource use and environmental change. Research systems include watersheds and environment-society interfaces (e.g., Costa Rican watershed resilience studies), riverine and aquatic biodiversity patterns, human migration as response to environmental stressors, and coupled dynamical phenomena in ecology, hydrology, and socio-economic systems.
+
+Notable Publications:
+- Spatial patterns in ecological networks - modeling species distributions and biodiversity patterns
+- Human-environment feedbacks - studies integrating social behavior and environmental change
+- Water and resource dynamics - models of resource subsidies, watershed resilience, and ecological stability
+- Stochastic and network processes in socio-ecological systems - contributions to theoretical understanding of interacting components
+- Coupled natural-human dynamics in watershed resilience studies
+
+Policy Relevance:
+Dr. Muneepeerakul produces theoretical and computational frameworks that deepen understanding of environmental change and socio-ecological interactions, informing integrated environmental planning and resilience strategies where human responses and natural systems coevolve. His work on coupled natural-human dynamics, watershed resilience interacts with hydrological and ecological drivers central to nutrient transport, landscape resilience, and soil-water linkages. His approaches to coupling human behavior and environmental change have relevance to how land use, resource extraction, and environmental pressures influence soil and water quality outcomes at system scales. His system-level modeling of socio-environmental feedbacks can inform policy frameworks that account for environmental drivers in coupled human-environment decision making.
 
 Keywords:
-Water Institute affiliate; Agricultural and Biological Engineering.
+complex systems; coupled human-natural systems; dynamical systems; network theory; stochastic processes; ecological modeling; spatial ecology; biodiversity; watershed resilience; socio-ecological systems; environmental change; human adaptation; migration; system resilience; water resources

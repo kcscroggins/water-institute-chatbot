@@ -2,12 +2,24 @@ Name: Zhe Jiang
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Computer and Information Science and Engineering
 Email: zhe.jiang@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=R7xPuT8AAAAJ
+Website: https://www.jiangteam.org/
 
 Subject Areas:
-Water-related research
+Data mining, Machine learning, Spatiotemporal analysis, Earth sciences applications
+
+Education:
+- Ph.D. in Computer Science, University of Minnesota (2016)
+- B.E. in Electrical Engineering, University of Science and Technology of China (2010)
 
 Research Focus:
-Dr. Jiang is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Computer and Information Science and Engineering.
+Dr. Jiang specializes in data mining, machine learning, and artificial intelligence with emphasis on spatiotemporal data analysis. His work applies these techniques to interdisciplinary domains including Earth sciences (floods, storm surges), agriculture, transportation, and health/medicine.
+
+Notable Achievements:
+- Best Paper Award, ACM SIGSPATIAL 2023
+- Best Paper Runner-Up Award, SIAM Data Mining 2024
+- Senior member of ACM and IEEE
+- Program Co-Chair SDM 2024, Proceedings Co-Chair KDD 2023-2026
 
 Keywords:
-Water Institute affiliate; Computer and Information Science and Engineering.
+Spatiotemporal data mining; deep learning; uncertainty quantification; Earth science applications; artificial intelligence; geospatial analysis; flood modeling.

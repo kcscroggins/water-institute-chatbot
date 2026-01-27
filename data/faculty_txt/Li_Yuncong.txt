@@ -1,13 +1,37 @@
-Name: Yuncong Li
+Name: Yuncong C. Li, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Tropical Research and Education Center Homestead
+Academic Unit: Soil, Water and Ecosystem Sciences; UF/IFAS Tropical Research and Education Center (Homestead)
 Email: yunli@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=eJzaXL4AAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Soil and water quality; Nutrient cycling; Fertilizer technology; Controlled-release fertilizers; Phosphorus dynamics; Nitrogen dynamics; Calcareous soils; Soil chemistry; Best management practices; Water quality protection
+
+Education:
+- Ph.D.
+- Professor of Soil and Water Quality, University of Florida
 
 Research Focus:
-Dr. Li is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Tropical Research and Education Center Homestead.
+Dr. Li is a soil and water quality scientist whose work focuses on nutrient cycling, fertilizer technology, soil chemistry, and water quality within agricultural and natural ecosystems - especially in the environmentally sensitive landscapes of South Florida such as the Everglades watershed and calcareous soils. His research addresses phosphorus and nitrogen dynamics in soils and sediments, controlled-release fertilizer development, soil testing calibration for calcareous soils, and water resource impacts including salinity intrusion on agricultural soils.
+
+Notable Publications:
+- Phosphorus fractionation and distribution in wetlands and canals of the Florida Everglades (Water Resources Research) - mechanistic insight into P behavior in aquatic sediments
+- Controlled Release Urea to Improve Nitrogen Use Efficiency and Yield (Soil Science Society of America Journal) - fertilizer technology improving N use
+- Soil Arsenic in Miami-Dade County (EDIS) - practical soil and contaminant guidance for regional soils
+- Grower's Guide to Identifying and Correcting N, P, K Deficiencies (EDIS) - extension nutrient management support
+- Drip Irrigation: BMPs for Water and Fertilizer Management for Vegetable Plasticulture - integrated water and nutrient management guidance
+- Saltwater Intrusion and Flooding: Risks to South Florida Agriculture - environmental assessment linking salinity, soil quality, and sustainability
+- Handbook of Soil Sciences and Water Quality Concepts, Sampling, and Analyses (edited volumes)
+- Research on phosphorus dynamics in high-legacy soils of Florida potato fields
+
+Water Institute Relevance:
+Dr. Li's work directly quantifies nutrient cycling processes (N, P) in soils and sediments and evaluates how fertilizer technologies and management practices influence soil nutrient fate and water quality - core components of nutrient-loss science. His studies on phosphorus adsorption/desorption, controlled release fertilizers, soil testing calibration, and nutrient management strategies illuminate the fundamental mechanisms controlling nutrient availability, transport, and retention in South Florida landscapes. The adoption of his extension BMPs and nutrient management recommendations can reduce off-site nutrient losses to groundwater and surface waters, contributing to improved water quality outcomes.
+
+Role in Research-to-Policy Pipeline:
+Applied research producer and Extension leader. Generates mechanistic understanding and practical BMPs that inform growers, extension agents, and environmental policy programs aimed at reducing nutrient losses and protecting water quality. Through extension training and leadership in water quality programs, he influences nutrient policy frameworks and grower practices at local to regional scales.
+
+Strategic Value:
+Answers the question: "How do soil nutrient processes and fertilizer technologies determine nutrient fate and water quality outcomes, and how can management practices mitigate losses?" Influences BMP design for nutrient efficiency and water protection, soil testing and fertilizer calibration on calcareous and sandy soils, and extension training that changes on-farm nutrient and water management.
 
 Keywords:
-Water Institute affiliate; Tropical Research and Education Center Homestead.
+soil quality; water quality; nutrient cycling; phosphorus; nitrogen; fertilizer technology; controlled-release fertilizers; calcareous soils; BMPs; Everglades; TREC; South Florida; soil chemistry; salinity intrusion; nutrient management

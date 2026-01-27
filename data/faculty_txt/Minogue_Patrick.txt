@@ -1,13 +1,30 @@
-Name: Patrick Minogue
+Name: Patrick J. Minogue
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: School of Forest Resources and Conservation
 Email: pminogue@ufl.edu
+Title: Associate Professor of Silviculture & Extension Specialist
+
+Google Scholar: https://scholar.google.com/citations?user=1GYT2PgAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Silviculture and forest vegetation management, Forest establishment and reforestation techniques, Invasive plant control and integrated weed management, Applied forestry production systems, Herbicide use and vegetation control in forestry, Ecology and soil-forest interaction under management regimes
+
+Education:
+- Ph.D. Forest Resources, University of Georgia
+- M.S. Forest Resources, University of Georgia
+- B.S. Forestry, University of Maine
 
 Research Focus:
-Dr. Minogue is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in School of Forest Resources and Conservation.
+Dr. Minogue is a forestry scientist and applied silviculturist whose work focuses on sustainable forest management practices, forest vegetation control, invasive plant management, reforestation and forest productivity, and the development and refinement of Best Management Practices (BMPs) to ensure ecologically sound forest practices. His work blends field research on forest systems with extension dissemination to private landowners, forestry professionals, and natural resource managers. Research systems include Southern U.S. forests (particularly Florida pine and hardwood ecosystems), forest plantations, natural stands, managed forestry landscapes, and programs linking forestry production with ecological protection.
+
+Notable Publications:
+- Nitrate Monitoring Following Forest Fertilization in the Suwannee Valley Region of North Florida and Implications for Best Management Practices - directly linking fertilization to nutrient leaching potential under forestry conditions
+- Studies on slash pine growth and nitrogen leaching potential following fertilization and pine straw removal, quantifying how management influences forest soil nutrient dynamics
+- Applied studies of herbicide efficacy for invasive plant control in forest stands (Tradescantia, Arundo donax, etc.)
+- UF/IFAS management fact sheets on control of invasive forest plants, forest herbicide characteristics, fertilization guidance for pine straw production, and weed control recommendations
+
+Policy Relevance:
+Dr. Minogue produces applied evidence on how forest management practices influence soil nutrient dynamics and water quality, supporting BMP development that informs landowner guidance and resource protection policy. His research on nutrient leaching following forest fertilization, nutrient dynamics under pine straw removal, and forest BMPs for water quality protection directly involves measuring and understanding nutrient behavior in forest soils and their potential to move into water systems. By refining BMPs for forest fertilization and vegetation control, his work contributes to reducing nutrient export and protecting water quality in landscapes managed for timber and forest products.
 
 Keywords:
-Water Institute affiliate; School of Forest Resources and Conservation.
+silviculture; forest management; forest vegetation control; invasive plants; reforestation; BMPs; best management practices; forest fertilization; nutrient leaching; nitrogen; pine straw; herbicides; water quality; Suwannee Valley; pine ecosystems; sustainable forestry; Extension

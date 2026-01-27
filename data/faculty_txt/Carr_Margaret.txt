@@ -1,13 +1,36 @@
 Name: Margaret Carr
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Landscape Architecture
+Role: Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Landscape Architecture, College of Design, Construction and Planning
 Email: mcarr@geoplan.ufl.edu
 
 Subject Areas:
-Water-related research
+Landscape Architecture, Green Infrastructure, Urban Environmental Design, Ecological Planning, Climate Resilience
 
 Research Focus:
-Dr. Carr is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Landscape Architecture.
+Margaret Carr is a landscape architect and urban systems thinker whose work focuses on how landscapes can be designed to support environmental performance, resilience, and livability, especially in urban and suburban contexts. Her work sits at the intersection of landscape design, urban ecology, and environmental planning, including urban stormwater and green infrastructure, landscape performance and resilience, climate-responsive urban design, public space and environmental function, human-environment interaction, and spatial planning for sustainability. Her work emphasizes how design decisions influence environmental outcomes, especially water movement, heat, and habitat. She bridges environmental goals, spatial design, and everyday use, ensuring that policy intent survives implementation at the design stage.
+
+Selected Publications:
+- "Southeastern Ecological Framework" (multi-author planning report) - Landscape ecological concepts, conservation planning, and green infrastructure at regional scales
+  PDF: https://www.geoplan.ufl.edu/content/pdfs/Project_SEF.pdf
+- "Identifying a Linked Reserve System Using a Regional Landscape Approach: the Florida Ecological Network" (scholarly chapter) - Ecological network planning linked to integrated infrastructure
+  ResearchGate: https://www.researchgate.net/publication/227674256
+
+Research Areas:
+- Low-Impact Development (LID)
+- Green stormwater infrastructure
+- Urban runoff reduction
+- Landscape-based water treatment
+- Heat mitigation
+- Flood-resilient landscapes
+- Adaptive public spaces
+- Ecological network planning and conservation connectivity
+
+Water & Policy Relevance:
+- Water-quality regulations and BMAP nutrient-reduction goals
+- Urban flood mitigation requirements
+- Climate adaptation policy implementation
+- Regional green infrastructure planning
+- Ecosystem services integration into planning
 
 Keywords:
-Water Institute affiliate; Landscape Architecture.
+Landscape architecture; green infrastructure; stormwater; Low-Impact Development; LID; urban design; climate resilience; ecological planning; ecological networks; conservation planning; urban runoff; flood mitigation; landscape performance; spatial planning; sustainability; Water Institute affiliate

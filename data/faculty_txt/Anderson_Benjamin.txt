@@ -2,12 +2,23 @@ Name: Benjamin Anderson
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Environmental and Global Health
 Email: ander88@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=xoWW4OEAAAAJ&hl=en
+Website: https://egh.phhp.ufl.edu/profile/anderson-benjamin/
 
 Subject Areas:
-Water-related research
+Zoonotic disease epidemiology, One Health, Environmental pathogen monitoring, Global health
+
+Education:
+- PhD in Public Health (One Health), University of Florida
+- MPH, University of Florida (Environmental and Global Health)
 
 Research Focus:
-Dr. Anderson is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Environmental and Global Health.
+Dr. Anderson specializes in emerging infectious diseases with particular emphasis on zoonotic pathogens and viral respiratory illness. His work examines disease transmission dynamics among humans, animals, and environmental reservoirs, with strong focus on vulnerable populations having significant animal contact. He investigates antibiotic resistance in environmental settings and maintains commitment to global health capacity building.
+
+Notable Work:
+- 40+ peer-reviewed articles on SARS-CoV-2 environmental detection, influenza surveillance in swine and poultry, tick-borne pathogens, and bioaerosol sampling methodology
+- PhD Program Director, Environmental & Global Health (2026-present)
+- Associate Director, One Health Center of Excellence (2025-present)
 
 Keywords:
-Water Institute affiliate; Environmental and Global Health.
+Zoonotic disease epidemiology; viral respiratory pathogens; One Health approaches; environmental pathogen monitoring; bioaerosol surveillance; infectious disease transmission; antibiotic resistance; global health capacity building.

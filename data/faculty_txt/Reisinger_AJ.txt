@@ -1,13 +1,31 @@
-Name: AJ Reisinger
+Name: Alexander J. (AJ) Reisinger
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Soil and Water Sciences
 Email: reisingera@ufl.edu
+Title: Associate Professor
+
+Google Scholar: https://scholar.google.com/citations?user=9VZhOWwAAAAJ&hl=en
+Website: http://www.ajreisingerlab.com/
 
 Subject Areas:
-Water-related research
+Urban soil and water quality, Ecosystem ecology and biogeochemical cycles, Nutrient transport and retention in aquatic ecosystems, Emerging contaminants (pharmaceuticals and personal care products), Watershed stormwater and freshwater ecosystem processes
+
+Education:
+- Ph.D. Ecology/Environmental Science
+- Research focus on ecosystem ecology and biogeochemistry
 
 Research Focus:
-Dr. Reisinger is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Soil and Water Sciences.
+Dr. Reisinger is known for his work on ecosystem ecology and biogeochemistry, with a strong emphasis on urban soil and water quality, nutrient and energy cycling, and the impacts of traditional (e.g., nutrients) and novel contaminants (e.g., pharmaceuticals) on ecosystem functioning in freshwater and urban environments. His research integrates process-based understanding of how urbanization and human activities alter ecosystem structure and function. He employs field-based monitoring of soil and water quality, quantification of nutrient dynamics and ecosystem metabolism, assessment of contaminant effects on organisms and ecosystem processes, and integrative process-oriented analysis combining measurements and modeling. Research systems include urban and peri-urban watersheds, freshwater and stormwater ecosystems, and water quality challenges arising from residential municipal and legacy land uses.
+
+Notable Publications:
+- Impacts of urbanization on nutrient cycling and water quality
+- Functional roles of sediments, water column, and biota in freshwater nutrient dynamics
+- Biological and chemical effects of emerging contaminants on aquatic life
+- Performance of stormwater systems in supporting ecosystem services
+- Publications in Biogeochemistry, Ecosphere, Urban Ecosystems, and Journal of the American Water Resources Association
+
+Policy Relevance:
+Dr. Reisinger's research informs urban environmental management and water-quality policy by elucidating how nutrient cycling and emerging contaminants influence ecosystem function and water resources. He provides process-based, system-level insight into how human activities and urban infrastructure shape nutrient and contaminant dynamics, crucial for water-quality protection and ecosystem restoration strategies. His research directly investigates how nutrient loads and contaminants affect soil and water quality and how ecosystem processes mediate these effects. His work influences water-quality assessment and nutrient management, interpretation of ecosystem responses to urbanization, and evidence for prioritizing interventions in stormwater and watershed planning.
 
 Keywords:
-Water Institute affiliate; Soil and Water Sciences.
+ecosystem ecology; biogeochemistry; urban water quality; soil quality; nutrient cycling; emerging contaminants; pharmaceuticals; freshwater ecosystems; stormwater; urban watersheds; ecosystem metabolism; water quality; urbanization; contaminant effects

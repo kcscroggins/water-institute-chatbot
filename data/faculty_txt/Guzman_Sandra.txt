@@ -4,10 +4,15 @@ Academic Unit: Agricultural and Biological Engineering
 Email: sandra.guzmangut@ufl.edu
 
 Subject Areas:
-Water-related research
+Smart irrigation, Decision support systems, Machine learning, Precision agriculture
+
+Education:
+- Ph.D. Biological Engineering (water management emphasis), Mississippi State University (2016)
+- M.S. Agricultural Engineering, Universidad Nacional de Colombia (2011)
+- B.S. Agricultural Engineering, Universidad Nacional de Colombia (2009)
 
 Research Focus:
-Dr. Guzman is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural and Biological Engineering.
+Dr. Guzman's research addresses gaps in irrigation technology adoption, nutrient management, and hydrology. Her smart irrigation and hydrology laboratory develops practical Decision Support Systems and technologies. She developed IrrigMonitor, a centralized application integrating multiple sensor data for irrigation assessment. Current work includes simulation of water and nutrient transport for the upper Floridian aquifer and FACETS (Floridan Aquifer Collaborative Engagement for Sustainability).
 
 Keywords:
-Water Institute affiliate; Agricultural and Biological Engineering.
+Smart irrigation; decision support systems; machine learning for groundwater forecasting; precision irrigation; nutrient management; Floridian aquifer; IrrigMonitor; water conservation.

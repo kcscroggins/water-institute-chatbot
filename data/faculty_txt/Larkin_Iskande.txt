@@ -1,13 +1,34 @@
-Name: Iskande Larkin
+Name: Iskande V. Larkin, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Veterinary Medicine
+Academic Unit: College of Veterinary Medicine
 Email: ivlarkin@ufl.edu
 
 Subject Areas:
-Water-related research
+Aquatic animal health; Marine mammal biology; Manatee physiology; Reproductive biology; Veterinary education; Conservation; Wildlife health
+
+Position:
+- Senior Lecturer & Education Coordinator, College of Veterinary Medicine
+- Aquatic Animal Health Program Director, University of Florida
 
 Research Focus:
-Dr. Larkin is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Veterinary Medicine.
+Dr. Larkin is a Senior Lecturer and Director of the Aquatic Animal Health Program at UF, specializing in aquatic animal health, marine mammal biology, and veterinary education. Her research focuses on Florida manatee physiology, reproduction, behavior, and conservation. She leads aquatic animal health education programs and develops online and in-person training in aquatic veterinary medicine, including application of machine learning to tissue health evaluation.
+
+Notable Publications:
+- Gross and Microscopic Anatomy of the Nasal Cavity of the Florida Manatee - anatomy and olfactory research
+- Functional Morphology of the Taste Buds of Florida Manatee - sensory organ structure and ecology
+- In Vivo Apparent Digestibility of Fiber in Florida Manatees Under Human Care - nutrition and digestive physiology
+- Comparison of Staining Techniques on Sperm Morphometry and Morphology in Florida Manatee - reproductive biology
+- Diagnostic Stages of Parasites of the Florida Manatee - parasite life stages and wildlife health
+- Education-focused outputs on veterinary pedagogy in aquatic animal health
+
+Water Institute Relevance:
+Dr. Larkin's expertise in aquatic animal health intersects with water quality and habitat condition assessment. Marine mammal well-being is influenced by water quality, and understanding physiological and health responses in aquatic animals like manatees can reflect environmental conditions influenced by nutrient and pollutant levels. Her work complements water quality monitoring and ecosystem health programs by providing biological indicators of aquatic ecosystem condition, particularly relevant to Florida's springs and coastal waters where manatees are flagship species.
+
+Role in Research-to-Policy Pipeline:
+Extension/implementation and educational research specialist. Supports community, veterinary, and conservation training, translates science into practice for aquatic animal care, and contributes to interdisciplinary research on marine animal health and aquatic ecosystem health.
+
+Strategic Value:
+Answers the question: "How do physiological and health responses in aquatic animals reflect environmental conditions influenced by water quality?" Influences veterinary training for aquatic ecosystems, marine mammal conservation, and integration of animal health data into ecosystem monitoring frameworks.
 
 Keywords:
-Water Institute affiliate; Veterinary Medicine.
+aquatic animal health; marine mammals; Florida manatee; manatee physiology; reproductive biology; veterinary education; wildlife conservation; aquatic ecosystem health; veterinary medicine

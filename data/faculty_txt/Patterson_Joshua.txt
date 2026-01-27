@@ -1,13 +1,29 @@
-Name: Joshua Patterson
+Name: Joshua T. Patterson
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Fisheries and Aquatic Sciences
 Email: joshpatterson@ufl.edu
+Title: Professor
+
+Google Scholar: https://scholar.google.com/citations?user=qUOTz1MAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Fisheries ecology and population dynamics, Stock assessment and fishery-dependent data analysis, Harvest regulations and management strategies, Freshwater and estuarine fisheries management, Human-fishery interactions and exploitation impacts
+
+Education:
+- Ph.D. Fisheries Science
+- Research focus on fish population dynamics and stock assessment
 
 Research Focus:
-Dr. Patterson is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Fisheries and Aquatic Sciences.
+Dr. Patterson is known for his work in fisheries ecology and management, with particular emphasis on fish population dynamics, stock assessment, harvest regulations, and the effects of fishing pressure on freshwater and estuarine systems. His research bridges ecological understanding with management-relevant decision frameworks for sustainable fisheries. He employs quantitative population models, statistical analysis of fisheries monitoring data, mark-recapture and survey-based assessment methods, and decision-support tools for fisheries management. Research systems include freshwater and estuarine fisheries, managed fish populations often in southeastern U.S. systems, and recreational and commercial fisheries contexts.
+
+Notable Publications:
+- Estimating fish population status and trends
+- Evaluating harvest policies and management effectiveness
+- Integrating ecological data into fisheries decision-making
+- Publications in North American Journal of Fisheries Management, Fisheries Research, and Transactions of the American Fisheries Society
+
+Policy Relevance:
+Dr. Patterson's work supports evidence-based fisheries regulations by translating ecological data into practical management and harvest decisions. He provides quantitative, decision-relevant insight into how fish populations respond to exploitation and management, which is essential for sustainable use of aquatic resources. His work influences fisheries management and regulation, harvest policy design, and population monitoring and assessment frameworks. His research focuses on fish populations and fisheries outcomes rather than upstream environmental drivers, but it is central to understanding how aquatic ecosystems respond to human use and management interventions.
 
 Keywords:
-Water Institute affiliate; Fisheries and Aquatic Sciences.
+fisheries ecology; population dynamics; stock assessment; harvest regulations; fisheries management; freshwater fisheries; estuarine fisheries; quantitative models; mark-recapture; decision support; sustainable fisheries; recreational fisheries; commercial fisheries; southeastern United States

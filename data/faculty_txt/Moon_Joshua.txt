@@ -2,12 +2,18 @@ Name: Joshua Moon
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Chemical Engineering
 Email: joshua.moon@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=P_gCHCQAAAAJ&hl=en
+Website: https://www.moonresearchlab.com/
 
 Subject Areas:
-Water-related research
+Polymer materials, Membrane separations, Water treatment, Carbon capture
 
 Research Focus:
-Dr. Moon is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Chemical Engineering.
+Dr. Moon's laboratory concentrates on designing polymer materials for membrane separations. The group's mission is to overcome Grand Challenges in clean water and energy production through advanced polymer synthesis and experimental characterization. Key application areas include carbon capture, hydrogen production, hydrocarbon purification, water treatment, and environmental remediation.
+
+Notable Projects:
+- NSF CBET-2343767: Macrocycle membranes for gas separations (2024)
+- NSF CBET-2427603: Polymer ionic liquid membranes (2024)
 
 Keywords:
-Water Institute affiliate; Chemical Engineering.
+Polymer synthesis and characterization; membrane separations technology; gas and vapor transport; water purification systems; facilitated transport membranes; sustainable separation processes.

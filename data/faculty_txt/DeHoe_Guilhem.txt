@@ -2,12 +2,17 @@ Name: Guilhem De Hoe
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Materials Science & Engineering
 Email: guilhem.dehoe@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=5kXaAEMAAAAJ&hl=en
+Website: https://mse.ufl.edu/people/name/guilhem-de-hoe/
 
 Subject Areas:
-Water-related research
+Polymeric materials, Dynamic networks, Biodegradation, Sustainable materials
+
+Education:
+- Ph.D., University of Minnesota (2019)
 
 Research Focus:
-Dr. De Hoe is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Materials Science & Engineering.
+Dr. De Hoe's research centers on dynamic networks, polyesters, and biodegradation. His work investigates the intersection of polymer chemistry and environmental sustainability, with emphasis on developing materials that can degrade responsibly while maintaining functional polymeric properties.
 
 Keywords:
-Water Institute affiliate; Materials Science & Engineering.
+Polymeric materials; dynamic networks; polyester chemistry; biodegradation; biodegradable polymers; sustainable materials.

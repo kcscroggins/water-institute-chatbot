@@ -10,6 +10,91 @@ A RAG-powered chatbot that answers questions about the UF Water Institute, inclu
 
 ## Recent Updates (January 2026)
 
+### Faculty Profile Enrichment (January 23, 2026)
+
+Enriched faculty profiles with detailed research information, publications, education, and awards.
+
+**Phase 1: Google Scholar & Website URLs (97 faculty)**
+- ✅ Imported Google Scholar and Website URLs from "Database Affiliate Faculty Information Version 2.xlsx"
+- ✅ 97 faculty files now include direct links to their Google Scholar profiles and/or personal websites
+- ✅ Created `backend/update_faculty_v2.py` script for URL import
+
+**Phase 2: Automated Enrichment (71 faculty)**
+- ✅ Enriched 71 faculty profiles with detailed information via web search
+- ✅ Added: Education, Research Focus, Notable Publications, Awards, Teaching, Keywords
+- ✅ Sources: UF faculty pages, department websites, and web search results
+
+**Phase 3: Manual Enrichment (Ongoing)**
+- 📋 Created `data/faculty_needing_enrichment.csv` to track remaining faculty
+- 📋 Workflow: User provides research info → Update profile with education, publications, policy relevance → Remove from tracking CSV
+- ✅ Manually enriched 231 profiles (January 23-27, 2026), including:
+  - Damian C. Adams (Natural Resource Economics, Associate Dean for Research)
+  - Peter N. Adams (Geological Sciences, Geomorphology)
+  - Shinsuke Agehara (Horticulture, GCREC)
+  - Andrea R. Albertin (Water Resources Extension)
+  - Micheal S. Allen (Fisheries, NCBS Director)
+  - Angélica Almeyda Zambrano (Latin American Studies, SPEC Lab)
+  - Andrew H. Altieri (Coastal Ecology, Center for Coastal Solutions)
+  - Yiannis Ampatzidis (Precision Agriculture, AI/Machine Learning)
+  - Clyde Fraisse (Agricultural and Biological Engineering)
+  - Ruth Francis-Floyd (Veterinary Medicine)
+  - Peter Frederick (Wildlife Ecology and Conservation)
+  - Karen Garrett (Plant Pathology, Epidemiology)
+  - Sabine Grunwald (Soil and Water Sciences, Pedometrics)
+  - Kirk Hatfield (Civil and Coastal Engineering)
+  - Young Gu Her (Agricultural and Biological Engineering)
+  - Gerrit Hoogenboom (Agricultural and Biological Engineering)
+  - Basil Iannone (Forest Ecology)
+  - Patrick Inglett (Soil Biogeochemistry)
+  - Tracy Irani (Public Issues Education)
+  - John Jaeger (Geological Sciences, Sedimentology)
+  - ...and 154 more faculty profiles
+
+**Enriched Profile Format:**
+```
+Name: Faculty Name
+Role: Affiliate Faculty, UF Water Institute
+Academic Unit: Department Name
+Email: email@ufl.edu
+
+Subject Areas:
+Research area 1, Research area 2, ...
+
+Education:
+- Ph.D. Field, University (Year)
+- M.S. Field, University (Year)
+
+Research Focus:
+Description of research interests and current projects...
+
+Notable Publications:
+- Publication title (Journal, Year)
+- Publication title (Journal, Year)
+
+Awards:
+- Award name (Year)
+
+Teaching:
+- Course name
+- Course name
+
+Keywords:
+keyword1; keyword2; keyword3; ...
+```
+
+**Current Statistics:**
+- **Total Faculty Files**: 369
+- **Enriched Profiles**: 231 (71 automated + 160 manual)
+- **With Google Scholar/Website**: 97 (URLs added)
+- **Awaiting Enrichment**: 138 (tracked in CSV)
+
+**Next Steps:**
+- Continue manual enrichment using `data/faculty_needing_enrichment.csv`
+- Run `python ingest_faculty.py` to re-ingest after enrichment
+- Redeploy to Render to update production
+
+---
+
 ### Bulk Faculty Import (January 22, 2026)
 
 Expanded faculty database from 17 detailed profiles to **369 total faculty members** using the Water Institute's affiliate faculty database.
@@ -205,24 +290,28 @@ Add this iframe code to your WordPress page (in "Code" or "HTML" mode):
 
 ```
 data/
-├── faculty_txt/              # Faculty profile information (369 total)
-│   ├── Allen_Mike.txt        # Detailed profile (17 with full research info)
-│   ├── Cohen_Matt.txt        # Director - detailed profile
-│   ├── Kim_Youngho.txt       # Affiliate faculty (352 basic profiles)
+├── faculty_txt/                        # Faculty profile information (369 total)
+│   ├── Cohen_Matt.txt                  # Director - detailed profile
+│   ├── AbdElrahman_Amr.txt             # Enriched profile (71 total)
+│   ├── Graham_Wendy.txt                # Enriched profile
+│   ├── Kim_Youngho.txt                 # Basic profile (297 remaining)
 │   └── ...
 │
-└── general_info/             # Water Institute general information
-    ├── about.txt            # Mission, vision, history, core functions
-    ├── research_areas.txt   # Research themes, funding, projects
-    ├── programs.txt         # WIGF, HSAC, travel awards
-    ├── facilities.txt       # Office location, lab access, field sites
-    ├── partnerships.txt     # UF collaborations, stakeholders
-    └── contact.txt          # Address, phone, director info
+├── general_info/                       # Water Institute general information
+│   ├── about.txt                       # Mission, vision, history, core functions
+│   ├── research_areas.txt              # Research themes, funding, projects
+│   ├── programs.txt                    # WIGF, HSAC, travel awards
+│   ├── facilities.txt                  # Office location, lab access, field sites
+│   ├── partnerships.txt                # UF collaborations, stakeholders
+│   └── contact.txt                     # Address, phone, director info
+│
+└── faculty_needing_enrichment.csv      # Tracking file for enrichment progress
 ```
 
 **Faculty Profile Types:**
-- **Detailed profiles (17)**: Full research descriptions, publications, education, keywords
-- **Basic profiles (352)**: Name, department, email, role as Water Institute affiliate
+- **Enriched profiles (231)**: Full research descriptions, publications, education, policy relevance, keywords
+- **With URLs only (18)**: Basic info + Google Scholar/Website links (awaiting enrichment)
+- **Basic profiles (120)**: Name, department, email, role as Water Institute affiliate
 
 **How It Works:**
 1. Both folders are ingested into a single ChromaDB collection
@@ -370,7 +459,7 @@ MCP (Model Context Protocol) is Anthropic's open standard for connecting AI syst
 ### Current Capabilities & Limitations
 
 **Current Setup (RAG with Static Data):**
-- ✅ Faculty profiles and expertise (369 faculty members - 17 detailed, 352 basic)
+- ✅ Faculty profiles and expertise (369 faculty members - 231 enriched, 138 basic)
 - ✅ General Water Institute information (mission, programs, research, facilities, partnerships)
 - ✅ Static data stored in ChromaDB
 - ⚠️ Must manually re-run `ingest_faculty.py` to update information

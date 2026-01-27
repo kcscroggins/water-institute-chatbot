@@ -1,13 +1,31 @@
-Name: Christopher Mccarty
+Name: Christopher McCarty
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Anthropology
-Email:  chrism@bebr.ufl.edu
+Email: chrism@bebr.ufl.edu
+Title: Professor of Anthropology; Associate Dean, College of Liberal Arts and Sciences; Director of the Bureau of Economic and Business Research (BEBR)
+
+Google Scholar: https://scholar.google.com/citations?user=jMqJzYAAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Social network analysis and personal network methods, Survey research methods and quantitative methodology, Estimation of hard-to-count populations, Collaborative network structure and scientific collaboration analysis, Application of SNA to social and health topics
+
+Education:
+- Ph.D. Anthropology, University of Florida
+- M.A. Anthropology, University of Florida
+- B.A. Anthropology, University of Florida
 
 Research Focus:
-Dr. Mccarty is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Anthropology.
+Dr. McCarty is an expert in social network analysis, particularly personal (egocentric) network methods, survey research design, and the estimation of hard-to-count populations. His methodological contributions have broad applications across social science disciplines. He develops and applies quantitative social science methods that inform interdisciplinary research, program evaluation, and public health and disaster behavior studies. He also leads BEBR, a major survey and data research center that supports demographic and economic research for policy audiences. His work spans populations studied via egocentric networks (e.g., migrants, health behavior populations), collaborative and scientific research networks, and hard-to-reach and underserved populations. He is the developer of EgoNet, a widely used software tool for personal network data.
+
+Notable Publications:
+- Measuring Structure in Personal Networks - a core conceptual text on SNA methods
+- Work on network scale-up methods (NSUM) for estimating sizes of hard-to-count populations (e.g., homelessness, HIV+ cohorts)
+- Articles analyzing the impact of data collection choices on network measures
+- Analyses of scientific collaboration networks and bibliometric structures
+- Applications of personal networks to studies of disaster behavior and health outcomes in cross-cultural contexts
+
+Policy Relevance:
+Dr. McCarty advances quantitative social science methods that underpin rigorous population and network analyses used in interdisciplinary research, including studies informing public health, migration, and disaster response frameworks. His methodological work on survey and network analysis can be applied in interdisciplinary team studies involving environmental health or risk behavior, such as how communities respond to environmental hazards. His tools and methods support understanding human dimensions of environmental issues including community responses to environmental change.
 
 Keywords:
-Water Institute affiliate; Anthropology.
+social network analysis; egocentric networks; personal networks; survey research; quantitative methods; hard-to-count populations; network scale-up; NSUM; EgoNet; scientific collaboration; disaster behavior; migration; BEBR; population estimation; methodology

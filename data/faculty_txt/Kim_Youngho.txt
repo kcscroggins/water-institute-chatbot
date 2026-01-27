@@ -1,13 +1,34 @@
-Name: Youngho Kim
+Name: Youngho (Young) Kim, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Food and Resource Economics
+Academic Unit: Food and Resource Economics (Environmental & Resource Economics)
 Email: younghokim@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=cYlEwYwAAAAJ&hl=en
+Website: https://www.econyoungkim.com
 
 Subject Areas:
-Water-related research
+Environmental economics; Resource economics; Payments for Ecosystem Services (PES); Environmental credit markets; Conservation program evaluation; Cost-effectiveness analysis; Policy incentive design
+
+Education:
+- Ph.D.
+- Assistant Professor, Food and Resource Economics, University of Florida (UF/IFAS)
 
 Research Focus:
-Dr. Kim is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Food and Resource Economics.
+Dr. Kim is an Assistant Professor in Food and Resource Economics specializing in the economic design and evaluation of environmental policy instruments. His research focuses on Payments for Ecosystem Services (PES) and environmental credit or trading markets that aim to correct market failures in environmental service provision, including flood mitigation, water quality improvement, and biodiversity outcomes. He develops quantitative economic models and policy evaluations used directly by environmental policy designers, conservation programs, and natural resource managers.
+
+Notable Publications:
+- Kim, Y., Lichtenberg, E., & Newburn, D. (2024). Payments and penalties in ecosystem services programs. Journal of Environmental Economics and Management, 126, 102988. DOI: 10.1016/j.jeem.2024.102988
+- Working Paper: Payments for Ecosystem Services Programs and Climate Change Adaptation in Agriculture
+- Working Paper: Emissions Trading Programs for Afforestation: Interactions with Federal Agricultural Conservation Programs
+- Working Paper: Designing Ecologically Effective and Economically Efficient Conservation Compensation Funds
+
+Water Institute Relevance:
+Dr. Kim's research directly informs policy design and incentive structures for programs that influence land use and management practices affecting soil conservation, nutrient buffering, and water quality. His evaluation of PES and conservation programs connects economic incentives to environmental outcomes such as reduced flooding, improved water quality, and enhanced ecosystem services. His work helps answer how conservation incentives should be structured so that landowners' decisions lead to measurable environmental benefits like reduced nutrient runoff and water quality improvement.
+
+Role in Research-to-Policy Pipeline:
+Structural/governance layer. Develops economic evidence and optimal policy structures that align incentives for soil, nutrient, and water conservation objectives through improved ecosystem service provision.
+
+Strategic Value:
+Answers the question: "Which economic mechanisms most cost-effectively achieve real environmental improvements in soil and water systems?" Influences program incentives and penalty design, conservation subsidy effectiveness, and integration of ecosystem service markets with policy.
 
 Keywords:
-Water Institute affiliate; Food and Resource Economics.
+environmental economics; resource economics; payments for ecosystem services; PES; conservation programs; credit markets; policy design; cost-effectiveness; flood mitigation; water quality markets; carbon markets; incentive mechanisms

@@ -1,13 +1,29 @@
-Name: William Pine
+Name: William E. Pine
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Wildlife Ecology and Conservation
 Email: billpine@ufl.edu
+Title: Professor
+
+Google Scholar: https://scholar.google.com/citations?user=RUX96n0AAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Fisheries ecology and population dynamics, Stock assessment and monitoring design, Fisheries management and harvest regulation, Adaptive management and decision-making under uncertainty, Conservation and sustainable use of aquatic resources
+
+Education:
+- Ph.D. Fisheries Science
+- Research focus on quantitative fisheries ecology and management
 
 Research Focus:
-Dr. Pine is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Wildlife Ecology and Conservation.
+Dr. Pine is known for quantitative fisheries ecology and management, particularly the integration of population dynamics, monitoring data, and decision analysis to inform fisheries management. His work emphasizes evidence-based assessment, adaptive management, and translating ecological data into actionable guidance for agencies responsible for freshwater and marine fisheries. He employs statistical and quantitative population models, analysis of long-term fisheries monitoring datasets, decision-support frameworks for management evaluation, and integration of ecological theory with applied assessment. Research systems include freshwater and marine fisheries, managed fish populations, and systems relevant to state and regional fisheries agencies often in the southeastern United States.
+
+Notable Publications:
+- Improving the reliability of stock assessments
+- Linking monitoring data to management decisions
+- Evaluating fisheries regulations and conservation outcomes
+- Publications in Fisheries Research, North American Journal of Fisheries Management, and Transactions of the American Fisheries Society
+
+Policy Relevance:
+Dr. Pine's work helps agencies design and evaluate fisheries policies by rigorously connecting ecological data to management decisions under uncertainty. He contributes decision-relevant science that improves how fisheries are assessed, regulated, and conserved, ensuring ecological sustainability alongside human use. His research centers on fish populations and management systems, providing the analytical backbone for sustainable fisheries and conservation decisions. His work influences fisheries management and regulation, monitoring and assessment design, and adaptive management frameworks.
 
 Keywords:
-Water Institute affiliate; Wildlife Ecology and Conservation.
+fisheries ecology; population dynamics; stock assessment; fisheries management; harvest regulation; adaptive management; decision analysis; monitoring; quantitative ecology; conservation; sustainable fisheries; freshwater fisheries; marine fisheries; southeastern United States

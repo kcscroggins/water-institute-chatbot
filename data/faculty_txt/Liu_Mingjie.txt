@@ -1,13 +1,33 @@
-Name: Mingjie Liu
+Name: Mingjie Liu, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Chemistry
 Email: mingjielilu@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=HwQEtD0AAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Computational chemistry; Materials modeling; Machine learning; Density functional theory; Materials informatics; Polymer properties; Structure-property prediction; Data-driven design; Quantum chemistry
+
+Education:
+- Ph.D.
+- Assistant Professor, Chemistry, University of Florida
 
 Research Focus:
-Dr. Liu is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Chemistry.
+Dr. Liu is known for her computational and data-driven materials and molecular design research, focusing on machine learning and quantum chemistry methods to predict structure-property relationships of polymers, conjugated systems, and advanced materials. Her work blends density functional theory (DFT), machine learning, and materials informatics to accelerate discovery of functional molecular and polymeric materials. She develops high-throughput computational workflows and AI models linked with physical chemistry frameworks for materials prediction.
+
+Notable Publications:
+- Harnessing DFT and machine learning for accurate optical gap prediction in conjugated polymers (2025) - integrates DFT with ML to predict polymer band gaps
+- Multiple high-impact works in computational materials and polymer design examining structure-property relationships
+- Research on metal oxides, lattice oxygen effects, and computational materials applications
+- AI and workflows for high-throughput simulation and materials prediction
+
+Water Institute Relevance:
+While Dr. Liu's core domain is computational materials and machine learning for chemistry and polymer science, her expertise in AI/ML integrated with physical theory represents advanced computational capacity that could be adapted for predictive environmental modeling frameworks if integrated across disciplines. Her methodologies (ML + DFT) are generalizable modeling approaches that contribute broadly to computational science methodologies in interdisciplinary contexts, potentially applicable to environmental and water-related modeling challenges.
+
+Role in Research-to-Policy Pipeline:
+Research producer (primary). Generates computational tools and theoretical predictions that inform materials design, with potential downstream use in technology and materials sectors. Develops predictive computational frameworks that improve materials discovery workflows and inform data-driven design strategies.
+
+Strategic Value:
+Answers the question: "How can data-driven methods (machine learning + physics) accelerate accurate predictions of complex molecular or materials properties?" Influences development of machine learning tools linked with physical models, acceleration of materials and molecular discovery, and cross-disciplinary adoption of AI/DFT approaches that may inform computational environmental science.
 
 Keywords:
-Water Institute affiliate; Chemistry.
+computational chemistry; machine learning; density functional theory; DFT; materials informatics; polymer science; structure-property relationships; data-driven design; AI; quantum chemistry; materials modeling; conjugated polymers

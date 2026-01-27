@@ -2,12 +2,28 @@ Name: Brian Pearson
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Environmental Horticulture
 Email: bpearson@ufl.edu
+Title: Assistant Professor
+
+Google Scholar: https://scholar.google.com/citations?user=jLdV3ZsAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Environmental horticulture, Plant nutrition and fertilization strategies, Container and substrate-based production systems, Nursery and greenhouse management, Sustainable ornamental plant production
+
+Education:
+- Ph.D. Environmental Horticulture
+- Research focus on plant nutrition and horticultural production systems
 
 Research Focus:
-Dr. Pearson is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Environmental Horticulture.
+Dr. Pearson is known for applied horticultural science focused on ornamental and landscape plant production, with particular emphasis on plant nutrition, substrate management, and production systems that improve plant performance while reducing environmental inputs. His work targets efficiency and sustainability in nursery and greenhouse operations, especially where horticulture intersects with environmental quality. He employs controlled experiments in greenhouse and nursery settings, evaluation of fertilizers substrates and irrigation practices, plant growth nutrient uptake and performance measurements, and translational research with relevance to commercial growers. Research systems include ornamental plant production systems, nursery and greenhouse operations, and subtropical horticultural systems particularly Florida-based production.
+
+Notable Publications:
+- Nutrient management and fertilizer efficiency in ornamental crops
+- Substrate and container effects on plant growth
+- Strategies to reduce environmental impacts of horticultural production
+- Publications in HortScience, HortTechnology, and Journal of Environmental Horticulture
+
+Policy Relevance:
+Dr. Pearson's work informs best management practices and industry guidance aimed at improving resource efficiency and environmental performance in ornamental plant production. He provides applied, system-level insight into how managed plant production systems can meet commercial goals while reducing resource use and environmental externalities. His research addresses how horticultural production systems can be optimized to improve plant performance while minimizing nutrient losses and environmental impacts, especially in managed growing environments. His work influences production practice optimization, nutrient and input efficiency in horticulture, and industry-facing best management recommendations.
 
 Keywords:
-Water Institute affiliate; Environmental Horticulture.
+environmental horticulture; plant nutrition; fertilization; substrates; container production; nursery management; greenhouse production; ornamental plants; sustainable production; nutrient efficiency; irrigation; best management practices; Florida horticulture

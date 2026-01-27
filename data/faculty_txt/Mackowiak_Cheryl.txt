@@ -1,13 +1,34 @@
-Name: Cheryl Mackowiak
+Name: Cheryl L. Mackowiak, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Soil and Water Sciences
+Academic Unit: Soil, Water, and Ecosystem Sciences; UF/IFAS North Florida Research and Education Center
 Email: echo13@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=uXHiUYQAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Soil nutrient management; Soil quality; Water quality protection; Nutrient cycling; Nitrogen leaching; Phosphorus mobility; Best management practices; Soil fertility; Pasture systems; Cover crops
+
+Education:
+- Ph.D.
+- Associate Professor, Soil, Water, and Ecosystem Sciences, University of Florida
 
 Research Focus:
-Dr. Mackowiak is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Soil and Water Sciences.
+Dr. Mackowiak is a soil nutrient management and water quality scientist whose research spans nutrient cycling, soil fertility, soil quality, and best management practices (BMPs) in agricultural and pastoral systems, with a strong emphasis on reducing nutrient losses and protecting water resources. She studies nitrogen leaching, phosphorus mobility, microbial-mediated nitrogen cycling, and soil landscape analysis in pasture, forage, and crop rotation systems in North Florida and Southeastern U.S.
+
+Notable Publications:
+- Short-term perennial peanut integration into bahiagrass systems - research on soil microbial-mediated nitrogen cycling and microbial community networks in pasture systems
+- Integrated crop-livestock systems result in less nitrate leaching than ungrazed crop systems - investigation of nitrogen leaching pathways and BMP evaluation
+- Managing cover crops for improved soil health - guidance linking nutrient cycling with soil quality and nutrient retention
+- Fertilization and soil nutrient management fact sheets - extension outputs on fertilizer recommendations and soil fertility
+- Soil phosphorus storage capacity and phosphorus release from biochar - research on P cycling and land management implications
+
+Water Institute Relevance:
+Dr. Mackowiak's research directly investigates nitrogen leaching, phosphorus mobility, and nutrient cycling in managed soils, including quantification of nutrient fluxes and soil influence on water quality. Her work dissects processes controlling nutrient retention, release, and transport - such as microbial N dynamics, organic amendments, crop rotations, and pasture integration - which underlie nutrient-loss mechanisms. The findings inform BMPs that reduce nutrient export, improve soil condition, and protect water quality (e.g., reducing N leaching via integrated systems), making her contributions central to managing soil-water nutrient interfaces.
+
+Role in Research-to-Policy Pipeline:
+Research producer and implementation specialist. Generates mechanistic and applied knowledge on nutrient and water interactions in soils and integrates that knowledge into BMPs, extension materials, and policy-relevant guidelines for sustainable soil and water management. Extension outputs support local nutrient management policies and practice recommendations for protecting surface and groundwater.
+
+Strategic Value:
+Answers the question: "How do soil management practices and crop systems influence nutrient retention, leaching, and water quality outcomes?" Influences design and evaluation of nutrient management BMPs, adoption of soil fertility practices that buffer nutrient losses, and guidance on crop-livestock integration and soil health improvement.
 
 Keywords:
-Water Institute affiliate; Soil and Water Sciences.
+soil nutrient management; nutrient cycling; nitrogen leaching; phosphorus; soil quality; water quality; BMPs; soil fertility; pasture systems; cover crops; crop-livestock integration; NFREC; North Florida; microbial nitrogen; soil health

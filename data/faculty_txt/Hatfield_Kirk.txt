@@ -1,13 +1,28 @@
 Name: Kirk Hatfield
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Civil and Coastal Engineering, ESSIE
+Role: Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Civil and Coastal Engineering, ESSIE
 Email: kirk.hatfield@essie.ufl.edu
 
 Subject Areas:
-Water-related research
+Hydrogeology, Groundwater Modeling, Contaminant Transport, Nutrient Transport, Subsurface Hydrology
 
 Research Focus:
-Dr. Hatfield is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Civil and Coastal Engineering, ESSIE.
+Kirk Hatfield is a hydrogeologist specializing in groundwater flow and nutrient/contaminant transport modeling in complex subsurface systems. His research areas include hydrogeology and groundwater flow, contaminant and nutrient transport in aquifers, groundwater-surface water interactions, numerical modeling of subsurface systems, and water-quality impacts of land use and infrastructure. His work focuses on aquifer processes, contaminant transport, and groundwater-surface water interactions in environmentally sensitive or managed systems, generating quantitative models and process understanding that underpin groundwater regulation and water-resource management decisions.
+
+Selected Publications:
+- Studies on groundwater flow and solute transport including nutrients and contaminants
+- Modeling work examining how hydrologic conditions and infrastructure affect subsurface transport pathways
+- Contributions to risk assessment and prediction of groundwater quality degradation
+
+Water & Policy Relevance:
+- Nutrient transport through groundwater as major nutrient-loss pathway
+- Groundwater nutrient delivery to springs, rivers, estuaries, and coastal systems
+- Groundwater nutrient-load estimates for regulatory purposes
+- Subsurface risk assessment and modeling
+- Managing groundwater-mediated nutrient loading
+- Understanding nutrient fate after leaving soil zone
+- Spring protection and restoration planning
+- Water-resource and nutrient-management policy support
 
 Keywords:
-Water Institute affiliate; Civil and Coastal Engineering, ESSIE.
+Hydrogeology; groundwater modeling; contaminant transport; nutrient transport; aquifers; groundwater-surface water interactions; subsurface hydrology; springs; water quality; numerical modeling; Water Institute affiliate

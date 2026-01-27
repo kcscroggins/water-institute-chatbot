@@ -2,6 +2,7 @@ Name: Murilo Trimer Morata
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: UF/IFAS Extension
 Email: mu.trimermorata@ufl.edu
+Website: https://www.linkedin.com/in/murilo-morata/
 
 Subject Areas:
 Water-related research

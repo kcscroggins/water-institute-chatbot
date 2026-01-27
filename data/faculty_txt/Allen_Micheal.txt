@@ -1,13 +1,36 @@
-Name: Micheal Allen
+Name: Micheal S. Allen
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Fisheries and Aquatic Sciences
+Academic Unit: School of Forest, Fisheries and Geomatics Sciences; Fisheries and Aquatic Sciences
 Email: msal@ufl.edu
 
 Subject Areas:
-Water-related research
+Fish population dynamics, Fisheries management, Freshwater ecology, Coastal fisheries, Aquatic conservation
+
+Education:
+- Ph.D. Fisheries Management and Statistics
 
 Research Focus:
-Dr. Allen is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Fisheries and Aquatic Sciences.
+Dr. Allen is a Professor of Fisheries and Aquatic Sciences and Director of the UF/IFAS Nature Coast Biological Station (NCBS) in Cedar Key, FL. His research program evaluates fish population and fish community responses to changes in fishing mortality, habitat, and species interactions. He and his students evaluate the efficacy of various management strategies for improving and sustaining fisheries. Research areas include fish population dynamics and ecology, sustainable harvest approaches, habitat requirements and ecological responses for both freshwater and coastal fisheries, and effects of fishing mortality, invasive species, and environmental change on fish communities. He uses field studies, modeling techniques, and applied research to inform fisheries conservation and management in Florida and beyond.
+
+Administrative Roles:
+- Director, UF/IFAS Nature Coast Biological Station, Cedar Key, FL
+- Former Chair, Scientific and Statistical Committee, Gulf of Mexico Fishery Management Council
+
+Awards:
+- 2023 UF Water Institute Distinguished Faculty Fellow
+
+Notable Publications:
+- A sport fish on the brink: Striped Bass in the Ochlockonee River drainage, Florida (North American Journal of Fisheries Management, 2025)
+- Live-imaging sonar use in Texas crappie fisheries: Examining population-level responses due to potential increases in exploitation (Fisheries, 2025)
+- Co-authored 100+ peer-reviewed scientific articles
+- Co-edited multiple books on fisheries science, fish ecology, and management
+
+Research Metrics:
+- 7,927+ citations (Google Scholar)
+
+Teaching:
+- Undergraduate and graduate teaching through UF/IFAS and NCBS
+- Mentors graduate students and postdoctoral researchers in fisheries and aquatic sciences
 
 Keywords:
-Water Institute affiliate; Fisheries and Aquatic Sciences.
+Fish population dynamics; fisheries management; freshwater fisheries; coastal fisheries; aquatic ecology; sustainable harvest; fishing mortality; invasive species; habitat ecology; species interactions; Nature Coast; Gulf of Mexico; fisheries conservation; population modeling.

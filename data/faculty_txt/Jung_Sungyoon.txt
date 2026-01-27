@@ -2,12 +2,16 @@ Name: Sungyoon Jung
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: ESSIE
 Email: sungyon.jung@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=BYvpcMgAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Environmental pollutants, Micro/nanoplastics, Nanotechnology, Air quality
+
+Education:
+- Ph.D., Washington University in St. Louis
 
 Research Focus:
-Dr. Jung is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in ESSIE.
+Dr. Jung's research interests include identification and quantification of emerging environmental pollutants and their remediation using advanced nanomaterials. Her work addresses the significant knowledge gap in standardized analytical methods for identifying and quantifying micro- and nanoplastics (MNPs) from real-world environmental samples. Research areas include micro/nanoplastics, nanotechnology, air quality, aerosol, and catalysts. She has also investigated nitrate reduction using Pd-Cu catalysts supported by hematite.
 
 Keywords:
-Water Institute affiliate; ESSIE.
+Environmental pollutants; micro/nanoplastics; nanotechnology; air quality; aerosol science; catalysts; pollutant remediation; nanomaterials; environmental analysis.

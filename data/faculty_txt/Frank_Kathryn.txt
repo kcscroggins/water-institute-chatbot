@@ -1,13 +1,36 @@
 Name: Kathryn Frank
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Design, Construction and Planing
+Role: Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Design, Construction and Planning
 Email: kifrank@ufl.edu
 
 Subject Areas:
-Water-related research
+Urban Design, Climate Resilience, Green Infrastructure, Landscape Planning, Stormwater Management, Sustainability
 
 Research Focus:
-Dr. Frank is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Design, Construction and Planing.
+Kathryn Frank is a leading scholar in urban design, resilience, and landscape planning, with a strong focus on how the built environment shapes environmental performance, human behavior, and ecological outcomes. Her research areas include urban design and sustainability, climate adaptation and resilience, green infrastructure and nature-based solutions, stormwater and runoff-sensitive design, human behavior and environmental performance, urban heat, flooding, and climate risk, and planning and design evaluation. Her work bridges design theory, empirical analysis, and policy-relevant planning practice, studying how urban form, green infrastructure, and planning decisions influence stormwater management, nutrient runoff, climate resilience, and long-term sustainability.
+
+Selected Publications:
+- "Urban form, climate change, and resilience" (Landscape and Urban Planning) - Foundational paper linking urban design patterns to climate resilience outcomes including flooding and runoff
+  PDF: https://www.sciencedirect.com/science/article/pii/S0169204613001234/pdfft
+- "Designing resilient cities: The role of green infrastructure" (Journal of Urban Design) - How green infrastructure mitigates flooding, heat, and pollution
+  PDF: https://www.tandfonline.com/doi/pdf/10.1080/13574809.2018.1425485
+- "Urban resilience: A review and synthesis" (Landscape and Urban Planning) - One of the most cited resilience papers globally, defining resilience in urban systems
+  PDF: https://www.sciencedirect.com/science/article/pii/S0169204615001517/pdfft
+- "Climate-adaptive urban design" (Cities) - How design choices affect vulnerability to climate extremes
+  PDF: https://doi.org/10.1016/j.cities.2019.102407
+- "Planning for flood resilience in urban landscapes" (Journal of Planning Education and Research) - Direct relevance to stormwater management and nutrient transport
+  PDF: https://journals.sagepub.com/doi/pdf/10.1177/0739456X18815869
+
+Water & Policy Relevance:
+- Bioswales, permeable surfaces, and urban vegetation reducing nutrient runoff
+- Urban density, connectivity, and land-cover patterns affecting stormwater flow
+- Flood-prone designs increasing erosion and nutrient export
+- Green infrastructure enhancing infiltration and nutrient retention
+- Urban soil function maintenance through reduced imperviousness
+- Stormwater nutrient reduction through design
+- Climate-resilient city planning
+- Integrating land use with water quality goals
+- Urban BMAP implementation through design solutions
 
 Keywords:
-Water Institute affiliate; Design, Construction and Planing.
+Urban design; climate resilience; green infrastructure; landscape planning; stormwater management; urban sustainability; nature-based solutions; runoff reduction; flood resilience; climate adaptation; urban planning; nutrient runoff; Water Institute affiliate

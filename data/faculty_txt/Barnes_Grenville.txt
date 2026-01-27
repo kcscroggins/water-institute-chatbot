@@ -1,13 +1,34 @@
 Name: Grenville Barnes
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: School of Forest Resources and Conservation
+Role: Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: School of Forest, Fisheries & Geomatics Sciences
 Email: gbarnes@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=VY9l2mYAAAAJ
 
 Subject Areas:
-Water-related research
+Land Administration, Cadastral Systems, Geographic Information Systems (GIS), Property Rights, Land Tenure Security, Participatory Mapping
+
+Education:
+- Ph.D. Geodetic Science, The Ohio State University
+- M.S. Geodetic Science, The Ohio State University
+- B.Sc. Surveying, University of the West Indies
 
 Research Focus:
-Dr. Barnes is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in School of Forest Resources and Conservation.
+Dr. Grenville Barnes is a globally recognized scholar in land tenure, cadastral systems, and geospatial governance, especially in the Global South. His work sits at the intersection of land administration and cadastral systems, GIS, property rights and land tenure security, participatory mapping, informal settlements and urbanization, land governance and policy, and geospatial approaches to social equity. He has led or contributed to land and geospatial projects across Africa (Ghana, Kenya, Uganda, Namibia, South Africa), the Caribbean, Latin America, and Southeast Asia. His work is frequently used by the World Bank, UN-Habitat, national land agencies, and NGOs working on land reform and urban informality.
+
+Selected Publications:
+- "Land Administration Systems" (co-authored textbook; foundational reference in cadastral and land governance research worldwide)
+- "Fit-for-Purpose Land Administration" (Land Use Policy) - Influential in World Bank/UN-Habitat policy
+- "The evolution and application of participatory GIS in land administration" (Survey Review)
+- "Assessing land tenure security in informal settlements" (Habitat International)
+- "Governing Property, Making the Modern State" (book contributor)
+- Publications in Land Use Policy, Computers Environment and Urban Systems, Survey Review, Geoforum, Habitat International
+
+Teaching:
+- Land administration
+- GIS for development
+- Property systems
+- Urban informality and planning
+- Advisor for Ph.D. and M.S. students on policy-relevant applied research
 
 Keywords:
-Water Institute affiliate; School of Forest Resources and Conservation.
+Land administration; cadastral systems; GIS; geographic information systems; land tenure; property rights; participatory mapping; informal settlements; urbanization; land governance; land policy; geospatial governance; fit-for-purpose; social equity; World Bank; UN-Habitat; development; Water Institute affiliate

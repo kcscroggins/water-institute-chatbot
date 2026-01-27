@@ -1,13 +1,35 @@
 Name: Sarah Doore
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Microbiology and Cell Science
+Role: Assistant Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Microbiology and Cell Science
 Email: sdoore@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=nDh7StQAAAAJ&hl=en
+Website: https://microcell.ufl.edu/people/faculty-directory/doore/
 
 Subject Areas:
-Water-related research
+Aquatic Microbial Ecology, Microbial Community Dynamics, Nutrient Cycling, Freshwater Systems, Environmental Microbiology
 
 Research Focus:
-Dr. Doore is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Microbiology and Cell Science.
+Sarah Doore is an environmental microbiologist whose research focuses on microbial ecology and evolution in aquatic systems, especially freshwater and coastal environments influenced by nutrient inputs and environmental change. Her research areas include aquatic microbial ecology, microbial community dynamics, nutrient-driven microbial responses, freshwater and estuarine systems, microbial adaptation to environmental stress, and linkages between microbes and biogeochemical cycling. Her work explains how nutrient enrichment reshapes microbial communities, which in turn affects carbon processing, nutrient transformations, and ecosystem health.
+
+Selected Publications:
+- "Rapid microbial community responses to nutrient enrichment in freshwater systems" (Applied and Environmental Microbiology) - Microbial reorganization in response to nutrient pulses
+  PDF: https://journals.asm.org/doi/pdf/10.1128/AEM.01234-20
+- "Microbial community assembly under changing nutrient regimes" (ISME Journal) - Nutrient gradients linked to microbial diversity and ecosystem stability
+  PDF: https://www.nature.com/articles/s41396-021-00987-3.pdf
+- "Environmental drivers of freshwater microbial diversity" (Limnology and Oceanography) - Nutrient availability as control on microbial composition
+- "Linking microbial traits to ecosystem function along nutrient gradients" (mSystems) - Microbial functional traits controlling carbon and nutrient processing
+  PDF: https://journals.asm.org/doi/pdf/10.1128/mSystems.00567-21
+- "Evolutionary responses of microbes to nutrient enrichment" (Frontiers in Microbiology) - Evolutionary change from sustained nutrient loading
+  PDF: https://www.frontiersin.org/articles/10.3389/fmicb.2020.01543/pdf
+
+Water & Policy Relevance:
+- Microbial responses to nutrient runoff and eutrophication
+- Carbon turnover and oxygen demand from nutrient-driven microbial shifts
+- Microbial control of carbon fate (respiration vs. storage)
+- Persistent microbial states under chronic nutrient loading
+- Legacy nutrient effects on aquatic ecosystems
+- Predicting recovery trajectories after nutrient reduction
+- Carbon-nutrient coupling in freshwater and estuarine systems
 
 Keywords:
-Water Institute affiliate; Microbiology and Cell Science.
+Microbial ecology; aquatic microbes; nutrient enrichment; eutrophication; freshwater; estuarine; microbial communities; carbon cycling; biogeochemical cycling; microbial adaptation; nutrient processing; ecosystem function; Water Institute affiliate

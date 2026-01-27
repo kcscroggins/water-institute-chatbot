@@ -1,13 +1,36 @@
 Name: Ron Chandler
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Psychology
+Role: Associate Instructional Professor; Undergraduate Coordinator; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Psychology, College of Liberal Arts and Sciences
 Email: ronchandler@ufl.edu
 
 Subject Areas:
-Water-related research
+Sustainability Psychology, Environmental Behavior, Human Dimensions of Conservation, Social Psychology, Human-Environment Interaction
+
+Education:
+- Ph.D. Psychology, University of Florida
+- M.S. Limnology (lake and stream ecology)
+- Background in ecology, hydrology, and water quality monitoring
 
 Research Focus:
-Dr. Chandler is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Psychology.
+Ron Chandler is an Associate Instructional Professor whose work bridges psychology, sustainability, and environmental decision making. His unique background spans ecology, hydrology, and psychology, from early work in water quality monitoring and lake/stream ecology to leadership of conservation initiatives and eventual doctoral study in psychology. He develops and teaches Sustainability Psychology, an emerging field that uses psychological theory to improve the effectiveness of sustainability education and programs. His interests include human dignity, prosocial behavior, and environmental identity as drivers of sustainable action, as well as how cultural and social factors influence environmental decisions and behaviors. He founded the Conservation Initiative for the Asian Elephant, focusing on holistic, cross-cultural approaches to human-wildlife coexistence.
+
+Selected Publications:
+- "The Psychology of Sustainability: Understanding the Relationship Between Self and Earth" (Cognella Academic Publishing, 2018/2023) - Signature textbook on sustainability psychology covering human-Earth relationships and psychological roots of sustainable behavior
+  Preview PDF: https://cognella-titles-sneakpreviews.s3-us-west-2.amazonaws.com/82666-1B-URT/82666-1B_SP.pdf
+
+Teaching:
+- Psychology of Sustainability (PSY 3626)
+- Positive Psychology
+- Social Psychology
+- Educational Psychology
+
+Water & Policy Relevance:
+- Behavioral insights for water conservation program design
+- Understanding barriers to pro-environmental behavior adoption
+- Outreach strategies for environmental stewardship
+- Climate change communication effectiveness
+- Background in limnology and water quality monitoring
+- Bridging scientific recommendations and real-world policy uptake
 
 Keywords:
-Water Institute affiliate; Psychology.
+Sustainability psychology; environmental behavior; human dimensions; conservation psychology; environmental identity; prosocial behavior; water conservation; limnology; human-environment interaction; social psychology; behavioral science; environmental education; climate communication; Water Institute affiliate

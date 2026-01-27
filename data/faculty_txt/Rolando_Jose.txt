@@ -1,13 +1,30 @@
-Name: Jose Rolando
+Name: José L. Rolando
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Microbiology and Cell Science
 Email: jlrolando@ufl.edu
+Title: Assistant Professor
+
+Google Scholar: https://scholar.google.com/citations?hl=en&user=EMgjFmgAAAAJ
+Website: https://sites.google.com/view/rolandolab/
 
 Subject Areas:
-Water-related research
+Microbial ecology of soils and plant-microbe systems, Nutrient cycling (C N S) mediated by microbial processes, Plant-microbe interactions in natural and managed ecosystems, Ecosystem adaptation to environmental change, Environmental microbiology in coastal and terrestrial systems
+
+Education:
+- Ph.D. Microbiology/Environmental Science
+- Research focus on microbial ecology and biogeochemistry
 
 Research Focus:
-Dr. Rolando is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Microbiology and Cell Science.
+Dr. Rolando is known for his work in microbial ecology and biogeochemistry, especially focusing on plant-microbe-soil interactions, nutrient cycling, and microbial contributions to ecosystem processes. His research emphasizes how microbes shape carbon and nutrient dynamics in terrestrial and coastal ecosystems and how those interactions influence plant health, ecosystem resilience, and environmental sustainability. He employs field sampling of microbial communities and environmental gradients, laboratory assays for nutrient transformations, molecular and microbiological analyses of soil and plant-associated microbes, and integration of microbial data with ecosystem function metrics. Research systems include soils and plant microbiomes in agricultural and natural landscapes, coastal wetland and marine-terrestrial transition zones, and ecosystems facing environmental stressors such as warming drought and sea-level rise.
+
+Notable Publications:
+- Microbial drivers of carbon and nutrient cycling
+- Plant-microbe interactions in soils
+- Soil microbial responses to environmental change
+- Publications in environmental microbiology, biogeochemistry, and ecology journals
+
+Policy Relevance:
+Dr. Rolando's work informs sustainable environmental and agricultural strategies by elucidating how microbial processes regulate soil health, nutrient availability, and ecosystem resilience to environmental change. He provides process-level insight into microbial mediators of essential ecosystem functions, especially how soil microbes interact with plants and environmental drivers to shape nutrient and carbon cycling. His research directly investigates the role of microbes in governing nutrient and carbon transformations in soils, with implications for soil health, ecosystem function, and sustainable management of agricultural and natural systems. His work influences soil nutrient cycling and microbial ecology, biogeochemical contributions to plant productivity and ecosystem health, and microbial basis for ecosystem resilience and environmental management.
 
 Keywords:
-Water Institute affiliate; Microbiology and Cell Science.
+microbial ecology; biogeochemistry; plant-microbe interactions; soil microbiome; nutrient cycling; carbon cycling; nitrogen cycling; sulfur cycling; environmental microbiology; coastal ecosystems; terrestrial ecosystems; soil health; ecosystem resilience; environmental change

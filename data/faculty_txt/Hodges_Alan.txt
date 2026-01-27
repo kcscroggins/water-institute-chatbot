@@ -1,13 +1,28 @@
 Name: Alan Hodges
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Food and Resource Economics
+Role: Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Food and Resource Economics
 Email: awhodges@ufl.edu
 
 Subject Areas:
-Water-related research
+Agricultural Economics, Economic Impact Analysis, Cost-Benefit Analysis, Natural Resource Economics, Ecosystem Services Valuation
 
 Research Focus:
-Dr. Hodges is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Food and Resource Economics.
+Alan Hodges is an applied environmental economist specializing in economic impact and cost-benefit analysis of agriculture, conservation, and natural-resource systems. His research areas include agricultural and environmental economics, economic impact analysis (IMPLAN and related tools), cost-benefit analysis of conservation and resource programs, valuation of ecosystem services, and regional and sectoral economic modeling. His work provides economic evidence that informs policy justification, program evaluation, funding decisions, and regulatory trade-offs for Florida's agricultural and natural-resource sectors.
+
+Selected Publications:
+- Economic impact studies of Florida agriculture, forestry, fisheries, and natural-resource sectors
+- Analyses supporting water management districts, conservation programs, and land-use policy decisions
+- UF/IFAS reports quantifying jobs, income, and value-added effects of environmental and agricultural systems
+
+Water & Policy Relevance:
+- Economic costs, benefits, and trade-offs of soil conservation programs
+- Cost-benefit analysis of nutrient management and water quality programs
+- Economic incentives influencing nutrient-reduction practice adoption
+- Funding justification for conservation and restoration programs
+- Policy design and legislative support for environmental programs
+- Regional economic effects of water management decisions
+- Economic viability assessment for BMPs and conservation practices
+- Stakeholder buy-in through demonstrated economic benefits
 
 Keywords:
-Water Institute affiliate; Food and Resource Economics.
+Agricultural economics; economic impact analysis; IMPLAN; cost-benefit analysis; natural resource economics; ecosystem services; conservation economics; policy analysis; Florida agriculture; Water Institute affiliate

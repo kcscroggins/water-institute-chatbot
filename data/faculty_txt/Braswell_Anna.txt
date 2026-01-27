@@ -2,12 +2,19 @@ Name: Anna Braswell
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: School of Forest Resources and Conservation
 Email: a.braswell@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=ShJinUkAAAAJ&hl=en
+Website: http://annabraswell.weebly.com/
 
 Subject Areas:
-Water-related research
+Coastal ecosystem ecology, Living shorelines, Macroscale ecology, Geospatial analysis
 
 Research Focus:
-Dr. Braswell is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in School of Forest Resources and Conservation.
+Dr. Braswell is a coastal ecosystem ecologist interested in the formation, persistence, and degradation of coastal ecosystems within the context of surrounding terrestrial, marine, and urban systems. She uses geospatial data analysis and empirical field data to understand these complex socio-environmental systems. Her interdisciplinary research links ecological, geomorphic, and demographic data within a macroscale ecology framework. Through her cross-appointment with Florida Sea Grant, she works with stakeholders to create tools for coastal watershed and ecosystem management.
+
+Notable Achievements:
+- Gulf Research Program Fellow (Environmental Protection and Stewardship Track)
+- Research on how small natural and living shorelines protect coastal areas from storm waves and erosion
+- Previously Postdoctoral Research Scientist at Earth Lab, CIRES, University of Colorado Boulder
 
 Keywords:
-Water Institute affiliate; School of Forest Resources and Conservation.
+Coastal wetlands; coastal vulnerability; living shorelines; macroscale ecology; geospatial analysis; Florida Sea Grant; storm protection; shoreline erosion.

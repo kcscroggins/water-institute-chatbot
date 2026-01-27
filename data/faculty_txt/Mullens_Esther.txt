@@ -1,13 +1,31 @@
-Name: Esther Mullens
+Name: Esther D. Mullens
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Geography
 Email: emullens@ufl.edu
+Title: Assistant Professor
+
+Google Scholar: https://scholar.google.com/citations?user=wGZilNUAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Precipitation variability and extremes, Synoptic climatology and meteorological dynamics, Climate variability and change impacts on weather systems, Applied climate science and climate data interpretation, Weather and climate model analysis
+
+Education:
+- Ph.D. Geography, University of Oklahoma
+- M.S. Geography, University of Oklahoma
+- B.S. Geography, University of Oklahoma
 
 Research Focus:
-Dr. Mullens is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Geography.
+Dr. Mullens is a climatologist and atmospheric scientist whose research focuses on precipitation variability and extremes (heavy rainfall, drought), climate dynamics, and applied climate science, often with emphasis on synoptic weather systems, extreme precipitation, and their societal impacts (e.g., transportation, flood hazards). She advances mechanistic understanding of precipitation processes and climate variability, and contributes to climate science interpretation and adaptation dialogue for stakeholders and practitioners. Research systems include atmospheric systems producing heavy precipitation, winter storms, and drought conditions, United States continental domain, and climate processes relevant to water resources and weather impacts on infrastructure. Her work has been cited in the Fourth National Climate Assessment (NCA4).
+
+Notable Publications:
+- Role of natural variability in extratropical cyclone activity over North America (International Journal of Climatology, 2024) - links large-scale climate modes to storm behavior
+- Damages associated with excessive rainfall outlooks and missed flash floods (Weather and Forecasting, 2023) - connects forecast performance with flooding impacts
+- Changing nature of hazardous weather and implications for transportation (Climate, 2023) - integrates hazard climatology with infrastructure consequences
+- Meteorological characteristics of widespread heavy precipitation (International Journal of Climatology, 2021) - analyzes drivers of heavy rain in regional context
+- Freezing precipitation dataset for climate studies (Journal of Applied Meteorology and Climatology, 2017) - methodological resource for climate research
+
+Policy Relevance:
+Dr. Mullens produces mechanistic evidence on atmospheric drivers of precipitation extremes and climate variability, providing critical context for water resource risk assessment and informing climate adaptation planning relevant to hydrologic extremes. Her mechanistic focus on precipitation dynamics and extreme rainfall matters because rainfall intensity and patterns are key drivers of soil erosion, runoff generation, and nutrient mobilization. Patterns of extreme precipitation and drought influence water resource availability and nutrient transport at watershed scales. Her insights contribute to climate impacts understanding, which underpins water resources planning, flood risk management, and adaptation strategies.
 
 Keywords:
-Water Institute affiliate; Geography.
+climatology; precipitation; extreme rainfall; drought; synoptic meteorology; climate variability; climate change; flood hazards; heavy precipitation; winter storms; climate dynamics; water resources; National Climate Assessment; hydrologic extremes; transportation hazards

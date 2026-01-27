@@ -1,13 +1,29 @@
-Name: Rob Rooij
+Name: Rob de Rooij
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Water Institute
+Academic Unit: UF Water Institute
 Email: r.derooij@ufl.edu
+Title: Research Assistant Scientist
+
+ResearchGate: https://www.researchgate.net/profile/Rob-Rooij-2
 
 Subject Areas:
-Water-related research
+Hydrology and groundwater-surface water interactions, Water resource systems modeling, Coupled flow and transport in heterogeneous environments, Numerical methods for simulation of water movement, Karst aquifer and conduit network modeling
+
+Education:
+- Ph.D. Hydrology/Water Resources Engineering
+- Research focus on numerical modeling and hydrologic systems
 
 Research Focus:
-Dr. Rooij is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Water Institute.
+Dr. de Rooij is known for his work in hydrology, water resource modeling, and the simulation of coupled surface-subsurface flow and transport processes, with a particular focus on numerical schemes for complex natural flow systems, including karst aquifer systems. His research aims to improve predictive understanding of water movement and solute transport in heterogeneous landscapes by developing and testing innovative modeling approaches. He employs development and application of finite element and finite difference models, particle-tracking schemes for coupled surface-subsurface flows, generation and evaluation of 2-D and 3-D conduit network representations, and watershed-scale model integration and calibration. Research systems include watershed and aquifer systems with application to karst landscapes, Silver Springs basin and similar Florida hydrologic settings, and complex natural flow domains where surface and subsurface flows interact.
+
+Notable Publications:
+- Development and validation of coupled surface-subsurface flow models
+- Particle tracking and transport simulation in watershed contexts
+- Numerical schemes tailored for karst and heterogeneous aquifer systems
+- Application of tools that improve hydrologic prediction and water-resource assessments
+
+Policy Relevance:
+Dr. de Rooij's work supports evidence-based water resource management by improving the predictive tools used for assessing hydrologic behavior under natural variability and human impact. He advances predictive hydrologic science by developing robust numerical models that improve the understanding of how water moves through complex landscapes, a foundational input for water-resource planning and management. His research provides theoretical and computational tools for understanding complex water flows, which are essential for accurate prediction of water quantity, quality, and interactions between groundwater and surface water systems. His work influences hydrologic modeling accuracy, tools for watershed and aquifer analysis, and decision support for water availability and flow management.
 
 Keywords:
-Water Institute affiliate; Water Institute.
+hydrology; groundwater; surface water; coupled flow; transport modeling; numerical methods; karst aquifers; conduit networks; watershed modeling; Silver Springs; Florida hydrology; finite element; particle tracking; water resources; solute transport

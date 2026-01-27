@@ -1,13 +1,28 @@
 Name: James Gillooly
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Biology
+Role: Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Biology
 Email: gillooly@ufl.edu
 
 Subject Areas:
-Water-related research
+Metabolic Theory, Ecophysiology, Bioenergetics, Scaling Laws, Temperature Dependence, Ecosystem Processes
 
 Research Focus:
-Dr. Gillooly is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Biology.
+James Gillooly is a theoretical ecologist known for metabolic scaling laws that link body size and temperature to biological rates across ecosystems. His research areas include metabolic theory of ecology, ecophysiology and bioenergetics, temperature dependence of biological processes, scaling laws across biological organization, and links between organismal metabolism and ecosystem processes. His work helped formalize the Metabolic Theory of Ecology (MTE), which links physiology to ecosystem-scale patterns and provides the theoretical basis for predicting how climate change alters biological activity.
+
+Selected Publications:
+- "Effects of size and temperature on metabolic rate" (Science) - Seminal paper establishing temperature- and size-scaling of metabolism across taxa
+- "Effects of size and temperature on developmental time" (Nature) - Links metabolic constraints to growth and development rates
+- "Toward a metabolic theory of ecology" (Ecology) - Foundational synthesis connecting metabolism to population, community, and ecosystem processes
+
+Water & Policy Relevance:
+- Theoretical basis for how temperature regulates carbon fluxes and decomposition rates
+- Frameworks informing models of soil respiration and microbial activity
+- Predicting ecosystem responses to warming
+- Climate-carbon feedback assumptions in Earth-system models
+- Temperature dependence of nutrient cycling rates
+- Cross-scale biological rate predictions for aquatic and terrestrial systems
+- Foundational theory for climate change impact modeling
+- Understanding how warming alters nutrient turnover
 
 Keywords:
-Water Institute affiliate; Biology.
+Metabolic theory; ecophysiology; bioenergetics; scaling laws; temperature dependence; ecosystem processes; carbon cycling; climate change; biological rates; metabolism; ecological theory; Water Institute affiliate

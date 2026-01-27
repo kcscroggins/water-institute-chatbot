@@ -1,13 +1,29 @@
 Name: Maitane Olabarrieta Lizaso
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: ESSIE
+Academic Unit: Engineering School of Sustainable Infrastructure & Environment (ESSIE)
 Email: molabarrieta@ufl.edu
+Title: Associate Professor
+
+Google Scholar: https://scholar.google.com/citations?user=d4lqNy8AAAAJ&sortby=pubdate
 
 Subject Areas:
-Water-related research
+Coastal and nearshore hydrodynamics, Wave-current interaction, Storm surge and coastal flooding, Sediment transport and morphodynamics, Coastal impacts of hurricanes and extreme events, Climate change and sea-level rise impacts on coastlines
+
+Education:
+- Ph.D. Coastal Engineering
+- Research focus on process-based numerical modeling and coastal hydrodynamics
 
 Research Focus:
-Dr. Olabarrieta Lizaso is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in ESSIE.
+Dr. Olabarrieta Lizaso is known for coastal and nearshore hydrodynamics, particularly the physics of wave-current interactions, coastal flooding, storm surge, and sediment transport under extreme events. Her work focuses on understanding and modeling how coastal systems respond to hurricanes, sea-level rise, and climate-driven extremes, with an emphasis on process-based numerical modeling and risk-relevant coastal dynamics. She employs coupled wave-circulation models, analysis of extreme-event hydrodynamics, and model validation with observational and experimental data. Research systems include coastal and nearshore environments, barrier islands, estuaries, and continental shelf regions, with strong emphasis on hurricane-impacted coastlines including the Gulf and Atlantic coasts.
+
+Notable Publications:
+- Coupling of waves, currents, and surge during storms
+- Impacts of extreme events on coastal hydrodynamics
+- Improved numerical representation of nearshore processes
+- Publications in Coastal Engineering, Journal of Geophysical Research: Oceans, Ocean Modelling, and Natural Hazards
+
+Policy Relevance:
+Dr. Olabarrieta Lizaso's work improves the physical realism of coastal flood and storm impact models, informing risk assessment, coastal planning, and resilience decisions in hurricane-prone regions. She provides foundational physical understanding of how coastal systems behave under extreme forcing, which underpins reliable flood prediction, erosion assessment, and coastal resilience planning. Her research enables understanding of coastal system behavior that affects erosion, sediment redistribution, flooding, and infrastructure vulnerability during extreme events. Her modeling advances influence the accuracy of storm surge and wave predictions and the physical assumptions embedded in coastal risk tools.
 
 Keywords:
-Water Institute affiliate; ESSIE.
+coastal engineering; hydrodynamics; wave-current interaction; storm surge; coastal flooding; sediment transport; morphodynamics; hurricanes; extreme events; sea-level rise; climate change; numerical modeling; coastal resilience; barrier islands; estuaries; Gulf coast; Atlantic coast; flood prediction

@@ -1,13 +1,34 @@
-Name: Andrew Kane
+Name: Andrew S. Kane, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Environmental Global Health
+Academic Unit: Environmental and Global Health, College of Public Health and Health Professions
 Email: kane@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=Rr_IousAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Aquatic toxicology; Aquatic pathology; Environmental health; Contaminant exposure; Seafood safety; Water quality; Behavioral toxicology; Harmful algal blooms; Risk assessment
+
+Education:
+- Ph.D.
+- Associate Professor, Environmental and Global Health, University of Florida
+- Director, UF Aquatic Pathobiology Laboratory
 
 Research Focus:
-Dr. Kane is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Environmental Global Health.
+Dr. Kane is an Associate Professor in Environmental and Global Health and Director of the UF Aquatic Pathobiology Laboratory. His research focuses on environmental toxicology, aquatic pathology, and environmental health at the interface of human populations with aquatic ecosystems. He investigates contaminant exposures, seafood safety, water quality stressors, behavioral toxicology, and environmental impacts on aquatic organisms. His work includes probabilistic risk assessment for seafood consumers, brevetoxin and saxitoxin impacts on fish behavior, and pollutant effects on aquatic species in Gulf of Mexico and coastal systems.
+
+Notable Publications:
+- Probabilistic risk assessment for high-end seafood consumers - modeling contaminant exposure and health risks for Gulf Coast communities
+- Brevetoxin and saxitoxin impacts on fish behavior - algal toxins altering fish shoaling and behavioral ecology
+- Multiple studies on pollutant effects on aquatic organisms (mummichog, oysters) - environmental contamination and organism response
+- Research on zoonotic and environmental disease reservoirs
+
+Water Institute Relevance:
+Dr. Kane's work directly addresses the ecological and human health consequences of contaminated water and nutrient-linked stressors. His research on harmful algal blooms (HABs), which are often driven by nutrient pollution, and their toxin effects on aquatic organisms and human exposure pathways is highly relevant to understanding nutrient-driven ecological change in Florida's coastal and estuarine systems. His findings inform environmental health policy, seafood safety guidelines, and management of aquatic pollution.
+
+Role in Research-to-Policy Pipeline:
+Research producer with applied environmental health and toxicology focus. Collaborates with risk assessors, public health experts, and fishery scientists to translate findings into policy-relevant risk assessments.
+
+Strategic Value:
+Answers the question: "What are the ecological and human health consequences of contaminated water and nutrient-linked stressors?" Influences environmental risk assessment frameworks, seafood safety guidelines, and management of aquatic pollution and ecosystem stressors.
 
 Keywords:
-Water Institute affiliate; Environmental Global Health.
+aquatic toxicology; aquatic pathology; environmental health; contaminant exposure; seafood safety; harmful algal blooms; HABs; brevetoxin; water quality; risk assessment; behavioral toxicology; Gulf of Mexico; coastal ecosystems

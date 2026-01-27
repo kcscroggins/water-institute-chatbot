@@ -1,13 +1,31 @@
 Name: Laurel Kaminsky
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: George A Smathers Libraries
+Academic Unit: George A. Smathers Libraries – Marston Science Library
 Email: kaminsky@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=QolkqsoAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Environmental sciences information curation; Library science; Biodiversity data workflows; Taxonomy; Natural history collections digitization; Scientific literacy; Research support
+
+Position:
+- Assistant University Librarian / Environmental Sciences Librarian, Marston Science Library
 
 Research Focus:
-Dr. Kaminsky is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in George A Smathers Libraries.
+Laurel Kaminsky is an Environmental Sciences Librarian specializing in organizing, curating, and facilitating access to scientific information across disciplines such as soil, water, ecosystems, and natural resources. She has scholarly contributions in biodiversity data workflows and taxonomic collections digitization, including work on lichens and mosses ecology. Her role enables researchers, practitioners, and policy actors to discover, retrieve, and synthesize scientific literature and data essential for environmental research.
+
+Notable Publications:
+- Co-author: "A digitization workflow of dry-pinned collections of Lepidoptera" - methodological paper on biodiversity collection digitization
+- Co-author: "If a Tree Falls in the Forest, Will Its Lichens Flourish or Die?" - lichens ecology research
+- Contributions to ecological and biodiversity research workflows and metadata standards
+
+Water Institute Relevance:
+Kaminsky plays a key role in information governance, data discovery, and resource organization that supports all soil, water, and ecosystem sciences at UF. She facilitates discovery and synthesis of environmental science literature and data essential for evidence-based soil, water, and ecosystem policy, planning, and management. Without strong information infrastructure and discovery systems, research pipelines in soil and nutrient sciences are less efficient—librarians like Kaminsky underpin the knowledge ecosystem that connects research findings to decision-makers.
+
+Role in Research-to-Policy Pipeline:
+Enabling research support and knowledge infrastructure. Enables researchers, practitioners, and policy actors to discover, retrieve, and synthesize scientific literature and data; integral to research discoverability and reproducibility.
+
+Strategic Value:
+Answers the question: "Where do we find credible, comprehensive environmental science evidence?" Influences research discoverability, metadata and digitization practices for biodiversity and ecosystem data, and scholarly communication infrastructure.
 
 Keywords:
-Water Institute affiliate; George A Smathers Libraries.
+environmental sciences librarian; information curation; biodiversity data; digitization; natural history collections; research support; scientific literature; metadata; taxonomy; lichens; scholarly communication

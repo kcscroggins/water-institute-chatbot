@@ -1,13 +1,37 @@
-Name: Mary Lusk
+Name: Mary G. Lusk, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Soil and Water Sciences
+Academic Unit: Soil, Water, and Ecosystem Sciences; UF/IFAS Gulf Coast Research and Education Center
 Email: mary.lusk@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=2S2p788AAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Urban soil biogeochemistry; Urban water quality; Stormwater nutrient transport; Landscape management; Nutrient cycling; Best management practices; Fertilizer ordinances; Septic systems; Nitrogen dynamics; Nonpoint source pollution
+
+Education:
+- Ph.D.
+- Assistant Professor, Soil, Water, and Ecosystem Sciences, University of Florida
 
 Research Focus:
-Dr. Lusk is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Soil and Water Sciences.
+Dr. Lusk is known for research on urban soil and water quality, particularly how landscape management practices influence the storage, transport, and fate of nutrients and other constituents in managed urban environments. Her work integrates urban biogeochemistry, nutrient transport, stormwater runoff, and best management practice development. She studies nitrogen transformation, export, and retention in urban soils and stormwater pathways, septic system impacts on water quality, and spatial variability in soil nitrogen processes across mixed urban vegetation landscapes.
+
+Notable Publications:
+- Studies on nutrient export in residential stormwater runoff - characterization of nitrogen forms and loads
+- Spatial variability in inorganic soil nitrogen production in mixed urban vegetation landscapes
+- Copper concentration dynamics in urban stormwater pond water and sediments
+- Sources and Transformations of Nitrogen in Urban Landscapes (EDIS) - overview of urban nitrogen cycle
+- Urban Fertilizer Ordinances in the Context of Environmental Horticulture and Water Quality (EDIS) - science and regulatory context
+- How to Manage Yard Wastes to Protect Surface Water Resources (EDIS)
+- Publications on septic system effects, stormwater pond FAQs, soil health for landscapes, and well water contamination
+- Soils and Fertilizers for Master Gardeners: Soil Physical Characteristics (EDIS)
+
+Water Institute Relevance:
+Dr. Lusk's research directly measures nitrogen transformation, export, and retention in urban soils and stormwater pathways. She addresses nutrient losses from urban landscapes to water bodies (stormwater runoff and septic systems), making her work central to nutrient-loss science in built environments. Her work elucidates mechanisms of nutrient flux in disturbed and managed urban soils, including how landscape practices (fertilization, irrigation, vegetation type) influence soil nutrient pools, nitrogen speciation, and export. By quantifying nutrient loading and forms in stormwater and managed landscapes, she informs water quality risk assessments, urban BMP design, and regulatory strategies aimed at minimizing ecosystem impacts such as eutrophication.
+
+Role in Research-to-Policy Pipeline:
+Research producer with strong Extension translation. Science informs urban water quality protection, nutrient management guidelines, stormwater BMPs, and public outreach programming used by residents, planners, and land managers. Extension publications on fertilizer ordinances and septic system impacts provide decision-ready content for local policy makers.
+
+Strategic Value:
+Answers the question: "How do management practices, landscape features, and soil properties in urban environments influence the movement and fate of nitrogen and other nutrients, and how can we reduce nutrient losses to protect water quality?" Influences urban nutrient management approaches, stormwater BMP design and evaluation, landscape and septic system practices that reduce nutrient export, and local policies such as fertilizer ordinances.
 
 Keywords:
-Water Institute affiliate; Soil and Water Sciences.
+urban biogeochemistry; urban water quality; stormwater; nutrient transport; nitrogen cycling; fertilizer management; septic systems; BMPs; nonpoint source pollution; landscape management; nutrient export; Gulf Coast REC; fertilizer ordinances; soil nitrogen; water quality protection

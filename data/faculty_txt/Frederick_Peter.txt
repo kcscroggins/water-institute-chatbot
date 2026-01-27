@@ -1,13 +1,28 @@
 Name: Peter Frederick
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Wildlife Ecology and Conservation
+Role: Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Wildlife Ecology and Conservation
 Email: pfred@ufl.edu
 
 Subject Areas:
-Water-related research
+Wildlife Ecology, Wading Bird Ecology, Ecotoxicology, Wetland Ecosystems, Bioindicators, Mercury Contamination
 
 Research Focus:
-Dr. Frederick is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Wildlife Ecology and Conservation.
+Peter Frederick is a wildlife ecologist specializing in wading birds as bioindicators of ecosystem health, particularly how nutrient loading, contaminants (especially mercury), and hydrologic alteration affect reproduction, behavior, and population viability in wetland systems. His research areas include wildlife ecology and conservation biology, wading bird ecology (ibis, herons, storks), ecotoxicology (mercury, trace metals), nutrient enrichment and food-web effects, and wetland and estuarine ecosystem responses to anthropogenic stressors. His long-term empirical research, especially in the Florida Everglades, translates nutrient and contaminant dynamics into biological consequences, validating whether nutrient management targets are ecologically meaningful.
+
+Selected Publications:
+- "Altered pairing behavior and reproductive success in white ibises exposed to environmentally relevant concentrations of methylmercury" (Proceedings of the Royal Society B) - Behavioral and reproductive sensitivity of wading birds to contaminant exposure
+- "A historical record of mercury contamination in Florida (USA) as inferred from avian feathers" (Environmental Toxicology and Chemistry) - Long-term contaminant trends from avian biomarkers
+- "Pulsed breeding of long-legged wading birds and the importance of infrequent severe drought conditions in the Florida Everglades" (Wetlands) - Hydrologic controls on wading bird reproduction
+
+Water & Policy Relevance:
+- Wildlife responses diagnosing nutrient enrichment and food-web alteration
+- Mercury mobilization linked to upstream soil and water processes
+- Biological validation of nutrient management effectiveness
+- Restoration performance metrics for Everglades
+- Nutrient loading thresholds supported by ecological evidence
+- Environmental impact assessments using sentinel species
+- Long-term datasets detecting delayed ecosystem responses
+- Science-based wetland restoration and water quality policy support
 
 Keywords:
-Water Institute affiliate; Wildlife Ecology and Conservation.
+Wildlife ecology; wading birds; bioindicators; ecotoxicology; mercury contamination; nutrient enrichment; Everglades; wetland ecosystems; ecosystem health; contaminants; restoration ecology; food webs; Water Institute affiliate

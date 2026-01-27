@@ -1,13 +1,28 @@
-Name: Sanil Nadar
+Name: Sanil Soman Nadar
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: P.K. Yonge
+Academic Unit: P.K. Yonge Developmental Research School
 Email: sanilsomannadar@ufl.edu
+Title: Instructor - AP Biology; Ph.D. Candidate
+
+Google Scholar: https://scholar.google.com/citations?user=Li8QbHYAAAAJ&hl=en
+Website: www.dixiebio.com
 
 Subject Areas:
-Water-related research
+Antimicrobial resistance education and One Health approaches, Biological sciences pedagogy, Science communication and curriculum innovation, Integration of real-world health issues into biology education
+
+Education:
+- Ph.D. Candidate, Microbiology and Cell Science, University of Florida (in progress)
+- M.S. Biology, University of Florida
+- B.S. Biology, University of Florida
 
 Research Focus:
-Dr. Nadar is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in P.K. Yonge.
+Sanil Nadar is an educator and emerging interdisciplinary researcher with publications on antimicrobial resistance and One Health in biology education, blending biological science, curriculum development, and public engagement on health sciences. He serves as an AP Biology instructor at P.K. Yonge Developmental Research School and is a Ph.D. student in the UF Institute of Food and Agricultural Sciences' Department of Microbiology and Cell Science. His academic work is at the interface of biological science and education, with increasing research engagement, especially in antimicrobial resistance education and One Health frameworks. Research populations include high school students and educators, and university educational research environments.
+
+Notable Publications:
+- Antimicrobial resistance and One Health in the high school biology curriculum (2025) - curriculum research article integrating One Health concepts into biology education, highlighting interdisciplinary science for learners
+
+Policy Relevance:
+Nadar develops and evaluates educational interventions that embed contemporary biological challenges into biology curricula, enhancing scientific literacy with broader implications for community understanding of health and environmental connections. His work in One Health education cultivates cross-disciplinary awareness that can shape future science literacy and understanding of complex health-environment interactions. The One Health framework conceptually links human, animal, and environmental health, supporting broad understanding of how human behavior impacts environmental and public health risks.
 
 Keywords:
-Water Institute affiliate; P.K. Yonge.
+biology education; antimicrobial resistance; AMR; One Health; curriculum development; science pedagogy; science communication; high school education; P.K. Yonge; microbiology; health-environment connections

@@ -2,12 +2,14 @@ Name: Jie Xu
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Electrical and Computer Engineering
 Email: jie.xu@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=07kG-YsAAAAJ&hl=en
+Website: https://jiexu.ece.ufl.edu
 
 Subject Areas:
-Water-related research
+Edge computing, Wireless communications, Machine learning, Federated learning
 
 Research Focus:
-Dr. Xu is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Electrical and Computer Engineering.
+Dr. Xu concentrates on three primary areas: Edge Computing, Wireless Communications and Networking, and Machine Learning applications including Federated Learning, Multi-Armed Bandits, and Reinforcement Learning. He leads the CoSINE Lab at UF and actively recruits Ph.D. students with backgrounds in ECE, CS, or Mathematics.
 
 Keywords:
-Water Institute affiliate; Electrical and Computer Engineering.
+Edge computing; wireless communications and networking; federated learning; multi-armed bandits; reinforcement learning; mathematical modeling; signal processing; network security.

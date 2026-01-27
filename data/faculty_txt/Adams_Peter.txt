@@ -1,13 +1,31 @@
-Name: Peter Adams
+Name: Peter N. Adams
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Geological Sciences
+Academic Unit: Department of Geological Sciences
 Email: adamsp@ufl.edu
 
 Subject Areas:
-Water-related research
+Quantitative geomorphology, Coastal processes, Sediment transport, Numerical modeling, Landscape evolution
+
+Education:
+- Ph.D. Earth Sciences, University of California, Santa Cruz (2004)
+- M.S. Geological Sciences, Penn State University (1999)
+- B.S. Geological Sciences, Penn State University (1996)
+- B.S. Chemical Engineering, Penn State University (1996)
 
 Research Focus:
-Dr. Adams is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Geological Sciences.
+Dr. Adams is a Professor of Geological Sciences specializing in quantitative geomorphology and coastal processes. His research focuses on understanding the geomorphic evolution of landscapes resulting from the interaction of coastal, fluvial, and tectonic processes. He leads the UF Geomorphology Lab, conducting field measurements and computer simulations to understand relationships between sediment transport, shoreline change, and morphological evolution. Primary methods include real-time instrumentation to examine physical processes, digital elevation analyses to examine landscape form, and numerical modeling to link process and form together. Current field sites include the Florida Atlantic coast, the Southern California bight, and the Kenai Peninsula in South Central Alaska.
+
+Previous Position:
+- Postdoctoral Researcher, Scripps Institution of Oceanography, UC San Diego
+
+Notable Publications:
+- Geomorphic origin of Merritt Island-Cape Canaveral, Florida, USA: A paleodelta of the reversed St. Johns River? (Geomorphology, 2018)
+- Degradation and Resilience in Louisiana Salt Marshes After the BP-Deepwater Horizon Oil Spill (Proceedings of the National Academy of Sciences, 2012)
+- Variations in Natural Levee Morphology in Anastomosed Channel Floodplain Complexes (Geomorphology, 2004)
+- Microseismic Measurement of Wave Energy Delivery to a Rocky Coast (Geology, 2002)
+
+Research Metrics:
+- 1,779+ citations (Google Scholar)
 
 Keywords:
-Water Institute affiliate; Geological Sciences.
+Quantitative geomorphology; coastal processes; coastal evolution; sediment transport; shoreline change; beach morphology; storm impacts; numerical modeling; surface processes; landscape evolution; fluvial processes; tectonic geomorphology; field instrumentation.

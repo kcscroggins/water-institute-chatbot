@@ -1,13 +1,29 @@
-Name: Whitney Sanford
+Name: Whitney A. Sanford
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Religion
 Email: wsanford@ufl.edu
+Title: Professor
+
+Google Scholar: https://scholar.google.com/citations?user=u1wPOesAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Religion and environmental ethics, Food systems and agriculture in cultural and religious contexts, Religion nature and sustainability, Hinduism and South Asian religious traditions, Narrative frameworks for environmental discourse
+
+Education:
+- Ph.D. Religious Studies
+- Research focus on religion, ecology, and environmental humanities
 
 Research Focus:
-Dr. Sanford is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Religion.
+Dr. Sanford is known for her scholarship at the intersection of religion, ecology, food, agriculture, and sustainability, particularly exploring how religious traditions and narratives shape cultural understandings of food, environment, and social equity. Her work combines religious studies, environmental humanities, and cultural analysis to examine moral and ethical dimensions of contemporary environmental and agricultural questions. She employs ethnographic and textual analysis, environmental humanities frameworks, interdisciplinary cultural critique, and analysis of narrative and moral imagination in belief systems and practices. Research systems include cultural and religious systems shaping environmental values, food and agriculture as sites of ethical inquiry, and environmental storytelling and moral frameworks in religion.
+
+Notable Publications:
+- Growing Stories: Religion and the Fate of Agriculture - examining religious narratives and agricultural practice
+- Living Sustainably: What Intentional Communities Can Teach Us about Democracy, Simplicity, and Nonviolence
+- Publications in Zygon: Journal of Religion and Science and Journal of Agricultural and Environmental Ethics
+- Articles on religion and the global food crisis, ecological narrative, and moral imagination in agricultural practice
+
+Policy Relevance:
+Dr. Sanford's research elucidates how religious and cultural narratives shape values and ethical frameworks around food, agriculture, and environmental stewardship, informing sustainability discourse and moral reasoning in environmental policy contexts. She contributes deep cultural and ethical insight into how worldviews and belief systems influence perceptions of environmental and agricultural issues, informing more holistic understandings of sustainability, justice, and practice. Her work addresses how cultural and religious narratives structure human engagement with food, agriculture, and the environment, offering interpretive insight into ethical and value dimensions underlying environmental decision-making. Her work influences narrative and value framing in sustainability discourse, cultural ethics of food and agriculture, and environmental humanities in policy and education.
 
 Keywords:
-Water Institute affiliate; Religion.
+religion; environmental ethics; food systems; agriculture; sustainability; environmental humanities; Hinduism; South Asian religions; narrative; moral imagination; cultural values; intentional communities; social equity; environmental discourse

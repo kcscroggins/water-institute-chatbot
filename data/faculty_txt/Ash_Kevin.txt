@@ -2,12 +2,23 @@ Name: Kevin Ash
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Geography
 Email: kash78@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=RlDYgpkAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Hazard vulnerability, Risk perception, Climate hazards, GIS and geospatial analysis
+
+Education:
+- Ph.D. Geography, University of South Carolina (2015)
+- M.S. Geography, University of Florida (2010)
+- Postdoctoral Fellow, National Center for Atmospheric Research (2017-2018)
 
 Research Focus:
-Dr. Ash is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Geography.
+Dr. Ash is a human-environment geographer focused on environmental hazards and actionable earth system science. His research centers on social vulnerability, risk communication, risk perception, and decision-making for weather and climate related hazards in the southeastern USA. He co-leads the Climate Risk and Storm Hazards (CRASH) Lab with Dr. Katy Serafin. Primary analysis tools are geospatial and statistical modeling.
+
+Notable Projects:
+- Composite Red Tide Vulnerability Index (CRTVI) - assessing coastal community vulnerability to Red Tide in Florida (2023-2024)
+- Tornado Sheltering Perceptions during COVID-19 Pandemic (NOAA, 2020-2021)
+- Tornadoes and Mobile Homes vulnerability study (NOAA, 2017-2020)
 
 Keywords:
-Water Institute affiliate; Geography.
+Hazard vulnerability and resilience; risk perception and communication; GIS and geospatial analysis; climate hazards; evacuation behavior; disaster loss data; Red Tide.

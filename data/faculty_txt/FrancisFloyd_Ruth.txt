@@ -1,13 +1,35 @@
 Name: Ruth Francis-Floyd
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Veterinary Medicine
+Role: Professor and Extension Veterinarian; Affiliate Faculty, UF Water Institute
+Academic Unit: College of Veterinary Medicine
 Email: rffloyd@ufl.edu
 
 Subject Areas:
-Water-related research
+Aquatic Animal Health, Fish Pathology, Aquaculture, Water Quality Management, Disease Diagnostics, Extension Education
 
 Research Focus:
-Dr. Francis-Floyd is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Veterinary Medicine.
+Ruth Francis-Floyd is a nationally recognized aquatic animal health veterinarian whose work focuses on fish health, aquaculture systems, disease diagnostics, and water quality management. Her research areas include aquatic animal health and pathology, aquaculture systems management, fish disease diagnosis and prevention, water quality management for aquaculture, Extension education for producers and agencies, and risk communication for aquatic health. She explains how water chemistry, nutrients, and management practices directly affect fish health, disease risk, and system sustainability, translating veterinary and aquatic science into practical guidance for producers, Extension agents, regulators, and hobbyists.
+
+Selected Publications:
+- "Water quality management for fish culture" (EDIS) - Core reference linking nutrient concentrations to fish health and mortality
+  PDF: https://edis.ifas.ufl.edu/pdf/FA/FA002/FA002.pdf
+- "Ammonia toxicity in fish" (EDIS FA-16) - Definitive Extension reference on nutrient waste accumulation and toxicity thresholds
+  PDF: https://edis.ifas.ufl.edu/pdf/FA/FA016/FA016.pdf
+- "Nitrite toxicity in fish" (EDIS) - Nitrogen cycling failures and health impacts in aquaculture systems
+  PDF: https://edis.ifas.ufl.edu/pdf/FA/FA028/FA028.pdf
+- "Fish health management in aquaculture" (Southern Regional Aquaculture Center) - Widely used training manual for producers and regulators
+  PDF: https://srac.tamu.edu/index.cfm/event/getFactSheet/whichfactsheet/63/
+- "Stress and disease in cultured fish" (SRAC) - Environmental stressors including poor water quality linked to disease outbreaks
+  PDF: https://srac.tamu.edu/index.cfm/event/getFactSheet/whichfactsheet/59/
+
+Water & Policy Relevance:
+- Excess nitrogen from runoff causing acute and chronic fish health impacts
+- Operational nutrient thresholds used by producers and agencies
+- Health-based evidence supporting upstream nutrient management
+- Aquaculture systems as early-warning indicators of nutrient imbalance
+- Ammonia and nitrite toxicity thresholds for aquatic life
+- Biological endpoints for water quality standards
+- Connecting water chemistry to pathological outcomes
+- Applied guidance for aquaculture regulation and management
 
 Keywords:
-Water Institute affiliate; Veterinary Medicine.
+Aquatic animal health; fish health; aquaculture; water quality; ammonia toxicity; nitrite toxicity; fish pathology; disease diagnostics; Extension veterinarian; nutrient thresholds; aquatic systems; SRAC; Water Institute affiliate

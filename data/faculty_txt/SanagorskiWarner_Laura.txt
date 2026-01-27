@@ -1,13 +1,30 @@
-Name: Laura Sanagorski Warner
+Name: Laura A. Warner
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Agricultural Education and Communications
+Academic Unit: Agricultural Education and Communication
 Email: lsanagorski@ufl.edu
+Title: Professor; Extension Education Specialist
+
+Google Scholar: https://scholar.google.com/citations?user=-i98En8AAAAJ&hl=en
+Website: https://aec.ifas.ufl.edu/directory/faculty/laura-warner/
 
 Subject Areas:
-Water-related research
+Human dimensions of natural resource conservation, Behavioral influences on adoption of conservation practices, Social marketing for environmental behavior change, Program evaluation and needs assessment for extension programs, Sustainable landscape and water practices
+
+Education:
+- Ph.D. Agricultural Education/Extension
+- Research focus on behavior change and program evaluation
 
 Research Focus:
-Dr. Sanagorski Warner is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural Education and Communications.
+Dr. Warner is known for applying behavioral theory to environmental and natural resource extension, specializing in behavior change, social marketing, program evaluation, and the human dimensions of conservation and sustainability practices (e.g., water conservation, landscape practices). Her work focuses on why and how people adopt environmentally beneficial practices and how extension programming can better foster that adoption. She employs behavior change theory and social marketing frameworks, program design and evaluation, needs assessments and audience segmentation, and quantitative and qualitative evaluation of extension outcomes. Research systems include extension professionals and practitioners, urban residents growers and other stakeholders in conservation contexts, and audiences for water conservation and sustainable landscape practices.
+
+Notable Publications:
+- Evaluations of needs assessments and social norms for behavior change
+- Guidance on selecting and targeting behaviors that impact environmental problems
+- Studies of perceptions around water restrictions and conservation behaviors
+- Technical fact sheets supporting program implementation and evaluation in extension settings
+
+Policy Relevance:
+Dr. Warner's research and extension work inform how conservation and sustainability programs can be designed, evaluated, and implemented to effectively change stakeholder behavior and achieve environmental outcomes. She bridges behavioral science and applied extension practice, ensuring that insights about human decision-making inform environmental stewardship programs, especially in water use, landscape sustainability, and natural resource conservation. Her work elucidates how people and communities adopt conservation and sustainability practices - a core human dimension that enables environmental and resource outcomes, particularly for water and landscape stewardship. Her work influences behavior change and social marketing for conservation outcomes, evaluation and effectiveness of extension programs, and translation of research into actionable outreach strategies.
 
 Keywords:
-Water Institute affiliate; Agricultural Education and Communications.
+agricultural education; extension; behavior change; social marketing; conservation; human dimensions; program evaluation; water conservation; sustainable landscapes; needs assessment; audience segmentation; natural resource management; stakeholder engagement; adoption

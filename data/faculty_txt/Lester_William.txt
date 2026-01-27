@@ -1,13 +1,40 @@
-Name: William Lester
+Name: William J. Lester, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: IFAS Extension
+Academic Unit: UF/IFAS Extension Hernando County
 Email: wlester@ufl.edu
 
 Subject Areas:
-Water-related research
+Residential horticulture; Commercial horticulture; Plant medicine; Landscape management; Urban horticulture; Plant diagnostics; Pest identification; Septic systems; Water quality
+
+Education:
+- Ph.D.
+- Extension Agent III Emeritus, University of Florida
 
 Research Focus:
-Dr. Lester is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in IFAS Extension.
+William Lester is an Extension horticulture specialist with expertise in residential and commercial horticulture, plant medicine, and landscape/urban horticulture management. He translates horticultural science for homeowners, professionals, and Extension audiences and collaborates on natural resource and landscape topics including water quality-relevant practices. His work addresses landscape design, plant selection, and management practices that affect nutrient retention, runoff, and soil health in urban and suburban environments.
+
+Notable Publications and Outputs:
+- Landscaping on or near Septic Drain Fields - co-authored guide addressing landscape practices around septic systems relevant to soil and water interactions
+- Septic Systems and Springs Water Quality: An Overview for Florida - Extension piece on wastewater treatment, septic systems, and implications for Florida's sandy soils and water quality
+- Plant and Pest Diagnosis and Identification Through DDIS - collaborative output on plant diagnostics for Extension professionals
+- Victory Gardeners: Gardening as Part of a Healthy Lifestyle - guide on gardener practices including nutrient and soil considerations
+- Landscaping Methods to Prevent Pests from Entering Your Home - homeowner-oriented IPM/landscape management guidance
+- Blog posts on practical horticulture topics including soil care, vegetable gardening, native plants, and landscape pest issues
+
+Extension Programs:
+- Residential and commercial horticulture education
+- Plant medicine and diagnostic services
+- Master Gardener support and training
+- Landscape management guidance for homeowners and professionals
+
+Water Institute Relevance:
+Lester's guidance on landscape practices, septic field landscaping, and water quality protection informs decisions that affect nutrient movement and soil health in urban/suburban settings. His outputs dealing with septic systems near springs explicitly connect soil drainage, plant cover, and water quality, touching on nutrient transport and soil structure in human-modified landscapes. The practices he promotes (proper landscaping around soil systems, plant selection, pest management) influence nutrient retention, runoff dynamics, and water quality outcomes at local scales.
+
+Role in Research-to-Policy Pipeline:
+Extension/implementation specialist. Bridges scientific knowledge to practical application in landscape management and horticulture, influencing how landowners and professionals adopt science-based practices that affect soil, water, and urban ecosystem outcomes.
+
+Strategic Value:
+Answers the question: "How should homeowners and landscape professionals manage ornamental and edible plantings near sensitive soil/water interfaces (e.g., septic fields, springs) to support soil and water quality?" Influences landscaping practices that mitigate nutrient runoff, residential plant decisions impacting soil and water interactions, and public understanding of soil health in landscape contexts.
 
 Keywords:
-Water Institute affiliate; IFAS Extension.
+horticulture; landscape management; plant medicine; plant diagnostics; septic systems; water quality; urban horticulture; Extension education; Hernando County; soil health; nutrient runoff; residential landscaping; pest management

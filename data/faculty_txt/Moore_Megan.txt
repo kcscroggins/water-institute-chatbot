@@ -1,13 +1,36 @@
-Name: Megan Moore
+Name: Megan E. Moore
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: UF/IFAS Extension
+Academic Unit: UF/IFAS Extension / Florida Sea Grant
 Email: me.moore@ufl.edu
+Title: Sea Grant Extension Agent II
+
+Google Scholar: https://scholar.google.com/citations?hl=en&user=uopXfE8AAAAJ
 
 Subject Areas:
-Water-related research
+Coastal and watershed management, Water quality and marine environmental stewardship, Coastal resiliency shoreline stabilization and living shorelines, Marine resource education and community engagement, Marine geochemistry and sedimentary processes
+
+Education:
+- Ph.D. Marine Geosciences, University of Miami
+- M.S. Geosciences, University of Texas at Dallas
+- B.S. Geology, University of Florida
 
 Research Focus:
-Dr. Moore is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in UF/IFAS Extension.
+Dr. Moore is a marine and coastal environmental specialist whose work weaves coastal resiliency, water quality, watershed management, and marine stewardship into community-focused Extension programming. She serves as the first Florida Sea Grant Extension Agent in Pasco County, bridging science and practice for coastal and watershed communities. Her academic background includes marine geochemistry, sedimentology, carbonate diagenesis, and fluid flow in geological environments. She translates scientific insights into community education, stewardship programs, citizen science, and coastal environmental decision-making. Research systems include Pasco County and West Central Florida coasts, Gulf of Mexico estuarine and coastal environments, and watershed-coastal interface zones.
+
+Notable Publications:
+- Internal isotopic variability of carbonate concretions and diagenetic processes
+- Dual clumped isotopes in shallow-water carbonate sediments
+- Fluid flow in low-permeable carbonate rocks and geochemical signatures
+
+Program Activities:
+- Coastal resiliency workshops and outreach
+- Water quality monitoring, stewardship, and citizen science events
+- Habitat restoration and living shoreline guidance
+- Fisheries and shellfish safety programs
+- Public education on harmful algal blooms, coastal hazards, and watershed literacy
+
+Policy Relevance:
+Dr. Moore produces place-based education and stewardship frameworks that empower stakeholders to mitigate nutrient and pollution impacts, enhance water quality, and implement sustainable shoreline practices, advancing local resilience and watershed health. Her Extension work focuses on coastal water quality, watershed management, and pollution issues, intersecting directly with nutrient transport and eutrophication challenges in coastal and estuarine systems. Her programming and education help shape community practices that influence nutrient inputs and water quality outcomes.
 
 Keywords:
-Water Institute affiliate; UF/IFAS Extension.
+Sea Grant; coastal resiliency; watershed management; water quality; living shorelines; marine stewardship; citizen science; harmful algal blooms; HABs; coastal hazards; marine geochemistry; carbonate sediments; Gulf of Mexico; Pasco County; Extension; community education

@@ -1,13 +1,35 @@
-Name: Kai Lorenzen
+Name: Kai Lorenzen, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Fisheries and Aquatic Sciences
+Academic Unit: Fisheries and Aquatic Sciences, School of Forest, Fisheries, and Geomatics Sciences
 Email: klorenzen@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=FIzWeRAAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Fisheries science; Population dynamics; Stock assessment; Quantitative ecology; Fisheries enhancement; Hatchery management; Aquaculture systems; Human dimensions; Resource conservation; Recreational fisheries
+
+Education:
+- Ph.D.
+- Distinguished Professor of Integrative Fisheries Science, University of Florida
 
 Research Focus:
-Dr. Lorenzen is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Fisheries and Aquatic Sciences.
+Dr. Lorenzen is known for integrative, trans-disciplinary research in fisheries science, combining quantitative ecology, population biology, human dimensions, and management science to address key global challenges in sustainable fisheries, fish stock assessment, enhancement and restoration, aquaculture systems, and resource conservation. His work bridges ecology with practical fisheries management worldwide, addressing marine, coastal, and inland fisheries systems globally as well as socio-ecological systems involving fisheries users and management institutions.
+
+Notable Publications:
+- Lorenzen's mortality-body size relationship ("Lorenzen curve") - widely used in stock assessment models to estimate natural mortality across fish species
+- Frameworks and models for enhancing fisheries with hatchery stock - guidelines for responsible integration of enhancement releases in management
+- Species-level and global comparative work on fisheries performance and management outcomes
+- Contributions to inland and coastal fisheries research including stock assessment methods
+- Published reviews on global fisheries performance and conceptual work on environmental stewardship in fisheries
+- High-impact interdisciplinary contributions across ecology and fisheries sciences
+
+Water Institute Relevance:
+Dr. Lorenzen's expertise in aquatic ecosystem dynamics and fish population modeling intersects with water quality and productivity - factors fundamentally influenced by nutrient availability and ecosystem condition. Fisheries science connects to aquatic ecosystem productivity and nutrient availability, since fish population dynamics depend on primary productivity and nutrient regimes in water bodies. His research informs resource management policy and stewardship frameworks for aquatic systems, which may incorporate nutrient and habitat considerations as part of broader ecosystem management approaches.
+
+Role in Research-to-Policy Pipeline:
+Research producer with global policy relevance. Research directly informs fisheries management frameworks, stock assessment models, enhancement/restoration guidelines, and international conservation initiatives (including UN assessments), making it highly relevant for both science and governance of aquatic resources.
+
+Strategic Value:
+Answers the question: "How can scientific models of fish population dynamics and enhancement be developed to support sustainable and equitable fisheries management under ecological and socio-economic constraints?" Influences fish population management strategies, quantitative assessment tools adopted in fisheries stock assessments, and integration of human and ecological dimensions in resource governance.
 
 Keywords:
-Water Institute affiliate; Fisheries and Aquatic Sciences.
+fisheries science; population dynamics; stock assessment; quantitative ecology; Lorenzen curve; fisheries enhancement; hatchery management; aquaculture; inland fisheries; marine fisheries; coastal fisheries; human dimensions; resource management; conservation; recreational fisheries

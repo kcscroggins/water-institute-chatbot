@@ -1,13 +1,29 @@
-Name: William Overholt
+Name: William A. Overholt
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Indian River Research and Education Center - Ft Pierce
+Academic Unit: Indian River Research and Education Center (IRREC)
 Email: billover@ufl.edu
+Title: Professor (Research Faculty)
+
+Google Scholar: https://scholar.google.com/citations?user=RqVukpkAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Biological control of invasive insects, Insect ecology and population dynamics, Integrated pest management (IPM), Invasive species management, Agroecosystem and natural system protection
+
+Education:
+- Ph.D. Entomology
+- Research focus on biological control and applied entomology
 
 Research Focus:
-Dr. Overholt is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Indian River Research and Education Center - Ft Pierce.
+Dr. Overholt is known for his work in applied entomology and biological control, particularly the use of natural enemies to manage invasive insect pests affecting agricultural and natural ecosystems. His research emphasizes classical biological control programs, pest population ecology, and the evaluation of biocontrol agents for sustainable pest management. He employs field and laboratory studies of insect life history, evaluation of parasitoids and predators as biocontrol agents, population monitoring and impact assessment, and collaboration with regulatory and extension systems for deployment. Research systems include agricultural systems in Florida and the southeastern United States, tropical and subtropical ecosystems, and cropping systems and natural areas impacted by invasive pests.
+
+Notable Publications:
+- Identification and assessment of biological control agents
+- Ecology of invasive insect pests
+- Long-term effectiveness and non-target considerations of biocontrol programs
+- Publications in Biological Control, Environmental Entomology, and Journal of Applied Entomology
+
+Policy Relevance:
+Dr. Overholt's research underpins sustainable pest management strategies by providing evidence for biologically based alternatives to chemical control, informing regulatory, extension, and land-management decisions. He contributes system-level solutions for managing invasive pests that threaten crop productivity, ecosystem stability, and long-term sustainability. His work influences biological control deployment, pest management policy and practice, and reduction of chemical pesticide dependence. While not focused on soils or nutrients directly, his work influences ecosystem function and agricultural sustainability by shaping how pest pressures are managed without heavy reliance on chemical inputs.
 
 Keywords:
-Water Institute affiliate; Indian River Research and Education Center - Ft Pierce.
+entomology; biological control; invasive species; integrated pest management; IPM; pest ecology; biocontrol agents; parasitoids; predators; agricultural systems; natural ecosystems; Florida; sustainable agriculture; pest management; IRREC

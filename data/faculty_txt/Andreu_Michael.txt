@@ -1,13 +1,38 @@
-Name: Michael Andreu
+Name: Michael G. Andreu
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: School of Forest Resources and Conservation
+Academic Unit: School of Forest, Fisheries, and Geomatics Sciences
 Email: mandreu@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=w7WPj08AAAAJ&hl=en
+Website: https://ffgs.ifas.ufl.edu/faculty/andreu-michael/
 
 Subject Areas:
-Water-related research
+Forest ecology and management, Urban and urbanizing forestry, Silviculture and sustainable forest systems, Ecosystem services, Restoration ecology, Invasive species management
+
+Education:
+- Ph.D. Silviculture and Forest Protection, University of Washington
+- M.F. Forest Resource Management, Duke University
+- B.A. Natural Resources, The University of the South (Sewanee)
 
 Research Focus:
-Dr. Andreu is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in School of Forest Resources and Conservation.
+Dr. Andreu is an Associate Professor of Forest Systems at UF/IFAS with responsibilities in both teaching and extension. His research focuses on sustainable forest management and quantification of ecosystem services provided by forests. He works on issues across the wildland-urban continuum, including urban forestry, forest ecology, silviculture, and restoration ecology. His work includes public engagement in urban forestry management and determining urban forest access using criteria from the 3-30-300 rule.
+
+Extension & Outreach:
+- Extension Coordinator for the School of Forest, Fisheries, and Geomatics Sciences
+- Florida Land Steward Program: Educational programming for private forest landowners statewide
+- Urban and Urbanizing Forest Management: Technology transfer to urban forestry professionals, government officials, and citizens
+- Florida Invasive Species Partnership (FISP) and UF/IFAS Invasive Species Council coordination
+
+Teaching:
+- Dendrology and Forest Plants
+- Florida's Forest Communities
+- Management and Restoration of Invaded Ecosystems
+
+Notable Publications:
+- Urban Forest Response to Hurricane Irma: The Role of Landscape Characteristics and Sociodemographic Context (Urban Forestry & Urban Greening, 2021)
+- Extension publications on tree identification, urban forest benefits, prescribed fire, windbreak design, and ecosystem services
+
+Awards:
+- UF Superior Accomplishment Award for Extension
 
 Keywords:
-Water Institute affiliate; School of Forest Resources and Conservation.
+Water Institute affiliate; forestry; urban forestry; forest ecology; silviculture; ecosystem services; restoration ecology; invasive species; forest management; extension; Florida forests; hurricane response; land stewardship

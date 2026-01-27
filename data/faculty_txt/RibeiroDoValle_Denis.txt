@@ -2,12 +2,14 @@ Name: Denis Ribeiro Do Valle
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: School of Forest Resources and Conservation
 Email: drvalle@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=UvjweBMAAAAJ&hl=en
+Website: http://denisvalle.weebly.com
 
 Subject Areas:
-Water-related research
+Quantitative ecology, Conservation biology, Remote sensing, Decision support systems
 
 Research Focus:
-Dr. Ribeiro Do Valle is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in School of Forest Resources and Conservation.
+The Valle lab focuses on the development and application of novel quantitative methods and decision support tools to address important applied problems in ecology, conservation, and remote sensing. His work emphasizes quantitative approaches to solving practical environmental challenges through data-driven methodologies.
 
 Keywords:
-Water Institute affiliate; School of Forest Resources and Conservation.
+Quantitative ecology; conservation biology; remote sensing applications; decision support systems; statistical modeling for environmental problems.

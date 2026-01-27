@@ -1,13 +1,27 @@
 Name: Carla Brisotto
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: FIBER
+Role: Associate Director, Florida Institute for Built Environment Resilience (FIBER); Affiliate Faculty, UF Water Institute
+Academic Unit: Florida Institute for Built Environment Resilience (FIBER)
 Email: c.brisotto@ufl.edu
 
 Subject Areas:
-Water-related research
+Built Environment Resilience, Climate Adaptation, Infrastructure Systems, Interdisciplinary Research Coordination, Disaster Resilience
 
 Research Focus:
-Dr. Brisotto is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in FIBER.
+Carla Brisotto is an institute-level research administrator and program leader whose work focuses on building, coordinating, and scaling interdisciplinary resilience research at the university-government-industry interface. As Associate Director of FIBER, she plays a central role in translating research into deployable resilience solutions, coordinating across engineering, planning, policy, and environmental sciences, managing large-scale projects and stakeholder relationships, and supporting grants, partnerships, and strategic initiatives. Her functional expertise includes program and portfolio management, cross-disciplinary team building, government and community engagement, applied research deployment, and strategic planning for resilience initiatives.
+
+FIBER Focus Areas:
+- Climate resilience
+- Infrastructure adaptation
+- Disaster preparedness and recovery
+- Coastal and urban resilience
+- Policy-relevant applied research
+
+Water & Policy Relevance:
+- Climate adaptation planning
+- Resilient infrastructure design
+- Disaster risk reduction
+- Coastal and urban resilience strategies
+- Translation of research to agencies, communities, and decision-makers
 
 Keywords:
-Water Institute affiliate; FIBER.
+FIBER; built environment resilience; climate adaptation; infrastructure resilience; disaster resilience; coastal resilience; urban resilience; interdisciplinary coordination; research administration; partnerships; strategic planning; climate policy; Water Institute affiliate

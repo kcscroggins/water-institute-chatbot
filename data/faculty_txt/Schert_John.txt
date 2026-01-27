@@ -1,13 +1,33 @@
-Name: John Schert
+Name: John D. Schert
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Florida Center for Solid and Hazardous Waste Management
+Academic Unit: Florida Center for Solid and Hazardous Waste Management (Hinkley Center); Environmental Engineering Sciences / ESSIE
 Email: jschert@ufl.edu
+Title: Program Director & Associate Engineer
 
 Subject Areas:
-Water-related research
+Solid waste management systems, Hazardous waste research coordination, Waste policy and regulatory frameworks, Research funding portfolio oversight, Multi-stakeholder collaboration across universities government and industry
 
-Research Focus:
-Dr. Schert is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Florida Center for Solid and Hazardous Waste Management.
+Education:
+- Engineering background
+- Focus on environmental engineering and waste management
+
+Program Focus:
+John Schert is known for his leadership and long-term management of the Florida Hinkley Center for Solid and Hazardous Waste Management, a statewide research and outreach center established by the Florida Legislature. He has directed and coordinated research funding, stakeholder engagement, and technical assistance on solid and hazardous waste issues, helping advance knowledge and applied solutions in waste management, disposal, and environmental protection across Florida and beyond. He employs multi-stakeholder research program design, project selection and funding strategy, outreach and information dissemination on waste management topics, and technical and regulatory engagement with Florida DEP, local governments, and private sector partners. Program systems include solid and hazardous waste streams in Florida, statewide research coordination impacting multiple ecosystems and land uses, and interfaces between engineering, policy, and environmental protection.
+
+Program Activities:
+- Direction and oversight of the Hinkley Center research portfolio including hundreds of funded research projects
+- Technical reports and applied outputs for waste management stakeholders
+- Litter and solid waste studies
+- Hazardous waste technology assessments
+- Field projects with regulatory and industry partners
+- Synthesis and dissemination of best practices for solid and hazardous waste management
+- Technical publications on emissions from materials processing and acid deposition analysis
+
+Program Impact:
+His primary outputs are programmatic rather than academic publications. As director of the Hinkley Center, he has overseen and enabled hundreds of funded research projects, technical reports, and applied outputs for stakeholders. These outputs focus on practical environmental problem solving and coordinating applied research portfolios that directly influence how solid and hazardous waste issues are investigated and addressed across sectors.
+
+Policy Relevance:
+John Schert steers multi-institutional research portfolios and translational activities that shape solid and hazardous waste management practice and policy in Florida, linking engineering, regulatory, and community needs. He provides leadership and coordination that amplifies research impact on solid and hazardous waste issues, ensuring that funded projects address real-world problems and inform practice and policy across government and industry. His work influences research program strategy and funding priorities, translation of scientific findings into actionable guidance, and partnerships among universities, agencies, and stakeholders.
 
 Keywords:
-Water Institute affiliate; Florida Center for Solid and Hazardous Waste Management.
+solid waste management; hazardous waste; Hinkley Center; research coordination; waste policy; environmental protection; regulatory frameworks; stakeholder engagement; Florida DEP; waste systems; program leadership; environmental engineering; applied research

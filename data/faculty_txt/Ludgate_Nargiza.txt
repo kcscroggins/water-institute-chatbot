@@ -1,13 +1,33 @@
-Name: Nargiza Ludgate
+Name: Nargiza Ludgate, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Agricultral and Biological Engineering
+Academic Unit: Agricultural and Biological Engineering; UF/IFAS Everglades Research and Education Center
 Email: rnargiza@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=Gam9VroAAAAJ&hl=en&oi=ao
 
 Subject Areas:
-Water-related research
+Food systems research; Agricultural development; Capacity building; Gender and empowerment; Agriculture-nutrition linkages; Participatory development; International development; Smallholder agriculture
+
+Education:
+- Ph.D.
+- Research Assistant Scientist, Agricultural and Biological Engineering, University of Florida
 
 Research Focus:
-Dr. Ludgate is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultral and Biological Engineering.
+Dr. Ludgate conducts applied research on food systems, agricultural development, and capacity building, often with an emphasis on gender, empowerment, and intersectionality in agricultural and nutrition pathways. Her work bridges engineering, food systems, and international development contexts, examining how socio-cultural factors shape agricultural practice adoption and outcomes. She focuses on smallholder and developing-country agricultural systems, gender and socio-cultural dimensions of farming and nutrition, and participatory development approaches.
+
+Notable Publications:
+- Revisiting Women's Empowerment as an Agriculture-Nutrition Pathway Using the Framework of Intersectionality - examining how gender and social factors condition links between agriculture, nutrition, and empowerment
+- Conference presentations on open science and research ethics in agricultural research partnerships
+- Technical editing and contributions to landscape and agri-nutrition studies (e.g., Nepal landscape analysis reports)
+- Interdisciplinary research on food systems and development contexts
+
+Water Institute Relevance:
+Dr. Ludgate's work on food systems and agricultural development contextually intersects with farm-level nutrient management practices as part of wider discussions on agricultural sustainability. Through projects that engage with local capacity building and food systems development, she can influence agricultural practice decisions at community or policy levels, which may indirectly affect nutrient stewardship and soil health in practice settings. Insights into agriculture-nutrition linkages, empowerment, and capacity building can influence adoption of sustainable agricultural practices, including those that affect soil nutrient use and land management strategies.
+
+Role in Research-to-Policy Pipeline:
+Applied research producer and development specialist. Generates evidence on agriculture-nutrition linkages, local capacity development, and food systems practice, feeding into extension, international development programs, and interdisciplinary collaborations. Informs development programs and agricultural extension strategies with implications for sustainable practice uptake.
+
+Strategic Value:
+Answers the question: "How do social and empowerment structures shape agricultural practice adoption and nutrition outcomes?" Influences adoption and adaptation of agricultural practices, gender and socio-cultural integration into food systems policy, and development of capacity-building programs for sustainable agriculture.
 
 Keywords:
-Water Institute affiliate; Agricultral and Biological Engineering.
+food systems; agricultural development; capacity building; gender; empowerment; agriculture-nutrition linkages; international development; smallholder agriculture; participatory development; intersectionality; sustainable agriculture; Extension

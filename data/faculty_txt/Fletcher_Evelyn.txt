@@ -1,13 +1,33 @@
 Name: Evelyn Fletcher
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: IFAS Extension
+Role: Extension Agent; Affiliate Faculty, UF Water Institute
+Academic Unit: UF/IFAS Extension
 Email: pfletch@ufl.edu
 
 Subject Areas:
-Water-related research
+Agricultural Extension, Nutrient Stewardship, Soil Health, Water Quality Protection, Community Education
 
 Research Focus:
-Dr. Fletcher is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in IFAS Extension.
+Evelyn Fletcher is a UF/IFAS Extension Agent whose work centers on community-facing education and applied support for agriculture, natural resources, and environmental stewardship. Her role ensures that UF/IFAS science and BMPs are actually adopted by producers, land managers, and residents. Her program areas include nutrient stewardship and fertilizer education, soil health and land management, water quality protection, BMP adoption for agriculture and residential landscapes, and community outreach and education. Her impact is measured by practice change and adoption rates rather than publication metrics.
+
+Extension Programs:
+- Nutrient management and fertilizer education
+- Soil health and land management practices
+- Water quality protection programs
+- BMP adoption support for agriculture and residential landscapes
+- Community outreach and environmental education
+- Delivery of UF/IFAS research-based recommendations
+
+Water & Policy Relevance:
+- Improved fertilizer timing and application rates
+- Reduced over-application of nutrients
+- Increased awareness of runoff and leaching impacts
+- Adoption of UF/IFAS BMPs by producers and residents
+- Nonpoint source nutrient loading reduction
+- Soil nutrient retention improvement
+- Downstream water quality protection
+- BMAP outreach at community level
+- Bridging research and real-world behavior change
+- Last-mile delivery of UF/IFAS science to stakeholders
 
 Keywords:
-Water Institute affiliate; IFAS Extension.
+Extension; agriculture; nutrient stewardship; fertilizer education; soil health; water quality; BMPs; community outreach; environmental education; practice adoption; nutrient reduction; Water Institute affiliate

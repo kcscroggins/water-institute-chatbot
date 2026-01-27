@@ -1,13 +1,29 @@
-Name: Edward Phlips
+Name: Edward J. Phlips
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Fisheries and Aquatic Sciences
 Email: phlips@ufl.edu
+Title: Professor
+
+ResearchGate: https://www.researchgate.net/profile/Edward-Phlips
 
 Subject Areas:
-Water-related research
+Limnology and aquatic ecology, Harmful algal blooms (cyanobacteria and other phytoplankton), Nutrient enrichment and eutrophication, Water quality assessment and monitoring, Freshwater and estuarine ecosystem dynamics
+
+Education:
+- Ph.D. Aquatic Ecology/Limnology
+- Research focus on phytoplankton ecology and water quality
 
 Research Focus:
-Dr. Phlips is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Fisheries and Aquatic Sciences.
+Dr. Phlips is known for his work in aquatic ecology and limnology, with a strong focus on phytoplankton ecology, harmful algal blooms (HABs), nutrient dynamics, and water quality in freshwater and estuarine systems. His research connects nutrient inputs, physical conditions, and biological responses to explain bloom formation and ecosystem change, particularly in human-impacted waters. He employs field-based water quality and biological monitoring, phytoplankton identification and community analysis, nutrient and chlorophyll measurements, and long-term ecological datasets and comparative system analysis. Research systems include lakes rivers springs and estuaries, Florida aquatic systems including subtropical nutrient-sensitive waters, and managed and impacted freshwater environments.
+
+Notable Publications:
+- Drivers of harmful algal bloom formation
+- Relationships between nutrient loading and phytoplankton response
+- Indicators and thresholds for water-quality impairment
+- Publications in Hydrobiologia, Lake and Reservoir Management, Freshwater Biology, and Journal of Phycology
+
+Policy Relevance:
+Dr. Phlips's work provides the scientific basis for diagnosing and managing nutrient pollution and harmful algal blooms, informing monitoring programs and regulatory decision-making. He supplies process-based ecological understanding of how nutrient enrichment translates into harmful biological outcomes, a key link between land use, water management, and ecosystem health. His research directly addresses how nutrient inputs and physical conditions affect biological responses in aquatic systems, making it central to understanding eutrophication, HABs, and water-quality degradation. His work influences water-quality assessment and monitoring, nutrient management thresholds, and interpretation of algal bloom events for management and policy.
 
 Keywords:
-Water Institute affiliate; Fisheries and Aquatic Sciences.
+aquatic ecology; limnology; phytoplankton; harmful algal blooms; HABs; cyanobacteria; eutrophication; nutrient dynamics; water quality; freshwater; estuarine; Florida; lakes; rivers; springs; monitoring; chlorophyll; bloom formation

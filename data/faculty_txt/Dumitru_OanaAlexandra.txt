@@ -2,12 +2,24 @@ Name: Oana-Alexandra Dumitru
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Geological Sciences
 Email: odumitru@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=Ufu28IwAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Paleoclimatology, Sea level reconstruction, Geochronology, Cave deposits
+
+Education:
+- Ph.D. Geology, University of South Florida
+- Ph.D. Environmental Science, Babes-Bolyai University, Romania
+- M.S. Electrochemistry, Babes-Bolyai University
+- B.S. Chemistry, Babes-Bolyai University
 
 Research Focus:
-Dr. Dumitru is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Geological Sciences.
+Dr. Dumitru is a carbonate geochemist and paleoclimatologist interested in reconstructing past sea level and climate changes across glacial-interglacial timescales. An important part of her work is U-series (U-Th) dating by multi collector ICP-MS for precise measurements of U and Th isotopes to determine timing of events and rates of natural processes. Her doctoral research used cave deposits from Mallorca Island for paleoclimate reconstruction.
+
+Notable Achievements:
+- 2020 Quaternary Young Investigator Award (MDPI)
+- 655+ citations on Google Scholar
+- Research interests in paleo sea level, paleoclimate, U-series, and radon
 
 Keywords:
-Water Institute affiliate; Geological Sciences.
+Paleoclimatology; sea level reconstruction; U-series geochronology; cave deposits; speleothems; carbonate geochemistry; Quaternary climate; Mediterranean paleoclimate.

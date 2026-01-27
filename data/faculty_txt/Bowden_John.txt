@@ -2,12 +2,20 @@ Name: John Bowden
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Veterinary Medicine
 Email: john.bowden@ufl.edu
+Google Scholar: https://www.researchgate.net/profile/John_Bowden2
+Website: https://www.vetmed.ufl.edu/about-the-college/directories/faculty/john-bowden/
 
 Subject Areas:
-Water-related research
+Mass spectrometry, Lipidomics, PFAS contamination, Environmental chemistry, Wildlife health
 
 Research Focus:
-Dr. Bowden is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Veterinary Medicine.
+Dr. Bowden's laboratory employs mass spectrometric methods at the chemistry-biology interface, with emphasis on environmental contaminant exposure and health outcomes. His work integrates external exposure measures (anthropogenic pollutants) with internal biomarkers (lipids, hormones) to understand disease mechanisms. Current investigations center on per- and polyfluoroalkyl substances (PFAS), lipidomics, and metabolomics applications across environmental and clinical domains.
+
+Notable Publications:
+- "Statewide Surveillance and Mapping of PFAS in Florida Surface Water" (ACS ES&T Water, 2024)
+- "Crowdsourcing citizens for statewide mapping of PFAS in Florida drinking water"
+- Multi-omics investigations of coral responses to environmental stressors
+- 70+ peer-reviewed articles (2023-2025)
 
 Keywords:
-Water Institute affiliate; Veterinary Medicine.
+Mass spectrometry; lipidomics; metabolomics; PFAS contamination; environmental chemistry; analytical method development; endocrine disruption; wildlife and human health exposure assessment.

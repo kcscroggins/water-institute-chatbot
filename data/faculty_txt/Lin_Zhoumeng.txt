@@ -1,13 +1,38 @@
-Name: Zhoumeng Lin
+Name: Zhoumeng Lin, B.Med, Ph.D., DABT, CPH, ERT, ATS
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Environmental Global Health
+Academic Unit: Environmental and Global Health, College of Public Health and Health Professions
 Email: linzhoumeng@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=rclLBQYAAAAJ&hl=en
+Website: https://egh.phhp.ufl.edu/profile/lin-zhoumeng/
 
 Subject Areas:
-Water-related research
+Computational toxicology; PBPK modeling; Risk assessment; Machine learning; Artificial intelligence; Toxicokinetics; Nanoparticle risk; Environmental contaminants; Food safety; Pharmacometrics
+
+Education:
+- B.Med; Ph.D.
+- DABT (Diplomate, American Board of Toxicology)
+- Associate Professor, Environmental and Global Health, University of Florida
 
 Research Focus:
-Dr. Lin is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Environmental Global Health.
+Dr. Lin is known for advancing computational toxicology and risk assessment, particularly through physiologically based pharmacokinetic (PBPK) modeling and machine learning/artificial intelligence approaches that characterize how chemicals, nanoparticles, drugs, and environmental contaminants behave in biological systems. His work spans toxicology, chemical risk assessment, nanomedicine, and food safety. He develops computational models for humans and multiple animal species to assess chemical and nanoparticle exposure pathways relevant to environment and food systems.
+
+Notable Publications:
+- AI-based quantitative structure-activity models for predicting plasma half-lives of drugs in food animals (Toxicological Sciences)
+- PBPK modeling for flunixin in cattle and swine following dermal exposure (Toxicological Sciences)
+- Machine learning PK models for nanoparticles in mice (Journal of Controlled Release)
+- PBPK model for microplastics and nanoplastics in mice and implications for human dietary exposure (Journal of Hazardous Materials)
+- Review on PBPK modeling for environmental chemicals (Environment International)
+- PBPK models for atrazine and metabolites addressing environmental contaminant kinetics
+- 100+ peer-reviewed articles integrating Bayesian modeling and deep neural networks for predictive toxicology
+
+Water Institute Relevance:
+Dr. Lin's risk assessment models for environmental chemicals and nanoparticles relate to exposure pathways involving environmental media (water, soil ingestion). PBPK and AI approaches are used in assessing human exposure from environmental sources including water and soil. His computational toxicology outputs are used by regulatory agencies (e.g., US EPA Science Advisory Committee on Chemicals), supporting environmental health policy that may include standards for chemical safety in soils and waters. His work addresses how chemicals delivered through environmental media distribute and affect organisms, which is crucial for risk assessment and setting safety standards.
+
+Role in Research-to-Policy Pipeline:
+Research producer and translational risk scientist. Develops and applies computational models and AI tools that support evidence-based decision making in environmental and human health risk assessment, informing regulatory assessments and public health policy frameworks including environmental safety standards.
+
+Strategic Value:
+Answers the question: "How can mechanistic and AI-assisted modeling better predict internal doses and risks from environmental chemical exposures?" Influences computational frameworks for chemical exposure and risk estimation, integration of machine learning/AI into toxicological evaluation, and regulatory toxicology and environmental safety policy.
 
 Keywords:
-Water Institute affiliate; Environmental Global Health.
+computational toxicology; PBPK modeling; physiologically based pharmacokinetic; risk assessment; machine learning; artificial intelligence; toxicokinetics; nanoparticles; environmental contaminants; microplastics; food safety; regulatory toxicology; chemical exposure; environmental health

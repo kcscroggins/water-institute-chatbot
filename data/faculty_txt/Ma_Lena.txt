@@ -1,13 +1,34 @@
-Name: Lena Ma
+Name: Lena Q. Ma, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Soil and Water Sciences
+Academic Unit: Soil, Water, and Ecosystem Sciences
 Email: lqma@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=vvoojNEAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Trace metal biogeochemistry; Soil contamination; Soil remediation; Arsenic; Phytoremediation; Contaminant fate and transport; Soil-water interactions; Environmental chemistry; Plant-soil interactions; Water quality
+
+Education:
+- Ph.D.
+- Professor, Soil, Water, and Ecosystem Sciences, University of Florida
 
 Research Focus:
-Dr. Ma is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Soil and Water Sciences.
+Dr. Ma is a soil and environmental chemist whose research focuses on the biogeochemistry of trace metals, soil contamination, remediation, and contaminant fate and transport in soil-water-plant systems. She studies trace metal biogeochemistry in soils and sediments, remediation processes, fate and transport of metals and metalloids (e.g., arsenic, copper), phytoremediation and plant-soil interactions with contaminants, and the impact of contaminants on water quality and ecosystem health.
+
+Notable Publications:
+- Arsenic phytoremediation research showing Chinese brake fern (Pteris vittata) can hyperaccumulate arsenic from contaminated soils - advancing phytoremediation science
+- Soil metal contamination studies on copper and trace metals in Indian River area soils - risks to plant health and water quality
+- Soil-water metal cycling and remediation studies involving extraction methods, anaerobic digestion, and trace metal chemistry
+- Background soil metal mapping projects linking GIS soil metal data with environmental analysis
+- Extensive peer-reviewed publications on trace element dynamics, soil chemistry, and remediation technology
+
+Water Institute Relevance:
+Dr. Ma's work directly addresses trace metal cycling and the fate and transport of contaminants in soil-water systems, contributing to understanding how soil properties and contaminants interact with water movement and plant uptake - relevant to nutrient/contaminant loss pathways. Her research elucidates chemical and biological processes controlling metal speciation, adsorption/desorption, and remediation, enabling interpretations of nutrient-contaminant co-mobilization and implications for water quality. The processes she studies (metal-soil interactions, plant uptake) overlap with mechanisms that affect nutrient mobility and water quality, particularly in urban or industrially impacted landscapes.
+
+Role in Research-to-Policy Pipeline:
+Research producer and applied solutions specialist. Generates mechanistic understanding of contaminant behavior and remediation strategies, informing regulatory criteria, environmental risk assessments, and practical soil/water management approaches. Evidence supports soil quality standards, risk assessment practices, and water quality protection policies.
+
+Strategic Value:
+Answers the question: "How do trace metals and contaminants interact with soil and water, and how can these processes be manipulated to remediate contaminated environments?" Influences design and evaluation of soil contamination remediation methods, understanding of metal mobility and plant uptake mechanisms, and evidence used in environmental risk frameworks and regulatory criteria.
 
 Keywords:
-Water Institute affiliate; Soil and Water Sciences.
+trace metals; soil contamination; remediation; phytoremediation; arsenic; copper; biogeochemistry; soil chemistry; contaminant fate; contaminant transport; soil-water interactions; plant uptake; environmental chemistry; water quality; risk assessment

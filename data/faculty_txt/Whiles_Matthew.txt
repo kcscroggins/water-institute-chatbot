@@ -2,6 +2,7 @@ Name: Matthew Whiles
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Soil and Water Sciences
 Email: mwhiles@ufl.edu
+Google Scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&user=AnT99JsAAAAJ&gmla=AJsN-F72XRuIdEJANqxdRuXl9r0xQtgabv6tQuxzWQfCzqM-XkcqrmZuX7OpqZVJlOK5RLRdIHUmuEVHehadsqXEvBTOQdZNB5GIMKCyb5b_dFODNdxGPgE
 
 Subject Areas:
 Water-related research

@@ -2,12 +2,14 @@ Name: Christopher Dutton
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Biology
 Email: duttonc@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=9XVBPX0AAAAJ&hl=en
+Website: https://ufduttonlab.github.io/
 
 Subject Areas:
-Water-related research
+Microbiome research, Ecosystem health, Conservation, Open-source technologies
 
 Research Focus:
-Dr. Dutton is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Biology.
+The Dutton Lab uses microbiomes to understand ecosystem, animal, and human wellbeing. Work spans academic, non-governmental, and governmental partnerships across the US and Africa, with emphasis on open-source methodologies. Research activities include fish sampling initiatives, artificial stream studies, and ecosystem/microbiome investigations.
 
 Keywords:
-Water Institute affiliate; Biology.
+Microbiome research; ecology and conservation; ecosystem health; animal welfare; human health applications; open-source technologies; field sampling methods.

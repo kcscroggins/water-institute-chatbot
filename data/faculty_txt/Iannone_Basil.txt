@@ -1,13 +1,28 @@
 Name: Basil Iannone
-Role: Affiliate Faculty, UF Water Institute
+Role: Associate Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: School of Forest Resources and Conservation
 Email: biannone@ufl.edu
 
 Subject Areas:
-Water-related research
+Forest Ecology, Disturbance Ecology, Invasive Species, Long-Term Ecosystem Change, Human-Environment Interactions
 
 Research Focus:
-Dr. Iannone is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in School of Forest Resources and Conservation.
+Basil Iannone is a forest ecologist specializing in disturbance, invasive species, and long-term ecosystem change in managed and natural forests. His research areas include forest and ecosystem ecology, disturbance regimes (fire, storms, land-use change), invasive species impacts, long-term ecological change and resilience, and human-environment interactions in forest systems. His work provides empirical and conceptual evidence that informs forest management, conservation planning, and restoration policy, explaining how human activities, invasive species, climate stressors, and management interventions reshape forest structure and function over time.
+
+Selected Publications:
+- Peer-reviewed research on long-term forest change and disturbance-driven dynamics integrating historical and modern data
+- Studies examining how invasive species and altered disturbance regimes affect forest composition and ecosystem services
+- Conceptual work connecting human decision-making to ecological outcomes in forested landscapes
+
+Water & Policy Relevance:
+- Forest disturbance regulating soil carbon storage and nutrient retention
+- Biogeochemical cycling affected by management and disturbance
+- Changes in forest structure affecting erosion, runoff, and nutrient delivery
+- Forest management strategies for ecosystem resilience
+- Conservation planning under climate and disturbance risk
+- Long-term ecosystem resilience assessments
+- Human-driven disturbances altering nutrient retention capacity
+- Invasive species effects on forest ecosystem function
 
 Keywords:
-Water Institute affiliate; School of Forest Resources and Conservation.
+Forest ecology; disturbance ecology; invasive species; long-term change; ecosystem resilience; forest dynamics; land-use change; conservation; forest management; carbon storage; nutrient retention; Water Institute affiliate

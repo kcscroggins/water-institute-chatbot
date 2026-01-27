@@ -1,13 +1,37 @@
 Name: Jonathan Crane
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Tropical Research and Education Center Homestead
+Role: Professor (Extension & Research); Affiliate Faculty, UF Water Institute
+Academic Unit: UF/IFAS Tropical Research and Education Center (TREC), Homestead
 Email: jhcr@ufl.edu
 
 Subject Areas:
-Water-related research
+Tropical Fruit Horticulture, Crop Nutrition, Irrigation Management, Calcareous Soils, Cultivar Evaluation
 
 Research Focus:
-Dr. Crane is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Tropical Research and Education Center Homestead.
+Jonathan Crane is a nationally and internationally recognized tropical fruit horticulturist whose work centers on production systems, cultivar performance, and management of tropical and subtropical fruit crops in South Florida. His expertise spans tropical and subtropical fruit crops (mango, avocado, lychee, longan, sapodilla, jackfruit), crop nutrition and fertilization, irrigation and water management, soil management in calcareous (rockland) soils, cultivar evaluation and performance, and orchard establishment and management. His work is deeply tied to South Florida's limestone-based soils, which behave very differently from typical mineral soils in terms of nutrient retention and loss.
+
+Selected Publications:
+- "Crop nutrient management in tropical fruit orchards" (HortTechnology) - Foundational guidance on fertilizer timing, rates, and nutrient deficiencies
+  PDF: https://journals.ashs.org/horttech/downloadpdf/journals/horttech/19/2/article-p250.pdf
+
+EDIS Extension Publications:
+- "Avocado growing in the Florida home landscape" (HS44) - Standard avocado management reference including soil, water, and nutrient guidance
+  PDF: https://edis.ifas.ufl.edu/pdf/HS/HS44/HS44.pdf
+- "Mango growing in the Florida home landscape" (HS2) - Mango nutrition, irrigation, and soil constraints
+  PDF: https://edis.ifas.ufl.edu/pdf/HS/HS2/HS2.pdf
+- "Longan growing in the Florida home landscape" (HS3) - Fertilization and water management in high-leaching environments
+  PDF: https://edis.ifas.ufl.edu/pdf/HS/HS3/HS3.pdf
+- "Lychee growing in the Florida home landscape" (HS5) - Nutrient deficiencies and irrigation in calcareous soils
+  PDF: https://edis.ifas.ufl.edu/pdf/HS/HS5/HS5.pdf
+
+Water & Policy Relevance:
+- Nutrient management for tropical orchards on calcareous soils
+- Low nutrient retention in limestone soils
+- Nitrogen and potassium leaching risks in tropical fruit systems
+- Split fertilizer applications to reduce nutrient losses
+- Irrigation scheduling to reduce leaching and runoff
+- Specialty-crop nutrient BMPs for South Florida
+- BMAP implementation for Miami-Dade and surrounding counties
+- Micronutrient deficiencies (Fe, Zn, Mn) in alkaline soils
 
 Keywords:
-Water Institute affiliate; Tropical Research and Education Center Homestead.
+Tropical fruit; horticulture; mango; avocado; lychee; longan; calcareous soils; limestone soils; nutrient management; fertilization; irrigation; water management; nutrient leaching; South Florida; TREC; Homestead; BMPs; Extension; Water Institute affiliate

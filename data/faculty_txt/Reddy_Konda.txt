@@ -1,13 +1,28 @@
-Name: Konda   Ramesh Reddy
+Name: Konda R. Reddy
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Soil and Water Sciences
 Email: krr@ufl.edu
+Title: Distinguished Professor
 
 Subject Areas:
-Water-related research
+Wetland biogeochemistry, Nitrogen and phosphorus cycling, Carbon dynamics and greenhouse gas processes, Redox chemistry and soil-water interactions, Contaminant fate in wetland systems, Wetland restoration and ecosystem function
+
+Education:
+- Ph.D. Soil Science
+- Research focus on wetland biogeochemistry and nutrient cycling
 
 Research Focus:
-Dr. Reddy is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Soil and Water Sciences.
+Dr. Reddy is internationally known for wetland biogeochemistry, particularly nutrient cycling (nitrogen, phosphorus), redox processes, carbon dynamics, and contaminant behavior in wetlands and aquatic-terrestrial interfaces. He is a foundational figure in understanding how hydrology, soils, and biogeochemical processes interact to control ecosystem function, especially in managed and restored wetlands. He employs field and laboratory experiments in wetland and aquatic soils, biogeochemical flux measurements for nutrients and gases, soil and water chemical analyses, long-term ecosystem-scale studies, and conceptual and process-based biogeochemical modeling. Research systems include freshwater wetlands and aquatic-terrestrial transition zones, managed and restored wetlands, subtropical systems with global relevance, and strong historical connection to Everglades and similar large wetland systems.
+
+Notable Publications:
+- Author of hundreds of peer-reviewed papers and several seminal books and edited volumes on wetland biogeochemistry
+- Controls on nutrient retention and release in wetlands
+- Biogeochemical responses to hydrologic change
+- Mechanistic understanding of wetland ecosystem services
+- Publications in Biogeochemistry, Ecological Engineering, Soil Science Society of America Journal, and Wetlands
+
+Policy Relevance:
+Dr. Reddy's research underpins wetland restoration, nutrient management, and water-quality policy by explaining the biogeochemical mechanisms that control ecosystem performance. He provides foundational mechanistic understanding of how wetlands regulate nutrients and carbon, making his work central to ecosystem restoration, pollution control, and climate-relevant land management. His work directly defines how nutrients and carbon move through wetland systems, providing the scientific basis for wetland restoration, nutrient management, and water-quality protection. His research influences wetland design and restoration, nutrient retention and water-quality protection strategies, and scientific standards used in environmental regulation and assessment.
 
 Keywords:
-Water Institute affiliate; Soil and Water Sciences.
+wetland biogeochemistry; nutrient cycling; nitrogen; phosphorus; carbon dynamics; redox chemistry; soil-water interactions; wetland restoration; Everglades; freshwater wetlands; greenhouse gases; contaminant fate; ecosystem function; water quality; hydrologic change

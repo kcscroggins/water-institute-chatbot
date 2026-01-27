@@ -2,12 +2,25 @@ Name: Hamed Dalir
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Electrical and Computer Engineering
 Email: hamed.dalir@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=GVkCy7wAAAAJ
+Website: https://www.dalir.ece.ufl.edu/members
 
 Subject Areas:
-Water-related research
+Photonics, AI accelerators, Quantum sensors, Mid-IR photonics
+
+Education:
+- Ph.D., Institute of Science Tokyo
+- Postdoctoral Scholar, UC Berkeley
 
 Research Focus:
-Dr. Dalir is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Electrical and Computer Engineering.
+Dr. Dalir's research focuses on Mid-IR Photonics, On-chip Light Sources, Classical and Quantum Sensors, Ising Machines, AI Accelerators, and Photonic Integrated Circuits. His CHIP Lab develops integrated systems using engineered phase-change materials and optical elements for efficient, high-speed, low-power domain transformation. In collaboration with TSMC, he advances Indium Tin Oxide technology integration on silicon platforms.
+
+Notable Achievements:
+- 300+ peer-reviewed articles and 20+ patents
+- Stanford-Elsevier Top 2% Scientists Ranking (2024, Top 0.3% in Optics)
+- Best Project Collaboration Award from TSMC (2025)
+- Rising Star in Photonics, American Chemical Society (2025)
+- Research funded by TSMC, DOE, DARPA, AFOSR, ARO, ONR, NASA
 
 Keywords:
-Water Institute affiliate; Electrical and Computer Engineering.
+Photonics integrated circuits; AI accelerators; quantum sensors; Mid-IR photonics; semiconductor lasers; phase-change materials; high-speed computing.

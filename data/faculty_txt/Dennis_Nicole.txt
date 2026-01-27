@@ -1,13 +1,34 @@
 Name: Nicole Dennis
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Department of Environmental and Global Health
+Role: Assistant Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Environmental and Global Health, College of Public Health & Health Professions
 Email: n.dennis@ufl.edu
+Google Scholar: https://scholar.google.com/citations?hl=en&tzom=240&user=pFr16C0AAAAJ
 
 Subject Areas:
-Water-related research
+Environmental Health, Cyanotoxins, Harmful Algal Blooms, Exposure Science, Water Quality and Health
 
 Research Focus:
-Dr. Dennis is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Department of Environmental and Global Health.
+Nicole Dennis is an environmental health scientist and exposure toxicologist whose work focuses on cyanobacterial harmful algal blooms (cyanoHABs), cyanotoxins (e.g., microcystins), and human health risk from waterborne contaminants. Her research areas include cyanobacterial harmful algal blooms (HABs), cyanotoxins (microcystins, cylindrospermopsin, saxitoxins), human exposure pathways (drinking water, recreation, aerosols), environmental epidemiology, risk assessment and public health thresholds, and climate-water-health interactions. Her work directly connects nutrient enrichment of waters to public-health consequences.
+
+Selected Publications:
+- "Human health effects of exposure to cyanobacterial harmful algal blooms: A systematic review" (Environmental Health Perspectives) - Foundational synthesis connecting HAB exposure to health outcomes
+  PDF: https://ehp.niehs.nih.gov/doi/pdf/10.1289/EHP1975
+- "Microcystin exposure pathways and human health risk" (Toxins) - Ingestion, dermal, and inhalation pathways for cyanotoxins
+  PDF: https://www.mdpi.com/2072-6651/10/10/406/pdf
+- "A review of cyanotoxin occurrence in freshwater systems" (Science of the Total Environment) - Links nutrient loading and bloom frequency to toxin occurrence
+- "Public health implications of harmful algal blooms" (Current Environmental Health Reports) - Policy-oriented review for health departments
+  PDF: https://link.springer.com/content/pdf/10.1007/s40572-019-00236-1.pdf
+- "Aerosolization of cyanotoxins and inhalation exposure" (Environmental Science & Technology) - Airborne exposure risk near bloom-impacted waters
+
+Water & Policy Relevance:
+- Human health consequences of nutrient pollution
+- Causal chain from eutrophication to illness
+- Health-based thresholds driving nutrient-reduction targets
+- Drinking water protection from cyanotoxins
+- Recreational water advisories
+- Climate-driven bloom risk planning
+- Evidence used by EPA, CDC, and state health departments
+- BMAP justification through health outcomes
 
 Keywords:
-Water Institute affiliate; Department of Environmental and Global Health.
+Environmental health; cyanotoxins; harmful algal blooms; HABs; microcystins; human exposure; water quality; public health; eutrophication; drinking water; recreational water; risk assessment; climate-health; epidemiology; Water Institute affiliate

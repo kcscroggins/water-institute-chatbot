@@ -2,12 +2,30 @@ Name: Joann Mossa
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Geography
 Email: mossa@ufl.edu
+Title: Professor and Associate Chair
+
+Google Scholar: https://scholar.google.com/citations?user=PQUnq2UAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Fluvial geomorphology and river channel dynamics, Coastal and floodplain processes, River restoration and disturbed river systems, Hydrology and sediment transport, Flood and drought hazards, Remote sensing GIS LiDAR and historical hydrographic data analysis
+
+Education:
+- Ph.D. Geography, Louisiana State University
+- M.S. Geography, Louisiana State University
+- B.S. Geography, University of Wisconsin-Madison
 
 Research Focus:
-Dr. Mossa is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Geography.
+Dr. Mossa is a physical geographer and geomorphologist with an international reputation for research on fluvial and coastal geomorphology, river channel change, disturbed river systems, river restoration, floodplain dynamics, and hydrologic hazards. She generates mechanistic insights about riverine and coastal systems that inform restoration planning, water resource management, flood hazard mitigation, and environmental regulation. Research systems include large lowland rivers (e.g., Apalachicola, Mississippi, Atchafalaya), floodplain and river-coast interactions in the Gulf Coastal Plain, watershed and channel change under anthropogenic alteration, and river restoration sites (e.g., Kissimmee River). Her work uses field data, remote sensing (LiDAR), historical records, and quantitative geomorphic analysis. She has published over 100 peer-reviewed publications on rivers, sediment, flow regulation, restoration, and geomorphic responses.
+
+Notable Publications:
+- Geomorphic response to historic and ongoing human impacts in a large lowland river (Earth Surface Processes and Landforms, 2022)
+- Estimate of decadal-scale riverbed deformation and bed-load sediment transport during flood events (Earth Surface Processes and Landforms, 2022)
+- Geomorphic insights from eroding dredge spoil mounds impacting channel morphology (Geomorphology, 2021)
+- Channel and vegetation recovery from dredging of a large river (Earth Surface Processes and Landforms, 2020)
+- Floodplain response to varied flows in a large coastal plain river (Geomorphology, 2020)
+
+Policy Relevance:
+Dr. Mossa produces mechanistic evidence on how river systems respond to human disturbance and restoration, informing watershed management, flood hazard reduction, and restoration policy that influence sediment and nutrient dynamics. Her research on river sediment transport, floodplain dynamics, and channel change mechanistically involves hydrology and sediment flux — which are drivers of nutrient transport and influence soil redistribution along rivers and floodplains. The geomorphic evolution of rivers and floodplains directly affects where sediment and associated nutrients accumulate or are exported to downstream ecosystems. Her insights support restoration planning and policy that influence how river sediment and nutrient regimes are managed.
 
 Keywords:
-Water Institute affiliate; Geography.
+fluvial geomorphology; river channel change; floodplain dynamics; sediment transport; river restoration; coastal geomorphology; hydrology; flood hazards; Apalachicola River; Mississippi River; Kissimmee River; Gulf Coastal Plain; LiDAR; GIS; remote sensing; dredging; watershed management

@@ -1,13 +1,28 @@
 Name: Sebastian Galindo
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Agricultural Education and Communications
+Role: Assistant Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Agricultural Education and Communications
 Email: sgalindo@ufl.edu
 
 Subject Areas:
-Water-related research
+Agricultural Communication, Environmental Communication, Risk Communication, Science Messaging, Stakeholder Engagement, Behavior Change
 
 Research Focus:
-Dr. Galindo is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural Education and Communications.
+Sebastian Galindo is an agricultural communication scholar specializing in how environmental and agricultural science is framed, trusted, and acted upon by key stakeholder audiences. His research areas include agricultural and environmental communication, public understanding of science, risk communication and trust, science framing and messaging strategies, and stakeholder engagement and behavior change. His work targets the translation and adoption interface, shaping how scientific and technical knowledge becomes actionable for producers, communities, and policymakers.
+
+Selected Publications:
+- Peer-reviewed studies on how agricultural audiences perceive environmental risk including water quality and sustainability issues
+- Research evaluating message framing, credibility, and trust in agricultural and environmental contexts
+- Work informing best practices for science communication related to controversial or high-stakes environmental topics
+
+Water & Policy Relevance:
+- Communication strategies increasing public trust and practice adoption
+- How soil health, nutrient loss, and water quality science should be communicated
+- Identifying communication failures preventing BMP adoption
+- Improving Extension and agency messaging effectiveness
+- Public and producer trust in environmental science
+- Addressing the human decision bottleneck in soil and water systems
+- Evidence-based messaging for environmental programs
+- Stakeholder engagement for water quality initiatives
 
 Keywords:
-Water Institute affiliate; Agricultural Education and Communications.
+Agricultural communication; environmental communication; risk communication; science messaging; trust; stakeholder engagement; behavior change; BMP adoption; public understanding of science; Extension communication; Water Institute affiliate

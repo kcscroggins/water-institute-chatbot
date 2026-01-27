@@ -1,13 +1,35 @@
-Name: Jonathan Martin
+Name: Jonathan B. Martin, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Geological Sciences
 Email: jbmartin@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=pRh2pjMAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Hydrogeology; Geochemistry; Karst aquifers; Coastal aquifers; Groundwater-surface water interaction; Nutrient fluxes; Carbon cycling; Submarine groundwater discharge; Water-rock interactions; Sea-level change
+
+Education:
+- Ph.D.
+- Distinguished Professor and Associate Chair, Geological Sciences, University of Florida
 
 Research Focus:
-Dr. Martin is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Geological Sciences.
+Dr. Martin is a hydrogeologist and geochemist known for his work on water-rock interactions, karst and coastal aquifers, groundwater-surface water exchange, and biogeochemical fluxes of solutes (including nutrients and carbon) through complex hydrogeologic systems, especially in Florida's carbonate aquifers and coastal settings. He studies the Floridan carbonate aquifer system and springs networks, coastal aquifers and subterranean estuaries (Indian River Lagoon, Yucatan, Bahamas), and deglaciated watersheds (Greenland) focusing on weathering and solute delivery.
+
+Notable Publications:
+- Carbon and phosphorus processing in carbonate aquifers and delivery to coastal ocean - mechanistic geochemistry of nutrient and carbon fluxes through karst systems
+- Sources and sinks of CO2 and CH4 in subterranean estuaries - linking organic matter and greenhouse gases in coastal aquifer environments
+- Effects of short-term sea-level variations on dissolved oxygen in coastal karst aquifers - integrating hydrology with dissolved gas and solute dynamics
+- Groundwater-estuary mixing and nutrient/solute transport - submarine groundwater discharge and implications for nutrient loading to coastal waters
+- Studies on redox controls, metal mobilization, and greenhouse gas dynamics in aquifer settings
+- Hundreds of publications with 8,000+ citations across geochemistry, hydrogeology, and aquatic geochemical fluxes
+
+Water Institute Relevance:
+Dr. Martin's research directly concerns nutrient and solute fluxes (phosphorus, nitrogen, organic carbon) between groundwater, aquifers, and surface/coastal waters, especially where submarine groundwater discharge and groundwater-surface water exchange control nutrient delivery to ecosystems. His work dissects biogeochemical mechanisms (redox controls, organic carbon remineralization) that govern nutrient mobility and transformation within and between aquifers and surface water systems - central to understanding nutrient loss and retention processes. Findings on nutrient transport pathways and solute exchange influence water quality assessments, nutrient loading estimates, and understanding of how hydrologic change (sea-level rise) alters nutrient cycling.
+
+Role in Research-to-Policy Pipeline:
+Research producer with high applied relevance. Mechanistic studies of groundwater hydrology, nutrient/solute fluxes, coastal aquifer connectivity, and sea-level change impacts inform water resources management, nutrient regulation strategies, and ecosystem protection policies.
+
+Strategic Value:
+Answers the question: "How do groundwater flow paths, aquifer geochemistry, and hydrologic interactions control nutrient and carbon fluxes between terrestrial and aquatic environments?" Influences quantification of nutrient and solute transport pathways, integrated understanding of hydrologic controls on nutrient mobility, and groundwater-surface water nutrient budgets and coastal discharge influences.
 
 Keywords:
-Water Institute affiliate; Geological Sciences.
+hydrogeology; geochemistry; karst; carbonate aquifers; Floridan aquifer; groundwater-surface water interaction; submarine groundwater discharge; nutrient fluxes; carbon cycling; phosphorus; coastal aquifers; sea-level change; redox; solute transport; springs; water quality

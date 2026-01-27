@@ -1,13 +1,29 @@
-Name: Adam Munson
+Name: Adam D. Munson
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Warrington College of Business Administration
 Email: abmunson@ufl.edu
+Title: Associate Professor
+
+Google Scholar: https://scholar.google.com/citations?user=oNdkM_UAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Digital marketing and consumer engagement, Advertising influence and message framing, Consumer privacy data collection and persuasion, Decision processes in online environments, Experimental and empirical research methods in marketing
+
+Education:
+- Ph.D. Marketing, University of Texas at Austin
+- M.B.A. Marketing, University of Texas at Austin
+- B.S. Business Administration, University of Florida
 
 Research Focus:
-Dr. Munson is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Warrington College of Business Administration.
+Dr. Munson is a marketing and consumer behavior researcher known for work on digital marketing, consumer privacy, advertising effects, and online decision-making. His research explores how information and technology shape consumer attitudes and behavior in digital environments. His work contributes to understanding digital consumer behavior, advertising effectiveness, and privacy issues that inform marketing strategy and digital policy design. Research populations include digital consumers, online systems and platforms, marketing audiences and behavior change contexts, and firms and institutions adapting to digital marketing and privacy norms.
+
+Notable Publications:
+- Influence of interactive features and personalization on consumer responses to online content
+- Consumer privacy and tailored advertising - research on how privacy concerns alter data sharing and ad effectiveness
+- Digital persuasive communication strategies influencing online behaviors
+
+Policy Relevance:
+Dr. Munson produces empirical insights on how digital information and marketing influence consumer decisions and privacy attitudes, informing organizational strategy and digital communication policy. Insights into consumer engagement and information framing could inform public communication campaigns about environmental topics including soil/nutrient management or water quality. His expertise in how people interact with digital information can be useful for crafting outreach or engagement strategies around environmental topics.
 
 Keywords:
-Water Institute affiliate; Warrington College of Business Administration.
+digital marketing; consumer behavior; advertising; consumer privacy; online decision-making; personalization; data collection; persuasion; message framing; marketing strategy; digital communication

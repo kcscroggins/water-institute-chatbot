@@ -1,13 +1,28 @@
 Name: Masanori Fujimoto
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Soil and Water Sciences
+Role: Assistant Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Soil and Water Sciences
 Email: mfujimoto@ufl.edu
 
 Subject Areas:
-Water-related research
+Watershed Hydrology, Nutrient Transport, Water Quality Monitoring, Hydrologic Modeling, Surface-Groundwater Interactions
 
 Research Focus:
-Dr. Fujimoto is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Soil and Water Sciences.
+Masanori Fujimoto is a hydrologist and soil-water scientist specializing in field-scale and watershed-scale hydrology and water-quality research, with a focus on nutrient transport (nitrogen and phosphorus), hydrologic controls on nutrient loss, and monitoring/modeling of managed landscapes in Florida and comparable humid regions. His research areas include watershed hydrology, nutrient transport and fate (N, P), surface-groundwater interactions, water-quality monitoring and modeling, and effects of land use and management on runoff and leaching. His work directly informs best management practices (BMPs), TMDLs, and watershed restoration planning.
+
+Selected Publications:
+- Studies quantifying nutrient loads and export pathways under different hydrologic regimes
+- Work integrating high-frequency monitoring, flow measurements, and models to resolve event-driven nutrient loss
+- Analyses linking management practices and climate variability to downstream water-quality outcomes
+
+Water & Policy Relevance:
+- Measuring and modeling nutrient loss from soils via runoff and leaching
+- Resolving how hydrology, rainfall intensity, and soil properties control nutrient export
+- Nutrient-loss accounting and load estimates for watersheds
+- BMP effectiveness evaluation through field measurements
+- Watershed restoration and compliance planning support
+- TMDL development and verification
+- Event-driven nutrient loss quantification
+- Translation of management actions into measurable nutrient export outcomes
 
 Keywords:
-Water Institute affiliate; Soil and Water Sciences.
+Watershed hydrology; nutrient transport; nitrogen; phosphorus; water quality; hydrologic modeling; runoff; leaching; surface-groundwater interactions; BMPs; TMDLs; managed landscapes; Florida watersheds; Water Institute affiliate

@@ -1,13 +1,28 @@
-Name: Golmar Golmhohammadi
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Soil and Water Sciences
+Name: Golmar Golmohammadi
+Role: Assistant Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Soil and Water Sciences
 Email: g.golmohammadi@ufl.edu
 
 Subject Areas:
-Water-related research
+Soil-Water Processes, Nutrient Transport, Hydrologic Modeling, Agro-Environmental Systems, Nutrient Fate
 
 Research Focus:
-Dr. Golmhohammadi is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Soil and Water Sciences.
+Golmar Golmohammadi is a soil and water scientist specializing in modeling and analysis of nutrient transport and hydrologic controls in managed landscapes. Her research areas include soil-water processes, nutrient fate and transport (nitrogen, phosphorus), hydrologic and agro-environmental modeling, climate and management impacts on nutrient loss, and field-scale to watershed-scale analysis. Her work generates process-level and modeling evidence that feeds into BMP design, watershed assessment, and regulatory nutrient accounting.
+
+Selected Publications:
+- Studies integrating hydrology and nutrient transport models to estimate nutrient loss under varying land management and climate scenarios
+- Work examining spatial and temporal variability in nutrient export from soils
+- Contributions to decision-support and predictive frameworks for nutrient management
+
+Water & Policy Relevance:
+- Directly modeling nutrient loss pathways (runoff, leaching, hydrologic export)
+- Resolving hydrologic and management controls on nutrient losses
+- Predictive nutrient-loss estimates for policy and restoration planning
+- Evaluation of management and climate trade-offs
+- Scientific basis for nutrient reduction strategies
+- Scenario analysis for BMP effectiveness
+- Watershed-scale nutrient accounting
+- Supporting TMDL and BMAP development through modeling
 
 Keywords:
-Water Institute affiliate; Soil and Water Sciences.
+Soil and water sciences; nutrient transport; hydrologic modeling; nitrogen; phosphorus; nutrient loss; agro-environmental systems; runoff; leaching; watershed modeling; BMPs; climate impacts; Water Institute affiliate

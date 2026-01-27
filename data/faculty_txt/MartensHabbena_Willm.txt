@@ -2,12 +2,18 @@ Name: Willm Martens-Habbena
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Fort Lauderdale Research and Education Center
 Email: w.martenshabbena@ufl.edu
+Google Scholar: https://scholar.google.com/citations?hl=en&user=EvDuBbAAAAAJ
+Website: https://flrec.ifas.ufl.edu/faculty/dr-willm-martens-habbena/
 
 Subject Areas:
-Water-related research
+Microbial ecology, Biogeochemistry, Molecular microbiology, Environmental microbiology
+
+Education:
+- Ph.D. Microbiology, University of Oldenburg, Germany (2006)
+- Diplom (Master-equivalent) Biology, University of Oldenburg (2001)
 
 Research Focus:
-Dr. Martens-Habbena is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Fort Lauderdale Research and Education Center.
+Dr. Martens-Habbena's work sits at the intersection of microbiology, molecular biology and biogeochemistry. His research focuses on understanding how microorganisms drive biogeochemical cycles and their applications for human and environmental benefit. He investigates global change and sea level rise impacts on South Florida communities, explores microbial solutions to environmental challenges, and examines ecological interactions between microorganisms in complex ecosystems.
 
 Keywords:
-Water Institute affiliate; Fort Lauderdale Research and Education Center.
+Molecular microbiology; microbial physiology; biogeochemistry; Next-Generation Sequencing; bioinformatics; microbial ecology; ecosystem metabolism; sea level rise.

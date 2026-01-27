@@ -1,13 +1,39 @@
-Name: Gretchen Lescord
+Name: Gretchen Lescord, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: School of Forest, Fisheries, and Geomatics Sciencies
+Academic Unit: School of Forest, Fisheries, and Geomatics Sciences
 Email: lescord.g@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=jImRw5MAAAAJ&hl=en
+Website: https://lakewatch.ifas.ufl.edu/
 
 Subject Areas:
-Water-related research
+Limnology; Aquatic ecology; Water quality; Contaminant ecology; Mercury bioaccumulation; Arsenic dynamics; Food-web ecology; Freshwater systems; Participatory monitoring; Ecological indicators
+
+Education:
+- Ph.D.
+- Assistant Professor of Applied Limnology, University of Florida
+- Director, Florida LAKEWATCH
 
 Research Focus:
-Dr. Lescord is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in School of Forest, Fisheries, and Geomatics Sciencies.
+Dr. Lescord is an Assistant Professor of Applied Limnology and Director of Florida LAKEWATCH, one of the largest long-running participatory water quality monitoring programs globally. Her research focuses on limnology and aquatic ecology, particularly water quality, contaminant ecology (mercury and arsenic), and food-web dynamics in lakes and rivers. She studies how contaminants bioaccumulate through trophic levels, how nutrient-linked trace metal dynamics interact with organic matter and aqueous chemistry, and how ecological indicators reflect lake condition.
+
+Notable Publications:
+- The speciation of arsenic in the muscle tissue of freshwater fish (Chemosphere) - examines how arsenic forms vary within food webs, informing contaminant cycling and ecological risk
+- Biodilution of organic arsenic species in freshwater food webs - arsenic dynamics across trophic levels relevant to contaminant fate and nutrient cycling
+- Mercury biomagnification through lacustrine food webs - comparative analysis of MeHg biomagnification linking water chemistry, trophic structure, and contaminant fluxes
+- Long-term effects of water resource development on mercury and sturgeon ecology (FACETS 2024) - water-use impacts on contaminant ecology
+- LAKEWATCH outreach and community monitoring outputs - biological productivity, trophic state, and water quality indicator databases
+
+Extension Programs:
+- Florida LAKEWATCH - Director of statewide volunteer water quality monitoring program
+
+Water Institute Relevance:
+Dr. Lescord's research on contaminant bioaccumulation, nutrient-linked trace metal dynamics (mercury, arsenic), and food-web interactions addresses processes central to how nutrients and contaminants move through aquatic environments. Her work directly measures water quality, contaminant loads, trophic transfer, and ecosystem responses to nutrient gradients and chemical contaminants in lakes and rivers - integral to nutrient-loss and water quality understanding. Through LAKEWATCH, she generates sustained, applied water quality data that inform stakeholders and management decisions across Florida's freshwater systems.
+
+Role in Research-to-Policy Pipeline:
+Research producer and Extension/implementation leader. Generates scientific evidence on water quality and contaminant dynamics and applies this knowledge through community science (LAKEWATCH) to inform stakeholders, managers, and policy discussions about aquatic ecosystem condition.
+
+Strategic Value:
+Answers the question: "How do nutrient-linked contaminants like mercury and arsenic move through freshwater food webs, and how can participatory monitoring inform water quality protection?" Influences development and interpretation of community science water quality data, linking nutrient/contaminant dynamics to ecosystem indicators, and informing water quality management and monitoring policies.
 
 Keywords:
-Water Institute affiliate; School of Forest, Fisheries, and Geomatics Sciencies.
+limnology; aquatic ecology; water quality; contaminant ecology; mercury; arsenic; bioaccumulation; food-web ecology; freshwater lakes; trophic transfer; Florida LAKEWATCH; participatory monitoring; community science; ecological indicators; lake condition

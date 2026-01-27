@@ -1,13 +1,38 @@
-Name: Haywood Laughinghouse
+Name: Haywood Dail Laughinghouse IV, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Fort Lauderdale Research and Education Center
+Academic Unit: Agronomy; Fort Lauderdale Research and Education Center (UF/IFAS)
 Email: hlaughinghouse@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=bMKssuwAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Applied phycology; Cyanobacteria; Harmful algal blooms (HABs); Algal toxins; Phycoremediation; Algal ecology; Water quality; Eutrophication; Microcystin
+
+Education:
+- Ph.D.
+- Associate Professor of Applied Phycology, University of Florida
 
 Research Focus:
-Dr. Laughinghouse is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Fort Lauderdale Research and Education Center.
+Dr. Laughinghouse is an Associate Professor of Applied Phycology whose research spans cyanobacterial diversity, harmful algal blooms (HABs), toxin ecology, phycoremediation (algae-based remediation), bioremediation, and algal control in aquatic and terrestrial environments. His expertise blends ecology, systematics, toxicology, and applied mitigation strategies. He studies cyanobacterial taxonomy, genomics, molecular ecology, and algae-environment interactions in freshwater, marine, and terrestrial systems.
+
+Notable Publications:
+- Untangling filamentous marine cyanobacterial diversity - description of novel cyanobacterial taxa from South Florida
+- Genome sequences of toxic Microcystis aeruginosa strains from Florida - insights into toxin potential and bloom risks
+- Use of biochar/pyrolysis materials to improve water quality by microcystin sorption - applied water quality mitigation
+- Atmospheric progression of microcystin-LR from cyanobacterial aerosol - exposure and environmental transport of HAB toxins
+- Field identification and management of algae - practical guidance for managers dealing with algal blooms
+
+Extension Programs:
+- Volunteer Algae Monitoring Program (VAMP)
+- BMP guidance for algal control and water quality management
+
+Water Institute Relevance:
+Dr. Laughinghouse's research directly addresses how nutrient inputs (phosphorus and nitrogen loading) drive harmful algal blooms, toxin production, and aquatic health outcomes. Algal bloom dynamics are a highly relevant consequence of nutrient export from land to water systems. His work bridges nutrient drivers and ecological biological responses, making it essential to understanding nutrient effects on water quality and ecosystem health. His Extension programming supports nutrient management and algal control strategies under real-world water quality governance frameworks in Florida's lakes, estuaries, and canals.
+
+Role in Research-to-Policy Pipeline:
+Research producer with Extension translation. Generates foundational evidence on algae ecology and bloom dynamics and translates that into management practices and public guidance through monitoring programs and BMP development.
+
+Strategic Value:
+Answers the question: "How do nutrient inputs drive harmful algal blooms, toxin production, and aquatic health outcomes?" Influences understanding of cyanobacterial ecology, development of monitoring and mitigation strategies, and translation of algal science into water quality policy guidance.
 
 Keywords:
-Water Institute affiliate; Fort Lauderdale Research and Education Center.
+phycology; cyanobacteria; harmful algal blooms; HABs; microcystin; algal toxins; eutrophication; phycoremediation; water quality; algal monitoring; VAMP; Fort Lauderdale REC; nutrient loading; bioremediation

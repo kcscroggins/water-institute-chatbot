@@ -1,13 +1,35 @@
-Name: Yang Lin
+Name: Yang Lin, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Department of Soil, Water, and Ecosystem Sciences
+Academic Unit: Soil, Water, and Ecosystem Sciences
 Email: ylin2@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=TZ2NznwAAAAJ&hl=en
+Website: https://ylinterra.com
 
 Subject Areas:
-Water-related research
+Soil health; Soil biogeochemistry; Soil organic matter dynamics; Nutrient cycling; Carbon cycling; Nitrogen cycling; Phosphorus cycling; Redox processes; Legacy nutrients; Biosolids; Water quality
+
+Education:
+- Ph.D.
+- Assistant Professor (Soil Health), University of Florida
 
 Research Focus:
-Dr. Lin is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Department of Soil, Water, and Ecosystem Sciences.
+Dr. Lin is known for soil health science and biogeochemistry, focusing on soil organic matter dynamics, nutrient cycling (especially carbon, nitrogen, and phosphorus), soil redox processes, and implications for water quality and ecosystem function. Her work spans fundamental understanding of soil processes to applied nutrient management challenges. She studies soil organic matter persistence, microbial and chemical processes controlling nutrient release and retention, legacy nutrient behavior (biosolids, phosphorus), and landscape-scale nutrient transport in humid tropical and subtropical soils.
+
+Notable Publications:
+- Water balance defines a threshold in soil pH at the global scale - influential paper on soil chemistry and hydrologic controls across environments
+- Phosphorus fractionation responds to dynamic redox conditions in humid tropical forest soil - mechanistic insights into P cycling under redox influence
+- Nitrogen and carbon mineralization from organic amendments and fertilizers using incubations with sandy soils (Agriculture, 2024) - nutrient release from amendments in agroecosystems
+- Role of nutrient and energy limitation on microbial decomposition of deep carbon (JGR: Biogeosciences, 2024) - soil microbes mediating C and nutrient cycling
+- Biosolids-legacy nutrient studies assessing long-term P release and nutrient mobility in Florida sandy soils
+
+Water Institute Relevance:
+Dr. Lin's work directly quantifies nutrient cycling and soil carbon dynamics, especially how redox conditions, microbial processes, and amendment history influence phosphorus, nitrogen, and carbon behavior in soil systems. Her publications elucidate fundamental mechanisms controlling decomposition, nutrient sorption/desorption, and redox-driven nutrient mobilization - key to modeling nutrient loss pathways and water quality risk. Her research increases understanding of how nutrient residuals (e.g., from biosolids) persist or leach and how soil management practices such as cover crops influence soil organic matter and nutrient retention - central to water quality protection.
+
+Role in Research-to-Policy Pipeline:
+Research producer whose work is highly relevant for environmental science, nutrient cycling, and soil/water quality modeling, with translation into best management practices and decision support for agricultural and natural landscapes. Provides mechanistic and applied evidence on nutrient release, retention, and mobilization in soils that supports nutrient management policies and water quality protection frameworks.
+
+Strategic Value:
+Answers the question: "How do soil processes and management practices drive nutrient retention, release, and transport?" Influences soil management that reduces nutrient losses, guidelines for biosolids and organic amendment use, and integration of redox-mediated nutrient cycling into environmental risk models to interrupt pathways to water quality degradation.
 
 Keywords:
-Water Institute affiliate; Department of Soil, Water, and Ecosystem Sciences.
+soil health; soil biogeochemistry; nutrient cycling; soil organic matter; carbon cycling; nitrogen cycling; phosphorus cycling; redox processes; legacy nutrients; biosolids; water quality; microbial processes; subtropical soils; cover crops; nutrient retention

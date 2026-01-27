@@ -1,13 +1,33 @@
-Name: Rao Mylavarapu
+Name: Rao S. Mylavarapu
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Soil and Water Sciences
 Email: raom@ufl.edu
+Title: Professor & Nutrient Management Specialist; Director, IFAS Soil Testing & Analytical Laboratories
+
+Google Scholar: https://scholar.google.com/citations?user=xaek_mQAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Soil nutrient diagnostics and soil testing methodology, Nutrient cycling and fertilizer requirement calibration, Development of standardized nutrient recommendations and 4R principles, Soil amendment effects on nutrient retention and leaching, Soil quality and ecosystem service evaluation, Impact of nutrient management on water quality outcomes
+
+Education:
+- Ph.D. Soil Science, University of Florida
+- M.S. Soil Science, Andhra Pradesh Agricultural University (India)
+- B.S. Agriculture, Andhra Pradesh Agricultural University (India)
 
 Research Focus:
-Dr. Mylavarapu is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Soil and Water Sciences.
+Dr. Mylavarapu is a nationally respected soil fertility and nutrient management scientist whose work centers on soil testing and interpretation, nutrient dynamics, fertilizer recommendations, and extension-oriented nutrient stewardship. He leads UF/IFAS's Sustainable Nutrient Systems program and directs the IFAS Soil Testing & Analytical Laboratories. His research underpins science-based soil testing protocols and nutrient recommendations that feed directly into fertilizer BMPs, water quality protection strategies, and nutrient stewardship policy at regional and state levels. Research systems include Florida agricultural soils (sandy Coastal Plain, calcareous soils), crop systems including tomatoes, sugarcane, potatoes, vegetables, and soil testing laboratories and agronomic stakeholders.
+
+Notable Publications:
+- Soil testing calibration and nutrient relationships (e.g., boron methods for coastal plain soils)
+- Influence of nutrient sources on extractable phosphorus dynamics
+- Amendments (e.g., sugarcane bagasse) mitigating nutrient leaching from soils
+- Phosphorus management strategies for high-value crops (e.g., potatoes)
+- Soil column simulations of nutrient flux after inundation
+- UF/IFAS EDIS nutrient management factsheets on soil sampling, pH testing, and crop-specific nutrient recommendations
+- Impact of phosphorus on water quality educational materials
+
+Policy Relevance:
+Dr. Mylavarapu produces evidence that underpins nutrient stewardship programs and nutrient loss mitigation strategies, enabling best management practice adoption that balances crop productivity with protection of water quality. His work on soil testing, nutrient availability, fertilizer recommendations, and nutrient calibration directly informs how nutrients (N, P, K) are managed in soils and how soil nutrient status influences potential nutrient loss pathways. He has played leadership roles in regional nutrient management groups (e.g., SERA-IEG-6) and contributes to standardization of nutrient diagnostic tools used by Extension and regulatory communities. By anchoring 4R nutrient management principles and soil test-based fertilizer guidance, his outputs influence nutrient inputs, reduced runoff potential, and improved water quality outcomes.
 
 Keywords:
-Water Institute affiliate; Soil and Water Sciences.
+soil testing; soil fertility; nutrient management; nitrogen; phosphorus; potassium; fertilizer recommendations; 4R stewardship; nutrient cycling; soil amendments; biochar; bagasse; nutrient leaching; water quality; BMPs; IFAS Soil Testing Laboratory; SERA-IEG-6; Extension

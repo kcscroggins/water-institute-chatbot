@@ -1,13 +1,37 @@
-Name: Andrew Altieri
+Name: Andrew H. Altieri
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Environmental Engineering Sciences, ESSIE
+Academic Unit: Department of Environmental Engineering Sciences, ESSIE; Herbert Wertheim College of Engineering
 Email: andrew.altieri@essie.ufl.edu
+Phone: 352-392-7748
+Office: 580C Weil Hall, University of Florida, Gainesville, FL 32611
 
 Subject Areas:
-Water-related research
+Coastal and marine ecology, Coral reef ecosystems, Restoration ecology, Nature-based solutions, Ocean deoxygenation
+
+Education:
+- Ph.D. Ecology and Evolutionary Biology, Brown University
+- B.A. Marine Biology, University of California, Santa Cruz
+- Postdoctoral research at Northeastern University and Brown University
 
 Research Focus:
-Dr. Altieri is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Environmental Engineering Sciences, ESSIE.
+Dr. Altieri is an Associate Professor in Environmental Engineering Sciences and Interim Director at the Center for Coastal Solutions, where he leads the nature-based solutions program. His research examines how global drivers including habitat degradation, species invasions, extinctions, and overexploitation have cascading effects on biodiversity and emergent properties of coastal ecosystems. He employs an interdisciplinary combination of field experiments, large-scale observations, historical reconstruction, and ecophysiology techniques integrating from organism to seascape. Much of his current research focuses on ocean deoxygenation and how it affects habitat-forming species including corals, examining how dissolved oxygen depletion causes hypoxia-induced stress and mortality for scleractinian corals.
+
+Previous Position:
+- Staff Scientist, Smithsonian Tropical Research Institute, Panama
+
+Administrative Roles:
+- Interim Director, Center for Coastal Solutions, UF
+- Associate Director, Nature-Based Solutions Program
+
+Research Topics:
+- Coastal deoxygenation as a critical threat to tropical coral reefs
+- Species-specific coral hypoxic responses
+- Positive interactions as drivers of community structure on coral reefs
+- Ecological thresholds, limiting factors, and synergistic interactions
+- Conservation and sustainable solutions for coastal resilience
+
+Research Metrics:
+- 7,716+ citations (Google Scholar)
 
 Keywords:
-Water Institute affiliate; Environmental Engineering Sciences, ESSIE.
+Coastal ecology; marine ecology; coral reef ecosystems; ocean deoxygenation; hypoxia; restoration ecology; nature-based solutions; coastal resilience; species interactions; habitat degradation; biodiversity; conservation; ecosystem function; ecophysiology; environmental stress; seascape ecology.

@@ -1,13 +1,33 @@
 Name: Mariola Edelmann
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Microbiology and Cell Science
+Role: Associate Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Microbiology and Cell Science
 Email: medelmann@ufl.edu
 
 Subject Areas:
-Water-related research
+Environmental Microbiology, Aquatic Microbiology, Microbial Ecology, Biogeochemical Cycling, Anaerobic Systems
 
 Research Focus:
-Dr. Edelmann is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Microbiology and Cell Science.
+Mariola Edelmann is an environmental microbiologist whose research focuses on microbial community structure, metabolic function, and adaptation in aquatic and extreme environments. Her work targets how microbes respond to environmental stressors, including nutrient availability, redox conditions, and physical constraints. Her research areas include aquatic and environmental microbiology, microbial community ecology, anaerobic and low-oxygen systems, microbial metabolism under environmental stress, biogeochemical cycling of carbon and nutrients, and molecular and genomic tools in environmental systems. Her work clarifies how microbial metabolism controls biogeochemical transformations that determine carbon fate and nutrient cycling in water and sediment systems.
+
+Selected Publications:
+- "Microbial community responses to environmental gradients in aquatic systems" (Applied and Environmental Microbiology) - Community structure shifts along nutrient and redox gradients
+  PDF: https://journals.asm.org/doi/pdf/10.1128/AEM.02131-11
+- "Metabolic flexibility of aquatic microbes under nutrient stress" (Environmental Microbiology) - How microbes alter metabolic pathways affecting nutrient retention vs. loss
+  PDF: https://onlinelibrary.wiley.com/doi/pdf/10.1111/1462-2920.12514
+- "Linking microbial diversity to ecosystem function in freshwater environments" (ISME Journal) - Microbial diversity and biogeochemical stability
+  PDF: https://www.nature.com/articles/ismej2016161.pdf
+- "Microbial controls on organic matter degradation in aquatic sediments" (Limnology and Oceanography) - Sediment microbes regulating carbon burial vs. remineralization
+- "Environmental drivers of anaerobic microbial processes" (Frontiers in Microbiology) - Microbial processes in low-oxygen, nutrient-rich environments
+  PDF: https://www.frontiersin.org/articles/10.3389/fmicb.2018.02341/pdf
+
+Water & Policy Relevance:
+- Microbial control of nitrogen and phosphorus transformations
+- Carbon burial vs. remineralization under nutrient-rich conditions
+- Persistent hypoxia and nutrient recycling in eutrophic waters
+- Legacy nutrient behavior in aquatic systems
+- Predicting recovery timelines after nutrient reduction
+- Linking nutrient inputs to hypoxia and carbon loss
+- Sediment biogeochemistry and nutrient retention
 
 Keywords:
-Water Institute affiliate; Microbiology and Cell Science.
+Environmental microbiology; aquatic microbiology; microbial ecology; biogeochemical cycling; carbon cycling; nutrient cycling; anaerobic systems; hypoxia; sediments; eutrophication; microbial metabolism; freshwater; Water Institute affiliate

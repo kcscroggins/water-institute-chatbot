@@ -1,13 +1,33 @@
-Name: Timothy Lang
+Name: Timothy A. Lang, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Everglades Research and Education Center
+Academic Unit: Everglades Research and Education Center (UF/IFAS)
 Email: talang@ufl.edu
 
 Subject Areas:
-Water-related research
+Phosphorus cycling; Water quality; Sediment nutrient dynamics; Best management practices (BMPs); Agricultural drainage; Nutrient transport; Everglades restoration
+
+Education:
+- Ph.D.
+- Research Associate, Agricultural and Biological Engineering, University of Florida
 
 Research Focus:
-Dr. Lang is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Everglades Research and Education Center.
+Dr. Lang is a Research Associate at the Everglades Research and Education Center specializing in water quality and soil fertility research in the Everglades Agricultural Area (EAA). His work focuses on phosphorus dynamics, sediment-associated nutrient transport, and best management practices (BMPs) designed to reduce nutrient export from agricultural lands to downstream ecosystems. He quantifies biogeophysical controls on phosphorus transport including sediment adsorption/desorption, vegetation interactions, and hydrologic dynamics.
+
+Notable Publications and Outputs:
+- Best Management Practices in the Everglades Agricultural Area: Controlling Particulate Phosphorus and Canal Sediments (IFAS EDIS)
+- Environmental and management factors influencing drainage water P loads from EAA farms
+- Phosphorus sorption and sediment assessment in Everglades A.A. canals - documenting sediments as sinks and sources of phosphorus
+- Implementation and verification of BMPs for reducing P loading in Everglades Agricultural Area
+- IFAS Extension fact sheets on biochar production, sugarcane nutrient diagnostics, and environmental practice guides
+
+Water Institute Relevance:
+Dr. Lang's work directly addresses phosphorus cycling, canal sediment nutrient storage, and nutrient export to downstream ecosystems—core components of nutrient-loss pathways in agricultural watersheds. His research on particulate phosphorus and BMP effectiveness is essential for understanding how management mitigates nutrient movement into canals and surface water. Reductions in farm phosphorus loads are directly linked to water quality improvements in the Everglades ecosystem and compliance with water-quality standards, making this research critical for Everglades restoration planning.
+
+Role in Research-to-Policy Pipeline:
+Applied research producer with direct policy and management relevance. Generates quantitative evidence and practice-oriented recommendations for nutrient management programs and BMPs in agricultural watersheds, feeding into water-quality governance, conservation planning, and restoration efforts.
+
+Strategic Value:
+Answers the question: "How can phosphorus losses from agricultural systems be minimized through management practices and understanding sediment-nutrient interactions?" Influences BMP design and evaluation, nutrient monitoring in agricultural canals, and translation of research into actionable guidance for growers and regulators.
 
 Keywords:
-Water Institute affiliate; Everglades Research and Education Center.
+phosphorus cycling; water quality; sediment nutrients; BMPs; Everglades Agricultural Area; EAA; nutrient transport; agricultural drainage; particulate phosphorus; Everglades restoration; canal sediments; nutrient retention

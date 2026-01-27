@@ -1,13 +1,28 @@
 Name: Young Gu Her
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Agricultural and Biological Engineering
+Role: Assistant Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Agricultural and Biological Engineering
 Email: yher@ufl.edu
 
 Subject Areas:
-Water-related research
+Watershed Modeling, Agro-Hydrology, Nutrient Transport, Sediment Transport, Climate Scenario Analysis, Decision Support
 
 Research Focus:
-Dr. Her is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural and Biological Engineering.
+Young Gu Her is an agro-hydrologic modeler specializing in watershed-scale simulation of nutrient and sediment transport under management and climate scenarios. His research areas include watershed hydrology and water-quality modeling, nutrient and sediment transport simulation, agroecosystem and landscape-scale modeling (e.g., SWAT and related frameworks), climate and land-use change scenario analysis, and decision-support systems for water management. His work emphasizes scenario analysis to evaluate how land management, climate variability, and policy choices affect water quality, developing models and decision-support tools that agencies, planners, and researchers use to test nutrient-reduction strategies.
+
+Selected Publications:
+- Development and application of watershed-scale models quantifying nutrient loads and reduction potential under alternative BMPs
+- Studies evaluating climate variability and land-use change impacts on hydrology and nutrient export
+- Contributions to decision-support frameworks for watershed planning and regulatory assessment
+
+Water & Policy Relevance:
+- Direct modeling and quantification of nutrient loss (N, P) from agricultural landscapes
+- Resolving how hydrology, management, and climate control nutrient export
+- Nutrient-load estimation and scenario testing
+- BMP effectiveness evaluation through simulation
+- Watershed planning and regulatory modeling support
+- TMDL development and compliance assessment
+- Stress-testing nutrient policies before implementation
+- Climate change impact assessment on water quality
 
 Keywords:
-Water Institute affiliate; Agricultural and Biological Engineering.
+Watershed modeling; agro-hydrology; SWAT; nutrient transport; sediment transport; scenario analysis; decision support; water quality modeling; BMPs; TMDLs; climate impacts; Water Institute affiliate

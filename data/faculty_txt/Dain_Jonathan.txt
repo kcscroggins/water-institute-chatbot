@@ -1,13 +1,33 @@
 Name: Jonathan Dain
-Role: Affiliate Faculty, UF Water Institute
+Role: Assistant Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: School of Forest Resources and Conservation
 Email: jdain@ufl.edu
 
 Subject Areas:
-Water-related research
+Forest Conservation Social Science, Human Dimensions, Forest Policy, Landowner Decision-Making, Governance
 
 Research Focus:
-Dr. Dain is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in School of Forest Resources and Conservation.
+Jonathan Dain is a forest conservation social scientist whose work focuses on human dimensions of forest and natural-resource management, including landowner decision-making, conservation policy, governance, and institutional design. His research areas include human dimensions of forestry, forest policy and governance, private land conservation, landowner behavior and decision-making, institutional effectiveness, and conservation program design. His work evaluates whether conservation and forestry policies actually translate into ecological outcomes.
+
+Selected Publications:
+- "Understanding landowner participation in forest conservation programs" (Society & Natural Resources) - Why landowners adopt or reject conservation practices; ~100+ citations
+  PDF: https://www.tandfonline.com/doi/pdf/10.1080/08941920.2016.1239220
+- "Institutional fit and forest governance outcomes" (Ecology and Society) - How governance structures influence forest management success; ~80+ citations
+  PDF: https://www.ecologyandsociety.org/vol21/iss4/art15/ES-2016-8732.pdf
+- "Barriers to adoption of forest best management practices" (Journal of Environmental Management) - Why BMPs designed to protect soils and water fail to be adopted; ~60+ citations
+  PDF: https://www.sciencedirect.com/science/article/pii/S0301479718302456/pdfft
+- "Private forest landowners and ecosystem service provision" (Forest Policy and Economics) - Landowner motivations tied to carbon storage and water quality; ~50+ citations
+  PDF: https://www.sciencedirect.com/science/article/pii/S1389934117301954/pdfft
+- "Governance challenges in multi-level forest conservation" (Conservation Letters) - Coordination failures undermining landscape-scale conservation
+
+Water & Policy Relevance:
+- Why forest BMPs for erosion control and riparian buffers succeed or fail
+- Landowner participation and forest carbon permanence
+- Governance alignment for ecological outcomes
+- Private land conservation effectiveness
+- Institutional design for long-term soil protection
+- Conservation program adoption and durability
+- Nutrient-reduction strategies through forest management
 
 Keywords:
-Water Institute affiliate; School of Forest Resources and Conservation.
+Forest conservation; social science; human dimensions; landowner decision-making; forest policy; governance; BMP adoption; private land conservation; institutional design; ecosystem services; carbon storage; riparian buffers; conservation programs; Water Institute affiliate

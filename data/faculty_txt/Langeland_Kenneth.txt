@@ -1,13 +1,34 @@
-Name: Kenneth Langeland
+Name: Kenneth A. Langeland, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Agronomy
+Academic Unit: Agronomy; Center for Aquatic and Invasive Plants
 Email: kal@mail.ifas.ufl.edu
 
 Subject Areas:
-Water-related research
+Aquatic plant management; Invasive species; Weed ecology; Non-native plant identification; Integrated pest management; Herbicide application; Ecosystem restoration
+
+Education:
+- Ph.D.
+- Professor Emeritus, Agronomy, University of Florida
 
 Research Focus:
-Dr. Langeland is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agronomy.
+Dr. Langeland is a Professor Emeritus specializing in aquatic and invasive plant management. His extensive career has focused on weed ecology, invasive species control, and integrated plant management, especially in Florida's natural and managed ecosystems. He produces actionable guidance through EDIS fact sheets, management plans, and technical reports on invasive plant management and integrated plant control that inform land managers, conservation practitioners, and policy.
+
+Notable Publications and Outputs:
+- Brazilian Peppertree Control: SS-AGR-17/AA219 - invasive tree biology and management
+- Natural Area Weeds: Skunkvine (Paederia foetida): SS-AGR-80/WG208 - invasive wetland species management
+- Herbicides to Kill Invasive Trees in Home Landscapes: SS-AGR-127/AG259
+- Natural Area Weeds: Melaleuca Control: SS-AGR-96/AG241
+- Integrated Management of Non-Native Plants in Natural Areas of Florida - comprehensive weed management plan
+- Identification & Biology of Non-Native Plants in Florida's Natural Areas (193-page reference book)
+
+Water Institute Relevance:
+Dr. Langeland's expertise in aquatic and invasive plant management directly supports water resource protection. Invasive aquatic plants can alter hydrology, water quality, and nutrient dynamics in Florida's lakes, rivers, and wetlands. Effective invasive plant control is essential for maintaining native ecosystem function, water flow, and the ecological services that healthy aquatic systems provide. His management guidance shapes how land managers address invasive vegetation that impacts water bodies and associated ecosystems throughout Florida.
+
+Role in Research-to-Policy Pipeline:
+Applied research producer and Extension specialist. Produces practical management guidance that supports conservation policy and ecosystem stewardship by enabling effective invasive species control and informed plant management decisions.
+
+Strategic Value:
+Answers the question: "How can non-native and invasive plants be managed effectively to preserve native ecosystems and maintain landscape function?" Influences land and vegetation management practice, invasive species policy, and restoration planning for natural areas and aquatic systems.
 
 Keywords:
-Water Institute affiliate; Agronomy.
+aquatic plants; invasive species; weed management; non-native plants; herbicide application; integrated pest management; ecosystem restoration; Florida natural areas; wetland management; melaleuca; Brazilian pepper; Center for Aquatic and Invasive Plants

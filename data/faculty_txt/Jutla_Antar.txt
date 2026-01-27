@@ -2,12 +2,24 @@ Name: Antar Jutla
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: ESSIE
 Email: ajutla@ufl.edu
+Website: https://faculty.eng.ufl.edu/antarpreet-jutla/bio/
 
 Subject Areas:
-Water-related research
+Hydroepidemiology, Waterborne disease modeling, Flood forecasting, Climate-water interactions
+
+Education:
+- Ph.D. Water Resources, Civil and Environmental Engineering, Tufts University (2011)
+- M.Sc. Water Resources, University of Saskatchewan, Canada (2006)
+- M.Tech. Water Resources/Soil and Water Engineering, Punjab Agricultural University (2003)
+- B.Tech. Agricultural Engineering, Punjab Agricultural University (2001)
 
 Research Focus:
-Dr. Jutla is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in ESSIE.
+Dr. Jutla's research centers on waterborne disease epidemiology and environmental engineering. Key areas include Vibrios and cholera transmission dynamics, flood forecasting and hydrological modeling, hydroepidemiology (intersection of hydrology and disease), and climate-water-disease linkages. He serves as Professor and Director of the USGS Water Resources Research Center at UF.
+
+Notable Honors:
+- 2023 Charles S. Falkenberg Award, American Geophysical Union
+- 2018 NSF-CAREER Award
+- Best paper award (2014) from Remote Sensing and Photogrammetry Society
 
 Keywords:
-Water Institute affiliate; ESSIE.
+Hydroepidemiology; waterborne disease modeling; cholera; vibrios; flood forecasting; climate-water interactions; environmental engineering; remote sensing applications.

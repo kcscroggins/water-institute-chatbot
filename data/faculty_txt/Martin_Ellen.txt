@@ -1,13 +1,33 @@
-Name: Ellen Martin
+Name: Ellen Eckels Martin, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Geological Sciences
 Email: eemartin@ufl.edu
 
 Subject Areas:
-Water-related research
+Paleoceanography; Paleoclimatology; Isotope geochemistry; Radiogenic isotopes; Ocean circulation; Continental weathering; Marine sediments; Climate change; Carbon cycling; Glacial-interglacial cycles
+
+Education:
+- Ph.D.
+- Professor and Graduate Coordinator, Geological Sciences, University of Florida
 
 Research Focus:
-Dr. Martin is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Geological Sciences.
+Dr. Martin is a paleoceanographer and paleoclimatologist who uses radiogenic isotope geochemistry (Sr, Nd, Pb) preserved in marine sediments to reconstruct past ocean circulation, weathering processes, and climate change over geological time scales. Her research connects ocean circulation patterns, continental weathering, and biogeochemical cycles from the Cenozoic through glacial-interglacial periods. She studies deep ocean sediments, proglacial and deglaciated watershed environments, and global ocean basins including the Southern Ocean and Indian Ocean.
+
+Notable Publications:
+- Radiogenic isotope analyses (Sr, Nd) of marine sediments - using isotopic proxies to infer ancient ocean structure, weathering, and circulation
+- Isotopic stratigraphy across major geological boundaries - linking isotope records with climate transitions (Permian/Triassic, Oligocene-Miocene)
+- Collaborative articles on glacial weathering and nutrient exports - highlighting nutrient fluxes from glacial and deglaciated landscapes
+- Conference papers and chapters on proglacial weathering and marine geochemical records
+- Approximately 160 publications spanning isotope geochemistry, marine sediment records, deep ocean carbon storage proxies, and continental weathering
+
+Water Institute Relevance:
+Dr. Martin's research on weathering and isotopic geochemistry involves processes relevant to chemical weathering, nutrient release, and organic carbon transport from terrestrial to marine environments - particularly in glacial retreat contexts where weathering controls nutrient exports. Work on nutrient export from glacial and deglaciated watersheds informs how terrestrial processes influence nutrient loading to oceans and may intersect with broader biogeochemical cycles relevant to carbon and nutrient budgets. By elucidating how weathering and ocean circulation have historically regulated carbon and nutrient fluxes, her work supports Earth system understanding that underlies climate science frameworks.
+
+Role in Research-to-Policy Pipeline:
+Research producer with foundational contributions to Earth system science. Work informs understanding of long-term climate dynamics and contributes to broader frameworks used by paleoceanographers, climate modelers, and earth system scientists. Provides mechanistic insights into ancient carbon and nutrient transport processes relevant to climate policy and environmental change frameworks.
+
+Strategic Value:
+Answers the question: "How have continental weathering and ocean circulation changes historically regulated carbon and nutrient fluxes in the Earth system?" Influences high-resolution isotopic proxies for ancient climate and circulation, weathering and sediment contributions to marine chemical budgets, and paleoceanographic context for modern climate-nutrient interactions.
 
 Keywords:
-Water Institute affiliate; Geological Sciences.
+paleoceanography; paleoclimatology; isotope geochemistry; radiogenic isotopes; strontium; neodymium; lead isotopes; ocean circulation; continental weathering; marine sediments; climate change; glacial cycles; carbon cycling; deep ocean; Cenozoic

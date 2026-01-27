@@ -1,13 +1,34 @@
-Name: Sharma Lakesh
+Name: Lakesh K. Sharma, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Soil and Water Sciences
+Academic Unit: Soil and Water Sciences (Soil Fertility and Sustainable Agriculture Program)
 Email: Lakesh.sharma@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=k3jmOUIAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Soil fertility; Nutrient management; Precision agriculture; Fertilizer optimization; Best management practices (BMPs); Remote sensing; Nitrogen dynamics; Phosphorus management
+
+Education:
+- Ph.D.
+- Assistant Professor, Soil and Water Sciences, University of Florida
 
 Research Focus:
-Dr. Lakesh is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Soil and Water Sciences.
+Dr. Sharma is an Assistant Professor in Soil and Water Sciences specializing in soil fertility, nutrient management, and precision agriculture research. His work focuses on improving nutrient use efficiency and reducing nutrient loss through best management practices in cropping systems. He integrates agronomic, sensor, and economic methods to optimize fertilizer recommendations and minimize environmental impacts, particularly in Florida's sandy soils for crops including corn, cotton, potatoes, and hemp.
+
+Notable Publications:
+- Systematic review of nitrogen rates, yield, nitrate leaching, and variability - synthesizes studies on crop responses and nitrate movement
+- Optimizing and applying the CSM-CERES-Maize model for enhanced maize yield and nitrogen management in Florida sandy soils
+- Interactive study of phosphorus and sulfur application in potato for sandy soils
+- Petiole Sampling as a Tool for In-Season Nitrogen Management in Cotton (EDIS technical report)
+- Plant Essential Nutrients and Their Role: SS-AGR-463/AG462 (EDIS Extension fact sheet)
+
+Water Institute Relevance:
+Dr. Sharma's research directly addresses nutrient management and movement in soils, including nitrogen and phosphorus dynamics that are core to nutrient-loss pathways and water quality outcomes. His work on fertilizer rate optimization, remote sensing for nutrient application, and precision agriculture tools elucidates mechanisms controlling nutrient uptake, leaching, and environmental loss. His BMP recommendations and EDIS fact sheets support reduced nutrient runoff and improved water quality, directly addressing Florida's challenges with nutrient pollution in springs, lakes, and coastal waters.
+
+Role in Research-to-Policy Pipeline:
+Applied research producer with strong Extension integration. Conducts field-based and modeling research that informs nutrient management practices and BMP guidance, translating findings to producers and stakeholders.
+
+Strategic Value:
+Answers the question: "How can nutrient application be optimized so that crop yields are maximized while nutrient losses to soil and water are minimized?" Influences nutrient recommendation systems, precision agriculture adoption, and Extension-driven BMP implementation.
 
 Keywords:
-Water Institute affiliate; Soil and Water Sciences.
+soil fertility; nutrient management; precision agriculture; nitrogen; phosphorus; fertilizer optimization; BMPs; nutrient use efficiency; nitrate leaching; sandy soils; remote sensing; crop modeling; sustainable agriculture

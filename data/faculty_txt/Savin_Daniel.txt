@@ -1,13 +1,30 @@
-Name: Daniel Savin
+Name: Daniel A. Savin
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Chemistry
 Email: savin@chem.ufl.edu
+Title: Associate Professor
+
+Google Scholar: https://scholar.google.com/citations?user=qk_phCkAAAAJ&hl=en
+Website: https://savin.chem.ufl.edu/
 
 Subject Areas:
-Water-related research
+Polymer chemistry and synthesis, Self-assembly and responsiveness in block copolymers, Polymer nanocomposites and functional materials, Polymer characterization and structure-property relationships
+
+Education:
+- Ph.D. Chemistry
+- Research focus on polymer chemistry and materials science
 
 Research Focus:
-Dr. Savin is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Chemistry.
+Dr. Savin is known for his research in polymer chemistry and materials science, focusing on self-assembly of block copolymers and polymer nanostructures, polymer characterization, and development of functional polymeric materials with applications ranging from environmental remediation to impact-absorbing nanocomposites and delivery agents. He is recognized for advancing understanding of how polymer architecture and composition influence structure and properties. He employs organic synthesis of block copolymers and amphiphilic polymers, physical characterization techniques such as rheology light scattering and microscopy, design and evaluation of responsive and self-assembling polymer systems, and integration of polymer systems for remediation delivery and mechanical applications. Research systems include polypeptide and bioconjugate block copolymers, nanoparticle dispersants and organogel systems, energy-absorbing polymer composites, and functional polymeric materials with environmental and materials performance goals.
+
+Notable Publications:
+- Self-assembly and responsive block copolymers in Macromolecules and Polymer Chemistry
+- Hydration at polymer interfaces in ACS Macro Letters
+- Hollow polymer nanocapsules and peptide amphiphile assemblies in Polymer Chemistry and Biomacromolecules
+- Rheology and cavitation relationships in soft matter systems in Soft Matter
+
+Policy Relevance:
+Dr. Savin's research advances understanding of polymer structure-property relationships and supports applications in remediation, material design, and functional nanostructures, informing material selection and innovation in environmental and engineering solutions. He provides process-based understanding of how polymer composition and architecture dictate self-assembly and material performance, which is fundamental for designing advanced materials used across sectors. His research focuses on engineered polymer systems rather than environmental soil/water/nutrient processes, but his work on functional polymeric materials has implications for remediation technologies and material-based solutions in environmental and biomedical contexts. His work influences polymer design and synthesis, characterization techniques for soft matter, and functional materials for remediation delivery and mechanical performance.
 
 Keywords:
-Water Institute affiliate; Chemistry.
+polymer chemistry; materials science; block copolymers; self-assembly; nanostructures; polymer characterization; functional materials; nanocomposites; amphiphilic polymers; rheology; remediation; soft matter; structure-property relationships

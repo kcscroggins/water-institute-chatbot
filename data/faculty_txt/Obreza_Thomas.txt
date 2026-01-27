@@ -1,13 +1,31 @@
-Name: Thomas Obreza
+Name: Thomas A. Obreza
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Soil and Water Sciences
+Academic Unit: Soil, Water, and Ecosystem Sciences
 Email: obreza@ufl.edu
+Title: Professor Emeritus & Extension Soil Scientist
 
 Subject Areas:
-Water-related research
+Soil fertility and nutrient management, Soil pH and liming, Citrus nutrition and fertilization, Agricultural best management practices (BMPs), Extension education and outreach, Soil testing and interpretation
+
+Education:
+- Ph.D. Soil and Water Science, University of Florida
+- M.S. Soil Science, University of Florida
+- B.S. Soil Science, University of Florida
 
 Research Focus:
-Dr. Obreza is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Soil and Water Sciences.
+Dr. Obreza is a nationally recognized extension soil scientist and soil fertility specialist whose career has centered on nutrient management, soil testing, liming practices, and fertilization recommendations for Florida's agricultural systems, particularly citrus. He has been instrumental in translating soil science research into practical guidance for growers, extension agents, and land managers. His work directly addresses how soil chemistry, nutrient availability, and management practices affect crop productivity and environmental outcomes. Research systems include Florida agricultural soils with emphasis on citrus-producing regions, sandy soils with pH management challenges, and extension-connected farming operations.
+
+Notable Publications:
+- Extensive IFAS Extension publications on soil pH management, liming recommendations, and soil test interpretation
+- Citrus nutrition and fertilization guides that are standard references for Florida citrus growers
+- Publications on nutrient management BMPs for agricultural systems
+- Extension bulletins on soil testing procedures and fertilizer recommendations
+
+Extension Impact:
+Dr. Obreza has made significant contributions to Florida agriculture through his extension work, developing practical tools and recommendations that help growers optimize fertilizer use while minimizing environmental impacts. His soil testing interpretation guides and liming recommendations are widely used throughout Florida's agricultural community.
+
+Policy Relevance:
+Dr. Obreza provides foundational guidance on soil fertility management, nutrient application, and best management practices that directly inform agricultural nutrient stewardship and water quality protection in Florida. His work on soil pH management and fertilizer recommendations helps optimize nutrient use efficiency, reducing excess nutrient applications that can contribute to water quality impairment. Extension publications on BMPs support implementation of nutrient management strategies that protect water resources while maintaining agricultural productivity.
 
 Keywords:
-Water Institute affiliate; Soil and Water Sciences.
+soil fertility; nutrient management; soil pH; liming; citrus nutrition; fertilization; soil testing; extension; best management practices; BMPs; Florida agriculture; soil chemistry; nutrient availability; water quality; agricultural soils

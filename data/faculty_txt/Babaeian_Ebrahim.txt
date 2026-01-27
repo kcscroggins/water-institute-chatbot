@@ -2,12 +2,20 @@ Name: Ebrahim Babaeian
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Soil and Water Sciences
 Email: ebabaeian@ufl.edu
+Google Scholar: https://scholar.google.com/citations?hl=en&user=BUqGrogAAAAJ
+Website: https://soils.ifas.ufl.edu/people/faculty/ebrahim-babaeian/
 
 Subject Areas:
-Water-related research
+Soil physics, Remote sensing, Soil moisture monitoring, Environmental modeling
 
 Research Focus:
-Dr. Babaeian is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Soil and Water Sciences.
+Dr. Babaeian's work centers on mass and energy distribution and transport in soil, toward enhancing management and sustainability of environment. His research includes characterizing land surface variables using ground and remote sensing technologies, multiscale observations and data fusion techniques for soil physical properties, physics-informed and data-driven modeling approaches, and climate-related dynamics of water and energy cycles.
+
+Notable Publications:
+- Remote sensing applications for soil hydraulic property retrieval (2015)
+- Comprehensive reviews on soil moisture remote sensing across multiple platforms (2019)
+- Optical trapezoid modeling for Sentinel-2 and Landsat-8 observations (2017)
+- Shortwave infrared imaging for rapid soil hydraulic estimation (2021)
 
 Keywords:
-Water Institute affiliate; Soil and Water Sciences.
+Soil physics; remote sensing; soil moisture monitoring; hydraulic properties characterization; environmental modeling; data fusion techniques; climate and water cycle processes.

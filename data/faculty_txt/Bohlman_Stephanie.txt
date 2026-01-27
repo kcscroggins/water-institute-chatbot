@@ -1,13 +1,41 @@
 Name: Stephanie Bohlman
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: School of Forest Resources and Conservation
+Role: Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: School of Forest, Fisheries & Geomatics Sciences
 Email: sbohlman@ufl.edu
 
 Subject Areas:
-Water-related research
+Forest Ecology, Remote Sensing, Climate-Vegetation Interactions, Carbon Dynamics, Disturbance Ecology, LiDAR
+
+Education:
+- Ph.D. Ecology, University of California, Santa Barbara
+- M.S. Ecology, University of California, Santa Barbara
+- B.A. Environmental Studies / Biology, University of California
 
 Research Focus:
-Dr. Bohlman is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in School of Forest Resources and Conservation.
+Stephanie Bohlman is a forest ecologist and remote sensing scientist whose work focuses on how forests respond to climate variability, disturbance, and land-use change, particularly in tropical and subtropical systems. Her research emphasizes scaling forest processes from plots to regions, including forest structure and biomass, carbon stocks and fluxes, drought and climate stress, disturbance ecology (fire, storms, land use), and remote sensing of vegetation using LiDAR, Landsat, and MODIS. She studies tropical forests (Amazon, Central America) and subtropical systems, using field data combined with remote sensing to quantify ecosystem responses at scale. Her expertise in hurricane disturbance impacts, drought stress, and fire-climate interactions is directly relevant to Florida forest management and climate adaptation planning.
+
+Selected Publications:
+- "Individual Tree-Crown Detection in RGB Imagery Using Semi-Supervised Deep Learning Neural Networks" (Remote Sensing, 2019) - Landmark paper on deep-learning for tree crown mapping; 400+ citations
+- "Quantifying Leaf Phenology of Individual Trees and Species in a Tropical Forest Using UAV Images" (Remote Sensing, 2019)
+- "Remote Sensing of Tropical Forest Plant Composition, Diversity, and Function" (Smithsonian Press, 2024) - Synthesis chapter on remote sensing for biodiversity and ecosystem function
+- "A Forest Structure Model That Determines Crown Layers" (Functional Ecology, 2012)
+- Publications in Global Change Biology, Ecology, Biogeosciences, Remote Sensing of Environment, Journal of Geophysical Research: Biogeosciences
+- 7,800+ total citations on Google Scholar
+
+Remote Sensing Expertise:
+- Individual tree mapping using deep learning and UAV/RGB imagery
+- Phenology and functional traits from imagery
+- Structural forest models for interpreting remote sensing signals
+- LiDAR, UAV, hyperspectral, and multispectral sensor integration
+- NEON Individual Tree Crowns dataset applications
+
+Climate & Policy Relevance:
+- Forest carbon budgets and climate mitigation strategies
+- Carbon offset and REDD+ frameworks
+- Forest resilience and vulnerability under climate stress
+- Hurricane disturbance impacts (Florida-relevant)
+- Climate adaptation planning and carbon-aware land management
+- Large-scale ecosystem monitoring for state and federal land management
 
 Keywords:
-Water Institute affiliate; School of Forest Resources and Conservation.
+Forest ecology; remote sensing; LiDAR; UAV; deep learning; tree crowns; carbon dynamics; climate change; disturbance ecology; drought; hurricanes; fire; tropical forests; forest structure; biomass; phenology; carbon accounting; climate adaptation; Water Institute affiliate

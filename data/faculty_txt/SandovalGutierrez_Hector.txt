@@ -1,13 +1,26 @@
-Name: Hector Sandoval Gutierrez
+Name: Hector H. Sandoval Gutierrez
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Economics
+Academic Unit: Economics (Bureau of Economic and Business Research)
 Email: hsandoval@ufl.edu
+Title: Research Assistant Professor
 
 Subject Areas:
-Water-related research
+Applied microeconomics, Social interactions and peer effects, Social networks in economic contexts, Policy evaluation and economic analysis
+
+Education:
+- Ph.D. Economics
+- Research focus on applied microeconomics and social interactions
 
 Research Focus:
-Dr. Sandoval Gutierrez is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Economics.
+Dr. Sandoval Gutierrez is an economist whose work centers on applied microeconomics, social interactions, and economic analysis, with research that intersects peer effects, social networks, and economic behavior. He also has a background in policy analysis and evaluation from prior roles in Mexico's social development policy institutions and international organizations. He employs econometric analysis using observational data, microeconomic modeling, and applied economic evaluation frameworks. Research systems include individuals and households within economic systems, social and economic networks, and policy impacts on economic behavior.
+
+Notable Publications:
+- Empirical literature on how social and economic networks influence individual outcomes and behavior
+- Applied economic journals focusing on microeconomic behavior, social interactions, and applied econometrics
+- Policy evaluation research
+
+Policy Relevance:
+Dr. Sandoval Gutierrez's work contributes evidence-based insight into how social networks and economic behavior affect individual and policy outcomes, supporting better design and evaluation of economic and social policy interventions. He provides empirical understanding of how social and economic interactions shape behavior and outcomes, which is fundamental for designing effective economic policies and evaluating their impacts. His research does not directly address biophysical environmental processes, but contributes to understanding economic behavior and social interactions relevant to policy evaluation and economic decision-making in broader environmental and resource contexts where human behavior and incentives matter. His work influences economic behavior and policy evaluation, applied microeconomic analysis, and interpretation of social and peer effects in economic contexts.
 
 Keywords:
-Water Institute affiliate; Economics.
+economics; applied microeconomics; social interactions; peer effects; social networks; economic behavior; policy evaluation; econometrics; BEBR; economic analysis; policy design

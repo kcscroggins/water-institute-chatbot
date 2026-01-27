@@ -2,12 +2,32 @@ Name: Jasmeet Judge
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Agricultural and Biological Engineering
 Email: jasmeet@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=NKQ2xvcAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Microwave remote sensing; Hydrology; Land surface modeling; Soil moisture dynamics; Data assimilation; AI and data fusion; Crop-soil-vegetation interactions; Flood mapping
+
+Education:
+- Professor, Agricultural and Biological Engineering, University of Florida
 
 Research Focus:
-Dr. Judge is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural and Biological Engineering.
+Dr. Judge is a Professor in Agricultural and Biological Engineering specializing in microwave remote sensing, hydrology, and land surface modeling. Her research integrates remote sensing data with crop and hydrologic models to understand soil moisture, water-vegetation interactions, and land surface processes across scales. She works on data assimilation and AI/data fusion for environmental prediction, root-zone soil moisture observation, flood inundation mapping, and terrain analysis using platforms including microwave sensors, SAR, and SMAP.
+
+Notable Publications:
+- Field Observations During the Second Microwave Water and Energy Balance Experiment (MicroWEX-2) - soil moisture and remote sensing measurement dataset
+- Assimilation of SMOS Soil Moisture for Quantifying Drought Impacts on Crop Yield in Agricultural Regions
+- High-Resolution Inundation Mapping for Heterogeneous Land Covers with Synthetic Aperture Radar & Terrain Data (2020)
+- Spatial Scaling Using Temporal Correlations and Ensemble Learning to Obtain High-Resolution Soil Moisture (2018)
+- Radio Frequencies: Policy and Management - integration of remote sensing algorithms with policy considerations
+
+Water Institute Relevance:
+Dr. Judge's work on soil moisture and land surface models is fundamental for understanding water availability, infiltration, and surface-subsurface exchanges that control nutrient transport (runoff, leaching) in terrestrial systems. Remote sensing of soil moisture helps predict when and where soil is wet enough for nutrient mobilization, providing critical inputs to watershed nutrient models. Her hydrologic models inform flood and drought risk assessments that affect nutrient redistribution across Florida's landscapes.
+
+Role in Research-to-Policy Pipeline:
+Research producer (highly quantitative and modeling-oriented). Produces fundamental and applied tools used in hydrologic prediction, drought and flood analysis, soil moisture estimation, and environmental monitoring that inform water management and policy.
+
+Strategic Value:
+Answers the question: "Where and when is soil moisture changing across landscapes?" - a core determinant of nutrient transport, drought responses, and flood risk. Provides quantitative methods and remote sensing tools that improve prediction of soil and water conditions.
 
 Keywords:
-Water Institute affiliate; Agricultural and Biological Engineering.
+remote sensing; microwave remote sensing; soil moisture; hydrology; land surface modeling; data assimilation; SMAP; SAR; flood mapping; drought prediction; crop modeling; water-vegetation interactions; environmental monitoring

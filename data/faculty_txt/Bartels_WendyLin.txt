@@ -1,13 +1,33 @@
 Name: Wendy-Lin Bartels
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: School of Forest Resources and Conservation
+Role: Associate Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: School of Forest, Fisheries & Geomatics Sciences
 Email: wendylin@ufl.edu
 
 Subject Areas:
-Water-related research
+Human Dimensions, Climate Adaptation, Natural Resource Governance, Social Learning, Stakeholder Engagement, Environmental Decision-Making
+
+Education:
+- Ph.D. Natural Resources & Environment, University of Michigan
+- M.S. Conservation Biology / Environmental Studies, University of Michigan
+- B.A. Environmental Studies, University of California
 
 Research Focus:
-Dr. Bartels is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in School of Forest Resources and Conservation.
+Wendy-Lin Bartels is a human-dimensions and social science researcher whose work focuses on how people perceive, respond to, and govern environmental change. She operates at the intersection of climate adaptation, natural resource governance, social learning and decision-making, stakeholder engagement, and environmental communication. Her research centers on decision processes under uncertainty, especially in the context of climate and environmental change. She examines how managers, stakeholders, and communities interpret climate and hydrologic uncertainty, decision-making around water scarcity, flooding, and extreme events, and institutional and behavioral barriers to adaptive water management. Her work explains why technically sound environmental solutions succeed or fail once people and institutions are involved.
+
+Selected Publications:
+- "Building Community for Participatory Modeling: Network Composition, Trust, and Adaptive Process Design" (Society & Natural Resources, 2023) - Stakeholder convening, trust, and adaptive process design tied to FACETS/Floridan Aquifer work
+- "In pursuit of a homegrown biofuel: Navigating systems of partnership, stakeholder knowledge, and adoption of Brassica carinata" (Energy Research & Social Science, 2020)
+- "Climate information use among southeast U.S. water managers: Beyond barriers and toward opportunities" - How water managers actually use climate info
+- Publications in Global Environmental Change, Ecology & Society, Environmental Science & Policy, Climatic Change, Society & Natural Resources
+
+Major Projects:
+- FACETS (Farms, Forests, and Flows): Participatory stakeholder-driven modeling of the Floridan Aquifer, exploring tradeoffs between regional agricultural economy and environmental quality
+- Florida Water and Climate Alliance (FloridaWCA): Stakeholder-scientist partnership making climate data/tools usable for Florida water resource management
+
+Policy Relevance:
+- Springs Protection and Basin Management Action Plans (BMAPs): Stakeholder process design, social acceptance of BMP change, trust-building for water-quality interventions
+- Climate resilience planning for water management
+- Agricultural BMP adoption in springsheds (Suwannee River WMD context)
 
 Keywords:
-Water Institute affiliate; School of Forest Resources and Conservation.
+Human dimensions; climate adaptation; natural resource governance; social learning; stakeholder engagement; decision-making; environmental communication; water management; climate information; participatory modeling; FACETS; Floridan Aquifer; BMAPs; springs protection; FloridaWCA; coupled human-natural systems; Water Institute affiliate

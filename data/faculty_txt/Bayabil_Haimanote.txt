@@ -2,12 +2,22 @@ Name: Haimanote Bayabil
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Agricultural and Biological Engineering
 Email: hbayabil@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=fikLaCMAAAAJ&hl=en
+Website: 33031
 
 Subject Areas:
-Water-related research
+Water resources management, Precision irrigation, Saltwater intrusion, Tropical agriculture
+
+Education:
+- Ph.D. Biological and Environmental Engineering, Cornell University (2015)
 
 Research Focus:
-Dr. Bayabil is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural and Biological Engineering.
+Dr. Bayabil's research and extension program focuses on developing practical and sustainable water management practices that conserve water and improve water quality in agricultural and urban areas. His work includes variable rate irrigation (VRI) technology, impacts of saltwater intrusion and flooding on agricultural soils, and irrigation systems for tropical and subtropical fruit crops.
+
+Notable Achievements:
+- USDA/NIFA grant for integrating data from ground measurements, UAVs, and modeling to quantify evapotranspiration
+- Half million dollar NIFA grant to assess saltwater intrusion impacts in agricultural areas
+- 2020 Florida Section ASABE Outstanding Young Researcher Award
 
 Keywords:
-Water Institute affiliate; Agricultural and Biological Engineering.
+Water resources management; precision irrigation; variable rate irrigation; saltwater intrusion; evapotranspiration; tropical agriculture; soil salinity; water quality.

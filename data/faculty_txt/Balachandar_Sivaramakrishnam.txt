@@ -1,13 +1,43 @@
-Name: Sivaramakrishnam Balachandar
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Mechanical Engineering
+Name: Sivaramakrishnan "Bala" Balachandar
+Role: Newton C. Ebaugh (William F. Powers) Professor & Distinguished Professor; Founding Director, Institute for Computational Engineering; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Mechanical and Aerospace Engineering, Herbert Wertheim College of Engineering
 Email: bala1s@ufl.edu
+ORCID: 0000-0003-3619-3695
+Google Scholar: https://scholar.google.com/citations?hl=en&user=n1qenYwAAAAJ
 
 Subject Areas:
-Water-related research
+Computational Fluid Dynamics, Multiphase Flows, Turbulence, Environmental Fluid Dynamics, High-Performance Computing, Machine Learning for Fluids
+
+Education:
+- Ph.D. Applied Mathematics and Engineering, Brown University
+- M.S. Applied Mathematics and Engineering, Brown University
+- B.Tech Mechanical Engineering, Indian Institute of Technology (IIT) Madras (1983)
 
 Research Focus:
-Dr. Balachandar is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Mechanical Engineering.
+Dr. Sivaramakrishnan "Bala" Balachandar is a globally recognized fluid mechanist and Distinguished Professor at the University of Florida. His research centers on fundamental and computational aspects of fluid mechanics, with particular strengths in turbulent flows and transition theory, multiphase flows (interactions between fluids and particles), environmental fluid dynamics, large-scale simulations and high-performance computing (HPC), data-driven and machine-learning approaches for flow problems, and shock-particle interaction and complex multiphysics applications. His group's work spans both industrial and environmental systems, from fuel sprays to volcanic plume dynamics, sediment transport, gravity currents, and airborne droplet transport relevant to indoor air quality.
+
+Selected Publications:
+- "Mechanisms for generating coherent packets of hairpin vortices in channel flow" - Highly cited paper on turbulence structure
+- "Turbulent dispersed multiphase flow" (Annual Review of Fluid Mechanics)
+- Direct Euler-Lagrange simulations and particle-resolved multiphase flow studies
+- Physics-informed machine learning frameworks for multiphase systems
+- Investigations into turbulence modulation by particles and flocculation dynamics in sediment transport
+- Studies on gravity currents and environmental mixing processes
+- Over 500 publications with 26,000+ citations on Google Scholar
+
+Editorial Roles:
+- Co-Editor-in-Chief, International Journal of Multiphase Flow
+- Handling Editor, Theoretical and Computational Fluid Dynamics
+
+Awards & Honors:
+- Fellow, American Physical Society (APS)
+- Fellow, American Society of Mechanical Engineers (ASME)
+- Francois Naftali Frenkiel Award, APS Division of Fluid Dynamics (1996)
+- Gad Hetsroni Senior Researcher Award, International Conference on Multiphase Flow
+
+Leadership:
+- Founding Director, Institute for Computational Engineering, College of Engineering, UF
+- Former Chair, Department of Mechanical and Aerospace Engineering, UF (2005-2011)
 
 Keywords:
-Water Institute affiliate; Mechanical Engineering.
+Computational fluid dynamics; CFD; multiphase flows; turbulence; turbulent flows; environmental fluid dynamics; high-performance computing; HPC; machine learning; sediment transport; gravity currents; particle dynamics; shock-particle interaction; vortex dynamics; large-eddy simulation; direct numerical simulation; multiphysics; Water Institute affiliate

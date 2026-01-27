@@ -1,13 +1,28 @@
 Name: Lorna Bravo
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Fort Lauderdale Research and Education Center
+Role: Assistant Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Fort Lauderdale Research and Education Center (FLREC), UF/IFAS
 Email: lbravo1@ufl.edu
 
 Subject Areas:
-Water-related research
+Subtropical Horticulture, Specialty Crop Production, Nutrient Management, Sustainable Agriculture, Water Quality
+
+Education:
+- Ph.D. Horticultural Sciences, University of Florida
+- M.S. Horticultural Sciences, University of Florida
 
 Research Focus:
-Dr. Bravo is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Fort Lauderdale Research and Education Center.
+Lorna Bravo is a horticultural scientist whose work focuses on sustainable crop production in subtropical and tropical environments, with particular attention to vegetable and specialty crops grown under South Florida conditions. Her research emphasizes vegetable and specialty crop management, nutrient management and fertilization strategies, crop response to environmental stress, sustainable production practices, and yield and quality optimization. She conducts grower-relevant field trials designed to translate quickly into production guidance. Her work supports improved fertilizer efficiency and reduced nutrient losses under South Florida's high rainfall and sandy/organic soil conditions.
+
+EDIS Extension Publications:
+- "Rain Barrel Water Quality in South Florida" (EP640) - Rainwater harvesting, water quality, and considerations for gardening/landscape use
+  PDF: https://edis.ifas.ufl.edu/publication/EP640
+- "Urban Agriculture and its Sustainability Implications on the Food-Water-Energy Nexus" (FR463) - Co-authored; urban agriculture in the context of the food-water-energy nexus
+
+Water & Policy Relevance:
+- Nutrient management aligned with BMAP nutrient-reduction goals
+- Everglades protection through improved fertilizer efficiency
+- Urban-agricultural interface water quality
+- Climate resilience for specialty crops (heat stress, excess rainfall, flooding)
 
 Keywords:
-Water Institute affiliate; Fort Lauderdale Research and Education Center.
+Horticulture; specialty crops; vegetables; subtropical agriculture; South Florida; nutrient management; fertilizer efficiency; water quality; sustainable agriculture; FLREC; food-water-energy nexus; rain barrels; climate resilience; Extension; Water Institute affiliate

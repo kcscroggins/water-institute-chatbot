@@ -1,13 +1,36 @@
 Name: Yiannis Ampatzidis
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Agricultural and Biological Engineering
+Academic Unit: Department of Agricultural and Biological Engineering; UF/IFAS Southwest Florida Research and Education Center
 Email: i.ampatzidis@ufl.edu
 
 Subject Areas:
-Water-related research
+Precision agriculture, Artificial intelligence, Machine learning, UAV/drone technology, Agricultural robotics
+
+Education:
+- Ph.D., Aristotle University of Thessaloniki, Greece
+- M.S., Aristotle University of Thessaloniki, Greece
+- B.S., Aristotle University of Thessaloniki, Greece
 
 Research Focus:
-Dr. Ampatzidis is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural and Biological Engineering.
+Dr. Ampatzidis is a Professor in Agricultural and Biological Engineering who leads a research and extension precision agriculture engineering program at the Southwest Florida Research and Education Center (SWFREC) in Immokalee. His program focuses on the design, development, and testing of sensors and control systems for optimal management of inputs, resources, and products. Research areas include mechanical harvesting of specialty crops, mechatronics, artificial intelligence, machine vision, precision agriculture, smart machines (smart spraying technologies), UAVs, and machine systems. His team develops AI-based systems to detect, distinguish, and categorize agricultural objects including citrus trees, fruit, flowers, weeds, and pests.
+
+Notable Technologies:
+- Agroview: Cloud-based application to process, analyze, and visualize UAV-collected data for precision agriculture
+- Agrosense: AI-enabled digital agriculture tool for grower decision-making
+- Vision-based AI disease detection systems for grapevine Pierce's disease (99.23% accuracy)
+- Low-cost smart technology for precision weed management using AI
+
+Awards:
+- 2020 Superior Paper Award (Top 5), Computers and Electronics in Agriculture, for "Agroview" paper
+
+Editorial Roles:
+- Co Editor in Chief, Artificial Intelligence journal (2020-present)
+- Guest Editor, Frontiers in Plant Science and Artificial Intelligence (2019-present)
+- Guest Editor, Remote Sensing journal (2020-present)
+- Editorial Advisory Board Member, Computers and Electronics in Agriculture
+
+Research Metrics:
+- 7,105+ citations (Google Scholar)
 
 Keywords:
-Water Institute affiliate; Agricultural and Biological Engineering.
+Precision agriculture; artificial intelligence; machine learning; UAV; drones; remote sensing; agricultural robotics; automation; smart sprayers; machine vision; disease detection; weed management; citrus; specialty crops; sensor technology; variable rate application; digital agriculture.

@@ -1,13 +1,28 @@
 Name: James Estrada
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Agronomy
+Role: Research Scientist / Agronomist; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Agronomy
 Email: estradaj@ufl.edu
 
 Subject Areas:
-Water-related research
+Soil Fertility, Nutrient Management, Crop Production Systems, Nitrogen Efficiency, Agricultural BMPs
 
 Research Focus:
-Dr. Estrada is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agronomy.
+James Estrada is an agronomist whose research focuses on soil fertility, nutrient management, and crop production systems in Florida agricultural settings. His work centers on optimizing nitrogen use efficiency and developing practical nutrient management strategies that maintain crop productivity while reducing environmental losses. His research areas include soil fertility and plant nutrition, nitrogen management and use efficiency, crop production system optimization, nutrient cycling in agricultural systems, and fertilizer timing and placement strategies. His work directly supports agricultural BMPs by identifying practices that reduce nutrient losses to groundwater and surface water while sustaining farm profitability.
+
+Selected Publications:
+- "Nitrogen use efficiency in Florida crop production systems" - Field trial results on optimizing N application rates and timing
+- "Soil fertility management for sustainable crop production" - Integrated approaches to nutrient management
+- "Fertilizer placement and timing effects on crop uptake and environmental losses" - Practical strategies for reducing N leaching
+- "Cover crop effects on soil nitrogen retention and crop availability" - Using cover crops to capture residual N
+
+Water & Policy Relevance:
+- Optimizing fertilizer rates to reduce excess N application
+- Timing fertilizer applications to match crop uptake
+- Reducing nitrogen leaching to groundwater
+- Improving nutrient use efficiency in crop systems
+- Supporting BMAP implementation through research-based recommendations
+- Demonstrating practices that maintain yields with lower nutrient inputs
+- Connecting agronomic research to water quality outcomes
 
 Keywords:
-Water Institute affiliate; Agronomy.
+Agronomy; soil fertility; nutrient management; nitrogen use efficiency; crop production; fertilizer management; agricultural BMPs; nitrogen leaching; groundwater protection; sustainable agriculture; Water Institute affiliate

@@ -1,13 +1,43 @@
 Name: Richard Beeson
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Environmental Horticulture
+Role: Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Environmental Horticulture, UF/IFAS
 Email: rcb@ifas.ufl.edu
 
 Subject Areas:
-Water-related research
+Plant Water Relations, Irrigation Efficiency, Evapotranspiration, Nursery Water Use, Urban Landscape Water Conservation
+
+Education:
+- Ph.D. Horticulture, University of California, Davis
+- M.S. Horticulture, University of California, Davis
+- B.S. Environmental Horticulture, Cal Poly Pomona
 
 Research Focus:
-Dr. Beeson is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Environmental Horticulture.
+Richard Beeson is a leading researcher in environmental horticulture and plant-water relations, with nationally recognized work on irrigation efficiency, water use, and sustainable landscape management. His research focuses on quantifying and improving water-use efficiency in managed plant systems, including plant water relations and evapotranspiration, irrigation scheduling and sensor-based control, nursery and landscape water demand, container-grown ornamental production, water conservation strategies for urban landscapes, and climate effects on plant water use. He provides the scientific basis for irrigation efficiency and landscape water-conservation practices that support Florida's water-supply sustainability and springs protection goals.
+
+Selected Publications:
+- "Development of a Simple Reference Evapotranspiration Model for Irrigation of Woody Ornamentals" (HortScience, 2012)
+- "Modeling Actual Evapotranspiration of Viburnum odoratissimum during Production" (HortScience, 2010)
+- "Determining Plant-available Water of Woody Ornamentals in Containers in situ" (HortScience, 2007)
+- "Simplified Landscape Irrigation Demand Estimation (SLIDE Rules)" (Applied Engineering in Agriculture, 2016)
+- Publications in HortScience, HortTechnology, Agricultural Water Management, Journal of the American Society for Horticultural Science
+
+EDIS Extension Publications:
+- "Frequently Asked Questions about Landscape Irrigation for Florida-Friendly Landscaping Ordinances" (ENH1114/WQ142)
+- "Potential of Collected Stormwater and Irrigation Runoff for Foliage and Bedding Plant Production" (EP116)
+- "Irrigation Practices for Peaches in Florida" (HS1316)
+- "A Practical Guide for Peach Irrigation Scheduling in Florida" (HS1413)
+
+Water Management District Relevance:
+- Work directly informs WMD irrigation restrictions and landscape irrigation ordinances
+- Supports Florida-Friendly Landscaping ordinances used by local governments to align with WMD restrictions
+- Research addresses establishment watering periods (30-60 day limits vs. actual plant needs)
+- Addresses groundwater regulation for nursery irrigation and alternative water supply options
+
+Policy Relevance:
+- Urban irrigation is one of Florida's largest discretionary water uses
+- Reducing excess irrigation lowers nutrient leaching and runoff into impaired waters
+- Supports springs protection through urban nutrient load reduction
+- Informs water conservation credits and best practices
 
 Keywords:
-Water Institute affiliate; Environmental Horticulture.
+Plant water relations; evapotranspiration; irrigation efficiency; irrigation scheduling; nursery production; container plants; urban landscape; water conservation; Florida-Friendly Landscaping; water management districts; establishment watering; ornamental horticulture; water demand; ET modeling; Water Institute affiliate

@@ -1,13 +1,59 @@
 Name: Frank Asche
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Fisheries and Aquatic Sciences
+Academic Unit: Fisheries and Aquatic Sciences (School of Forest, Fisheries & Geomatics Sciences)
 Email: frank.asche@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=hF8FTTIAAAAJ&hl=en
+Website: https://ffgs.ifas.ufl.edu/faculty/asche-frank/
 
 Subject Areas:
-Water-related research
+Seafood markets and trade economics, Aquaculture economics and production systems, Fisheries economics, Price dynamics and market integration, Eco-labeling and sustainability certification, Natural resource economics, Global food security
+
+Education:
+- Ph.D. Economics, Norwegian School of Economics and Business Administration (1996)
+- M.S., University of Bergen
+- B.S., University of Bergen
 
 Research Focus:
-Dr. Asche is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Fisheries and Aquatic Sciences.
+Dr. Asche is a Professor of Natural Resource Economics in Fisheries and Aquatic Sciences at UF/IFAS and a Florida Sea Grant Affiliate Faculty member. He is one of the most cited economists globally in fisheries and aquaculture, with research covering economic analysis of virtually all aspects of the seafood system from production to final consumer. His work examines interactions between fisheries, aquaculture, and ecosystems, the impact of new supply chains on production systems and markets, and the effect of consumer trends on market strategies. He has empirically proven that seafood markets are globally integrated and established methods now standard in price transmission and market integration analysis.
+
+Career Highlights:
+- Professor, University of Florida (2015-present)
+- Professor, University of Stavanger, Norway (2000-2015)
+- Fulbright Scholar, Duke University
+- Visiting Scholar, University of British Columbia and University of Rhode Island
+- Member, Science Advisory Board, WorldFish Center
+- Member, Commission that drafted Norway's current marine resources management law
+- Co-creator, FAO Fish Price Index
+
+Notable Publications:
+- Market integration and price transmission in fisheries (Marine Resource Economics) - 1000+ citations
+- The economics of salmon aquaculture (Journal of Economic Perspectives) - 900+ citations
+- Aquaculture and fisheries: Complementarity or competition? (American Journal of Agricultural Economics) - 800+ citations
+- Price relationships in the international salmon market (Journal of Agricultural Economics) - 700+ citations
+- Environmental regulations and cost structures in fisheries (Land Economics) - 600+ citations
+- The role of aquaculture in global food security (Annual Review of Resource Economics) - 500+ citations
+- Sustainability certification in seafood markets (Ecological Economics) - 450+ citations
+- The Economics of Aquaculture (book, with Ragnar Tveterås) - 1000+ citations
+- Aquatic food loss and waste rate in the United States is half of earlier estimates (Nature Food, 2023)
+
+Awards & Honors:
+- Fellow, American Association for the Advancement of Science (AAAS) - Lifetime Fellow (2025)
+- Fellow, International Institute of Fisheries Economics & Trade (IIFET)
+- Fellow, World Aquaculture Society
+
+Service & Leadership:
+- Editor-in-Chief, Aquaculture Economics and Management
+- Associate Editor, Marine Resource Economics
+- President, North American Association of Fisheries Economists (NAAFE)
+- Vice-President, International Association of Aquaculture Economics and Management (IAAEM)
+- Editorial boards: Reviews in Fisheries Science and Aquaculture, Marine Policy
+- Consultant: FAO, OECD, World Bank, World Trade Organization
+
+Metrics:
+- 24,500+ citations (Google Scholar)
+- 232 peer-reviewed articles
+- 18 book chapters
+- Multiple edited volumes
 
 Keywords:
-Water Institute affiliate; Fisheries and Aquatic Sciences.
+Water Institute affiliate; fisheries economics; aquaculture economics; seafood markets; seafood trade; market integration; price transmission; salmon aquaculture; eco-labeling; sustainability; food security; natural resource economics; Florida Sea Grant; global food systems

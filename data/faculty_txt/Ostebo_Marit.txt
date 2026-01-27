@@ -1,13 +1,30 @@
-Name: Marit Ostebo
+Name: Marit Østebø
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Anthropology
 Email: marit.ostebo@ufl.edu
+Title: Associate Professor
+
+Google Scholar: https://scholar.google.com/citations?user=aE1tqXgAAAAJ&hl=no
 
 Subject Areas:
-Water-related research
+Medical and public health anthropology, Gender sexuality and reproductive health, Family planning and population policy, Harmful traditional practices, Development governance and NGOs
+
+Education:
+- Ph.D. Anthropology
+- Research focus on applied anthropology and global health policy
 
 Research Focus:
-Dr. Ostebo is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Anthropology.
+Dr. Østebø is known for applied and policy-engaged anthropology focused on gender, health, and development, particularly around reproductive health, family planning, harmful traditional practices, and state-society interactions. Her work examines how institutions, policies, and global development agendas intersect with lived experience, often in African contexts. She employs qualitative and ethnographic fieldwork, policy analysis and institutional ethnography, mixed-methods approaches bridging anthropology and public health, and long-term in-depth regional field studies. Research systems include East Africa particularly Ethiopia, health systems NGOs and state institutions, and communities navigating development and public health interventions.
+
+Notable Publications:
+- How global health policies are translated into local practice
+- Tensions between cultural norms, state authority, and international development agendas
+- Lived consequences of population and reproductive health policies
+- Publications in Medical Anthropology, Culture Health & Sexuality, and Social Science & Medicine
+- Scholarly books and edited volumes addressing family planning and reproductive governance, gender policy and health interventions in Africa
+
+Policy Relevance:
+Dr. Østebø's research helps policymakers and practitioners understand why well-intended health and development policies succeed or fail in practice, emphasizing governance, culture, and institutional design. She provides critical insight into the social and institutional dynamics that determine whether large-scale interventions translate into meaningful, equitable outcomes on the ground. Her work influences governance and policy design, NGO and state intervention strategies, and narratives and assumptions embedded in development and public health programs. While not focused on biophysical environmental processes directly, her expertise is highly relevant to understanding how policies, institutions, and cultural norms shape intervention outcomes in domains where health, environment, and development intersect.
 
 Keywords:
-Water Institute affiliate; Anthropology.
+anthropology; medical anthropology; public health; gender; reproductive health; family planning; development; governance; NGOs; Ethiopia; East Africa; ethnography; policy analysis; health interventions; institutional design; global health

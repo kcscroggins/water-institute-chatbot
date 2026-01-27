@@ -1,13 +1,32 @@
 Name: Chamteut Oh
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Department of Environmental Engineering Sciences
+Academic Unit: Environmental Engineering Sciences
 Email: chamteutoh@ufl.edu
+Title: Assistant Professor
+
+Google Scholar: https://scholar.google.co.kr/citations?user=WA2Lib0AAAAJ&hl=en
+Website: https://chamteutoh.com
 
 Subject Areas:
-Water-related research
+Water and wastewater treatment processes, Electrochemical treatment and separation technologies, Adsorption membranes and physicochemical removal mechanisms, Contaminant fate and transport in engineered systems, Resource recovery and sustainable treatment design, Reaction-transport modeling in environmental systems
+
+Education:
+- Ph.D. Environmental Engineering
+- Research focus on physicochemical water treatment and electrochemical processes
 
 Research Focus:
-Dr. Oh is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Department of Environmental Engineering Sciences.
+Dr. Oh is an environmental engineer and physicochemical treatment specialist known for research on water and wastewater treatment, contaminant removal mechanisms, electrochemical and adsorption-based processes, and resource recovery from waste streams. His work focuses on fundamental transport, reaction, and separation processes that control contaminant fate in engineered water systems. He advances treatment technologies and process understanding that directly support water quality protection, infrastructure design, and contaminant mitigation. Research systems include engineered water and wastewater treatment systems, contaminated aqueous environments, infrastructure-scale treatment and decentralized systems, with broad applicability across geographic regions.
+
+Notable Publications:
+- Electrochemical removal of contaminants from water
+- Adsorptive and reactive materials for pollutant capture
+- Kinetics and transport limitations in treatment processes
+- Process optimization for energy-efficient water treatment
+- Emerging contaminant mitigation strategies
+- Publications in Water Research, Environmental Science & Technology, Journal of Hazardous Materials, Chemical Engineering Journal
+
+Policy Relevance:
+Dr. Oh develops treatment technologies and process-level understanding that enable effective removal of nutrients and contaminants from water systems, supporting water quality protection and sustainable infrastructure design. His expertise in contaminant transport, adsorption, electrochemical reactions, and separation processes is highly relevant for understanding and controlling nutrient and contaminant behavior once mobilized into water (e.g., nitrate, phosphate, metals, emerging pollutants). His work directly informs treatment and removal of nutrients and pollutants after they enter surface water, groundwater, or wastewater systems, which is a critical downstream component of nutrient-loss mitigation. Engineering solutions developed from his research support water quality regulations, treatment standards, and infrastructure investment decisions.
 
 Keywords:
-Water Institute affiliate; Department of Environmental Engineering Sciences.
+environmental engineering; water treatment; wastewater treatment; electrochemical treatment; adsorption; membrane separation; contaminant removal; physicochemical processes; resource recovery; nutrient removal; water quality; treatment design; reaction-transport modeling; emerging contaminants; infrastructure

@@ -1,13 +1,37 @@
 Name: Mysha Clarke
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: School of Forest, Fisheries, and Geomatics Sciencies
+Role: Assistant Professor, Human Dimensions of Natural Resources; Affiliate Faculty, UF Water Institute
+Academic Unit: School of Forest, Fisheries, and Geomatics Sciences
 Email: mysha.clarke@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=SG7ECDEAAAAJ&hl=en
+Website: https://myshaclarke.weebly.com/
 
 Subject Areas:
-Water-related research
+Human Dimensions, Socio-Ecological Systems, Urban Ecology, Ecosystem Services, Forest Management, Conservation Behavior
 
 Research Focus:
-Dr. Clarke is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in School of Forest, Fisheries, and Geomatics Sciencies.
+Mysha Clarke's research focuses on human dimensions of environmental decision-making, especially in forest management, urban ecology, socio-ecological systems, and ecosystem services. She uses mixed methods to understand how people interact with natural resources and how social factors influence conservation outcomes. Her work examines landowner adoption of conservation practices, community structures supporting ecosystem services, stakeholder values shaping conservation, and urban and community responses to climate resilience challenges.
+
+Selected Publications:
+- "Factors influencing family forest owners' interest in community-led collective invasive plant management" (Environmental Management, 2021) - Decision motives among private forest owners and collaborative conservation
+  DOI: https://doi.org/10.1007/s00267-021-01454-1
+- "Relationships between absenteeism, conservation group membership, and land management among family forest owners" (Land Use Policy, 2020) - Social factors linked with conservation behavior
+  PDF: https://myshaclarke.weebly.com/uploads/1/4/9/8/14982628/snyder_et_al._2020.pdf
+- "Socio-ecological connectivity differs in magnitude and direction across urban landscapes" (Scientific Reports, 2020) - Socio-ecological service flows and connectivity in cities
+- "What are family forest owners thinking and doing about invasive plants?" (Landscape and Urban Planning, 2019) - Social ecology and land management
+- "The underutilized role of community gardens in improving the resilience of cities to climate change: A review" (People, Place and Policy, 2019) - Urban resilience and ecosystem services
+
+EDIS Extension Publications:
+- "How are ecosystem services measured and why does it matter for Florida?" (FA252) - Policy-oriented overview of ecosystem service valuation including water filtration and nutrient cycling
+  PDF: https://edis.ifas.ufl.edu/publication/FA252
+
+Water & Policy Relevance:
+- Understanding why landowners adopt or resist conservation practices
+- Community structures (urban gardens, greenspaces) supporting water regulation and quality
+- Stakeholder values and perceptions shaping conservation outcomes
+- Ecosystem services valuation for coastal and water planning
+- BMAP outreach and stakeholder engagement
+- Urban forestry policy and green infrastructure
+- Social dimensions of climate resilience
 
 Keywords:
-Water Institute affiliate; School of Forest, Fisheries, and Geomatics Sciencies.
+Human dimensions; socio-ecological systems; ecosystem services; urban ecology; conservation behavior; family forest owners; landowner decision-making; urban greenspaces; community gardens; climate resilience; invasive species management; social-ecological connectivity; Water Institute affiliate

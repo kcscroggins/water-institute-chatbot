@@ -2,12 +2,28 @@ Name: Michelle Phillips
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Economics
 Email: michellephillips@ufl.edu
+Title: Assistant Professor
+
+Google Scholar: https://scholar.google.com/citations?user=kWqkZLIAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Environmental and resource economics, Development economics, Applied microeconomic policy analysis, Public goods incentives and institutional design, Economic impacts of environmental and resource constraints
+
+Education:
+- Ph.D. Economics
+- Research focus on applied microeconomics and policy evaluation
 
 Research Focus:
-Dr. Phillips is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Economics.
+Dr. Phillips is known for her work in applied microeconomics, with a focus on environmental and resource economics, development economics, and policy-relevant empirical analysis. Her research examines how economic incentives, institutions, and policies shape behavior and outcomes, often in contexts where environmental constraints, public goods, or development challenges are central. She employs econometric analysis of observational and quasi-experimental data, causal inference methods such as difference-in-differences and instrumental variables, policy evaluation and impact assessment, and use of large administrative and survey datasets. Research systems include policy and institutional systems affecting environmental and economic outcomes, development and resource-management contexts often in low- and middle-income settings, and public-sector and governance-relevant decision environments.
+
+Notable Publications:
+- Evaluating environmental and development policies using empirical data
+- Understanding how incentives and institutions affect behavior
+- Measuring economic trade-offs in resource and public-goods contexts
+- Publications in Journal of Environmental Economics and Management, World Development, and Journal of Development Economics
+
+Policy Relevance:
+Dr. Phillips's work helps decision-makers understand which policies work, why they work, and under what conditions economic incentives lead to improved environmental and social outcomes. She provides rigorous empirical evidence on how economic and institutional levers shape behavior, making her work central to designing effective, evidence-based policies. Her research does not focus on biophysical mechanisms directly, but it plays a key role in understanding how policies and incentives influence outcomes in environmental, resource, and development systems. Her work influences economic incentives and policy design, evaluation of environmental and development interventions, and institutional effectiveness and governance choices.
 
 Keywords:
-Water Institute affiliate; Economics.
+economics; environmental economics; resource economics; development economics; applied microeconomics; policy evaluation; causal inference; econometrics; incentives; institutions; public goods; governance; impact assessment

@@ -2,12 +2,28 @@ Name: Ignacia Mercadal
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Economics
 Email: imercadal@ufl.edu
+Title: Assistant Professor
+
+Google Scholar: https://scholar.google.com/citations?user=h21W7IgAAAAJ&hl=en
+Website: https://sites.google.com/site/ignaciamercadal/home
 
 Subject Areas:
-Water-related research
+Environmental economics, Energy economics and electricity markets, Climate and environmental regulation, Firm behavior and investment under regulation, Cost-benefit analysis of environmental policy, Emissions productivity and innovation trade-offs
+
+Education:
+- Ph.D. Economics, Stanford University
+- B.A. Economics, Universidad de Chile
 
 Research Focus:
-Dr. Mercadal is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Economics.
+Dr. Mercadal is an environmental and public economist whose research focuses on energy markets, environmental regulation, climate policy, and firm behavior. She is particularly known for empirical, causal analyses of how environmental and energy policies affect investment, emissions, productivity, and welfare. Her work sits at the research-to-policy design interface, generating empirical evidence used to evaluate and design energy and environmental regulations. Research systems include electricity markets (U.S. and international), regulated firms and utilities, energy producers and consumers, and policy environments involving emissions pricing, clean energy mandates, and environmental compliance.
+
+Notable Publications:
+- Dynamic Environmental Policy and Investment: Evidence from the U.S. Electricity Sector (Journal of Environmental Economics and Management) - examines how environmental regulations affect long-term capital investment decisions in electricity generation
+- The Costs of Environmental Regulation: Evidence from Power Plants - empirical analysis of compliance costs, productivity impacts, and emissions outcomes in regulated energy markets
+- Work on electricity market design and emissions outcomes - analyzes how regulatory structure influences emissions intensity, generation mix, and welfare
+
+Policy Relevance:
+Dr. Mercadal produces rigorous empirical evidence used to design and evaluate environmental and climate regulations, particularly in energy markets, with implications for emissions reduction and economic efficiency. Her research is highly relevant to governance and regulatory design, providing causal evidence used in environmental and climate policy, including policies that may interact with land, water, and agricultural systems. She helps answer how regulatory incentives shape firm behavior and environmental outcomes, critical when designing policies that affect land use, emissions, and environmental quality.
 
 Keywords:
-Water Institute affiliate; Economics.
+environmental economics; energy economics; electricity markets; climate policy; environmental regulation; firm behavior; investment; emissions; productivity; cost-benefit analysis; regulatory evaluation; clean energy; policy design

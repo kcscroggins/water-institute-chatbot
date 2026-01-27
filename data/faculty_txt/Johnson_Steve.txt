@@ -1,13 +1,33 @@
-Name: Steve Johnson
+Name: Steve A. Johnson
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Wildlife Ecology and Conservation
 Email: tadpole@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=vz29hAgAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Amphibian and reptile conservation; Vertebrate ecology; Natural history; Invasive species; Wildlife population monitoring; Ecological outreach and education
+
+Education:
+- Professor (Interim Chair as of 2025), Wildlife Ecology and Conservation, University of Florida
 
 Research Focus:
-Dr. Johnson is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Wildlife Ecology and Conservation.
+Dr. Johnson is a Professor in Wildlife Ecology and Conservation specializing in the natural history, ecology, and conservation of amphibians and reptiles. His work encompasses vertebrate ecology, invasive species dynamics, and wildlife management, particularly in Florida and the southeastern United States. He combines ecological research with outreach and education, developing wildlife guides and contributing to land-management knowledge through UF/IFAS Extension.
+
+Notable Publications:
+- Orientation and migration distances of a pond-breeding salamander. Alytes (2003).
+- Life history of the striped newt at a north-central Florida breeding pond (2002).
+- Means, D.B., Dodd, C.K., & Johnson, S.A. Amphibians and fire in longleaf pine ecosystems. Conservation Biology (2004).
+- Kemp's ridley nesting activity in Florida. Florida Scientist (1999).
+- Numerous UF/IFAS Ask IFAS fact sheets on reptiles and wildlife: https://edis.ifas.ufl.edu/experts/tadpole
+
+Water Institute Relevance:
+Dr. Johnson's expertise in amphibian ecology directly connects to wetland and freshwater ecosystem health. Amphibians serve as indicators of wetland health and water quality, with their presence and population dynamics reflecting environmental conditions. His work on species interactions, habitat management, and invasive vertebrates informs how vertebrate community dynamics reflect and shape habitat conditions at wetland and terrestrial interfaces where soil and water quality influence wildlife.
+
+Role in Research-to-Policy Pipeline:
+Research producer with applied and Extension relevance. Combines ecological research with outreach and education; research informs management and conservation policy for Florida's wildlife and wetland ecosystems.
+
+Strategic Value:
+Answers the question: "Which vertebrate species trends indicate ecosystem change that relates to habitat quality and water conditions?" Influences wildlife population monitoring, invasive species management, and public education on biodiversity and habitat health.
 
 Keywords:
-Water Institute affiliate; Wildlife Ecology and Conservation.
+amphibian ecology; reptile conservation; vertebrate ecology; natural history; invasive species; wildlife management; wetland indicators; longleaf pine ecosystems; Florida wildlife; Extension education; habitat conservation

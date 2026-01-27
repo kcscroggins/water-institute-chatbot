@@ -1,13 +1,31 @@
-Name: Corene Matyas
+Name: Corene J. Matyas
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Geography
 Email: matyas@ufl.edu
+Title: Professor & Graduate Coordinator
+
+Google Scholar: https://scholar.google.com/citations?user=ba3ddNcAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Tropical cyclone rainfall dynamics, Severe weather climatology, GIS-based spatial analysis of precipitation, Remote sensing and radar data integration, Statistical and machine learning methods for rainfall classification, Climate variability influences on rainfall
+
+Education:
+- Ph.D. Geography, The Ohio State University
+- M.A. Geography, The Ohio State University
+- B.S. Geography, The Ohio State University
 
 Research Focus:
-Dr. Matyas is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Geography.
+Dr. Matyas is a tropical climatologist and physical geographer whose research centers on rainfall patterns associated with tropical cyclones and severe weather systems. She uses GIS, remote sensing, statistical analysis, and machine learning to advance understanding of precipitation structure, variability, and forecasting. Her work spans approximately 80 publications on rainfall structure, spatial modeling, and extreme precipitation forecasting. Research systems include North Atlantic and Western Pacific tropical cyclones, coastal and inland U.S. regions affected by extreme rainfall, and weather impacts on communities including international case studies in Mozambique.
+
+Notable Publications:
+- Four moisture patterns surrounding Atlantic hurricanes revealed by deep learning (Atmospheric Research, 2025) - AI classification of hurricane precipitation fields
+- Classification of tropical cyclone rain patterns using convolutional autoencoder (Scientific Reports, 2024) - deep learning applied to cyclone rainfall structure
+- Evaluating high-resolution model forecasts of tropical cyclone precipitation (Weather and Forecasting, 2023) - object-based rainfall forecast metrics
+- Regional variations in tropical cyclone rainfall by ENSO phase (Journal of Climate, 2023) - climate mode influences on rainfall
+- Foundational methodological papers on cyclone rain shield geometry and rain-field evolution post-landfall
+
+Policy Relevance:
+Dr. Matyas produces evidence on spatial rainfall structure and variability that informs forecast improvement, hazard planning, and climate adaptation frameworks. Her research indirectly supports hydrologic and nutrient transport modeling by characterizing precipitation forcing. Understanding extreme rainfall distribution is mechanistically relevant to hydrologic drivers of runoff, erosion, and nutrient transport in watersheds - her work helps characterize the rainfall forcing that can mobilize soil and nutrients. Insights into tropical cyclone rainfall support flood risk, water resource planning, and hazard mitigation strategies.
 
 Keywords:
-Water Institute affiliate; Geography.
+tropical cyclones; rainfall dynamics; precipitation patterns; GIS; remote sensing; radar data; machine learning; deep learning; climate variability; ENSO; severe weather; hydrometeorology; flood risk; spatial analysis; weather forecasting; climatology

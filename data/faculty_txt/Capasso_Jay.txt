@@ -1,13 +1,43 @@
 Name: Jay Capasso
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: North Florida Research and Education Center – Suwannee Valley
+Role: Northeast Florida Regional Specialized Extension Agent – Water Resources; Affiliate Faculty, UF Water Institute
+Academic Unit: North Florida Research and Education Center – Suwannee Valley, UF/IFAS
 Email: jcapasso@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=QFYzfiEAAAAJ&hl=en
+Website: https://blogs.ifas.ufl.edu/columbiaco/author/jcapasso/
 
 Subject Areas:
-Water-related research
+Agricultural Water Resources, Nutrient Management, Irrigation Efficiency, Soil Health, Water Quality
+
+Education:
+- Ph.D. Soil and Water Sciences, University of Florida (candidate)
+- M.S. Soil and Water Sciences, University of Florida
+- B.S. International Agriculture and Rural Development, Cornell University
 
 Research Focus:
-Dr. Capasso is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in North Florida Research and Education Center – Suwannee Valley.
+Jay Capasso is a specialized Extension agent focused on agricultural water resources and nutrient management in Northeast Florida. He combines research, on-farm trials, stakeholder education, and technology transfer to help growers and county faculty implement science-based water, nutrient, and irrigation best management practices. His work centers on irrigation efficiency and distribution uniformity, nutrient management and soil moisture monitoring including sensor networks, and multi-county water quality and nutrient cycling outreach. He contributes to applied research such as the Sod-Based Rotation Project at NFREC-Suwannee Valley, evaluating how sod-based crop rotations affect soil health, water holding capacity, nitrate leaching, and nutrient cycling. His Google Scholar profile shows 190+ citations.
+
+EDIS Extension Publications:
+- "Wetlands as a Tool for Water Treatment" - Wetlands' role in water treatment
+- "Raising Soil Organic Matter Content to Improve Water Holding Capacity"
+- "Tools for Evaluating Soil Health" (co-authored with Bhadha et al.)
+- "Glossary of Site-Specific Nutrient Management Terms"
+- "Exploring Opportunities for Malting Barley Production in Florida"
+- "Disaster Assistance for Agriculture in Florida following Hurricane Idalia"
+
+Extension Programs:
+- Irrigation efficiency and distribution uniformity education
+- Sod-Based Rotation Project (soil health, water holding capacity, nitrate leaching)
+- Corn tissue sampling and nutrient diagnostics
+- Peanut foliar disease and production management
+- Watermelon irrigation and petiole sap testing
+- Field corn starter fertilizer strategies
+- Organic soil amendment guidance
+
+Policy & Regional Relevance:
+- Water Management District (WMD) irrigation guidance
+- Minimum Flows and Levels (MFL) proposals for Santa Fe and Ichetucknee rivers
+- BMAP-aligned agricultural water quality practices
+- BMPs for reducing nutrient transport in North Florida
 
 Keywords:
-Water Institute affiliate; North Florida Research and Education Center – Suwannee Valley.
+Water resources; irrigation efficiency; nutrient management; soil health; soil moisture; Suwannee Valley; Northeast Florida; sod-based rotation; nitrate leaching; BMPs; water quality; MFL; Santa Fe River; Extension; NFREC; Water Institute affiliate

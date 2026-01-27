@@ -1,13 +1,28 @@
 Name: Patrick Inglett
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Soil and Water Sciences
+Role: Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Soil and Water Sciences
 Email: pinglett@ufl.edu
 
 Subject Areas:
-Water-related research
+Soil Biogeochemistry, Aquatic Biogeochemistry, Carbon Cycling, Nutrient Cycling, Microbial Ecology, Wetland Processes
 
 Research Focus:
-Dr. Inglett is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Soil and Water Sciences.
+Patrick Inglett is a soil and aquatic biogeochemist specializing in carbon and nutrient cycling driven by microbial and hydrologic processes. His research areas include soil and aquatic biogeochemistry, carbon cycling and greenhouse gas dynamics, nitrogen and phosphorus transformations, microbial ecology of soils and sediments, and wetland and aquatic ecosystem processes. His work is especially influential in understanding biogeochemical transformations under changing hydrologic and nutrient conditions, generating process-level evidence that informs wetland restoration, nutrient management, and water-quality regulation.
+
+Selected Publications:
+- Extensive body of work on nutrient cycling, microbial processes, and carbon dynamics in wetland and aquatic systems
+- Studies on nitrogen transformations and organic matter decomposition under varying hydrologic regimes
+- Contributions to Biogeochemistry, Journal of Environmental Quality, Wetlands, and Soil Biology & Biochemistry
+
+Water & Policy Relevance:
+- Direct study of carbon storage and nutrient transformations in soils and sediments
+- Microbial and chemical controls governing nutrient retention or loss
+- Wetland restoration design support
+- Nutrient retention and transformation strategies
+- Carbon and greenhouse gas accounting in soils and wetlands
+- Conditions determining when soils and wetlands remove vs. release nutrients
+- Process-level evidence for nutrient management policies
+- Florida ecosystem restoration including Everglades-relevant systems
 
 Keywords:
-Water Institute affiliate; Soil and Water Sciences.
+Soil biogeochemistry; aquatic biogeochemistry; carbon cycling; nutrient cycling; nitrogen; phosphorus; microbial ecology; wetlands; sediments; greenhouse gases; nutrient retention; restoration; Water Institute affiliate

@@ -1,13 +1,31 @@
 Name: David Griffis
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: IFAS Extension
+Role: Extension Agent; Affiliate Faculty, UF Water Institute
+Academic Unit: UF/IFAS Extension
 Email: dgriffis@ufl.edu
 
 Subject Areas:
-Water-related research
+Extension Education, Agricultural Practices, Environmental Outreach, Stakeholder Engagement, BMP Implementation
 
 Research Focus:
-Dr. Griffis is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in IFAS Extension.
+David Griffis is a UF/IFAS Extension professional focused on translating agricultural and environmental science into practical, locally adopted management practices. His program areas include Extension education and outreach, applied agricultural and environmental practices, stakeholder engagement and training, and translation of BMPs and regulatory guidance into practice. He operates at the final mile of the research-to-implementation pipeline, where research and policy either succeed or fail based on uptake and behavior change.
+
+Extension Programs:
+- Agricultural and environmental best practices training
+- Workshops and field days for producers and land managers
+- Local and regional program coordination
+- Stakeholder capacity-building
+- BMP adoption support
+- Compliance assistance for environmental regulations
+
+Water & Policy Relevance:
+- Implementation of soil-health and nutrient-management practices at local level
+- Practice adoption directly affecting nutrient loss and runoff outcomes
+- BMP and conservation practice adoption support
+- Compliance with nutrient and water regulations
+- Building local trust in science-based guidance
+- Removing barriers to soil and nutrient practice implementation
+- Bridging research, agencies, and end-users
+- Last-mile delivery ensuring policies achieve real-world impact
 
 Keywords:
-Water Institute affiliate; IFAS Extension.
+Extension; agricultural education; environmental outreach; stakeholder engagement; BMP implementation; practice adoption; compliance; nutrient management; soil health; water quality; producer training; Water Institute affiliate

@@ -1,13 +1,33 @@
-Name: Charles Martin
+Name: Charles W. Martin, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Nature Coast Biological Station
 Email: charles.martin@ufl.edu
 
 Subject Areas:
-Water-related research
+Estuarine ecology; Coastal ecology; Food web dynamics; Invasive species; Habitat restoration; Hydrology; Salinity regimes; Seagrass ecosystems; Marsh habitats; Gulf of Mexico
+
+Education:
+- Ph.D.
+- Research Faculty, Nature Coast Biological Station, University of Florida
 
 Research Focus:
-Dr. Martin is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Nature Coast Biological Station.
+Dr. Martin is a coastal and estuarine ecologist known for field-based and applied ecological research on estuaries, coastal food webs, introduced species, salinity and hydrology alteration, and habitat restoration and conservation in Gulf of Mexico coastal systems. His work addresses anthropogenic stressor effects on coastal systems, plant-animal and food web interactions, freshwater-salinity gradients, and marsh habitats in the Big Bend/Cedar Key region of Florida.
+
+Notable Publications:
+- Seagrass abundance and soil organic carbon stocks - linking coastal vegetation patterns to organic carbon storage across Thalassia testudinum ranges
+- Effects of hydrological connectivity on nursery use by estuarine fauna
+- Nekton community changes following major oil spills and resilience to disturbances in Gulf of Mexico
+- Fish habitat use and predator-prey interactions in wetland systems
+- Ecosystem restoration publications and EDIS extension outputs (e.g., Common wetland plants of Lake Apopka)
+
+Water Institute Relevance:
+Dr. Martin's coastal ecology research explores seagrass zones and marsh habitats where organic carbon is critical, linking plant abundance to soil carbon stock variation relevant to coastal carbon cycles. Estuarine and coastal ecosystem studies inform organic carbon sequestration potential, sediment nutrient retention, and habitat health relationships that influence water quality and nutrient dynamics. Findings can inform coastal management, restoration planning, and conservation policy related to habitat enhancement for carbon and nutrient processing (e.g., seagrass beds as nutrient filters).
+
+Role in Research-to-Policy Pipeline:
+Research producer whose work advances fundamental and applied coastal ecosystem ecology and whose findings guide restoration practice, habitat management, and estuarine conservation strategies. Produces applied ecological evidence that informs coastal habitat restoration, resilience planning, and conservation strategies.
+
+Strategic Value:
+Answers the question: "How do coastal habitat structure and hydrology interact to influence ecological community function, organic carbon storage, and resilience to disturbance?" Influences coastal and estuarine habitat condition and resilience, restoration design and implementation, and integration of ecological research into water quality and ecosystem service frameworks.
 
 Keywords:
-Water Institute affiliate; Nature Coast Biological Station.
+estuarine ecology; coastal ecology; Gulf of Mexico; food web dynamics; seagrass; marsh habitats; habitat restoration; invasive species; hydrology; salinity; nekton; Big Bend; Cedar Key; NCBS; organic carbon; coastal resilience

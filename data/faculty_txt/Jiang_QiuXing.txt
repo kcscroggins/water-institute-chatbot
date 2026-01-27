@@ -1,13 +1,28 @@
-Name: Qiu-Xing Jiang
+Name: Qiu-Xing (Q-X) Jiang
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Microbiology and Cell Science
 Email: qxjiang@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=3ko98cgAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Molecular microbiology; Membrane biology; Protein structure and function; Cryo-electron microscopy; Molecular genetics; Cell regulatory mechanisms; Biophysical characterization
+
+Education:
+- Professor, Microbiology and Cell Science, University of Florida
 
 Research Focus:
-Dr. Jiang is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Microbiology and Cell Science.
+Dr. Jiang is a Professor in Microbiology and Cell Science specializing in molecular microbiology and membrane biology. His research focuses on protein structure and function in microbes and neuroendocrine processes, often using biophysical methods like cryo-EM and molecular genetics. His work spans microbial physiology, protein interactions, and biological macromolecules, providing fundamental understanding of how microbial cellular systems operate at the molecular level.
+
+Notable Publications:
+- Membrane insertion of chromogranin B for granule maturation in regulated secretion (ResearchGate)
+- Multiple publications on membrane biology and protein structure available via Google Scholar profile
+- Research on microbial physiology and biophysical characterization of biological complexes
+
+Water Institute Relevance:
+Dr. Jiang's expertise in fundamental microbiology provides mechanistic understanding of how microbes function at the cellular level. While his research does not directly engage nutrient cycling or soil/water biogeochemistry, microbial processes are foundational to nutrient processing in ecosystems. His work on microbial physiology and membrane biology can inform broader understanding of microbial contributions to ecological functions, including those relevant to water quality and nutrient cycles.
+
+Role in Research-to-Policy Pipeline:
+Research producer (fundamental and mechanistic). Contributes foundational microbiology and structural biology that underpins understanding of microbial ecology, though not directly targeted at environmental policy or nutrient cycling.
 
 Keywords:
-Water Institute affiliate; Microbiology and Cell Science.
+molecular microbiology; membrane biology; protein structure; cryo-EM; molecular genetics; microbial physiology; biophysics; cell biology; biological macromolecules

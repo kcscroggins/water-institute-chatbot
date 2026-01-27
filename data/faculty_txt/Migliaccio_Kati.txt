@@ -1,13 +1,33 @@
-Name: Kati Migliaccio
+Name: Kati W. Migliaccio
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Agricultural and Biological Engineering
 Email: klwhite@ufl.edu
+Title: Professor and Dean, P.E.
+
+Google Scholar: https://scholar.google.com/citations?user=pEd15xAAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Hydrology and watershed modeling, Irrigation science and water conservation, Water quality and nutrient interaction studies, Irrigation scheduling tools and decision support systems, Environmental monitoring and model calibration
+
+Education:
+- Ph.D. Agricultural and Biological Engineering, University of Florida
+- M.E. Agricultural and Biological Engineering, University of Florida
+- B.S. Agricultural Engineering, University of Florida
 
 Research Focus:
-Dr. Migliaccio is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural and Biological Engineering.
+Dr. Migliaccio is an internationally recognized environmental and agricultural engineer specializing in water conservation, hydrology, irrigation systems, and sustainable water management across agricultural, natural, and urban landscapes. Her work spans mechanistic hydrologic modeling, irrigation scheduling tools, and landscape water-nutrient interactions. She develops and tests models and tools for efficient water and nutrient management, with findings incorporated into Extension fact sheets, irrigation decision tools, and best management practices. Research systems include agricultural landscapes (row crops, specialty crops), urban and managed turf irrigation, and Florida watersheds such as Indian River Lagoon and Everglades inflows.
+
+Notable Publications:
+- Evapotranspiration and soil water sensor irrigation scheduling - development and assessment of irrigation scheduling using ET and soil moisture data for crop systems
+- Smart Irrigation Apps for precision irrigation scheduling - creation and evaluation of smartphone tools to improve irrigation timing and efficiency
+- Modeling soil water dynamics - watershed-scale water modeling that accounts for measurement uncertainty and irrigation management
+- Land-use disturbance and water quality variability - linking watershed characteristics to water quality parameters relevant for nutrient loading
+- Nutrient discharges to Florida water bodies - quantifying nutrient loads and trends in systems like the Indian River Lagoon
+- Phosphorus adsorption and soil water interactions - studies on soil-water interaction relevant to nutrient fate and transport
+- UF/IFAS fact sheets on irrigation scheduling (ET-based), crop water use, chemigation regulations, and irrigation design
+
+Policy Relevance:
+Dr. Migliaccio produces mechanistic and applied research on water and nutrient dynamics that inform best management practices, irrigation policy, and water quality protection strategies in agricultural and managed landscapes. Her research includes water quality and nutrient dynamics within watershed and irrigation systems, such as nutrient discharges, watershed disturbance indicators, and transport of constituents under variable hydrology. By quantifying nutrient loads to surface waters and linking irrigation and hydrology to nutrient outcomes, her work informs water quality protection and nutrient management measures. Her Extension publications and decision tools help operationalize best management practices that reduce nutrient losses and improve water use efficiency.
 
 Keywords:
-Water Institute affiliate; Agricultural and Biological Engineering.
+hydrology; watershed modeling; irrigation; water conservation; water quality; nutrient transport; nutrient loading; evapotranspiration; soil moisture; precision irrigation; Smart Irrigation Apps; Indian River Lagoon; Everglades; phosphorus; agricultural engineering; decision support systems; best management practices

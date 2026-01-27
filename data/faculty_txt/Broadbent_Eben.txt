@@ -1,13 +1,40 @@
 Name: Eben Broadbent
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: School of Forest Resources and Conservation
+Role: Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: School of Forest, Fisheries & Geomatics Sciences
 Email: eben@ufl.edu
 
 Subject Areas:
-Water-related research
+Forest Ecology, Remote Sensing, Land-Use Change, Forest Disturbance, Carbon Dynamics, Tropical Forests
+
+Education:
+- Ph.D. Forest Ecology / Remote Sensing, Oregon State University
+- M.S. Forest Science, Oregon State University
+- B.S. Forest Resources, University of Vermont
 
 Research Focus:
-Dr. Broadbent is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in School of Forest Resources and Conservation.
+Eben Broadbent is a forest ecologist and remote-sensing scientist internationally recognized for his work on forest disturbance, land-use change, and ecosystem recovery, especially in tropical forests. His research integrates ecology, geospatial analysis, and climate science, covering tropical forest ecology, deforestation and forest degradation, land-use and land-cover change, forest carbon dynamics, disturbance and recovery trajectories, remote sensing (Landsat, MODIS, LiDAR), and coupled human-natural systems. He quantifies how forests respond to human disturbance and climate stress using satellite data, LiDAR, and long-term field studies, combining satellite time series with field plots for causal inference about disturbance and recovery.
+
+Selected Publications:
+- "Forest fragmentation and edge effects from deforestation and selective logging in the Brazilian Amazon" (Biological Conservation, 2008)
+  PDF: https://www.fs.usda.gov/treesearch/pubs/35622
+- "Land-use change and deforestation in the lowland Neotropics" (Global Change Biology, 2012)
+  PDF: https://www.researchgate.net/publication/221687317
+- "Carbon stock recovery following selective logging in Amazonian forests" (Ecological Applications, 2008) - Key REDD+ and carbon-offset evidence
+  PDF: https://www.fs.usda.gov/treesearch/pubs/35209
+- "Forest recovery following pasture abandonment in the Amazon Basin" (Ecological Applications, 2008)
+  PDF: https://www.fs.usda.gov/treesearch/pubs/35210
+- "Spatial patterns of forest disturbance and recovery across the Amazon" (Remote Sensing of Environment, 2014)
+  PDF: https://www.researchgate.net/publication/260021051
+- Publications in Global Change Biology, Ecological Applications, Remote Sensing of Environment, Biogeosciences, Forest Ecology and Management
+
+Climate & Policy Relevance:
+- Forest carbon budgets and climate mitigation strategies
+- REDD+ and land-use mitigation strategies
+- Carbon offset evaluation and permanence
+- Impacts of agriculture, logging, and infrastructure on forests
+- Tradeoffs between development and ecosystem services
+- Recovery potential of secondary forests
+- Applicable to Florida forests: hurricane disturbance, fire, land-use change
 
 Keywords:
-Water Institute affiliate; School of Forest Resources and Conservation.
+Forest ecology; remote sensing; Landsat; LiDAR; land-use change; deforestation; forest disturbance; forest recovery; carbon dynamics; tropical forests; Amazon; REDD+; carbon accounting; landscape ecology; secondary forests; climate mitigation; Water Institute affiliate

@@ -1,13 +1,35 @@
-Name: Jorge Lorenzo-Trueba
+Name: Jorge Lorenzo-Trueba, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Geological Sciences
 Email: jlorenzotrueba@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=-wyOg3EAAAAJ&hl=en
+Website: https://uf-codymo-lab.github.io/
 
 Subject Areas:
-Water-related research
+Coastal geomorphology; Morphodynamics; Numerical modeling; Barrier island evolution; Sea-level rise; Sediment transport; Shoreline change; Deltas; Coastal marshes; Landscape evolution
+
+Education:
+- Ph.D.
+- Associate Professor, Geological Sciences, University of Florida
 
 Research Focus:
-Dr. Lorenzo-Trueba is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Geological Sciences.
+Dr. Lorenzo-Trueba is known for quantitative coastal geomorphology and landscape evolution science, using mathematical, numerical, and physical modeling to understand how coastal systems (barrier islands, deltas, marshes, shorelines) evolve under drivers like sea-level rise, sediment transport, storms, and human interventions. His work integrates models with field and experimental data to uncover controls on coastline change across decades to millennia. He leads the UF CoDyMo (Coastal Dynamics and Earth Systems Modeling) Laboratory, focusing on coupled natural-human coastal landscape dynamics.
+
+Notable Publications:
+- Morphodynamic Models of Coastal Response to Sea-Level Rise - seminal work modeling rollover, drowning, and discontinuous retreat of barrier systems
+- Numerical Models of Coupled Barrier-Marsh-Lagoon Evolution - frameworks simulating long-term coastal landscape change including sediment flux and shoreface response
+- Autogenic and Allogenic Controls on Coastal Retreat - examining internal landscape dynamics and external forcing in coastal response patterns
+- Beach Nourishment and Anthropogenic Impacts - modeling effects of engineered interventions on adjacent coastal towns and barrier evolution
+- Publications in Journal of Geophysical Research: Earth Surface, Earth's Future, and Frontiers in Earth Science
+
+Water Institute Relevance:
+Dr. Lorenzo-Trueba's coastal morphodynamic models inherently include sediment transport processes - the movement of sand, mud, and organic sediment across coastal landscapes - which are the physical analogue to nutrient-linked sediment redistribution in nearshore systems important for nutrient export/retention in estuaries and marshes. Because coastal evolution (barrier migration, marsh drowning) changes hydrology, sediment deposition patterns, and organic matter distribution, his work informs how coastal sediment dynamics affect habitats that regulate nutrient cycling and carbon storage (marshes, delta plains). His modeling contributes to risk assessment and coastal adaptation planning, which increasingly incorporates ecosystem-based approaches linking physical change to habitat and carbon/nutrient ecosystem services.
+
+Role in Research-to-Policy Pipeline:
+Research producer with translational impact. Mechanistic models underpin coastal risk assessment, landscape evolution forecasting, and adaptation planning, informing scientific understanding increasingly used in management and climate adaptation policy contexts.
+
+Strategic Value:
+Answers the question: "How will barrier islands, deltas, and coastal marshes respond to accelerating sea-level rise, storms, and human interventions, and what are the implications for future coastal risk and ecosystem services?" Influences sediment transport and morphological change modeling, coastal hazard and climate-change adaptation science, and integration of natural and anthropogenic processes in long-term coastal evolution.
 
 Keywords:
-Water Institute affiliate; Geological Sciences.
+coastal geomorphology; morphodynamics; numerical modeling; barrier islands; sea-level rise; sediment transport; shoreline change; deltas; coastal marshes; landscape evolution; CoDyMo; beach nourishment; coastal risk; climate adaptation; stratigraphy

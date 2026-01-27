@@ -2,12 +2,16 @@ Name: Stefan Gerber
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Soil Water and Ecosystem Sciences
 Email: sgerber@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=B3NekLEAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Landscape biogeochemistry, Carbon cycling, Nutrient dynamics, Climate modeling
 
 Research Focus:
-Dr. Gerber is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Soil Water and Ecosystem Sciences.
+Dr. Gerber's research aims to understand the cycles of carbon, nitrogen, and other nutrients in land ecosystems using modeling tools. His work addresses how humans interfere with natural biogeochemical cycles through pollution, fertilizers, and land-use, both directly and indirectly through anthropogenic climate change. A central question is how nutrient cycles and climate affect terrestrial biosphere capacity to sequester fossil CO2. Research includes effects of prescribed fire on soil microbial communities in Florida rangelands and nitrogen cycle representation in Earth system models.
+
+Teaching:
+- Dynamic land models widely used in Earth system models
 
 Keywords:
-Water Institute affiliate; Soil Water and Ecosystem Sciences.
+Landscape biogeochemistry; global biogeochemical cycles; terrestrial nutrient dynamics; land carbon sequestration; climate change modeling; nitrogen cycling; prescribed fire effects; Earth system models.

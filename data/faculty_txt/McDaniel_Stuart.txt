@@ -2,12 +2,28 @@ Name: Stuart McDaniel
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Biology
 Email: stuartmcdaniel@ufl.edu
+Title: Professor
+
+Google Scholar: https://scholar.google.com/citations?user=i9vUs3oAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Evolutionary genetics and genomic variation, Genetic causes and consequences of dioecy, Population genomics and sex chromosome evolution, Community genomics of moss-microbe symbioses, Genetic conflict and non-Mendelian inheritance systems
+
+Education:
+- Ph.D. Ecology and Evolution, University of Chicago
+- B.A. Biology, Oberlin College
 
 Research Focus:
-Dr. McDaniel is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Biology.
+Dr. McDaniel is an evolutionary geneticist and biological systems researcher focused on understanding genetic and genomic mechanisms that maintain variation within and among populations. He uses bryophyte (moss) model systems — especially Ceratodon purpureus and Physcomitrella patens — to investigate processes like sex chromosome evolution, dioecy, and community genomics of moss-associated nitrogen fixation. His research spans Arctic and boreal ecosystems where mosses drive nitrogen and carbon dynamics in soil layers. His portfolio includes over 130 publications on evolution, genetic variation, and bryophyte biology.
+
+Notable Publications:
+- Evolutionary causes and consequences of dioecy in mosses - mechanistic genomic research on sexual systems and population variation
+- Genomics of moss-associated nitrogen fixation communities - linking genetic variation in moss hosts with function and structure of nitrogen-fixing microbial assemblages in Arctic ecosystems
+- Sex chromosome evolution and genetic conflict studies - insights from natural bryophyte systems serving as models for broader evolutionary questions
+- Genome sequencing and community function analysis for Ceratodon purpureus - foundational resources for bryophyte genomics and evolutionary study
+
+Policy Relevance:
+Dr. McDaniel produces fundamental genomic and evolutionary insights that illuminate organismal variation and community function, indirectly informing ecological perspectives on microbial contributions to nitrogen cycling in high-latitude ecosystems. His research on moss-microbe nitrogen fixation communities interfaces with biological nitrogen inputs to soils, contributing mechanistic insight into microbial-mediated N cycling processes. Work on moss-associated N fixation informs broader ecological understanding of nitrogen inputs and turnover in soil organic layers of high-latitude ecosystems, relevant to carbon and nitrogen balance under climate change.
 
 Keywords:
-Water Institute affiliate; Biology.
+evolutionary genetics; genomics; population genomics; bryophytes; mosses; Ceratodon purpureus; Physcomitrella patens; dioecy; sex chromosomes; nitrogen fixation; moss-microbe symbiosis; Arctic ecosystems; boreal ecosystems; microbial communities; genetic variation; community genomics

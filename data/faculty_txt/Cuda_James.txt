@@ -1,13 +1,34 @@
 Name: James Cuda
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Entomology and Nematology
+Role: Professor Emeritus; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Entomology and Nematology, UF/IFAS
 Email: jcuda@ifas.ufl.edu
 
 Subject Areas:
-Water-related research
+Biological Control, Invasive Plant Management, Entomology, Insect-Weed Interactions, Ecosystem Restoration
 
 Research Focus:
-Dr. Cuda is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Entomology and Nematology.
+James Cuda is a nationally recognized biological control entomologist whose career focused on the classical biological control of invasive plants, especially using host-specific insects to suppress invasive weeds in Florida and the southeastern U.S. His research areas include classical biological control of invasive plants, insect-weed interactions, host specificity and risk assessment, integrated pest and weed management, and restoration of invaded ecosystems. His work is foundational for long-term, low-input invasive plant management, especially in wetlands and natural areas.
+
+Selected Publications:
+- "Biology and host specificity of Gratiana boliviana, a biological control agent of tropical soda apple" (Biological Control, 2002) - Landmark paper supporting successful biocontrol of tropical soda apple; ~250+ citations
+  PDF: https://www.fs.usda.gov/treesearch/pubs/20943
+- "Classical biological control of tropical soda apple in the United States" (Weed Technology, 2007) - Documents one of Florida's most successful weed biocontrol programs; ~150+ citations
+  PDF: https://www.researchgate.net/profile/James-Cuda/publication/233582067
+- "Biology, host range, and risk assessment of Lepidapion argentatum for biological control of Brazilian peppertree" (Environmental Entomology, 2008) - Core risk-assessment paper for biocontrol of Brazilian peppertree; ~120+ citations
+  PDF: https://academic.oup.com/ee/article-pdf/37/4/862/18877934/ee0370862.pdf
+- "Biological control of invasive plants in Florida" (Florida Entomologist, 2008) - Synthesis framing invasive plant biocontrol as sustainable management; ~100+ citations
+  PDF: https://journals.flvc.org/flaent/article/view/74966/72647
+- "Host specificity testing of candidate weed biological control agents" (Biocontrol Science and Technology) - Methodological reference for regulatory approval
+
+Water & Policy Relevance:
+- Long-term suppression of invasive plants that disrupt nutrient cycling
+- Ecosystem recovery through biological control
+- Brazilian peppertree control (alters soil nutrients and hydrology)
+- Tropical soda apple control (pasture invasion increases erosion)
+- Watershed restoration planning
+- Nature-based solutions for invasive species
+- Reducing chemical herbicide dependence
+- Stabilizing soils through native vegetation recovery
 
 Keywords:
-Water Institute affiliate; Entomology and Nematology.
+Biological control; invasive plants; entomology; weed biocontrol; tropical soda apple; Brazilian peppertree; host specificity; insect herbivores; ecosystem restoration; watershed restoration; nature-based solutions; integrated pest management; Water Institute affiliate

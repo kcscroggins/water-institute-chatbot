@@ -2,12 +2,24 @@ Name: Kent Crippen
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: School of Teaching and Learning
 Email: kent.crippen@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=urfikjEAAAAJ&hl=en
+Website: https://education.ufl.edu/faculty/crippen-kent/
 
 Subject Areas:
-Water-related research
+STEM education, Cyberlearning, Educational technology, Inclusive education
+
+Education:
+- Ph.D. Administration, Curriculum & Instruction, University of Nebraska-Lincoln (2000)
+- M.Ed. Curriculum & Instruction, University of Nebraska-Lincoln (1996)
+- B.S. Education, University of Nebraska-Lincoln (1991)
 
 Research Focus:
-Dr. Crippen is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in School of Teaching and Learning.
+Dr. Crippen's research examines how networked learning technologies can create inclusive STEM education pathways. His work addresses the chronic problem of under-representation of specific populations in STEM through cyberlearning environments. He investigates how design-based interventions can tackle persistent challenges in STEM education.
+
+Notable Positions:
+- Professor of STEM Education and Director of the INSPIRE Center for STEM Learning (2017-present)
+- Editor-in-Chief, Journal of Science Education and Technology (2017-present)
+- Fellow, American Association for the Advancement of Science (2011)
 
 Keywords:
-Water Institute affiliate; School of Teaching and Learning.
+STEM education; cyberlearning; curriculum development; educational technology design; science teaching and learning; inclusive education; inquiry-based instruction.

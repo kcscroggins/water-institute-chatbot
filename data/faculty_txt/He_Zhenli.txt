@@ -1,13 +1,28 @@
 Name: Zhenli He
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Soil and Water Sciences
+Role: Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Soil and Water Sciences
 Email: zhe@ufl.edu
 
 Subject Areas:
-Water-related research
+Soil Phosphorus Chemistry, Nutrient Management, Biosolids, Manure Management, Nutrient Runoff, Trace Elements
 
 Research Focus:
-Dr. He is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Soil and Water Sciences.
+Zhenli He is a soil scientist specializing in phosphorus chemistry, nutrient management, and environmental risk of manure and biosolids applications. His research areas include soil phosphorus chemistry and speciation, nutrient management (P, trace elements), manure, biosolids, and waste reuse, nutrient runoff and leaching risk, and soil amendments and nutrient availability. His work directly addresses nutrient loss, eutrophication risk, and sustainable reuse of organic residuals, informing P-based BMPs and nutrient-loading policy in phosphorus-sensitive regions.
+
+Selected Publications:
+- "Enzymatic characterization of organic phosphorus in animal manure" (Journal of Environmental Quality) - Foundational work on P forms and bioavailability in manure
+- Extensive body of work on phosphorus fractionation, soil P saturation, and nutrient loss risk under different amendments
+- "Phosphorus speciation and bioavailability in soils and sediments" (Critical Reviews in Environmental Science and Technology) - Influential synthesis widely cited in P management and policy
+
+Water & Policy Relevance:
+- Phosphorus transformations, mobility, and loss pathways in soils
+- Chemical controls on nutrient availability and environmental risk
+- Defining when soils shift from P sinks to sources
+- Phosphorus indices and regulatory thresholds
+- Nutrient management planning and BMPs
+- Sustainable reuse of organic residuals
+- Managing P to prevent runoff and eutrophication
+- Scientific basis for phosphorus-based nutrient regulations
 
 Keywords:
-Water Institute affiliate; Soil and Water Sciences.
+Soil phosphorus; nutrient management; phosphorus chemistry; biosolids; manure; nutrient runoff; leaching; eutrophication; trace elements; soil amendments; P saturation; BMPs; Water Institute affiliate

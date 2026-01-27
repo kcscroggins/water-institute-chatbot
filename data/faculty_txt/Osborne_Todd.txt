@@ -2,12 +2,28 @@ Name: Todd Osborne
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Soil and Water Sciences
 Email: osbornet@ufl.edu
+Title: Professor
+
+Google Scholar: https://scholar.google.com/citations?user=Fc2jwNAAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Soil carbon and nitrogen cycling, Soil organic matter dynamics, Nutrient management in agricultural systems, Greenhouse gas emissions from soils, Agroecosystem sustainability and soil health
+
+Education:
+- Ph.D. Soil Science
+- Research focus on soil biogeochemistry and agroecosystem management
 
 Research Focus:
-Dr. Osborne is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Soil and Water Sciences.
+Dr. Osborne is known for his work in soil biogeochemistry and agroecosystem management, particularly soil carbon and nitrogen dynamics, nutrient cycling, and the impacts of land management practices on soil health and environmental outcomes. His research examines how agricultural systems influence soil processes that affect productivity, greenhouse gas emissions, and long-term sustainability. He employs field experiments in managed agricultural systems, soil chemical and biological analyses, measurement of carbon and nitrogen stocks and fluxes, and evaluation of management practices such as fertilization and cropping systems. Research systems include agricultural soils, managed cropping systems particularly in subtropical and Southeastern U.S. contexts, and systems relevant to production agriculture and environmental quality.
+
+Notable Publications:
+- Effects of agricultural management on soil carbon storage
+- Nitrogen cycling and nutrient-use efficiency
+- Links between soil processes and greenhouse gas emissions
+- Publications in Soil Science Society of America Journal, Agriculture Ecosystems & Environment, Biogeochemistry, and Geoderma
+
+Policy Relevance:
+Dr. Osborne's research informs decisions about sustainable nutrient management and land-use practices by quantifying how management choices affect soil carbon storage, nitrogen losses, and environmental performance. He provides process-level evidence linking agricultural management to soil carbon sequestration, nutrient efficiency, and emissions, which are central levers in sustainable agriculture and climate mitigation. His work influences land management and nutrient management practices, soil health metrics used in sustainability and climate frameworks, and provides empirical foundations for agricultural policy and best practices.
 
 Keywords:
-Water Institute affiliate; Soil and Water Sciences.
+soil biogeochemistry; carbon cycling; nitrogen cycling; soil organic matter; nutrient management; greenhouse gas emissions; agroecosystems; soil health; agricultural soils; land management; carbon sequestration; nutrient-use efficiency; sustainable agriculture; cropping systems; Florida agriculture

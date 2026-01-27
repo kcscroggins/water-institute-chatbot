@@ -1,13 +1,41 @@
 Name: Jianjun Chen
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Environmental Horticulture
+Role: Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Environmental Horticulture Department, UF/IFAS
 Email: jjchen@ufl.edu
 
 Subject Areas:
-Water-related research
+Environmental Horticulture, Plant Physiology, Ornamental Plant Production, Greenhouse Systems, Water Use Efficiency
+
+Education:
+- Ph.D. Horticulture / Plant Physiology
+- M.S. Horticultural Sciences
+- B.S. Horticulture / Plant Sciences
 
 Research Focus:
-Dr. Chen is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Environmental Horticulture.
+Jianjun Chen is an internationally recognized environmental horticulturist and plant physiologist specializing in ornamental and foliage plant production in greenhouse, nursery, and interior landscapes. His research spans plant physiology, propagation, and production systems with strong applied focus, including ornamental and foliage plant production, plant nutrition and substrate management, plant growth regulation, physiological responses to environmental stress, and interior plantscape performance. He works to optimize plant growth, quality, and sustainability under controlled and semi-controlled environments, frequently integrating basic plant physiology with commercial production challenges.
+
+Selected Publications:
+- "Development of New Foliage Plant Cultivars" (Chen, Henny, McConnell, 2002) - Widely cited cultivar development work
+- "Cultivar Development of Ornamental Foliage Plants" (Plant Breeding Reviews) - Highly cited breeding chapter
+- "Evaluation of Captured Rainwater and Irrigation Runoff for Greenhouse Foliage and Bedding Plant Production" (2003) - Water reuse research
+- "Cutting Propagation of Foliage Plants" (Chen & Stamps, 2006) - Propagation guide
+- "The Foliage Plant Industry" (Henny & Chen) - Foundational industry review
+
+EDIS Extension Publications:
+- "Compost-formulated Media for Foliage Plant Production" (EP129) - Sustainable substrate guidance
+- "Potential of Collected Stormwater and Irrigation Runoff for Foliage and Bedding Plant Production" (EP116) - Water reuse for production
+- "Tropical Foliage Cultivar Development: New Ornamental Introductions Drive Plant Markets" (EP357)
+- Multiple cultural guidelines for interiorscape production (Aglaonema, Anthurium, Dieffenbachia, Ficus, Spathiphyllum)
+
+Water & Policy Relevance:
+- Water use efficiency in greenhouse and nursery systems
+- Reduced water use through optimized substrates and fertilization
+- Minimizing nutrient leaching and runoff from ornamental production
+- Fertilizer formulations that reduce excess nutrient loss
+- Container substrates that retain nutrients and water
+- Industry BMPs for ornamental producers
+- Stormwater and irrigation runoff reuse
+- Environmental compliance in horticulture
 
 Keywords:
-Water Institute affiliate; Environmental Horticulture.
+Environmental horticulture; ornamental plants; foliage plants; plant physiology; greenhouse production; nursery systems; water use efficiency; irrigation runoff; stormwater reuse; nutrient management; container substrates; BMPs; cultivar development; plant propagation; Water Institute affiliate

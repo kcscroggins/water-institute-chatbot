@@ -1,13 +1,34 @@
 Name: Michael Dukes
-Role: Affiliate Faculty, UF Water Institute
+Role: Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: Agricultural and Biological Engineering
 Email: mddukes@ufl.edu
 
 Subject Areas:
-Water-related research
+Irrigation Engineering, Water Conservation, Smart Irrigation, Evapotranspiration, Soil Moisture Sensing, Nutrient Leaching
 
 Research Focus:
-Dr. Dukes is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural and Biological Engineering.
+Michael Dukes is one of the leading irrigation and water-use efficiency researchers in the U.S., best known for his work on smart irrigation controllers, evapotranspiration (ET)-based scheduling, soil moisture sensing, and water conservation in agricultural and urban landscapes. His research areas include irrigation engineering and scheduling, ET-based irrigation, soil moisture sensors, smart irrigation controllers, agricultural and urban water conservation, irrigation impacts on nutrient leaching, and water policy and BMP evaluation. His work underpins Florida irrigation BMPs, FAWN-based recommendations, and national standards for smart irrigation devices.
+
+Selected Publications:
+- "Performance of smart irrigation controllers: Water savings, irrigation adequacy, and impacts" (Journal of Irrigation and Drainage Engineering) - Evaluating whether smart controllers actually save water
+  PDF: https://ascelibrary.org/doi/pdf/10.1061/(ASCE)IR.1943-4774.0000194
+- "Irrigation scheduling based on soil moisture sensor thresholds" (Applied Engineering in Agriculture) - How sensor-based irrigation reduces over-watering and nutrient loss
+  PDF: https://ufdc.ufl.edu/IR00003628/00001
+- "Water conservation potential of smart irrigation controllers on turfgrass" (HortTechnology) - Widely cited for urban water conservation policy
+  PDF: https://journals.ashs.org/horttech/downloadpdf/journals/horttech/22/3/article-p364.pdf
+- "Evaluation of irrigation control strategies for citrus and vegetable crops" (Transactions of the ASABE) - Crop-level yield maintenance with reduced irrigation
+- "Irrigation and nutrient management interactions in sandy soils" (Agricultural Water Management) - Irrigation frequency and nutrient leaching risk in Florida soils
+  PDF: https://ufdc.ufl.edu/IR00003751/00001
+
+Water & Policy Relevance:
+- Reducing excess irrigation directly reduces nutrient leaching
+- Water management equals nutrient management in sandy soils
+- Smart irrigation controllers for urban nutrient runoff reduction
+- BMAP nutrient-reduction strategies through irrigation control
+- Agricultural water policy and compliance pathways
+- Urban irrigation ordinances and utility programs
+- Climate-resilient water planning
+- Technology-based BMPs for water and nutrient conservation
 
 Keywords:
-Water Institute affiliate; Agricultural and Biological Engineering.
+Irrigation engineering; water conservation; smart irrigation; ET-based irrigation; soil moisture sensors; nutrient leaching; sandy soils; turfgrass; citrus; vegetables; BMPs; FAWN; urban irrigation; agricultural water management; Water Institute affiliate

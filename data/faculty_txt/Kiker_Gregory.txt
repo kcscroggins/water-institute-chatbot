@@ -4,10 +4,20 @@ Academic Unit: Agricultural and Biological Engineering
 Email: gkiker@ufl.edu
 
 Subject Areas:
-Water-related research
+Ecological modeling, Water systems management, Environmental decision analysis, Adaptive management
+
+Education:
+- Ph.D. Agricultural and Biological Engineering, Cornell University (1998)
+- M.S. Agricultural and Biological Engineering, University of Florida (1992)
+- Fulbright Scholar for climate change research, South Africa (1992-1993)
 
 Research Focus:
-Dr. Kiker is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural and Biological Engineering.
+Dr. Kiker focuses on ecological modeling and management of natural systems. His work addresses the need for effective management of valued resources in uncertain environments through integration of ecological, hydrological, and decision modeling. Notable research includes the Florida-Georgia dispute over the Apalachicola-Chattahoochee-Flint Rivers, development of stakeholder-derived water system models, and coastal systems challenges.
+
+Current Role:
+- Interim Chair, Department of Agricultural and Biological Engineering (January 2025)
+- Graduate Coordinator and spearhead of online Master's program
+- Former Research Physical Scientist, U.S. Army Corps of Engineers (2002-2005)
 
 Keywords:
-Water Institute affiliate; Agricultural and Biological Engineering.
+Ecological modeling; water systems management; environmental risk and decision analysis; adaptive management; ACF Basin; stakeholder engagement; decision support systems.

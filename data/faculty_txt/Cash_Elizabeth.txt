@@ -2,12 +2,18 @@ Name: Elizabeth Cash
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Environmental Engineering Sciences
 Email: e.cash@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=WT47fVUAAAAJ&hl=en
+Website: https://www.elizabethcash.com/
 
 Subject Areas:
-Water-related research
+Social insect ecology, Chemical ecology, Invasive species, Ant communication
 
 Research Focus:
-Dr. Cash is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Environmental Engineering Sciences.
+Elizabeth Cash's research centers on the ecology and evolution of social insects, with particular focus on the diversity, function, and evolution of traits involved in communication and group living in native and introduced ant species. She uses an integrative approach combining chemical ecology, behavior, genomics, and functional genetics. Key research areas include pheromone communication, invasive ant biology, desaturase genes in social Hymenoptera, and social immunity through natural antibiotics produced by ants.
+
+Notable Publications:
+- Genome assembly of the winter ant, Prenolepis imparis (Journal of Heredity, 2024)
+- Research on recognition systems including colony and caste identity in ants
 
 Keywords:
-Water Institute affiliate; Environmental Engineering Sciences.
+Social insect ecology; chemical ecology; pheromone communication; invasive ants; cuticular hydrocarbons; ant genomics; social immunity; species recognition.

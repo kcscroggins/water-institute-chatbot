@@ -1,13 +1,39 @@
-Name: Alex Lindsey
+Name: Alex J. Lindsey, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Environmental Horticulture
 Email: alex.lindsey@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=tNY-fCYAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Turfgrass management; Soil health; Nutrient use efficiency; Sustainable fertilization; Humic fertilizers; Urban landscapes; Best management practices; Lawn management; Soil amendments
+
+Education:
+- Ph.D.
+- Assistant Professor (Urban Turfgrass Management), University of Florida
 
 Research Focus:
-Dr. Lindsey is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Environmental Horticulture.
+Dr. Lindsey is known for his research and extension in sustainable turfgrass and landscape management, with emphasis on optimizing turf performance, soil fertility and health, nutrient use efficiency, and reducing environmental impacts of management practices. He conducts field-focused experiments on turf management and sustainable nutrient/supplemental inputs including humic and algae-based fertilizers. His work addresses turfgrass species such as Kentucky bluegrass, bermudagrass, and zoysiagrass in Florida soils and climate contexts.
+
+Notable Publications:
+- Urban Landscapes: Turfgrass Benefits - review on environmental, ecological, and functional roles of turfgrass in urban systems
+- Evaluation of Humic Fertilizers on Kentucky Bluegrass and Turfgrass Soil Health - assessing humic and alternative fertilizers' effects on soil and turf responses
+- Selecting a Turfgrass for Florida Lawns (EDIS) - extension publication guiding species selection for lawns
+- Homeowner Best Management Practices for the Home Lawn (EDIS) - UF/IFAS nutrient recommendations for annual nitrogen application rates
+- Extension fact sheets on turfgrass identification, shade management, and hurricane recovery
+
+Extension Programs:
+- Turfgrass selection and management guidance for Florida lawns
+- Nutrient BMPs for urban landscapes and homeowners
+- Sustainable fertilization practices and soil amendment evaluation
+
+Water Institute Relevance:
+Dr. Lindsey's work on nutrient recommendations and BMPs for lawns (e.g., nitrogen application rates) directly relates to nutrient use efficiency in urban landscapes and reducing potential nutrient losses to water bodies. His research on humic and algae-based fertilizers, soil health responses, and soil amendment effects on turf rooting and soil properties informs mechanisms of nutrient availability and soil function that underlie nutrient retention and cycling in managed soils. Urban turf and lawn practices influence runoff, erosion control, and nutrient export; extension BMPs he contributes to guide reduced fertilizer inputs and improved nutrient stewardship, which can mitigate nutrient loading to adjacent water bodies.
+
+Role in Research-to-Policy Pipeline:
+Applied research producer and Extension implementer. Conducts field-focused experiments on turf management and sustainable nutrient inputs and translates findings into extension fact sheets and best management practices for practitioners, homeowners, and landscape professionals.
+
+Strategic Value:
+Answers the question: "How can turf and urban landscape fertilization and soil amendment practices be optimized to maintain plant performance while minimizing nutrient losses and environmental impacts?" Influences recommendation of nutrient application rates for turfgrass, adoption of sustainable fertilization practices in urban landscapes, and education of homeowners and professionals on BMPs to reduce runoff and nutrient export.
 
 Keywords:
-Water Institute affiliate; Environmental Horticulture.
+turfgrass; urban landscapes; soil health; nutrient use efficiency; fertilizer management; nitrogen; humic fertilizers; BMPs; lawn management; soil amendments; Extension; residential landscapes; sustainable horticulture; runoff reduction

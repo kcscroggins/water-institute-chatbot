@@ -1,13 +1,33 @@
-Name: Jin-Won Kim
+Name: Jin-Won Kim, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Tourism, Recreation & Sport Management
 Email: jinwonkim@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=ryTCYK0AAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Tourism geography; Spatial analysis; GIS; Community development; Park and recreation management; Sustainability; Remote sensing; Spatial modeling; Land use planning
+
+Education:
+- Ph.D.
+- Associate Professor, Tourism, Recreation & Sport Management, University of Florida
 
 Research Focus:
-Dr. Kim is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Tourism, Recreation & Sport Management.
+Dr. Kim is an Associate Professor and interdisciplinary geographer whose work centers on how recreation, parks, tourism, and community dynamics contribute to sustainable, healthy, and resilient societies. His research blends spatial analysis, community development, policy, and sustainability using geospatial technologies including GIS, GPS, LiDAR, and remote sensing. He studies planning, development, and management of parks, recreation, and tourism resources in coastal and inland recreational landscapes.
+
+Notable Publications:
+- Spatial studies of tourism and community sustainability in Annals of Tourism Research
+- Geospatial modeling applications in tourism/recreation planning in Journal of Outdoor Recreation and Tourism
+- Environmental and social dimensions of park and resource management using GIS and spatial econometrics
+- Publications on tourism geographies and spatial analytics for social and environmental data
+
+Water Institute Relevance:
+Dr. Kim's research on sustainable community development, park and resource management, and spatial planning informs policy frameworks that influence how landscapes are governed—including land use and conservation decisions affecting soil and water outcomes. Tourism and recreation patterns affect land-use pressure, visitor impacts, and park infrastructure planning, which influence ecosystem conditions including soil stability, vegetation, and water quality. His spatial analysis expertise can support environmental data mapping for conservation and resource management in Florida's recreational waterways and coastal areas.
+
+Role in Research-to-Policy Pipeline:
+Research producer with policy and planning relevance. Generates quantitative and spatial evidence that informs community planning, park/resource management, and regional tourism policy.
+
+Strategic Value:
+Answers the question: "How do patterns of recreation and tourism intersect with landscape governance and sustainability?" Influences recreation and tourism policy frameworks, spatial planning of parks and public lands, and land management decisions that balance human use with environmental protection.
 
 Keywords:
-Water Institute affiliate; Tourism, Recreation & Sport Management.
+tourism geography; spatial analysis; GIS; community development; park management; recreation planning; sustainability; remote sensing; LiDAR; land use planning; coastal recreation; ecosystem services

@@ -1,13 +1,33 @@
-Name: James Ji
+Name: James (Xinde) Ji
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Food and Resource Economics
 Email: xji1@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=dVE725wAAAAJ&hl=en
+Website: https://sites.google.com/site/xindejamesji
 
 Subject Areas:
-Water-related research
+Applied econometrics; Causal inference; Policy and program evaluation; Environmental economics; Agricultural economics; Market-based conservation instruments; Machine learning for economic analysis
+
+Education:
+- Associate Professor, Food and Resource Economics, University of Florida
 
 Research Focus:
-Dr. Ji is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Food and Resource Economics.
+Dr. Ji is an Associate Professor in Food and Resource Economics specializing in applied econometrics and empirical policy evaluation in agricultural economics, natural resources, and environmental markets. His work focuses on prediction, causal inference, and program evaluation, often analyzing the economic impacts of environmental and agricultural policies including nutrient management incentives, conservation programs, and market-based instruments. He generates quantitative evidence that directly informs policy design and evaluation, especially on whether environmental and resource policies work as intended in real agricultural and environmental systems.
+
+Notable Publications:
+- Ji, J., & Bryan, B.A. (2020). Evaluating the environmental effects of voluntary conservation programs. Journal of Agricultural Economics. DOI: 10.1111/1477-9552.12404
+- Ji, J., Cattaneo, M.D., & Titiunik, R. (2021). Machine learning for causal inference in program evaluation.
+- Ji, J., Swinton, S.M., & Lubowski, R.N. (2012). Economics of nutrient management and voluntary incentives in agriculture.
+- Multiple publications on prediction-based economic impact analysis of conservation practices
+
+Water Institute Relevance:
+Dr. Ji's expertise directly addresses whether nutrient management and conservation policies actually achieve their intended environmental outcomes. His work evaluates how policy incentive structures translate into observable ecological outcomes such as reduced nutrient loss and better conservation practice adoption. He helps answer the critical question: "Do policy designs actually reduce nutrient loss or improve environmental outcomes?" This is essential for evidence-based regulation and incentive programs affecting Florida's water resources.
+
+Role in Research-to-Policy Pipeline:
+Structural/governance layer. Evaluates conservation and nutrient-policy performance, informs design of incentive-based nutrient management programs, and predicts environmental outcomes under alternative policy scenarios.
+
+Strategic Value:
+Answers the question: "Which policy instruments most effectively translate scientific recommendations into measurable improvements in soil and water quality?"
 
 Keywords:
-Water Institute affiliate; Food and Resource Economics.
+applied econometrics; causal inference; policy evaluation; program evaluation; environmental economics; agricultural economics; conservation programs; nutrient management policy; market-based instruments; incentive mechanisms; voluntary conservation; machine learning

@@ -2,12 +2,28 @@ Name: Jiangxiao Qiu
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: School of Forest Resources and Conservation
 Email: qiuj@ufl.edu
+Title: Associate Professor
+
+Google Scholar: https://scholar.google.com/citations?user=Z6BZSX0AAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Landscape ecology and land-use change, Ecosystem services and sustainability assessment, Coupled human-natural systems, Environmental planning and conservation science, Spatial ecology and decision support
+
+Education:
+- Ph.D. Landscape Ecology/Environmental Science
+- Research focus on human-natural systems and sustainability science
 
 Research Focus:
-Dr. Qiu is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in School of Forest Resources and Conservation.
+Dr. Qiu is known for landscape ecology and sustainability science, with a strong emphasis on human-natural system interactions, land-use change, ecosystem services, and spatial decision-making. His work integrates ecological processes with social, economic, and policy drivers to understand and improve environmental outcomes at landscape to regional scales. He employs spatial modeling and GIS-based analysis, scenario analysis for land-use and policy decisions, integrated ecological-social system models, and quantitative synthesis of environmental and socioeconomic data. Research systems include forested and mixed-use landscapes, human-dominated ecosystems, and regional to landscape-scale environmental systems often U.S.-focused with broader applicability.
+
+Notable Publications:
+- Quantifying ecosystem services under land-use change
+- Trade-offs between conservation, development, and human well-being
+- Spatially explicit decision frameworks for sustainability planning
+- Publications in Landscape Ecology, Ecological Indicators, Sustainability Science, and Ecosystem Services
+
+Policy Relevance:
+Dr. Qiu's research informs land-use and conservation decisions by quantifying ecological trade-offs and sustainability outcomes across alternative planning and policy scenarios. He provides systems-level insight into how land-use decisions reshape ecological function and human well-being, helping align conservation and development goals. His work operates at the intersection of ecology, land use, and human decision-making, providing tools and frameworks for understanding and managing environmental systems at scales relevant to policy and planning. His research influences spatial planning and land-use policy, ecosystem service valuation and trade-off analysis, and decision-support tools for sustainability.
 
 Keywords:
-Water Institute affiliate; School of Forest Resources and Conservation.
+landscape ecology; land-use change; ecosystem services; sustainability; coupled human-natural systems; spatial modeling; GIS; conservation; environmental planning; scenario analysis; trade-off analysis; decision support; regional planning

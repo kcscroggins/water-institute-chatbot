@@ -1,13 +1,31 @@
-Name: David Mazyck
+Name: David W. Mazyck
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Environmental Engineering Sciences, ESSIE
 Email: dmazyck@ufl.edu
+Title: Professor Emeritus
+
+Google Scholar: https://scholar.google.com/citations?user=tmBO-ccAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Water and wastewater treatment technologies, Activated carbon adsorbents and advanced sorbent materials, Photocatalytic oxidation processes for contaminant removal, Environmental nanotechnology and composite materials, Air purification technologies
+
+Education:
+- Ph.D. Environmental Engineering, University of Florida
+- M.S. Environmental Engineering, University of Florida
+- B.S. Environmental Engineering, University of Florida
 
 Research Focus:
-Dr. Mazyck is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Environmental Engineering Sciences, ESSIE.
+Dr. David Mazyck is known for environmental engineering research focusing on water treatment, air purification, and advanced materials technologies — particularly activated carbon technologies and photocatalysis for contaminant removal in water and air systems. His work spans fundamental environmental engineering research and applied technologies that have been used or commercialized for water and air purification, influencing both engineering practice and environmental technology development. Research systems include engineered water treatment systems, air quality and gas-phase contaminant control, industrial and municipal pollution control technologies, and innovative materials for environmental remediation.
+
+Notable Publications:
+- Magnetic powdered activated carbon for aqueous Hg(II) removal - optimization of magnetic recovery of activated carbon for mercury removal from water
+- Photocatalytic oxidation studies using silica-titania composite photocatalysts for degrading organic contaminants in gray water and air streams
+- Reaction kinetics and material optimization work on silica-titania and TiO2/activated carbon composites for organic carbon reduction and VOC removal
+- Life cycle assessment integration for comparative environmental impact assessments of pollutant control systems
+- Research on adsorption isotherms, kinetic modeling, reactor design, and material surface chemistry for contaminant control
+
+Policy Relevance:
+Dr. Mazyck produces applied research that informs environmental technology deployment for water and air quality improvement, contributing to engineering standards and purification technology commercialization. His expertise in water treatment technologies addresses contaminant removal challenges that intersect with water quality protection, which is a critical underpinning for healthy aquatic ecosystems and safe water use. His technologies for water purification help reduce contaminant loads in engineered systems, contributing to water quality management policies.
 
 Keywords:
-Water Institute affiliate; Environmental Engineering Sciences, ESSIE.
+water treatment; wastewater treatment; activated carbon; photocatalysis; photocatalytic oxidation; TiO2; titanium dioxide; adsorption; contaminant removal; environmental nanotechnology; composite materials; air purification; mercury removal; VOC removal; sorbent materials; environmental remediation; water quality

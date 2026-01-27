@@ -1,13 +1,40 @@
 Name: Mark Clark
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Soil and Water Sciences
-Email: clarkmw@ufl.edu 
+Role: Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Soil and Water Sciences Department, UF/IFAS
+Email: clarkmw@ufl.edu
 
 Subject Areas:
-Water-related research
+Soil Science, Biogeochemistry, Nutrient Cycling, Soil Organic Matter, Water Quality
+
+Education:
+- Ph.D. Soil Science / Biogeochemistry
+- M.S. Soil Science
+- B.S. Environmental or Soil Sciences
 
 Research Focus:
-Dr. Clark is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Soil and Water Sciences.
+Mark Clark is a soil scientist and biogeochemist whose work focuses on soil organic matter, nutrient cycling, and soil health in managed and agricultural ecosystems. His research integrates soil chemistry, biology, and management, including soil organic matter dynamics, carbon sequestration and stabilization, nitrogen and phosphorus cycling, soil health indicators, and linkages between soils and water quality. He studies how carbon, nitrogen, and phosphorus move through soils and how management practices alter those processes. His work combines field experiments, laboratory analyses, and ecosystem modeling.
+
+Selected Publications:
+- "Nutrient inputs from the watershed and coastal eutrophication in the Florida Keys" (Estuaries, 1992; with Lapointe) - Watershed nutrient impacts on coastal waters; ~400+ citations
+  PDF: https://link.springer.com/article/10.2307/1352233
+- "Biogeochemical indices of phosphorus retention and release by wetland soils and adjacent stream sediments" (Wetlands, 2006; with Dunne & Reddy) - When wetlands retain vs. release phosphorus
+  PDF: https://link.springer.com/article/10.1672/0277-5212(2006)26[133:BIOPRA]2.0.CO;2
+- "Phosphorus in agricultural ditch soil and potential implications for water quality" (Journal of Soil and Water Conservation, 2007) - P mobilization pathways to downstream waters
+  PDF: https://www.jswconline.org/content/62/4/244
+- "Methods for Evaluating Wetland Condition: Biogeochemical Indicators" (EPA report; with Reddy) - Widely used regulatory/assessment methods reference
+  PDF: https://www.epa.gov/wetlands/methods-evaluating-wetland-condition
+- "Chemical Composition of Soil Organic Matter in a Subarctic Peatland" (SSSAJ, 2017) - Mechanistic soil carbon composition and stabilization
+- Publications in Soil Biology & Biochemistry, Geoderma, Biogeochemistry, Journal of Environmental Quality, SSSAJ
+
+Water & Policy Relevance:
+- Nutrient retention and loss mechanisms from soils
+- BMAP nutrient-reduction strategies
+- Nonpoint source pollution control
+- Soil-based mitigation practices for water quality
+- Legacy phosphorus in wetland and agricultural soils
+- Carbon storage potential and climate mitigation
+- BMP design and evaluation
+- Wetland biogeochemistry and restoration
 
 Keywords:
-Water Institute affiliate; Soil and Water Sciences.
+Soil science; biogeochemistry; soil organic matter; carbon sequestration; nutrient cycling; phosphorus; nitrogen; water quality; wetlands; agricultural soils; BMPs; nonpoint source pollution; BMAP; soil health; legacy nutrients; Water Institute affiliate

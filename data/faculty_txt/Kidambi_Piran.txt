@@ -1,13 +1,34 @@
-Name: Piran R. Kidambi
+Name: Piran R. Kidambi, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Mechanical and Aerospace Engineering
 Email: p.kidambi@ufl.edu
+Google Scholar: https://scholar.google.co.uk/citations?user=B_YirkMAAAAJ&hl=en
+Website: https://pirankidambi.wixsite.com/kidambiresearchgroup
 
 Subject Areas:
-Water-related research
+Nanomaterials synthesis; 2D materials; Graphene; Atomically thin membranes; Membrane separations; In situ metrology; Process engineering; Transport phenomena; Water purification technologies
+
+Education:
+- Ph.D.
+- Associate Professor, Mechanical and Aerospace Engineering, University of Florida
 
 Research Focus:
-Dr. Kidambi is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Mechanical and Aerospace Engineering.
+Dr. Kidambi is an Associate Professor in Mechanical and Aerospace Engineering specializing in nanomaterials synthesis, process engineering, and in situ metrology. His research focuses on atomically thin membranes (graphene and 2D materials) for separations, energy applications, and advanced membrane technologies. He develops novel membrane materials and fabrication methods for molecular and ionic separations, with applications including desalination, dialysis, and nanofiltration.
+
+Notable Publications:
+- Nanoporous Atomically Thin Graphene Membranes for Desalting and Dialysis Applications. Advanced Materials. DOI: 10.1002/adma.201700277
+- Subatomic Species Transport through Atomically Thin Membranes. Science. DOI: 10.1126/science.abd7687
+- Protein-Enabled Size-Selective Defect-Sealing of Atomically Thin Membranes - 2D membrane fabrication for separations including small ionic solutes
+- Multiple works on membrane creation, pore engineering, and transport mechanisms
+
+Water Institute Relevance:
+Dr. Kidambi's research on atomically thin membranes directly addresses water purification and desalination technologies. His work on nanoporous graphene membranes enables precise control of molecular and ionic transport, which has applications in advanced water treatment, selective nutrient removal, and pollutant filtration. Understanding and engineering membrane transport at the atomic scale supports next-generation water purification systems that could improve water quality management and potentially enable selective nutrient recovery from wastewater.
+
+Role in Research-to-Policy Pipeline:
+Research producer with applied materials/engineering focus. Develops novel membrane materials and fabrication methods producing foundational science that feeds into materials-driven system design and water treatment technology development.
+
+Strategic Value:
+Answers the question: "How can we design membranes that precisely control molecular transport?" - a key question for next-generation water purification, desalination, and selective separations that could impact nutrient and pollutant management.
 
 Keywords:
-Water Institute affiliate; Mechanical and Aerospace Engineering.
+nanomaterials; graphene; 2D materials; atomically thin membranes; membrane separations; desalination; water purification; nanofiltration; dialysis; transport phenomena; process engineering; in situ metrology

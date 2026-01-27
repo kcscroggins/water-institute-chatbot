@@ -2,12 +2,31 @@ Name: Rafael Munoz-Carpena
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Agricultural and Biological Engineering
 Email: carpena@ufl.edu
+Title: Distinguished Professor
+
+Google Scholar: https://scholar.google.com/citations?user=8-GYxFAAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Hydrology and water quality modeling, Surface runoff and sediment transport processes, Watershed hydrologic dynamics and nutrient export, Vegetative filter strip design and efficacy modeling, Uncertainty and sensitivity analysis of environmental models, Integration of mechanistic models and AI for hydrology
+
+Education:
+- Ph.D. Agricultural Engineering, University of Florida
+- M.S. Agricultural Engineering, University of Florida
+- B.S. Agricultural Engineering, Polytechnic University of Madrid (Spain)
 
 Research Focus:
-Dr. Munoz-Carpena is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural and Biological Engineering.
+Dr. Munoz-Carpena is a leading hydrologist and water-quality modeler whose research focuses on surface/groundwater hydrology, solute and sediment transport, watershed water quality modeling, and predictive environmental modeling with rigorous uncertainty analysis. He is especially known for developing and advancing hydrologic and water quality models used to quantify pollutant transport and for research on vegetative filter strips and nutrient runoff in agricultural landscapes. His modeling work supports decision support systems and best management practice evaluation for water quality regulators, watershed planners, and agricultural stakeholders. Research systems include agricultural and managed landscapes, Florida watersheds (e.g., C-111 Basin, Everglades), coastal and wetland hydrologic systems, with model applications globally (U.S., Latin America, Europe, Africa). His publication record includes hundreds of peer-reviewed articles.
+
+Notable Publications:
+- Convergence of mechanistic modeling and artificial intelligence in hydrologic science and engineering (PLOS Water, 2023) - integration of AI with hydrologic models
+- Studies quantifying runoff, sediment transport, and watershed resilience to climate extremes using sensor data and nonlinear dynamics
+- Multiyear work on model uncertainty, sensitivity, and parameter estimation in watershed models applicable to water quality policy assessments
+- Research on vegetative filter strip (VFS) effectiveness for sediment control and pesticide exposure reduction in aquatic environments
+- Mechanistic studies of water quantity and quality in watershed-lake systems (e.g., Kissimmee River-Lake Okeechobee)
+- Work on calibrating hydrologic and solute transport models in coastal floodplain forests and wetland zones
+
+Policy Relevance:
+Dr. Munoz-Carpena produces mechanistic and data-driven models that inform nutrient and sediment runoff mitigation strategies, best management practice evaluation, and water quality protection policy for agricultural and watershed systems. His work on solute transport, watershed nutrient modeling, and vegetative filter strip performance directly addresses nutrient export mechanisms from soils to water bodies and informs nutrient loss mitigation strategies. His models quantify hydrologic drivers of runoff, nutrient and sediment transport, and incorporate uncertainty and sensitivity analyses that provide mechanistic understanding of how soil and landscape properties influence nutrient loss processes. Models such as VFSMOD and other hydrologic decision support tools are used in evaluating BMPs and informing nutrient runoff regulation.
 
 Keywords:
-Water Institute affiliate; Agricultural and Biological Engineering.
+hydrology; water quality modeling; solute transport; sediment transport; watershed modeling; nutrient export; runoff; vegetative filter strips; VFSMOD; uncertainty analysis; sensitivity analysis; BMPs; best management practices; Everglades; Lake Okeechobee; agricultural hydrology; decision support systems

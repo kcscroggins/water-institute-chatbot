@@ -1,13 +1,31 @@
-Name: Mark Newman
+Name: Mark A. Newman
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Civil and Coastal Engineering, ESSIE
 Email: markn@ufl.edu
+Title: Co-Director, Florida Water Resources Research Center; Senior Lecturer, P.E.
 
 Subject Areas:
-Water-related research
+Groundwater hydrology and contaminant transport, Hydrologic and hydraulic modeling, Measurement and characterization of water and solute fluxes, Urban stormwater systems and water resources engineering, Subsurface characterization and extreme water table estimation
+
+Education:
+- Ph.D. Environmental Engineering Sciences, University of Florida
+- M.E. Environmental Engineering Sciences, University of Florida
+- B.S. Civil Engineering, University of Florida
 
 Research Focus:
-Dr. Newman is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Civil and Coastal Engineering, ESSIE.
+Dr. Newman is an engineer and hydrologist whose work centers on groundwater hydrology, contaminant fate and transport, water resources engineering, and measurement of water and solute fluxes across sediments and subsurface systems. He holds a Professional Engineer license and is recognized for developing novel methods and tools to quantify water and contaminant movement in subsurface environments. His modeling and measurement tool development directly supports water quality assessment, groundwater protection planning, and source water assessment/protection strategies. Research systems include tidal and inland groundwater systems, subsurface environments influenced by contamination, watershed source water assessment areas, urban stormwater infrastructure, and Florida aquifers.
+
+Notable Publications:
+- Development of a Passive Sensor for Measuring Vertical Cumulative Water and Solute Mass Fluxes in Lake Sediments and Streambeds - novel field tools for quantifying water and solute transport through sediment interfaces
+- Measurement of water and contaminant flux in fractured rock systems and contaminant discharge estimation from passive flux meter measurements
+- Studies on aquifer storage and recovery (ASR) project data synthesis focusing on water resource reliability and planning
+
+Teaching:
+- Courses in hydraulics, groundwater flow, stormwater system design, and water resources engineering
+- Bridges theoretical fundamentals with applied environmental systems
+
+Policy Relevance:
+Dr. Newman produces hydrologic modeling and empirical measurement tools that underpin source water protection planning, groundwater quality assessment, and evaluation of stormwater and subsurface transport processes relevant to nutrient mobilization and contaminant mitigation. His work on water and solute flux measurement and groundwater/contaminant transport modeling underpins understanding of how water moves through soil and sediment matrices, a core driver of nutrient mobilization and redistribution. The tools and models he develops (e.g., passive flux meters) are directly applicable to estimating nutrient and contaminant transport in environmental systems. His contributions inform source water assessment protection areas, stormwater management design, and groundwater protection practices.
 
 Keywords:
-Water Institute affiliate; Civil and Coastal Engineering, ESSIE.
+groundwater hydrology; contaminant transport; water flux; solute flux; passive flux meters; hydraulic modeling; stormwater; water resources engineering; subsurface characterization; aquifer storage and recovery; ASR; source water protection; Florida aquifers; sediment transport; water quality

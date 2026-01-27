@@ -1,13 +1,30 @@
-Name: Larry Page
+Name: Lawrence M. Page
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Natural History
+Academic Unit: Florida Museum of Natural History
 Email: lpage1@ufl.edu
+Title: Professor
+
+Google Scholar: https://scholar.google.com/citations?user=NcHyNFMAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Ichthyology (fish biology), Systematics and taxonomy of freshwater fishes, Biogeography and evolutionary history, Biodiversity documentation and conservation biology, Natural history collections and reference synthesis
+
+Education:
+- Ph.D. Ichthyology/Zoology
+- Research focus on freshwater fish systematics and taxonomy
 
 Research Focus:
-Dr. Page is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Natural History.
+Dr. Page is known as a leading ichthyologist specializing in freshwater fish systematics, taxonomy, biogeography, and conservation. He is particularly recognized for his work on North American freshwater fishes, including species identification, evolutionary relationships, and the documentation of biodiversity relevant to conservation and environmental management. He employs morphological and taxonomic analysis, phylogenetic and biogeographic synthesis, museum collections curation and specimen-based research, and field sampling of freshwater fish communities. Research systems include freshwater ecosystems, North America with strong emphasis on the southeastern United States, and rivers streams and inland aquatic systems.
+
+Notable Publications:
+- Author of foundational books and reference works, including widely used field guides to freshwater fishes
+- Taxonomic revision and species descriptions
+- Distribution and diversity of freshwater fishes
+- Conservation implications of freshwater biodiversity loss
+- Publications in Copeia, Ichthyological Exploration of Freshwaters, and American Midland Naturalist
+
+Policy Relevance:
+Dr. Page's work provides authoritative biodiversity baselines that inform conservation planning, regulatory assessments, and freshwater ecosystem management decisions. He supplies ground-truth biological knowledge—what species exist, where they occur, and how they are related—without which effective conservation or water management is impossible. His work influences biodiversity assessment and conservation baselines, species identification and regulatory reference standards, and museum and data infrastructure supporting environmental science. While his work does not focus on environmental chemistry or management practices, it provides essential baseline knowledge about freshwater species and ecosystems that underpins conservation, water management, and ecological assessment.
 
 Keywords:
-Water Institute affiliate; Natural History.
+ichthyology; freshwater fish; systematics; taxonomy; biogeography; biodiversity; conservation; natural history; museum collections; North America; southeastern United States; rivers; streams; species identification; evolutionary biology; field guides

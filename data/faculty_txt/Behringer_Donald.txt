@@ -2,12 +2,23 @@ Name: Donald Behringer
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Fisheries and Aquatic Sciences
 Email: behringer@ufl.edu
+Website: behringerlab.com
 
 Subject Areas:
-Water-related research
+Marine disease ecology, Marine invertebrates, Fisheries, Coral reef restoration
+
+Education:
+- Ph.D. Ecology, Old Dominion University
+- B.S. Zoology, University of Florida
 
 Research Focus:
-Dr. Behringer is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Fisheries and Aquatic Sciences.
+Dr. Behringer is a Professor of Marine and Disease Ecology. His research focuses on marine disease ecology and epidemiology, the resilience and restoration of marine communities impacted by human or natural disturbances, and the ecology and behavior of marine invertebrates. He discovered PaV1, a novel virus infecting Caribbean spiny lobsters - the only naturally occurring virus known to infect lobsters. His lab studies cyanobacteria blooms on sponge habitat loss in the Florida Keys and temperature effects on host-virus relationships.
+
+Notable Achievements:
+- Lead editor of "Marine Disease Ecology" (Oxford University Press, 2020)
+- 2025 Fulbright Specialist Award (University of Zagreb, Croatia)
+- 2015 Fulbright U.S. Scholar Award (University of Exeter, UK)
+- Joint appointment with UF Emerging Pathogens Institute and Florida Sea Grant
 
 Keywords:
-Water Institute affiliate; Fisheries and Aquatic Sciences.
+Marine disease ecology; lobster viruses; marine invertebrates; coral reef restoration; cyanobacteria blooms; Florida Keys; fisheries management; aquatic disease epidemiology.

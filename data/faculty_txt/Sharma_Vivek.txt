@@ -2,12 +2,23 @@ Name: Vivek Sharma
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Agricultural and Biological Engineering
 Email: vsharma1@ufl.edu
+Google Scholar: https://scholar.google.co.kr/citations?user=VWBO2aQAAAAJ&hl=en
+Website: https://abe.ufl.edu/people/faculty/vivek-sharma/
 
 Subject Areas:
-Water-related research
+Precision water management, Evapotranspiration, Irrigation scheduling, Soil moisture sensing
+
+Education:
+- Ph.D. Biological Systems Engineering, University of Nebraska-Lincoln (2014)
+- M.S. Biological Systems Engineering, University of Nebraska-Lincoln (2011)
+- B.Tech. Agricultural Engineering, Punjab Agricultural University, India (2008)
 
 Research Focus:
-Dr. Sharma is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural and Biological Engineering.
+Dr. Sharma specializes in precision water management for agriculture. His work emphasizes quantification of crop water use/evapotranspiration (ET), irrigation scheduling and requirements, and soil moisture sensing technologies. Key research areas include crop water productivity, climate impacts on agricultural output, and remote sensing applications for water resource decision-making.
+
+Notable Projects:
+- Florida Agricultural Soil Moisture Sensor Network
+- Research on integrated water and fertilizer management affecting water quality
 
 Keywords:
-Water Institute affiliate; Agricultural and Biological Engineering.
+Precision agricultural water management; evapotranspiration; irrigation scheduling; soil moisture sensing; remote sensing and GIS modeling; water use efficiency; non-point source pollution reduction.

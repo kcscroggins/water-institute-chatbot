@@ -1,13 +1,33 @@
 Name: Nancy Denslow
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Veterinary Medicine
+Role: Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Physiological Sciences, College of Veterinary Medicine
 Email: ndenslow@ufl.edu
 
 Subject Areas:
-Water-related research
+Toxicology, Toxicogenomics, Endocrine Disruption, Aquatic Organisms, Biomarkers, Contaminant Exposure
 
 Research Focus:
-Dr. Denslow is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Veterinary Medicine.
+Nancy Denslow is an internationally recognized toxicologist and toxicogenomics pioneer, best known for developing molecular and genomic tools to detect endocrine-disrupting chemicals (EDCs) and other contaminants in aquatic organisms. Her research areas include endocrine disruption in aquatic organisms, toxicogenomics and transcriptomics, biomarkers of contaminant exposure, fish and wildlife health, estrogenic and anti-androgenic compounds, and risk assessment for environmental contaminants. Her work is foundational for modern molecular biomonitoring of water quality, identifying sub-lethal biological responses to pollutants long before population collapse or visible ecosystem damage occurs.
+
+Selected Publications:
+- "Gene expression responses in fish exposed to endocrine-disrupting chemicals" (Environmental Health Perspectives) - Early demonstration that gene expression profiles indicate contaminant exposure
+  PDF: https://ehp.niehs.nih.gov/doi/pdf/10.1289/ehp.02110132
+- "Use of cDNA microarrays to identify estrogenic compounds" (Environmental Science & Technology) - Landmark toxicogenomics paper linking contaminants to molecular endocrine responses
+  PDF: https://pubs.acs.org/doi/pdf/10.1021/es020568y
+- "Biomarkers of exposure and endocrine disruption in fish" (Reviews in Toxicology) - Establishing vitellogenin and gene panels as regulatory-relevant tools
+  PDF: https://ufdc.ufl.edu/IR00004488/00001
+- "Endocrine disruption in aquatic vertebrates: Molecular and physiological mechanisms" (Comparative Biochemistry and Physiology) - Chemical exposure to physiological dysfunction
+- "Transcriptomic responses of fish to complex contaminant mixtures" (Aquatic Toxicology) - Real-world mixtures driving biological stress responses
+
+Water & Policy Relevance:
+- Early-warning molecular detection of water quality problems
+- Biological damage at low chronic exposure levels
+- Molecular evidence for risk assessment
+- Tools for regulatory monitoring
+- Contaminants co-transported with nutrient runoff
+- Agricultural and urban runoff impacts on aquatic life
+- Water-quality criteria development
+- Translating chemistry into measurable biological harm
 
 Keywords:
-Water Institute affiliate; Veterinary Medicine.
+Toxicology; toxicogenomics; endocrine disruption; biomarkers; aquatic toxicology; fish health; contaminants; EDCs; gene expression; vitellogenin; molecular biomonitoring; water quality; risk assessment; environmental health; Water Institute affiliate

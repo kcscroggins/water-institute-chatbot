@@ -1,13 +1,30 @@
-Name: Lindsey Reisinger
+Name: Lindsey S. Reisinger
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Fisheries and Aquatic Sciences
 Email: lsreisinger@gmail.com
+Title: Assistant Professor
+
+Google Scholar: https://scholar.google.com/citations?user=NE_KckEAAAAJ&hl=en
+Website: https://www.lindseyreisinger.com/
 
 Subject Areas:
-Water-related research
+Freshwater ecology and community dynamics, Benthic invertebrate ecology, Invasive species ecology and impacts, Ecosystem responses to environmental gradients and disturbance, Conservation and management relevance in freshwater systems
+
+Education:
+- Ph.D. Ecology/Aquatic Sciences
+- Research focus on freshwater community ecology and invasive species
 
 Research Focus:
-Dr. Reisinger is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Fisheries and Aquatic Sciences.
+Dr. Reisinger is known for freshwater community ecology, focusing on how biotic interactions, invasive species, and environmental conditions influence freshwater biodiversity and ecosystem structure. Her work emphasizes benthic invertebrates, invasive species dynamics, and environmental drivers in aquatic systems. She employs field sampling of aquatic communities, experimental and observational studies in lakes streams and rivers, multivariate analysis of community structure, and integration of biotic and abiotic drivers influencing ecology. Research systems include freshwater ecosystems such as lakes rivers and streams, benthic communities and trophic interactions, and systems where invasive species and environmental change alter community composition.
+
+Notable Publications:
+- Freshwater community structure
+- Impacts of invasive species on native biodiversity
+- Environmental determinants of benthic invertebrate assemblages
+- Publications in ecology and aquatic science journals with robust citation record
+
+Policy Relevance:
+Dr. Reisinger's work informs freshwater conservation and invasive species management by elucidating how community composition and ecological processes respond to biological and environmental change. She provides process-level ecological insight into how freshwater communities are structured and how invasions and environmental factors alter ecosystem function, which is essential for sustainable aquatic management. Her research directly addresses biological and ecological processes that determine freshwater biodiversity and invasive species outcomes. Her work influences freshwater biodiversity assessment and monitoring, invasive species impact evaluation, and evidence for ecosystem management and policy.
 
 Keywords:
-Water Institute affiliate; Fisheries and Aquatic Sciences.
+freshwater ecology; community ecology; benthic invertebrates; invasive species; biodiversity; aquatic ecosystems; lakes; rivers; streams; environmental gradients; community structure; trophic interactions; conservation; ecosystem management

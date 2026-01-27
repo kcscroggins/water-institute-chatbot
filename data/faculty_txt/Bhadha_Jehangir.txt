@@ -1,13 +1,39 @@
-Name: Jehangir Bhadha
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Everglades Research and Education Center
+Name: Jehangir "Jango" Bhadha
+Role: Associate Professor & Extension Specialist; Affiliate Faculty, UF Water Institute
+Academic Unit: Everglades Research and Education Center (EREC), UF/IFAS
 Email: jango@ufl.edu
 
 Subject Areas:
-Water-related research
+Soil Chemistry, Phosphorus Management, Nutrient Cycling, Water Quality, Agricultural BMPs, Everglades Restoration
+
+Education:
+- Ph.D. Soil and Water Science, University of Florida
+- M.S. Soil and Water Science, University of Florida
+- B.S. Agriculture, University of Florida
 
 Research Focus:
-Dr. Bhadha is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Everglades Research and Education Center.
+Jehangir Bhadha is a soil and water quality scientist whose work is central to nutrient management, phosphorus dynamics, and agricultural sustainability in the Everglades Agricultural Area (EAA). His research is highly applied and policy-facing, focusing on phosphorus dynamics in organic and mineral soils, EAA soils and histosols, nutrient runoff and leaching, Best Management Practices (BMPs) evaluation, soil testing and nutrient recommendations, and water-quality monitoring and compliance science. His work directly informs regulatory thresholds, BMP manuals, and Everglades restoration strategies. As an Extension specialist at EREC, he works directly with producers to translate research into field-ready BMP guidance and supports regulatory compliance without productivity loss.
+
+Selected Publications:
+- "Phosphorus Release and Equilibrium Dynamics of Canal Sediments within the Everglades Agricultural Area, Florida" - P mobility from agricultural lands into water bodies
+- "Influence of Suspended Particulates on Phosphorus Loading Exported from Farm Drainage during a Storm Event in the Everglades Agricultural Area" - Particulate matter and phosphorus fluxes during rain events
+- "Optimization of phosphorus and potassium use efficiency of rice under different flood depths within the Everglades Agricultural Area" (Journal of Plant Nutrition, 2024)
+- "Histosols of South Florida: Past, Present, and Future" - Review of organic soils critical for nutrient cycling and carbon storage
+- "Wetlands as a Tool for Water Treatment" - Natural wetland processes for nutrient removal
+- Publications in Journal of Environmental Quality, Agriculture Ecosystems & Environment, Soil Science Society of America Journal, Water
+
+EDIS Extension Publications:
+- "Everglades Agricultural Area Soil Subsidence and Sustainability"
+- "Four Conservation Agricultural Practices to Manage Organic Soil Loss"
+- "Strategies for Improving Phosphorus Use Efficiency in Lettuce Grown on Histosols"
+- "Histosols of South Florida: Past, Present, and Future"
+
+Everglades & Policy Relevance:
+- Everglades Forever Act compliance and phosphorus load reduction goals
+- Stormwater Treatment Areas (STAs) performance context
+- Agricultural compliance in the EAA
+- TMDL compliance and BMAP nutrient accounting
+- FDACS agricultural BMP programs
 
 Keywords:
-Water Institute affiliate; Everglades Research and Education Center.
+Phosphorus; nutrient management; soil chemistry; Everglades Agricultural Area; EAA; histosols; organic soils; water quality; BMPs; nutrient cycling; soil subsidence; canal sediments; Everglades restoration; Stormwater Treatment Areas; TMDL; agricultural sustainability; Extension; Water Institute affiliate

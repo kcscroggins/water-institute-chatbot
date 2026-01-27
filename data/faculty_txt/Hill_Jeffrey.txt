@@ -1,13 +1,30 @@
 Name: Jeffrey Hill
-Role: Affiliate Faculty, UF Water Institute
+Role: Research Scientist and Extension Specialist; Affiliate Faculty, UF Water Institute
 Academic Unit: UF/IFAS Tropical Aquaculture Laboratory
 Email: jehill@ifas.ufl.edu
 
 Subject Areas:
-Water-related research
+Aquaculture Production, Water Quality Management, Species Culture, Recirculating Systems, Pond Systems, Extension Education
 
 Research Focus:
-Dr. Hill is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in UF/IFAS Tropical Aquaculture Laboratory.
+Jeffrey Hill is an applied aquaculture scientist and Extension specialist focused on sustainable production systems and water-quality management in tropical aquaculture. His research areas include aquaculture production systems, water quality management in aquaculture, species biology and culture techniques, recirculating and pond-based systems, and Extension education for aquaculture producers. His work focuses on operational performance, environmental controls, and sustainability of aquaculture systems, producing data and guidance directly adopted by producers, regulators, and Extension audiences.
+
+Extension Programs:
+- Technical guides on aquaculture practices and water quality management
+- Producer workshops and trainings through Tropical Aquaculture Laboratory
+- On-site technical assistance for aquaculture operations
+- Applied research on system design and nutrient management
+- Operational efficiency improvements for aquaculture facilities
+
+Water & Policy Relevance:
+- Nutrient management, retention, and release in aquaculture systems
+- Operational controls (feeding, system design, water exchange) determining nutrient loading
+- Reducing nutrient discharge from aquaculture facilities
+- Water quality protection through improved system design
+- Producer compliance with environmental regulations
+- Sustainable aquaculture practices minimizing pollution
+- Aquaculture as nutrient interface between land and water systems
+- Converting nutrients to productive biomass rather than pollution
 
 Keywords:
-Water Institute affiliate; UF/IFAS Tropical Aquaculture Laboratory.
+Aquaculture; tropical aquaculture; water quality; production systems; recirculating systems; pond systems; nutrient management; Extension; species culture; sustainable aquaculture; nutrient discharge; Water Institute affiliate

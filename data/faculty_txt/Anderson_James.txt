@@ -1,13 +1,33 @@
-Name: James Anderson
+Name: James L. Anderson
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Food and Resource Economics
 Email: james.anderson@ufl.edu
 
 Subject Areas:
-Water-related research
+Natural resource economics, Fisheries and aquaculture economics, Seafood markets and international trade, Sustainable food systems and economic modeling
+
+Education:
+- Ph.D. Agricultural and Resource Economics, University of California, Davis (1983)
+- M.S. Agricultural and Resource Economics, University of Arizona (1978)
+- B.S. Interdisciplinary Biology/Economics, College of William and Mary (1976)
 
 Research Focus:
-Dr. Anderson is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Food and Resource Economics.
+Dr. Anderson is an expert in natural resource economics, fisheries and aquaculture economics, seafood markets and international trade, and sustainable food systems. His work includes the development of performance indicators for fisheries and aquaculture, economic modeling of seafood sectors, and analysis of how aquaculture growth and fisheries management reforms affect global seafood markets. He is affiliated with the Food Systems Institute at UF.
+
+Career Highlights:
+- Full Professor in the Food and Resource Economics Department at UF/IFAS
+- Former Advisor for Oceans, Fisheries, and Aquaculture at the World Bank
+- Former leader of the Global Program on Fisheries and Aquaculture at the World Bank
+- Editor of Marine Resource Economics (1999-2010)
+
+Notable Publications:
+- Research on economics of aquaculture and fisheries
+- Studies on seafood trade and market dynamics
+- Sustainability indicators for marine and aquaculture systems
+- Publications in Marine Resource Economics, Journal of Agricultural & Food Industrial Organization
+
+Awards:
+- Fellow, International Institute of Fisheries Economics & Trade (IIFET)
 
 Keywords:
-Water Institute affiliate; Food and Resource Economics.
+Water Institute affiliate; Food and Resource Economics; fisheries economics; aquaculture economics; seafood markets; international trade; natural resource economics; sustainable food systems; economic modeling; marine resources; World Bank; sustainability indicators

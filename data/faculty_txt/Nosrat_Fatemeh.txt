@@ -1,13 +1,31 @@
 Name: Fatemeh Nosrat
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Industrial and Systems Engineering 
+Academic Unit: Industrial and Systems Engineering
 Email: f.nosrat@ufl.edu
+Title: Assistant Professor
+
+Google Scholar: https://scholar.google.com/citations?user=pIVXoPAAAAAJ&hl=en
+Website: https://sites.google.com/ufl.edu/fatemeh-nosrat-ufl/home
 
 Subject Areas:
-Water-related research
+Stochastic and robust optimization, Decision-making under uncertainty, Risk-aware and multi-objective optimization, Operations research for infrastructure and energy systems, Data-driven and algorithmic system design
+
+Education:
+- Ph.D. Industrial Engineering, University of South Florida
+- M.S. Industrial Engineering, Sharif University of Technology (Iran)
+- B.S. Industrial Engineering, Iran University of Science and Technology
 
 Research Focus:
-Dr. Nosrat is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Industrial and Systems Engineering .
+Dr. Nosrat is an operations research and systems optimization scholar whose work focuses on stochastic optimization, decision-making under uncertainty, risk-aware optimization, and data-driven systems design, with applications spanning energy systems, supply chains, infrastructure, and sustainability-oriented decision problems. She develops optimization and decision frameworks that are directly usable by engineers, planners, and policymakers dealing with complex, uncertain systems. Research systems include engineered systems subject to uncertainty (e.g., infrastructure, energy, logistics), decision environments where risk, variability, and trade-offs are central, and cross-sectoral applications.
+
+Notable Publications:
+- Optimization models that explicitly incorporate uncertainty and risk
+- Stochastic programming for complex engineered systems
+- Trade-off analysis across cost, reliability, and system performance
+- Algorithmic approaches for large-scale decision problems
+
+Policy Relevance:
+Dr. Nosrat develops optimization frameworks that enable evidence-based, risk-sensitive decision making in infrastructure and resource systems, supporting more robust environmental and sustainability planning when integrated with domain science. Her expertise in stochastic and risk-aware optimization is highly relevant as an enabling methodology for nutrient management planning under uncertainty, watershed or agricultural system optimization, and trade-off analysis between productivity, environmental risk, and cost. If coupled with domain science (soil, hydrology, agronomy), her models can support optimal fertilizer or nutrient application strategies, resource allocation under climate and hydrologic uncertainty, and risk-sensitive environmental decision making.
 
 Keywords:
-Water Institute affiliate; Industrial and Systems Engineering .
+operations research; stochastic optimization; robust optimization; decision-making under uncertainty; risk-aware optimization; multi-objective optimization; infrastructure systems; energy systems; sustainability; data-driven design; resource allocation; systems engineering

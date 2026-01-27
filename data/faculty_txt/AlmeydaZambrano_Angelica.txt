@@ -1,13 +1,31 @@
-Name: Angelica Almeyda Zambrano
+Name: Angélica Maria Almeyda Zambrano
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: UF Center for Latin American Studies
+Academic Unit: UF Center for Latin American Studies; Tropical Conservation & Development Program
 Email: aalmeyda@ufl.edu
 
 Subject Areas:
-Water-related research
+Land use change, Tropical conservation, Political ecology, Remote sensing, Human-environment interactions
+
+Education:
+- Ph.D. Anthropology (Ecology & Environment), Stanford University (2012)
+- Doctoral Fellow, Sustainability Science Program, Harvard Kennedy School (2011-2012)
+- M.A. Latin American Studies (Conservation and Development in the Tropics), University of Florida
+- B.S. Forest Sciences, Universidad Nacional Agraria La Molina, Peru
 
 Research Focus:
-Dr. Almeyda Zambrano is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in UF Center for Latin American Studies.
+Dr. Almeyda Zambrano is Research Faculty at the UF Center for Latin American Studies and co-director of the Spatial Ecology and Conservation (SPEC) Lab. Her research centers on human-environment interactions, focusing on social and ecological feedback loops with consideration to sustainability. She examines land use and land cover change dynamics in the tropics and its relation to economic activities, with emphasis on nature tourism as a development and conservation strategy. Her scholarship integrates social and ecological data using geospatial analysis to understand deforestation, forest dynamics, ecosystem services, and socio-environmental drivers of change in Amazonia and other Neotropical landscapes.
+
+Affiliations:
+- Core Faculty, Tropical Conservation & Development Program, UF
+- Co-Director, Spatial Ecology & Conservation (SPEC) Lab
+- Affiliate Faculty, UF Biodiversity Institute
+
+Research Methods:
+Employs both quantitative and qualitative methods, linking remote sensing and GIS data with policy analysis and in-depth socioeconomic household surveys. Research integrates airborne LiDAR and hyperspectral data in ecological studies.
+
+Research Metrics:
+- 102 publications
+- 8,342+ citations (Google Scholar)
 
 Keywords:
-Water Institute affiliate; UF Center for Latin American Studies.
+Land use change; land cover change; tropical forests; deforestation; Amazon; political ecology; sustainability science; human-environment interactions; ecotourism; remote sensing; GIS; spatial ecology; conservation; carbon sequestration; ecosystem services; Latin America; Neotropics; forest dynamics.

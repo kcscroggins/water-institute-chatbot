@@ -2,12 +2,20 @@ Name: Di Yang
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Department of Geography
 Email: yangdi1031@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=B8l_ztwAAAAJ&hl=en
+Website: https://geodi.geog.ufl.edu/
 
 Subject Areas:
-Water-related research
+Remote sensing, Geospatial AI, Citizen science, Environmental monitoring
 
 Research Focus:
-Dr. Yang is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Department of Geography.
+Dr. Yang investigates human-environment interactions through quantitative analysis. His work bridges operational uses of scientific remote sensing and GIS techniques and land management practices. Current priorities include NEON science, geospatial modeling, citizen science, and Volunteered Geographic Information applications at macrosystems scales.
+
+Notable Projects:
+- EMERGE: A participatory science curriculum for mapping mosquitoes and land cover (2025)
+- NASA Grant: "Forecasting Mosquito-Borne Disease Risk in a Changing Climate"
+- NEON data studies mapping dead tree clusters and wildfire vulnerability in Yellowstone
+- UF Global Fellows Program research across Ecuador, Guatemala, and Mexico
 
 Keywords:
-Water Institute affiliate; Department of Geography.
+Remote sensing; machine learning; geospatial artificial intelligence; citizen science; GIS analysis; macrosystems ecology; land cover change; environmental monitoring; fire regimes.

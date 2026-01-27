@@ -1,13 +1,34 @@
-Name: Jiayang Li
+Name: Jiayang Li, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Landscape Architecture
+Academic Unit: Landscape Architecture, College of Design, Construction and Planning
 Email: jiayangli@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=xum7qQEAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Ecological landscape design; Climate resilience; Nature-based solutions; Stormwater management; Green infrastructure; Human perception; Cultural ecosystem services; Community engagement; Coastal infrastructure; Urban landscapes
+
+Education:
+- Ph.D.
+- Assistant Professor, Landscape Architecture, University of Florida
 
 Research Focus:
-Dr. Li is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Landscape Architecture.
+Dr. Li is an interdisciplinary landscape architect and scholar whose research focuses on ecological landscape design, climate resilience and adaptation, nature-based solutions (NBS), and human perceptions of landscape and ecological interventions. She integrates design thinking, social science methods, and community engagement to inform resilient landscape planning in the face of climate challenges. Her work addresses how nature-based solutions such as green infrastructure and floodable landscapes mediate hydrology, enhance infiltration, and improve pollutant retention including nutrient capture as part of resilient urban systems.
+
+Notable Publications:
+- Community perception and stewardship of public coastal infrastructure in Cedar Key, Florida (Frontiers in Marine Science, 2025) - examines community perceptions of nature-based coastal infrastructure
+- Leveraging Greenspace to Manage Urban Flooding: Investigation of NBS in U.S. Parks (Land, 2024) - explores green infrastructure and stormwater management linking landscape design to hydrologic regulation
+- Landscape elements affect public perception of NBS managed by smart systems (Landscape and Urban Planning, 2022) - connects social perception with NBS implementation for urban water management
+- Technology in support of NBS requires understanding everyday experiences (Ecology and Society, 2021) - conceptualizing how people experience landscape-scale ecological functions
+- Additional work on aesthetic experiences and cultural ecosystem services in urban landscapes
+
+Water Institute Relevance:
+Much of Dr. Li's work deals with nature-based solutions such as green infrastructure and floodable landscapes that mediate hydrology, enhance infiltration, and improve pollutant retention (including nutrient capture) as part of resilient urban systems. Her research directly informs how landscape design affects water movement, nutrient pathways, and soil-water interactions. By exploring community acceptance and performance of NBS, she contributes to understanding how landscape practices affect runoff, filtration, and ecosystem function - downstream consequences in soil and water interaction and nutrient processing.
+
+Role in Research-to-Policy Pipeline:
+Research producer and policy/design scholar. Produces foundational and applied research informing landscape planning and resilience decision-making. Generates evidence on how nature-based landscape interventions can enhance community resilience, hydrologic regulation, and perceived social value, informing policies and design guidelines that support water quality and sustainable urban infrastructure.
+
+Strategic Value:
+Answers the question: "How can ecological landscape design and nature-based solutions be designed and accepted by communities to enhance hydrologic function and reduce pollutant/nutrient runoff?" Influences adoption of nature-based infrastructure for flood and stormwater management, landscape planning that mediates water flows and nutrient pathways, and integration of social perception and ecosystem services into design practices.
 
 Keywords:
-Water Institute affiliate; Landscape Architecture.
+landscape architecture; ecological design; nature-based solutions; NBS; climate resilience; stormwater management; green infrastructure; flooding; urban landscapes; coastal infrastructure; community perception; ecosystem services; hydrologic regulation; nutrient retention; landscape planning

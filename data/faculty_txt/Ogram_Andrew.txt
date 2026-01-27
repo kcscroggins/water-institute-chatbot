@@ -1,13 +1,30 @@
 Name: Andrew Ogram
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Soil and Water Sciences
+Academic Unit: Microbiology and Cell Science
 Email: aogram@ufl.edu
+Title: Professor of Microbiology
+
+ResearchGate: https://www.researchgate.net/profile/Andrew-Ogram
 
 Subject Areas:
-Water-related research
+Environmental and soil microbiology, Anaerobic microbial processes (methanogenesis sulfate reduction iron reduction), Microbial carbon cycling and greenhouse gas dynamics, Mercury methylation and demethylation, Microbial community structure-function relationships, Wetland sediment and contaminated site microbiology
+
+Education:
+- Ph.D. Microbiology, University of Florida
+- Research focus on environmental microbiology and molecular ecology
 
 Research Focus:
-Dr. Ogram is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Soil and Water Sciences.
+Dr. Ogram is a leading environmental microbiologist known for pioneering work on microbial ecology of soils and sediments, particularly anaerobic microorganisms involved in carbon cycling, methane production/consumption, and mercury methylation. His research has been foundational in linking microbial community structure and function to biogeochemical processes in wetlands, sediments, and contaminated environments. He provides mechanistic biological understanding that underpins models and management strategies for carbon cycling, greenhouse gas emissions, and contaminant fate in soil and aquatic systems. Research systems include wetlands and sediments (freshwater and estuarine), soils under anaerobic or periodically flooded conditions, contaminated environments (e.g., mercury-impacted systems), and Florida ecosystems including Everglades-related systems and comparable environments globally.
+
+Notable Publications:
+- Microbial mediation of mercury methylation - identifying organisms and pathways responsible for transforming inorganic mercury into bioaccumulative methylmercury
+- Methanogenic and methanotrophic processes - characterizing microbial drivers of methane production and consumption in soils and sediments
+- Carbon flow through anaerobic microbial communities - linking microbial taxa to functional carbon transformations
+- Molecular tools for environmental microbiology - advancing methods (e.g., qPCR, sequencing) to connect microbial diversity to ecosystem function
+- Publications in Applied and Environmental Microbiology, Environmental Science & Technology, ISME Journal, Microbial Ecology, and Biogeochemistry
+
+Policy Relevance:
+Dr. Ogram provides mechanistic evidence on microbial drivers of carbon transformation and contaminant fate, informing climate, wetland management, and water quality protection strategies. His research directly addresses soil and sediment carbon cycling, including organic matter decomposition, methane dynamics, and microbial transformations that control carbon fate in soils and wetlands. He provides core mechanistic understanding of microbial processes that govern carbon turnover, redox dynamics, and interactions with nutrients and contaminants in soil-water systems. By clarifying microbial controls on methane emissions and mercury bioavailability, his work informs wetland management, climate mitigation strategies, and water quality protection. His findings underpin regulatory science and environmental risk assessment related to greenhouse gases and mercury contamination.
 
 Keywords:
-Water Institute affiliate; Soil and Water Sciences.
+environmental microbiology; soil microbiology; anaerobic processes; methanogenesis; methanotrophy; carbon cycling; methane dynamics; mercury methylation; microbial ecology; biogeochemistry; wetlands; sediments; contaminated sites; Everglades; greenhouse gas emissions; microbial community structure; molecular ecology

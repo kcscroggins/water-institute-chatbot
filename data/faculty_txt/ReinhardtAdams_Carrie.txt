@@ -2,12 +2,28 @@ Name: Carrie Reinhardt Adams
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Environmental Horticulture
 Email: rein0050@ufl.edu
+Title: Assistant Professor
+
+Google Scholar: https://scholar.google.com/citations?user=F4KwxR8AAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Environmental horticulture, Plant physiology and stress responses, Abiotic stress (water temperature environmental constraints), Production and landscape management effects on plant performance, Sustainable horticultural systems
+
+Education:
+- Ph.D. Environmental Horticulture/Plant Science
+- Research focus on plant physiology and stress tolerance
 
 Research Focus:
-Dr. Reinhardt Adams is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Environmental Horticulture.
+Dr. Reinhardt Adams is known for horticultural science focused on plant physiology and stress tolerance, particularly how environmental conditions, management practices, and production systems affect plant performance and resilience. Her work emphasizes mechanistic understanding of plant responses that can be applied to improve horticultural production and landscape sustainability. She employs controlled-environment and field experiments, physiological measurements including growth stress indicators and performance metrics, evaluation of management and environmental treatments, and translational research linking physiology to practice. Research systems include ornamental and landscape plants, nursery greenhouse and landscape systems, and subtropical horticultural environments with broader applicability.
+
+Notable Publications:
+- Plant physiological responses to environmental and management stressors
+- Linking stress tolerance to improved production and landscape outcomes
+- Management strategies to enhance plant performance and sustainability
+- Publications in HortScience, HortTechnology, and Journal of Environmental Horticulture
+
+Policy Relevance:
+Dr. Reinhardt Adams's research supports evidence-based horticultural practices by identifying how environmental conditions and management choices influence plant resilience and performance. She contributes mechanistic insight into plant stress tolerance that enables more resilient, resource-efficient horticultural production and landscape management. Her work focuses on how plants respond to environmental and management conditions, providing actionable insight for improving horticultural system performance. Her research influences production and landscape management practices, plant selection and stress-mitigation strategies, and sustainability of managed plant systems.
 
 Keywords:
-Water Institute affiliate; Environmental Horticulture.
+environmental horticulture; plant physiology; stress tolerance; abiotic stress; water stress; temperature stress; plant performance; ornamental plants; landscape management; nursery production; greenhouse production; sustainable horticulture; plant resilience

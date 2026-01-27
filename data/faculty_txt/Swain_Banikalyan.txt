@@ -2,6 +2,7 @@ Name: Banikalyan Swain
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Infectious Diseases and Immunology
 Email: swainb@ufl.edu
+Google Scholar: https://scholar.google.co.in/citations?user=Y5qmLAwAAAAJ&hl=en
 
 Subject Areas:
 Water-related research

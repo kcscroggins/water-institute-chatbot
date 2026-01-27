@@ -2,12 +2,24 @@ Name: Dengjun Wang
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Agricultural and Biological Engineering
 Email: dengjun.wang@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=BcAVWNsAAAAJ&hl=zh-TW
+Website: https://abe.ufl.edu/people/faculty/dengjun-wang/
 
 Subject Areas:
-Water-related research
+Environmental remediation, PFAS, Water quality, Contaminant fate and transport
+
+Education:
+- Ph.D. Environmental and Soil Science, Institute of Soil Science, Chinese Academy of Sciences (2014)
+- M.S. Environmental and Soil Science, Institute of Soil Science, Chinese Academy of Sciences (2012)
+- B.S. Environmental Engineering, Anhui University, China (2009)
 
 Research Focus:
-Dr. Wang is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural and Biological Engineering.
+Dr. Wang's research encompasses conventional and emerging contaminants in agricultural systems. Primary interests include PFAS (per- and polyfluoroalkyl substances) transformation and remediation, nutrient-related water quality issues and mitigation in agriculture, nanotechnology applications for pesticide removal and sensing, sustainable agriculture using nanofertilizers, and microplastics/nanoplastics fate and transport. His methodology includes field sampling, laboratory experiments, and mathematical modeling.
+
+Notable Projects:
+- DoD SERDP projects on PFAS transformation and remediation
+- USEPA-funded nanotechnology research for pesticide removal
+- USDA-NIFA project on nutrients, water quality, and harmful algal blooms
 
 Keywords:
-Water Institute affiliate; Agricultural and Biological Engineering.
+Environmental remediation; contaminant fate and transport; water quality; PFAS; nanomaterials; biochar; emerging contaminants; agricultural engineering.

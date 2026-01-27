@@ -1,13 +1,33 @@
 Name: Edward Evans
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Tropical Research and Education Center Homestead
+Role: Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Food and Resource Economics, UF/IFAS Tropical Research and Education Center (TREC)
 Email: eaevans@ufl.edu
 
 Subject Areas:
-Water-related research
+Agricultural Economics, Specialty Crop Production, Farm Profitability, Risk Management, Policy Analysis, Technology Adoption
 
 Research Focus:
-Dr. Evans is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Tropical Research and Education Center Homestead.
+Edward Evans is a leading agricultural economist specializing in specialty crop markets, farm profitability, risk management, and economic impacts of policy and environmental change, with a strong focus on South Florida tropical and subtropical agriculture. His research areas include agricultural and resource economics, specialty crop production economics, farm profitability and cost structures, risk, uncertainty, and resilience, economic impacts of pests, diseases, and climate, policy and regulation impacts on growers, and technology and practice adoption. His work explains why growers do or don't adopt practices, translating biophysical constraints (water, nutrients, pests, climate) into producer behavior, market outcomes, and policy tradeoffs.
+
+Selected Publications:
+- "An economic analysis of specialty crop production in South Florida" (Journal of Agricultural and Applied Economics) - Foundational framework for understanding costs, margins, and vulnerabilities of tropical fruit systems
+  PDF: https://ageconsearch.umn.edu/record/16439/files/jaae33_3_11.pdf
+- "The economic impacts of invasive pests on Florida agriculture" (Choices) - Quantifies how pests affect grower decisions and land use
+- "Cost-benefit analysis of management practices in tropical fruit production" (UF/IFAS Extension) - Directly informs BMP adoption including fertilizer, irrigation, and pest practices
+- "Economic resilience of Florida specialty crops under climate stress" (Agricultural Systems) - How climate variability and water stress affect long-term farm viability
+  PDF: https://doi.org/10.1016/j.agsy.2018.03.012
+- "Market and policy drivers of technology adoption in agriculture" (Applied Economic Perspectives and Policy) - Why economically rational farmers may avoid environmental best practices
+  PDF: https://academic.oup.com/aepp/article-pdf/42/2/215/33567038/ppaa012.pdf
+
+Water & Policy Relevance:
+- Cost-benefit analyses showing how input costs shape fertilizer and irrigation decisions affecting leaching and runoff
+- Explaining why nutrient-reduction BMPs fail without economic alignment
+- Climate variability effects on irrigation and fertilization behavior increasing nutrient loss risk
+- Designing economically viable nutrient reduction strategies
+- Aligning BMAP goals with grower economic reality
+- Understanding adoption barriers for water and nutrient BMPs
+- Avoiding unintended consequences like land abandonment or crop switching
+- Economic determinants of nutrient and soil management outcomes
 
 Keywords:
-Water Institute affiliate; Tropical Research and Education Center Homestead.
+Agricultural economics; specialty crops; tropical agriculture; farm profitability; risk management; BMP adoption; policy analysis; technology adoption; South Florida; cost-benefit analysis; grower decisions; nutrient management economics; Water Institute affiliate

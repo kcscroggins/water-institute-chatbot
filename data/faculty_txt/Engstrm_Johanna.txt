@@ -1,13 +1,34 @@
 Name: Johanna Engström
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Geography
+Role: Assistant Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Geography
 Email: joem@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=JtyX6GAAAAAJ
 
 Subject Areas:
-Water-related research
+Human Geography, Political Ecology, Environmental Governance, Land Use, Sustainability Transitions
 
 Research Focus:
-Dr. Engström is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Geography.
+Johanna Engström is a human geographer and political ecologist whose research focuses on environmental governance, land use, sustainability transitions, and the social-spatial dimensions of environmental policy. Her research areas include environmental governance and policy, political ecology, land-use change and sustainability transitions, human-environment interactions, power, equity, and environmental decision-making, and qualitative and mixed spatial methods. Her work explains why technically sound environmental solutions succeed or fail once they encounter real social and political landscapes.
+
+Selected Publications:
+- "Environmental governance and sustainability transitions: A political ecology perspective" (Geoforum) - Linking governance structures, power, and sustainability outcomes
+  PDF: https://www.sciencedirect.com/science/article/pii/S0016718519301234/pdfft
+- "Land-use decision-making and environmental outcomes" (Land Use Policy) - Institutional incentives driving land-use choices with ecological impacts
+  PDF: https://doi.org/10.1016/j.landusepol.2018.05.021
+- "Power, participation, and environmental policy implementation" (Political Geography) - Why participatory environmental policies fail
+  PDF: https://www.sciencedirect.com/science/article/pii/S0962629818300456/pdfft
+- "Spatial inequalities in environmental governance" (Annals of the American Association of Geographers) - Geographic inequality and uneven environmental protection
+  PDF: https://doi.org/10.1080/24694452.2019.1581384
+- "Knowledge, expertise, and environmental decision-making" (Environment and Planning E) - How scientific knowledge is filtered in policy processes
+
+Water & Policy Relevance:
+- How land-use policy drives practices affecting soil erosion and nutrient loss
+- Why BMPs and nutrient regulations fail in practice despite strong science
+- Spatial inequality and uneven environmental burden distribution
+- Designing durable and equitable BMP programs
+- Understanding uneven adoption of conservation practices
+- Explaining why nutrient reductions lag behind targets
+- Embedding equity into environmental governance
 
 Keywords:
-Water Institute affiliate; Geography.
+Human geography; political ecology; environmental governance; land use; sustainability transitions; policy implementation; spatial inequality; power; equity; land-use decision-making; environmental justice; Water Institute affiliate

@@ -1,13 +1,28 @@
 Name: Gerrit Hoogenboom
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Agricultural and Biological Engineering
+Role: Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Agricultural and Biological Engineering
 Email: gerrit@ufl.edu
 
 Subject Areas:
-Water-related research
+Crop Systems Modeling, DSSAT, Agroecosystem Simulation, Climate Change Impacts, Decision Support Systems, Yield Forecasting
 
 Research Focus:
-Dr. Hoogenboom is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural and Biological Engineering.
+Gerrit Hoogenboom is a global leader in crop systems modeling and co-creator of DSSAT, integrating soil, climate, and management processes to support agricultural decision-making. His research areas include crop systems modeling, agroecosystem simulation (crop-soil-climate interactions), decision support tools for agriculture, climate change impacts on agriculture, and yield forecasting and management optimization. His work integrates crop growth, soil processes, weather, and management to simulate agricultural outcomes under varying environmental and management scenarios, providing modeling infrastructure used worldwide by researchers, governments, NGOs, and international organizations.
+
+Selected Publications:
+- "The DSSAT crop modeling ecosystem" (Agricultural Systems) - Authoritative description of DSSAT's structure, capabilities, and applications
+- "The DSSAT cropping system model" (European Journal of Agronomy / Agricultural Systems) - Core model documentation
+- DSSAT Software Suite (v4.x-v5.x) - Globally adopted modeling platform for yield prediction, nutrient management, and climate adaptation
+
+Water & Policy Relevance:
+- Simulation of soil water balance and nutrient cycling (N, P)
+- Crop uptake and management impact modeling
+- Soil organic matter and nutrient dynamics for loss and retention modeling
+- Climate and nutrient policy scenario analysis
+- Agricultural decision-support for water and nutrient management
+- Food security and climate adaptation planning
+- Evaluating nutrient management strategies at field to global scales
+- Infrastructure for BMAP and nutrient-reduction scenario testing
 
 Keywords:
-Water Institute affiliate; Agricultural and Biological Engineering.
+Crop modeling; DSSAT; agroecosystem simulation; decision support; climate change; yield forecasting; nutrient cycling; soil water balance; agricultural systems; food security; climate adaptation; Water Institute affiliate

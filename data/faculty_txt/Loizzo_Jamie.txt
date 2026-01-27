@@ -2,12 +2,24 @@ Name: Jamie Loizzo
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Agricultural Education and Communication
 Email: jloizzo@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=8HhiDWAAAAAJ&hl=en
+Website: https://aec.ifas.ufl.edu/directory/faculty/jamie-loizzo/
 
 Subject Areas:
-Water-related research
+Science communication, Multimedia learning, Mobile learning technologies, Agricultural communication
+
+Education:
+- Ph.D. Learning Design & Technology, Purdue University
+- M.S.Ed. Learning Design & Technology, Purdue University
+- B.A. Radio Television (News), Southern Illinois University-Carbondale
 
 Research Focus:
-Dr. Loizzo is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural Education and Communication.
+Dr. Loizzo's research focuses on science communication and literacy, multimedia and mobile learning technologies, non-formal/informal science engagement, and arts-based research methodologies. She founded Streaming Science, a project-based learning and mobile electronic field trip program for 21st Century science communication education. She also developed the MOOCocracy platform for global science engagement and directs the SciLit Digital Research Group.
+
+Recognition:
+- NACTA Educator Award (2023)
+- UF Undergraduate Teacher of the Year (2022)
+- USDA-NIFA Early Career Teaching Award (2021)
 
 Keywords:
-Water Institute affiliate; Agricultural Education and Communication.
+Science communication; technology integration; learning design; agricultural communication; digital media production; science literacy; mobile learning; participatory research.

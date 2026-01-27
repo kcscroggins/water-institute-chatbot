@@ -1,13 +1,29 @@
-Name: Robert Ries
+Name: Robert J. Ries
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Design, Construction and Planing
+Academic Unit: Design, Construction and Planning - M.E. Rinker, Sr. School of Construction Management
 Email: rries@ufl.edu
+Title: Professor
+
+Google Scholar: https://scholar.google.com/citations?user=_V1fQrMAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Sustainable construction and design, Life-Cycle Assessment (LCA) for buildings and infrastructure, Environmental implications of the built environment, Building performance and resilience, Integration of sustainability into construction management
+
+Education:
+- Ph.D. Construction Management/Environmental Engineering
+- Research focus on sustainable built environments and life-cycle assessment
 
 Research Focus:
-Dr. Ries is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Design, Construction and Planing.
+Dr. Ries is known for his research and teaching at the intersection of sustainable built environments, construction management, and life-cycle environmental analysis. His work emphasizes sustainability performance of buildings and infrastructure, life-cycle assessment (LCA), and the environmental implications of design and construction decisions. He employs life-cycle environmental impact modeling, quantitative sustainability metrics, interdisciplinary integration of architectural engineering and construction perspectives, and decision support for sustainable design and construction practices. Research systems include the built environment including buildings and infrastructure, construction processes and materials, and regional to national assessment of environmental impacts from construction decisions.
+
+Notable Publications:
+- Life-cycle environmental impacts of buildings and infrastructure
+- Sustainability metrics for construction
+- Environmental systems implications of design choices
+- Publications widely cited in sustainability, construction, and life-cycle assessment literature
+
+Policy Relevance:
+Dr. Ries's research equips decision-makers with evidence and metrics to evaluate and reduce environmental footprints of buildings and infrastructure, supporting sustainable policy, standards, and procurement. He provides methods and evidence for quantifying environmental impacts of construction decisions, enabling sustainable design and infrastructure development. While his work is not focused on natural ecosystem drivers, it is central to understanding how human-built systems contribute to environmental impacts and how those impacts can be measured and mitigated. His work influences life-cycle environmental assessment, integration of sustainability into design and construction education, and decision support for reducing environmental impacts in the built environment.
 
 Keywords:
-Water Institute affiliate; Design, Construction and Planing.
+sustainable construction; life-cycle assessment; LCA; built environment; environmental impact; building performance; infrastructure; construction management; sustainability metrics; green building; design decisions; environmental footprint; resilience

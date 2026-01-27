@@ -1,13 +1,34 @@
 Name: Kevin Bardosh
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Anthropology
+Role: Research Assistant Professor, Anthropology and Emerging Pathogens; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Anthropology
 Email: kevinbardosh@ufl.edu
+ORCID: 0000-0003-2973-5708
+Google Scholar: https://scholar.google.com/citations?hl=en&user=JjEgJcIAAAAJ
 
 Subject Areas:
-Water-related research
+Medical Anthropology, Global Health, Infectious Diseases, Implementation Science, Zoonotic Diseases, Environmental Anthropology
+
+Education:
+- Ph.D. International Development / African Studies, University of Edinburgh, UK
+- M.S. International Development, University of Edinburgh, UK
+- B.A. Philosophy & History of Science, University of British Columbia, Canada
 
 Research Focus:
-Dr. Bardosh is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Anthropology.
+Dr. Kevin Bardosh is an applied medical anthropologist and implementation scientist whose work bridges social science and global health. His research focuses on the biosocial dynamics of health and disease, infectious diseases and emerging pathogens, community-based and participatory approaches to public health interventions, implementation science and health systems, environmental anthropology and development studies, and zoonotic disease governance. His work integrates community engagement with public health strategy, including mosquito control initiatives for malaria, lymphatic filariasis, and arboviruses like Zika. He has conducted research in the Caribbean, Latin America, Africa, and Southeast Asia, collaborating with ministries, NGOs, and community partners on disease control and health policy implementation.
+
+Selected Publications:
+- "One Health: Science, Politics and Zoonotic Disease in Africa" (Editor, Routledge, 2016)
+- "Zoonotic Encounters at the Slaughterhouse: Pathways and Possibilities for the Control of Cystic Echinococcosis" (Journal of Biosocial Sciences)
+- "Achieving 'Total Sanitation' in Rural African Geographies" (Geoforum)
+- "Deadly Flies, Poor Profits and Veterinary Pharmaceuticals: Sleeping Sickness Control in Uganda" (Medical Anthropology)
+- "Controlling Parasites, Understanding Practices: One Health Intervention in Lao PDR" (Social Science & Medicine)
+- Nearly 100 publications with thousands of citations
+
+Other Affiliations:
+- Director and Head of Research, Collateral Global (London)
+- Affiliate, University of Washington School of Public Health
+- Fellow, University of Oxford (Kellogg College)
+- Fellow, University of Edinburgh Medical School
 
 Keywords:
-Water Institute affiliate; Anthropology.
+Medical anthropology; global health; infectious diseases; emerging pathogens; zoonotic diseases; One Health; implementation science; community engagement; public health; vector-borne diseases; disease control; health policy; environmental anthropology; development studies; Water Institute affiliate

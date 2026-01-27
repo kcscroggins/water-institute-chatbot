@@ -1,13 +1,32 @@
-Name: Jonathan Judy
+Name: Jonathan D. Judy
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Soil and Water Sciences
+Academic Unit: Soil and Water Sciences (Soil and Water Chemistry Program)
 Email: jonathan.judy@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=5TYew-UAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Soil and water chemistry; Contaminant fate and transport; Nanomaterial-ecosystem interactions; PFAS; Metals; Phosphorus dynamics; Chemical speciation; Environmental risk assessment
+
+Education:
+- Associate Professor, Soil and Water Sciences, University of Florida
 
 Research Focus:
-Dr. Judy is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Soil and Water Sciences.
+Dr. Judy is an Associate Professor in Soil and Water Sciences specializing in soil and water chemistry, contaminant fate and transport, and pollutant-ecosystem interactions. His research focuses on the environmental behavior of metals, nanomaterials, trace organics, and emerging contaminants (including PFAS) in soils and waters. He investigates chemical speciation, partitioning, adsorption/desorption, and transformation processes that determine whether chemicals stay in soils or move to waters, bridging chemical processes and ecological outcomes in terrestrial and aquatic systems.
+
+Notable Publications:
+- Per- and polyfluoroalkyl substances (PFAS) in water treatment residuals and biosolids: occurrence and release. Journal of Environmental Quality (2025). DOI: 10.1002/jeq2.20511
+- Subsurface phosphorus fluxes and particulate dominance in well-drained soils
+- PFAS release as a function of residual composition from wastewater residuals
+- Trophic transfer of PFAS from crops to insect herbivores - contaminant transfer across ecological pathways
+
+Water Institute Relevance:
+Dr. Judy's research directly addresses chemical drivers of soil-water quality, a core component of nutrient-loss and environmental pollution pathways. His work on phosphorus transport, PFAS fate, and contaminant mobility provides empirical and mechanistic evidence that supports environmental risk assessment, regulatory thresholds, and land/waste management policies. Understanding what controls chemical mobility in soils and waters is essential for credible assessments of nutrient and contaminant loss to Florida's groundwater and surface waters.
+
+Role in Research-to-Policy Pipeline:
+Research producer with applied and regulatory relevance. Findings underpin soil and water quality assessments, contaminant fate models, and environmental risk frameworks that support policy and management decisions.
+
+Strategic Value:
+Answers the question: "What controls chemical mobility in soils and waters?" and "Under what conditions do contaminants or nutrients escape soils and enter water systems?" Influences chemical transport models, regulatory science on contaminants, and soil/water quality assessment frameworks.
 
 Keywords:
-Water Institute affiliate; Soil and Water Sciences.
+soil chemistry; water chemistry; contaminant fate; contaminant transport; PFAS; nanomaterials; metals; phosphorus; chemical speciation; adsorption; desorption; environmental risk; biosolids; water treatment residuals

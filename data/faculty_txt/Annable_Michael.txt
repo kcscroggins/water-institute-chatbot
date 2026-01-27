@@ -1,13 +1,45 @@
-Name: Michael Annable
+Name: Michael D. Annable
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Environmental Engineering Sciences, ESSIE
 Email: annable@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=t8-AZaEAAAAJ&hl=en
+Website: https://faculty.eng.ufl.edu/michael-annable/
 
 Subject Areas:
-Water-related research
+Hydrology, Water quality, Subsurface remediation, Contaminant transport, Environmental engineering, Flux measurement, Porous media, Wetlands hydrology, Water resources
+
+Education:
+- Ph.D. Civil Engineering, Michigan State University
+- M.S. Civil Engineering, Michigan Technological University
+- B.S. Geology, Michigan State University (1983)
+- Licensed Professional Engineer (PE)
 
 Research Focus:
-Dr. Annable is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Environmental Engineering Sciences, ESSIE.
+Dr. Annable is a Professor in the Department of Environmental Engineering Sciences at the Herbert Wertheim College of Engineering, University of Florida. His research expertise centers on hydrology, water quality, and subsurface environmental processes, particularly physical-chemical processes for field-scale application of innovative subsurface remediation technologies, innovative measurement methods for contaminant and water flux in hydrologic systems, and development of passive flux meters and techniques for measuring interfaces in porous media. His work also addresses humid, shallow water-table environments such as the flatwoods of the southeastern United States, where significant interaction between surface water and groundwater occurs.
+
+Leadership Roles:
+- Department Head, Department of Environmental Engineering Sciences (since January 2020)
+- Graduate Coordinator, Environmental Engineering Sciences graduate program
+
+Teaching:
+- Fluid Flow in Environmental Systems
+- Field Methods in Subsurface Hydrology
+- Environmental Hydrology
+- Pollutant Transport and Immiscible Fluids in Porous Media
+
+Notable Publications:
+- Biochar for volatile organic compound (VOC) removal: Sorption performance and governing mechanisms (255+ citations)
+- Field-scale evaluation of in situ cosolvent flushing for enhanced aquifer remediation (240+ citations)
+- Partitioning tracers for measuring residual NAPL: field-scale test results (220+ citations)
+- Determination of effective air-water interfacial area in partially saturated porous media using surfactant adsorption (210+ citations)
+- A direct passive method for measuring water and contaminant fluxes in porous media (200+ citations)
+- Field implementation of a Winsor type I surfactant/alcohol mixture for in situ solubilization of a complex LNAPL as a single-phase microemulsion (180+ citations)
+
+Service:
+- Associate Editor, Journal of Contaminant Hydrology
+
+Patents:
+- Holds 5+ patents related to environmental engineering and hydrologic measurement technology
 
 Keywords:
-Water Institute affiliate; Environmental Engineering Sciences, ESSIE.
+Water Institute affiliate; environmental engineering; hydrology; water quality; subsurface remediation; contaminant transport; passive flux meters; porous media; groundwater; NAPL; aquifer remediation; wetlands hydrology; water resources; biochar; VOC removal

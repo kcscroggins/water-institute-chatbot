@@ -1,13 +1,34 @@
-Name: Yue Li
+Name: Yue Li, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: School of Forest, Fisheries, and Geomatics Sciences
 Email: yueli2@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=ML9qw-IAAAAJ&hl=en
+Website: https://sites.google.com/ufl.edu/yueli
 
 Subject Areas:
-Water-related research
+Environmental education; Professional development; Educator training; Technology integration; AI in education; Sustainability learning; Behavior change; Sense of place; Transformative learning; Community engagement
+
+Education:
+- Ph.D.
+- Assistant Professor of Environmental Education, University of Florida
 
 Research Focus:
-Dr. Li is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in School of Forest, Fisheries, and Geomatics Sciences.
+Dr. Li is known for her work in environmental education theory and practice, focusing on how educators learn, change behavior, and engage communities around environmental and sustainability issues, including the innovative use of technology (such as AI) to enhance environmental learning and professional development for environmental educators. Her research examines sense of place, transformative learning, behavior change, and professional learning networks for environmental educators in formal and informal settings.
+
+Notable Publications:
+- Interactive learning in an urban environmental education online course - explores educational design and outcomes in online environmental learning contexts
+- Practice change in environmental education: lessons from professional development - investigates how professional development affects practice change in environmental educators
+- Relationship between professional networks and practice change in environmental education (The Journal of Environmental Education) - examines how professional network development influences educators' practices
+- Additional work on environmental educator learning communities, network effects on EE practice, and evidence-based strategies for engaging learners in sustainability contexts
+
+Water Institute Relevance:
+Dr. Li's work on environmental education supports shifts in knowledge, attitudes, and behaviors that underlie environmental stewardship and community engagement, which can affect how communities understand and act on issues like water quality, ecosystem health, and sustainable land/water practices. Environmental education is fundamental to motivating stewardship of natural systems including soil and water. Her contributions inform how people learn about and engage with environmental issues, building capacity for effective community engagement in conservation and environmental quality protection.
+
+Role in Research-to-Policy Pipeline:
+Research producer and educator whose work informs environmental education practice and community engagement strategies, linking behavioral and learning sciences with environmental awareness and action. Her outputs inform education policy, teacher training, and practice change in environmental contexts that support sustainability and resource stewardship goals.
+
+Strategic Value:
+Answers the question: "How can education and professional development enhance understanding and behavior around environmental issues?" Influences environmental educator training and practice adoption, integration of emerging technologies (AI) into sustainability education, and community engagement models that build environmental literacy for conservation and water quality protection.
 
 Keywords:
-Water Institute affiliate; School of Forest, Fisheries, and Geomatics Sciences.
+environmental education; professional development; educator training; behavior change; sustainability education; AI in education; transformative learning; sense of place; community engagement; environmental literacy; conservation education; online learning

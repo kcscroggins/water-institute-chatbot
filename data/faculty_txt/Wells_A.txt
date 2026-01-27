@@ -2,6 +2,7 @@ Name: A. Ondine Wells
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: UF/IFAS Extension
 Email: owells@ufl.edu
+Google Scholar: https://scholar.google.com/citations?hl=en&user=-9RGQngAAAAJ
 
 Subject Areas:
 Water-related research

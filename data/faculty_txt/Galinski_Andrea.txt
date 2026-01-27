@@ -1,13 +1,29 @@
 Name: Andrea Galinski
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Landscape Architecture
+Role: Assistant Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Landscape Architecture
 Email: andrea.galinski@ufl.edu
+Website: https://experience.arcgis.com/experience/1197f939390c47989a491cc91a321b1d
 
 Subject Areas:
-Water-related research
+Landscape Architecture, Regional Planning, Spatial Analysis, GIS Decision Support, Climate Resilience, Green Infrastructure
 
 Research Focus:
-Dr. Galinski is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Landscape Architecture.
+Andrea Galinski is a landscape architect and planner specializing in spatial design and visualization tools that integrate water, climate, and land-use data into resilient landscape strategies. Her research areas include landscape architecture and regional planning, environmental and climate-resilient design, spatial analysis and GIS-based decision support, nature-based solutions and green infrastructure, and visualization of environmental risk and systems. Her work translates complex environmental processes into decision-support landscapes and planning frameworks, operating at the interface between science and implementation.
+
+Selected Publications:
+- Spatial planning frameworks and design research addressing water management, climate risk, and landscape resilience
+- Interactive GIS and visualization tools integrating hydrology, land use, and environmental constraints into planning scenarios
+- Scholarly publications in landscape architecture, planning, and design research
+
+Water & Policy Relevance:
+- Incorporating soil, nutrient, and water constraints into land-use planning
+- Green infrastructure placement for nutrient retention and runoff reduction
+- Landscape design controlling flow paths and nutrient transport
+- Translation of environmental science into built form
+- Climate adaptation through landscape planning
+- Visualization tools for water management decision-making
+- Nature-based solutions for water quality protection
+- Structurally preventing nutrient loss through design rather than remediation
 
 Keywords:
-Water Institute affiliate; Landscape Architecture.
+Landscape architecture; regional planning; spatial analysis; GIS; decision support; climate resilience; green infrastructure; nature-based solutions; environmental visualization; water management; land-use planning; Water Institute affiliate

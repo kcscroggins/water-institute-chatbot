@@ -2,12 +2,24 @@ Name: Thomas Anderson
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Food and Resource Economics
 Email: thomas.anderson@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=JvWciIIAAAAJ&hl=en
+Website: https://www.thomas-anderson-jr.com/
 
 Subject Areas:
-Water-related research
+Aquaculture sustainability, Marine resource economics, Fisheries policy, Conservation finance
+
+Education:
+- Ph.D. Agricultural and Resource Economics, University of California, Davis (NMFS Sea Grant Marine Resource Economics Fellow)
+- Master's Degree, Cornell University
+- Bachelor's Degree, University of Florida
 
 Research Focus:
-Dr. Anderson is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Food and Resource Economics.
+Dr. Anderson's research program focuses on sustainability in the aquaculture industry, examining disease management, food security, and conservation finance. His work focuses on the stewardship of marine resources in the production of seafood from aquaculture and fisheries. He has explored best management practices for disease management in salmon aquaculture in Chile and examined how top-down policies for antibiotic use could control disease outbreaks.
+
+Notable Publications:
+- Environmental, economic, and social sustainability in aquaculture (Nature Communications, 2024)
+- "Finer economic margins for farmed salmon" (Aquaculture)
+- Working papers on spatial-dynamic externalities in Chilean aquaculture and option pricing in cap-and-trade fisheries markets
 
 Keywords:
-Water Institute affiliate; Food and Resource Economics.
+Aquaculture sustainability; marine resource economics; fisheries policy; disease management; conservation finance; seafood production; antibiotic policy.

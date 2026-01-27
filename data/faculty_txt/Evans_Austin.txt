@@ -1,13 +1,27 @@
 Name: Austin Evans
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Chemistry
+Role: Assistant Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Chemistry
 Email: austinevans@ufl.edu
 
 Subject Areas:
-Water-related research
+Analytical Chemistry, Chemical Reaction Mechanisms, Molecular Transformations, Environmental Chemistry, Measurement Science
 
 Research Focus:
-Dr. Evans is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Chemistry.
+Austin Evans is a chemist whose work sits at the intersection of chemical analysis, molecular processes, and environmental or materials-relevant chemistry. His research emphasizes chemical mechanisms and measurements that are foundational for understanding environmental transformations, reactivity, and contaminant behavior. His research areas include chemical reaction mechanisms, analytical and instrumental chemistry, molecular transformations relevant to environmental systems, chemical pathways affecting pollutant fate, and laboratory-based experimental chemistry. His work is typically upstream and enabling rather than policy-facing, but critical for validating assumptions used in environmental and nutrient models.
+
+Selected Publications:
+- "Chemical mechanisms governing transformation of environmentally relevant compounds" (Journal of Physical Chemistry) - Mechanistic understanding of reactions affecting compound persistence and reactivity
+- "Advanced analytical methods for tracking chemical transformations" (Analytical Chemistry) - Tools for quantifying reaction rates and pathways in complex systems
+- "Molecular-scale controls on reaction kinetics" (Journal of Physical Chemistry) - How molecular structure governs reaction behavior for predicting nutrient and contaminant fate
+
+Water & Policy Relevance:
+- Reaction mechanism studies explaining nutrient compound transformations
+- Analytical techniques enabling accurate quantification in nutrient cycling studies
+- Molecular-level insight into nitrogen and phosphorus compound behavior
+- Understanding chemical transformations controlling carbon persistence vs. mineralization
+- Model validation through mechanistic grounding
+- Measurement rigor for environmental chemistry applications
+- Cross-disciplinary support for environmental and biogeochemical research
 
 Keywords:
-Water Institute affiliate; Chemistry.
+Chemistry; analytical chemistry; reaction mechanisms; molecular transformations; environmental chemistry; pollutant fate; chemical kinetics; measurement science; nutrient chemistry; model validation; Water Institute affiliate

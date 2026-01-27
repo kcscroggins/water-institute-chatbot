@@ -1,13 +1,35 @@
 Name: Jean-Claude Bonzongo
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Environmental Engineering Sciences, ESSIE
+Role: Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Environmental Engineering Sciences (ESSIE), Engineering School of Sustainable Infrastructure & Environment
 Email: bonzongo@ufl.edu
 
 Subject Areas:
-Water-related research
+Environmental Chemistry, Mercury Biogeochemistry, Trace Metal Cycling, Aquatic Biogeochemistry, Contaminant Fate and Transport
+
+Education:
+- Ph.D. Environmental Chemistry, Université du Québec
+- M.S. Environmental Sciences, Université du Québec
+- B.S. Chemistry, Université du Québec
 
 Research Focus:
-Dr. Bonzongo is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Environmental Engineering Sciences, ESSIE.
+Jean-Claude Bonzongo is a leading environmental chemist and biogeochemist internationally recognized for his work on trace metals, especially mercury (Hg), in aquatic and terrestrial systems. His research focuses on how contaminants behave once they enter natural systems, including mercury biogeochemistry (methylation, demethylation), sediment-water interactions, bioavailability and bioaccumulation, atmospheric deposition and watershed transport, aquatic food webs, and trace-metal contamination in tropical, temperate, and engineered systems. His work spans field studies, laboratory experiments, and analytical method development. He explains how toxic metals move, transform, and accumulate in real ecosystems, providing the mechanistic science behind mercury transformation, bioaccumulation, and exposure risk in water bodies.
+
+Selected Publications:
+- "Mercury in Different Environmental Compartments of the Pra River Basin, Ghana" (Science of the Total Environment, 2006) - Highly cited (148+ citations); mercury distribution across water, sediment, soil, and biota
+  PDF: https://fishcomghana.ucc.edu.gh/wp-content/uploads/2017/05/Mercury-in-different-environmental-compartments-of-the-Pra-River-Basin-Ghana.pdf
+- "Linking Landscape Development Intensity Within Watersheds to Methyl-Mercury Accumulation in River Sediments" (AMBIO, 2015) - Land use effects on methylmercury production
+- "Impact of Land Use and Physicochemical Settings on Aqueous Methylmercury Levels in the Mobile-Alabama River System" (AMBIO, 2004) - Foundational work on watershed conditions and MeHg levels
+  PubMed: https://pubmed.ncbi.nlm.nih.gov/15387068/
+- "Artisanal Mining of Gold with Mercury in Ghana" (West African Journal of Applied Ecology, 2009) - Mercury contamination from artisanal gold mining
+- Publications in Environmental Science & Technology, Water Research, Chemosphere, Science of the Total Environment, Journal of Environmental Quality
+
+Water & Policy Relevance:
+- Fish consumption advisories based on methylmercury formation research
+- EPA mercury criteria and Clean Water Act contaminant evaluations
+- Long-term monitoring strategies for contaminated sediments and waters
+- Climate change effects on mercury methylation rates
+- Hydrologic extremes and legacy contaminant mobilization
+- Wetlands and reservoirs as hotspots for metal transformation
 
 Keywords:
-Water Institute affiliate; Environmental Engineering Sciences, ESSIE.
+Mercury; methylmercury; trace metals; biogeochemistry; environmental chemistry; contaminant fate; sediment-water interactions; bioaccumulation; aquatic systems; fish advisories; water quality; arsenic; lead; cadmium; artisanal mining; watershed contamination; Water Institute affiliate

@@ -1,13 +1,28 @@
 Name: Heqiang Huo
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Mid Florida Research and Education Center
+Role: Assistant Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: UF/IFAS Mid-Florida Research and Education Center
 Email: hhuo@ufl.edu
 
 Subject Areas:
-Water-related research
+Crop Nutrition, Water Management, Specialty Crops, Nutrient-Use Efficiency, Applied Agronomy, Production Systems
 
 Research Focus:
-Dr. Huo is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Mid Florida Research and Education Center.
+Heqiang Huo is an applied crop systems scientist specializing in nutrient and water management for efficient, sustainable specialty crop production. His research areas include crop nutrition and fertility management, water and nutrient-use efficiency, specialty crop production systems, field experimentation and applied agronomy, and integration of management technologies (e.g., irrigation, sensing). His work generates field-based evidence that directly informs Extension recommendations, BMPs, and grower decision-making for Florida specialty crops.
+
+Selected Publications:
+- Peer-reviewed and applied studies on nutrient rates, timing, and water-fertility interactions in specialty crops
+- Field trial reports and grower-facing guidance developed through MREC programs
+- Contributions to UF/IFAS Extension recommendations via collaboration with Extension agents
+
+Water & Policy Relevance:
+- Direct work on nutrient inputs, uptake efficiency, and loss reduction
+- Water management and production decisions influencing nutrient movement
+- Fertilizer and irrigation management practice optimization
+- Grower adoption of nutrient-efficient systems
+- Compliance with nutrient and water-quality BMPs
+- Reducing nutrient loss while maintaining crop performance
+- Field-tested evidence aligning production with environmental goals
+- High nutrient-intensity specialty crop system management
 
 Keywords:
-Water Institute affiliate; Mid Florida Research and Education Center.
+Crop nutrition; water management; specialty crops; nutrient-use efficiency; applied agronomy; production systems; irrigation; fertilizer management; BMPs; Mid-Florida REC; Water Institute affiliate

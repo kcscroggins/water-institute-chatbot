@@ -1,13 +1,31 @@
-Name: John Sansalone
+Name: John J. Sansalone
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Environmental Engineering Sciences, ESSIE
+Academic Unit: Environmental Engineering Sciences (ESSIE)
 Email: jsansal@ufl.edu
+Title: Professor
+
+Google Scholar: https://scholar.google.com/citations?user=oh8zgTAAAAAJ&hl=en
+Website: https://faculty.eng.ufl.edu/john-sansalone/
 
 Subject Areas:
-Water-related research
+Urban stormwater management and hydrology, Contaminant (metals particles nutrients) transport and partitioning, Treatment processes for stormwater and wastewater, Permeable pavement and green infrastructure systems, Environmental hydrology and urban drainage systems
+
+Education:
+- Ph.D. Environmental Engineering
+- Research focus on urban water quality and stormwater systems
 
 Research Focus:
-Dr. Sansalone is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Environmental Engineering Sciences, ESSIE.
+Dr. Sansalone is known for his research in environmental and urban water engineering, especially stormwater quality and quantity processes, particle dynamics in runoff, contaminant transport, and engineered infrastructure for urban drainage and treatment. His work integrates hydrology, chemistry, and environmental unit operations to improve understanding and management of urban water systems. He employs experimental and field measurements of runoff sediment and contaminant loads, particle dynamics and granulometry in rainfall-runoff, modeling and simulation of hydrodynamic separation and treatment processes, design and evaluation of stormwater best management practices (BMPs), and integration of hydrologic processes with chemical partitioning and treatment efficacy. Research systems include urban and roadway runoff systems, engineered drainage and treatment infrastructure, permeable reactive pavements and eco-infrastructure systems, and watersheds influenced by impervious surfaces and transportation land use.
+
+Notable Publications:
+- Urban stormwater quality and first-flush phenomena including metal partitioning and particulate matter transport
+- Permeable pavement and infiltration systems as treatment interfaces
+- Hydrodynamic and CFD modeling of stormwater separators
+- Granulometry and contaminant distribution in runoff particulate matter
+- Publications in ASCE Journal of Environmental Engineering, Water Research, Journal of Hydrology, and Water Air and Soil Pollution
+
+Policy Relevance:
+Dr. Sansalone's research underpins evidence-based stormwater and urban drainage management by elucidating particulate and contaminant dynamics in runoff and informing design of sustainable treatment and infrastructure practices. He provides quantitative, process-based insight into how urbanization alters stormwater quantity and quality, and how engineered systems can mitigate contaminants and protect water resources. His work directly investigates the movement and fate of contaminants in urban stormwater and engineered systems, and advances understanding of how infrastructure design modifies hydrologic and treatment outcomes. His research influences stormwater management and pollutant control practices, design criteria for green infrastructure and permeable pavements, and policy and standards for urban drainage and water quality BMPs.
 
 Keywords:
-Water Institute affiliate; Environmental Engineering Sciences, ESSIE.
+environmental engineering; stormwater; urban hydrology; contaminant transport; particulate matter; metals; nutrients; water quality; permeable pavement; green infrastructure; BMPs; urban drainage; first flush; treatment systems; runoff; hydrodynamic modeling

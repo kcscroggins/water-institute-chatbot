@@ -1,13 +1,35 @@
-Name: Bette Loiselle
+Name: Bette A. Loiselle, Ph.D.
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Wildlife Ecology and Conservation
+Academic Unit: Wildlife Ecology and Conservation; Tropical Conservation and Development Program, Center for Latin American Studies
 Email: loiselleb@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=7vHmFYUAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Neotropical ecology; Conservation biology; Bird ecology; Seed dispersal; Plant-animal interactions; Species distribution modeling; Spatial ecology; Tropical biodiversity; GIS applications; Community dynamics
+
+Education:
+- Ph.D.
+- Professor, Wildlife Ecology and Conservation, University of Florida
 
 Research Focus:
-Dr. Loiselle is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Wildlife Ecology and Conservation.
+Dr. Loiselle is a prominent neotropical ornithologist, ecologist, and conservation biologist known for her long-term, field-based research on tropical biodiversity, species interactions, seed dispersal, behavior and population ecology of birds, and species distribution modeling in tropical systems. Her work integrates spatial ecology, GIS, and long-term ecological data to understand ecological dynamics in neotropical landscapes of Ecuador, Costa Rica, Brazil, and other regions. She studies bird communities and their ecological roles in seed dispersal and forest processes.
+
+Notable Publications:
+- Temporal Variation in Birds and Fruits Along an Elevational Gradient in Costa Rica (Ecology) - linking species dynamics with resource availability
+- Spatial Genetic Structure of Tropical Understory Shrubs (American Journal of Botany) - connecting plant-animal interactions with population genetics
+- Species Distribution Modeling and Novel Methods to Predict Species Ranges (Ecography) - influential contribution to SDM methodological advances
+- Bird declines and conservation implications (PeerJ) - connecting long-term avian population changes to environmental drivers
+- Mineral Licks as Diversity Hotspots (Diversity) - ecosystem diversity patterns in tropical rainforests
+- 100+ peer-reviewed publications spanning tropical ecology, species distribution modeling, and conservation biology
+
+Water Institute Relevance:
+Dr. Loiselle's work on species distribution, plant-animal interactions, and spatial ecology uses environmental covariates and GIS modeling related to climate, land cover, and habitat quality that connect to ecosystem function. By advancing species distribution modeling, understanding community responses to environmental change, and biodiversity patterns, her research contributes to ecological knowledge that underpins habitat and ecosystem management, which can indirectly influence nutrient and carbon conservation strategies at landscape scales. As Director of the Tropical Conservation and Development Program, she helps integrate ecological science with applied conservation strategies, influencing how habitat and biodiversity conservation can be framed within sustainable development goals.
+
+Role in Research-to-Policy Pipeline:
+Research producer and conservation science leader. Bridges fundamental ecology with applied biodiversity conservation strategy and tropical landscape understanding, informing broader conservation planning and interdisciplinary development programs. Generates foundational evidence on biodiversity and species-environment relationships that supports conservation planning, habitat management, and climate adaptation strategies.
+
+Strategic Value:
+Answers the question: "How do tropical species and communities respond to environmental gradients and change, and how can this knowledge be used to prioritize conservation and sustainable development?" Influences species distribution and ecological modeling tools, conservation science and tropical habitat management, and integration of biodiversity research with development practice.
 
 Keywords:
-Water Institute affiliate; Wildlife Ecology and Conservation.
+tropical ecology; neotropical birds; ornithology; conservation biology; seed dispersal; plant-animal interactions; species distribution modeling; SDM; spatial ecology; GIS; biodiversity; tropical forests; Ecuador; Costa Rica; community ecology; Tropical Conservation and Development

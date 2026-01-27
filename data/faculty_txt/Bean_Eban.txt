@@ -1,13 +1,39 @@
 Name: Eban Bean
-Role: Affiliate Faculty, UF Water Institute
+Role: Associate Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: Agricultural and Biological Engineering
 Email: ezbean@ufl.edu
 
 Subject Areas:
-Water-related research
+Agricultural Water Management, Nutrient Cycling, Watershed Modeling, Stormwater BMPs, Water Quality, Permeable Pavement Systems
+
+Education:
+- Ph.D. Biological & Agricultural Engineering, University of Arkansas
+- M.S. Agricultural Engineering, University of Arkansas
+- B.S. Biological Engineering, University of Arkansas
 
 Research Focus:
-Dr. Bean is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural and Biological Engineering.
+Eban Bean is an agricultural engineer specializing in water, nutrients, and agroecosystem sustainability, with a strong emphasis on applied, systems-level solutions. His research focuses on measuring, modeling, and reducing agricultural and urban impacts on water resources, especially in nutrient-sensitive systems. Key areas include nitrogen and phosphorus transport, agricultural runoff and leaching, edge-of-field and watershed-scale monitoring, Best Management Practices (BMPs) evaluation, modeling tools (SWAT, APEX, field-scale nutrient budgets), and climate variability and resilience in agrohydrologic systems. He produces the empirical evidence used to design and evaluate agricultural and urban BMPs and BMAP strategies for nutrient reduction and water-quality protection in Florida.
+
+Selected Publications:
+- "Evaluation of Four Permeable Pavement Sites in Eastern North Carolina for Runoff Reduction and Water Quality Impacts" (2007) - Flagship paper on permeable pavement as BMP; 350+ citations
+- "Stormwater ponds: An overlooked but plentiful urban designer ecosystem" (Science of the Total Environment, 2020) - Quantifies stormwater ponds as consequential statewide designed ecosystems
+- "Permeable Pavement Systems: Technical Considerations" (UF/IFAS EDIS AE530) - Practitioner-facing guidance
+- "GatorByte: Real-time water resource monitoring buoy" (HardwareX, 2023) - Open-access monitoring technology
+- Publications in Agricultural Water Management, Journal of Environmental Quality, Transactions of the ASABE, Water
+
+Florida Basin/BMAP Relevance:
+- Santa Fe Springs BMAP area
+- Rainbow Springs & Rainbow River BMAP area
+- Silver Springs BMAP area
+- Lake Alice Watershed Management Plan steering committee member
+- Contributor to Florida DEP BMP manuals and practitioner guidance
+- Sports Field Best Management Practices Manual (Florida Edition) - collaboration with Florida DEP
+
+Policy Relevance:
+- Quantifies nutrient loads from agricultural and urban systems
+- Evaluates which BMPs actually reduce loads vs. paper compliance
+- Provides data for springs protection, TMDL attainment, and regulatory accountability
+- Supports FDACS and DEP decisions on priority focus areas and cost-share investments
 
 Keywords:
-Water Institute affiliate; Agricultural and Biological Engineering.
+Agricultural water management; nutrient management; nitrogen; phosphorus; BMPs; best management practices; stormwater; permeable pavement; watershed modeling; SWAT; water quality; runoff; leaching; springs protection; BMAPs; TMDL; agricultural engineering; Water Institute affiliate

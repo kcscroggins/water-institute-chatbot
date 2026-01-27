@@ -2,12 +2,24 @@ Name: Di Fang
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Food and Resource Economics
 Email: difang@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=Qq5DoMsAAAAJ&hl=en
+Website: https://sites.google.com/view/difang/home
 
 Subject Areas:
-Water-related research
+Food policy, Health economics, Nutrition economics, Applied agricultural economics
+
+Education:
+- Ph.D. Business Administration (Agribusiness), W.P. Carey School of Business, Arizona State University
+- B.S. Economics, Nankai University, China
 
 Research Focus:
-Dr. Fang is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Food and Resource Economics.
+Dr. Fang's research focuses on the intersection of food policy, nutrition, and health economics, particularly in evaluating programs that influence food purchasing and health outcomes. She explores the intersections between nutrition, environment, and health using applied economics. Her research examined food security and mental health during COVID-19, identifying correlations between food insecurity and anxiety/depression.
+
+Notable Achievements:
+- Associate Editor, American Journal of Agricultural Economics (AJAE)
+- Managing Editor, Agricultural and Resource Economics Review (ARER)
+- Published in AJAE, JAMA Network Open, American Journal of Public Health
+- Funded by USDA AFRI, NBER, Robert Wood Johnson Foundation
 
 Keywords:
-Water Institute affiliate; Food and Resource Economics.
+Food policy; health economics; nutrition economics; food security; applied agricultural economics; COVID-19 impacts; SNAP program evaluation.

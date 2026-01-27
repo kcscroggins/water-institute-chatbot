@@ -1,13 +1,31 @@
-Name: Juan Nino
+Name: Juan W. Nino
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Materials Sciences and Engineering
 Email: jnino@mse.ufl.edu
+Title: Professor
+
+Google Scholar: https://scholar.google.com/citations?user=r0kTx8gAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Electrochemical energy storage systems including supercapacitors and batteries, Polymer and composite electrolytes, Nanostructured and hierarchical materials, Interfacial charge and mass transport phenomena, Materials characterization
+
+Education:
+- Ph.D. Materials Science and Engineering, Pennsylvania State University
+- M.S. Materials Science and Engineering, Pennsylvania State University
+- B.S. Materials Engineering, Universidad del Valle (Colombia)
 
 Research Focus:
-Dr. Nino is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Materials Sciences and Engineering.
+Dr. Nino is a leading materials scientist known for his work on electrochemical energy storage (especially supercapacitors and batteries), polymer electrolytes, nanostructured materials, interfacial phenomena, and materials characterization. His research integrates materials chemistry, physics, and engineering to solve challenges in energy storage and conversion. Research systems include electrochemical devices and materials systems, solid and soft matter electrolytes, and nanostructured conductive and dielectric materials. His extensive publication record appears in high-impact journals including Advanced Materials, Journal of Materials Chemistry, Electrochimica Acta, and ACS Applied Materials & Interfaces.
+
+Notable Publications:
+- Advanced supercapacitor materials with high capacitance and stability
+- Polymer electrolytes with enhanced ionic conductivity
+- Nanostructured composites for energy storage applications
+- Interfacial charge transport in electrochemical devices
+- Materials design strategies for improved energy density and cycling performance
+
+Policy Relevance:
+Dr. Nino produces foundational evidence on advanced materials for energy storage and conversion, contributing to technologies that support sustainable energy systems, with indirect implications for environmental resource strategies. Energy storage technologies can influence broader environmental impacts, including how renewable systems affect land and water use. His work supports transitions to low-carbon energy sources that may reduce environmental pressures on water and land resources.
 
 Keywords:
-Water Institute affiliate; Materials Sciences and Engineering.
+materials science; electrochemical energy storage; supercapacitors; batteries; polymer electrolytes; nanostructured materials; interfacial phenomena; materials characterization; energy conversion; sustainable energy

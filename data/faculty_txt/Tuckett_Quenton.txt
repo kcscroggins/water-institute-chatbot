@@ -2,12 +2,25 @@ Name: Quenton Tuckett
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: School of Forest, Fisheries, and Geomatics Sciences
 Email: qtuckett@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=tnIx2ecAAAAJ&hl=en&oi=ao
+Website: https://tal.ifas.ufl.edu/people/faculty/quenton-tuckett/
 
 Subject Areas:
-Water-related research
+Non-native species management, Aquaculture, Fish invasion biology, Thermal ecology
+
+Education:
+- Ph.D. Biological Sciences, University of Maine (2013)
+- M.S. Biology, Boise State University (2007)
+- B.S. Ecology, Idaho State University (2002)
 
 Research Focus:
-Dr. Tuckett is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in School of Forest, Fisheries, and Geomatics Sciences.
+Dr. Tuckett's primary research examines ecological and evolutionary factors that limit/promote the persistence and establishment of non-native fishes. Key areas include non-native poeciliid fish species as invasion models, domestication signals across fish species, thermal tolerance in native and non-native populations, aquatic trade risk assessment, and coastal restoration impacts on estuarine species.
+
+Notable Work:
+- Behavioral comparisons of invasive Gambusia species
+- Thermal tolerance studies for tropical and range-expanding fish
+- Screening protocols for potentially invasive aquatic organisms
+- Sportfish habitat use and restoration outcomes in Tampa Bay
 
 Keywords:
-Water Institute affiliate; School of Forest, Fisheries, and Geomatics Sciences.
+Non-native species management; aquaculture best practices; fish invasion biology; thermal ecology; ornamental aquaculture industry; aquatic ecosystem disturbance; eco-evolutionary dynamics.

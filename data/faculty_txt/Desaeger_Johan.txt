@@ -1,13 +1,34 @@
 Name: Johan Desaeger
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Gulf Coast Research and Education Center
+Role: Associate Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Entomology and Nematology, UF/IFAS Gulf Coast Research and Education Center (GCREC)
 Email: jad@ufl.edu
 
 Subject Areas:
-Water-related research
+Nematology, Plant-Parasitic Nematodes, Soil Health, Integrated Pest Management, Specialty Crops
 
 Research Focus:
-Dr. Desaeger is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Gulf Coast Research and Education Center.
+Johan Desaeger is a plant nematologist specializing in plant-parasitic nematodes in agricultural systems, with a strong focus on vegetable crops, strawberry, and specialty crops in Florida. His research areas include plant-parasitic nematodes (root-knot, sting, lesion nematodes), nematode ecology in agricultural soils, integrated pest management (IPM), soil fumigants and non-fumigant alternatives, cover crops and rotations for nematode suppression, and soil health-nematode interactions. His work directly informs grower decisions and BMPs for managing below-ground pests while maintaining soil health.
+
+Selected Publications:
+- "Managing nematodes in Florida strawberry production" (HortTechnology) - Foundational reference for nematode management in strawberry systems; ~150+ citations
+  PDF: https://journals.ashs.org/horttech/downloadpdf/journals/horttech/21/5/article-p568.pdf
+- "Soil fumigation alternatives for nematode management in vegetable crops" (Journal of Nematology) - Non-fumigant and reduced-fumigant strategies post-methyl bromide
+  PDF: https://journals.flvc.org/jon/article/view/88977/85659
+- "Influence of soil type on nematode damage and crop response" (Journal of Nematology) - How soil texture and organic matter affect nematode pressure
+  PDF: https://journals.flvc.org/jon/article/view/80268/77933
+- "Cover crops for suppression of plant-parasitic nematodes" (Journal of Nematology) - Cover crops as biological control tools; ~80+ citations
+  PDF: https://journals.flvc.org/jon/article/view/88961/85644
+- "Integrated nematode management in vegetable production systems" (EDIS)
+  PDF: https://edis.ifas.ufl.edu/publication/IN1235
+
+Water & Policy Relevance:
+- Root damage from nematodes reduces nutrient uptake, increasing leaching
+- Cover crops for nematode suppression also improve nutrient retention
+- Reduced fumigation preserves soil microbial communities and carbon
+- Nutrient-use efficiency through healthy root systems
+- Soil health-based BMPs for specialty crops
+- Post-fumigant transition strategies
+- Protecting roots so nutrients stay in plants instead of leaching
 
 Keywords:
-Water Institute affiliate; Gulf Coast Research and Education Center.
+Nematology; plant-parasitic nematodes; root-knot nematode; sting nematode; soil health; IPM; cover crops; soil fumigation; strawberry; vegetables; specialty crops; GCREC; nutrient efficiency; soil biology; Water Institute affiliate

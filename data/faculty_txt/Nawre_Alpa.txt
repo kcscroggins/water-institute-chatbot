@@ -2,12 +2,29 @@ Name: Alpa Nawre
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Landscape Architecture
 Email: alpa.nawre@ufl.edu
+Title: Associate Professor & Graduate Coordinator
+
+Google Scholar: https://scholar.google.com/citations?user=FJAxEZMAAAAJ&hl=en
 
 Subject Areas:
-Water-related research
+Landscape architecture theory and practice with emphasis on water landscapes, Resilient built environments and low-cost landscape infrastructure for water management, Vernacular water systems and their adaptations, Participatory design and community-engaged spatial interventions, Socio-cultural dimensions of water place-making and infrastructure
+
+Education:
+- Ph.D. Design, North Carolina State University
+- M.L.A. Landscape Architecture, University of Virginia
+- B.Arch. Architecture, University of Pune (India)
 
 Research Focus:
-Dr. Nawre is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Landscape Architecture.
+Dr. Nawre is a landscape architect and urban designer whose scholarship and practice focus on water landscapes, resilient low-cost water infrastructure, and socio-culturally integrated design solutions — particularly by drawing on vernacular water management practices from the Indian subcontinent and other contexts to inform sustainable landscape architecture and urban design. Her work bridges design theory, critical water infrastructure studies, and on-the-ground community-engaged projects that connect landscape architecture with real-world water and habitat challenges. Research systems include landscapes shaped by water resource constraints in urbanizing and rural contexts, South Asia/India as a key region for vernacular water system studies, and stakeholders including marginalized communities where sustainable water infrastructure intersects with design and public space.
+
+Notable Publications:
+- Landscape architecture in rural India - lessons for developing countries from Dhamori village (practice-oriented research on water informed landscape systems)
+- Scholarship on vernacular hydrological systems such as talaabs (ponds) and canal/river edges informing contemporary resilient landscape design
+- Publications in Journal of Landscape Architecture, Landscape Journal, Thresholds, and Ground Up on water as a metric of urban development
+- Essays reconsidering water infrastructure through design
+
+Policy Relevance:
+Dr. Nawre produces scholarship and design practice that inform resilient water-sensitive landscape design and infrastructure planning, contributing to broader dialogues on sustainable water management and equitable landscape interventions. Landscape design that emphasizes resilient water infrastructure may influence stormwater management, runoff reduction, and green infrastructure planning, which are relevant to nutrient transport and water quality outcomes in built environments. Her community-engaged design projects and scholarship inform spatial planning and landscape policy discussions around integrating water infrastructure with social resilience.
 
 Keywords:
-Water Institute affiliate; Landscape Architecture.
+landscape architecture; water landscapes; resilient infrastructure; vernacular water systems; talaab; green infrastructure; stormwater management; community-engaged design; participatory design; urban design; India; South Asia; water management; place-making; sustainable design

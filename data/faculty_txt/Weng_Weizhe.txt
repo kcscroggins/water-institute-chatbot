@@ -2,6 +2,7 @@ Name: Weizhe Weng
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Food and Resource Economics
 Email: wweng@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=E75C1nQAAAAJ&hl=en
 
 Subject Areas:
 Water-related research

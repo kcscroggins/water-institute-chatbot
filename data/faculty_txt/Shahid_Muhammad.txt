@@ -2,12 +2,19 @@ Name: Muhammad Shahid
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Horticultural Sciences 
 Email: mshahid@ufl.edu
+Google Scholar: https://scholar.google.com/citations?hl=en&user=P73T2vIAAAAJ&sortby=pubdate&view_op=list_works&gmla=AJsN-F7hN_sUzN_N_9CX-dJPCTcNr2y3Y58_ckHCpLzIr4o_B2V_vBOCiIo2QdWBr-1EwZFXJmXRPgD-j4v6-pnRq4uQKABktRCiAxpZzKiyAy5etL0cUlg
+Website: https://nfrec.ifas.ufl.edu/faculty-directory/muhammad-shahid/
 
 Subject Areas:
-Water-related research
+Stress physiology, Citrus physiology, Cold hardiness, Sustainable agriculture
+
+Education:
+- Ph.D. Horticulture (Stress Physiology), University of Agriculture Faisalabad & Cornell University Joint Program (2011)
+- M.S. Horticulture (Stress Physiology), University of Agriculture Faisalabad, Pakistan (2008)
+- B.S. Horticulture, University of Agriculture Faisalabad, Pakistan (2006)
 
 Research Focus:
-Dr. Shahid is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Horticultural Sciences .
+Dr. Shahid investigates stress tolerance and physiology of fruit crops including cold hardy citrus, tree fruits, nuts, and small fruits. His work examines how biotic stressors (pests, diseases) and abiotic factors (heat, cold, drought, salinity, heavy metals) affect crop physiology. Key areas include proteomics and metabolomics for stress tolerance, trace element roles in disease resistance, root/scion evaluation, biostimulants, and irrigation management.
 
 Keywords:
-Water Institute affiliate; Horticultural Sciences .
+Abiotic stress tolerance; citrus physiology; cold hardiness; crop diversification; plant biochemistry; horticultural science; extension education; sustainable agriculture.

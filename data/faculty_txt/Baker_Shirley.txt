@@ -1,13 +1,37 @@
-Name: Shirley Baker
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Fisheries and Aquatic Sciences
+Name: Shirley M. Baker
+Role: Professor, Fisheries and Aquatic Sciences; Associate Director, Fisheries & Aquatic Sciences Program; Associate Program Leader, Natural Resources Extension; Affiliate Faculty, UF Water Institute; Florida Sea Grant Affiliate Faculty
+Academic Unit: School of Forest, Fisheries & Geomatics Sciences, UF/IFAS
 Email: sbaker25@ufl.edu
+Phone: (352) 273-3627
+ORCID: 0000-0003-4355-5420
 
 Subject Areas:
-Water-related research
+Molluscan Biology, Shellfish Aquaculture, Marine Invertebrate Physiology, Invasive Species Ecology, Water Quality, Ecosystem Services
+
+Education:
+- Ph.D. Marine Science, Virginia Institute of Marine Science, The College of William & Mary (1994)
+- M.S. Biology, University of Oregon, Oregon Institute of Marine Biology (1988)
+- B.S. Biology, Seattle Pacific University (1986)
 
 Research Focus:
-Dr. Baker is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Fisheries and Aquatic Sciences.
+Dr. Shirley M. Baker is a Professor of Molluscan Biology and Aquaculture in the Fisheries and Aquatic Sciences Program at UF. Her research bridges physiology, ecology, and aquaculture of marine invertebrates, especially shellfish. She focuses on understanding shellfish (e.g., hard clams, oysters) physiological responses to environmental factors, including the effects of salinity, temperature, water quality, and eutrophication on shellfish performance and ecosystem services. Her work includes developing models to predict impacts of environmental parameters on shellfish productivity and studying ecosystem services provided by shellfish, including nutrient cycling and water quality improvement. Her extension work supports the shellfish and aquaculture industries, citizens, and stakeholders throughout Florida by identifying industry needs, conducting applied research, and providing sustainable solutions.
+
+Selected Publications:
+- "The Role of Salinity in Hard Clam Aquaculture" (UF/IFAS EDIS)
+- "The Role of Dissolved Oxygen in Hard Clam Aquaculture" (UF/IFAS EDIS)
+- "How Do Oysters Remove Nitrogen?" (UF/IFAS EDIS)
+- "Diagnostic Methods for Long-Spined Sea Urchin Health" (UF/IFAS EDIS)
+- "Standardized Invasive Species Terminology for Outreach" - Promoting unified language for invasive species education
+- Research on aquaculture and seafood quality, including rapid colorimetric detection methods for fish spoilage
+- Over 2,000+ citations on Google Scholar
+
+Research Projects:
+- Hard clam seed production factors in Florida aquaculture - water quality monitoring, pathogen assessment, and management strategies
+- Multiple grants from Florida Sea Grant focusing on shellfish physiology, aquaculture resilience, invasive species, and ecosystem functions
+
+Teaching:
+- Graduate and undergraduate courses in marine adaptations, aquatic invertebrate physiology, and climate impacts on natural resources
+- Advisor for numerous M.S. and Ph.D. students
 
 Keywords:
-Water Institute affiliate; Fisheries and Aquatic Sciences.
+Molluscan biology; shellfish aquaculture; hard clams; oysters; marine invertebrates; bivalves; shellfish physiology; water quality; salinity; dissolved oxygen; eutrophication; ecosystem services; nutrient cycling; invasive species; aquaculture resilience; Florida Sea Grant; extension; Fisheries and Aquatic Sciences; Water Institute affiliate

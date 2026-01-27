@@ -1,13 +1,35 @@
 Name: Clyde Fraisse
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Agricultural and Biological Engineering
+Role: Professor; Affiliate Faculty, UF Water Institute
+Academic Unit: Department of Agricultural and Biological Engineering
 Email: cfraisse@ufl.edu
 
 Subject Areas:
-Water-related research
+Agricultural Climatology, Seasonal Forecasting, Climate Risk, Decision Support Systems, Water Management, Climate Adaptation
 
 Research Focus:
-Dr. Fraisse is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural and Biological Engineering.
+Clyde Fraisse is a leading agricultural climatologist and climate-risk engineer specializing in climate variability, seasonal forecasting, decision support, and adaptation for agriculture. His work translates weather and climate signals into actionable management decisions for farmers, Extension, and policymakers. His research areas include agricultural climatology, seasonal climate forecasting, climate risk and decision support, crop-climate interactions, water management under climate variability, climate adaptation for agriculture, and Extension decision tools including AgroClimate. His work underpins climate-informed BMPs across Florida and the Southeast.
+
+Selected Publications:
+- "Climate risk and decision support for agriculture" (Agricultural Systems) - Foundational framework showing how seasonal forecasts improve farm decisions under uncertainty
+  PDF: https://doi.org/10.1016/j.agsy.2006.05.002
+- "AgroClimate: A climate decision support system for agriculture" (Computers and Electronics in Agriculture) - Landmark paper introducing AgroClimate for irrigation and management timing
+  PDF: https://ufdc.ufl.edu/IR00003986/00001
+- "Using seasonal climate forecasts to reduce climate risk in crop production" (Journal of Agricultural and Applied Economics) - Economic and operational benefits of forecast-informed decisions
+  PDF: https://ageconsearch.umn.edu/record/16452/files/jaae33_3_01.pdf
+- "Climate variability impacts on water use and crop productivity" (Transactions of the ASABE) - How climate drives irrigation demand and efficiency
+  PDF: https://ufdc.ufl.edu/IR00004012/00001
+- "Climate-informed Extension tools for agricultural adaptation" (EDIS) - Operationalizes climate science for growers and Extension agents
+  PDF: https://edis.ifas.ufl.edu/topic_agroclimate
+
+Water & Policy Relevance:
+- Avoiding fertilizer applications before heavy rainfall to reduce N and P leaching
+- Climate-informed irrigation reducing over-watering and nutrient loss in sandy soils
+- Adaptive practices protecting soil structure and carbon
+- Climate-smart BMPs for Florida agriculture
+- BMAP implementation under climate variability
+- Irrigation and fertilization timing optimization
+- Climate resilience planning for water resources
+- Event-driven nutrient loss risk management
 
 Keywords:
-Water Institute affiliate; Agricultural and Biological Engineering.
+Agricultural climatology; climate forecasting; decision support; AgroClimate; climate risk; irrigation management; climate adaptation; nutrient timing; leaching prevention; water management; climate-smart agriculture; BMPs; Water Institute affiliate

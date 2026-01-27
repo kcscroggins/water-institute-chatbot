@@ -2,12 +2,17 @@ Name: Xiaohui Qiao
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Food and Resource Economics
 Email: xiaohui.qiao@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=hYqkf1MAAAAJ&hl=en
+Website: https://fred.ifas.ufl.edu/about/directory/xiaohui-qiao/
 
 Subject Areas:
-Water-related research
+Geospatial computing, Environmental informatics, Disaster analysis, Web GIS
+
+Education:
+- Ph.D. in Civil Engineering, Brigham Young University (2020) - Specialization in Hydroinformatics and web GIS development
 
 Research Focus:
-Dr. Qiao is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Food and Resource Economics.
+Dr. Qiao concentrates on leveraging interdisciplinary technologies (GIS, data science, informatics) to solve research questions in agriculture and environmental science. Her current work emphasizes disaster impact evaluation, spatial analysis methods, data visualization through mapping, and web-based GIS platforms.
 
 Keywords:
-Water Institute affiliate; Food and Resource Economics.
+Geospatial computing; web services and applications; environmental informatics; cyberinfrastructure development; disaster analysis; data visualization; hydroinformatics.

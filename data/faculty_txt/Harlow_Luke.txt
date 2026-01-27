@@ -1,13 +1,31 @@
 Name: Luke Harlow
-Role: Affiliate Faculty, UF Water Institute
-Academic Unit: IFAS Extension
+Role: Extension Agent; Affiliate Faculty, UF Water Institute
+Academic Unit: UF/IFAS Extension
 Email: harlow1231@ufl.edu
 
 Subject Areas:
-Water-related research
+Extension Education, Agricultural Outreach, Natural Resource Management, BMP Implementation, Producer Training
 
 Research Focus:
-Dr. Harlow is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in IFAS Extension.
+Luke Harlow is a UF/IFAS Extension professional focused on helping producers and land managers implement science-based agricultural and natural-resource practices. His program areas include Extension education and outreach, agricultural and natural-resource best management practices, producer training and technical assistance, and local-scale problem solving and stakeholder engagement. He operates at the point where research and policy are operationalized, focusing on behavior change, technical assistance, and local capacity-building.
+
+Extension Programs:
+- UF/IFAS Extension fact sheets and guidance materials
+- Workshops, field days, and trainings on BMPs
+- One-on-one technical assistance with producers and landowners
+- Local problem-solving for agricultural and environmental challenges
+- Stakeholder engagement and capacity-building
+- Coordination between research institutions and land managers
+
+Water & Policy Relevance:
+- Implementation of soil-health and nutrient-management practices at farm level
+- Practice adoption affecting nutrient loss, runoff, and water quality
+- BMP and conservation practice adoption support
+- Local compliance with nutrient and water regulations
+- Building producer trust and engagement with science
+- Removing barriers to soil and nutrient practice implementation
+- Last-mile delivery of research to practitioners
+- Ensuring policies translate into real-world outcomes
 
 Keywords:
-Water Institute affiliate; IFAS Extension.
+Extension; agricultural education; natural resources; BMP implementation; producer training; technical assistance; stakeholder engagement; practice adoption; nutrient management; soil health; compliance; Water Institute affiliate

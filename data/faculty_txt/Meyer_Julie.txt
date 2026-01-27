@@ -2,12 +2,24 @@ Name: Julie Meyer
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Soil and Water Sciences
 Email: juliemeyer@ufl.edu
+Google Scholar: https://scholar.google.com/citations?hl=en&user=VlEuNbQAAAAJ&view_op=list_works&sortby=pubdate
+Website: https://soils.ifas.ufl.edu/people/faculty/julie-l-meyer/
 
 Subject Areas:
-Water-related research
+Microbial ecology, Bioinformatics, Seagrass ecosystems, Coral reef conservation
+
+Education:
+- PhD in Marine Biosciences, University of Delaware
+- M.S. in Biology, West Chester University
+- B.S. in Biology with Spanish minor, Salisbury University
+- B.S. in Marine & Environmental Science, University of Maryland Eastern Shore
 
 Research Focus:
-Dr. Meyer is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Soil and Water Sciences.
+Dr. Meyer's work sits at the intersection of microbial ecology and bioinformatics. Her research investigates microbial communities underpinning Florida and Caribbean habitats in need of conservation and/or restoration such as seagrass beds and coral reefs. She examines how microbiomes structure and impact ecosystem functions.
+
+Teaching:
+- Soil Microbial Ecology
+- Ecology of Waterborne Pathogens
 
 Keywords:
-Water Institute affiliate; Soil and Water Sciences.
+Microbial ecology; bioinformatics; seagrass ecosystems; coral reef conservation; microbiome research; wetlands and aquatic ecosystems; waterborne pathogens.

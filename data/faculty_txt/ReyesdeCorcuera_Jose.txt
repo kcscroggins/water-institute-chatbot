@@ -2,12 +2,19 @@ Name: Jose Reyes de Corcuera
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Agricultural and Biological Engineering
 Email: jireyes@ufl.edu
+Google Scholar: https://scholar.google.com/citations?hl=en&user=NjbCq7cAAAAJ
+Website: https://abe.ufl.edu/people/faculty/reyes-jose/
 
 Subject Areas:
-Water-related research
+Biosensors, Enzyme catalysis, Food engineering, Biofilm detection
+
+Education:
+- Ph.D. Engineering Science, Washington State University (2004) - Fulbright Scholar
+- M.S. Chemical Engineering, Washington State University (1998) - Fulbright Scholar
+- B.S. Chemical Engineering, National Autonomous University of Mexico (1995)
 
 Research Focus:
-Dr. Reyes de Corcuera is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Agricultural and Biological Engineering.
+Dr. Reyes develops enzyme stabilization strategies and biosensor technologies. His work encompasses enzyme stabilization to fabricate enzyme biosensors with extended operational life and biocatalytic processes for food and agricultural applications. Additional research areas include biofilm detection in water systems, cacao fermentation optimization, and supporting smallholder farmers in developing nations.
 
 Keywords:
-Water Institute affiliate; Agricultural and Biological Engineering.
+Biosensors; enzyme catalysis; food engineering; high hydrostatic pressure technology; biofilm formation and detection; biocatalytic processes; water system monitoring.

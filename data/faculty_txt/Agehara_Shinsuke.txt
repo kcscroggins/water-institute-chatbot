@@ -1,13 +1,29 @@
 Name: Shinsuke Agehara
 Role: Affiliate Faculty, UF Water Institute
-Academic Unit: Gulf Coast Research and Education Center
+Academic Unit: UF/IFAS Gulf Coast Research and Education Center; Department of Horticultural Sciences
 Email: sagehara@ufl.edu
+Phone: (813) 419-6583
+Office: Room 106, Gulf Coast Research and Education Center, 14625 CR 672, Wimauma, FL 33598
 
 Subject Areas:
-Water-related research
+Small fruits and vegetables, Crop stress physiology, Irrigation management, Protected agriculture, Nutrient management
+
+Education:
+- Ph.D. Horticultural Sciences, Texas A&M University (2014)
+- M.S. Crop and Soil Sciences, Michigan State University (2004)
+- B.S. International Agricultural Development, Tokyo University of Agriculture (2001)
 
 Research Focus:
-Dr. Agehara is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Gulf Coast Research and Education Center.
+Dr. Agehara is an Associate Professor of Horticulture who leads the Agehara Lab at GCREC. His research and extension program focuses on developing vegetable and fruit production practices to improve productivity, product quality, stress tolerance, and resource use efficiency—especially under environmental stresses such as heat, water, and nutrient limitations. The program covers Florida's major crops including tomato, strawberry, blueberry, bell pepper, and cucurbits, as well as specialty crops such as blackberry, pomegranate, hops, hemp, and artichoke. Core research themes include plant adaptive responses to environmental changes and abiotic stresses, irrigation and fertilization practices for sustainability, cultural management and protected agriculture, and integration of advanced techniques such as remote sensing, image-based diagnostics, and crop modeling.
+
+Notable Publications:
+- Vegetable Production Handbook of Florida (Contributor, 2025-2026 edition)
+- Heat stress mitigation and transplant establishment in strawberry production
+- Fertilizer Management for Vegetable Production (EDIS chapter)
+- Hop Production Series: Pruning Practices, Harvest Timing, and Small-Scale Harvesting (EDIS, 2021)
+- Hop Yard Establishment and Trellis Construction (EDIS, 2021)
+- Choosing the Right Blackberry Cultivar in Subtropical Florida (EDIS, 2020)
+- Hemp and hop production practices in subtropical conditions
 
 Keywords:
-Water Institute affiliate; Gulf Coast Research and Education Center.
+Vegetable production; fruit production; strawberry; tomato; blueberry; blackberry; hops; hemp; bell pepper; cucurbits; pomegranate; artichoke; crop stress physiology; heat stress; irrigation efficiency; nutrient management; fertilization; protected agriculture; plant physiological adaptation; remote sensing; crop modeling; image-based diagnostics; resource conservation; abiotic stress.

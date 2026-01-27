@@ -2,12 +2,24 @@ Name: Tracie Baker
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Environmental and Global Health
 Email: tracie.baker@ufl.edu
+Website: www.bakerWATERlab.com
 
 Subject Areas:
-Water-related research
+Environmental toxicology, Endocrine disrupting compounds, Aquatic toxicology, One Health
+
+Education:
+- Ph.D., University of Wisconsin-Madison
+- D.V.M., University of Wisconsin-Madison (focus on fish and aquatic animals)
+- M.S. Marine Biology, University of Alaska Fairbanks (harmful algal bloom toxins)
+- B.S. Biology and Chemistry, Cleveland State University
 
 Research Focus:
-Dr. Baker is an affiliate faculty member of the UF Water Institute, contributing expertise in water-related research through their work in Environmental and Global Health.
+Dr. Baker is an environmental toxicologist and director of the WATER (Warrior Aquatic, Translational, and Environmental Research) Laboratory. Her research focuses on One Health approaches evaluating developmentally-based and transgenerational, environmentally-induced disease from endocrine disrupting chemicals and contaminants of emerging concern including microplastics, PFAS, pharmaceuticals, pesticides, and personal care products.
+
+Notable Achievements:
+- R01 funding from NIEHS to investigate epigenetic mechanisms of endocrine disruptors
+- Lead scientist for 2022 Willoughby Expedition through Florida Everglades
+- First nonindigenous woman to cross the Everglades from Gulf of Mexico to Atlantic Ocean
 
 Keywords:
-Water Institute affiliate; Environmental and Global Health.
+Environmental toxicology; endocrine disrupting compounds; aquatic toxicology; One Health; PFAS; microplastics; transgenerational effects; Everglades water quality.
