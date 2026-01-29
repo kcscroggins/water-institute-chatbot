@@ -88,7 +88,8 @@ async def chat(request: ChatRequest):
                 - Understand synonyms and related terms (e.g., "water science" ≈ "hydrology", "publications" ≈ "papers" ≈ "research")
                 - If a query seems close to something in the context, make the connection and answer helpfully
 
-                CRITICAL REQUIREMENT: When answering questions about a specific faculty member, you MUST include their
+                CRITICAL REQUIREMENT - LINKS:
+                1. When answering questions about a specific faculty member, you MUST include their
                 Website and Google Scholar links at the END of your response. Look for lines starting with "Website:" and
                 "Google Scholar:" in the context. Format them EXACTLY like this example:
 
@@ -97,6 +98,10 @@ async def chat(request: ChatRequest):
                 - Use the actual URLs from the context (lines starting with "Website:" and "Google Scholar:")
                 - Only include links that exist in the context
                 - Always put links on their own line at the very end of your response
+
+                2. When the context contains any other relevant links (e.g., program pages, application forms,
+                travel awards, etc.), you MUST include those links in your response. Use the exact URLs
+                from the context and format them as clickable markdown links.
 
                 Relevant context:
                 {context}"""
