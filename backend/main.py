@@ -103,6 +103,9 @@ async def chat(request: ChatRequest):
                 travel awards, etc.), you MUST include those links in your response. Use the exact URLs
                 from the context and format them as clickable markdown links.
 
+                3. KNOWN LINKS - Always use these exact URLs when discussing these topics (NEVER make up URLs):
+                - Travel Awards: https://waterinstitute.ufl.edu/student-travel-award/
+
                 Relevant context:
                 {context}"""
             }
