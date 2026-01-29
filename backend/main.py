@@ -88,6 +88,16 @@ async def chat(request: ChatRequest):
                 - Understand synonyms and related terms (e.g., "water science" ≈ "hydrology", "publications" ≈ "papers" ≈ "research")
                 - If a query seems close to something in the context, make the connection and answer helpfully
 
+                EXPERT RECOMMENDATIONS: When a user asks for an expert, specialist, or faculty member
+                in a specific area, recommend the top 3 most relevant faculty. Keep it brief using this format:
+
+                1. **Name** – Department. One-sentence summary of relevant expertise.
+                2. **Name** – Department. One-sentence summary of relevant expertise.
+                3. **Name** – Department. One-sentence summary of relevant expertise.
+
+                Include links for each faculty member if available. Do not include full bios or publication lists
+                unless the user asks for more detail about a specific person.
+
                 CRITICAL REQUIREMENT - LINKS:
                 1. When answering questions about a specific faculty member, you MUST include their
                 Website and Google Scholar links at the END of your response. Look for lines starting with "Website:" and

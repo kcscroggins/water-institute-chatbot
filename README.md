@@ -242,7 +242,7 @@ This project is currently deployed using:
 
 4. **Deploy** - Render will automatically run the ingestion script and start the server
 
-**Note**: Free tier spins down after 15 minutes of inactivity. First request after idle takes 30-60 seconds to wake up. Upgrade to $7/month Starter plan for instant responses.
+**Note**: Currently on the $7/month Starter plan for always-on hosting with instant responses (no cold starts).
 
 ### Frontend Deployment (Netlify)
 
