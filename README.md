@@ -4,7 +4,7 @@ A RAG-powered chatbot that answers questions about the UF Water Institute, inclu
 
 ## Live Deployment
 
-- **Frontend**: https://polite-sunshine-495327.netlify.app
+- **Frontend**: https://kcscroggins.github.io/water-institute-chatbot/
 - **Backend API**: https://water-institute-chatbot.onrender.com
 - **GitHub Repository**: https://github.com/kcscroggins/water-institute-chatbot
 
@@ -244,20 +244,13 @@ This project is currently deployed using:
 
 **Note**: Currently on the $7/month Starter plan for always-on hosting with instant responses (no cold starts).
 
-### Frontend Deployment (Netlify)
+### Frontend Deployment (GitHub Pages)
 
-1. **Go to [netlify.com](https://netlify.com)** and sign up
+The frontend auto-deploys via GitHub Actions on every push to `main`.
 
-2. **Deploy**:
-   - Click "Add new site" → "Import an existing project"
-   - Choose GitHub and select your repository
-   - Configure:
-     - **Base directory**: (leave empty)
-     - **Publish directory**: `frontend`
-     - **Build command**: (leave empty)
-   - Click "Deploy site"
-
-3. **Done!** - Netlify deploys in ~30 seconds
+- **Workflow file**: `.github/workflows/deploy-pages.yml`
+- **Publishes**: the `frontend/` directory
+- **URL**: https://kcscroggins.github.io/water-institute-chatbot/
 
 ### WordPress Integration
 
@@ -265,7 +258,7 @@ Add this iframe code to your WordPress page (in "Code" or "HTML" mode):
 
 ```html
 <iframe
-  src="https://polite-sunshine-495327.netlify.app"
+  src="https://kcscroggins.github.io/water-institute-chatbot/"
   width="100%"
   height="650px"
   frameborder="0"
@@ -275,7 +268,7 @@ Add this iframe code to your WordPress page (in "Code" or "HTML" mode):
 
 **Sharing Options**:
 - Share your WordPress page URL (recommended for official use)
-- Share the Netlify URL directly: https://polite-sunshine-495327.netlify.app
+- Share the GitHub Pages URL directly: https://kcscroggins.github.io/water-institute-chatbot/
 
 ## Architecture
 
@@ -284,7 +277,7 @@ Add this iframe code to your WordPress page (in "Code" or "HTML" mode):
 - **AI Model**: GPT-4o via UF Navigator API (adjustable in `main.py`)
 - **Vector DB**: ChromaDB (persistent storage in `chroma/db/`)
 - **Data**: Faculty profiles (369) + General institute info (6 topics)
-- **Hosting**: Render.com (backend) + Netlify (frontend)
+- **Hosting**: Render.com (backend) + GitHub Pages (frontend)
 
 ## Data Structure
 
