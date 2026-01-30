@@ -108,6 +108,13 @@ async def chat(request: ChatRequest):
                 - Use the actual URLs from the context (lines starting with "Website:" and "Google Scholar:")
                 - Only include links that exist in the context
                 - Always put links on their own line at the very end of your response
+                - NEVER add filler phrases before links such as "For more information, visit...",
+                  "You can learn more at...", "Feel free to check out...", or "contact the Water Institute".
+                  Just end your answer naturally and place the **Links:** line directly after.
+                  Example of a GOOD response:
+                  "Dr. Matt Cohen is the director of the UF Water Institute. He is a professor of ecohydrology with expertise in watershed hydrology and biogeochemistry.
+
+                  **Links:** [Website](https://ffgs.ifas.ufl.edu/ecohydrology/) | [Google Scholar](https://scholar.google.com/...)"
 
                 2. When the context contains any other relevant links (e.g., program pages, application forms,
                 travel awards, etc.), you MUST include those links in your response. Use the exact URLs
