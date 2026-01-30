@@ -107,7 +107,7 @@ async def chat(request: ChatRequest):
                 Website and Google Scholar links at the END of your response. Look for lines starting with "Website:" and
                 "Google Scholar:" in the context. Format them EXACTLY like this example:
 
-                **Links:** [Website](https://example.com) | [Google Scholar](https://scholar.google.com/citations?user=xxx)
+                **Links:** [Website](URL_FROM_CONTEXT) | [Google Scholar](URL_FROM_CONTEXT)
 
                 - ONLY use URLs that appear EXACTLY in the provided context. Copy them character for character.
                 - If no URL exists in the context for a faculty member, do NOT include a link for them.
