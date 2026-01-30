@@ -2,6 +2,7 @@ Name: Wendy Graham
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Agricultural and Biological Engineering
 Email: wgraham@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=uqVzdCMAAAAJ&hl=en
 
 Subject Areas:
 Hydrologic modeling, Water quality, Groundwater resources, Climate impacts
