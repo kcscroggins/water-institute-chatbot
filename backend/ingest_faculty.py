@@ -62,8 +62,11 @@ def ingest_all_data():
 
             print(f"Processing faculty: {faculty_name}: {len(chunks)} chunks")
 
-            # Add each chunk to the collection
+            # Add each chunk to the collection, prepending faculty name for better name-based retrieval
             for chunk_idx, chunk in enumerate(chunks):
+                # Ensure faculty name appears in every chunk so name searches always match
+                if faculty_name.lower() not in chunk.lower():
+                    chunk = f"{faculty_name}\n{chunk}"
                 documents.append(chunk)
                 metadatas.append({
                     "source": faculty_name,

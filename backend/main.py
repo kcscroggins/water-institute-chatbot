@@ -57,7 +57,7 @@ async def chat(request: ChatRequest):
         # Query ChromaDB for relevant faculty information
         results = collection.query(
             query_texts=[request.message],
-            n_results=5  # Get top 5 most relevant chunks for better matching
+            n_results=8  # Get top 8 most relevant chunks for better matching across 369 faculty
         )
 
         # Build context from retrieved documents
