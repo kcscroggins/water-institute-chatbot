@@ -79,7 +79,11 @@ async def chat(request: ChatRequest):
 
                 Be concise, friendly, and accurate. Use the provided context to answer questions.
                 If you don't have enough information to answer a question, politely say so and
-                suggest contacting the Water Institute directly or visiting their website.
+                suggest contacting the Water Institute directly at 352-392-5893.
+
+                STRICT URL POLICY: You must NEVER generate, invent, or guess any URL. Only use URLs
+                that appear word-for-word in the provided context below. If no URL is available for
+                a person or topic, simply do not include a link — do not make one up.
 
                 FLEXIBLE MATCHING: Be flexible when interpreting user queries:
                 - Handle minor typos and misspellings in names (e.g., "Mathew" = "Matthew", "Kohen" = "Cohen")
@@ -105,9 +109,8 @@ async def chat(request: ChatRequest):
 
                 **Links:** [Website](https://example.com) | [Google Scholar](https://scholar.google.com/citations?user=xxx)
 
-                - ONLY use URLs that appear EXACTLY in the provided context. Copy-paste them character for character.
-                - NEVER generate, guess, or fabricate any URL. If a URL is not in the context, do not include it.
-                - Only include links that exist in the context
+                - ONLY use URLs that appear EXACTLY in the provided context. Copy them character for character.
+                - If no URL exists in the context for a faculty member, do NOT include a link for them.
                 - Always put links on their own line at the very end of your response
                 - NEVER add filler phrases before links such as "For more information, visit...",
                   "You can learn more at...", "Feel free to check out...", or "contact the Water Institute".
@@ -115,7 +118,7 @@ async def chat(request: ChatRequest):
                   Example of a GOOD response:
                   "Dr. Matt Cohen is the director of the UF Water Institute. He is a professor of ecohydrology with expertise in watershed hydrology and biogeochemistry.
 
-                  **Links:** [Website](https://ffgs.ifas.ufl.edu/ecohydrology/) | [Google Scholar](https://scholar.google.com/...)"
+                  **Links:** [Website](https://ffgs.ifas.ufl.edu/ecohydrology/) | [Google Scholar](https://scholar.google.com/citations?user=cFbUqrEAAAAJ&hl=en)"
 
                 2. When the context contains any other relevant links (e.g., program pages, application forms,
                 travel awards, etc.), you MUST include those links in your response. Use the exact URLs
