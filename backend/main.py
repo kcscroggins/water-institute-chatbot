@@ -105,7 +105,8 @@ async def chat(request: ChatRequest):
 
                 **Links:** [Website](https://example.com) | [Google Scholar](https://scholar.google.com/citations?user=xxx)
 
-                - Use the actual URLs from the context (lines starting with "Website:" and "Google Scholar:")
+                - ONLY use URLs that appear EXACTLY in the provided context. Copy-paste them character for character.
+                - NEVER generate, guess, or fabricate any URL. If a URL is not in the context, do not include it.
                 - Only include links that exist in the context
                 - Always put links on their own line at the very end of your response
                 - NEVER add filler phrases before links such as "For more information, visit...",
