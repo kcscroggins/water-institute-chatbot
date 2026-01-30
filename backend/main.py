@@ -60,12 +60,39 @@ async def chat(request: ChatRequest):
             n_results=8  # Get top 8 most relevant chunks for better matching across 369 faculty
         )
 
+        # Secondary search: check if any word in the query matches a faculty name in metadata
+        # This catches first-name-only or last-name-only queries that vector search may miss
+        query_words = [w.lower().strip(",.?!") for w in request.message.split() if len(w) > 2]
+        all_docs = collection.get(include=["documents", "metadatas"])
+        name_matched_docs = []
+        for doc, metadata in zip(all_docs['documents'], all_docs['metadatas']):
+            if metadata.get('type') == 'faculty':
+                source_name = metadata.get('source', '').lower()
+                name_parts = source_name.split()
+                if any(qw in name_parts for qw in query_words):
+                    name_matched_docs.append((doc, metadata))
+
         # Build context from retrieved documents
         context = ""
         sources = []
+        seen_ids = set()
+
+        # Add vector search results first
         if results['documents'] and results['documents'][0]:
             for doc, metadata in zip(results['documents'][0], results['metadatas'][0]):
+                doc_id = f"{metadata.get('source', '')}_{metadata.get('chunk', '')}"
+                if doc_id not in seen_ids:
+                    context += f"\n\n{doc}"
+                    seen_ids.add(doc_id)
+                    if 'source' in metadata and metadata['source'] not in sources:
+                        sources.append(metadata['source'])
+
+        # Add name-matched results that weren't already included
+        for doc, metadata in name_matched_docs:
+            doc_id = f"{metadata.get('source', '')}_{metadata.get('chunk', '')}"
+            if doc_id not in seen_ids:
                 context += f"\n\n{doc}"
+                seen_ids.add(doc_id)
                 if 'source' in metadata and metadata['source'] not in sources:
                     sources.append(metadata['source'])
 
@@ -116,8 +143,10 @@ async def chat(request: ChatRequest):
                 2. **Name** – Department. One-sentence summary of relevant expertise.
                 3. **Name** – Department. One-sentence summary of relevant expertise.
 
-                Include links for each faculty member if available. Do not include full bios or publication lists
-                unless the user asks for more detail about a specific person.
+                Only include links if the faculty member's Website or Google Scholar URL appears verbatim
+                in the context. If a faculty member has no URL in the context, do NOT include any link
+                for them — not even a guess based on their email or name. Do not include full bios or
+                publication lists unless the user asks for more detail about a specific person.
 
                 CRITICAL REQUIREMENT - LINKS:
                 1. When answering questions about a specific faculty member, you MUST include their
