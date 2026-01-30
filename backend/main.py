@@ -63,14 +63,25 @@ async def chat(request: ChatRequest):
         # Secondary search: check if any word in the query matches a faculty name in metadata
         # This catches first-name-only or last-name-only queries that vector search may miss
         query_words = [w.lower().strip(",.?!") for w in request.message.split() if len(w) > 2]
-        all_docs = collection.get(include=["documents", "metadatas"])
+        # Exclude common words that would cause false matches
+        stop_words = {"tell", "about", "what", "who", "does", "the", "this", "that", "from",
+                      "with", "have", "been", "their", "there", "which", "where", "when",
+                      "faculty", "member", "professor", "research", "work", "study", "studies",
+                      "expert", "institute", "water", "please", "help", "know", "information"}
+        query_words = [w for w in query_words if w not in stop_words]
+
         name_matched_docs = []
-        for doc, metadata in zip(all_docs['documents'], all_docs['metadatas']):
-            if metadata.get('type') == 'faculty':
-                source_name = metadata.get('source', '').lower()
-                name_parts = source_name.split()
-                if any(qw in name_parts for qw in query_words):
-                    name_matched_docs.append((doc, metadata))
+        if query_words:
+            try:
+                all_metadata = collection.get(include=["documents", "metadatas"])
+                for doc, metadata in zip(all_metadata['documents'], all_metadata['metadatas']):
+                    if metadata.get('type') == 'faculty':
+                        source_name = metadata.get('source', '').lower()
+                        name_parts = source_name.split()
+                        if any(qw in name_parts for qw in query_words):
+                            name_matched_docs.append((doc, metadata))
+            except Exception:
+                pass  # Fall back to vector search only if metadata search fails
 
         # Build context from retrieved documents
         context = ""
@@ -113,12 +124,16 @@ async def chat(request: ChatRequest):
                 - UF Water Institute faculty members (their research, publications, contact info)
                 - Water-related research at UF
 
-                You must REFUSE all other requests, including but not limited to:
+                IMPORTANT: If the context below contains faculty profile data that matches a name
+                in the user's question, the question IS on-topic — answer it using that context.
+                A user asking about a person by first name, last name, or full name is always
+                a valid faculty query.
+
+                You must REFUSE requests that are clearly unrelated to the institute, such as:
                 - General knowledge questions (e.g., "What is the meaning of life?")
                 - Creative writing (e.g., "Write me a poem")
                 - Math, coding, or homework help
                 - Opinions, advice, or recommendations unrelated to the institute
-                - Anything not specifically about the UF Water Institute
 
                 For ANY off-topic request, respond ONLY with:
                 "I'm designed to help with questions about the UF Water Institute. Feel free to ask
