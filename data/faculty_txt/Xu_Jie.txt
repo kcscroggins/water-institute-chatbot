@@ -13,3 +13,65 @@ Dr. Xu concentrates on three primary areas: Edge Computing, Wireless Communicati
 
 Keywords:
 Edge computing; wireless communications and networking; federated learning; multi-armed bandits; reinforcement learning; mathematical modeling; signal processing; network security.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 93
+- Total Citations: 2589
+- H-Index: 17
+- Average Citations per Paper: 27.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 27.02 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Data-driven identification of post-acute SARS-CoV-2 infection subphenotypes *Nature Medicine* (2022) - 180 citations
+  DOI: https://doi.org/10.1038/s41591-022-02116-3
+- Algorithmic fairness in computational medicine *EBioMedicine* (2022) - 141 citations
+  DOI: https://doi.org/10.1016/j.ebiom.2022.104250
+- Early prediction of Alzheimer's disease and related dementias using real‐world electronic health records *Alzheimer's & Dementia* (2023) - 90 citations
+  DOI: https://doi.org/10.1002/alz.12967
+- A translational perspective towards clinical AI fairness *npj Digital Medicine* (2023) - 71 citations
+  DOI: https://doi.org/10.1038/s41746-023-00918-4
+- AD-BERT: Using pre-trained language model to predict the progression from mild cognitive impairment to Alzheimer's disease *Journal of Biomedical Informatics* (2023) - 62 citations
+  DOI: https://doi.org/10.1016/j.jbi.2023.104442
+- High-throughput target trial emulation for Alzheimer’s disease drug repurposing with real-world data *Nature Communications* (2023) - 54 citations
+  DOI: https://doi.org/10.1038/s41467-023-43929-1
+- Data-driven analysis to understand long COVID using electronic health records from the RECOVER initiative *Nature Communications* (2023) - 52 citations
+  DOI: https://doi.org/10.1038/s41467-023-37653-z
+- Identification of Parkinson’s disease PACE subtypes and repurposing treatments through integrative analyses of multimodal data *npj Digital Medicine* (2024) - 34 citations
+  DOI: https://doi.org/10.1038/s41746-024-01175-9
+- Real-World Effectiveness of BNT162b2 Against Infection and Severe Diseases in Children and Adolescents. *Annals of Internal Medicine* (2024) - 34 citations
+  DOI: https://doi.org/10.7326/m23-1754
+- Identification of risk factors of Long COVID and predictive modeling in the RECOVER EHR cohorts *Communications Medicine* (2024) - 31 citations
+  DOI: https://doi.org/10.1038/s43856-024-00549-0
+
+Research Grants (from Dimensions.ai):
+- Collaborative Research: Towards an AI-Empowered Market-Driven Spectrum System with Strategic and Adversarial Users (2025-2028) - $308,750
+  Funder: Directorate for Mathematical & Physical Sciences
+- CAREER: Wireless InferNets: Enabling Collaborative Machine Learning Inference on the Network Path (2024-2027) - $500,000
+  Funder: Directorate for Computer & Information Science & Engineering
+- Collaborative Research: CCSS: Hierarchical Federated Learning over Highly-Dense and Overlapping NextG Wireless Deployments: Orchestrating Resources for Performance (2024-2026) - $225,000
+  Funder: Directorate for Engineering
+- Identifying pediatric asthma subtypes using novel privacy-preserving federated machine learning methods (2023-2028) - $2,046,907
+  Funder: National Heart Lung and Blood Institute
+
+Research Categories (from Dimensions.ai):
+32 Biomedical and Clinical Sciences; 42 Health Sciences; 4203 Health Services and Systems; 3202 Clinical Sciences; 46 Information and Computing Sciences
+
+Key Research Concepts (from Dimensions.ai):
+electronic health records; health records; post-acute sequelae of SARS-CoV-2 infection; SARS-CoV-2 infection; post-acute sequelae; AI fairness; artificial intelligence; real-world data; SARS-CoV-2; acute SARS-CoV-2 infection
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Cornell University
+- Duke-NUS Medical School
+- Northwestern University
+- University of Pennsylvania
+- Harvard University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.5/10
+Percentile: Top 10% of Water Institute faculty
+Rankings by Research Category:
+- Health Sciences: #1 of 7
+- Health Services and Systems: #2 of 4
+- Clinical Sciences: #2 of 7

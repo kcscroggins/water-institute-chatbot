@@ -23,3 +23,57 @@ Notable Achievements:
 
 Keywords:
 Food policy; health economics; nutrition economics; food security; applied agricultural economics; COVID-19 impacts; SNAP program evaluation.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 9
+- Total Citations: 52
+- H-Index: 4
+- Average Citations per Paper: 5.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.48 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Diverse perennial circular forage systems are needed to foster resilience, ecosystem services, and socioeconomic benefits in agricultural landscapes *Grassland Research* (2022) - 17 citations
+  DOI: https://doi.org/10.1002/glr2.12020
+- Sustainability information, taste perception and willingness to pay: The case of bird-friendly coffee *Food Quality and Preference* (2024) - 11 citations
+  DOI: https://doi.org/10.1016/j.foodqual.2024.105124
+- Assessing consumers’ valuation for Front-of-Package ‘Health’ labeling under FDA guidelines *Food Policy* (2025) - 8 citations
+  DOI: https://doi.org/10.1016/j.foodpol.2025.102804
+- Consumers' valuation for a novel food waste reducing technology: The case of natural coating *Journal of the Agricultural and Applied Economics Association* (2023) - 7 citations
+  DOI: https://doi.org/10.1002/jaa2.47
+- Public acceptance of beef carbon tax earmarks *Food Policy* (2024) - 4 citations
+  DOI: https://doi.org/10.1016/j.foodpol.2024.102733
+- Off‐farm employment and body mass index among agrarian women in sub‐Saharan Africa *Journal of the Agricultural and Applied Economics Association* (2024) - 2 citations
+  DOI: https://doi.org/10.1002/jaa2.103
+- Impact of Weight Status Reporting on Childhood Body Mass Index *Childhood Obesity* (2022) - 2 citations
+  DOI: https://doi.org/10.1089/chi.2021.0245
+- Do consumers value biodegradable plastic packaging? *Journal of the Agricultural and Applied Economics Association* (2025) - 1 citations
+  DOI: https://doi.org/10.1002/jaa2.70020
+- The effect of a 5-minute body scan mindfulness intervention on healthier food choices *Q Open* (2023)
+  DOI: https://doi.org/10.1093/qopen/qoad004
+
+Research Grants (from Dimensions.ai):
+- Robert Wood Johnson Foundation Health Policy Fellows -- Di Fang, PhD (2025-2027) - $175,000
+  Funder: Robert Wood Johnson Foundation
+
+Research Categories (from Dimensions.ai):
+38 Economics; 32 Biomedical and Clinical Sciences; 3210 Nutrition and Dietetics; 3801 Applied Economics; 30 Agricultural, Veterinary and Food Sciences
+
+Key Research Concepts (from Dimensions.ai):
+consumer valuation; Becker-DeGroot-Marschak; ecosystem services; human health; degradation of soil; agricultural landscapes; land transformation; moral satisfaction; Becker–DeGroot–Marschak procedure; bird-friendly
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Texas A&M University
+- University of Arkansas at Fayetteville
+- Korea University
+- University of Wisconsin-Madison
+- University of Arkansas for Medical Sciences
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.4/10
+Percentile: Top 76% of Water Institute faculty
+Rankings by Research Category:
+- Nutrition and Dietetics: #1 of 2
+- Applied Economics: #7 of 12
+- Economics: #17 of 24

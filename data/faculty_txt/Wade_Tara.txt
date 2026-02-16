@@ -28,3 +28,59 @@ Dr. Wade's work informs the design of effective conservation policies and incent
 
 Keywords:
 resource economics; agricultural economics; conservation adoption; econometrics; discrete choice modeling; ecosystem services; water quality; carbon markets; specialty crops; Florida agriculture; farm economics; enterprise budgets; environmental policy; incentive mechanisms
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 39
+- Total Citations: 180
+- H-Index: 6
+- Average Citations per Paper: 4.6
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 4.35 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- The Use and Impact of Antibiotics in Plant Agriculture: A Review. *Phytopathology* (2024) - 58 citations
+  DOI: https://doi.org/10.1094/phyto-10-23-0357-ia
+- Welfare impacts of conservation agriculture adoption on smallholder maize farmers in South Africa *Renewable Agriculture and Food Systems* (2022) - 15 citations
+  DOI: https://doi.org/10.1017/s1742170522000308
+- Past, present, and future: Status of women and minority faculty in agricultural and applied economics *Applied Economic Perspectives and Policy* (2021) - 12 citations
+  DOI: https://doi.org/10.1002/aepp.13191
+- Nitrogen Fertilization Guidelines for Potato Production in Florida: HS1429, 12/2021 *EDIS* (2021) - 10 citations
+  DOI: https://doi.org/10.32473/edis-hs1429-2021
+- Citrus growers’ willingness to pay and perceptions of cover crops *Agricultural and Resource Economics Review* (2023) - 5 citations
+  DOI: https://doi.org/10.1017/age.2023.15
+- A Review of Strawberry Production and Price Trends from 2010 to 2022: FE1143, 4/2024 *EDIS* (2024) - 4 citations
+  DOI: https://doi.org/10.32473/edis-fe1143-2024
+- The distribution of competitive research grants from the National Institute for Food and Agriculture: A comparison of 1862 land grant universities, 1890 land grant universities, and other institutions *Applied Economic Perspectives and Policy* (2023) - 4 citations
+  DOI: https://doi.org/10.1002/aepp.13413
+- Factors affecting the bundled adoption of irrigation and nutrient best management practices for improving water quality and quantity in Florida *Journal of the Agricultural and Applied Economics Association* (2023) - 4 citations
+  DOI: https://doi.org/10.1002/jaa2.74
+- Capitalizing on Carbon: AE582/AE582, 1/2023 *EDIS* (2023) - 3 citations
+  DOI: https://doi.org/10.32473/edis-ae582-2023
+- A Review of Watermelon Production and Price Trends from 2010 to 2021: FE1137, 6/2023 *EDIS* (2023) - 2 citations
+  DOI: https://doi.org/10.32473/edis-fe1137-2023
+
+Research Grants (from Dimensions.ai):
+- Costs and Benefits of Natural Resources on Public and Private Lands: Management, Economic Valuation, and Integrated Decision-Making (2018-2022)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 38 Economics; 3008 Horticultural Production; 3801 Applied Economics; 3002 Agriculture, Land and Farm Management
+
+Key Research Concepts (from Dimensions.ai):
+sweet corn; bell pepper; cover crops; best management practices; specialty crops; management practices; carbon market; carbon sequestration; citrus growers; partial budget
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Institute of Food and Agricultural Sciences
+- Southwest Florida Research
+- Texas Tech University
+- University of South Africa
+- University of Pretoria
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.6/10
+Percentile: Top 67% of Water Institute faculty
+Rankings by Research Category:
+- Applied Economics: #4 of 12
+- Horticultural Production: #11 of 13
+- Economics: #12 of 24

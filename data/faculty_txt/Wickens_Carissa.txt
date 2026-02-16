@@ -29,3 +29,55 @@ Wickens's research informs evidence-based feeding recommendations and animal man
 
 Keywords:
 equine nutrition; livestock nutrition; animal sciences; digestive physiology; nutrient utilization; feeding strategies; metabolism; animal health; animal welfare; feed evaluation; supplementation; Florida; southeastern U.S.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 17
+- Total Citations: 90
+- H-Index: 5
+- Average Citations per Paper: 5.3
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.3 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- A Survey of Horse Selection, Longevity, and Retirement in Equine-Assisted Services in the United States *Animals* (2021) - 20 citations
+  DOI: https://doi.org/10.3390/ani11082333
+- Technical note: ShinyAnimalCV: open-source cloud-based web application for object detection, segmentation, and three-dimensional visualization of animals using computer vision *Journal of Animal Science* (2023) - 10 citations
+  DOI: https://doi.org/10.1093/jas/skad416
+- Behavioral and Physiological Reactions to a Sudden Novel Object in the Weanling Horse: Quantitative Phenotypes for Future GWAS *Genes* (2023) - 5 citations
+  DOI: https://doi.org/10.3390/genes14030593
+- Digestibility and nitrogen and water balance in horses fed rhizoma peanut hay *Journal of Animal Science* (2021) - 5 citations
+  DOI: https://doi.org/10.1093/jas/skab284
+- Feeding behavior and preference of horses fed rhizoma peanut hay *Journal of Veterinary Behavior* (2022) - 3 citations
+  DOI: https://doi.org/10.1016/j.jveb.2021.09.011
+- Investigating the gastrointestinal physiology of mature horses with and without a history of cribbing behavior in response to feeding a digestive support supplement *Journal of Equine Veterinary Science* (2023) - 2 citations
+  DOI: https://doi.org/10.1016/j.jevs.2023.104964
+- Welfare assessment of horses ridden in the Costa Rica National Horse Parade *Archivos Latinoamericanos de Producción Animal* (2022) - 1 citations
+  DOI: https://doi.org/10.53588/alpa.300404
+- Effects of Social Interactions and Foundational Training on Behavior, Temperament, and Hormone Levels in Weanling Horses *Animals* (2026)
+  DOI: https://doi.org/10.3390/ani16010142
+- Effects of human stress on horse behavior and interaction quality *bioRxiv* (2025)
+  DOI: https://doi.org/10.64898/2025.12.03.692157
+- United States stakeholder insights on genetic testing for equine health and breeding *bioRxiv* (2025)
+  DOI: https://doi.org/10.1101/2025.07.29.667538
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3009 Veterinary Sciences; 31 Biological Sciences; 3109 Zoology; 3003 Animal Production
+
+Key Research Concepts (from Dimensions.ai):
+equine-assisted services; weanling horses; human-horse interactions; horse selection; Professional Association of Therapeutic Horsemanship; individual horse level; horse level; computer vision; source code; cloud computing platform
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Kyungpook National University
+- University of Costa Rica
+- Rutgers, The State University of New Jersey
+- University of California, Davis
+- North Carolina State University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.4/10
+Percentile: Top 76% of Water Institute faculty
+Rankings by Research Category:
+- Zoology: #4 of 5
+- Veterinary Sciences: #4 of 5
+- Animal Production: #4 of 4

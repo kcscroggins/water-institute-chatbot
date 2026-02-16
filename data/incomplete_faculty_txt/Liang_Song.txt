@@ -1,0 +1,72 @@
+Name: Song Liang
+Role: Associate Professor
+Academic Unit: 
+Office: 
+Phone: 
+Email: songliang@ufl.edu
+Website: https://egh.phhp.ufl.edu/profile/liang-song/
+Google Scholar: 
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 90
+- Total Citations: 3684
+- H-Index: 30
+- Average Citations per Paper: 40.9
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 11.24 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Mapping ticks and tick-borne pathogens in China *Nature Communications* (2021) - 226 citations
+  DOI: https://doi.org/10.1038/s41467-021-21375-1
+- Review of 2022 WHO guidelines on the control and elimination of schistosomiasis *The Lancet Infectious Diseases* (2022) - 181 citations
+  DOI: https://doi.org/10.1016/s1473-3099(22)00221-3
+- A multistate assessment of population normalization factors for wastewater-based epidemiology of COVID-19 *PLOS ONE* (2023) - 44 citations
+  DOI: https://doi.org/10.1371/journal.pone.0284370
+- Diagnosis of Schistosoma infection in non-human animal hosts: A systematic review and meta-analysis *PLOS Neglected Tropical Diseases* (2022) - 29 citations
+  DOI: https://doi.org/10.1371/journal.pntd.0010389
+- Imported Dengue Case Numbers and Local Climatic Patterns Are Associated with Dengue Virus Transmission in Florida, USA *Insects* (2022) - 24 citations
+  DOI: https://doi.org/10.3390/insects13020163
+- Determinants of malaria infections among children in refugee settlements in Uganda during 2018–2019 *Infectious Diseases of Poverty* (2023) - 21 citations
+  DOI: https://doi.org/10.1186/s40249-023-01090-3
+- Prevalence and factors associated with intestinal schistosomiasis and human fascioliasis among school children in Amhara Regional State, Ethiopia *Tropical Medicine and Health* (2021) - 18 citations
+  DOI: https://doi.org/10.1186/s41182-021-00326-y
+- Enterobiasis and its risk factors in urban, rural and indigenous children of subtropical Argentina *Parasitology* (2021) - 17 citations
+  DOI: https://doi.org/10.1017/s0031182021001955
+- Biogeographical characteristics of Schistosoma mansoni endemic areas in Ethiopia: a systematic review and meta analysis *Infectious Diseases of Poverty* (2021) - 16 citations
+  DOI: https://doi.org/10.1186/s40249-021-00864-x
+- Parasitological and malacological surveys to identify transmission sites for Schistosoma mansoni in Gomma District, south-western Ethiopia *Scientific Reports* (2022) - 7 citations
+  DOI: https://doi.org/10.1038/s41598-022-21641-2
+
+Research Grants (from Dimensions.ai):
+- The Pandemic of Hunger: The Impact of Covid-19 on Food Security Among Smaller Holder Farmers in Uganda (2022-2023)
+  Funder: Council for International Exchange of Scholars
+- Training on One Health Approaches to the Surveillance and Monitoring of Neglected Tropical Diseases at a Tri-Border Subtropical Area of Argentina. (2015-2015)
+  Funder: Council for International Exchange of Scholars
+
+Research Categories (from Dimensions.ai):
+32 Biomedical and Clinical Sciences; 3202 Clinical Sciences; 42 Health Sciences; 31 Biological Sciences; 30 Agricultural, Veterinary and Food Sciences
+
+Key Research Concepts (from Dimensions.ai):
+risk factors; meta-analysis; malaria infection; months of age; potential sources of bacteria; diarrheal deaths; breast milk; tick-borne pathogens; tick-borne agents; tick species
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Makerere University
+- Haramaya University
+- Addis Ababa University
+- State Key Laboratory of Pathogen and Biosecurity
+- University of California, Berkeley

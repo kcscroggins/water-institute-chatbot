@@ -31,3 +31,55 @@ Dr. Scheffers's research reshapes how conservation planning accounts for climate
 
 Keywords:
 conservation biology; climate change; biodiversity; global change ecology; microclimate; thermal refugia; extinction risk; vulnerability assessment; tropical ecology; forest canopy; wildlife trade; species redistribution; habitat structure; soil temperature; amphibians; reptiles
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 67
+- Total Citations: 4793
+- H-Index: 27
+- Average Citations per Paper: 71.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 19.32 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Forest microclimates and climate change: Importance, drivers and future research agenda *Global Change Biology* (2021) - 781 citations
+  DOI: https://doi.org/10.1111/gcb.15569
+- Global maps of soil temperature *Global Change Biology* (2022) - 268 citations
+  DOI: https://doi.org/10.1111/gcb.16060
+- Climate change effects on animal ecology: butterflies and moths as a case study *Biological Reviews* (2021) - 173 citations
+  DOI: https://doi.org/10.1111/brv.12746
+- Mechanisms, detection and impacts of species redistributions under climate change *Nature Reviews Earth & Environment* (2024) - 136 citations
+  DOI: https://doi.org/10.1038/s43017-024-00527-z
+- Wildlife trade targets colorful birds and threatens the aesthetic value of nature *Current Biology* (2022) - 39 citations
+  DOI: https://doi.org/10.1016/j.cub.2022.07.066
+- Arboreality drives heat tolerance while elevation drives cold tolerance in tropical rainforest ants *Ecology* (2021) - 35 citations
+  DOI: https://doi.org/10.1002/ecy.3549
+- Vertical stratification patterns of tropical forest vertebrates: a meta‐analysis *Biological Reviews* (2022) - 32 citations
+  DOI: https://doi.org/10.1111/brv.12896
+- Ecological patterns and processes in the vertical dimension of terrestrial ecosystems *Journal of Animal Ecology* (2023) - 30 citations
+  DOI: https://doi.org/10.1111/1365-2656.13881
+- Reading tea leaves worldwide: Decoupled drivers of initial litter decomposition mass‐loss rate and stabilization *Ecology Letters* (2024) - 29 citations
+  DOI: https://doi.org/10.1111/ele.14415
+- Community‐wide seasonal shifts in thermal tolerances of mosquitoes *Ecology* (2021) - 29 citations
+  DOI: https://doi.org/10.1002/ecy.3368
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 41 Environmental Sciences; 4101 Climate Change Impacts and Adaptation; 3103 Ecology; 4102 Ecological Applications
+
+Key Research Concepts (from Dimensions.ai):
+climate change; range shifts; ecosystem function; soil temperature; species range shifts; species traits; species redistribution; forest microclimate; forest biodiversity; impact of microclimate
+
+Top Collaborating Institutions (from Dimensions.ai):
+- ETH Zurich
+- Ghent University
+- University of Antwerp
+- Aarhus University
+- Institute of Botany
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.9/10
+Percentile: Top 7% of Water Institute faculty
+Rankings by Research Category:
+- Climate Change Impacts and Adaptation: #3 of 16
+- Ecological Applications: #5 of 32
+- Ecology: #6 of 59

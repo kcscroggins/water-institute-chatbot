@@ -19,3 +19,61 @@ Notable Publications:
 
 Keywords:
 Mass spectrometry; lipidomics; metabolomics; PFAS contamination; environmental chemistry; analytical method development; endocrine disruption; wildlife and human health exposure assessment.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 139
+- Total Citations: 4739
+- H-Index: 39
+- Average Citations per Paper: 34.1
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 10.29 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Reference materials for MS-based untargeted metabolomics and lipidomics: a review by the metabolomics quality assurance and quality control consortium (mQACC) *Metabolomics* (2022) - 106 citations
+  DOI: https://doi.org/10.1007/s11306-021-01848-6
+- FluoroMatch 2.0—making automated and comprehensive non-targeted PFAS annotation a reality *Analytical and Bioanalytical Chemistry* (2021) - 102 citations
+  DOI: https://doi.org/10.1007/s00216-021-03392-7
+- Quality control requirements for the correct annotation of lipidomics data *Nature Communications* (2021) - 93 citations
+  DOI: https://doi.org/10.1038/s41467-021-24984-y
+- Cross-Laboratory Standardization of Preclinical Lipidomics Using Differential Mobility Spectrometry and Multiple Reaction Monitoring *Analytical Chemistry* (2021) - 83 citations
+  DOI: https://doi.org/10.1021/acs.analchem.1c02826
+- Introducing the Lipidomics Minimal Reporting Checklist *Nature Metabolism* (2022) - 82 citations
+  DOI: https://doi.org/10.1038/s42255-022-00628-3
+- Underestimation of Per- and Polyfluoroalkyl Substances in Biosolids: Precursor Transformation During Conventional Treatment *Environmental Science and Technology* (2023) - 75 citations
+  DOI: https://doi.org/10.1021/acs.est.2c06189
+- High-Resolution Mass Spectrometry for Human Exposomics: Expanding Chemical Space Coverage *Environmental Science and Technology* (2024) - 66 citations
+  DOI: https://doi.org/10.1021/acs.est.4c01156
+- Prevalence and Implications of Per- and Polyfluoroalkyl Substances (PFAS) in Settled Dust *Current Environmental Health Reports* (2021) - 64 citations
+  DOI: https://doi.org/10.1007/s40572-021-00326-4
+- An actionable annotation scoring framework for gas chromatography-high-resolution mass spectrometry *Exposome* (2022) - 62 citations
+  DOI: https://doi.org/10.1093/exposome/osac007
+- Municipal solid waste incineration (MSWI) ash co-disposal: Influence on per- and polyfluoroalkyl substances (PFAS) concentration in landfill leachate *Waste Management* (2022) - 62 citations
+  DOI: https://doi.org/10.1016/j.wasman.2022.03.009
+
+Research Grants (from Dimensions.ai):
+- Understanding Systemic Lupus Erythematosus Heterogeneity in a South Carolina Gullah African American Cohort Using Exposomics (2020-2025) - $199,999
+  Funder: Congressionally Directed Medical Research Programs
+- A systems-based approach to understand the role of waste type, management strategies and treatment methods on the occurrence, source, and fate of PFAS in landfills (2019-2022) - $898,758
+  Funder: Environmental Protection Agency
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 34 Chemical Sciences; 4105 Pollution and Contamination; 32 Biomedical and Clinical Sciences; 3205 Medical Biochemistry and Metabolomics
+
+Key Research Concepts (from Dimensions.ai):
+polyfluoroalkyl substances; perfluoroalkyl carboxylic acids; lipidomics data; polyfluoroalkyl substances concentrations; perfluoroalkyl acids; high-resolution mass spectrometry; mass spectrometry; municipal solid waste incineration; municipal solid waste; perfluorobutanoic acid
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Yale University
+- University of Miami
+- Stockholm University
+- Environmental Protection Agency
+- Columbia University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 3.3/10
+Percentile: Top 7% of Water Institute faculty
+Rankings by Research Category:
+- Chemical Sciences: #1 of 10
+- Medical Biochemistry and Metabolomics: #2 of 4
+- Pollution and Contamination: #3 of 13

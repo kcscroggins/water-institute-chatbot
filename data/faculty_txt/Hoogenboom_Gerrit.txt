@@ -26,3 +26,65 @@ Water & Policy Relevance:
 
 Keywords:
 Crop modeling; DSSAT; agroecosystem simulation; decision support; climate change; yield forecasting; nutrient cycling; soil water balance; agricultural systems; food security; climate adaptation; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 289
+- Total Citations: 9777
+- H-Index: 52
+- Average Citations per Paper: 33.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 25.47 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Climate impacts on global agriculture emerge earlier in new generation of climate and crop models *Nature Food* (2021) - 820 citations
+  DOI: https://doi.org/10.1038/s43016-021-00400-y
+- Processing tomato production is expected to decrease by 2050 due to the projected increase in temperature *Nature Food* (2022) - 110 citations
+  DOI: https://doi.org/10.1038/s43016-022-00521-y
+- Research priorities for global food security under extreme events *One Earth* (2022) - 89 citations
+  DOI: https://doi.org/10.1016/j.oneear.2022.06.008
+- The chaos in calibrating crop models: Lessons learned from a multi-model calibration exercise *Environmental Modelling & Software* (2021) - 84 citations
+  DOI: https://doi.org/10.1016/j.envsoft.2021.105206
+- Global needs for nitrogen fertilizer to improve wheat yield under climate change *Nature Plants* (2024) - 68 citations
+  DOI: https://doi.org/10.1038/s41477-024-01739-3
+- Unmanned aerial vehicle (UAV) imaging and machine learning applications for plant phenotyping *Computers and Electronics in Agriculture* (2023) - 62 citations
+  DOI: https://doi.org/10.1016/j.compag.2023.108064
+- Modeling the impact of climate warming on potato phenology *European Journal of Agronomy* (2022) - 60 citations
+  DOI: https://doi.org/10.1016/j.eja.2021.126404
+- Improving soil moisture prediction with deep learning and machine learning models *Computers and Electronics in Agriculture* (2024) - 54 citations
+  DOI: https://doi.org/10.1016/j.compag.2024.109414
+- Are soybean models ready for climate change food impact assessments? *European Journal of Agronomy* (2022) - 53 citations
+  DOI: https://doi.org/10.1016/j.eja.2022.126482
+- Evidence for increasing global wheat yield potential *Environmental Research Letters* (2022) - 51 citations
+  DOI: https://doi.org/10.1088/1748-9326/aca77c
+
+Research Grants (from Dimensions.ai):
+- In-Season Yield Prediction for Risk Management under Climate Change and Variability (2023-2024)
+  Funder: Council for International Exchange of Scholars
+- Multi-scale Modeling of Functional Groups (2021-2023) - $150,000
+  Funder: Defense Advanced Research Projects Agency
+- FACT: Agricultural Research Data Network for Modeling and Analytics (2019-2023) - $1,000,000
+  Funder: National Institute of Food and Agriculture
+- Collaborative Research: CyberSEES:Type 2: Framework to Advance Climate, Economics, and Impact Investigations with Information Technology (FACE-IT) (2013-2016) - $302,710
+  Funder: Directorate for Computer & Information Science & Engineering
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3002 Agriculture, Land and Farm Management; 3004 Crop and Pasture Production; 37 Earth Sciences; 46 Information and Computing Sciences
+
+Key Research Concepts (from Dimensions.ai):
+crop models; Tropical Research and Education Center; sowing dates; wheat phenology; planting dates; Global Gridded Crop Model Intercomparison; Agricultural Model Intercomparison; warmer climate projections; yield response; maize production
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Leibniz Centre for Agricultural Landscape Research
+- University of Bonn
+- China Agricultural University
+- University of Hohenheim
+- University of Florence
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 5.2/10
+Percentile: Top 1% of Water Institute faculty
+Rankings by Research Category:
+- Crop and Pasture Production: #1 of 41
+- Agriculture, Land and Farm Management: #1 of 24
+- Information and Computing Sciences: #1 of 20

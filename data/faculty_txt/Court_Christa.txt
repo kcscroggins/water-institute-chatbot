@@ -33,3 +33,55 @@ Representative Themes & Expertise:
 
 Keywords:  
 Regional economics; economic impact analysis; natural-resource economics; disaster resilience; input-output modelling; fisheries economics; water-economics; ecological restoration economics; agriculture value chains; coastal economy.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 25
+- Total Citations: 135
+- H-Index: 7
+- Average Citations per Paper: 5.4
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.66 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Towards integrated modeling of the long-term impacts of oil spills *Marine Policy* (2021) - 22 citations
+  DOI: https://doi.org/10.1016/j.marpol.2021.104554
+- Evaluating the regional economic contributions of US aquaculture: Case study of Florida’s shellfish aquaculture industry *Aquaculture Economics & Management* (2021) - 18 citations
+  DOI: https://doi.org/10.1080/13657305.2020.1869860
+- Accounting for global value chains: rising global inequality in the wake of COVID-19? *International Review of Applied Economics* (2021) - 13 citations
+  DOI: https://doi.org/10.1080/02692171.2021.1912716
+- Impacts of COVID-19 on US agri-food supply chain businesses: Regional survey results *PLOS ONE* (2023) - 12 citations
+  DOI: https://doi.org/10.1371/journal.pone.0281930
+- Short‐term economic impacts of ecological restoration in estuarine and coastal environments: a case study of Lone Cabbage Reef *Restoration Ecology* (2021) - 7 citations
+  DOI: https://doi.org/10.1111/rec.13462
+- The economic contribution of U.S. seafood imports throughout the value chain: A sectorial and species-specific analysis *Marine Policy* (2024) - 6 citations
+  DOI: https://doi.org/10.1016/j.marpol.2024.106375
+- Using a delphi technique to determine the likelihood and tourism impact of a Chikungunya outbreak in the United States *Current Issues in Tourism* (2023) - 5 citations
+  DOI: https://doi.org/10.1080/13683500.2023.2177833
+- Pandemic Produce: Impacts of COVID-19 on Florida’s Fruit and Vegetable Industries *Journal of Agricultural & Food Industrial Organization* (2023) - 3 citations
+  DOI: https://doi.org/10.1515/jafio-2022-0025
+- Using the 2016 Zika outbreak to estimate the potential tourism impacts of a Chikungunya event in Florida *Tourism Economics* (2023) - 2 citations
+  DOI: https://doi.org/10.1177/13548166231185984
+- Importance of Consistency and Standardization in Estimating Economic Contributions of the Forest Industry in the Southern United States *Journal of Forestry* (2023) - 2 citations
+  DOI: https://doi.org/10.1093/jofore/fvad001
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 4104 Environmental Management; 35 Commerce, Management, Tourism and Services; 38 Economics; 30 Agricultural, Veterinary and Food Sciences
+
+Key Research Concepts (from Dimensions.ai):
+economic contribution; aquaculture industry; short-term economic impact; ecological restoration; tourism impacts; tourism; economic value; economic importance; coastal resources; management industry
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Miami
+- University of South Florida St. Petersburg
+- University of Minnesota Twin Cities
+- University of Wisconsin-Madison
+- University of South Carolina
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.5/10
+Percentile: Top 72% of Water Institute faculty
+Rankings by Research Category:
+- Commerce, Management, Tourism and Services: #11 of 13
+- Economics: #15 of 24
+- Environmental Management: #34 of 46

@@ -27,3 +27,49 @@ Mechanistic/enabling research on toxicology and exposure pathways. Provides foun
 
 Keywords:
 medicinal chemistry; drug metabolism; xenobiotic biotransformation; toxicology; environmental chemicals; pharmacokinetics; glutathione transferase; dichloroacetate; contaminant exposure; water quality health impacts
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 117
+- Total Citations: 3421
+- H-Index: 31
+- Average Citations per Paper: 29.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 1.57 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- 1.21 Drug Metabolism: Phase II Enzymes (2022) - 11 citations
+  DOI: https://doi.org/10.1016/b978-0-12-820472-6.00123-7
+- Enzyme Kinetics of PAPS-Sulfotransferase *Methods in Molecular Biology* (2021) - 11 citations
+  DOI: https://doi.org/10.1007/978-1-0716-1554-6_11
+- Biotransformation in Fishes 1 (2024) - 9 citations
+  DOI: https://doi.org/10.1201/9781003160694-3
+- Hepatic demethylation of methoxy-bromodiphenyl ethers and conjugation of the resulting hydroxy-bromodiphenyl ethers in a marine fish, the red snapper, Lutjanus campechanus, and a freshwater fish, the channel catfish, Ictalurus punctatus *Chemosphere* (2021) - 8 citations
+  DOI: https://doi.org/10.1016/j.chemosphere.2021.131620
+- Pharmacokinetic and Biochemical Profiling of Sodium Dichloroacetate in Pregnant Ewes and Fetuses *Drug Metabolism and Disposition* (2021) - 3 citations
+  DOI: https://doi.org/10.1124/dmd.120.000330
+- Editorial: Translational Research and Drug Repurposing for Non-Communicable Diseases (NCDs) *Frontiers in Pharmacology* (2022) - 2 citations
+  DOI: https://doi.org/10.3389/fphar.2022.879611
+- 2.12 Effects of Biotransformation on the Toxicity of Organic Chemicals (2026)
+  DOI: https://doi.org/10.1016/b978-0-323-95488-4.00209-6
+
+Research Categories (from Dimensions.ai):
+34 Chemical Sciences; 41 Environmental Sciences; 4105 Pollution and Contamination; 32 Biomedical and Clinical Sciences; 3405 Organic Chemistry
+
+Key Research Concepts (from Dimensions.ai):
+parent compound; functional groups; carboxylic acids; drug metabolites; formation of phase II metabolites; conjugates of carboxylic acids; sulfotransferase enzymes; substrate concentration; flexible loop region; dimerization domain
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Lagos
+- University of California, Riverside
+- Woods Hole Oceanographic Institution
+- Clemson University
+- Georgia Institute of Technology
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.3/10
+Percentile: Top 12% of Water Institute faculty
+Rankings by Research Category:
+- Organic Chemistry: #1 of 1
+- Chemical Sciences: #2 of 10
+- Pollution and Contamination: #4 of 13

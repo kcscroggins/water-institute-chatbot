@@ -29,3 +29,45 @@ Dr. Tucker's work informs environmental and sustainability policy by clarifying 
 
 Keywords:
 environmental governance; collective action; common-pool resources; climate adaptation; sustainability; Latin America; Honduras; Guatemala; Mexico; anthropology; political ecology; institutional analysis; coffee systems; community-based management; socio-ecological systems; mountain regions
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 11
+- Total Citations: 375
+- H-Index: 8
+- Average Citations per Paper: 34.1
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 10.09 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Scenario archetypes reveal risks and opportunities for global mountain futures *Global Environmental Change* (2021) - 28 citations
+  DOI: https://doi.org/10.1016/j.gloenvcha.2021.102291
+- Challenges for Governing Mountains Sustainably: Insights From a Global Survey *Mountain Research and Development* (2021) - 23 citations
+  DOI: https://doi.org/10.1659/mrd-journal-d-20-00080.1
+- Governance of interdependent ecosystem services and common-pool resources *Land Use Policy* (2023) - 22 citations
+  DOI: https://doi.org/10.1016/j.landusepol.2023.106575
+- Fostering sustainability through environmentally friendly coffee production and alternative trade: The case of Café Orgánico de Marcala (COMSA), Honduras *Critique of Anthropology* (2023) - 4 citations
+  DOI: https://doi.org/10.1177/0308275x231194253
+- Mountain Governance *Montology* (2024)
+  DOI: https://doi.org/10.1007/978-3-031-64884-7_23
+
+Research Categories (from Dimensions.ai):
+44 Human Society; 4101 Climate Change Impacts and Adaptation; 41 Environmental Sciences; 4408 Political Science; 38 Economics
+
+Key Research Concepts (from Dimensions.ai):
+mountain governance; governance challenges; mountain social-ecological systems; social-ecological systems; global environmental change; Participatory scenario planning; ecosystem degradation; local governments; effective governance; socioeconomic processes
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Colorado State University Fort Collins
+- University of York
+- Institute of Geography
+- Anton Melik Geographical Institute
+- University of Udine
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.9/10
+Percentile: Top 54% of Water Institute faculty
+Rankings by Research Category:
+- Political Science: #2 of 3
+- Economics: #8 of 24
+- Human Society: #11 of 27

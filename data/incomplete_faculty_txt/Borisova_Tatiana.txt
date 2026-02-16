@@ -1,0 +1,66 @@
+Name: Tatiana Borisova
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: tborisova@ufl.edu
+Website: http://fred.ifas.ufl.edu/faculty/borisova/
+Google Scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&gmla=AJsN-F7yS2xXReupxvh75G_nAw7a_94eOZYXoI2xBSMNEQJKIHViKkwZVpcSHX_LWQUsgyD5oOqL-yySGBaRe3WOqHMdM05ushdCeH_yy_xgWQo9Uxl6HpQ&user=RMWUnQEAAAAJ
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 126
+- Total Citations: 408
+- H-Index: 13
+- Average Citations per Paper: 3.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 0.84 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Farm-scale economic and environmental tradeoffs of land use and land management decisions *Agricultural Water Management* (2024) - 5 citations
+  DOI: https://doi.org/10.1016/j.agwat.2024.108925
+- Choosing Nitrogen Application Rate Recommendation Given Florida’s Regulatory Water Policy *HortScience* (2022) - 4 citations
+  DOI: https://doi.org/10.21273/hortsci16656-22
+- 2021 Handbook of Florida Water Regulation: Florida Springs and Aquifer Protection Act *EDIS* (2021) - 2 citations
+  DOI: https://doi.org/10.32473/edis-fe1019-2021
+- The Cost of Alternative Water Supply and Efficiency Options under Uncertainty: An Application of Modern Portfolio Theory and Chebyshev’s Inequality *Earth* (2023) - 1 citations
+  DOI: https://doi.org/10.3390/earth4010003
+- Watermelon Planting Decisions with Multiple Risks: A Simulation Analysis *HortTechnology* (2022) - 1 citations
+  DOI: https://doi.org/10.21273/horttech05006-21
+- 2021 Handbook of Florida Water Regulation: Florida Water Resources Policy *EDIS* (2021) - 1 citations
+  DOI: https://doi.org/10.32473/edis-fe1043-2021
+- 2021 Handbook of Florida Water Regulation: Safe Drinking Water Act *EDIS* (2021) - 1 citations
+  DOI: https://doi.org/10.32473/edis-fe587-2021
+- 2021 Handbook of Florida Water Regulation: Federal Insecticide, Fungicide, and Rodenticide Act *EDIS* (2021) - 1 citations
+  DOI: https://doi.org/10.32473/edis-fe588-2021
+- 2021 Handbook of Florida Water Regulation: Florida Pesticide Law *EDIS* (2021) - 1 citations
+  DOI: https://doi.org/10.32473/edis-fe590-2021
+- 2021 Handbook of Florida Water Regulation: Florida Watershed Restoration Act *EDIS* (2021) - 1 citations
+  DOI: https://doi.org/10.32473/edis-fe608-2021
+
+Research Categories (from Dimensions.ai):
+48 Law and Legal Studies; 4802 Environmental and Resources Law; 38 Economics; 30 Agricultural, Veterinary and Food Sciences; 3801 Applied Economics
+
+Key Research Concepts (from Dimensions.ai):
+water regulation; law; constant revision; Handbook; Act; agencies; economic value; water resources; economic value of goods; value of goods
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Food and Resource Economics
+- Florida Legislative Office of Economic and Demographic Research, Tallahassee, FL 32399, USA
+- Economic Research Service
+- Natural Resources Conservation Service
+- United States Department of Agriculture

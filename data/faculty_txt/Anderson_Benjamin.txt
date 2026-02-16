@@ -22,3 +22,55 @@ Notable Work:
 
 Keywords:
 Zoonotic disease epidemiology; viral respiratory pathogens; One Health approaches; environmental pathogen monitoring; bioaerosol surveillance; infectious disease transmission; antibiotic resistance; global health capacity building.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 49
+- Total Citations: 1734
+- H-Index: 22
+- Average Citations per Paper: 35.4
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 17.98 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Global and regional estimates of orphans attributed to maternal cancer mortality in 2020 *Nature Medicine* (2022) - 164 citations
+  DOI: https://doi.org/10.1038/s41591-022-02109-2
+- Disagreement on foundational principles of biological aging *PNAS Nexus* (2024) - 38 citations
+  DOI: https://doi.org/10.1093/pnasnexus/pgae499
+- Assessing the nonlinear association of environmental factors with antibiotic resistance genes (ARGs) in the Yangtze River Mouth, China *Scientific Reports* (2023) - 9 citations
+  DOI: https://doi.org/10.1038/s41598-023-45973-9
+- Reverse Zoonotic Transmission (Zooanthroponosis): An Increasing Threat to Animal Health (2023) - 9 citations
+  DOI: https://doi.org/10.1007/978-3-030-85877-3_59-1
+- Molecular characterization of canine parvovirus type 2 (CPV2) reveals a high prevalence of the CPV2c genotype among dogs suffering from diarrhea *Animal Diseases* (2024) - 6 citations
+  DOI: https://doi.org/10.1186/s44149-023-00107-6
+- The Impact of Highly Pathogenic Avian Influenza H5N1 in the United States: A Scoping Review of Past Detections and Present Outbreaks *Viruses* (2025) - 5 citations
+  DOI: https://doi.org/10.3390/v17030307
+- Reverse Zoonotic Transmission (Zooanthroponosis): An Increasing Threat to Animal Health (2023) - 3 citations
+  DOI: https://doi.org/10.1007/978-3-031-27164-9_59
+- Biosecurity Plan Template for Livestock Exhibitions: AN404, 11/2025 *EDIS* (2025)
+  DOI: https://doi.org/10.32473/edis-an404-2025
+- Virome and Microbiome of Florida Bats Illuminate Viral Co-Infections, Dietary Viral Signals, and Gut Microbiome Shifts *Microorganisms* (2025)
+  DOI: https://doi.org/10.3390/microorganisms13112625
+- What Backyard Flock Owners Need to Know about Bird Flu (Influenza H5N1): AN402, 9/2025 *EDIS* (2025)
+  DOI: https://doi.org/10.32473/edis-an402-2025
+
+Research Categories (from Dimensions.ai):
+32 Biomedical and Clinical Sciences; 3207 Medical Microbiology; 31 Biological Sciences; 3107 Microbiology; 3202 Clinical Sciences
+
+Key Research Concepts (from Dimensions.ai):
+antibiotic resistance genes; abundance of antibiotic resistance genes; collective health; environmental health professionals; health professionals; health concepts; disease risk; influenza H5N1; H5N1 subtype; subtypes of influenza A virus
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Duke Kunshan University
+- Harvard University
+- The Brigham and Women's Hospital Inc
+- International Agency for Research on Cancer
+- The University of Texas Medical Branch at Galveston
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.2/10
+Percentile: Top 15% of Water Institute faculty
+Rankings by Research Category:
+- Medical Microbiology: #1 of 4
+- Clinical Sciences: #3 of 7
+- Microbiology: #3 of 20

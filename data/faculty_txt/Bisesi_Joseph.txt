@@ -36,3 +36,61 @@ Policy Relevance:
 
 Keywords:
 Environmental toxicology; cyanotoxins; microcystin; harmful algal blooms; HABs; water quality; public health; drinking water; risk assessment; exposure science; red tide; brevetoxins; Karenia brevis; aerosol exposure; health advisories; regulatory science; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 51
+- Total Citations: 1068
+- H-Index: 19
+- Average Citations per Paper: 20.9
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.0 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- A multistate assessment of population normalization factors for wastewater-based epidemiology of COVID-19 *PLOS ONE* (2023) - 44 citations
+  DOI: https://doi.org/10.1371/journal.pone.0284370
+- Plastics in our water: Fish microbiomes at risk? *Comparative Biochemistry and Physiology Part D Genomics and Proteomics* (2021) - 27 citations
+  DOI: https://doi.org/10.1016/j.cbd.2021.100834
+- Sex-dependent host-microbiome dynamics in zebrafish: Implications for toxicology and gastrointestinal physiology *Comparative Biochemistry and Physiology Part D Genomics and Proteomics* (2022) - 25 citations
+  DOI: https://doi.org/10.1016/j.cbd.2022.100993
+- Wastewater surveillance for SARS-CoV-2 in a small coastal community: Effects of tourism on viral presence and variant identification among low prevalence populations *Environmental Research* (2021) - 22 citations
+  DOI: https://doi.org/10.1016/j.envres.2021.112496
+- Nano‐scale applications in aquaculture: Opportunities for improved production and disease control *Journal of Fish Diseases* (2021) - 19 citations
+  DOI: https://doi.org/10.1111/jfd.13332
+- Impacts of diethylhexyl phthalate and overfeeding on physical fitness and lipid mobilization in Danio rerio (zebrafish) *Chemosphere* (2022) - 13 citations
+  DOI: https://doi.org/10.1016/j.chemosphere.2022.133703
+- A comparative review of the toxicity mechanisms of perfluorohexanoic acid (PFHxA) and perfluorohexanesulphonic acid (PFHxS) in fish *Comparative Biochemistry and Physiology Part C Toxicology & Pharmacology* (2024) - 12 citations
+  DOI: https://doi.org/10.1016/j.cbpc.2024.109874
+- Transcriptomic Analysis of the Differential Nephrotoxicity of Diverse Brominated Flame Retardants in Rat and Human Renal Cells *International Journal of Molecular Sciences* (2021) - 12 citations
+  DOI: https://doi.org/10.3390/ijms221810044
+- Toxicity Risks Associated With the Beta‐Blocker Metoprolol in Marine and Freshwater Organisms: A Review *Environmental Toxicology and Chemistry* (2024) - 10 citations
+  DOI: https://doi.org/10.1002/etc.5981
+- Retrospective Analysis of Wastewater-Based Epidemiology of SARS-CoV‑2 in Residences on a Large College Campus: Relationships between Wastewater Outcomes and COVID-19 Cases across Two Semesters with Different COVID-19 Mitigation Policies *ACS ES&T Water* (2022) - 10 citations
+  DOI: https://doi.org/10.1021/acsestwater.2c00275
+
+Research Grants (from Dimensions.ai):
+- Examining thyroid hormone synthesis feedback loops as xenobiotic target for brominated flame retardant metabolites (2021-2024) - $148,994
+  Funder: National Institute of Environmental Health Sciences
+- Understanding how interaction of single-walled carbon nanotubes with biological interfaces in the gastrointestinal system may alter chemical bioavailability (2016-2021) - $299,999
+  Funder: Directorate for Engineering
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 41 Environmental Sciences; 32 Biomedical and Clinical Sciences; 34 Chemical Sciences; 3107 Microbiology
+
+Key Research Concepts (from Dimensions.ai):
+wastewater-based epidemiology; aquatic organisms; aquatic species; reverse transcription quantitative polymerase chain reaction; real-time reverse transcription quantitative polymerase chain reaction; human fecal indicators; wastewater concentration; plastic debris; plastic contamination; microbiome of fish
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Masaryk University
+- University of Stavanger
+- University of Georgia
+- Florida Department of Health
+- Syracuse University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.4/10
+Percentile: Top 33% of Water Institute faculty
+Rankings by Research Category:
+- Chemical Sciences: #3 of 10
+- Microbiology: #9 of 20
+- Biomedical and Clinical Sciences: #11 of 30

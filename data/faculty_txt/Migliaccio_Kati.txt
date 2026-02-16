@@ -31,3 +31,45 @@ Dr. Migliaccio produces mechanistic and applied research on water and nutrient d
 
 Keywords:
 hydrology; watershed modeling; irrigation; water conservation; water quality; nutrient transport; nutrient loading; evapotranspiration; soil moisture; precision irrigation; Smart Irrigation Apps; Indian River Lagoon; Everglades; phosphorus; agricultural engineering; decision support systems; best management practices
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 61
+- Total Citations: 2500
+- H-Index: 17
+- Average Citations per Paper: 41.0
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 33.04 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Step by Step Calculation of the Penman-Monteith Evapotranspiration (FAO-56 Method): AE459, 2/2010 *EDIS* (2024) - 112 citations
+  DOI: https://doi.org/10.32473/edis-ae459-2010
+- A Practical Guide for Peach Irrigation Scheduling in Florida: HS1413, 5/2021 *EDIS* (2021) - 3 citations
+  DOI: https://doi.org/10.32473/edis-hs1413-2021
+- Sensor records can be used to forecast complex soil moisture dynamics with symbiosis of empirical nonlinear dynamics and echo state neural network AI *Computers and Electronics in Agriculture* (2024) - 2 citations
+  DOI: https://doi.org/10.1016/j.compag.2024.109031
+- Regulaciones y Guías para la Quimigación: AE567/AE567, 11/2021 *EDIS* (2021)
+  DOI: https://doi.org/10.32473/edis-ae567-2021
+- Best Management Practices (BMPs): Perimeter Borders *EDIS* (2021)
+  DOI: https://doi.org/10.32473/edis-ae439-2021
+
+Research Grants (from Dimensions.ai):
+- REU Site: Interdisciplinary research in water resources at the University of Florida (2009-2013) - $305,132
+  Funder: Directorate for Geosciences
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 37 Earth Sciences; 40 Engineering; 3704 Geoinformatics; 3108 Plant Biology
+
+Key Research Concepts (from Dimensions.ai):
+FAO-56; Penman–Monteith evapotranspiration; FAO-56 method; Penman-Monteith; reference evapotranspiration; peach trees; irrigation scheduling; tree growth stage; crop water demand; growth stages
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Southwest Florida Research
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.6/10
+Percentile: Top 9% of Water Institute faculty
+Rankings by Research Category:
+- Geoinformatics: #1 of 7
+- Plant Biology: #2 of 18
+- Engineering: #6 of 53

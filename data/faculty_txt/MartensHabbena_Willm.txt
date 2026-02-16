@@ -17,3 +17,65 @@ Dr. Martens-Habbena's work sits at the intersection of microbiology, molecular b
 
 Keywords:
 Molecular microbiology; microbial physiology; biogeochemistry; Next-Generation Sequencing; bioinformatics; microbial ecology; ecosystem metabolism; sea level rise.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 22
+- Total Citations: 748
+- H-Index: 13
+- Average Citations per Paper: 34.0
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 6.99 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Ammonia-oxidizing archaea are integral to nitrogen cycling in a highly fertile agricultural soil *ISME Communications* (2021) - 99 citations
+  DOI: https://doi.org/10.1038/s43705-021-00020-4
+- Bacterial functional prediction tools detect but underestimate metabolic diversity compared to shotgun metagenomics in southwest Florida soils *Applied Soil Ecology* (2021) - 88 citations
+  DOI: https://doi.org/10.1016/j.apsoil.2021.104129
+- Ammonia-oxidizing bacteria and archaea exhibit differential nitrogen source preferences *Nature Microbiology* (2024) - 85 citations
+  DOI: https://doi.org/10.1038/s41564-023-01593-7
+- Novel order-level lineage of ammonia-oxidizing archaea widespread in marine and terrestrial environments *The ISME Journal: Multidisciplinary Journal of Microbial Ecology* (2024) - 36 citations
+  DOI: https://doi.org/10.1093/ismejo/wrad002
+- Archaeal nitrification without oxygen *Science* (2022) - 27 citations
+  DOI: https://doi.org/10.1126/science.abn0373
+- Effect of information-driven irrigation scheduling on water use efficiency, nutrient leaching, greenhouse gas emission, and plant growth in South Florida *Agriculture Ecosystems & Environment* (2022) - 26 citations
+  DOI: https://doi.org/10.1016/j.agee.2022.107954
+- Fine-scale evaluation of two standard 16S rRNA gene amplicon primer pairs for analysis of total prokaryotes and archaeal nitrifiers in differently managed soils *Frontiers in Microbiology* (2023) - 19 citations
+  DOI: https://doi.org/10.3389/fmicb.2023.1140487
+- Effects of land-use intensity, grazing and fire disturbances on soil bacterial and fungal communities in subtropical wetlands *Agriculture Ecosystems & Environment* (2023) - 19 citations
+  DOI: https://doi.org/10.1016/j.agee.2022.108314
+- Nitrogen and phosphorous acquisition strategies drive coexistence patterns among archaeal lineages in soil *The ISME Journal: Multidisciplinary Journal of Microbial Ecology* (2023) - 17 citations
+  DOI: https://doi.org/10.1038/s41396-023-01493-y
+- Role of Nitric Oxide in Hydroxylamine Oxidation by Ammonia-Oxidizing Bacteria *Applied and Environmental Microbiology* (2023) - 16 citations
+  DOI: https://doi.org/10.1128/aem.02173-22
+
+Research Grants (from Dimensions.ai):
+- Interactions of soil- and rhizosphere microbiomes, plant nutrition,nitrification, and nitrous oxide production in agricultural cropping systems (2023-2026) - $849,409
+  Funder: National Institute of Food and Agriculture
+- Improving carbon- and nitrogen cycle linkages in agricultural soil microbiomes for enhanced carbon storage and crop nitrogen use efficiency (2022-2025) - $849,365
+  Funder: National Institute of Food and Agriculture
+- (MC) Biogeochemical impact of microbial nitrogen cycling on ecosystem performance in temperate and subtropical regions (2018-2023)
+  Funder: National Institute of Food and Agriculture
+- Microbial Ecology of the Marine and Terrestrial Nitrogen Cycle (2017-2022)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 3107 Microbiology; 41 Environmental Sciences; 3103 Ecology; 3105 Genetics
+
+Key Research Concepts (from Dimensions.ai):
+ammonia-oxidizing archaea; ammonia-oxidizing bacteria; soil microbial communities; ammonia-oxidizing microorganisms; urea utilization; order-level lineage; AOA lineages; ammonia oxidation; microbial communities; fertile agricultural soils
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Oklahoma
+- University of Washington
+- Xiamen University
+- Nanjing Agricultural University
+- Florida International University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.2/10
+Percentile: Top 40% of Water Institute faculty
+Rankings by Research Category:
+- Genetics: #6 of 8
+- Microbiology: #10 of 20
+- Ecology: #27 of 59

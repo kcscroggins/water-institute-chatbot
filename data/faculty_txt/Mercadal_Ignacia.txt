@@ -27,3 +27,40 @@ Dr. Mercadal produces rigorous empirical evidence used to design and evaluate en
 
 Keywords:
 environmental economics; energy economics; electricity markets; climate policy; environmental regulation; firm behavior; investment; emissions; productivity; cost-benefit analysis; regulatory evaluation; clean energy; policy design
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 4
+- Total Citations: 59
+- H-Index: 3
+- Average Citations per Paper: 14.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 8.45 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Do Markets Reduce Prices? Evidence from the U.S. Electricity Sector *SSRN Electronic Journal* (2021) - 31 citations
+  DOI: https://doi.org/10.2139/ssrn.3793305
+- Dynamic Competition and Arbitrage in Electricity Markets: The Role of Financial Players *American Economic Journal Microeconomics* (2022) - 22 citations
+  DOI: https://doi.org/10.1257/mic.20190276
+- Estimating electricity distribution costs using historical data *Utilities Policy* (2021) - 6 citations
+  DOI: https://doi.org/10.1016/j.jup.2021.101309
+- The role of vertical market structure on subsidy incidence: The case of agricultural markets *Economics Letters* (2025)
+  DOI: https://doi.org/10.1016/j.econlet.2025.112410
+
+Research Categories (from Dimensions.ai):
+38 Economics; 3801 Applied Economics; 35 Commerce, Management, Tourism and Services; 3803 Economic Theory; 3502 Banking, Finance and Investment
+
+Key Research Concepts (from Dimensions.ai):
+market power; U.S. electricity sector; electricity sector; cost-of-service regulation; market-based pricing; downstream retail prices; generator market power; financial players; financial trading; electricity market
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Columbia University
+- Harvard University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.5/10
+Percentile: Top 72% of Water Institute faculty
+Rankings by Research Category:
+- Economic Theory: #1 of 1
+- Banking, Finance and Investment: #1 of 2
+- Applied Economics: #5 of 12

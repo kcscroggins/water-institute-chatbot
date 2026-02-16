@@ -27,3 +27,55 @@ Dr. Pine's work helps agencies design and evaluate fisheries policies by rigorou
 
 Keywords:
 fisheries ecology; population dynamics; stock assessment; fisheries management; harvest regulation; adaptive management; decision analysis; monitoring; quantitative ecology; conservation; sustainable fisheries; freshwater fisheries; marine fisheries; southeastern United States
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 44
+- Total Citations: 999
+- H-Index: 17
+- Average Citations per Paper: 22.7
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 1.94 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Modeling structural mechanics of oyster reef self-organization including environmental constraints and community interactions *Ecological Modelling* (2021) - 17 citations
+  DOI: https://doi.org/10.1016/j.ecolmodel.2020.109389
+- A cautionary tale: management implications of critical transitions in oyster fisheries *Canadian Journal of Fisheries and Aquatic Sciences* (2022) - 14 citations
+  DOI: https://doi.org/10.1139/cjfas-2021-0133
+- Demography of Oysters Pre‐ and Postcollapse in Apalachicola Bay, Florida, Using Stage‐Based Counts *Marine and Coastal Fisheries* (2023) - 10 citations
+  DOI: https://doi.org/10.1002/mcf2.10244
+- Monitoring and Managing Fishes that Are Invisible and Keep Moving Around: Influences of an Invasive Species and Environmental Factors on Capture Probability *North American Journal of Fisheries Management* (2022) - 6 citations
+  DOI: https://doi.org/10.1002/nafm.10755
+- Identifying Information Gaps in Predicting Winter Foraging Habitat for Juvenile Gulf Sturgeon *Transactions of the American Fisheries Society* (2021) - 5 citations
+  DOI: https://doi.org/10.1002/tafs.10288
+- Estuarine nekton community shows minimal response following large-scale oyster reef habitat loss in Apalachicola Bay, Florida *Hydrobiologia* (2024) - 3 citations
+  DOI: https://doi.org/10.1007/s10750-024-05548-9
+- Bootstrap methods can help evaluate monitoring program performance to inform restoration as part of an adaptive management program *PeerJ* (2021) - 3 citations
+  DOI: https://doi.org/10.7717/peerj.11378
+- Estimating the Dog Population, Responsible Pet Ownership, and Intestinal Parasitism in Dogs in Quito, Ecuador *Research Square* (2021) - 2 citations
+  DOI: https://doi.org/10.21203/rs.3.rs-264981/v1
+- Population growth of threatened Gulf Sturgeon may be limited by the frequency of adult episodic mortality events *Marine and Coastal Fisheries* (2025) - 1 citations
+  DOI: https://doi.org/10.1093/mcfafs/vtaf011
+- Estimating juvenile Gulf Sturgeon survival in the Choctawhatchee River and estuary using telemetry and multistate mark–recapture *North American Journal of Fisheries Management* (2025)
+  DOI: https://doi.org/10.1093/najfmt/vqaf113
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 3103 Ecology; 30 Agricultural, Veterinary and Food Sciences; 41 Environmental Sciences; 3005 Fisheries Sciences
+
+Key Research Concepts (from Dimensions.ai):
+restoration programs; Apalachicola Bay; species range; Gulf sturgeon; individual-based model; size structure; presence of predators; population size structure; shell loss; oyster fishery
+
+Top Collaborating Institutions (from Dimensions.ai):
+- United States Geological Survey
+- Florida Fish and Wildlife Conservation Commission
+- United States Fish and Wildlife Service
+- North Carolina State University
+- Université du Québec à Rimouski
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.2/10
+Percentile: Top 40% of Water Institute faculty
+Rankings by Research Category:
+- Fisheries Sciences: #6 of 12
+- Ecology: #25 of 59
+- Agricultural, Veterinary and Food Sciences: #43 of 99

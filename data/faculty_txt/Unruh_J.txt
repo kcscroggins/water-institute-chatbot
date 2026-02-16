@@ -28,3 +28,55 @@ Dr. Unruh's work informs policies and stewardship programs by providing science-
 
 Keywords:
 turfgrass; turf management; water quality; nutrient leaching; nitrogen; irrigation; best management practices; BMPs; golf courses; urban landscapes; sod production; water conservation; environmental horticulture; Florida; West Florida REC
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 121
+- Total Citations: 781
+- H-Index: 15
+- Average Citations per Paper: 6.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.65 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Water use and management practices on U.S. golf courses *Crop, Forage & Turfgrass Management* (2022) - 28 citations
+  DOI: https://doi.org/10.1002/cft2.20182
+- Turfgrass Use on US Golf Courses *HortTechnology* (2023) - 23 citations
+  DOI: https://doi.org/10.21273/horttech05238-23
+- Cultivar blends: A strategy for creating more resilient warm season turfgrass lawns *Urban Ecosystems* (2022) - 16 citations
+  DOI: https://doi.org/10.1007/s11252-021-01195-3
+- Non-Chemical Control of Annual Bluegrass (Poa annua) in Bermudagrass (Cynodon spp.) via Fraise Mowing: Efficacy and Barriers to Adoption *Sustainability* (2021) - 14 citations
+  DOI: https://doi.org/10.3390/su13158124
+- Multispecies genotype × environment interaction for turfgrass quality in five turfgrass breeding programs in the southeastern United States *Crop Science* (2021) - 14 citations
+  DOI: https://doi.org/10.1002/csc2.20421
+- Analyzing golf course pesticide risk across the US and Europe—The importance of regulatory environment *The Science of The Total Environment* (2023) - 13 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2023.162498
+- Land-use and Energy Practices on US Golf Courses *HortTechnology* (2023) - 12 citations
+  DOI: https://doi.org/10.21273/horttech05207-23
+- St. Augustinegrass for Florida Lawns: ENH5/LH010, rev. 8/2021 *EDIS* (2021) - 11 citations
+  DOI: https://doi.org/10.32473/edis-lh010-2021
+- Nutrient Use and Management Practices on United States Golf Courses *HortTechnology* (2023) - 9 citations
+  DOI: https://doi.org/10.21273/horttech05118-22
+- Contemporary Challenges and Opportunities for Improved Lawn Weed Management: Insights from U.S. Lawn Care Operators *Outlooks on Pest Management* (2022) - 9 citations
+  DOI: https://doi.org/10.1564/v33_jun_04
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3004 Crop and Pasture Production; 3008 Horticultural Production; 31 Biological Sciences; 41 Environmental Sciences
+
+Key Research Concepts (from Dimensions.ai):
+turfgrass quality; golf courses; St. Augustinegrass; management practices; turfgrass management; Research and Education Center; National Turfgrass Evaluation Program; commercial cultivars; U.S. golf courses; water use
+
+Top Collaborating Institutions (from Dimensions.ai):
+- North Carolina State University
+- Oklahoma State University
+- University of Tennessee Knoxville
+- Texas A&M University
+- Golf Course Superintendents Association of America, 1421 Research Park Drive, Lawrence, KS 66049, USA
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.1/10
+Percentile: Top 46% of Water Institute faculty
+Rankings by Research Category:
+- Horticultural Production: #7 of 13
+- Crop and Pasture Production: #27 of 41
+- Agricultural, Veterinary and Food Sciences: #47 of 99

@@ -22,3 +22,59 @@ Notable Projects:
 
 Keywords:
 Precision agricultural water management; evapotranspiration; irrigation scheduling; soil moisture sensing; remote sensing and GIS modeling; water use efficiency; non-point source pollution reduction.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 27
+- Total Citations: 198
+- H-Index: 7
+- Average Citations per Paper: 7.3
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.84 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Utilizing Machine Learning Framework to Evaluate the Effect of Climate Change on Maize and Soybean Yield *Computers and Electronics in Agriculture* (2024) - 31 citations
+  DOI: https://doi.org/10.1016/j.compag.2024.108982
+- A new calibration method for charm jet identification validated with proton-proton collision events at √s = 13 TeV *Journal of Instrumentation* (2022) - 14 citations
+  DOI: https://doi.org/10.1088/1748-0221/17/03/p03014
+- Determination of threshold crop water stress index for sub-surface drip irrigated maize-wheat cropping sequence in semi-arid region of Punjab *Agricultural Water Management* (2024) - 9 citations
+  DOI: https://doi.org/10.1016/j.agwat.2024.108957
+- Comparative analysis of soil and water dynamics in conventional and sod-based crop rotation in Florida *Frontiers in Agronomy* (2025) - 7 citations
+  DOI: https://doi.org/10.3389/fagro.2025.1552425
+- Carrot (Daucus carota) Production in the Sandy Soils of North Florida: Nitrogen Fertilization Guidelines : AE588/AE588, 7/2023 *EDIS* (2023) - 6 citations
+  DOI: https://doi.org/10.32473/edis-ae588-2023
+- Strategies to Improve Crop-Water Productivity (2022) - 6 citations
+  DOI: https://doi.org/10.1007/978-3-030-85728-8_8
+- Dry Bean (Phaseolus vulgaris L.) Crop Water Production Functions and Yield Response Factors in an Arid to Semi-Arid Climate *Journal of the ASABE* (2022) - 6 citations
+  DOI: https://doi.org/10.13031/ja.14582
+- Impact of Polymer-Coated Controlled-Release Fertilizer on Maize Growth, Production, and Soil Nitrate in Sandy Soils *Agronomy* (2025) - 5 citations
+  DOI: https://doi.org/10.3390/agronomy15020455
+- Methods to Quantify In-Field Nutrient Leaching: AE581/AE581, 12/2022 *EDIS* (2023) - 4 citations
+  DOI: https://doi.org/10.32473/edis-ae581-2022
+- Leaf and canopy stomatal resistance, aerodynamic resistance, and evapotranspiration of irrigated continuous no‐till and disk‐till maize *Agronomy Journal* (2022) - 4 citations
+  DOI: https://doi.org/10.1002/agj2.20979
+
+Research Grants (from Dimensions.ai):
+- Technology Driven Integrated Precision Irrigation and Nutrient Management Strategies for Sustainable Agricultural Productivity and Water Quality Improvement (2021-2025)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3004 Crop and Pasture Production; 3002 Agriculture, Land and Farm Management; 40 Engineering; 3108 Plant Biology
+
+Key Research Concepts (from Dimensions.ai):
+Department of Agriculture; controlled-release fertilizer; controlled-release fertilizer treatments; NO3-N; soybean yield; maize yield; soybean crop; crop yield; yield variability; collision data
+
+Top Collaborating Institutions (from Dimensions.ai):
+- European Organization for Nuclear Research
+- Deutsches Elektronen-Synchrotron DESY
+- Fermilab
+- RWTH Aachen University
+- Karlsruhe Institute of Technology
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.6/10
+Percentile: Top 67% of Water Institute faculty
+Rankings by Research Category:
+- Plant Biology: #14 of 18
+- Agriculture, Land and Farm Management: #19 of 24
+- Crop and Pasture Production: #36 of 41

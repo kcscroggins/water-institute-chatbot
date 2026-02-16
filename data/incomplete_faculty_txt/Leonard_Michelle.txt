@@ -1,0 +1,47 @@
+Name: Michelle Leonard
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: mleonard@uflib.ufl.edu
+Website: https://cur.aa.ufl.edu/personnel/michelle-leonard/
+Google Scholar: 
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 7
+- Total Citations: 46
+- H-Index: 3
+- Average Citations per Paper: 6.6
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 1.7 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Ten simple rules for avoiding predatory publishing scams *PLOS Computational Biology* (2021) - 13 citations
+  DOI: https://doi.org/10.1371/journal.pcbi.1009377
+- 179 Responsible Conduct of Research for Undergraduates *Journal of Clinical and Translational Science* (2022) - 2 citations
+  DOI: https://doi.org/10.1017/cts.2022.85
+
+Research Grants (from Dimensions.ai):
+- Gaming Against Plagiarism (2010-2012) - $298,660
+  Funder: Directorate for Computer & Information Science & Engineering
+
+Research Categories (from Dimensions.ai):
+46 Information and Computing Sciences; 4610 Library and Information Studies
+
+Key Research Concepts (from Dimensions.ai):
+predatory; scams; personalized courses; audio instructions; on-line resources; case study; RapidMiner

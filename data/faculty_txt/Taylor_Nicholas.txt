@@ -27,3 +27,33 @@ Taylor's work equips utilities, planners, and communities with data-driven insig
 
 Keywords:
 water conservation; resource efficiency; residential water use; energy conservation; utility data analysis; H2OSAV; extension; community planning; irrigation; demand management; Florida; urban water; conservation messaging; GIS; data visualization
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 12
+- Total Citations: 47
+- H-Index: 4
+- Average Citations per Paper: 3.9
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 1.53 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Divergence in diversity-area relationships between lawn and non-lawn plants in residential landscapes *Landscape Ecology* (2024) - 3 citations
+  DOI: https://doi.org/10.1007/s10980-024-01876-2
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 4102 Ecological Applications; 3103 Ecology; 31 Biological Sciences
+
+Key Research Concepts (from Dimensions.ai):
+plant species richness; actual species richness; diversity-area relationship; species richness; residential landscapes
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Universidade Federal do ABC
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.3/10
+Percentile: Top 82% of Water Institute faculty
+Rankings by Research Category:
+- Ecological Applications: #26 of 32
+- Ecology: #51 of 59
+- Biological Sciences: #103 of 118

@@ -26,3 +26,58 @@ Water & Policy Relevance:
 
 Keywords:
 Soil phosphorus; nutrient management; phosphorus chemistry; biosolids; manure; nutrient runoff; leaching; eutrophication; trace elements; soil amendments; P saturation; BMPs; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 82
+- Total Citations: 3317
+- H-Index: 30
+- Average Citations per Paper: 40.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 6.2 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Effects of straw return with N fertilizer reduction on crop yield, plant diseases and pests and potential heavy metal risk in a Chinese rice paddy: A field study of 2 consecutive wheat-rice cycles *Environmental Pollution* (2021) - 112 citations
+  DOI: https://doi.org/10.1016/j.envpol.2021.117741
+- Carbon nanoparticles improve corn (Zea mays L.) growth and soil quality: Comparison of foliar spray and soil drench application *Journal of Cleaner Production* (2022) - 46 citations
+  DOI: https://doi.org/10.1016/j.jclepro.2022.132630
+- Zinc glycerolate (Glyzinc): A novel foliar fertilizer for zinc biofortification and cadmium reduction in wheat (Triticum aestivum L.) *Food Chemistry* (2022) - 40 citations
+  DOI: https://doi.org/10.1016/j.foodchem.2022.134290
+- Copper stress alleviation in corn (Zea mays L.): Comparative efficiency of carbon nanotubes and carbon nanoparticles *NanoImpact* (2022) - 30 citations
+  DOI: https://doi.org/10.1016/j.impact.2022.100381
+- Adsorption behavior of phenanthrene in soil amended with modified loofah sponge *Journal of Cleaner Production* (2021) - 24 citations
+  DOI: https://doi.org/10.1016/j.jclepro.2021.126845
+- Ameliorative Effect of Silicic Acid and Silicates on Oxidative, Osmotic Stress, and Specific Ion Toxicity in Spring Wheat (Triticum aestivum L.) Genotypes *Journal of Soil Science and Plant Nutrition* (2022) - 22 citations
+  DOI: https://doi.org/10.1007/s42729-022-00812-0
+- Bespoke ZnO NPs Synthesis Platform to Optimize Their Performance for Improving the Grain Yield, Zinc Biofortification, and Cd Mitigation in Wheat *ACS Sustainable Chemistry & Engineering* (2024) - 20 citations
+  DOI: https://doi.org/10.1021/acssuschemeng.3c04045
+- Simultaneous mitigation of cadmium contamination and greenhouse gas emissions in paddy soil by iron-modified biochar *Journal of Hazardous Materials* (2025) - 19 citations
+  DOI: https://doi.org/10.1016/j.jhazmat.2025.137430
+- The Impact of Carbon Dioxide Concentrations and Low to Adequate Photosynthetic Photon Flux Density on Growth, Physiology and Nutrient Use Efficiency of Juvenile Cacao Genotypes *Agronomy* (2021) - 18 citations
+  DOI: https://doi.org/10.3390/agronomy11020397
+- Exogenous selenium foliar application on nutrition, grain yield and quality of rice (Oryza sativa L.) *Journal of Food Composition and Analysis* (2024) - 13 citations
+  DOI: https://doi.org/10.1016/j.jfca.2024.106145
+
+Patents (from Dimensions.ai):
+- STIMULI-RESPONSIVE POLYMERIC NANOPARTICLES, METHODS OF MAKING STIMULI-RESPONSIVE POLYMERIC NANOPARTICLES, AND METHODS OF USING STIMULI-RESPONSIVE POLYMERIC NANOPARTICLES (2016)
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3004 Crop and Pasture Production; 41 Environmental Sciences; 40 Engineering; 3002 Agriculture, Land and Farm Management
+
+Key Research Concepts (from Dimensions.ai):
+foliar application; foliar spray; polycyclic aromatic hydrocarbons; nutritional quality; wheat-rice rotation; N fertilization; N application; experimental seasons; straw return; soil quality attributes
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Zhejiang University
+- Guangxi University
+- University of Agriculture Faisalabad
+- Liaoning University
+- Connecticut Agricultural Experiment Station
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.4/10
+Percentile: Top 11% of Water Institute faculty
+Rankings by Research Category:
+- Agriculture, Land and Farm Management: #4 of 24
+- Crop and Pasture Production: #7 of 41
+- Engineering: #8 of 53

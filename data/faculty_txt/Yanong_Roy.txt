@@ -28,3 +28,43 @@ Yanong's work supports aquaculture regulation and sustainability by providing sc
 
 Keywords:
 aquatic animal health; fish diseases; veterinary medicine; aquaculture; ornamental fish; disease diagnostics; biosecurity; fish health management; Tropical Aquaculture Laboratory; Florida; animal welfare; regulatory compliance; extension
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 18
+- Total Citations: 250
+- H-Index: 8
+- Average Citations per Paper: 13.9
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.28 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Reference Intervals for Blood Analytes of Adult Aquarium‐Housed Russian Sturgeon Acipenser gueldenstaedtii *Journal of Aquatic Animal Health* (2021) - 9 citations
+  DOI: https://doi.org/10.1002/aah.10116
+- Current Aquaculture of the Eastern Oyster Crassostrea virginica and Its Potential for Innovative Technology in Florida: FA265, 8/2024 *EDIS* (2024) - 1 citations
+  DOI: https://doi.org/10.32473/edis-fa265-2024
+- One‐Pot RT‐LAMP CRISPR/Cas12b Platform for Rapid Detection of Tilapia Lake Virus *Journal of Fish Diseases* (2025)
+  DOI: https://doi.org/10.1111/jfd.70087
+- Peces ornamentales de agua dulce comúnmente cultivados en Florida : FA237, 5/2022 *EDIS* (2022)
+  DOI: https://doi.org/10.32473/edis-fa237-2022
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3005 Fisheries Sciences; 3009 Veterinary Sciences; 4803 International and Comparative Law; 48 Law and Legal Studies
+
+Key Research Concepts (from Dimensions.ai):
+Russian sturgeon Acipenser gueldenstaedtii; Russian sturgeon; Acipenser gueldenstaedtii; blood analytes; reference intervals; eastern oyster Crassostrea virginica; oyster Crassostrea virginica; oyster aquaculture; oyster fishery; Crassostrea virginica
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Institute of Food and Agricultural Sciences
+- Disney’s Animals, Science and Environment, 2901 Osceola Parkway, Bay Lake, Florida, 32830, USA
+- University of California, Davis
+- University of Georgia
+- Center for Veterinary Medicine
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.6/10
+Percentile: Top 67% of Water Institute faculty
+Rankings by Research Category:
+- International and Comparative Law: #1 of 2
+- Veterinary Sciences: #3 of 5
+- Law and Legal Studies: #3 of 5

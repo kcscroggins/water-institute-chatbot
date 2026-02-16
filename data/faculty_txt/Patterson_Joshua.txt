@@ -27,3 +27,59 @@ Dr. Patterson's work supports evidence-based fisheries regulations by translatin
 
 Keywords:
 fisheries ecology; population dynamics; stock assessment; harvest regulations; fisheries management; freshwater fisheries; estuarine fisheries; quantitative models; mark-recapture; decision support; sustainable fisheries; recreational fisheries; commercial fisheries; southeastern United States
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 38
+- Total Citations: 589
+- H-Index: 14
+- Average Citations per Paper: 15.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 4.39 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- A scuticociliate causes mass mortality of Diadema antillarum in the Caribbean Sea *Science Advances* (2023) - 51 citations
+  DOI: https://doi.org/10.1126/sciadv.adg3200
+- A novel system for intensive Diadema antillarum propagation as a step towards population enhancement *Scientific Reports* (2021) - 33 citations
+  DOI: https://doi.org/10.1038/s41598-021-90564-1
+- Strategies for integrating sexually propagated corals into Caribbean reef restoration: experimental results and considerations *Coral Reefs* (2021) - 29 citations
+  DOI: https://doi.org/10.1007/s00338-021-02154-2
+- Novel shaker bottle cultivation method for the long spined sea urchin (Diadema antillarum; Philippi, 1845) results in high larval survival and settlement rates *Aquaculture* (2023) - 21 citations
+  DOI: https://doi.org/10.1016/j.aquaculture.2022.738855
+- Development of larviculture protocols for the long-spined sea urchin (Diadema antillarum) and enhanced performance with diets containing the cryptophyte Rhodomonas lens *Aquaculture International* (2022) - 15 citations
+  DOI: https://doi.org/10.1007/s10499-022-00945-0
+- Long-term retention and density-dependent herbivory from Diadema antillarum following translocation onto a reef restoration site *Coral Reefs* (2023) - 14 citations
+  DOI: https://doi.org/10.1007/s00338-023-02369-5
+- Growth and foraging behavior of hatchery propagated long-spined sea urchins, Diadema antillarum: Implications for aquaculture and restocking *Aquaculture Reports* (2022) - 14 citations
+  DOI: https://doi.org/10.1016/j.aqrep.2022.101298
+- Implications of changing Caribbean coral reefs on Diadema antillarum larvae settlement *Marine Biology* (2024) - 10 citations
+  DOI: https://doi.org/10.1007/s00227-023-04368-0
+- Cue selection and ontogeny reveal larval settlement dynamics of the long-spined sea urchin Diadema antillarum, a keystone coral reef herbivore *Marine Biology* (2023) - 10 citations
+  DOI: https://doi.org/10.1007/s00227-023-04290-5
+- Intraspecific variation in polar and nonpolar metabolite profiles of a threatened Caribbean coral *Metabolomics* (2021) - 10 citations
+  DOI: https://doi.org/10.1007/s11306-021-01808-0
+
+Research Grants (from Dimensions.ai):
+- RAPID: Mass Mortality of the Keystone Herbivore Diadema antillarum Underway around the Caribbean Sea (2022-2026) - $199,928
+  Funder: Directorate for Geosciences
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 3103 Ecology; 30 Agricultural, Veterinary and Food Sciences; 3005 Fisheries Sciences; 4104 Environmental Management
+
+Key Research Concepts (from Dimensions.ai):
+D. antillarum; long-spined sea urchin Diadema antillarum; Diadema antillarum; sea urchin Diadema antillarum; stocking density; reference diet; long-spined sea urchin; coral nurseries; living shorelines; mass mortality events
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Florida Aquarium
+- Wageningen University & Research
+- Institute of Food and Agricultural Sciences
+- University of the Virgin Islands
+- Cornell University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.1/10
+Percentile: Top 46% of Water Institute faculty
+Rankings by Research Category:
+- Fisheries Sciences: #8 of 12
+- Environmental Management: #21 of 46
+- Ecology: #33 of 59

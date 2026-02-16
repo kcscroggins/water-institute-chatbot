@@ -28,3 +28,59 @@ Dr. Smyth's work informs nutrient management and ecosystem service accounting in
 
 Keywords:
 biogeochemistry; nitrogen cycling; coastal ecosystems; estuarine processes; denitrification; nutrient transformations; oyster reefs; seagrass; salt marshes; ecosystem services; South Florida; climate change; sea-level rise; water quality; TREC; microbial ecology; living shorelines
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 29
+- Total Citations: 703
+- H-Index: 13
+- Average Citations per Paper: 24.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.56 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Calcification-driven CO2 emissions exceed “Blue Carbon” sequestration in a carbonate seagrass meadow *Science Advances* (2021) - 73 citations
+  DOI: https://doi.org/10.1126/sciadv.abj1372
+- Wind induced algal migration manipulates sediment denitrification N-loss patterns in shallow Taihu Lake, China *Water Research* (2021) - 30 citations
+  DOI: https://doi.org/10.1016/j.watres.2021.117887
+- A review of how we assess denitrification in oyster habitats and proposed guidelines for future studies *Limnology and Oceanography Methods* (2021) - 29 citations
+  DOI: https://doi.org/10.1002/lom3.10456
+- Spatiotemporal diversity and community structure of cyanobacteria and associated bacteria in the large shallow subtropical Lake Okeechobee (Florida, United States) *Frontiers in Microbiology* (2023) - 23 citations
+  DOI: https://doi.org/10.3389/fmicb.2023.1219261
+- Seagrass meadow stability and composition influence carbon storage *Landscape Ecology* (2023) - 23 citations
+  DOI: https://doi.org/10.1007/s10980-023-01700-3
+- Mud in the city: Effects of freshwater salinization on inland urban wetland nitrogen and phosphorus availability and export *Limnology and Oceanography Letters* (2022) - 23 citations
+  DOI: https://doi.org/10.1002/lol2.10273
+- Internal nitrogen dynamics in stormwater pond sediments are influenced by pond age and inorganic nitrogen availability *Biogeochemistry* (2021) - 19 citations
+  DOI: https://doi.org/10.1007/s10533-021-00843-2
+- How Does Mangrove Expansion Affect Structure and Function of Adjacent Seagrass Meadows? *Estuaries and Coasts* (2021) - 16 citations
+  DOI: https://doi.org/10.1007/s12237-020-00879-x
+- Consumption rates vary based on the presence and type of oyster structure: A seasonal and latitudinal comparison *Journal of Experimental Marine Biology and Ecology* (2021) - 14 citations
+  DOI: https://doi.org/10.1016/j.jembe.2020.151501
+- Highly Urbanized Mangrove Areas are Small in Size, Fragmented, and Missed by Large-scale Mapping Efforts *Wetlands* (2024) - 6 citations
+  DOI: https://doi.org/10.1007/s13157-024-01858-9
+
+Research Grants (from Dimensions.ai):
+- RAISE: Safeguarding U.S. Coastal Groundwater Supplies from Flooding and Saltwater Intrusion (2025-2028) - $999,721
+  Funder: Directorate for Geosciences
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 31 Biological Sciences; 3103 Ecology; 4101 Climate Change Impacts and Adaptation; 37 Earth Sciences
+
+Key Research Concepts (from Dimensions.ai):
+seagrass meadows; living shorelines; ecosystem function; blue carbon; environmental variables; carbon storage; stormwater ponds; Department of Soil; ecosystem calcification; carbon sequestration
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Helmholtz-Zentrum Hereon GmbH
+- Institute of Food and Agricultural Sciences
+- Florida Sea Grant
+- Nanjing University of Information Science and Technology
+- State Key Laboratory of Lake Science and Environment
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.1/10
+Percentile: Top 46% of Water Institute faculty
+Rankings by Research Category:
+- Climate Change Impacts and Adaptation: #8 of 16
+- Ecology: #32 of 59
+- Earth Sciences: #40 of 70

@@ -1,0 +1,54 @@
+Name: Pierce Jones
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: piercejones@ufl.edu
+Website: http://buildgreen.ufl.edu/jones.htm
+Google Scholar: 
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 20
+- Total Citations: 362
+- H-Index: 10
+- Average Citations per Paper: 18.1
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 0.64 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Performance metrics for resilience of airport infrastructure *Transportation Research Part D Transport and Environment* (2025) - 4 citations
+  DOI: https://doi.org/10.1016/j.trd.2025.104676
+- Florida H2OSAV Insights: Home Water Use in Orange County *EDIS* (2021) - 2 citations
+  DOI: https://doi.org/10.32473/edis-ae561-2021
+- Florida H2OSAV Insights: Home Water Use in Osceola County: AE568/AE568, 11/2021 *EDIS* (2022) - 1 citations
+  DOI: https://doi.org/10.32473/edis-ae568-2021
+- Hazard communications using interactive computer based training techniques (2026)
+  DOI: https://doi.org/10.1201/9781003762256-10
+
+Research Categories (from Dimensions.ai):
+38 Economics; 3801 Applied Economics; 3509 Transportation, Logistics and Supply Chains; 33 Built Environment and Design; 35 Commerce, Management, Tourism and Services
+
+Key Research Concepts (from Dimensions.ai):
+water use; residential water use; Department of Agriculture; Dallas-Fort Worth International Airport; airport infrastructure; transportation system sustainability; functioning of airports; performance indicators; Orange County; biological engineering
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Engineer Research and Development Center
+- Dallas Fort Worth Airport, Environmental Affairs Department, Dallas, TX 75261, United States
+- University of Michigan-Ann Arbor
+- Resilience Analytics, 10583 Hinton Way, Manassas, VA 20112, United States
+- Institute of Food and Agricultural Sciences

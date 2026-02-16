@@ -1,0 +1,62 @@
+Name: Lena Ma
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: lqma@ufl.edu
+Website: http://soils.ifas.ufl.edu/people/faculty/lena-q-ma/
+Google Scholar: https://scholar.google.com/citations?user=vvoojNEAAAAJ&hl=en
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 60
+- Total Citations: 8500
+- H-Index: 38
+- Average Citations per Paper: 141.7
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.31 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Effects of copper and arsenic on their uptake and distribution in As-hyperaccumulator Pteris vittata *Environmental Pollution* (2022) - 19 citations
+  DOI: https://doi.org/10.1016/j.envpol.2022.118982
+- Novel phytase PvPHY1 from the As-hyperaccumulator Pteris vittata enhances P uptake and phytate hydrolysis, and inhibits As translocation in Plant *Journal of Hazardous Materials* (2021) - 19 citations
+  DOI: https://doi.org/10.1016/j.jhazmat.2021.127106
+- Cola beverage reduces risk of lead poisoning from accidental ingestion of contaminated soil particles in rat and swine models *Nature Communications* (2025) - 3 citations
+  DOI: https://doi.org/10.1038/s41467-025-56138-9
+
+Research Grants (from Dimensions.ai):
+- A Novel Plant Phytase To Exploit The Large Pool Of Unavailable Organic Phosphorus In Soils And Animal Feeds (2014-2015)
+  Funder: Council for International Exchange of Scholars
+- Biogeochemistry of Arsenic Transformation in the Rhizosphere of Arsenic Hyperaccumulator Pteris Vittata (2011-2012)
+  Funder: Council for International Exchange of Scholars
+- Collaborative Research: Understanding and Enhancement of Arsenic Hyperaccumulation by a Fern Plant (2001-2005) - $376,672
+  Funder: Directorate for Engineering
+- Phytoremediation of Arsenic Contaminated Sites: Feasibility and Optimization (2000-2002) - $185,406
+  Funder: Directorate for Engineering
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 4105 Pollution and Contamination; 40 Engineering; 34 Chemical Sciences; 4102 Ecological Applications
+
+Key Research Concepts (from Dimensions.ai):
+As-hyperaccumulator Pteris vittata; P. vittata; As-hyperaccumulator; Cu concentration; phytoremediation of As-contaminated sites; phytate hydrolysis; inorganic P; P-efficient plants; P utilization efficiency; ingestion of contaminated soil
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Shanghai Jiao Tong University
+- Zhejiang University
+- Sun Yat-sen University
+- Sichuan Agricultural University
+- Innovative Technical Solutions, Gainesville, FL, 32607, USA. Electronic address: evandro_barbosa_silva@yahoo.com.br.

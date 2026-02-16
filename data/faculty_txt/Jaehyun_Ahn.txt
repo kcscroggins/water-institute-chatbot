@@ -23,3 +23,49 @@ Notable Achievements:
 
 Keywords:
 Agricultural innovation diffusion; AI/machine learning in agriculture; food and agricultural defense and security; science communication; extension education; transdisciplinary collaboration.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 7
+- Total Citations: 27
+- H-Index: 2
+- Average Citations per Paper: 3.9
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 4.95 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Sustainable management and valorization of antibiotic waste *Chemical Engineering Journal* (2024) - 21 citations
+  DOI: https://doi.org/10.1016/j.cej.2024.155372
+- Promoting SDGs Through Education: A Theory of Planned Behavior Analysis of Japanese and Nigerian Students' Sustainability Actions *Sustainable Development* (2025) - 3 citations
+  DOI: https://doi.org/10.1002/sd.3493
+- Revisiting Everett M. Rogers: A systematic review and random forest analysis of technology adoption in modern agriculture *Advancements in Agricultural Development* (2026) - 2 citations
+  DOI: https://doi.org/10.37433/aad.v7i2.629
+- Mapping the future of Kimchi: Omics insights, functional potential, and global standardization *Trends in Food Science & Technology* (2025) - 1 citations
+  DOI: https://doi.org/10.1016/j.tifs.2025.105358
+- Artificial intelligence‐powered plant phenomics: Progress, challenges, and opportunities *The Plant Phenome Journal* (2025)
+  DOI: https://doi.org/10.1002/ppj2.70060
+- A Multidisciplinary Review of the Microbial, Functional, and Consumer Advancement of Indian Lassi *Research Square* (2025)
+  DOI: https://doi.org/10.21203/rs.3.rs-7781205/v1
+- Intercultural Competencies: Value Orientation Theory: AEC819/WC481, 4/2025 *EDIS* (2025)
+  DOI: https://doi.org/10.32473/edis-wc481-2025
+
+Research Categories (from Dimensions.ai):
+4004 Chemical Engineering; 40 Engineering; 30 Agricultural, Veterinary and Food Sciences; 3006 Food Sciences; 31 Biological Sciences
+
+Key Research Concepts (from Dimensions.ai):
+antibiotic waste; antibiotic fermentation residues; waste management; wastewater treatment plants; sustainable management; students' intention; classroom discussions; students' attitudes; Sustainable Development Goals; participatory learning environment
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Texas A&M University
+- Institute of Food and Agricultural Sciences
+- Middle Tennessee State University
+- City University of Hong Kong
+- Agricultural Genomics Institute at Shenzhen
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.4/10
+Percentile: Top 76% of Water Institute faculty
+Rankings by Research Category:
+- Food Sciences: #3 of 3
+- Chemical Engineering: #6 of 6
+- Engineering: #45 of 53

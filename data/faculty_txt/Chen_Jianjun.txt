@@ -39,3 +39,62 @@ Water & Policy Relevance:
 
 Keywords:
 Environmental horticulture; ornamental plants; foliage plants; plant physiology; greenhouse production; nursery systems; water use efficiency; irrigation runoff; stormwater reuse; nutrient management; container substrates; BMPs; cultivar development; plant propagation; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 165
+- Total Citations: 8392
+- H-Index: 41
+- Average Citations per Paper: 50.9
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 7.83 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Application of developmental regulators to improve in planta or in vitro transformation in plants *Plant Biotechnology Journal* (2022) - 112 citations
+  DOI: https://doi.org/10.1111/pbi.13837
+- Application of Trehalose and Salicylic Acid Mitigates Drought Stress in Sweet Basil and Improves Plant Growth *Plants* (2021) - 79 citations
+  DOI: https://doi.org/10.3390/plants10061078
+- Scrutinizing the Application of Saline Endophyte to Enhance Salt Tolerance in Rice and Maize Plants *Frontiers in Plant Science* (2022) - 56 citations
+  DOI: https://doi.org/10.3389/fpls.2021.770084
+- Bioremediation of HMW-PAHs-contaminated soils by rhizosphere microbial community of Fire Phoenix plants *Chemical Engineering Journal* (2022) - 40 citations
+  DOI: https://doi.org/10.1016/j.cej.2021.134246
+- Short-term cellulose addition decreases microbial diversity and network complexity in an Ultisol following 32-year fertilization *Agriculture Ecosystems & Environment* (2022) - 37 citations
+  DOI: https://doi.org/10.1016/j.agee.2021.107744
+- RNA m6A reader YTHDF2 facilitates precursor miR-126 maturation to promote acute myeloid leukemia progression *Genes & Diseases* (2023) - 33 citations
+  DOI: https://doi.org/10.1016/j.gendis.2023.01.016
+- Interactive effects of biochar amendment and lead toxicity on soil microbial community *Journal of Hazardous Materials* (2021) - 31 citations
+  DOI: https://doi.org/10.1016/j.jhazmat.2021.127921
+- Biochar: An emerging recipe for designing sustainable horticulture under climate change scenarios *Frontiers in Plant Science* (2022) - 30 citations
+  DOI: https://doi.org/10.3389/fpls.2022.1018646
+- Effects of Maternal Environment on Seed Germination and Seedling Vigor of Petunia × hybrida under Different Abiotic Stresses *Plants* (2021) - 30 citations
+  DOI: https://doi.org/10.3390/plants10030581
+- Bio-priming with salt tolerant endophytes improved crop tolerance to salt stress via modulating photosystem II and antioxidant activities in a sub-optimal environment *Frontiers in Plant Science* (2023) - 28 citations
+  DOI: https://doi.org/10.3389/fpls.2023.1082480
+
+Research Grants (from Dimensions.ai):
+- Molecular Mechanism of Rhododendron Mycorrhizal Promoting Plant Nitrate Nitrogen Absorption and Metabolism (2019-2021) - $37,045
+  Funder: National Natural Science Foundation of China
+
+Patents (from Dimensions.ai):
+- Epipremnum plant named ‘UFM12’ (2008) - 3 citations
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 31 Biological Sciences; 3108 Plant Biology; 3004 Crop and Pasture Production; 40 Engineering
+
+Key Research Concepts (from Dimensions.ai):
+contaminated soil; Fire Phoenix; polycyclic aromatic hydrocarbons; planta transformation; shoot regeneration; regeneration of transformed shoots; transformation efficiency; plant genetic transformation; application of Tre; drought stress
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Beckman Research Institute of City of Hope
+- Yunnan University YNU
+- Minjiang University
+- University of Karachi
+- Institute of Applied Ecology
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 3.6/10
+Percentile: Top 6% of Water Institute faculty
+Rankings by Research Category:
+- Plant Biology: #1 of 18
+- Engineering: #4 of 53
+- Crop and Pasture Production: #4 of 41

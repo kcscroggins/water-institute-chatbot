@@ -29,3 +29,63 @@ Yu's research supports coastal and water-quality management by providing the phy
 
 Keywords:
 environmental fluid dynamics; coastal engineering; hydrodynamics; estuarine systems; sediment transport; mixing; dispersion; turbulence; stratification; coastal ocean; water quality; numerical modeling; transport processes; ESSIE
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 39
+- Total Citations: 739
+- H-Index: 15
+- Average Citations per Paper: 18.9
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 4.71 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Quantifying the contribution of external loadings and internal hydrodynamic processes to the water quality of Lake Okeechobee *The Science of The Total Environment* (2023) - 30 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2023.163713
+- Virtual Telepresence for the Future of ROV Teleoperations: Opportunities and Challenges (2022) - 23 citations
+  DOI: https://doi.org/10.5957/tos-2022-015
+- Climate change impacts on water quantity and quality of a watershed-lake system using a spatially integrated modeling framework in the Kissimmee River – Lake Okeechobee system *Journal of Hydrology Regional Studies* (2023) - 20 citations
+  DOI: https://doi.org/10.1016/j.ejrh.2023.101408
+- Total water levels along the South Atlantic Bight during three along-shelf propagating tropical cyclones: relative contributions of storm surge and wave runup *Natural Hazards and Earth System Science* (2023) - 16 citations
+  DOI: https://doi.org/10.5194/nhess-23-3895-2023
+- Persistent reshaping of cohesive sediment towards stable flocs by turbulence *Scientific Reports* (2023) - 16 citations
+  DOI: https://doi.org/10.1038/s41598-023-28960-y
+- Boundary layer dynamics and bottom friction in combined wave–current flows over large roughness elements *Journal of Fluid Mechanics* (2021) - 16 citations
+  DOI: https://doi.org/10.1017/jfm.2021.941
+- Steady Flow Over a Finite Patch of Submerged Flexible Vegetation *Water Resources Research* (2024) - 15 citations
+  DOI: https://doi.org/10.1029/2023wr035222
+- Particle Nonresolved DNS‐DEM Study of Flocculation Dynamics of Cohesive Sediment in Homogeneous Isotropic Turbulence *Water Resources Research* (2022) - 12 citations
+  DOI: https://doi.org/10.1029/2021wr030402
+- Commercial Building Recovery Methodology for Use in Community Resilience Modeling *Natural Hazards Review* (2023) - 11 citations
+  DOI: https://doi.org/10.1061/nhrefo.nheng-1728
+- Total water levels along the South Atlantic Bight during three along-shelf propagating tropical cyclones: relative contributions of storm surge and wave runup *EGUsphere* (2023) - 10 citations
+  DOI: https://doi.org/10.5194/nhess-2023-49
+
+Research Grants (from Dimensions.ai):
+- FW-HTF-R/Collaborative Research: Human-Robot Sensory Transfer for Worker Productivity, Training, and Quality of Life in Remote Undersea Inspection and Construction Tasks (2021-2026) - $1,473,425
+  Funder: Directorate for Engineering
+- Collaborative Research: Combined Waves and Currents over Multi-Scale Topography: From Boundary Layer Dynamics to Parameterization (2021-2026) - $285,458
+  Funder: Directorate for Geosciences
+- A framework for modeling flow over flexible submerged aquatic vegetation (2020-2025) - $498,824
+  Funder: Directorate for Geosciences
+
+Research Categories (from Dimensions.ai):
+40 Engineering; 4012 Fluid Mechanics and Thermal Engineering; 37 Earth Sciences; 3708 Oceanography; 3709 Physical Geography and Environmental Geoscience
+
+Key Research Concepts (from Dimensions.ai):
+water quality; total water level; South Atlantic Bight; TC translation speed; tropical cyclones; TC intensity; floc size distribution; discrete element method; dynamics of cohesive sediments; community resilience planning
+
+Top Collaborating Institutions (from Dimensions.ai):
+- HR Wallingford
+- National Taiwan University
+- The University of Texas at Austin
+- University of Michigan-Ann Arbor
+- American Bureau of Shipping
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.3/10
+Percentile: Top 35% of Water Institute faculty
+Rankings by Research Category:
+- Fluid Mechanics and Thermal Engineering: #1 of 1
+- Oceanography: #2 of 8
+- Physical Geography and Environmental Geoscience: #7 of 11

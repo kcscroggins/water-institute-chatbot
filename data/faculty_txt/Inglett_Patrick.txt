@@ -26,3 +26,55 @@ Water & Policy Relevance:
 
 Keywords:
 Soil biogeochemistry; aquatic biogeochemistry; carbon cycling; nutrient cycling; nitrogen; phosphorus; microbial ecology; wetlands; sediments; greenhouse gases; nutrient retention; restoration; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 60
+- Total Citations: 1253
+- H-Index: 23
+- Average Citations per Paper: 20.9
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.05 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Seasonality drives microbiome composition and nitrogen cycling in soil below biocrusts *Soil Biology and Biochemistry* (2022) - 25 citations
+  DOI: https://doi.org/10.1016/j.soilbio.2022.108551
+- Soil carbon characterization in a subtropical drained peatland *Geoderma* (2021) - 20 citations
+  DOI: https://doi.org/10.1016/j.geoderma.2020.114758
+- Seasonal and spatial patterns of surface water quality in large-scale treatment wetlands with different vegetation communities *Ecological Engineering* (2023) - 8 citations
+  DOI: https://doi.org/10.1016/j.ecoleng.2023.107125
+- Temporal variability in soil organic matter accretion rates in coastal deltaic wetlands under changing depositional environments *Soil Science Society of America Journal* (2023) - 8 citations
+  DOI: https://doi.org/10.1002/saj2.20515
+- Inorganic Nitrogen Production and Removal along the Sediment Gradient of a Stormwater Infiltration Basin *Water* (2021) - 7 citations
+  DOI: https://doi.org/10.3390/w13030320
+- Ultrafine (<0.45 μm) particulate SRP fluxes entering and leaving Everglades Stormwater Treatment Areas as a function of STA management and performance *Ecological Engineering* (2023) - 6 citations
+  DOI: https://doi.org/10.1016/j.ecoleng.2023.107043
+- Contrasting seasonal patterns and factors regulating biocrust N2-fixation in two Florida agroecosystems *Frontiers in Microbiology* (2022) - 6 citations
+  DOI: https://doi.org/10.3389/fmicb.2022.892266
+- Nitrogen-fixing bacterial communities differ between perennial agroecosystem crops *FEMS Microbiology Ecology* (2024) - 4 citations
+  DOI: https://doi.org/10.1093/femsec/fiae064
+- Effects of increasing complexity in biogeochemistry and hydrology on variability of total phosphorus concentration in models of a low flow subtropical wetland *Ecological Engineering* (2024) - 3 citations
+  DOI: https://doi.org/10.1016/j.ecoleng.2023.107131
+- Contrasting effects of agroecosystem biocrusts on seedling growth and nitrogen accumulation in a greenhouse environment *Agrosystems Geosciences & Environment* (2022) - 3 citations
+  DOI: https://doi.org/10.1002/agg2.20295
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 30 Agricultural, Veterinary and Food Sciences; 31 Biological Sciences; 3103 Ecology; 3004 Crop and Pasture Production
+
+Key Research Concepts (from Dimensions.ai):
+sampling dates; submerged aquatic vegetation; emergent aquatic vegetation; Stormwater Treatment Areas; fruit harvest; flushing period; tree crops; fibrous roots; perennial tree crops; microbial N pool
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Louisiana State University
+- affiliation not provided to SSRN
+- Institute of Food and Agricultural Sciences
+- University of Tehran
+- Agricultural Research Service - Pacific West Area
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.6/10
+Percentile: Top 27% of Water Institute faculty
+Rankings by Research Category:
+- Ecology: #19 of 59
+- Crop and Pasture Production: #20 of 41
+- Agricultural, Veterinary and Food Sciences: #32 of 99

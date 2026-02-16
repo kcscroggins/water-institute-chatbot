@@ -13,3 +13,59 @@ Grace John's lab investigates ecology, physiology, and anatomy with emphasis on 
 
 Keywords:
 Plant anatomy; ecophysiology; anatomical scaling; drought physiology; switchgrass research; urban forestry and tree sustainability; plant-water relations.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 18
+- Total Citations: 453
+- H-Index: 8
+- Average Citations per Paper: 25.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 8.45 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Taking the pulse of Earth's tropical forests using networks of highly distributed plots *Biological Conservation* (2021) - 165 citations
+  DOI: https://doi.org/10.1016/j.biocon.2020.108849
+- Global transpiration data from sap flow measurements: the SAPFLUXNET database *Earth System Science Data* (2021) - 145 citations
+  DOI: https://doi.org/10.5194/essd-13-2607-2021
+- Pinpointing the causal influences of stomatal anatomy and behavior on minimum, operational, and maximum leaf surface conductance *Plant Physiology* (2024) - 14 citations
+  DOI: https://doi.org/10.1093/plphys/kiae292
+- Thresholds for persistent leaf photochemical damage predict plant drought resilience in a tropical rainforest *New Phytologist* (2023) - 14 citations
+  DOI: https://doi.org/10.1111/nph.18973
+- Predicting plant species climate niches on the basis of mechanistic traits *Functional Ecology* (2023) - 11 citations
+  DOI: https://doi.org/10.1111/1365-2435.14422
+- Spectral ecophysiology: hyperspectral pressure–volume curves to estimate leaf turgor loss *New Phytologist* (2024) - 10 citations
+  DOI: https://doi.org/10.1111/nph.19669
+- Mutualism disruption by an invasive ant reduces carbon fixation for a foundational East African ant‐plant *Ecology Letters* (2021) - 8 citations
+  DOI: https://doi.org/10.1111/ele.13725
+- Allometries of cell and tissue anatomy and photosynthetic rate across leaves of C3 and C4 grasses *Plant Cell & Environment* (2023) - 7 citations
+  DOI: https://doi.org/10.1111/pce.14741
+- Low baseline intraspecific variation in leaf pressure‐volume traits: Biophysical basis and implications for spectroscopic sensing *Physiologia Plantarum* (2023) - 6 citations
+  DOI: https://doi.org/10.1111/ppl.13974
+- Monitoring urban trees across the world: report from the Urban Trees Ecophysiology Network (UTEN) inaugural workshop *New Phytologist* (2024) - 4 citations
+  DOI: https://doi.org/10.1111/nph.19621
+
+Research Grants (from Dimensions.ai):
+- Thermal and Drought Tolerance in Urban Ecosystems: Clues to Understanding Plant Responses to Climate Change (2024-2024)
+  Funder: Council for International Exchange of Scholars
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 3103 Ecology; 41 Environmental Sciences; 3108 Plant Biology; 4101 Climate Change Impacts and Adaptation
+
+Key Research Concepts (from Dimensions.ai):
+invasive ants; vertebrate herbivores; carbon fixation; effects of invasive ants; sap flow measurements; sub-daily time series; transpiration data; sap flow time series; estimates of stand transpiration; leaf surface conductance
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Leeds
+- University of California, Los Angeles
+- State University of Campinas
+- National Institute of Amazonian Research
+- National University of Colombia
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.9/10
+Percentile: Top 54% of Water Institute faculty
+Rankings by Research Category:
+- Climate Change Impacts and Adaptation: #12 of 16
+- Plant Biology: #13 of 18
+- Ecology: #38 of 59

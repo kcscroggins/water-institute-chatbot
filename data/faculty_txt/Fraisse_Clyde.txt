@@ -33,3 +33,67 @@ Water & Policy Relevance:
 
 Keywords:
 Agricultural climatology; climate forecasting; decision support; AgroClimate; climate risk; irrigation management; climate adaptation; nutrient timing; leaching prevention; water management; climate-smart agriculture; BMPs; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 114
+- Total Citations: 1761
+- H-Index: 21
+- Average Citations per Paper: 15.4
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.72 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Strawberry Maturity Classification from UAV and Near-Ground Imaging Using Deep Learning *Smart Agricultural Technology* (2021) - 105 citations
+  DOI: https://doi.org/10.1016/j.atech.2021.100001
+- Investigation of satellite-related precipitation products for modeling of rainfed wheat production systems *Agricultural Water Management* (2021) - 29 citations
+  DOI: https://doi.org/10.1016/j.agwat.2021.107222
+- Supply chains for processed potato and tomato products in the United States will have enhanced resilience with planting adaptation strategies *Nature Food* (2021) - 25 citations
+  DOI: https://doi.org/10.1038/s43016-021-00383-w
+- Brassica carinata as an off-season crop in the southeastern USA: Determining optimum sowing dates based on climate risks and potential effects on summer crop yield *Agricultural Systems* (2022) - 19 citations
+  DOI: https://doi.org/10.1016/j.agsy.2021.103344
+- Strawberry plant wetness detection using computer vision and deep learning *Smart Agricultural Technology* (2021) - 15 citations
+  DOI: https://doi.org/10.1016/j.atech.2021.100013
+- Soybean maturity groups and sowing dates to minimize ENSO and extreme weather events effects on yield variability in the Southeastern US *Agricultural and Forest Meteorology* (2022) - 12 citations
+  DOI: https://doi.org/10.1016/j.agrformet.2022.109104
+- Evaluation of a multi-model approach to estimate leaf wetness duration: an essential input for disease alert systems *Theoretical and Applied Climatology* (2022) - 10 citations
+  DOI: https://doi.org/10.1007/s00704-022-04036-1
+- Assessment of soybean yield variability in the southeastern U.S. with the calibration of genetic coefficients from variety trials using CROPGRO‐Soybean *Agronomy Journal* (2022) - 8 citations
+  DOI: https://doi.org/10.1002/agj2.20995
+- Achieving wheat self-sufficiency in Brazil *Environmental Research Letters* (2024) - 7 citations
+  DOI: https://doi.org/10.1088/1748-9326/ad26b8
+- Climate analogs can catalyze cross-regional dialogs for US specialty crop adaptation *Scientific Reports* (2023) - 7 citations
+  DOI: https://doi.org/10.1038/s41598-023-35887-x
+
+Research Grants (from Dimensions.ai):
+- AgroClimate: Innovative climate tools and information for the agricultural industry (2020-2025)
+  Funder: National Institute of Food and Agriculture
+- Climate Adaptation and Mitigation in Fruit and Vegetable Supply Chains (2017-2022) - $3,414,911
+  Funder: National Institute of Food and Agriculture
+- Food, Feed, Fuel, and Fiber:  Security Under a Changing Climate (2017-2019)
+  Funder: National Institute of Food and Agriculture
+- Decision Tools for Sustainable Farms, Ranches, and Forests under a Variable Climate (2016-2017) - $50,000
+  Funder: National Institute of Food and Agriculture
+- STRATEGIC MANAGEMENT OF MULTIPLE DISEASES IN STRAWBERRY NURSERIES AND PRODUCTION FIELDS IN THE EASTERN U.S. (2013-2016) - $1,363,057
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3004 Crop and Pasture Production; 37 Earth Sciences; 3002 Agriculture, Land and Farm Management; 3008 Horticultural Production
+
+Key Research Concepts (from Dimensions.ai):
+sowing dates; food systems; leaf wetness duration; maturity groups; El Nino Southern Oscillation; yield variability; alert system; Department of Agriculture; unmanned aerial vehicles; near-ground image
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Washington State University
+- Technical University of Munich
+- University of Arkansas at Fayetteville
+- International Food Policy Research Institute
+- University of Illinois at Urbana-Champaign
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.9/10
+Percentile: Top 21% of Water Institute faculty
+Rankings by Research Category:
+- Horticultural Production: #2 of 13
+- Agriculture, Land and Farm Management: #9 of 24
+- Crop and Pasture Production: #16 of 41

@@ -1,0 +1,69 @@
+Name: Markus Schneider
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: mschneid@cise.ufl.edu
+Website: http://www.cise.ufl.edu/~mschneid/
+Google Scholar: 
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 98
+- Total Citations: 929
+- H-Index: 14
+- Average Citations per Paper: 9.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 1.44 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- A Survey of Fuzzy Approaches in Spatial Data Science (2021) - 9 citations
+  DOI: https://doi.org/10.1109/fuzz45933.2021.9494437
+- Handling Fuzzy Spatial Data in R Using the fsr Package (2021) - 6 citations
+  DOI: https://doi.org/10.1145/3474717.3484255
+- fsr: An R package for fuzzy spatial data handling *Transactions in GIS* (2023) - 4 citations
+  DOI: https://doi.org/10.1111/tgis.13044
+- Evaluating Region Inference Methods by Using Fuzzy Spatial Inference Models (2022) - 2 citations
+  DOI: https://doi.org/10.1109/fuzz-ieee55066.2022.9882658
+- Fuzzy Spatial Algebra (FUSA): Formal Specification of Fuzzy Spatial Data Types and Operations for Databases and GIS *ACM Transactions on Spatial Algorithms and Systems* (2025) - 1 citations
+  DOI: https://doi.org/10.1145/3722555
+- Fuzzy Spatial Algebra (FUSA): Overview and Highlights (2025)
+  DOI: https://doi.org/10.1145/3748636.3769288
+- An in-place Quickhull algorithm *GeoInformatica* (2025)
+  DOI: https://doi.org/10.1007/s10707-025-00538-y
+
+Research Grants (from Dimensions.ai):
+- MOVING OBJECTS DATABASE TECHNOLOGY FOR WEATHER EVENT ANALYSIS AND TRACKING: OUR PROPOSED TECHNOLOGY WILL LEVERAGE EXISTING INFORMATION SYSTEMS TO OVERCOME THE PROBLEM NOTED IN THE NRC DECADAL SURVEY THAT EXISTING OBSERVATION AND INFORMATION SYSTEMS [ ] O (2009-2012) - $498,830
+  Funder: National Aeronautics and Space Administration
+- III: Small: SPAL3D -- Design and Implementation of a Type System for Three-Dimensional Spatial Data in Databases (2009-2014) - $354,292
+  Funder: Directorate for Computer & Information Science & Engineering
+- III-COR: Modeling and Querying Moving Objects in Unconstrained and Constrained Environments (2008-2012) - $449,754
+  Funder: Directorate for Computer & Information Science & Engineering
+- CAREER: The STU Project: Database Integration of Space, Time, and Uncertainty as a Foundation for the Next Generation of GIS (2004-2010) - $512,000
+  Funder: Directorate for Computer & Information Science & Engineering
+
+Research Categories (from Dimensions.ai):
+46 Information and Computing Sciences; 4013 Geomatic Engineering; 40 Engineering; 37 Earth Sciences; 4602 Artificial Intelligence
+
+Key Research Concepts (from Dimensions.ai):
+spatial objects; fuzzy spatial objects; fuzzy spatial data types; spatial data science; geographic information system; spatial data types; data science; spatial fuzziness; application of fuzzy approaches; exploratory spatial data analysis
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Federal University of São Carlos
+- Federal University of Technology – Paraná
+- Universidade Federal de Minas Gerais
+- Federal University of Rio de Janeiro

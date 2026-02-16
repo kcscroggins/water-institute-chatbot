@@ -29,3 +29,55 @@ Wright's research provides the scientific basis for soil management and fertilit
 
 Keywords:
 soil science; soil health; soil organic matter; carbon dynamics; nutrient availability; soil fertility; soil physical properties; Florida soils; sandy soils; subtropical agriculture; soil management; agronomy; IRREC
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 129
+- Total Citations: 2253
+- H-Index: 27
+- Average Citations per Paper: 17.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.46 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Carbon nanoparticles improve corn (Zea mays L.) growth and soil quality: Comparison of foliar spray and soil drench application *Journal of Cleaner Production* (2022) - 46 citations
+  DOI: https://doi.org/10.1016/j.jclepro.2022.132630
+- Stability of nitrogen-cycling microbial communities and impact on microbial nitrogen function under different land use practices *Applied Soil Ecology* (2024) - 18 citations
+  DOI: https://doi.org/10.1016/j.apsoil.2024.105729
+- Divergent effects of cerium oxide nanoparticles alone and in combination with cadmium on nutrient acquisition and the growth of maize (Zea mays) *Frontiers in Plant Science* (2023) - 17 citations
+  DOI: https://doi.org/10.3389/fpls.2023.1151786
+- Contrasting seasonal response of comammox Nitrospira and canonical ammonia oxidizers in two paddy soils *Soil Biology and Biochemistry* (2022) - 16 citations
+  DOI: https://doi.org/10.1016/j.soilbio.2022.108641
+- Public Perception and Willingness to Pay for Urban Wetland Ecosystem Services: Evidence from China *Wetlands* (2022) - 16 citations
+  DOI: https://doi.org/10.1007/s13157-022-01538-6
+- Environmental pseudotargeted metabolomics: A high throughput and wide coverage method for metabolic profiling of 1000-year paddy soil chronosequences *The Science of The Total Environment* (2022) - 12 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2022.159978
+- Pyrolysis-assisted transesterification for accurate quantification of phospholipid fatty acids: Application to microbial community analysis in 1000-years paddy soil chronosequence *Geoderma* (2022) - 9 citations
+  DOI: https://doi.org/10.1016/j.geoderma.2021.115504
+- Measurement and modelling of soil water dynamics under ridge tillage in paddy field *Soil and Tillage Research* (2024) - 7 citations
+  DOI: https://doi.org/10.1016/j.still.2024.106172
+- Exploring microbial dynamics, metabolic functions and microbes–metabolites correlation in a millennium paddy soil chronosequence using metabolome and microbiome *Chemical and Biological Technologies in Agriculture* (2024) - 5 citations
+  DOI: https://doi.org/10.1186/s40538-024-00673-y
+- Nitrogen functional profiles of microbiomes in diverse agricultural and forest soils and its driver at continental scale in China *Ecological Indicators* (2024) - 4 citations
+  DOI: https://doi.org/10.1016/j.ecolind.2024.112087
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 41 Environmental Sciences; 31 Biological Sciences; 3004 Crop and Pasture Production; 4106 Soil Sciences
+
+Key Research Concepts (from Dimensions.ai):
+paddy soil; microbial communities; comammox Nitrospira; ammonia-oxidizing archaea; ammonia oxidation; production systems; production guide; citrus; weed control; soil quality attributes
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Southwest University
+- Nanjing Normal University
+- School of Marine Science and Engineering, Nanjing Normal University, Nanjing 210023, China;, 17805804382@163.com, (C.Q.);, vitas854878919@163.com, (J.X.);, svchouw9894@163.com, (S.Z.);, huangwc98@163.com, (W.H.);, wuyanhui_0105@163.com, (Y.W.);, zhangyinglei668@163.com, (Y.Z.);, liuhongyu@njnu.edu.cn, (H.L.)
+- China Jiliang University
+- Texas A&M Agrilife Research
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.0/10
+Percentile: Top 18% of Water Institute faculty
+Rankings by Research Category:
+- Soil Sciences: #3 of 14
+- Crop and Pasture Production: #13 of 41
+- Agricultural, Veterinary and Food Sciences: #21 of 99

@@ -27,3 +27,59 @@ Answers the question: "How must utility regulation be designed so that nutrient-
 
 Keywords:
 public utility regulation; water utility governance; wastewater utilities; infrastructure economics; regulatory reform; market design; utility pricing; cost recovery; investment incentives; developing economies; institutional design; nutrient treatment policy
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 64
+- Total Citations: 414
+- H-Index: 10
+- Average Citations per Paper: 6.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 1.18 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Perspectives on political influences on changes in telecommunications and internet economy markets *Telecommunications Policy* (2025) - 3 citations
+  DOI: https://doi.org/10.1016/j.telpol.2024.102901
+- Valuation of digital goods during the coronavirus outbreak in the United States *Telecommunications Policy* (2021) - 3 citations
+  DOI: https://doi.org/10.1016/j.telpol.2021.102126
+- Designing Future Sustainable Cryptocurrencies: Principles and Expectations (2024) - 1 citations
+  DOI: https://doi.org/10.1007/978-3-031-50028-2_3
+- Net Neutrality in the USA During COVID-19 (2023) - 1 citations
+  DOI: https://doi.org/10.1108/978-1-80262-049-820231009
+- Low Earth Orbit Satellites: Policies to Promote Spectrum Sharing, Foster Competition, and Close Digital Divides: <div> A Report of the LEO Policy Working Group </div> *SSRN Electronic Journal* (2025)
+  DOI: https://doi.org/10.2139/ssrn.5692085
+- Censorship by Perception: LLM Predictions of Social Media *SSRN Electronic Journal* (2025)
+  DOI: https://doi.org/10.2139/ssrn.5376017
+- Scientific Research Project Coordinated by ICP-ANACOM And ANATEL with a Focus on Mobile Broadband *SSRN Electronic Journal* (2024)
+  DOI: https://doi.org/10.2139/ssrn.2004031
+- Inspiring Leadership for Innovation (2023)
+  DOI: https://doi.org/10.1007/978-3-031-34314-8_30
+- Regulatory and Broadband Industry Responses to COVID-19: Cases of Uganda, Peru, and the Caribbean (2023)
+  DOI: https://doi.org/10.1108/978-1-80262-049-820231007
+- Effects of Conferring Business Resource on Rivals *Research Square* (2022)
+  DOI: https://doi.org/10.21203/rs.3.rs-2019338/v1
+
+Research Grants (from Dimensions.ai):
+- SEP Collaborative: Routes to Earth Abundant Kesterite-based Thin Film Photovoltaic Materials (2012-2017) - $1,010,000
+  Funder: Directorate for Mathematical & Physical Sciences
+
+Research Categories (from Dimensions.ai):
+46 Information and Computing Sciences; 44 Human Society; 4407 Policy and Administration; 38 Economics; 35 Commerce, Management, Tourism and Services
+
+Key Research Concepts (from Dimensions.ai):
+digital economy; national law; sector regulation; US approach; original intention; consumer valuation; reserve price; valuation; digital goods; digital services
+
+Top Collaborating Institutions (from Dimensions.ai):
+- New America Foundation - Open Technology Institute
+- Aalborg University
+- International Center for Law & Economics (ICLE)
+- Independent
+- Victoria University of Wellington
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.8/10
+Percentile: Top 57% of Water Institute faculty
+Rankings by Research Category:
+- Policy and Administration: #3 of 4
+- Economics: #9 of 24
+- Commerce, Management, Tourism and Services: #9 of 13

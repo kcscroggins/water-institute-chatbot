@@ -1,0 +1,745 @@
+Top Researchers by Research Category (Updated: 2026-02-13)
+============================================================
+
+This document lists the top researchers at the UF Water Institute
+by research category, ranked by Research Impact Score.
+
+For a complete list of researchers in any category, ask:
+"Show me all researchers in [category]" or "Show more [category] researchers"
+
+------------------------------------------------------------
+
+## Environmental Sciences
+(135 researchers)
+
+1. Andrew Zimmerman (Score: 6.4/10 | H-index: 64 | FCR: 9.5x)
+2. David Kaplan (Score: 6.0/10 | H-index: 38 | FCR: 79.1x)
+3. Nancy Denslow (Score: 4.8/10 | H-index: 55 | FCR: 9.5x)
+4. Frank Asche (Score: 4.6/10 | H-index: 43 | FCR: 33.8x)
+5. Jane Southworth (Score: 4.5/10 | H-index: 33 | FCR: 52.2x)
+   ... and 130 more researchers
+
+## Biological Sciences
+(118 researchers)
+
+1. Andrew Zimmerman (Score: 6.4/10 | H-index: 64 | FCR: 9.5x)
+2. David Kaplan (Score: 6.0/10 | H-index: 38 | FCR: 79.1x)
+3. Nancy Denslow (Score: 4.8/10 | H-index: 55 | FCR: 9.5x)
+4. Mark Brenner (Score: 4.6/10 | H-index: 53 | FCR: 9.3x)
+5. Eric W. Triplett (Score: 4.4/10 | H-index: 41 | FCR: 7.4x)
+   ... and 113 more researchers
+
+## Agricultural, Veterinary and Food Sciences
+(99 researchers)
+
+1. Andrew Zimmerman (Score: 6.4/10 | H-index: 64 | FCR: 9.5x)
+2. Gerrit Hoogenboom (Score: 5.2/10 | H-index: 52 | FCR: 25.5x)
+3. Frank Asche (Score: 4.6/10 | H-index: 43 | FCR: 33.8x)
+4. Yiannis Ampatzidis (Score: 3.9/10 | H-index: 35 | FCR: 26.3x)
+5. Aditya Singh (Score: 3.9/10 | H-index: 18 | FCR: 63.9x)
+   ... and 94 more researchers
+
+## Earth Sciences
+(70 researchers)
+
+1. David Kaplan (Score: 6.0/10 | H-index: 38 | FCR: 79.1x)
+2. Gerrit Hoogenboom (Score: 5.2/10 | H-index: 52 | FCR: 25.5x)
+3. Mark Brenner (Score: 4.6/10 | H-index: 53 | FCR: 9.3x)
+4. Jane Southworth (Score: 4.5/10 | H-index: 33 | FCR: 52.2x)
+5. Sabine Grunwald (Score: 4.4/10 | H-index: 34 | FCR: 24.5x)
+   ... and 65 more researchers
+
+## Ecology
+(59 researchers)
+
+1. Mark Brenner (Score: 4.6/10 | H-index: 53 | FCR: 9.3x)
+2. Eben Broadbent (Score: 3.9/10 | H-index: 37 | FCR: 29.6x)
+3. Sadie J. Ryan (Score: 3.8/10 | H-index: 42 | FCR: 12.6x)
+4. Robert Fletcher (Score: 3.3/10 | H-index: 39 | FCR: 7.3x)
+5. Matthew J. Cohen (Score: 3.0/10 | H-index: 36 | FCR: 7.5x)
+   ... and 54 more researchers
+
+## Engineering
+(53 researchers)
+
+1. Andrew Zimmerman (Score: 6.4/10 | H-index: 64 | FCR: 9.5x)
+2. Jane Southworth (Score: 4.5/10 | H-index: 33 | FCR: 52.2x)
+3. Sabine Grunwald (Score: 4.4/10 | H-index: 34 | FCR: 24.5x)
+4. Jianjun Chen (Score: 3.6/10 | H-index: 41 | FCR: 7.8x)
+5. Stephanie Bohlman (Score: 2.7/10 | H-index: 30 | FCR: 7.6x)
+   ... and 48 more researchers
+
+## Environmental Management
+(46 researchers)
+
+1. Andrew Zimmerman (Score: 6.4/10 | H-index: 64 | FCR: 9.5x)
+2. Vimala D. Nair (Score: 2.8/10 | H-index: 29 | FCR: 16.7x)
+3. Micheal S. Allen (Score: 2.4/10 | H-index: 30 | FCR: 6.5x)
+4. Damian C. Adams (Score: 2.4/10 | H-index: 21 | FCR: 2.0x)
+5. Peter Frederick (Score: 2.1/10 | H-index: 29 | FCR: 2.0x)
+   ... and 41 more researchers
+
+## Crop and Pasture Production
+(41 researchers)
+
+1. Gerrit Hoogenboom (Score: 5.2/10 | H-index: 52 | FCR: 25.5x)
+2. Yiannis Ampatzidis (Score: 3.9/10 | H-index: 35 | FCR: 26.3x)
+3. Aditya Singh (Score: 3.9/10 | H-index: 18 | FCR: 63.9x)
+4. Jianjun Chen (Score: 3.6/10 | H-index: 41 | FCR: 7.8x)
+5. Paul Fisher (Score: 3.4/10 | H-index: 18 | FCR: 31.9x)
+   ... and 36 more researchers
+
+## Ecological Applications
+(32 researchers)
+
+1. Jane Southworth (Score: 4.5/10 | H-index: 33 | FCR: 52.2x)
+2. Christopher Martyniuk (Score: 4.3/10 | H-index: 49 | FCR: 12.6x)
+3. Eben Broadbent (Score: 3.9/10 | H-index: 37 | FCR: 29.6x)
+4. Robert Fletcher (Score: 3.3/10 | H-index: 39 | FCR: 7.3x)
+5. Brett R. Scheffers (Score: 2.9/10 | H-index: 27 | FCR: 19.3x)
+   ... and 27 more researchers
+
+## Biomedical and Clinical Sciences
+(30 researchers)
+
+1. Nancy Denslow (Score: 4.8/10 | H-index: 55 | FCR: 9.5x)
+2. Eric W. Triplett (Score: 4.4/10 | H-index: 41 | FCR: 7.4x)
+3. Christopher Martyniuk (Score: 4.3/10 | H-index: 49 | FCR: 12.6x)
+4. Sadie J. Ryan (Score: 3.8/10 | H-index: 42 | FCR: 12.6x)
+5. Paul Fisher (Score: 3.4/10 | H-index: 18 | FCR: 31.9x)
+   ... and 25 more researchers
+
+## Human Society
+(27 researchers)
+
+1. Christopher McCarty (Score: 4.7/10 | H-index: 30 | FCR: 63.6x)
+2. Frank Asche (Score: 4.6/10 | H-index: 43 | FCR: 33.8x)
+3. Jason von Meding (Score: 1.5/10 | H-index: 16 | FCR: 10.5x)
+4. Gregory Kiker (Score: 1.4/10 | H-index: 16 | FCR: 4.3x)
+5. Rachata Muneepeerakul (Score: 1.3/10 | H-index: 13 | FCR: 3.0x)
+   ... and 22 more researchers
+
+## Agriculture, Land and Farm Management
+(24 researchers)
+
+1. Gerrit Hoogenboom (Score: 5.2/10 | H-index: 52 | FCR: 25.5x)
+2. Paul Fisher (Score: 3.4/10 | H-index: 18 | FCR: 31.9x)
+3. Vimala D. Nair (Score: 2.8/10 | H-index: 29 | FCR: 16.7x)
+4. Zhenli He (Score: 2.4/10 | H-index: 30 | FCR: 6.2x)
+5. Lincoln Zotarelli (Score: 2.3/10 | H-index: 28 | FCR: 9.2x)
+   ... and 19 more researchers
+
+## Economics
+(24 researchers)
+
+1. Damian C. Adams (Score: 2.4/10 | H-index: 21 | FCR: 2.0x)
+2. James L. Anderson (Score: 2.1/10 | H-index: 22 | FCR: 12.7x)
+3. Michael Dukes (Score: 2.0/10 | H-index: 24 | FCR: 7.4x)
+4. Thomas Anderson (Score: 1.9/10 | H-index: 5 | FCR: 40.2x)
+5. Alan Hodges (Score: 1.2/10 | H-index: 17 | FCR: 1.7x)
+   ... and 19 more researchers
+
+## Information and Computing Sciences
+(20 researchers)
+
+1. Gerrit Hoogenboom (Score: 5.2/10 | H-index: 52 | FCR: 25.5x)
+2. Christopher McCarty (Score: 4.7/10 | H-index: 30 | FCR: 63.6x)
+3. Jane Southworth (Score: 4.5/10 | H-index: 33 | FCR: 52.2x)
+4. Sabine Grunwald (Score: 4.4/10 | H-index: 34 | FCR: 24.5x)
+5. Yiannis Ampatzidis (Score: 3.9/10 | H-index: 35 | FCR: 26.3x)
+   ... and 15 more researchers
+
+## Microbiology
+(20 researchers)
+
+1. Eric W. Triplett (Score: 4.4/10 | H-index: 41 | FCR: 7.4x)
+2. Karen Garrett (Score: 2.2/10 | H-index: 23 | FCR: 14.2x)
+3. Benjamin Anderson (Score: 2.2/10 | H-index: 22 | FCR: 18.0x)
+4. Andrew Ogram (Score: 2.0/10 | H-index: 25 | FCR: 3.4x)
+5. James Gillooly (Score: 1.9/10 | H-index: 25 | FCR: 1.8x)
+   ... and 15 more researchers
+
+## Plant Biology
+(18 researchers)
+
+1. Jianjun Chen (Score: 3.6/10 | H-index: 41 | FCR: 7.8x)
+2. Kati W. Migliaccio (Score: 2.6/10 | H-index: 17 | FCR: 33.0x)
+3. Karen Garrett (Score: 2.2/10 | H-index: 23 | FCR: 14.2x)
+4. Muhammad Shahid (Score: 1.8/10 | H-index: 19 | FCR: 11.3x)
+5. Shouan Zhang (Score: 1.7/10 | H-index: 22 | FCR: 3.9x)
+   ... and 13 more researchers
+
+## Hydrology
+(18 researchers)
+
+1. Matthew J. Cohen (Score: 3.0/10 | H-index: 36 | FCR: 7.5x)
+2. James W. Jawitz (Score: 2.8/10 | H-index: 36 | FCR: 3.9x)
+3. Rafael Munoz-Carpena (Score: 2.5/10 | H-index: 30 | FCR: 3.8x)
+4. Michael D. Annable (Score: 2.3/10 | H-index: 31 | FCR: 1.4x)
+5. Arnoldo Valle-Levinson (Score: 2.2/10 | H-index: 29 | FCR: 2.8x)
+   ... and 13 more researchers
+
+## Atmospheric Sciences
+(17 researchers)
+
+1. Matthew J. Cohen (Score: 3.0/10 | H-index: 36 | FCR: 7.5x)
+2. James W. Jawitz (Score: 2.8/10 | H-index: 36 | FCR: 3.9x)
+3. Wendy Graham (Score: 1.9/10 | H-index: 21 | FCR: 2.4x)
+4. Myoseon Jang (Score: 1.6/10 | H-index: 20 | FCR: 2.7x)
+5. Joann Mossa (Score: 1.4/10 | H-index: 17 | FCR: 5.6x)
+   ... and 12 more researchers
+
+## Climate Change Impacts and Adaptation
+(16 researchers)
+
+1. Sadie J. Ryan (Score: 3.8/10 | H-index: 42 | FCR: 12.6x)
+2. Robert Fletcher (Score: 3.3/10 | H-index: 39 | FCR: 7.3x)
+3. Brett R. Scheffers (Score: 2.9/10 | H-index: 27 | FCR: 19.3x)
+4. Andrew H. Altieri (Score: 2.1/10 | H-index: 25 | FCR: 9.0x)
+5. Jeffrey Hill (Score: 1.6/10 | H-index: 20 | FCR: 5.1x)
+   ... and 11 more researchers
+
+## Soil Sciences
+(14 researchers)
+
+1. Sabine Grunwald (Score: 4.4/10 | H-index: 34 | FCR: 24.5x)
+2. Michael D. Annable (Score: 2.3/10 | H-index: 31 | FCR: 1.4x)
+3. Alan L. Wright (Score: 2.0/10 | H-index: 27 | FCR: 2.5x)
+4. Samira Daroub (Score: 1.5/10 | H-index: 18 | FCR: 3.2x)
+5. Sudeep S. Sidhu (Score: 1.4/10 | H-index: 5 | FCR: 27.7x)
+   ... and 9 more researchers
+
+## Horticultural Production
+(13 researchers)
+
+1. Yiannis Ampatzidis (Score: 3.9/10 | H-index: 35 | FCR: 26.3x)
+2. Clyde Fraisse (Score: 1.9/10 | H-index: 21 | FCR: 3.7x)
+3. Muhammad Shahid (Score: 1.8/10 | H-index: 19 | FCR: 11.3x)
+4. Heqiang Huo (Score: 1.6/10 | H-index: 19 | FCR: 7.3x)
+5. Jonathan Crane (Score: 1.5/10 | H-index: 20 | FCR: 4.3x)
+   ... and 8 more researchers
+
+## Pollution and Contamination
+(13 researchers)
+
+1. Nancy Denslow (Score: 4.8/10 | H-index: 55 | FCR: 9.5x)
+2. Christopher Martyniuk (Score: 4.3/10 | H-index: 49 | FCR: 12.6x)
+3. John Bowden (Score: 3.3/10 | H-index: 39 | FCR: 10.3x)
+4. Margaret O. James (Score: 2.3/10 | H-index: 31 | FCR: 1.6x)
+5. Edward J. Phlips (Score: 2.1/10 | H-index: 27 | FCR: 4.9x)
+   ... and 8 more researchers
+
+## Commerce, Management, Tourism and Services
+(13 researchers)
+
+1. Stephen Holland (Score: 2.7/10 | H-index: 23 | FCR: 28.5x)
+2. Taylor V. Stein (Score: 1.5/10 | H-index: 18 | FCR: 7.0x)
+3. Zhe Jiang (Score: 1.2/10 | H-index: 12 | FCR: 8.3x)
+4. Tracy Irani (Score: 1.2/10 | H-index: 10 | FCR: 2.1x)
+5. Laura A. Warner (Score: 1.1/10 | H-index: 14 | FCR: 3.8x)
+   ... and 8 more researchers
+
+## Applied Economics
+(12 researchers)
+
+1. Taylor V. Stein (Score: 1.5/10 | H-index: 18 | FCR: 7.0x)
+2. Alan Hodges (Score: 1.2/10 | H-index: 17 | FCR: 1.7x)
+3. Edward Evans (Score: 1.1/10 | H-index: 13 | FCR: 4.6x)
+4. Tara Wade (Score: 0.6/10 | H-index: 6 | FCR: 4.3x)
+5. Ignacia Mercadal (Score: 0.5/10 | H-index: 3 | FCR: 8.4x)
+   ... and 7 more researchers
+
+## Built Environment and Design
+(12 researchers)
+
+1. Robert J. Ries (Score: 1.4/10 | H-index: 17 | FCR: 6.3x)
+2. Alan Hodges (Score: 1.2/10 | H-index: 17 | FCR: 1.7x)
+3. Sanjay Shukla (Score: 1.0/10 | H-index: 14 | FCR: 1.1x)
+4. Mysha Clarke (Score: 1.0/10 | H-index: 9 | FCR: 10.2x)
+5. Cynthia S. Simmons (Score: 0.8/10 | H-index: 8 | FCR: 7.5x)
+   ... and 7 more researchers
+
+## Fisheries Sciences
+(12 researchers)
+
+1. Frank Asche (Score: 4.6/10 | H-index: 43 | FCR: 33.8x)
+2. Micheal S. Allen (Score: 2.4/10 | H-index: 30 | FCR: 6.5x)
+3. James L. Anderson (Score: 2.1/10 | H-index: 22 | FCR: 12.7x)
+4. Thomas Anderson (Score: 1.9/10 | H-index: 5 | FCR: 40.2x)
+5. Kuttichantran Subramaniam (Score: 1.5/10 | H-index: 18 | FCR: 3.5x)
+   ... and 7 more researchers
+
+## Physical Geography and Environmental Geoscience
+(11 researchers)
+
+1. Mark Brenner (Score: 4.6/10 | H-index: 53 | FCR: 9.3x)
+2. Arnoldo Valle-Levinson (Score: 2.2/10 | H-index: 29 | FCR: 2.8x)
+3. Brent Christner (Score: 1.5/10 | H-index: 17 | FCR: 5.3x)
+4. Jason von Meding (Score: 1.5/10 | H-index: 16 | FCR: 10.5x)
+5. Joann Mossa (Score: 1.4/10 | H-index: 17 | FCR: 5.6x)
+   ... and 6 more researchers
+
+## Geology
+(11 researchers)
+
+1. Mark Brenner (Score: 4.6/10 | H-index: 53 | FCR: 9.3x)
+2. Michael R. Perfit (Score: 2.5/10 | H-index: 31 | FCR: 2.0x)
+3. Michael D. Annable (Score: 2.3/10 | H-index: 31 | FCR: 1.4x)
+4. Paul A. Mueller (Score: 2.1/10 | H-index: 27 | FCR: 3.2x)
+5. Kirk Hatfield (Score: 1.6/10 | H-index: 21 | FCR: 0.9x)
+   ... and 6 more researchers
+
+## Chemical Sciences
+(10 researchers)
+
+1. John Bowden (Score: 3.3/10 | H-index: 39 | FCR: 10.3x)
+2. Margaret O. James (Score: 2.3/10 | H-index: 31 | FCR: 1.6x)
+3. Joseph Bisesi (Score: 1.4/10 | H-index: 19 | FCR: 3.0x)
+4. Austin Evans (Score: 1.2/10 | H-index: 11 | FCR: 10.7x)
+5. Daniel A. Savin (Score: 1.1/10 | H-index: 15 | FCR: 0.8x)
+   ... and 5 more researchers
+
+## Geomatic Engineering
+(9 researchers)
+
+1. Amr Abd-Elrahman (Score: 2.2/10 | H-index: 27 | FCR: 5.5x)
+2. Jasmeet Judge (Score: 1.6/10 | H-index: 20 | FCR: 5.2x)
+3. Benjamin Wilkinson (Score: 1.2/10 | H-index: 15 | FCR: 4.3x)
+4. Grenville Barnes (Score: 1.1/10 | H-index: 15 | FCR: 2.5x)
+5. Di Yang (Score: 0.8/10 | H-index: 11 | FCR: 2.5x)
+   ... and 4 more researchers
+
+## Education
+(9 researchers)
+
+1. Jasmeet Judge (Score: 1.6/10 | H-index: 20 | FCR: 5.2x)
+2. Kent Crippen (Score: 1.5/10 | H-index: 15 | FCR: 6.8x)
+3. Paul Monaghan (Score: 0.9/10 | H-index: 11 | FCR: 3.5x)
+4. Ryan Good (Score: 0.6/10 | H-index: 4 | FCR: 8.7x)
+5. Sebastian Galindo (Score: 0.4/10 | H-index: 5 | FCR: 2.5x)
+   ... and 4 more researchers
+
+## Forestry Sciences
+(8 researchers)
+
+1. Damian C. Adams (Score: 2.4/10 | H-index: 21 | FCR: 2.0x)
+2. Lynn E. Sollenberger (Score: 2.2/10 | H-index: 29 | FCR: 3.5x)
+3. Angélica Maria Almeyda Zambrano (Score: 1.9/10 | H-index: 17 | FCR: 17.7x)
+4. Jason G. Vogel (Score: 1.7/10 | H-index: 20 | FCR: 5.2x)
+5. Andrés Susaeta (Score: 1.4/10 | H-index: 19 | FCR: 3.1x)
+   ... and 3 more researchers
+
+## Oceanography
+(8 researchers)
+
+1. Arnoldo Valle-Levinson (Score: 2.2/10 | H-index: 29 | FCR: 2.8x)
+2. Xiao Yu (Score: 1.3/10 | H-index: 15 | FCR: 4.7x)
+3. Corene J. Matyas (Score: 1.3/10 | H-index: 17 | FCR: 2.1x)
+4. Peter R. Waylen (Score: 1.2/10 | H-index: 16 | FCR: 2.3x)
+5. Bryndan Durham (Score: 1.1/10 | H-index: 12 | FCR: 7.5x)
+   ... and 3 more researchers
+
+## Genetics
+(8 researchers)
+
+1. Nancy Denslow (Score: 4.8/10 | H-index: 55 | FCR: 9.5x)
+2. Stuart McDaniel (Score: 2.3/10 | H-index: 25 | FCR: 7.5x)
+3. Donald Behringer (Score: 1.7/10 | H-index: 22 | FCR: 3.8x)
+4. Lawrence M. Page (Score: 1.6/10 | H-index: 7 | FCR: 2.9x)
+5. Kuttichantran Subramaniam (Score: 1.5/10 | H-index: 18 | FCR: 3.5x)
+   ... and 3 more researchers
+
+## Geoinformatics
+(7 researchers)
+
+1. Kati W. Migliaccio (Score: 2.6/10 | H-index: 17 | FCR: 33.0x)
+2. Amr Abd-Elrahman (Score: 2.2/10 | H-index: 27 | FCR: 5.5x)
+3. Jasmeet Judge (Score: 1.6/10 | H-index: 20 | FCR: 5.2x)
+4. Kirk Hatfield (Score: 1.6/10 | H-index: 21 | FCR: 0.9x)
+5. David Keellings (Score: 1.1/10 | H-index: 13 | FCR: 4.8x)
+   ... and 2 more researchers
+
+## Health Sciences
+(7 researchers)
+
+1. Jie Xu (Score: 2.5/10 | H-index: 17 | FCR: 27.0x)
+2. Anita Wright (Score: 2.0/10 | H-index: 23 | FCR: 12.1x)
+3. Kevin Bardosh (Score: 1.1/10 | H-index: 13 | FCR: 4.7x)
+4. Paul Monaghan (Score: 0.9/10 | H-index: 11 | FCR: 3.5x)
+5. Alyson Young (Score: 0.5/10 | H-index: 7 | FCR: 1.5x)
+   ... and 2 more researchers
+
+## Clinical Sciences
+(7 researchers)
+
+1. Eric W. Triplett (Score: 4.4/10 | H-index: 41 | FCR: 7.4x)
+2. Jie Xu (Score: 2.5/10 | H-index: 17 | FCR: 27.0x)
+3. Benjamin Anderson (Score: 2.2/10 | H-index: 22 | FCR: 18.0x)
+4. Anita Wright (Score: 2.0/10 | H-index: 23 | FCR: 12.1x)
+5. Apichai Tuanyok (Score: 1.1/10 | H-index: 15 | FCR: 2.8x)
+   ... and 2 more researchers
+
+## Environmental Engineering
+(6 researchers)
+
+1. David W. Mazyck (Score: 1.2/10 | H-index: 17 | FCR: 0.7x)
+2. Eban Bean (Score: 1.1/10 | H-index: 14 | FCR: 2.0x)
+3. Jonathan D. Judy (Score: 0.9/10 | H-index: 11 | FCR: 2.5x)
+4. Dengjun Wang (Score: 0.6/10 | H-index: 5 | FCR: 3.6x)
+5. Michelle Atkinson (Score: 0.1/10 | H-index: 1 | FCR: 0.2x)
+   ... and 1 more researchers
+
+## Development Studies
+(6 researchers)
+
+1. Frank Asche (Score: 4.6/10 | H-index: 43 | FCR: 33.8x)
+2. Rachata Muneepeerakul (Score: 1.3/10 | H-index: 13 | FCR: 3.0x)
+3. Renata Serra (Score: 0.9/10 | H-index: 9 | FCR: 7.7x)
+4. Anna Peterson (Score: 0.7/10 | H-index: 5 | FCR: 9.4x)
+5. Patrick Ward (Score: 0.3/10 | H-index: 2 | FCR: 3.0x)
+   ... and 1 more researchers
+
+## Human Geography
+(6 researchers)
+
+1. Jason von Meding (Score: 1.5/10 | H-index: 16 | FCR: 10.5x)
+2. Mysha Clarke (Score: 1.0/10 | H-index: 9 | FCR: 10.2x)
+3. Kevin Ash (Score: 0.9/10 | H-index: 10 | FCR: 5.4x)
+4. Carla Brisotto (Score: 0.1/10 | H-index: 1 | FCR: 0.7x)
+5. Lorna Bravo (Score: 0.1/10 | H-index: 1 | FCR: 0.4x)
+   ... and 1 more researchers
+
+## Chemical Engineering
+(6 researchers)
+
+1. Pratap Pullammanappallil (Score: 1.8/10 | H-index: 21 | FCR: 0.7x)
+2. David W. Mazyck (Score: 1.2/10 | H-index: 17 | FCR: 0.7x)
+3. Spyros A. Svoronos (Score: 1.1/10 | H-index: 15 | FCR: 0.9x)
+4. John J. Sansalone (Score: 1.1/10 | H-index: 16 | FCR: 0.1x)
+5. Dengjun Wang (Score: 0.6/10 | H-index: 5 | FCR: 3.6x)
+   ... and 1 more researchers
+
+## Historical Studies
+(5 researchers)
+
+1. Anna Peterson (Score: 0.7/10 | H-index: 5 | FCR: 9.4x)
+2. Kathryn Frank (Score: 0.7/10 | H-index: 10 | FCR: 1.6x)
+3. Steven Noll (Score: 0.3/10 | H-index: 3)
+4. Tiare Silvasy (Score: 0.2/10 | H-index: 2 | FCR: 1.0x)
+5. Luke Harlow (Score: 0.2/10 | H-index: 1 | FCR: 2.9x)
+
+## Zoology
+(5 researchers)
+
+1. Peter Frederick (Score: 2.1/10 | H-index: 29 | FCR: 2.0x)
+2. James Gillooly (Score: 1.9/10 | H-index: 25 | FCR: 1.8x)
+3. Johan Desaeger (Score: 1.2/10 | H-index: 16 | FCR: 3.5x)
+4. Carissa L. Wickens (Score: 0.4/10 | H-index: 5 | FCR: 2.3x)
+5. Laurel Kaminsky (Score: 0.1/10 | H-index: 2 | FCR: 0.7x)
+
+## Veterinary Sciences
+(5 researchers)
+
+1. Kuttichantran Subramaniam (Score: 1.5/10 | H-index: 18 | FCR: 3.5x)
+2. Renata Serra (Score: 0.9/10 | H-index: 9 | FCR: 7.7x)
+3. Roy P. E. Yanong (Score: 0.6/10 | H-index: 8 | FCR: 2.3x)
+4. Carissa L. Wickens (Score: 0.4/10 | H-index: 5 | FCR: 2.3x)
+5. Caitlin Justesen (Score: 0.0/10)
+
+## Law and Legal Studies
+(5 researchers)
+
+1. Shinsuke Agehara (Score: 0.9/10 | H-index: 12 | FCR: 3.4x)
+2. Qingren Wang (Score: 0.6/10 | H-index: 8 | FCR: 0.6x)
+3. Roy P. E. Yanong (Score: 0.6/10 | H-index: 8 | FCR: 2.3x)
+4. Thomas T. Ankersen (Score: 0.3/10 | H-index: 4 | FCR: 1.5x)
+5. Whitney Elmore (Score: 0.1/10 | H-index: 1)
+
+## Climate Change Science
+(5 researchers)
+
+1. Corene J. Matyas (Score: 1.3/10 | H-index: 17 | FCR: 2.1x)
+2. Peter R. Waylen (Score: 1.2/10 | H-index: 16 | FCR: 2.3x)
+3. David Keellings (Score: 1.1/10 | H-index: 13 | FCR: 4.8x)
+4. Ziwen Yu (Score: 0.5/10 | H-index: 6 | FCR: 2.4x)
+5. Esther D. Mullens (Score: 0.2/10 | H-index: 2 | FCR: 1.2x)
+
+## Biochemistry and Cell Biology
+(5 researchers)
+
+1. Mariola Edelmann (Score: 1.2/10 | H-index: 14 | FCR: 5.6x)
+2. Daniel A. Savin (Score: 1.1/10 | H-index: 15 | FCR: 0.8x)
+3. Tracie Baker (Score: 0.9/10 | H-index: 8 | FCR: 4.6x)
+4. Banikalyan Swain (Score: 0.7/10 | H-index: 6 | FCR: 7.9x)
+5. Sarah Doore (Score: 0.5/10 | H-index: 4 | FCR: 3.0x)
+
+## Physical Sciences
+(5 researchers)
+
+1. David Kaplan (Score: 6.0/10 | H-index: 38 | FCR: 79.1x)
+2. Stephen Holland (Score: 2.7/10 | H-index: 23 | FCR: 28.5x)
+3. Rachata Muneepeerakul (Score: 1.3/10 | H-index: 13 | FCR: 3.0x)
+4. Hamed Dalir (Score: 1.0/10 | H-index: 11 | FCR: 8.0x)
+5. Qingren Wang (Score: 0.6/10 | H-index: 8 | FCR: 0.6x)
+
+## Curriculum and Pedagogy
+(5 researchers)
+
+1. Kent Crippen (Score: 1.5/10 | H-index: 15 | FCR: 6.8x)
+2. Corene J. Matyas (Score: 1.3/10 | H-index: 17 | FCR: 2.1x)
+3. Kathryn Frank (Score: 0.7/10 | H-index: 10 | FCR: 1.6x)
+4. Jeffrey Carney (Score: 0.1/10 | H-index: 1)
+5. Andrea Galinski (Score: 0.1/10 | H-index: 1)
+
+## Medical Biochemistry and Metabolomics
+(4 researchers)
+
+1. Eric W. Triplett (Score: 4.4/10 | H-index: 41 | FCR: 7.4x)
+2. John Bowden (Score: 3.3/10 | H-index: 39 | FCR: 10.3x)
+3. Masanori Fujimoto (Score: 0.2/10 | H-index: 2 | FCR: 0.4x)
+4. Sungyoon Jung (Score: 0.1/10 | H-index: 1)
+
+## Health Services and Systems
+(4 researchers)
+
+1. Christopher McCarty (Score: 4.7/10 | H-index: 30 | FCR: 63.6x)
+2. Jie Xu (Score: 2.5/10 | H-index: 17 | FCR: 27.0x)
+3. Kevin Bardosh (Score: 1.1/10 | H-index: 13 | FCR: 4.7x)
+4. Lisa Krimsky (Score: 0.3/10 | H-index: 4 | FCR: 2.5x)
+
+## History, Heritage and Archaeology
+(4 researchers)
+
+1. Anna Peterson (Score: 0.7/10 | H-index: 5 | FCR: 9.4x)
+2. Kathryn Frank (Score: 0.7/10 | H-index: 10 | FCR: 1.6x)
+3. Steven Noll (Score: 0.3/10 | H-index: 3)
+4. Luke Harlow (Score: 0.2/10 | H-index: 1 | FCR: 2.9x)
+
+## Macromolecular and Materials Chemistry
+(4 researchers)
+
+1. Austin Evans (Score: 1.2/10 | H-index: 11 | FCR: 10.7x)
+2. Daniel A. Savin (Score: 1.1/10 | H-index: 15 | FCR: 0.8x)
+3. Joshua Moon (Score: 0.2/10 | H-index: 1)
+4. Guilhem De Hoe (Score: 0.2/10 | H-index: 1 | FCR: 2.8x)
+
+## Policy and Administration
+(4 researchers)
+
+1. Erin Jones (Score: 1.2/10 | H-index: 2 | FCR: 27.9x)
+2. Marit Østebø (Score: 1.2/10 | H-index: 6 | FCR: 21.6x)
+3. Mark Jamison (Score: 0.8/10 | H-index: 10 | FCR: 1.2x)
+4. Katherine Deliz Quiñones (Score: 0.6/10 | H-index: 6 | FCR: 4.7x)
+
+## Animal Production
+(4 researchers)
+
+1. Lynn E. Sollenberger (Score: 2.2/10 | H-index: 29 | FCR: 3.5x)
+2. Maria L. Silveira (Score: 1.6/10 | H-index: 22 | FCR: 3.1x)
+3. Renata Serra (Score: 0.9/10 | H-index: 9 | FCR: 7.7x)
+4. Carissa L. Wickens (Score: 0.4/10 | H-index: 5 | FCR: 2.3x)
+
+## Civil Engineering
+(4 researchers)
+
+1. Xiaoyu Song (Score: 1.9/10 | H-index: 24 | FCR: 5.5x)
+2. John J. Sansalone (Score: 1.1/10 | H-index: 16 | FCR: 0.1x)
+3. Rob de Rooij (Score: 0.7/10 | H-index: 7 | FCR: 6.7x)
+4. Taylor Clem (Score: 0.2/10 | H-index: 2 | FCR: 2.7x)
+
+## Public Health
+(4 researchers)
+
+1. Anita Wright (Score: 2.0/10 | H-index: 23 | FCR: 12.1x)
+2. Kevin Bardosh (Score: 1.1/10 | H-index: 13 | FCR: 4.7x)
+3. Paul Monaghan (Score: 0.9/10 | H-index: 11 | FCR: 3.5x)
+4. Alyson Young (Score: 0.5/10 | H-index: 7 | FCR: 1.5x)
+
+## Sociology
+(4 researchers)
+
+1. Christopher McCarty (Score: 4.7/10 | H-index: 30 | FCR: 63.6x)
+2. Hannah Wooten (Score: 0.2/10 | H-index: 2 | FCR: 2.0x)
+3. Carla Brisotto (Score: 0.1/10 | H-index: 1 | FCR: 0.7x)
+4. Lorna Bravo (Score: 0.1/10 | H-index: 1 | FCR: 0.4x)
+
+## Medical Microbiology
+(4 researchers)
+
+1. Benjamin Anderson (Score: 2.2/10 | H-index: 22 | FCR: 18.0x)
+2. Mariola Edelmann (Score: 1.2/10 | H-index: 14 | FCR: 5.6x)
+3. Banikalyan Swain (Score: 0.7/10 | H-index: 6 | FCR: 7.9x)
+4. Sarah Doore (Score: 0.5/10 | H-index: 4 | FCR: 3.0x)
+
+## Political Science
+(3 researchers)
+
+1. Marit Østebø (Score: 1.2/10 | H-index: 6 | FCR: 21.6x)
+2. Catherine M. Tucker (Score: 0.9/10 | H-index: 8 | FCR: 10.1x)
+3. Jeffrey C. Johnson (Score: 0.5/10 | H-index: 6 | FCR: 2.8x)
+
+## Creative Arts and Writing
+(3 researchers)
+
+1. Ricky Telg (Score: 0.4/10 | H-index: 5 | FCR: 2.8x)
+2. Sebastian Galindo (Score: 0.4/10 | H-index: 5 | FCR: 2.5x)
+3. Amelia Winger-Bearskin (Score: 0.0/10)
+
+## Materials Engineering
+(3 researchers)
+
+1. Xiaoyu Song (Score: 1.9/10 | H-index: 24 | FCR: 5.5x)
+2. Austin Evans (Score: 1.2/10 | H-index: 11 | FCR: 10.7x)
+3. Youngsup Song (Score: 0.2/10 | H-index: 2 | FCR: 2.4x)
+
+## Tourism
+(3 researchers)
+
+1. Stephen Holland (Score: 2.7/10 | H-index: 23 | FCR: 28.5x)
+2. Taylor V. Stein (Score: 1.5/10 | H-index: 18 | FCR: 7.0x)
+3. Kevin Ash (Score: 0.9/10 | H-index: 10 | FCR: 5.4x)
+
+## Geochemistry
+(3 researchers)
+
+1. Michael R. Perfit (Score: 2.5/10 | H-index: 31 | FCR: 2.0x)
+2. Paul A. Mueller (Score: 2.1/10 | H-index: 27 | FCR: 3.2x)
+3. Megan E. Moore (Score: 0.1/10 | H-index: 1)
+
+## Evolutionary Biology
+(3 researchers)
+
+1. Stuart McDaniel (Score: 2.3/10 | H-index: 25 | FCR: 7.5x)
+2. Lawrence M. Page (Score: 1.6/10 | H-index: 7 | FCR: 2.9x)
+3. Laurel Kaminsky (Score: 0.1/10 | H-index: 2 | FCR: 0.7x)
+
+## Food Sciences
+(3 researchers)
+
+1. Boce Zhang (Score: 0.9/10 | H-index: 11 | FCR: 3.7x)
+2. Shirley M. Baker (Score: 0.7/10 | H-index: 9 | FCR: 2.7x)
+3. Ahn Jaehyun (Score: 0.4/10 | H-index: 2 | FCR: 5.0x)
+
+## Urban and Regional Planning
+(3 researchers)
+
+1. Kathryn Frank (Score: 0.7/10 | H-index: 10 | FCR: 1.6x)
+2. Jeffrey Carney (Score: 0.1/10 | H-index: 1)
+3. Andrea Galinski (Score: 0.1/10 | H-index: 1)
+
+## Communication and Media Studies
+(3 researchers)
+
+1. Ricky Telg (Score: 0.4/10 | H-index: 5 | FCR: 2.8x)
+2. Jamie Loizzo (Score: 0.4/10 | H-index: 4 | FCR: 2.1x)
+3. Hannah Wooten (Score: 0.2/10 | H-index: 2 | FCR: 2.0x)
+
+## Language, Communication and Culture
+(3 researchers)
+
+1. Ricky Telg (Score: 0.4/10 | H-index: 5 | FCR: 2.8x)
+2. Jamie Loizzo (Score: 0.4/10 | H-index: 4 | FCR: 2.1x)
+3. Hannah Wooten (Score: 0.2/10 | H-index: 2 | FCR: 2.0x)
+
+## Education Systems
+(3 researchers)
+
+1. Kent Crippen (Score: 1.5/10 | H-index: 15 | FCR: 6.8x)
+2. Ryan Good (Score: 0.6/10 | H-index: 4 | FCR: 8.7x)
+3. Danny Coenen (Score: 0.1/10 | H-index: 1)
+
+## Agricultural Biotechnology
+(2 researchers)
+
+1. Marco Schiavon (Score: 0.6/10 | H-index: 8 | FCR: 1.6x)
+2. Weizhe Weng (Score: 0.3/10 | H-index: 3 | FCR: 3.4x)
+
+## Philosophy and Religious Studies
+(2 researchers)
+
+1. Marit Østebø (Score: 1.2/10 | H-index: 6 | FCR: 21.6x)
+2. Anna Peterson (Score: 0.7/10 | H-index: 5 | FCR: 9.4x)
+
+## Theology
+(2 researchers)
+
+1. Marit Østebø (Score: 1.2/10 | H-index: 6 | FCR: 21.6x)
+2. Anna Peterson (Score: 0.7/10 | H-index: 5 | FCR: 9.4x)
+
+## Nutrition and Dietetics
+(2 researchers)
+
+1. Di Fang (Score: 0.4/10 | H-index: 4 | FCR: 3.5x)
+2. Lorna Bravo (Score: 0.1/10 | H-index: 1 | FCR: 0.4x)
+
+## Library and Information Studies
+(2 researchers)
+
+1. Erin Jones (Score: 1.2/10 | H-index: 2 | FCR: 27.9x)
+2. Thomas A. Obreza (Score: 1.1/10 | H-index: 16 | FCR: 1.3x)
+
+## Banking, Finance and Investment
+(2 researchers)
+
+1. Ignacia Mercadal (Score: 0.5/10 | H-index: 3 | FCR: 8.4x)
+2. Patrick Ward (Score: 0.3/10 | H-index: 2 | FCR: 3.0x)
+
+## Commercial Services
+(2 researchers)
+
+1. Taylor V. Stein (Score: 1.5/10 | H-index: 18 | FCR: 7.0x)
+2. Cynthia S. Simmons (Score: 0.8/10 | H-index: 8 | FCR: 7.5x)
+
+## Physical Chemistry
+(2 researchers)
+
+1. Austin Evans (Score: 1.2/10 | H-index: 11 | FCR: 10.7x)
+2. Daniel A. Savin (Score: 1.1/10 | H-index: 15 | FCR: 0.8x)
+
+## Geophysics
+(2 researchers)
+
+1. Michael R. Perfit (Score: 2.5/10 | H-index: 31 | FCR: 2.0x)
+2. Paul A. Mueller (Score: 2.1/10 | H-index: 27 | FCR: 3.2x)
+
+## Epidemiology
+(2 researchers)
+
+1. Alyson Young (Score: 0.5/10 | H-index: 7 | FCR: 1.5x)
+2. Chamteut Oh (Score: 0.4/10 | H-index: 4 | FCR: 2.8x)
+
+## Electronics, Sensors and Digital Hardware
+(2 researchers)
+
+1. Hamed Dalir (Score: 1.0/10 | H-index: 11 | FCR: 8.0x)
+2. Youngsup Song (Score: 0.2/10 | H-index: 2 | FCR: 2.4x)
+
+## International and Comparative Law
+(2 researchers)
+
+1. Roy P. E. Yanong (Score: 0.6/10 | H-index: 8 | FCR: 2.3x)
+2. Thomas T. Ankersen (Score: 0.3/10 | H-index: 4 | FCR: 1.5x)
+
+## Architecture
+(2 researchers)
+
+1. Claire Lewis (Score: 0.2/10 | H-index: 3 | FCR: 0.4x)
+2. Alpa Nawre (Score: 0.2/10 | H-index: 2 | FCR: 2.9x)
+
+## Environmental and Resources Law
+(2 researchers)
+
+1. Thomas T. Ankersen (Score: 0.3/10 | H-index: 4 | FCR: 1.5x)
+2. Whitney Elmore (Score: 0.1/10 | H-index: 1)
+
+## Human Resources and Industrial Relations
+(2 researchers)
+
+1. Tracy Irani (Score: 1.2/10 | H-index: 10 | FCR: 2.1x)
+2. Sebastian Galindo (Score: 0.4/10 | H-index: 5 | FCR: 2.5x)
+
+## Specialist Studies In Education
+(2 researchers)
+
+1. Ryan Good (Score: 0.6/10 | H-index: 4 | FCR: 8.7x)
+2. Danny Coenen (Score: 0.1/10 | H-index: 1)

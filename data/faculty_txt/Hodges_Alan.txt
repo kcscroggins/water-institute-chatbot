@@ -26,3 +26,51 @@ Water & Policy Relevance:
 
 Keywords:
 Agricultural economics; economic impact analysis; IMPLAN; cost-benefit analysis; natural resource economics; ecosystem services; conservation economics; policy analysis; Florida agriculture; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 109
+- Total Citations: 1111
+- H-Index: 17
+- Average Citations per Paper: 10.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 1.71 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Exploring market choices in the US ornamental horticulture industry *Agribusiness* (2022) - 8 citations
+  DOI: https://doi.org/10.1002/agr.21769
+- Effect of geographic distance on domestic trade: A case of the US Green industry *Agribusiness* (2021) - 7 citations
+  DOI: https://doi.org/10.1002/agr.21715
+- Preferences for Sustainable Residential Lawns in Florida: The Case of Irrigation and Fertilization Requirements *Agronomy* (2023) - 3 citations
+  DOI: https://doi.org/10.3390/agronomy13020416
+- Hydraulic retrofits can economically increase water and phosphorus retentions in end-of-the-farm stormwater systems *Journal of Cleaner Production* (2021) - 3 citations
+  DOI: https://doi.org/10.1016/j.jclepro.2021.129554
+- Importance of Consistency and Standardization in Estimating Economic Contributions of the Forest Industry in the Southern United States *Journal of Forestry* (2023) - 2 citations
+  DOI: https://doi.org/10.1093/jofore/fvad001
+- Florida Nursery and Landscape Industry Economic Contributions Report: FE1114/FE1114, 02/2022 *EDIS* (2022) - 2 citations
+  DOI: https://doi.org/10.32473/edis-fe1114-2022
+- Defining preferred turfgrass features for lawn choice for Floridian homeowners *Journal of Urban Management* (2024) - 1 citations
+  DOI: https://doi.org/10.1016/j.jum.2024.07.005
+- Florida Nursery and Landscape Industry Characteristics Report: FE1108, 12/2021 *EDIS* (2021)
+  DOI: https://doi.org/10.32473/edis-fe1108-2021
+
+Research Categories (from Dimensions.ai):
+38 Economics; 3801 Applied Economics; 30 Agricultural, Veterinary and Food Sciences; 33 Built Environment and Design; 3002 Agriculture, Land and Farm Management
+
+Key Research Concepts (from Dimensions.ai):
+market channel choice; marketing channels; channel choice; market participants; market size; effect of geographic distance; negative effect of geographic distance; traditional advertising channels; pseudo-maximum likelihood; trade flows
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Texas A&M University
+- University of Minnesota Twin Cities
+- North Carolina State University
+- Purdue University West Lafayette
+- Rutgers, The State University of New Jersey
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.2/10
+Percentile: Top 40% of Water Institute faculty
+Rankings by Research Category:
+- Applied Economics: #2 of 12
+- Built Environment and Design: #2 of 12
+- Economics: #5 of 24

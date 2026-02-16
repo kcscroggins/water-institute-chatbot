@@ -28,3 +28,51 @@ Weng's research informs agricultural and environmental policy by providing causa
 
 Keywords:
 agricultural economics; resource economics; applied econometrics; policy analysis; producer behavior; risk; uncertainty; market impacts; causal inference; panel data; agricultural markets; environmental policy; Florida agriculture; decision-making
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 8
+- Total Citations: 27
+- H-Index: 3
+- Average Citations per Paper: 3.4
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.38 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Quantifying co‐benefits of water quality policies: An integrated assessment model of land and nitrogen management *American Journal of Agricultural Economics* (2023) - 9 citations
+  DOI: https://doi.org/10.1111/ajae.12423
+- Short-Term Exposure to Air Pollution and Cognitive Performance: New Evidence from China’s College English Test *Environmental and Resource Economics* (2023) - 9 citations
+  DOI: https://doi.org/10.1007/s10640-023-00765-7
+- COVID-19 and visitation to Central Park, New York City *PLOS ONE* (2023) - 4 citations
+  DOI: https://doi.org/10.1371/journal.pone.0290713
+- Examining Implicit Price Variation for Lake Water Quality *Water Economics and Policy* (2022) - 3 citations
+  DOI: https://doi.org/10.1142/s2382624x22400057
+- An Introduction to Economic Analysis of Pest Management: A Case Study of Nematode Management: FE1161, 12/2024 *EDIS* (2025) - 1 citations
+  DOI: https://doi.org/10.32473/edis-fe1161-2024
+- An Introduction to Economic Analysis of Pest Management: Concepts of Partial Budgeting Analysis : FE1157, 9/2024 *EDIS* (2024) - 1 citations
+  DOI: https://doi.org/10.32473/edis-fe1157-2024
+- Payments for Ecosystem Services in Florida’s Landscape: Concepts and Principles: FE1167, 9/2025 *EDIS* (2025)
+  DOI: https://doi.org/10.32473/edis-fe1167-2025
+- From Wells to Wellness: An Introduction to Drinking Water Systems in Florida: FE1156, 10/2024 *EDIS* (2024)
+  DOI: https://doi.org/10.32473/edis-fe1156-2024
+
+Research Categories (from Dimensions.ai):
+38 Economics; 3801 Applied Economics; 30 Agricultural, Veterinary and Food Sciences; 44 Human Society; 3001 Agricultural Biotechnology
+
+Key Research Concepts (from Dimensions.ai):
+partial budget analysis; water quality policy; integrated assessment model; co-benefits; benefit-cost ratio; economic model; College English Test; impact of air pollution; statistically significant negative impact; air pollution
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Virginia Polytechnic Institute and State University
+- The Pennsylvania State University
+- Los Alamos National Laboratory
+- Shenzhen MSU-BIT University
+- South China Agricultural University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.3/10
+Percentile: Top 82% of Water Institute faculty
+Rankings by Research Category:
+- Agricultural Biotechnology: #2 of 2
+- Applied Economics: #8 of 12
+- Economics: #19 of 24

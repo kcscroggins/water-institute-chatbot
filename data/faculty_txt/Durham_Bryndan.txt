@@ -34,3 +34,55 @@ Water & Policy Relevance:
 
 Keywords:
 Marine microbial ecology; bacterioplankton; carbon cycling; nutrient cycling; microbial respiration; Gulf of Mexico; coastal ecosystems; dissolved organic matter; eutrophication; hypoxia; microbial food webs; biogeochemistry; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 21
+- Total Citations: 617
+- H-Index: 12
+- Average Citations per Paper: 29.4
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 7.49 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Viruses affect picocyanobacterial abundance and biogeography in the North Pacific Ocean *Nature Microbiology* (2022) - 65 citations
+  DOI: https://doi.org/10.1038/s41564-022-01088-x
+- Particulate Metabolites and Transcripts Reflect Diel Oscillations of Microbial Activity in the Surface Ocean *mSystems* (2021) - 60 citations
+  DOI: https://doi.org/10.1128/msystems.00896-20
+- The dynamic trophic architecture of open-ocean protist communities revealed through machine-guided metatranscriptomics *Proceedings of the National Academy of Sciences of the United States of America* (2022) - 55 citations
+  DOI: https://doi.org/10.1073/pnas.2100916119
+- Glycine betaine uptake and metabolism in marine microbial communities *Environmental Microbiology* (2022) - 49 citations
+  DOI: https://doi.org/10.1111/1462-2920.16020
+- Marine Community Metabolomes Carry Fingerprints of Phytoplankton Community Composition *mSystems* (2021) - 45 citations
+  DOI: https://doi.org/10.1128/msystems.01334-20
+- Diel transcriptional oscillations of light-sensitive regulatory elements in open-ocean eukaryotic plankton communities *Proceedings of the National Academy of Sciences of the United States of America* (2021) - 44 citations
+  DOI: https://doi.org/10.1073/pnas.2011038118
+- Siderophore production and utilization by marine bacteria in the North Pacific Ocean *Limnology and Oceanography* (2023) - 39 citations
+  DOI: https://doi.org/10.1002/lno.12373
+- Chemotaxonomic patterns in intracellular metabolites of marine microbial plankton *Frontiers in Marine Science* (2022) - 23 citations
+  DOI: https://doi.org/10.3389/fmars.2022.864796
+- Deciphering Metabolic Currencies That Support Marine Microbial Networks *mSystems* (2021) - 17 citations
+  DOI: https://doi.org/10.1128/msystems.00763-21
+- Diel-Regulated Transcriptional Cascades of Microbial Eukaryotes in the North Pacific Subtropical Gyre *Frontiers in Microbiology* (2021) - 15 citations
+  DOI: https://doi.org/10.3389/fmicb.2021.682651
+
+Research Categories (from Dimensions.ai):
+3107 Microbiology; 31 Biological Sciences; 3708 Oceanography; 37 Earth Sciences; 3103 Ecology
+
+Key Research Concepts (from Dimensions.ai):
+North Pacific Subtropical Gyre; North Pacific Transition Zone; particulate organic carbon; Pacific Ocean; marine microbial communities; transcript abundance; subarctic frontal zone; North Pacific subarctic frontal zone; iron-binding ligand pool; net community production
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Washington
+- University of Melbourne
+- Technion Israel Institute of Technology
+- University of Hawaiʻi at Mānoa
+- University of Southern California
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.1/10
+Percentile: Top 46% of Water Institute faculty
+Rankings by Research Category:
+- Oceanography: #5 of 8
+- Microbiology: #13 of 20
+- Ecology: #31 of 59

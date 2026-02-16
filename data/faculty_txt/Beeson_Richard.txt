@@ -41,3 +41,39 @@ Policy Relevance:
 
 Keywords:
 Plant water relations; evapotranspiration; irrigation efficiency; irrigation scheduling; nursery production; container plants; urban landscape; water conservation; Florida-Friendly Landscaping; water management districts; establishment watering; ornamental horticulture; water demand; ET modeling; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 22
+- Total Citations: 158
+- H-Index: 7
+- Average Citations per Paper: 7.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 0.38 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- A Practical Guide for Peach Irrigation Scheduling in Florida: HS1413, 5/2021 *EDIS* (2021) - 3 citations
+  DOI: https://doi.org/10.32473/edis-hs1413-2021
+- Water use and drainage of subtropical, mixed landscapes varies with turf coverage and season *City and Environment Interactions* (2021) - 3 citations
+  DOI: https://doi.org/10.1016/j.cacint.2021.100064
+- Magnolia and Viburnum Plant Factors at Different Growing Seasons and Allowed Depletion Levels in a Monsoonal Climate *Water* (2021) - 1 citations
+  DOI: https://doi.org/10.3390/w13131744
+
+Research Categories (from Dimensions.ai):
+3108 Plant Biology; 31 Biological Sciences; 30 Agricultural, Veterinary and Food Sciences; 41 Environmental Sciences; 4104 Environmental Management
+
+Key Research Concepts (from Dimensions.ai):
+peach trees; irrigation scheduling; tree growth stage; crop water demand; growth stages; dry season; woody plants; risk of groundwater pollution; wet season; turf coverage
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Southwest Florida Research
+- Beijing Key Lab of Greening Plants Breeding, Beijing Institute of Landscape Architecture, Beijing 100102, China
+- Institute of Food and Agricultural Sciences
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.5/10
+Percentile: Top 72% of Water Institute faculty
+Rankings by Research Category:
+- Plant Biology: #15 of 18
+- Environmental Management: #33 of 46
+- Agricultural, Veterinary and Food Sciences: #78 of 99

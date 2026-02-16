@@ -27,3 +27,55 @@ Dr. Small's research and extension work support sustainable agriculture by gener
 
 Keywords:
 plant pathology; epidemiology; disease management; integrated pest management; smart crop protection; remote sensing; machine learning; peanut; cotton; carinata; soybean; corn; decision support; phenotyping; NFREC; North Florida; crop health; disease modeling
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 39
+- Total Citations: 573
+- H-Index: 14
+- Average Citations per Paper: 14.7
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.21 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Brassica carinata: Biology and agronomy as a biofuel crop *GCB Bioenergy* (2021) - 66 citations
+  DOI: https://doi.org/10.1111/gcbb.12804
+- Development of a high-throughput plant disease symptom severity assessment tool using machine learning image analysis and integrated geolocation *Computers and Electronics in Agriculture* (2021) - 39 citations
+  DOI: https://doi.org/10.1016/j.compag.2021.106089
+- A regional inter‐disciplinary partnership focusing on the development of a carinata‐centered bioeconomy *GCB Bioenergy* (2021) - 35 citations
+  DOI: https://doi.org/10.1111/gcbb.12828
+- Tillage system and seeding rate effects on the performance of Brassica carinata *GCB Bioenergy* (2021) - 25 citations
+  DOI: https://doi.org/10.1111/gcbb.12809
+- Integrating perennial bahiagrass into the conventional rotation of cotton and peanut enhances interactions between microbial and nematode communities *Applied Soil Ecology* (2022) - 16 citations
+  DOI: https://doi.org/10.1016/j.apsoil.2021.104254
+- In-furrow fluopyram nematicide efficacy for Rotylenchulus reniformis management in cotton production *Crop Protection* (2021) - 16 citations
+  DOI: https://doi.org/10.1016/j.cropro.2020.105423
+- Physiological analysis of growth and development of winter carinata (Brassica carinata A. Braun) *GCB Bioenergy* (2021) - 14 citations
+  DOI: https://doi.org/10.1111/gcbb.12831
+- Evaluation of a multi-model approach to estimate leaf wetness duration: an essential input for disease alert systems *Theoretical and Applied Climatology* (2022) - 10 citations
+  DOI: https://doi.org/10.1007/s00704-022-04036-1
+- Peanut disease epidemiology under dynamic microclimate conditions and management practices in North Florida. *Plant Disease* (2021) - 8 citations
+  DOI: https://doi.org/10.1094/pdis-11-20-2390-re
+- Carinata, the Sustainable Crop for a Bio-based Economy: Production Recommendations for the Southeastern United States: SS-AGR-384/AG389, 8/2023 *EDIS* (2023) - 7 citations
+  DOI: https://doi.org/10.32473/edis-ag389-2023
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3004 Crop and Pasture Production; 3002 Agriculture, Land and Farm Management; 31 Biological Sciences; 3108 Plant Biology
+
+Key Research Concepts (from Dimensions.ai):
+land preparation methods; sod-based rotation; nematode communities; stem rot; seed chemical composition; cropping history; summer crops; crop production; crop improvement research; double-cropping system
+
+Top Collaborating Institutions (from Dimensions.ai):
+- North Carolina State University
+- Nuseed, West Sacramento, CA, USA
+- University of Georgia
+- National Soil Dynamics Research Laboratory
+- Mississippi State University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.0/10
+Percentile: Top 49% of Water Institute faculty
+Rankings by Research Category:
+- Plant Biology: #10 of 18
+- Agriculture, Land and Farm Management: #17 of 24
+- Crop and Pasture Production: #30 of 41

@@ -27,3 +27,36 @@ Dr. Waylen's work informs water-resource planning, climate adaptation, and hazar
 
 Keywords:
 climatology; hydroclimatology; climate variability; ENSO; teleconnections; rainfall; drought; floods; Caribbean; Central America; Florida; tropical climate; climate extremes; water resources; climate risk; physical geography
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 29
+- Total Citations: 1277
+- H-Index: 16
+- Average Citations per Paper: 44.0
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.31 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- A spatio-temporal analysis of the role of climatic drivers influencing extreme precipitation events in a Costa Rican basin *Weather and Climate Extremes* (2023) - 7 citations
+  DOI: https://doi.org/10.1016/j.wace.2023.100602
+
+Research Grants (from Dimensions.ai):
+- U.S.-Costa Rican Workshop: Interdisciplinary workgroup on water sustainability in the Tempisque Basin; Palo Verde NP, Costa Rica, April 2012 (2011-2013) - $30,246
+  Funder: Office of the Director
+- Effects of El Nino/Southern Oscillation on the Hydrology of South America (1987-1990) - $40,737
+  Funder: Directorate for Social, Behavioral & Economic Sciences
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3708 Oceanography; 3701 Atmospheric Sciences; 3702 Climate Change Science
+
+Key Research Concepts (from Dimensions.ai):
+El Nino Southern Oscillation; Oceanic Nino Index; Atlantic Multidecadal Oscillation; precipitation events; climate drivers
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.2/10
+Percentile: Top 40% of Water Institute faculty
+Rankings by Research Category:
+- Climate Change Science: #2 of 5
+- Oceanography: #4 of 8
+- Atmospheric Sciences: #7 of 17

@@ -29,3 +29,55 @@ Dr. Mossa produces mechanistic evidence on how river systems respond to human di
 
 Keywords:
 fluvial geomorphology; river channel change; floodplain dynamics; sediment transport; river restoration; coastal geomorphology; hydrology; flood hazards; Apalachicola River; Mississippi River; Kissimmee River; Gulf Coastal Plain; LiDAR; GIS; remote sensing; dredging; watershed management
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 56
+- Total Citations: 1141
+- H-Index: 17
+- Average Citations per Paper: 20.4
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 5.57 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Hydrological Drought Forecasting Using a Deep Transformer Model *Water* (2022) - 49 citations
+  DOI: https://doi.org/10.3390/w14223611
+- Geomorphic insights from eroding dredge spoil mounds impacting channel morphology *Geomorphology* (2021) - 24 citations
+  DOI: https://doi.org/10.1016/j.geomorph.2020.107571
+- Geomorphic response to historic and ongoing human impacts in a large lowland river *Earth Surface Processes and Landforms* (2022) - 21 citations
+  DOI: https://doi.org/10.1002/esp.5334
+- Damming consequences: Quantifying the effects on channel geometry and floodplain inundation *Catena* (2024) - 19 citations
+  DOI: https://doi.org/10.1016/j.catena.2023.107634
+- Machine learning insights of anthropogenic and natural influences on riverbed deformation in a large lowland river *Geomorphology* (2024) - 10 citations
+  DOI: https://doi.org/10.1016/j.geomorph.2023.108986
+- Estimate of decadal‐scale riverbed deformation and bed‐load sediment transport during flood events in the lowermost Mississippi River *Earth Surface Processes and Landforms* (2022) - 10 citations
+  DOI: https://doi.org/10.1002/esp.5316
+- Floodplain characteristics affect woody vegetation regeneration on point bars of a coastal plain river recovering from anthropogenic disturbances *Ecohydrology* (2022) - 8 citations
+  DOI: https://doi.org/10.1002/eco.2504
+- 9.06 Geomorphic Perspectives on Mining Landscapes, Hazards, and Sustainability (2022) - 6 citations
+  DOI: https://doi.org/10.1016/b978-0-12-818234-5.00159-0
+- Hydrological drought and floodplain disconnectivity: quantifying flow thresholds in a large coastal plain river *Hydrological Sciences Journal* (2024) - 4 citations
+  DOI: https://doi.org/10.1080/02626667.2024.2410908
+- Socio-hydrology and vulnerability of levee systems along the lower Illinois River *Annals of GIS* (2023) - 4 citations
+  DOI: https://doi.org/10.1080/19475683.2023.2166113
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3709 Physical Geography and Environmental Geoscience; 3707 Hydrology; 3701 Atmospheric Sciences; 41 Environmental Sciences
+
+Key Research Concepts (from Dimensions.ai):
+digital elevation model; Apalachicola River; hydrological drought; triangular irregular network; American Association of Geographers; floodplain inundation; riverbed deformation; river systems; discipline of geography; hydrological drought forecasting
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Alabama
+- Old Dominion University
+- University of South Florida
+- Arizona State University
+- Iowa State University of Science and Technology
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.4/10
+Percentile: Top 33% of Water Institute faculty
+Rankings by Research Category:
+- Physical Geography and Environmental Geoscience: #5 of 11
+- Atmospheric Sciences: #5 of 17
+- Hydrology: #7 of 18

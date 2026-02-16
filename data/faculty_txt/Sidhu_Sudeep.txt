@@ -29,3 +29,47 @@ Dr. Sidhu's research and extension work provide evidence-based, site-specific ma
 
 Keywords:
 precision agriculture; nutrient management; water management; agronomy; conservation tillage; cropping systems; best management practices; nitrogen; fertilizer; corn; cotton; peanuts; soybeans; Florida Panhandle; Suwannee Valley; water quality; nutrient leaching; site-specific management
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 6
+- Total Citations: 422
+- H-Index: 5
+- Average Citations per Paper: 70.3
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 27.73 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- An evaluation of carbon indicators of soil health in long-term agricultural experiments *Soil Biology and Biochemistry* (2022) - 194 citations
+  DOI: https://doi.org/10.1016/j.soilbio.2022.108708
+- Evaluation of aggregate stability methods for soil health *Geoderma* (2022) - 105 citations
+  DOI: https://doi.org/10.1016/j.geoderma.2022.116156
+- Selecting soil hydraulic properties as indicators of soil health: Measurement response to management and site characteristics *Soil Science Society of America Journal* (2022) - 57 citations
+  DOI: https://doi.org/10.1002/saj2.20428
+- Linking soil microbial community structure to potential carbon mineralization: A continental scale assessment of reduced tillage *Soil Biology and Biochemistry* (2022) - 35 citations
+  DOI: https://doi.org/10.1016/j.soilbio.2022.108618
+- An evaluation of nitrogen indicators for soil health in long‐term agricultural experiments *Soil Science Society of America Journal* (2023) - 31 citations
+  DOI: https://doi.org/10.1002/saj2.20558
+- Peanut Production Guide: Management and Cultural Practices for Peanuts: SS-AGR-501/AG497, 1/2026 *EDIS* (2026)
+  DOI: https://doi.org/10.32473/edis-ag497-2026
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 4106 Soil Sciences; 30 Agricultural, Veterinary and Food Sciences; 3002 Agriculture, Land and Farm Management; 3004 Crop and Pasture Production
+
+Key Research Concepts (from Dimensions.ai):
+soil organic carbon; soil health; soil health practices; inclusion of cover crops; retention of crop residues; inherent soil properties; water stable aggregates; aggregate stability; soil properties; stable aggregates
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Agriculture and Agri-Food Canada
+- Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias
+- Michigan State University
+- Washington State University
+- University of Nebraska–Lincoln
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.4/10
+Percentile: Top 33% of Water Institute faculty
+Rankings by Research Category:
+- Soil Sciences: #5 of 14
+- Agriculture, Land and Farm Management: #13 of 24
+- Crop and Pasture Production: #25 of 41

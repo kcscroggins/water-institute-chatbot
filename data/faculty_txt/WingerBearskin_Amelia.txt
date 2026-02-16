@@ -29,3 +29,29 @@ Winger-Bearskin's work informs technology governance and institutional decision-
 
 Keywords:
 Indigenous data sovereignty; AI ethics; artificial intelligence; immersive media; XR; digital art; data governance; technology ethics; decolonial frameworks; cultural preservation; consent; stewardship; Digital Worlds; practice-based research
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 1
+- Total Citations: 0
+- H-Index: 0
+- Average Citations per Paper: 0.0
+- Open Access Publications: 100.0%
+
+Recent Publications (from Dimensions.ai):
+- Covid Reflections: AR in Public Health Communications (2022)
+  DOI: https://doi.org/10.1145/3562939.3565666
+
+Research Categories (from Dimensions.ai):
+46 Information and Computing Sciences; 4608 Human-Centred Computing; 36 Creative Arts and Writing
+
+Key Research Concepts (from Dimensions.ai):
+public health communication; health communication; public audiences; augmented reality; physical body
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.0/10
+Percentile: Top 100% of Water Institute faculty
+Rankings by Research Category:
+- Human-Centred Computing: #1 of 1
+- Creative Arts and Writing: #3 of 3
+- Information and Computing Sciences: #20 of 20

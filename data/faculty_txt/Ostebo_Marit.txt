@@ -28,3 +28,45 @@ Dr. Østebø's research helps policymakers and practitioners understand why well
 
 Keywords:
 anthropology; medical anthropology; public health; gender; reproductive health; family planning; development; governance; NGOs; Ethiopia; East Africa; ethnography; policy analysis; health interventions; institutional design; global health
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 9
+- Total Citations: 113
+- H-Index: 6
+- Average Citations per Paper: 12.6
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 21.62 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Health and politics in pandemic times: COVID-19 responses in Ethiopia *Health Policy and Planning* (2021) - 15 citations
+  DOI: https://doi.org/10.1093/heapol/czab091
+- Religion and the ‘Secular shadow’: responses to covid-19 in Ethiopia *Religion* (2021) - 12 citations
+  DOI: https://doi.org/10.1080/0048721x.2021.1943769
+- God’s Wrath in the Era of the Digidemic: Religious Interpretations of Covid-19 in Ethiopia *Journal of the American Academy of Religion* (2021) - 11 citations
+  DOI: https://doi.org/10.1093/jaarel/lfab099
+- Mental Health, Homelessness, and Barriers to Care in Gainesville, FL *UF Journal of Undergraduate Research* (2025)
+  DOI: https://doi.org/10.32473/ufjur.27.139034
+- Navigating authoritarian politics: towards reflexive framing in healthcare research *Globalization and Health* (2025)
+  DOI: https://doi.org/10.1186/s12992-025-01115-6
+
+Research Categories (from Dimensions.ai):
+44 Human Society; 4407 Policy and Administration; 5005 Theology; 50 Philosophy and Religious Studies; 4408 Political Science
+
+Key Research Concepts (from Dimensions.ai):
+religious interpretations; God's punishment; political status; Regional State; sub-national level; government’s pandemic response; political development; houses of worship; official public health policy; divine agency
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Oslo Analytica, Bergslia 21, 0870 Oslo, Norway
+- Bjørknes University College, Lovisenberggata 13, 0456 Oslo, Norway
+- Bjørknes University College, Oslo, Norway
+- Oslo Nye Høyskole
+- Oregon State University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.2/10
+Percentile: Top 40% of Water Institute faculty
+Rankings by Research Category:
+- Political Science: #1 of 3
+- Philosophy and Religious Studies: #1 of 2
+- Theology: #1 of 2

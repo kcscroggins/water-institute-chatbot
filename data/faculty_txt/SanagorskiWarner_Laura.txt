@@ -28,3 +28,55 @@ Dr. Warner's research and extension work inform how conservation and sustainabil
 
 Keywords:
 agricultural education; extension; behavior change; social marketing; conservation; human dimensions; program evaluation; water conservation; sustainable landscapes; needs assessment; audience segmentation; natural resource management; stakeholder engagement; adoption
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 100
+- Total Citations: 577
+- H-Index: 14
+- Average Citations per Paper: 5.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.82 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Who conserves and who approves? Predicting water conservation intentions in urban landscapes with referent groups beyond the traditional ‘important others’ *Urban Forestry & Urban Greening* (2021) - 20 citations
+  DOI: https://doi.org/10.1016/j.ufug.2021.127070
+- Greening development: Reducing urban tree canopy loss through incentives *Urban Forestry & Urban Greening* (2024) - 15 citations
+  DOI: https://doi.org/10.1016/j.ufug.2023.128184
+- How can residents protect and promote pollinators? The diffusion of residential pollinator-friendly gardening *Journal of Environmental Management* (2023) - 14 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2023.118877
+- Factors correlated with the propensity to use automation and mechanization by the US nursery industry *Agribusiness* (2022) - 14 citations
+  DOI: https://doi.org/10.1002/agr.21763
+- Comparison of different modern irrigation system adopters through socio-economic, innovation characteristics and social capital values *Regional Environmental Change* (2023) - 11 citations
+  DOI: https://doi.org/10.1007/s10113-023-02147-7
+- Using a diffusion of innovation lens to understand homeowner support for septic system to sewer system conversions *Journal of Environmental Management* (2022) - 10 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2022.115651
+- Evaluating connections between personal well-being and adoption of landscape best management practices: An audience segmentation study *Journal of Environmental Management* (2021) - 9 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2021.113959
+- Residents’ contribution to Asian citrus psyllid and citrus greening management in Florida residential habitats *Journal of Integrated Pest Management* (2024) - 8 citations
+  DOI: https://doi.org/10.1093/jipm/pmae012
+- Exploring Floridians' perceptions of pollinator-friendly gardening to identify critical adoption barriers and strategies *Urban Forestry & Urban Greening* (2023) - 8 citations
+  DOI: https://doi.org/10.1016/j.ufug.2023.127867
+- Selecting High-Impact Landscape Irrigation Conservation Behaviors: Formative Research to Inform Behavior-Change Efforts *Social Marketing Quarterly* (2022) - 7 citations
+  DOI: https://doi.org/10.1177/15245004211071057
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 35 Commerce, Management, Tourism and Services; 38 Economics; 44 Human Society; 4104 Environmental Management
+
+Key Research Concepts (from Dimensions.ai):
+water conservation; water conservation behavior; pollinator-friendly gardens; homeowner associations; management practices; likelihood of adoption; irrigation restrictions; landscape; water conservation intention; conservation intentions
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Tennessee Knoxville
+- Agricultural Sciences and Natural Resources University of Khuzestan
+- International Institute for Applied Systems Analysis
+- University of Georgia
+- Institute of Food and Agricultural Sciences
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.1/10
+Percentile: Top 46% of Water Institute faculty
+Rankings by Research Category:
+- Commerce, Management, Tourism and Services: #5 of 13
+- Economics: #6 of 24
+- Human Society: #8 of 27

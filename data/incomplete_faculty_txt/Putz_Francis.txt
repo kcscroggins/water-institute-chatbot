@@ -1,0 +1,78 @@
+Name: Francis Putz
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: fep@ufl.edu
+Website: http://people.clas.ufl.edu/fep/
+Google Scholar: 
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 166
+- Total Citations: 12812
+- H-Index: 54
+- Average Citations per Paper: 77.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.29 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Sustainability of Brazilian forest concessions *Forest Ecology and Management* (2021) - 52 citations
+  DOI: https://doi.org/10.1016/j.foreco.2021.119440
+- Sustained timber yield claims, considerations, and tradeoffs for selectively logged forests *PNAS Nexus* (2022) - 27 citations
+  DOI: https://doi.org/10.1093/pnasnexus/pgac102
+- Underground carbohydrate stores and storage organs in fire‐maintained longleaf pine savannas in Florida, USA *American Journal of Botany* (2021) - 25 citations
+  DOI: https://doi.org/10.1002/ajb2.1620
+- Thinning temporarily stimulates tree regeneration in a restored tropical forest *Ecological Engineering* (2021) - 20 citations
+  DOI: https://doi.org/10.1016/j.ecoleng.2021.106390
+- Liana cutting in selectively logged forests increases both carbon sequestration and timber yields *Forest Ecology and Management* (2023) - 15 citations
+  DOI: https://doi.org/10.1016/j.foreco.2023.121038
+- The community capacity curve applied to reforestation: a framework to support success *Philosophical Transactions of the Royal Society B Biological Sciences* (2022) - 14 citations
+  DOI: https://doi.org/10.1098/rstb.2021.0079
+- Climbing plants beat trees to soil nutrient patches *Current Biology* (2023) - 11 citations
+  DOI: https://doi.org/10.1016/j.cub.2023.04.035
+- Lianas associated with continued forest biomass losses following large‐scale disturbances *Biotropica* (2024) - 9 citations
+  DOI: https://doi.org/10.1111/btp.13348
+- Selective logging of a subtropical forest: Long-term impacts on stand structure, timber volumes, and biomass stocks *Forest Ecology and Management* (2022) - 9 citations
+  DOI: https://doi.org/10.1016/j.foreco.2022.120290
+- Pith width, leaf size, and twig thickness *American Journal of Botany* (2021) - 9 citations
+  DOI: https://doi.org/10.1002/ajb2.1800
+
+Research Grants (from Dimensions.ai):
+- DISSERTATION RESEARCH: The Nature of the Savannas that Replace Dry Forests in Chiquitania, Bolivia (2007-2009) - $11,880
+  Funder: Directorate for Biological Sciences
+- IGERT: Working Forest in the Tropics (2002-2011) - $3,315,547
+  Funder: Directorate for STEM Education
+- Forest Dynamics in the Neotropics (1995-1996)
+  Funder: Council for International Exchange of Scholars
+- Dissertation Research: Root Characteristics in Relation to Nutrient Availability (1995-1996) - $6,760
+  Funder: Directorate for Biological Sciences
+- Liana Root Systems, Root Foraging Efficiency, and Competitive Interactions with Trees (1991-1993) - $20,000
+  Funder: Directorate for Biological Sciences
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 31 Biological Sciences; 4102 Ecological Applications; 3103 Ecology; 30 Agricultural, Veterinary and Food Sciences
+
+Key Research Concepts (from Dimensions.ai):
+timber yield; carbon market; annual production; logging intensity; timber production; timber demand; cutting cycle length; sustained timber yield; application of silvicultural treatments; silvicultural treatments
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of the Sunshine Coast
+- Instituto Chico Mendes de Conservação da Biodiversidade
+- State University of Campinas
+- University of Edinburgh
+- Ashoka Trust for Research in Ecology and the Environment

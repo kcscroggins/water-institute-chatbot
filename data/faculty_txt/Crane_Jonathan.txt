@@ -35,3 +35,59 @@ Water & Policy Relevance:
 
 Keywords:
 Tropical fruit; horticulture; mango; avocado; lychee; longan; calcareous soils; limestone soils; nutrient management; fertilization; irrigation; water management; nutrient leaching; South Florida; TREC; Homestead; BMPs; Extension; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 221
+- Total Citations: 1365
+- H-Index: 20
+- Average Citations per Paper: 6.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 4.27 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Pathway-Based Metabolomics Analysis Reveals Biosynthesis of Key Flavor Compounds in Mango *Journal of Agricultural and Food Chemistry* (2021) - 23 citations
+  DOI: https://doi.org/10.1021/acs.jafc.1c06008
+- Integration of Volatilomics and Metabolomics Unveils Key Flavor-Related Biological Pathways in Different Carambola Cultivars *Journal of Agricultural and Food Chemistry* (2023) - 22 citations
+  DOI: https://doi.org/10.1021/acs.jafc.3c02015
+- Influence of Canopy Cover and Meteorological Factors on the Abundance of Bark and Ambrosia Beetles (Coleoptera: Curculionidae) in Avocado Orchards Affected by Laurel Wilt *Agronomy* (2022) - 17 citations
+  DOI: https://doi.org/10.3390/agronomy12030547
+- Saltwater Intrusion and Flooding: Risks to South Florida’s Agriculture and Potential Management Practices: AE572/AE572, 5/2022 *EDIS* (2022) - 13 citations
+  DOI: https://doi.org/10.32473/edis-ae572-2022
+- Spectral light distribution affects photosynthesis, leaf reflective indices, antioxidant activity and growth of Vanilla planifolia *Plant Physiology and Biochemistry* (2022) - 11 citations
+  DOI: https://doi.org/10.1016/j.plaphy.2022.04.020
+- Evaluation of Abamectin as a Potential Chemical Control for the Lychee Erinose Mite (Acari: Eriophyidae), a New Invasive Pest in Florida *Florida Entomologist* (2022) - 10 citations
+  DOI: https://doi.org/10.1653/024.105.0101
+- Mango seedling genotyping reveals potential self-incompatibility and pollinator behavior *Scientia Horticulturae* (2023) - 8 citations
+  DOI: https://doi.org/10.1016/j.scienta.2022.111599
+- Attraction and Longevity of 2- and 3-Component Food Cone Lures for the Caribbean Fruit Fly, Anastrepha suspensa (Diptera: Tephritidae) *Journal of Economic Entomology* (2022) - 8 citations
+  DOI: https://doi.org/10.1093/jee/toac102
+- Evaluation of 21 papaya (Carica papaya L.) accessions in southern Florida for fruit quality, aroma, plant height, and yield components *Scientia Horticulturae* (2021) - 7 citations
+  DOI: https://doi.org/10.1016/j.scienta.2021.110387
+- In vitro sensitivity and field effectiveness of synthetic and plant-based fungicides against dragon fruit canker caused by Neoscytalidium dimidiatum *Crop Protection* (2025) - 6 citations
+  DOI: https://doi.org/10.1016/j.cropro.2025.107111
+
+Research Grants (from Dimensions.ai):
+- DEVELOPMENT OF MANAGEMENT STRATEGIES FOR INTEGRATED CONTROL OF SRI LANKA WEEVIL IN TROPICAL FRUITS AND ORNAMENTAL PLANTS (2013-2018) - $101,375
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 31 Biological Sciences; 3008 Horticultural Production; 3108 Plant Biology; 3004 Crop and Pasture Production
+
+Key Research Concepts (from Dimensions.ai):
+fruit quality; mango cultivars; reactive oxygen species; G. humilis; leaf chlorophyll index; flavor compounds; sensory quality; core metabolic pathways; non-volatile metabolites; LC-MS-based metabolomics
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Agricultural Research Service - Southeast Area
+- Federal University of Roraima
+- Andong National University
+- Brazilian Agricultural Research Corporation
+- University of New Hampshire
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.5/10
+Percentile: Top 29% of Water Institute faculty
+Rankings by Research Category:
+- Horticultural Production: #5 of 13
+- Plant Biology: #7 of 18
+- Crop and Pasture Production: #23 of 41

@@ -20,3 +20,68 @@ Current Research:
 
 Keywords:
 Nutrient biogeochemistry; nitrogen and phosphorus cycling; stable isotope analysis; microbial ecology; wetland and coastal ecosystem assessment; harmful algal blooms; environmental sensing technology.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 23
+- Total Citations: 422
+- H-Index: 11
+- Average Citations per Paper: 18.3
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 4.37 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- What global biogeochemical consequences will marine animal–sediment interactions have during climate change? *Elementa: Science of the Anthropocene* (2021) - 44 citations
+  DOI: https://doi.org/10.1525/elementa.2020.00180
+- Initial estuarine response to inorganic nutrient inputs from a legacy mining facility adjacent to Tampa Bay, Florida *Marine Pollution Bulletin* (2022) - 33 citations
+  DOI: https://doi.org/10.1016/j.marpolbul.2022.113598
+- Molecular testing devices for on-site detection of E. coli in water samples *Scientific Reports* (2023) - 21 citations
+  DOI: https://doi.org/10.1038/s41598-023-31208-4
+- Increased levels of perfluorooctanesulfonic acid (PFOS) during Hurricane Dorian on the east coast of Florida *Environmental Research* (2022) - 19 citations
+  DOI: https://doi.org/10.1016/j.envres.2021.112635
+- A critical eutrophication–climate change link *Nature Sustainability* (2025) - 14 citations
+  DOI: https://doi.org/10.1038/s41893-024-01507-3
+- The response of Tampa Bay to a legacy mining nutrient release in the year following the event *Frontiers in Ecology and Evolution* (2023) - 8 citations
+  DOI: https://doi.org/10.3389/fevo.2023.1144778
+- Controls on the composition of dissolved organic matter in treatment wetland source waters of South Florida, USA *Ecological Engineering* (2023) - 7 citations
+  DOI: https://doi.org/10.1016/j.ecoleng.2023.107047
+- Fate of a toxic Microcystis aeruginosa bloom introduced into a subtropical estuary from a flow-managed canal and management implications *Journal of Environmental Management* (2025) - 5 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2025.124362
+- Influence of the Keystone Grazer, Sesarma reticulatum, on the Hydrology and Organic Matter Cycling in Salt Marshes of the Southeastern USA *Estuaries and Coasts* (2024) - 5 citations
+  DOI: https://doi.org/10.1007/s12237-024-01336-9
+- The Role of a Faunal Engineer, Geukensia demissa, in Modifying Carbon and Nitrogen Regulation Services in Salt Marshes *Journal of Geophysical Research Biogeosciences* (2023) - 5 citations
+  DOI: https://doi.org/10.1029/2023jg007535
+
+Research Grants (from Dimensions.ai):
+- RAPID: Impact of Back-to-Back Major Hurricanes on Antibiotic Resistance Gene Transfer to Autochthonous Bacteria in Estuarine and Coastal Water Systems (2025-2026) - $98,944
+  Funder: Directorate for Engineering
+- ReDDDoT Phase 1: Planning Grant: Treatment Technologies for Phosphorus Mitigation (2024-2026) - $300,000
+  Funder: Directorate for Technology, Innovation and Partnerships
+- MRI: Development of a Shared-Use Experimental Platform to Study Wind, Hydrodynamic, and Biochemical Conditions in the Littoral Zone During Extreme Coastal Storms (2022-2026) - $981,742
+  Funder: Directorate for Engineering
+- RAPID: Tracking the impact of engineered system failures on nearshore nutrient loads and harmful algal blooms using multiple stable isotopes (2021-2024) - $181,121
+  Funder: Directorate for Engineering
+
+Patents (from Dimensions.ai):
+- PORTABLE DEVICES AND METHODS FOR IN SITU NUCLEIC ACID DETECTION IN WATER SAMPLES (2023)
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 37 Earth Sciences; 31 Biological Sciences; 4101 Climate Change Impacts and Adaptation; 3103 Ecology
+
+Key Research Concepts (from Dimensions.ai):
+organic matter; Tampa Bay; water control structures; climate change; global ocean biogeochemical model; potential effects of climate change; global ocean model; ocean biogeochemical models; metric tons; nitrogen loading
+
+Top Collaborating Institutions (from Dimensions.ai):
+- North Carolina State University
+- Tampa Bay Estuary Program
+- South Florida Water Management District
+- Science and Technologies for Phosphorus Sustainability Center, North Carolina State University, Raleigh, NC 27695, USA;, avdevine@ncsu.edu, (A.V.D.);, maude_cuchiara@ncsu.edu, (M.C.);, nnelson4@ncsu.edu, (N.G.N.);, ross_sozzani@ncsu.edu, (R.S.)
+- University of South Florida St. Petersburg
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.0/10
+Percentile: Top 49% of Water Institute faculty
+Rankings by Research Category:
+- Climate Change Impacts and Adaptation: #10 of 16
+- Ecology: #35 of 59
+- Earth Sciences: #44 of 70

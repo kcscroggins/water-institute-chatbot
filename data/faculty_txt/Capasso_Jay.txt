@@ -41,3 +41,51 @@ Policy & Regional Relevance:
 
 Keywords:
 Water resources; irrigation efficiency; nutrient management; soil health; soil moisture; Suwannee Valley; Northeast Florida; sod-based rotation; nitrate leaching; BMPs; water quality; MFL; Santa Fe River; Extension; NFREC; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 14
+- Total Citations: 126
+- H-Index: 4
+- Average Citations per Paper: 9.0
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.09 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Interaction of soil health indicators to different regenerative farming practices on mineral soils *Agrosystems Geosciences & Environment* (2022) - 15 citations
+  DOI: https://doi.org/10.1002/agg2.20243
+- On farm soil health assessment across seven sub‐tropical cover crop management systems *Agrosystems Geosciences & Environment* (2024) - 2 citations
+  DOI: https://doi.org/10.1002/agg2.70022
+- Soil Health Response of Histosols to Flooded versus Dry-Fallow Conditions during Summer: SL484/SS697, 1/2021 *EDIS* (2021) - 2 citations
+  DOI: https://doi.org/10.32473/edis-ss697-2021
+- Exploring Opportunities for Malting Barley Production in Florida: HS1420, 9/2021 *EDIS* (2021) - 1 citations
+  DOI: https://doi.org/10.32473/edis-hs1420-2021
+- Peanut Production Guide: Management and Cultural Practices for Peanuts: SS-AGR-501/AG497, 1/2026 *EDIS* (2026)
+  DOI: https://doi.org/10.32473/edis-ag497-2026
+- Glossary of Site-Specific Nutrient Management Terms: SS-AGR-490/AG488, 4/2025 *EDIS* (2025)
+  DOI: https://doi.org/10.32473/edis-ag488-2025
+- The Use of Polymer-Coated Urea in North Florida Field Corn Production *Proceedings of the Florida State Horticultural Society* (2025)
+  DOI: https://doi.org/10.32473/fshs.136.1.138677
+- Disaster Assistance for Agriculture in Florida following Hurricane Idalia: FE1147, 6/2024 *EDIS* (2024)
+  DOI: https://doi.org/10.32473/edis-fe1147-2024
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3002 Agriculture, Land and Farm Management; 41 Environmental Sciences; 4106 Soil Sciences; 3004 Crop and Pasture Production
+
+Key Research Concepts (from Dimensions.ai):
+cation exchange capacity; soil health indicators; Department of Agronomy; maximum water holding capacity; Total Kjeldahl Nitrogen; combination of organic amendments; cover crops; soil protein; organic soils; Natural Resources Conservation Service
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Institute of Food and Agricultural Sciences
+- Purdue University West Lafayette
+- The Ohio State University
+- Agronomy Department
+- FAS, Agricultural and Biological Engineering Department, Gainesville, FL
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.3/10
+Percentile: Top 82% of Water Institute faculty
+Rankings by Research Category:
+- Soil Sciences: #13 of 14
+- Agriculture, Land and Farm Management: #23 of 24
+- Crop and Pasture Production: #40 of 41

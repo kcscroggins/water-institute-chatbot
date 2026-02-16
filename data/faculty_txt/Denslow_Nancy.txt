@@ -31,3 +31,67 @@ Water & Policy Relevance:
 
 Keywords:
 Toxicology; toxicogenomics; endocrine disruption; biomarkers; aquatic toxicology; fish health; contaminants; EDCs; gene expression; vitellogenin; molecular biomonitoring; water quality; risk assessment; environmental health; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 280
+- Total Citations: 10465
+- H-Index: 55
+- Average Citations per Paper: 37.4
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 9.49 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Systematic assessment of long-read RNA-seq methods for transcript identification and quantification *Nature Methods* (2024) - 181 citations
+  DOI: https://doi.org/10.1038/s41592-024-02298-3
+- Kidney tubular epithelial cell ferroptosis links glomerular injury to tubulointerstitial pathology in lupus nephritis *Clinical Immunology* (2022) - 75 citations
+  DOI: https://doi.org/10.1016/j.clim.2022.109213
+- Towards regulation of Endocrine Disrupting chemicals (EDCs) in water resources using bioassays – A guide to developing a testing strategy *Environmental Research* (2021) - 52 citations
+  DOI: https://doi.org/10.1016/j.envres.2021.112483
+- Systematic assessment of long-read RNA-seq methods for transcript identification and quantification *Research Square* (2021) - 39 citations
+  DOI: https://doi.org/10.21203/rs.3.rs-777702/v1
+- Systematic assessment of long-read RNA-seq methods for transcript identification and quantification *bioRxiv* (2023) - 37 citations
+  DOI: https://doi.org/10.1101/2023.07.25.550582
+- Estrogenicity of chemical mixtures revealed by a panel of bioassays *The Science of The Total Environment* (2021) - 30 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2021.147284
+- Untargeted lipidomics reveals the toxicity of bisphenol A bis(3-chloro-2- hydroxypropyl) ether and bisphenols A and F in zebrafish liver cells *Ecotoxicology and Environmental Safety* (2021) - 28 citations
+  DOI: https://doi.org/10.1016/j.ecoenv.2021.112311
+- Chronic exposure to glyphosate in Florida manatee *Environment International* (2021) - 25 citations
+  DOI: https://doi.org/10.1016/j.envint.2021.106493
+- Endocrine, immune and renal toxicity in male largemouth bass after chronic exposure to glyphosate and Rodeo® *Aquatic Toxicology* (2022) - 23 citations
+  DOI: https://doi.org/10.1016/j.aquatox.2022.106142
+- Increased levels of perfluorooctanesulfonic acid (PFOS) during Hurricane Dorian on the east coast of Florida *Environmental Research* (2022) - 19 citations
+  DOI: https://doi.org/10.1016/j.envres.2021.112635
+
+Research Grants (from Dimensions.ai):
+- AB SCIEX QTRAP 7500 LC MS/MS (2025-2026) - $595,180
+  Funder: Office of the Director
+- Lipidomic Analysis as a New Tool for Environmental Toxicology Studies in Caiman Species (2023-2024)
+  Funder: Council for International Exchange of Scholars
+- Characterization of Exosomes as a Source of Biomarkers from Blood of Non-Mammalian Vertebrates (2023-2023)
+  Funder: Council for International Exchange of Scholars
+- Designing Nanoparticle-based Dispersants with Improved Efficiency and Biocompatibility (2018-present)
+  Funder: Gulf of Mexico Research Initiative
+- Ecotoxigenomics Applied to Study Environmental Stress on Wild Species with Regional Importance (2017-2017)
+  Funder: Council for International Exchange of Scholars
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 41 Environmental Sciences; 4105 Pollution and Contamination; 3105 Genetics; 32 Biomedical and Clinical Sciences
+
+Key Research Concepts (from Dimensions.ai):
+transcriptome analysis; long-read approaches; well-annotated genome; long-read sequencing; RNA-seq method; water samples; in vitro bioassays; Genome Annotation Assessment Project; bisphenol A; diabetic db/db mice
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of California, Santa Cruz
+- European Bioinformatics Institute
+- University of California, Irvine
+- Institute for Integrative Systems Biology
+- Genome Institute of Singapore
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 4.8/10
+Percentile: Top 1% of Water Institute faculty
+Rankings by Research Category:
+- Pollution and Contamination: #1 of 13
+- Biomedical and Clinical Sciences: #1 of 30
+- Genetics: #1 of 8

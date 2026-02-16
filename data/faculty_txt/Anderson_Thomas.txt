@@ -23,3 +23,45 @@ Notable Publications:
 
 Keywords:
 Aquaculture sustainability; marine resource economics; fisheries policy; disease management; conservation finance; seafood production; antibiotic policy.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 5
+- Total Citations: 179
+- H-Index: 5
+- Average Citations per Paper: 35.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 40.25 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Environmental, economic, and social sustainability in aquaculture: the aquaculture performance indicators *Nature Communications* (2024) - 142 citations
+  DOI: https://doi.org/10.1038/s41467-024-49556-8
+- Aquaculture in the United States: An analysis of seven aquaculture sectors from the aquaculture performance indicators perspective *Aquaculture Economics & Management* (2025) - 12 citations
+  DOI: https://doi.org/10.1080/13657305.2025.2455411
+- Author Correction: Environmental, economic, and social sustainability in aquaculture: the aquaculture performance indicators *Nature Communications* (2024) - 12 citations
+  DOI: https://doi.org/10.1038/s41467-024-50360-7
+- SNAPSHOT USA 2019–2023: The First Five Years of Data From a Coordinated Camera Trap Survey of the United States *Global Ecology and Biogeography* (2025) - 7 citations
+  DOI: https://doi.org/10.1111/geb.13941
+- Finer economic margins for farmed salmon *Aquaculture* (2025) - 6 citations
+  DOI: https://doi.org/10.1016/j.aquaculture.2025.742803
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 4104 Environmental Management; 30 Agricultural, Veterinary and Food Sciences; 3005 Fisheries Sciences; 38 Economics
+
+Key Research Concepts (from Dimensions.ai):
+aquaculture; aquaculture systems; environmental outcomes; degree of sustainability; environmental impact; aquaculture sector; regulatory framework; aquaculture development; aquaculture-producing countries; United States
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Stavanger
+- Kansas State University
+- Texas State University
+- Conservation Biology Institute
+- North Carolina State University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.9/10
+Percentile: Top 21% of Water Institute faculty
+Rankings by Research Category:
+- Economics: #4 of 24
+- Fisheries Sciences: #4 of 12
+- Environmental Management: #10 of 46

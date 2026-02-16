@@ -22,3 +22,55 @@ Notable Projects:
 
 Keywords:
 Hazard vulnerability and resilience; risk perception and communication; GIS and geospatial analysis; climate hazards; evacuation behavior; disaster loss data; Red Tide.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 18
+- Total Citations: 397
+- H-Index: 10
+- Average Citations per Paper: 22.1
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 5.44 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Does tourism matter in measuring community resilience? *Annals of Tourism Research* (2021) - 69 citations
+  DOI: https://doi.org/10.1016/j.annals.2021.103222
+- Tourism and economic resilience *Annals of Tourism Research* (2021) - 43 citations
+  DOI: https://doi.org/10.1016/j.annals.2020.103024
+- Modes of climate mobility under sea-level rise *Environmental Research Letters* (2023) - 20 citations
+  DOI: https://doi.org/10.1088/1748-9326/acfe22
+- Rethinking Warning Compliance and Complacency by Examining How People Manage Risk and Vulnerability during Real-World Tornado Threats *Bulletin of the American Meteorological Society* (2022) - 15 citations
+  DOI: https://doi.org/10.1175/bams-d-21-0072.1
+- A Social Vulnerability Index for Air Pollution and Its Spatially Varying Relationship to PM2.5 in Uganda *Atmosphere* (2022) - 10 citations
+  DOI: https://doi.org/10.3390/atmos13081169
+- The Impact of Probabilistic Tornado Warnings on Risk Perceptions and Responses *Journal of Experimental Psychology Applied* (2024) - 9 citations
+  DOI: https://doi.org/10.1037/xap0000486
+- Connecting physical and social science datasets: challenges and pathways forward *Environmental Research Communications* (2023) - 8 citations
+  DOI: https://doi.org/10.1088/2515-7620/acf6b4
+- Socio-hydrology and vulnerability of levee systems along the lower Illinois River *Annals of GIS* (2023) - 4 citations
+  DOI: https://doi.org/10.1080/19475683.2023.2166113
+- Damages Associated with Excessive Rainfall Outlooks (ERO) and Missed Flash Floods *Weather and Forecasting* (2023) - 3 citations
+  DOI: https://doi.org/10.1175/waf-d-22-0035.1
+- Construal of Situational Risk and Outcomes—Exploring the Use of Weather Radar Displays with Residents of the Tampa Bay Region *Weather Climate and Society* (2023) - 2 citations
+  DOI: https://doi.org/10.1175/wcas-d-22-0069.1
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3701 Atmospheric Sciences; 44 Human Society; 4406 Human Geography; 3508 Tourism
+
+Key Research Concepts (from Dimensions.ai):
+sea level rise; tornado warnings; National Weather Service; significance of tourism; associated with community resilience; tourism dimensions; tourism industry; tourism matters; impacts of sea level rise; flood hazard
+
+Top Collaborating Institutions (from Dimensions.ai):
+- National Center for Atmospheric Research
+- University of Washington
+- University of California, Irvine
+- Community Spatial Lab, Gainesville, FL, USA
+- University of Miami
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.9/10
+Percentile: Top 54% of Water Institute faculty
+Rankings by Research Category:
+- Tourism: #3 of 3
+- Human Geography: #3 of 6
+- Atmospheric Sciences: #9 of 17

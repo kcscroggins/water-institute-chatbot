@@ -24,3 +24,59 @@ Notable Achievements:
 
 Keywords:
 Photonics integrated circuits; AI accelerators; quantum sensors; Mid-IR photonics; semiconductor lasers; phase-change materials; high-speed computing.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 78
+- Total Citations: 437
+- H-Index: 11
+- Average Citations per Paper: 5.6
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 8.04 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Electrical programmable multilevel nonvolatile photonic random-access memory *Light: Science & Applications* (2023) - 75 citations
+  DOI: https://doi.org/10.1038/s41377-023-01213-3
+- Self-Powered Sb2Te3/MoS2 Heterojunction Broadband Photodetector on Flexible Substrate from Visible to Near Infrared *Nanomaterials* (2023) - 32 citations
+  DOI: https://doi.org/10.3390/nano13131973
+- Multiplexed orbital angular momentum beams demultiplexing using hybrid optical-electronic convolutional neural network *Communications Physics* (2024) - 22 citations
+  DOI: https://doi.org/10.1038/s42005-024-01571-3
+- Comprehensive Study and Design of Graphene Transistor *Micromachines* (2024) - 20 citations
+  DOI: https://doi.org/10.3390/mi15030406
+- Enhancing Focusing and Defocusing Capabilities with a Dynamically Reconfigurable Metalens Utilizing Sb2Se3 Phase-Change Material *Nanomaterials* (2023) - 20 citations
+  DOI: https://doi.org/10.3390/nano13142106
+- Enhancing counterfeit detection of integrated circuits through machine learning-assisted THz-TDS analysis *Proceedings of SPIE--the International Society for Optical Engineering* (2024) - 17 citations
+  DOI: https://doi.org/10.1117/12.3003766
+- Reconfigurable application‐specific photonic integrated circuit for solving partial differential equations *Nanophotonics* (2024) - 15 citations
+  DOI: https://doi.org/10.1515/nanoph-2023-0732
+- A strain modulated and self-powered broadband photodetector based on MoS2/Sb2Te3 heterojunction *Proceedings of SPIE--the International Society for Optical Engineering* (2023) - 14 citations
+  DOI: https://doi.org/10.1117/12.2682115
+- Low-latency full precision optical convolutional neural network accelerator *Proceedings of SPIE--the International Society for Optical Engineering* (2024) - 12 citations
+  DOI: https://doi.org/10.1117/12.3003314
+- Optical memory in IoT devices: an energy-efficient approach using phase change materials *Proceedings of SPIE--the International Society for Optical Engineering* (2024) - 12 citations
+  DOI: https://doi.org/10.1117/12.3003184
+
+Patents (from Dimensions.ai):
+- SYSTEMS AND METHODS FOR IDENTIFYING INTEGRATED CIRCUIT HARDWARE BASED ON SCAN-BASED FEATURE IDENTIFIERS (2025)
+- X-RAY COMPATIBILITY METRIC FOR DESIGN-FOR-INSPECTION OF INTEGRATED CIRCUIT PACKAGES (2024)
+
+Research Categories (from Dimensions.ai):
+40 Engineering; 51 Physical Sciences; 4009 Electronics, Sensors and Digital Hardware; 5102 Atomic, Molecular and Optical Physics; 4006 Communications Engineering
+
+Key Research Concepts (from Dimensions.ai):
+convolutional neural network; neural network; phase change material; THz-TDS; photonic integrated circuits; orbital angular momentum; optical convolutional neural network; silicon-on-insulator platform; random access memory; photonic memory
+
+Top Collaborating Institutions (from Dimensions.ai):
+- George Washington University
+- King Abdulaziz University
+- Department of Electrical and Computer Engineering, The George Washington University, 800 22nd Street, Washington, DC 20052, USA;, chaobo17@email.gwu.edu, (C.D.);, ygui82@gwu.edu, (Y.G.);, thomaschewski@gwu.edu, (M.T.);
+- Massachusetts Institute of Technology
+- Optelligence LLC, 10703 Marlboro Pike, Upper Marlboro, MD 20772, USA;, hwang40@gwu.edu, (H.W.);
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.0/10
+Percentile: Top 49% of Water Institute faculty
+Rankings by Research Category:
+- Electronics, Sensors and Digital Hardware: #1 of 2
+- Atomic, Molecular and Optical Physics: #1 of 1
+- Communications Engineering: #1 of 1

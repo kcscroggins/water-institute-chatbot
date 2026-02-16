@@ -21,3 +21,55 @@ McIntyre supports implementation of science-based environmental and land steward
 
 Keywords:
 Extension; outreach; community education; environmental programming; stakeholder engagement; land stewardship; sustainability; knowledge transfer; practice adoption; implementation; UF/IFAS; best management practices; water quality
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 14
+- Total Citations: 11
+- H-Index: 2
+- Average Citations per Paper: 0.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 0.99 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Efficient Irrigation for Florida-Friendly Edible Landscapes: ENH1353/EP617, 2/2022 *EDIS* (2022) - 2 citations
+  DOI: https://doi.org/10.32473/edis-ep617-2022
+- Rethinking Wildlife in Your Florida-Friendly Edible Landscape: EP630/ENH1366, 1/2023 *EDIS* (2023) - 1 citations
+  DOI: https://doi.org/10.32473/edis-ep630-2023
+- Soil Health and Fertility of Florida-Friendly Edible Landscapes: EP624/ENH1360, 8/2022 *EDIS* (2022) - 1 citations
+  DOI: https://doi.org/10.32473/edis-ep624-2022
+- Pruning, Harvesting and Maintenance of Florida-Friendly Edible Landscapes: EP622/ENH1358, 8/2022 *EDIS* (2022) - 1 citations
+  DOI: https://doi.org/10.32473/edis-ep622-2022
+- Spatial Considerations Needed when Balancing Land Conservation and Development: FOR380/FR451, 3/2022 *EDIS* (2022) - 1 citations
+  DOI: https://doi.org/10.32473/edis-fr451-2022
+- Quantifying Water Quality and Economic Impacts of Fertilizer Workshops: A Case Study: SL492/SS705, 12/2021 *EDIS* (2021) - 1 citations
+  DOI: https://doi.org/10.32473/edis-ss705-2021
+- What is Florida-Friendly Landscaping™? EP607/ENH1343, 7/2021 *EDIS* (2021) - 1 citations
+  DOI: https://doi.org/10.32473/edis-ep607-2021
+- Increasing Irrigation Restriction Compliance With Water Conservation Messages of Varying Complexity *AWWA Water Science* (2025)
+  DOI: https://doi.org/10.1002/aws2.70030
+- Plant This Not That: A Tool for Improving Invasive Species Identification and Expanding the Use of Sustainable Alternatives in Florida, USA, Landscaping *HortTechnology* (2023)
+  DOI: https://doi.org/10.21273/horttech05277-23
+- A Florida-Friendly Landscaping™ Approach to Pest Management in Your Edible Landscape: EP629/ENH1365, 1/2023 *EDIS* (2023)
+  DOI: https://doi.org/10.32473/edis-ep629-2023
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 4102 Ecological Applications; 30 Agricultural, Veterinary and Food Sciences; 31 Biological Sciences; 33 Built Environment and Design
+
+Key Research Concepts (from Dimensions.ai):
+edible landscape; Horticulture Department; landscape; pest management strategies; cropping systems; irrigation system; efficient irrigation; conserving water; edible crops; wildlife
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Florida Department of Environmental Protection
+- Florida Nursery, Growers & Lanscape Association
+- Institute of Food and Agricultural Sciences
+- Alachua County, Fla
+- St. Johns River Water Management District
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.2/10
+Percentile: Top 89% of Water Institute faculty
+Rankings by Research Category:
+- Built Environment and Design: #10 of 12
+- Ecological Applications: #29 of 32
+- Agricultural, Veterinary and Food Sciences: #96 of 99

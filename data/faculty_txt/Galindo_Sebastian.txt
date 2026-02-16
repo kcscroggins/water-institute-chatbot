@@ -26,3 +26,55 @@ Water & Policy Relevance:
 
 Keywords:
 Agricultural communication; environmental communication; risk communication; science messaging; trust; stakeholder engagement; behavior change; BMP adoption; public understanding of science; Extension communication; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 27
+- Total Citations: 94
+- H-Index: 5
+- Average Citations per Paper: 3.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.51 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Revisiting barriers to implementation of bioinformatics into life sciences education *Frontiers in Education* (2023) - 6 citations
+  DOI: https://doi.org/10.3389/feduc.2023.1317191
+- An Overview of Agricultural Injuries in Florida from 2015-2019 *Journal of Agricultural Safety and Health* (2021) - 5 citations
+  DOI: https://doi.org/10.13031/jash.14533
+- Challenges With Using Transformative Mixed Methods Research Among Vulnerable Populations: Reflections From a Study Among US-resettled Refugees *Journal of Mixed Methods Research* (2023) - 4 citations
+  DOI: https://doi.org/10.1177/15586898231174578
+- Work-Life Balance during the COVID-19 Pandemic: Insights from Extension Professionals *Journal of Human Sciences and Extension* (2023) - 3 citations
+  DOI: https://doi.org/10.55533/2325-5226.1391
+- Pandemic Produce: Impacts of COVID-19 on Florida’s Fruit and Vegetable Industries *Journal of Agricultural & Food Industrial Organization* (2023) - 3 citations
+  DOI: https://doi.org/10.1515/jafio-2022-0025
+- Resisting coloniality in agriculture: A decolonial analysis of Florida’s agricultural migrant workers’ experiences *Agriculture and Human Values* (2024) - 2 citations
+  DOI: https://doi.org/10.1007/s10460-024-10578-z
+- Exploring the strengths, weaknesses, opportunities, and threats of female extension agents in Guatemala’s western highlands *Advancements in Agricultural Development* (2025) - 1 citations
+  DOI: https://doi.org/10.37433/aad.v6i2.589
+- Enhancing effectiveness of Extension program evaluations by validating the trustworthiness of self-reported measures of Extension program outcomes *Advancements in Agricultural Development* (2024) - 1 citations
+  DOI: https://doi.org/10.37433/aad.v5i4.519
+- A snapshot of nutrition incentive adaptation during COVID-19: Consensus-building with practitioners *Journal of Agriculture Food Systems and Community Development* (2023) - 1 citations
+  DOI: https://doi.org/10.5304/jafscd.2023.123.013
+- From parametric to non-parametric statistics in education and agricultural education research *The Journal of Agricultural Education and Extension* (2021) - 1 citations
+  DOI: https://doi.org/10.1080/1389224x.2021.1936089
+
+Research Categories (from Dimensions.ai):
+44 Human Society; 39 Education; 35 Commerce, Management, Tourism and Services; 36 Creative Arts and Writing; 3505 Human Resources and Industrial Relations
+
+Key Research Concepts (from Dimensions.ai):
+Education and Communication; qualitative inquiry; qualitative research; life science education; bioinformatics education; science education; minority-serving institutions; relevance of bioinformatics; non-fatal agricultural injuries; agricultural injuries
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Florida Gulf Coast University
+- Institute of Food and Agricultural Sciences
+- Georgetown University
+- University of Minnesota Twin Cities
+- University of Wisconsin-Madison
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.4/10
+Percentile: Top 76% of Water Institute faculty
+Rankings by Research Category:
+- Creative Arts and Writing: #2 of 3
+- Human Resources and Industrial Relations: #2 of 2
+- Education: #5 of 9

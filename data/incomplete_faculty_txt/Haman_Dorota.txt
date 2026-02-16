@@ -1,0 +1,45 @@
+Name: Dorota Haman
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: dhaman@ufl.edu
+Website: 
+Google Scholar: https://scholar.google.com/citations?user=DW7krlcAAAAJ&hl=en
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 35
+- Total Citations: 552
+- H-Index: 9
+- Average Citations per Paper: 15.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 1.11 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Potential Impacts of Improper Irrigation System Design: AE73/AE027, rev. 8/2022 *EDIS* (2022) - 1 citations
+  DOI: https://doi.org/10.32473/edis-ae027-2022
+
+Research Grants (from Dimensions.ai):
+- PRELIMINARY RESEARCH IN AGRICULTURE AND BIOLOGICAL ENGINEERING (1969-2030)
+  Funder: United States Department of Agriculture
+
+Research Categories (from Dimensions.ai):
+40 Engineering; 33 Built Environment and Design; 3303 Design
+
+Key Research Concepts (from Dimensions.ai):
+irrigation design; Department of Agriculture; biological engineering; Fedro; engineering

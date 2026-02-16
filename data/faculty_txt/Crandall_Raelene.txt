@@ -30,3 +30,65 @@ Water & Policy Relevance:
 
 Keywords:
 Conservation social science; environmental governance; institutions; human dimensions; community-based conservation; protected areas; equity; climate adaptation; social-ecological systems; land-use decision-making; policy implementation; conservation behavior; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 52
+- Total Citations: 906
+- H-Index: 10
+- Average Citations per Paper: 17.4
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.1 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Increasing Large Wildfire in the Eastern United States *Geophysical Research Letters* (2023) - 34 citations
+  DOI: https://doi.org/10.1029/2023gl107051
+- The Impact of COVID-19 on management of non-industrial private forests in the Southeastern United States *Trees Forests and People* (2021) - 13 citations
+  DOI: https://doi.org/10.1016/j.tfp.2021.100159
+- Wiregrass (Aristida beyrichiana) survival and reproduction after fire in a long-unburned pine savanna *PLOS ONE* (2021) - 11 citations
+  DOI: https://doi.org/10.1371/journal.pone.0247159
+- Season of prescribed burns and management of an early successional species affect flower density and pollinator activity in a pine savanna ecosystem *PeerJ* (2022) - 9 citations
+  DOI: https://doi.org/10.7717/peerj.14377
+- Life Stage and Neighborhood-Dependent Survival of Longleaf Pine after Prescribed Fire *Forests* (2022) - 8 citations
+  DOI: https://doi.org/10.3390/f13010117
+- High survival promotes bunchgrass persistence in old‐growth savannas under different fire regimes *Ecosphere* (2024) - 6 citations
+  DOI: https://doi.org/10.1002/ecs2.70092
+- Co‐occurring bunchgrasses are associated with different plant species in dry pine savannas *Restoration Ecology* (2022) - 6 citations
+  DOI: https://doi.org/10.1111/rec.13830
+- Non-industrial private forest owners' preferences for fuel reduction cost-share programs in the southeastern U.S. *Forest Policy and Economics* (2023) - 5 citations
+  DOI: https://doi.org/10.1016/j.forpol.2023.102994
+- Seedling passage times in gaps and closed canopies reveal decades of understory persistence in a New England forest *Ecosphere* (2025) - 4 citations
+  DOI: https://doi.org/10.1002/ecs2.70273
+- The informal economy of wiregrass production for longleaf pine restoration in Florida *Trees Forests and People* (2024) - 4 citations
+  DOI: https://doi.org/10.1016/j.tfp.2024.100620
+
+Research Grants (from Dimensions.ai):
+- Disentangling fire legacies and climate to advance cross-scale Earth system models (2024-2026) - $399,783
+  Funder: Office of Biological and Environmental Research
+- Geographical and ecological constraints on recruitment of wiregrass, an essential component of longleaf pine (2021-2025) - $500,000
+  Funder: National Institute of Food and Agriculture
+- Evaluating Fire Management Strategies To Improve Wiregrass Productivity And Promote The Economic Resilience Of Longleaf Pine Savannas (2019-2023) - $500,000
+  Funder: National Institute of Food and Agriculture
+- (MC) FACTORS AFFECTING RESTORATION SUCCESS IN PINE SAVANNAS: FIRE REGIME, PLANT-SOIL FEEDBACKS AND INTERACTING DISTURBANCES (2018-2023)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 3103 Ecology; 31 Biological Sciences; 30 Agricultural, Veterinary and Food Sciences; 4102 Ecological Applications
+
+Key Research Concepts (from Dimensions.ai):
+pine savannas; wildfire risk; fire regimes; species richness; non-industrial private forest landowners; Aristida beyrichiana; longleaf pine; population dynamics; eastern temperate forests; wildfire size
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Louisiana State University
+- Harvard University
+- Oregon State University
+- US Forest Service
+- North Carolina State University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.9/10
+Percentile: Top 54% of Water Institute faculty
+Rankings by Research Category:
+- Ecological Applications: #15 of 32
+- Ecology: #39 of 59
+- Agricultural, Veterinary and Food Sciences: #59 of 99

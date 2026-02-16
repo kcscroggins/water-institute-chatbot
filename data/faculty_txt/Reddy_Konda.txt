@@ -26,3 +26,26 @@ Dr. Reddy's research underpins wetland restoration, nutrient management, and wat
 
 Keywords:
 wetland biogeochemistry; nutrient cycling; nitrogen; phosphorus; carbon dynamics; redox chemistry; soil-water interactions; wetland restoration; Everglades; freshwater wetlands; greenhouse gases; contaminant fate; ecosystem function; water quality; hydrologic change
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 1
+- Total Citations: 24
+- H-Index: 1
+- Average Citations per Paper: 24.0
+
+Research Grants (from Dimensions.ai):
+- EAGER: Development of a Geospatial Soil-Crop Inference Engine for Smallholder Farmers (2012-2014) - $292,033
+  Funder: Directorate for Biological Sciences
+- Collaborative Research: Shifting pathways toward methane in nutrient impacted tropical and sub-tropical wetlands (2009-2014) - $769,985
+  Funder: Directorate for Biological Sciences
+- Identifying Suitable Indicators for Measuring Sustainability of Bioenergy Products Derived from Pine Forests in the U.S. South (Phase-1) (2008-2009) - $9,955
+  Funder: Environmental Protection Agency
+- IGERT Program in Adaptive Management (2005-2013) - $3,166,104
+  Funder: Directorate for STEM Education
+- Linkages Between Microbial Diversity and Processes Along Nutrient Gradients in Wetlands (2000-2006) - $846,796
+  Funder: Directorate for Biological Sciences
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.5/10
+Percentile: Top 72% of Water Institute faculty

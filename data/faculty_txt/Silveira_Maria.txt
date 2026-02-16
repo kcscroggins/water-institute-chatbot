@@ -27,3 +27,55 @@ Dr. Silveira's work supports sustainable land and water policies by generating e
 
 Keywords:
 soil science; grassland biogeochemistry; nutrient cycling; soil carbon; carbon sequestration; water quality; grazing lands; pasture management; forage production; soil fertility; phosphorus; potassium; ecosystem services; Range Cattle Research Center; subtropical soils; greenhouse gas mitigation
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 109
+- Total Citations: 1684
+- H-Index: 22
+- Average Citations per Paper: 15.4
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.07 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- A framework for sustainable management of ecosystem services and disservices in perennial grassland agroecosystems *Ecosphere* (2021) - 32 citations
+  DOI: https://doi.org/10.1002/ecs2.3837
+- PFAS release from wastewater residuals as a function of composition and production practices *Environmental Pollution* (2023) - 22 citations
+  DOI: https://doi.org/10.1016/j.envpol.2023.121167
+- Greenhouse gas mitigation and carbon sequestration potential in humid grassland ecosystems in Brazil: A review *Journal of Environmental Management* (2022) - 20 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2022.116269
+- Harvest management and genotype effects on sunn hemp forage characteristics *Agronomy Journal* (2021) - 16 citations
+  DOI: https://doi.org/10.1002/agj2.20465
+- The LTAR Common Experiment: Facilitating improved agricultural sustainability through coordinated cross‐site research *Journal of Environmental Quality* (2024) - 15 citations
+  DOI: https://doi.org/10.1002/jeq2.20636
+- Short-term prescribed fire-induced changes in soil microbial communities and nutrients in native rangelands of Florida *Applied Soil Ecology* (2023) - 15 citations
+  DOI: https://doi.org/10.1016/j.apsoil.2023.104914
+- Resilience of warm-season (C4) perennial grasses under challenging environmental and management conditions *Animal Frontiers* (2023) - 13 citations
+  DOI: https://doi.org/10.1093/af/vfad038
+- Soil carbon and nitrogen stocks in nitrogen-fertilized grass and legume-grass forage systems *Nutrient Cycling in Agroecosystems* (2022) - 13 citations
+  DOI: https://doi.org/10.1007/s10705-021-10188-9
+- Farm-scale phosphorus budgets of beef cow-calf operations *Nutrient Cycling in Agroecosystems* (2021) - 13 citations
+  DOI: https://doi.org/10.1007/s10705-021-10130-z
+- Effects of varying sources of Cu, Zn, and Mn on mineral status and preferential intake of salt-based supplements by beef cows and calves and rainfall-induced metal loss *Translational Animal Science* (2021) - 10 citations
+  DOI: https://doi.org/10.1093/tas/txab046
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 41 Environmental Sciences; 3003 Animal Production; 3002 Agriculture, Land and Farm Management; 3004 Crop and Pasture Production
+
+Key Research Concepts (from Dimensions.ai):
+ecosystem services; organic matter; herbage accumulation; nutritional value; Long-Term Agroecosystem Research; native rangeland; soil C; grazing land; split-plot arrangement; crude protein
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Archbold Biological Station
+- Agricultural Research Service - Midwest Area
+- Agricultural Research Service - Plains Area
+- Oklahoma State University
+- Northern Great Plains Research Laboratory
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.6/10
+Percentile: Top 27% of Water Institute faculty
+Rankings by Research Category:
+- Animal Production: #2 of 4
+- Agriculture, Land and Farm Management: #11 of 24
+- Crop and Pasture Production: #21 of 41

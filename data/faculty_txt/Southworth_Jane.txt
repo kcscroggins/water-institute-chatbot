@@ -28,3 +28,65 @@ Dr. Southworth's work produces high-resolution, time-series analyses that inform
 
 Keywords:
 geography; land change science; remote sensing; GeoAI; machine learning; vegetation dynamics; land cover change; land use; climate change; human-environment interactions; GIS; spatial analysis; time series; savannas; Africa; Latin America; socio-ecological systems
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 105
+- Total Citations: 4253
+- H-Index: 33
+- Average Citations per Paper: 40.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 52.19 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Developing a model for AI Across the curriculum: Transforming the higher education landscape via innovation in AI literacy *Computers and Education Artificial Intelligence* (2023) - 469 citations
+  DOI: https://doi.org/10.1016/j.caeai.2023.100127
+- Vegetation Dynamics and Climatological Drivers in Ethiopia at the Turn of the Century *Remote Sensing* (2021) - 27 citations
+  DOI: https://doi.org/10.3390/rs13163267
+- The role of the refugee crises in driving forest cover change and fragmentation in Teknaf, Bangladesh *Ecological Informatics* (2023) - 25 citations
+  DOI: https://doi.org/10.1016/j.ecoinf.2022.101966
+- Machine learning versus deep learning in land system science: a decision-making framework for effective land classification *Frontiers in Remote Sensing* (2024) - 21 citations
+  DOI: https://doi.org/10.3389/frsen.2024.1374862
+- Mapping fire-impacted refugee camps using the integration of field data and remote sensing approaches *International Journal of Applied Earth Observation and Geoinformation* (2022) - 11 citations
+  DOI: https://doi.org/10.1016/j.jag.2022.103120
+- Combining deep learning and machine learning techniques to track air pollution in relation to vegetation cover utilizing remotely sensed data *Journal of Environmental Management* (2025) - 9 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2025.124323
+- Specialty Grand Challenge: Remote Sensing Time Series Analysis *Frontiers in Remote Sensing* (2021) - 9 citations
+  DOI: https://doi.org/10.3389/frsen.2021.770431
+- Greening the Urban Landscape: Assessing the Impact of Tree-Planting Initiatives and Climate Influences on Miami-Dade County’s Greenness *Remote Sensing* (2023) - 6 citations
+  DOI: https://doi.org/10.3390/rs16010157
+- Examining the relationship between vegetation decline and precipitation in the national parks of the Greater Limpopo Transfrontier Conservation Area during the 21st century *Frontiers in Environmental Science* (2023) - 4 citations
+  DOI: https://doi.org/10.3389/fenvs.2023.1106849
+- Latitudes and land use: Global biome shifts in vegetation persistence across three decades *Frontiers in Remote Sensing* (2023) - 4 citations
+  DOI: https://doi.org/10.3389/frsen.2023.1063188
+
+Research Grants (from Dimensions.ai):
+- UNDERSTANDING AND PREDICTING THE IMPACT OF CLIMATE VARIABILITY AND CLIMATE CHANGE ON LAND USE AND LAND COVER CHANGE VIA SOCIO-ECONOMIC INSTITUTIONS IN SOUTHERN AFRICA THIS PROJECT DEVELOPS A TEMPORALLY AND SPATIALLY MULTI-SCALED UNDERSTANDING OF THE RELAT (2009-2012) - $870,094
+  Funder: National Aeronautics and Space Administration
+- QnD – Designing a Participatory Scenario Modeling Tool to Integrate Technology, Ecology, and Sociology in Guatemala’s Maya Biosphere Reserve and Beyond (2006-2007) - $10,000
+  Funder: Environmental Protection Agency
+- Agents of Change: Infrastructure Change, Human Agency, and Resilience in Social-Ecological Systems (2005-2010) - $649,944
+  Funder: Directorate for Social, Behavioral & Economic Sciences
+- Collaborative Research: Consequences of Parks for Land Use, Livelihood Diversification, and Biodiversity in East Africa (2004-2008) - $166,202
+  Funder: Directorate for Social, Behavioral & Economic Sciences
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 37 Earth Sciences; 46 Information and Computing Sciences; 4102 Ecological Applications; 40 Engineering
+
+Key Research Concepts (from Dimensions.ai):
+National Park; burned area; green spaces; remote sensing; fire regimes; savanna ecosystems; women; AI education; AI literacy; undergraduate programs
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Tennessee Knoxville
+- University of Miami
+- Michigan State University
+- University of Hohenheim
+- Yale University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 4.5/10
+Percentile: Top 3% of Water Institute faculty
+Rankings by Research Category:
+- Ecological Applications: #1 of 32
+- Engineering: #2 of 53
+- Information and Computing Sciences: #3 of 20

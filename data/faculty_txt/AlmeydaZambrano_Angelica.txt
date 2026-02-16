@@ -29,3 +29,55 @@ Research Metrics:
 
 Keywords:
 Land use change; land cover change; tropical forests; deforestation; Amazon; political ecology; sustainability science; human-environment interactions; ecotourism; remote sensing; GIS; spatial ecology; conservation; carbon sequestration; ecosystem services; Latin America; Neotropics; forest dynamics.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 24
+- Total Citations: 1765
+- H-Index: 17
+- Average Citations per Paper: 73.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 17.71 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Multidimensional tropical forest recovery *Science* (2021) - 384 citations
+  DOI: https://doi.org/10.1126/science.abh3629
+- The number of tree species on Earth *Proceedings of the National Academy of Sciences of the United States of America* (2022) - 202 citations
+  DOI: https://doi.org/10.1073/pnas.2115329119
+- Monitoring restored tropical forest diversity and structure through UAV-borne hyperspectral and lidar fusion *Remote Sensing of Environment* (2021) - 149 citations
+  DOI: https://doi.org/10.1016/j.rse.2021.112582
+- Ecotourism and mangrove conservation in Southeast Asia: Current trends and perspectives *Journal of Environmental Management* (2024) - 67 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2024.121529
+- Large scale multi-layer fuel load characterization in tropical savanna using GEDI spaceborne lidar data *Remote Sensing of Environment* (2022) - 63 citations
+  DOI: https://doi.org/10.1016/j.rse.2021.112764
+- Individual tree detection using UAV-lidar and UAV-SfM data: A tutorial for beginners *Open Geosciences* (2021) - 63 citations
+  DOI: https://doi.org/10.1515/geo-2020-0290
+- Beyond trees: Mapping total aboveground biomass density in the Brazilian savanna using high-density UAV-lidar data *Forest Ecology and Management* (2021) - 61 citations
+  DOI: https://doi.org/10.1016/j.foreco.2021.119155
+- Riparian buffer length is more influential than width on river water quality: A case study in southern Costa Rica *Journal of Environmental Management* (2021) - 61 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2021.112132
+- Distinguishing forest types in restored tropical landscapes with UAV-borne LIDAR *Remote Sensing of Environment* (2023) - 37 citations
+  DOI: https://doi.org/10.1016/j.rse.2023.113533
+- Using high-density UAV-Lidar for deriving tree height of Araucaria Angustifolia in an Urban Atlantic Rain Forest *Urban Forestry & Urban Greening* (2021) - 33 citations
+  DOI: https://doi.org/10.1016/j.ufug.2021.127197
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 31 Biological Sciences; 3103 Ecology; 30 Agricultural, Veterinary and Food Sciences; 3007 Forestry Sciences
+
+Key Research Concepts (from Dimensions.ai):
+unmanned aerial vehicles; UAV-LiDAR; species diversity; species composition; individual tree detection; basal area; old-growth values; tropical forests; forest attributes; tree species
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Wageningen University & Research
+- Federal University of Paraná
+- Universidade de São Paulo
+- National Autonomous University of Mexico
+- Alexander von Humboldt Biological Resources Research Institute
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.9/10
+Percentile: Top 21% of Water Institute faculty
+Rankings by Research Category:
+- Forestry Sciences: #3 of 8
+- Ecology: #15 of 59
+- Agricultural, Veterinary and Food Sciences: #23 of 99

@@ -1,0 +1,66 @@
+Name: Golmar Golmohammadi
+Role: Assistant Professor
+Academic Unit: 
+Office: 
+Phone: 
+Email: g.golmohammadi@ufl.edu
+Website: https://soils.ifas.ufl.edu/people/faculty/golmar-golmohammadi/
+Google Scholar: 
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 17
+- Total Citations: 142
+- H-Index: 7
+- Average Citations per Paper: 8.4
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 6.5 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Artificial Intelligence in Hydrology: Advancements in Soil, Water Resource Management, and Sustainable Development *Sustainability* (2025) - 27 citations
+  DOI: https://doi.org/10.3390/su17052250
+- Soil temperature forecasting using a hybrid artificial neural network in Florida subtropical grazinglands agro-ecosystems *Scientific Reports* (2024) - 25 citations
+  DOI: https://doi.org/10.1038/s41598-023-48025-4
+- Projections of meteorological drought severity-duration variations based on CMIP6 *Scientific Reports* (2024) - 23 citations
+  DOI: https://doi.org/10.1038/s41598-024-55340-x
+- Compilation simulation of surface water and groundwater resources using the SWAT-MODFLOW model for a karstic basin in Iran *Hydrogeology Journal* (2023) - 20 citations
+  DOI: https://doi.org/10.1007/s10040-023-02620-x
+- Assessing Climate Change Impact on Water Balance Components Using Integrated Groundwater–Surface Water Models (Case Study: Shazand Plain, Iran) *Water* (2023) - 15 citations
+  DOI: https://doi.org/10.3390/w15040813
+- Flood risk projection in Iran using CMIP6 models and frequency analysis of precipitation *Stochastic Environmental Research and Risk Assessment* (2024) - 8 citations
+  DOI: https://doi.org/10.1007/s00477-024-02835-8
+- Determining the Optimal Aquifer Exploitation under Artificial Recharge using the Combination of Numerical Models and Particle Swarm Optimization *Hydrology* (2023) - 8 citations
+  DOI: https://doi.org/10.3390/hydrology10050100
+- Hybrid COOT-ANN: a novel optimization algorithm for prediction of daily crop reference evapotranspiration in Australia *Theoretical and Applied Climatology* (2023) - 7 citations
+  DOI: https://doi.org/10.1007/s00704-023-04552-8
+- Nonlinear and periodic dynamics of chaotic hydro-thermal process of Skokomish river *Stochastic Environmental Research and Risk Assessment* (2023) - 5 citations
+  DOI: https://doi.org/10.1007/s00477-023-02416-1
+- Designing a deep learning-based framework for the prediction of lake surface closed curves *Earth Science Informatics* (2025) - 3 citations
+  DOI: https://doi.org/10.1007/s12145-025-01776-2
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3707 Hydrology; 40 Engineering; 41 Environmental Sciences; 3701 Atmospheric Sciences
+
+Key Research Concepts (from Dimensions.ai):
+water resources; soil temperature forecasting; climate change; groundwater level; river discharge; RMSE-observations standard deviation ratio; Nash–Sutcliffe efficiency; scatter index; groundwater storage variations; land surface models
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Tehran
+- University of Tabriz
+- Shahid Beheshti University
+- Payeshgar Tadbir Afzar (Knowledgebase Company), Tehran, Iran
+- Archbold Biological Station

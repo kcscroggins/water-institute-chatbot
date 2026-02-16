@@ -1,0 +1,78 @@
+Name: Thomas Bianchi
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: tbianchi@ufl.edu
+Website: https://geology.ufl.edu/people/faculty/dr-thomas-s-bianchi/
+Google Scholar: https://scholar.google.com/citations?user=zy9xsSAAAAAJ&hl=en
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 143
+- Total Citations: 9094
+- H-Index: 45
+- Average Citations per Paper: 63.6
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 21.56 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Plastics in the Earth system *Science* (2021) - 717 citations
+  DOI: https://doi.org/10.1126/science.abb0354
+- Coastal vegetation and estuaries are collectively a greenhouse gas sink *Nature Climate Change* (2023) - 187 citations
+  DOI: https://doi.org/10.1038/s41558-023-01682-9
+- A global assessment of the mixed layer in coastal sediments and implications for carbon storage *Nature Communications* (2022) - 71 citations
+  DOI: https://doi.org/10.1038/s41467-022-32650-0
+- Anthropogenic impacts on mud and organic carbon cycling *Nature Geoscience* (2024) - 61 citations
+  DOI: https://doi.org/10.1038/s41561-024-01405-5
+- Preferential preservation of pre-aged terrestrial organic carbon by reactive iron in estuarine particles and coastal sediments of a large river-dominated estuary *Geochimica et Cosmochimica Acta* (2023) - 50 citations
+  DOI: https://doi.org/10.1016/j.gca.2023.01.023
+- The Global Turbidity Current Pump and Its Implications for Organic Carbon Cycling *Annual Review of Marine Science* (2023) - 45 citations
+  DOI: https://doi.org/10.1146/annurev-marine-032223-103626
+- Global fjords as transitory reservoirs of labile organic carbon modulated by organo-mineral interactions *Science Advances* (2022) - 45 citations
+  DOI: https://doi.org/10.1126/sciadv.add0610
+- What global biogeochemical consequences will marine animal–sediment interactions have during climate change? *Elementa: Science of the Anthropocene* (2021) - 44 citations
+  DOI: https://doi.org/10.1525/elementa.2020.00180
+- Transport of particulate organic carbon in the lower Yellow River (Huanghe) as modulated by dam operation *Global and Planetary Change* (2022) - 35 citations
+  DOI: https://doi.org/10.1016/j.gloplacha.2022.103948
+- An Improved Framework for Estimating Organic Carbon Content of Mangrove Soils Using loss-on-ignition and Coastal Environmental Setting *Wetlands* (2023) - 23 citations
+  DOI: https://doi.org/10.1007/s13157-023-01698-z
+
+Research Grants (from Dimensions.ai):
+- The Influence of Microbial Priming Effects on the Hydro-bio-geochemistry of Large River Reservoirs (2018-2020) - $180,000
+  Funder: Office of Biological and Environmental Research
+- Collaborative Research: Reconstructing Mean State and ENSO Variability in the Eastern Equatorial Pacific under Glacial Forcing: A Combined Geochemical and Organic Proxy Approach (2017-2019) - $80,043
+  Funder: Directorate for Geosciences
+- Collaborative Research: Planktonic Sources of Chromophoric Dissolved Organic Matter in Seawater (2015-2018) - $231,109
+  Funder: Directorate for Geosciences
+- Collaborative Research: The Ecological Drill Hypothesis: Biotic Control on Carbonate Dissolution in a Low Relief Patterned Landscape (2014-2019) - $599,080
+  Funder: Directorate for Biological Sciences
+- Collaborative Research: Flooding the Colorado River Delta: Impacts of Flow Restoration on River-Carbon Composition and Fluxes (2014-2015) - $44,460
+  Funder: Directorate for Geosciences
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3709 Physical Geography and Environmental Geoscience; 3705 Geology; 41 Environmental Sciences; 4101 Climate Change Impacts and Adaptation
+
+Key Research Concepts (from Dimensions.ai):
+organic carbon; coastal sediments; particulate organic carbon; Yellow River; Earth system; natural organic carbon; Earth system science; geochemical insights; Earth history; coastal vegetation
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Ocean University of China
+- Qingdao National Laboratory for Marine Science and Technology
+- Florida State University
+- Yale University
+- Université Libre de Bruxelles

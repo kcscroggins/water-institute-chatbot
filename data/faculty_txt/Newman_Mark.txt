@@ -29,3 +29,14 @@ Dr. Newman produces hydrologic modeling and empirical measurement tools that und
 
 Keywords:
 groundwater hydrology; contaminant transport; water flux; solute flux; passive flux meters; hydraulic modeling; stormwater; water resources engineering; subsurface characterization; aquifer storage and recovery; ASR; source water protection; Florida aquifers; sediment transport; water quality
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 9
+- Total Citations: 181
+- H-Index: 8
+- Average Citations per Paper: 20.1
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.7/10
+Percentile: Top 62% of Water Institute faculty

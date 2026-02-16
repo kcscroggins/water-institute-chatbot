@@ -53,3 +53,65 @@ Affiliate Appointments:
 
 Keywords:
 Ecohydrology; watershed hydrology; biogeochemistry; Everglades restoration; Florida springs; wetland ecology; ridge-slough landscape; aquatic ecosystems; forest hydrology; sensor technologies; nutrient contamination; Water Institute director.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 95
+- Total Citations: 4392
+- H-Index: 36
+- Average Citations per Paper: 46.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 7.45 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Global carbon dioxide efflux from rivers enhanced by high nocturnal emissions *Nature Geoscience* (2021) - 167 citations
+  DOI: https://doi.org/10.1038/s41561-021-00722-3
+- Extent, patterns, and drivers of hypoxia in the world's streams and rivers *Limnology and Oceanography Letters* (2022) - 65 citations
+  DOI: https://doi.org/10.1002/lol2.10297
+- Vulnerable Waters are Essential to Watershed Resilience *Ecosystems* (2022) - 64 citations
+  DOI: https://doi.org/10.1007/s10021-021-00737-2
+- Metabolic regime shifts and ecosystem state changes are decoupled in a large river *Limnology and Oceanography* (2021) - 44 citations
+  DOI: https://doi.org/10.1002/lno.11789
+- River network travel time is correlated with dissolved organic matter composition in rivers of the contiguous United States *Hydrological Processes* (2021) - 31 citations
+  DOI: https://doi.org/10.1002/hyp.14124
+- Bedrock mediates responses of ecosystem productivity to climate variability *Communications Earth & Environment* (2023) - 28 citations
+  DOI: https://doi.org/10.1038/s43247-023-00773-x
+- Stream network variation in dissolved oxygen: Metabolism proxies and biogeochemical controls *Ecological Indicators* (2021) - 25 citations
+  DOI: https://doi.org/10.1016/j.ecolind.2021.108233
+- Patterns of Wetland Hydrologic Connectivity Across Coastal‐Plain Wetlandscapes *Water Resources Research* (2023) - 19 citations
+  DOI: https://doi.org/10.1029/2023wr034553
+- In‐Situ Quantification and Prediction of Water Yield From Southern US Pine Forests *Water Resources Research* (2022) - 15 citations
+  DOI: https://doi.org/10.1029/2021wr031020
+- River Corridor Sources Dominate CO2 Emissions From a Lowland River Network *Journal of Geophysical Research Biogeosciences* (2023) - 14 citations
+  DOI: https://doi.org/10.1029/2022jg006954
+
+Research Grants (from Dimensions.ai):
+- EAR-Climate: Continental-Scale Determinants of Stream Solute Spatial and Temporal Patterns (2023-2026) - $428,312
+  Funder: Directorate for Geosciences
+- Collaborative Research: High Resolution Sensor Networks for Quantifying and Predicting Surface-Groundwater Mixing and Nutrient Delivery in the Santa Fe River, Florida. (2009-2012) - $456,782
+  Funder: Directorate for Geosciences
+- Collaborative Research: Controls on Delivery and Fate of Water, Nitrogen and Calcium in a Spring-Fed Karst River (2009-2013) - $325,668
+  Funder: Directorate for Geosciences
+- Design and demonstration of a distributed sensor array for predicting water flow and nitrate flux in the Santa Fe Basin (2006-2009) - $359,960
+  Funder: Directorate for Geosciences
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3707 Hydrology; 3701 Atmospheric Sciences; 31 Biological Sciences; 3103 Ecology
+
+Key Research Concepts (from Dimensions.ai):
+gross primary production; river network; hydrological connectivity; leaf area index; water yield; global estimates of CO2 emissions; carbon dioxide efflux; global estimates; PgC yr-1; running water
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Helmholtz Centre for Environmental Research
+- National Research Institute for Agriculture, Food and Environment
+- United States Geological Survey
+- Environmental Protection Agency
+- École Polytechnique Fédérale de Lausanne
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 3.0/10
+Percentile: Top 7% of Water Institute faculty
+Rankings by Research Category:
+- Atmospheric Sciences: #1 of 17
+- Hydrology: #1 of 18
+- Ecology: #5 of 59

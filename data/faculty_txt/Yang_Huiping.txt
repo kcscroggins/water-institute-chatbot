@@ -28,3 +28,53 @@ Yang's work informs climate and land-management policy by clarifying how nutrien
 
 Keywords:
 forest biogeochemistry; wetland biogeochemistry; carbon cycling; carbon sequestration; nitrogen cycling; phosphorus cycling; nutrient limitation; stoichiometry; greenhouse gas; ecosystem productivity; subtropical forests; climate mitigation; ecosystem restoration
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 10
+- Total Citations: 70
+- H-Index: 5
+- Average Citations per Paper: 7.0
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 1.94 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Development and validation of a 66K SNP array for the hard clam (Mercenaria mercenaria) *BMC Genomics* (2024) - 6 citations
+  DOI: https://doi.org/10.1186/s12864-024-10756-7
+- High-throughput 3D phenotyping in northern quahogs Mercenaria mercenaria for dimensional trait measurement and weight prediction *Smart Agricultural Technology* (2025) - 1 citations
+  DOI: https://doi.org/10.1016/j.atech.2025.100840
+- A Rapid Assessment of Microalgal Concentration Using Turbidity Measurement for Shellfish Hatchery Seed Production: FOR395/FR466, 3/2023 *EDIS* (2023) - 1 citations
+  DOI: https://doi.org/10.32473/edis-fr466-2023
+- Corrigendum to “High-throughput 3D phenotyping in northern quahogs Mercenaria mercenaria for dimensional trait measurement and weight prediction” [Smart Agricultural Technology, Volume 10, 2025, p. 100840] *Smart Agricultural Technology* (2025)
+  DOI: https://doi.org/10.1016/j.atech.2025.101411
+- Genome-wide association mapping for heat shock tolerance in Mercenaria mercenaria through SNP microarray analysis *BMC Genomics* (2025)
+  DOI: https://doi.org/10.1186/s12864-025-11689-5
+
+Research Grants (from Dimensions.ai):
+- Development of Immune Assays of Hemocytes in Molluscan Bivalves (2023-2023)
+  Funder: Council for International Exchange of Scholars
+- Application of Sperm Cryopreservation Technology in Oyster Genetic Breeding (2020-2025)
+  Funder: National Institute of Food and Agriculture
+- Application of Germplasm Preservation on Breeding Programs for Molluscan Shellfish Aquaculture (2014-2019)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 30 Agricultural, Veterinary and Food Sciences; 3105 Genetics; 3005 Fisheries Sciences; 3008 Horticultural Production
+
+Key Research Concepts (from Dimensions.ai):
+northern quahog Mercenaria mercenaria; K SNP array; genome architecture; genetic studies; population genetic studies; hard clams; live weight; fresh weight; bivalve species; breeding technologies
+
+Top Collaborating Institutions (from Dimensions.ai):
+- State University of New York at Stony Brook
+- Institute of Food and Agricultural Sciences
+- Rutgers, The State University of New Jersey
+- William & Mary
+- Institut de Systématique, Évolution, Biodiversité
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.4/10
+Percentile: Top 76% of Water Institute faculty
+Rankings by Research Category:
+- Genetics: #7 of 8
+- Fisheries Sciences: #11 of 12
+- Horticultural Production: #12 of 13

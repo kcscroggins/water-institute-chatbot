@@ -24,3 +24,59 @@ Notable Work:
 
 Keywords:
 Non-native species management; aquaculture best practices; fish invasion biology; thermal ecology; ornamental aquaculture industry; aquatic ecosystem disturbance; eco-evolutionary dynamics.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 35
+- Total Citations: 430
+- H-Index: 11
+- Average Citations per Paper: 12.3
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 5.06 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- A global-scale screening of non-native aquatic organisms to identify potentially invasive species under current and future climate conditions *The Science of The Total Environment* (2021) - 135 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2021.147868
+- Unstable intraguild predation causes establishment failure of a globally invasive species *Ecology* (2021) - 16 citations
+  DOI: https://doi.org/10.1002/ecy.3411
+- Non-native poeciliids in hot water: the role of thermal springs in facilitating invasion of tropical species *Hydrobiologia* (2021) - 9 citations
+  DOI: https://doi.org/10.1007/s10750-021-04669-9
+- Emigration of Juvenile Tarpon Megalops atlanticus from Ephemerally Connected Coastal Ponds *Estuaries and Coasts* (2024) - 7 citations
+  DOI: https://doi.org/10.1007/s12237-024-01424-w
+- Domestication and feralization influence the distribution and phenotypes of escaped ornamental fish *Biological Invasions* (2021) - 7 citations
+  DOI: https://doi.org/10.1007/s10530-020-02415-1
+- A Case of Mistaken Identity: Genetic and Anatomical Evidence Reveals the Cryptic Invasion of Xenopus tropicalis in Central Florida *Journal of Herpetology* (2021) - 6 citations
+  DOI: https://doi.org/10.1670/20-083
+- Increased Cold Tolerance of a Tropical Fish Species at the Northern Edge of Its Expanded Range *Estuaries and Coasts* (2025) - 4 citations
+  DOI: https://doi.org/10.1007/s12237-024-01480-2
+- Thermal tolerance for the tropical clawed frog, Xenopus tropicalis with comments on comparative methods for amphibian studies *Journal of Thermal Biology* (2024) - 4 citations
+  DOI: https://doi.org/10.1016/j.jtherbio.2024.103890
+- Vertebrates in trade that pose high invasion risk to the United States *Biological Conservation* (2025) - 2 citations
+  DOI: https://doi.org/10.1016/j.biocon.2024.110887
+- Stage-based biotic resistance to a non-native species *NeoBiota* (2026)
+  DOI: https://doi.org/10.3897/neobiota.105.165389
+
+Research Grants (from Dimensions.ai):
+- Ecological and evolutionary factors affecting invasion risk of cultured species (2020-2025)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 41 Environmental Sciences; 3103 Ecology; 4101 Climate Change Impacts and Adaptation; 4102 Ecological Applications
+
+Key Research Concepts (from Dimensions.ai):
+biotic resistance; non-native species; tropical species; propagule pressure; wild-type varieties; clawed frog; aquatic organisms; Aquatic Species Invasiveness Screening Kit; impacts to native species; invasive non-native species
+
+Top Collaborating Institutions (from Dimensions.ai):
+- United States Geological Survey
+- Centre for Environment, Fisheries and Aquaculture Science
+- University of Łódź
+- Florida Fish and Wildlife Conservation Commission
+- Auburn University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.9/10
+Percentile: Top 54% of Water Institute faculty
+Rankings by Research Category:
+- Climate Change Impacts and Adaptation: #14 of 16
+- Ecological Applications: #16 of 32
+- Ecology: #40 of 59

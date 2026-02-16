@@ -31,3 +31,53 @@ Dr. Mylavarapu produces evidence that underpins nutrient stewardship programs an
 
 Keywords:
 soil testing; soil fertility; nutrient management; nitrogen; phosphorus; potassium; fertilizer recommendations; 4R stewardship; nutrient cycling; soil amendments; biochar; bagasse; nutrient leaching; water quality; BMPs; IFAS Soil Testing Laboratory; SERA-IEG-6; Extension
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 49
+- Total Citations: 276
+- H-Index: 8
+- Average Citations per Paper: 5.6
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.3 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Recovery efficiency of applied and residual nitrogen fertilizer in tomatoes grown on sandy soils using the 15N technique *Scientia Horticulturae* (2021) - 20 citations
+  DOI: https://doi.org/10.1016/j.scienta.2020.109861
+- Phosphorus Management Strategies for Potato Production in Florida: a Review *American Journal of Potato Research* (2021) - 11 citations
+  DOI: https://doi.org/10.1007/s12230-021-09851-2
+- UF/IFAS Analytical Services Laboratories (ANSERV Labs): Analytical Procedures and Training Manual: Circular 1248/SS312, 1/2024 *EDIS* (2024) - 6 citations
+  DOI: https://doi.org/10.32473/edis-ss312-2002
+- Comparing Boron Soil Testing Methods for Coastal Plain Sandy Soils *Communications in Soil Science and Plant Analysis* (2022) - 4 citations
+  DOI: https://doi.org/10.1080/00103624.2022.2046041
+- Cropping system is a key determinant of soil health after accounting for environmental and edaphic variability *Geoderma* (2025) - 3 citations
+  DOI: https://doi.org/10.1016/j.geoderma.2025.117330
+- Nitrogen Use Efficiency and Yield Levels Using Soluble and Controlled-release Urea Formulations in Tomato Production *HortScience* (2024) - 3 citations
+  DOI: https://doi.org/10.21273/hortsci17679-23
+- Soil Phosphorus Sources and Their Relative Water Solubility and Extractability *Communications in Soil Science and Plant Analysis* (2022) - 3 citations
+  DOI: https://doi.org/10.1080/00103624.2022.2046040
+- Estimation of fertilizer use efficiency in vegetable systems using 15N: an overview *Discover Agriculture* (2024) - 2 citations
+  DOI: https://doi.org/10.1007/s44279-024-00139-7
+- Soil Health Assessment of Incorporating Bagasse in a Commercial Sugarcane Production System on Mineral Soils *Journal of Plant Nutrition and Soil Science* (2025) - 1 citations
+  DOI: https://doi.org/10.1002/jpln.202300355
+- Nitrogen Use Efficiency Using Controlled-release and Soluble Urea in Tomato Grown on Raised Conventional and Compact Beds on Coastal Plain Sands *HortTechnology* (2025)
+  DOI: https://doi.org/10.21273/horttech05616-25
+
+Research Categories (from Dimensions.ai):
+3002 Agriculture, Land and Farm Management; 30 Agricultural, Veterinary and Food Sciences; 3004 Crop and Pasture Production; 41 Environmental Sciences; 4106 Soil Sciences
+
+Key Research Concepts (from Dimensions.ai):
+N rate; sandy soil; controlled-release urea; soil health; tomato production; preplant application; N fertilization; soil recovery; recovery of N fertilizer; potato production
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Institute of Food and Agricultural Sciences
+- Earth University
+- Oregon State University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.6/10
+Percentile: Top 67% of Water Institute faculty
+Rankings by Research Category:
+- Soil Sciences: #10 of 14
+- Agriculture, Land and Farm Management: #22 of 24
+- Crop and Pasture Production: #38 of 41

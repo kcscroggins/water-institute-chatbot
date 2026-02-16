@@ -25,3 +25,67 @@ Dr. Singh's research advances remote sensing tools that support environmental mo
 
 Keywords:
 remote sensing; hyperspectral imaging; spectroscopy; plant stress; nutrient status; precision agriculture; UAV; ecosystem function; vegetation monitoring; water stress; canopy traits; imaging spectroscopy; agricultural engineering; landscape ecology; decision support
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 72
+- Total Citations: 2340
+- H-Index: 18
+- Average Citations per Paper: 32.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 63.9 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Global Burden of Cardiovascular Diseases and Risks, 1990-2022 *Journal of the American College of Cardiology* (2023) - 1177 citations
+  DOI: https://doi.org/10.1016/j.jacc.2023.11.007
+- A remote sensing derived data set of 100 million individual tree crowns for the National Ecological Observatory Network *eLife* (2021) - 70 citations
+  DOI: https://doi.org/10.7554/elife.62922
+- Unmanned aerial vehicle (UAV) imaging and machine learning applications for plant phenotyping *Computers and Electronics in Agriculture* (2023) - 62 citations
+  DOI: https://doi.org/10.1016/j.compag.2023.108064
+- Continental-scale hyperspectral tree species classification in the United States National Ecological Observatory Network *Remote Sensing of Environment* (2022) - 54 citations
+  DOI: https://doi.org/10.1016/j.rse.2022.113264
+- A benchmark dataset for canopy crown detection and delineation in co-registered airborne RGB, LiDAR and hyperspectral imagery from the National Ecological Observation Network *PLOS Computational Biology* (2021) - 45 citations
+  DOI: https://doi.org/10.1371/journal.pcbi.1009180
+- Molecular adaptations in response to exercise training are associated with tissue-specific transcriptomic and epigenomic signatures *Cell Genomics* (2024) - 32 citations
+  DOI: https://doi.org/10.1016/j.xgen.2023.100421
+- Exploring deficit irrigation as a water conservation strategy: Insights from field experiments and model simulation *Agricultural Water Management* (2023) - 30 citations
+  DOI: https://doi.org/10.1016/j.agwat.2023.108490
+- Phenomics-Assisted Selection for Herbage Accumulation in Alfalfa (Medicago sativa L.) *Frontiers in Plant Science* (2021) - 29 citations
+  DOI: https://doi.org/10.3389/fpls.2021.756768
+- Testing the efficacy of hyperspectral (AVIRIS-NG), multispectral (Sentinel-2) and radar (Sentinel-1) remote sensing images to detect native and invasive non-native trees *Biological Invasions* (2021) - 25 citations
+  DOI: https://doi.org/10.1007/s10530-021-02543-2
+- Hyperspectral imaging combined with machine learning for high‐throughput phenotyping in winter wheat *The Plant Phenome Journal* (2024) - 20 citations
+  DOI: https://doi.org/10.1002/ppj2.20111
+
+Research Grants (from Dimensions.ai):
+- Integrating socio-economic and remotely sensed information to characterize conflict precursors and land degradation dynamics in Ghana (2023-2025)
+  Funder: National Aeronautics and Space Administration
+- MRA: Resolving the multi-scale drivers of tree mortality from field and remote sensing data on co-located ForestGEO-NEON sites (2021-2026) - $1,005,822
+  Funder: Directorate for Biological Sciences
+- Planning Grant: Engineering Research Center for Intelligent Sensing, Mapping, and Forecasting of Water Quality for Sustainable Coastal Ecosystems (iCoast) (2019-2021) - $100,000
+  Funder: Directorate for Engineering
+- MRA: Disentangling cross-scale influences on tree species, traits, and diversity from individual trees to continental scales (2019-2024) - $1,313,135
+  Funder: Directorate for Biological Sciences
+- Research and Extension for Unmanned Aircraft Systems (UAS) Applications in U.S. Agriculture and Natural Resources (2018-2021)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 31 Biological Sciences; 46 Information and Computing Sciences; 37 Earth Sciences; 3004 Crop and Pasture Production
+
+Key Research Concepts (from Dimensions.ai):
+National Ecological Observatory Network; Tropical Research and Education Center; plant height; irrigation treatments; sweet corn; ha-1; global burden; global burden of cardiovascular disease; burden of cardiovascular disease; cardiovascular disease
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Tehran University of Medical Sciences
+- University of Washington
+- All India Institute of Medical Sciences
+- Shahid Beheshti University of Medical Sciences
+- University of Wisconsin-Madison
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 3.9/10
+Percentile: Top 5% of Water Institute faculty
+Rankings by Research Category:
+- Crop and Pasture Production: #3 of 41
+- Agricultural, Veterinary and Food Sciences: #5 of 99
+- Information and Computing Sciences: #6 of 20

@@ -11,3 +11,67 @@ Dr. Martyniuk is an affiliate faculty member of the UF Water Institute, contribu
 
 Keywords:
 Water Institute affiliate; Veterinary Medicine.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 318
+- Total Citations: 7890
+- H-Index: 49
+- Average Citations per Paper: 24.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 12.55 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Microbiome Composition and Function in Aquatic Vertebrates: Small Organisms Making Big Impacts on Aquatic Animal Health *Frontiers in Microbiology* (2021) - 252 citations
+  DOI: https://doi.org/10.3389/fmicb.2021.567408
+- A comprehensive review of strobilurin fungicide toxicity in aquatic species: Emphasis on mode of action from the zebrafish model *Environmental Pollution* (2021) - 97 citations
+  DOI: https://doi.org/10.1016/j.envpol.2021.116671
+- A comprehensive review of 1,2,4-triazole fungicide toxicity in zebrafish (Danio rerio): A mitochondrial and metabolic perspective *The Science of The Total Environment* (2021) - 84 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2021.151177
+- Endocrine disruption by azole fungicides in fish: A review of the evidence *The Science of The Total Environment* (2022) - 67 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2022.153412
+- A review of the neurobehavioural, physiological, and reproductive toxicity of microplastics in fishes *Ecotoxicology and Environmental Safety* (2024) - 64 citations
+  DOI: https://doi.org/10.1016/j.ecoenv.2024.116712
+- Neurotoxic effects of synthetic phenolic antioxidants on dopaminergic, serotoninergic, and GABAergic signaling in larval zebrafish (Danio rerio) *The Science of The Total Environment* (2022) - 64 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2022.154688
+- A cross-species comparative approach to assessing multi- and transgenerational effects of endocrine disrupting chemicals *Environmental Research* (2021) - 59 citations
+  DOI: https://doi.org/10.1016/j.envres.2021.112063
+- Neurotoxic effects of different sizes of plastics (nano, micro, and macro) on juvenile common carp (Cyprinus carpio) *Frontiers in Molecular Neuroscience* (2022) - 53 citations
+  DOI: https://doi.org/10.3389/fnmol.2022.1028364
+- Towards regulation of Endocrine Disrupting chemicals (EDCs) in water resources using bioassays – A guide to developing a testing strategy *Environmental Research* (2021) - 52 citations
+  DOI: https://doi.org/10.1016/j.envres.2021.112483
+- Emerging concepts and opportunities for endocrine disruptor screening of the non-EATS modalities *Environmental Research* (2021) - 52 citations
+  DOI: https://doi.org/10.1016/j.envres.2021.111904
+
+Research Grants (from Dimensions.ai):
+- Gut-brain axis: functional link between microbial metabolites and neurogenic hypertension (2018-2021) - $419,375
+  Funder: National Center for Complementary and Integrative Health
+- High salt diet potentiation of AngII HTN : Novel role for Th17 cell infiltration into the PVN (2017-2019) - $370,063
+  Funder: National Heart Lung and Blood Institute
+- Organochlorine pesticide effects on neurotransmitter signaling (2009-2009) - $47,170
+  Funder: National Institute of Environmental Health Sciences
+- Focused Proteomic Approach for the study of Endocrine Disrupting Chemicals in Fish (2008-2009) - $18,753
+  Funder: Natural Sciences and Engineering Research Council
+- Focused Proteomic Approach for the study of Endocrine Disrupting Chemicals in Fish (2007-2008) - $37,236
+  Funder: Natural Sciences and Engineering Research Council
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 31 Biological Sciences; 4105 Pollution and Contamination; 32 Biomedical and Clinical Sciences; 4102 Ecological Applications
+
+Key Research Concepts (from Dimensions.ai):
+aquatic ecosystems; endocrine disruption; fish species; endocrine disrupting chemicals; host-associated microbiomes; marine mammals; aquatic vertebrates; ecological status; aquatic species; aquatic environment
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Guangzhou University
+- Institute of Hydrobiology
+- Beijing Normal University
+- State Key Laboratory of Freshwater Ecology and Biotechnology
+- Northeast Normal University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 4.3/10
+Percentile: Top 4% of Water Institute faculty
+Rankings by Research Category:
+- Pollution and Contamination: #2 of 13
+- Ecological Applications: #2 of 32
+- Biomedical and Clinical Sciences: #3 of 30

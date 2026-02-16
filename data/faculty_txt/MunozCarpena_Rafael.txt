@@ -30,3 +30,67 @@ Dr. Munoz-Carpena produces mechanistic and data-driven models that inform nutrie
 
 Keywords:
 hydrology; water quality modeling; solute transport; sediment transport; watershed modeling; nutrient export; runoff; vegetative filter strips; VFSMOD; uncertainty analysis; sensitivity analysis; BMPs; best management practices; Everglades; Lake Okeechobee; agricultural hydrology; decision support systems
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 128
+- Total Citations: 4500
+- H-Index: 30
+- Average Citations per Paper: 35.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.75 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Quantifying the contribution of external loadings and internal hydrodynamic processes to the water quality of Lake Okeechobee *The Science of The Total Environment* (2023) - 30 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2023.163713
+- Hyperspectral reflectance measurements from UAS under intermittent clouds: Correcting irradiance measurements for sensor tilt *Remote Sensing of Environment* (2021) - 25 citations
+  DOI: https://doi.org/10.1016/j.rse.2021.112719
+- Multi-parameter approaches for improved ensemble prediction accuracy in hydrology and water quality modeling *Journal of Hydrology* (2023) - 22 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2023.129458
+- Climate change impacts on water quantity and quality of a watershed-lake system using a spatially integrated modeling framework in the Kissimmee River – Lake Okeechobee system *Journal of Hydrology Regional Studies* (2023) - 20 citations
+  DOI: https://doi.org/10.1016/j.ejrh.2023.101408
+- Dynamic prediction of effective runoff sediment particle size for improved assessment of erosion mitigation efficiency with vegetative filter strips *The Science of The Total Environment* (2022) - 18 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2022.159572
+- Effectiveness of vegetative filter strips for sediment control from steep construction landscapes *Catena* (2023) - 13 citations
+  DOI: https://doi.org/10.1016/j.catena.2023.107057
+- Advancing Surface Water Pesticide Exposure Assessments for Ecosystem Protection *Journal of the ASABE* (2021) - 12 citations
+  DOI: https://doi.org/10.13031/trans.14225
+- Model prediction capacity of ephemeral gully evolution in conservation tillage systems *Earth Surface Processes and Landforms* (2021) - 9 citations
+  DOI: https://doi.org/10.1002/esp.5134
+- Quantifying the Importance of Preferential Flow in a Riparian Buffer *Journal of the ASABE* (2021) - 7 citations
+  DOI: https://doi.org/10.13031/trans.14286
+- Hydrological records can be used to reconstruct the resilience of watersheds to climatic extremes *Communications Earth & Environment* (2024) - 6 citations
+  DOI: https://doi.org/10.1038/s43247-023-01181-x
+
+Research Grants (from Dimensions.ai):
+- Collaborative Research Network for Enhancing Airport Resilience Science and Operation (2025-2027) - $357,481
+  Funder: Directorate for Engineering
+- EAGER: IMPRESS-U Adaptive Infrastructure Recovery from Repeated Shocks through Resilience Stress Testing in Ukraine (2024-2026) - $298,348
+  Funder: Office of the Director
+- Modelling the Response of Coastal Ecosystems to Sea Level Rise and Its Impact on Long Term Flood Risks in the Spanish Coast (2021-2021)
+  Funder: Council for International Exchange of Scholars
+- CNH: Global Sensitivity and Uncertainty Analysis in the Evaluation of Social-Ecological Resilience: Theoretical Debates Over Infrastructure Impacts on Livelihoods and Forest Change (2011-2016) - $1,435,000
+  Funder: Directorate for Biological Sciences
+- U.S.-Costa Rican Workshop: Interdisciplinary workgroup on water sustainability in the Tempisque Basin; Palo Verde NP, Costa Rica, April 2012 (2011-2013) - $30,246
+  Funder: Office of the Director
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3707 Hydrology; 41 Environmental Sciences; 30 Agricultural, Veterinary and Food Sciences; 40 Engineering
+
+Key Research Concepts (from Dimensions.ai):
+vegetative filter strips; water quality; filter strips; Vegetative Filter Strip Modeling System; Environmental Fluid Dynamics Code; hydrodynamic processes; Lake Okeechobee; water quality improvement; unmanned aerial systems; hyperspectral images
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Universidad Publica de Navarra
+- Technical University of Denmark
+- North Carolina State University
+- Environmental Protection Agency
+- University of Michigan-Ann Arbor
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.5/10
+Percentile: Top 10% of Water Institute faculty
+Rankings by Research Category:
+- Hydrology: #3 of 18
+- Engineering: #7 of 53
+- Agricultural, Veterinary and Food Sciences: #10 of 99

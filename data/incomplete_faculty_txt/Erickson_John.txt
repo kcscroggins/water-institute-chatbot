@@ -1,0 +1,78 @@
+Name: John Erickson
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: jerickson@ufl.edu
+Website: http://dpm.ifas.ufl.edu/dr-john-erickson/
+Google Scholar: https://scholar.google.com/citations?user=SNfBzIL6iLcC&hl=en
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 93
+- Total Citations: 1760
+- H-Index: 23
+- Average Citations per Paper: 18.9
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 7.91 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Leveraging natural language processing to support automated assessment and feedback for student open responses in mathematics *Journal of Computer Assisted Learning* (2023) - 63 citations
+  DOI: https://doi.org/10.1111/jcal.12793
+- Salt tolerance assessment of aquatic and wetland plants: increased salinity can reshape aquatic vegetation communities *Hydrobiologia* (2022) - 19 citations
+  DOI: https://doi.org/10.1007/s10750-022-04934-5
+- Precise unbiased estimation in randomized experiments using auxiliary observational data *Journal of Causal Inference* (2023) - 12 citations
+  DOI: https://doi.org/10.1515/jci-2022-0011
+- Blending learning analytics and embodied design to model students’ comprehension of measurement using their actions, speech, and gestures *International Journal of Child-Computer Interaction* (2022) - 11 citations
+  DOI: https://doi.org/10.1016/j.ijcci.2021.100391
+- Assessing the impacts of biochar and fertilizer management strategies on N and P balances in subtropical pastures *Geoderma* (2021) - 8 citations
+  DOI: https://doi.org/10.1016/j.geoderma.2021.115038
+- Investigating Patterns of Tone and Sentiment in Teacher Written Feedback Messages *Communications in Computer and Information Science* (2023) - 5 citations
+  DOI: https://doi.org/10.1007/978-3-031-36336-8_53
+- Biochar affects soil water content but not soybean yield in a sandy southeastern U.S. soil *Agrosystems Geosciences & Environment* (2021) - 5 citations
+  DOI: https://doi.org/10.1002/agg2.20197
+- Effects of St. Augustinegrass genotype and irrigation frequency on turfgrass quality in a subtropical environment *International Turfgrass Society Research Journal* (2022) - 4 citations
+  DOI: https://doi.org/10.1002/its2.134
+- Yield, nitrogen, and water-use efficiency of grain sorghum with diverse crown root angle *Field Crops Research* (2023) - 3 citations
+  DOI: https://doi.org/10.1016/j.fcr.2023.108878
+- Effects of polyethylene glycol on root and shoot production in zoysiagrasses *International Turfgrass Society Research Journal* (2022) - 2 citations
+  DOI: https://doi.org/10.1002/its2.111
+
+Research Grants (from Dimensions.ai):
+- Developing Sustainable Cropping Systems for the Southeastern United States (2015-2020)
+  Funder: National Institute of Food and Agriculture
+- Enhancing Ecosystem Services through Genetic Diversity in Root System Architecture of Grain Sorghum Agroecosystems (2015-2020) - $325,000
+  Funder: National Institute of Food and Agriculture
+- Direct Effects of Converting Conventional Cropping Systems to Biofuel Cropping Systems on Ecosystem Services for the Southeastern USA (2012-2017) - $497,851
+  Funder: National Institute of Food and Agriculture
+- DISPLACING IMPORTED PETROLEUM WITH RENEWABLES (2011-2013) - $135,507
+  Funder: National Institute of Food and Agriculture
+- Displacing Imported Petroleum with Renewables (2008-2011) - $138,898
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3004 Crop and Pasture Production; 3901 Curriculum and Pedagogy; 3903 Education Systems; 39 Education
+
+Key Research Concepts (from Dimensions.ai):
+students' conceptual understanding; sensor-based irrigation; irrigation frequency; drought response; turfgrass quality; soil water repellency; open-ended questions; student responses; background teachers; student work
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Worcester Polytechnic Institute
+- Western Kentucky University
+- The Pennsylvania State University
+- North Carolina State University
+- Texas A&M University

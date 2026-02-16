@@ -23,3 +23,61 @@ Notable Projects:
 
 Keywords:
 Environmental remediation; contaminant fate and transport; water quality; PFAS; nanomaterials; biochar; emerging contaminants; agricultural engineering.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 18
+- Total Citations: 258
+- H-Index: 5
+- Average Citations per Paper: 14.3
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.58 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Transport of perfluorooctanoic acid in unsaturated porous media mediated by SDBS *Journal of Hydrology* (2022) - 27 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2022.127479
+- Realistic and field scale applications of biochar for water remediation: A literature review *Journal of Environmental Management* (2025) - 13 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2025.125524
+- Regeneration of biochars (pristine and modified/engineered) and economic analysis of their use in the removal of per- and polyfluoroalkyl substances (PFAS) from water/wastewater *Frontiers of Environmental Science & Engineering* (2024) - 8 citations
+  DOI: https://doi.org/10.1007/s11783-025-1940-8
+- Explainable machine learning reveals climate warming increases risk of algal blooms in lakes and reservoirs *Water Research* (2025) - 5 citations
+  DOI: https://doi.org/10.1016/j.watres.2025.124460
+- Spatial and temporal dynamics of dissolved organic carbon fractions in river-reservoir ecosystems: A large-scale study in the Wujiang River Basin, Southwest China *Journal of Hydrology* (2025) - 4 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2025.133657
+- Sorptive removal of neonicotinoid pesticides by nanobiochars: Efficiency, kinetics, and reusability *Journal of Hazardous Materials* (2025) - 4 citations
+  DOI: https://doi.org/10.1016/j.jhazmat.2025.138354
+- Overcoming the reactivity-stability challenge in water treatment catalyst through spatial confinement *Nature Communications* (2025) - 3 citations
+  DOI: https://doi.org/10.1038/s41467-025-64684-5
+- Secondary Mobility of Arsenic Due to In Situ-Generated Iron–Arsenic Colloids upon Iron Oxide Amendments *Environmental Science and Technology* (2025) - 3 citations
+  DOI: https://doi.org/10.1021/acs.est.5c06458
+- Sediment eDNA reveals damming triggered changes in algal and fish communities at the Three Gorges Reservoir in China *Environmental Research* (2025) - 3 citations
+  DOI: https://doi.org/10.1016/j.envres.2025.121474
+- Facilitated transport of cadmium by biochar colloids aged with ultraviolet-irradiation in saturated paddy soils *The Science of The Total Environment* (2025) - 3 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2025.178693
+
+Research Grants (from Dimensions.ai):
+- Biochar-Enabled Platform for Enhanced Destruction and Defluorination of Short-Chain Per- and Polyfluoroalkyl Substances (PFAS) in Water (2024-2025) - $75,000
+  Funder: Environmental Protection Agency
+- Integrated Portable Raman and Electrochemical NanoSystem (I-PRENS) for Neonicotinoid Detection and Remediation in Rural Drinking Water Supplies (2023-2025) - $1,362,435
+  Funder: Environmental Protection Agency
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 37 Earth Sciences; 40 Engineering; 4011 Environmental Engineering; 4004 Chemical Engineering
+
+Key Research Concepts (from Dimensions.ai):
+polyfluoroalkyl substances; sorptive removal; algal blooms; organic carbon; paddy soil; transport of perfluorooctanoic acid; perfluorooctanoic acid; sodium dodecyl benzene sulfonate; anionic hydrocarbon surfactant; field scale applications
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Institute of Geochemistry
+- State Key Laboratory of Environmental Geochemistry
+- University of Chinese Academy of Sciences
+- Yale University
+- State Key Laboratory of Soil and Sustainable Agriculture
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.6/10
+Percentile: Top 67% of Water Institute faculty
+Rankings by Research Category:
+- Environmental Engineering: #4 of 6
+- Chemical Engineering: #5 of 6
+- Engineering: #41 of 53

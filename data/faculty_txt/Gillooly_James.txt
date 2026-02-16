@@ -26,3 +26,43 @@ Water & Policy Relevance:
 
 Keywords:
 Metabolic theory; ecophysiology; bioenergetics; scaling laws; temperature dependence; ecosystem processes; carbon cycling; climate change; biological rates; metabolism; ecological theory; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 48
+- Total Citations: 3180
+- H-Index: 25
+- Average Citations per Paper: 66.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 1.75 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Evaluating the tradeoff between offspring number and survivorship across fishes, amphibians, reptiles and mammals *Oikos* (2021) - 13 citations
+  DOI: https://doi.org/10.1111/oik.07569
+- Host cell volume explains differences in the size of DsDNA viruses *Virus Research* (2021) - 4 citations
+  DOI: https://doi.org/10.1016/j.virusres.2021.198321
+- Aging dynamics in captive sea turtles reflect conserved life-history patterns across the testudine phylogeny *Communications Biology* (2025) - 2 citations
+  DOI: https://doi.org/10.1038/s42003-025-08717-1
+- Memories of Trees Past: Coexistence Implications of Legacy Conspecific Density Dependence *Ecology Letters* (2025)
+  DOI: https://doi.org/10.1111/ele.70197
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 3103 Ecology; 41 Environmental Sciences; 3109 Zoology; 3107 Microbiology
+
+Key Research Concepts (from Dimensions.ai):
+reproductive success; offspring mass; offspring size; teleost fish; biomass production rate; double-stranded DNA viruses; genome size; host cell volume; dsDNA viruses; host genome size
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Smithsonian Tropical Research Institute
+- Smithsonian Environmental Research Center
+- Complutense University of Madrid
+- University of L'Aquila
+- Cayman Turtle Center, Grand Cayman, West Bay, Cayman Islands
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.9/10
+Percentile: Top 21% of Water Institute faculty
+Rankings by Research Category:
+- Zoology: #2 of 5
+- Microbiology: #5 of 20
+- Ecology: #17 of 59

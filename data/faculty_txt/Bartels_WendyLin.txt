@@ -31,3 +31,47 @@ Policy Relevance:
 
 Keywords:
 Human dimensions; climate adaptation; natural resource governance; social learning; stakeholder engagement; decision-making; environmental communication; water management; climate information; participatory modeling; FACETS; Floridan Aquifer; BMAPs; springs protection; FloridaWCA; coupled human-natural systems; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 15
+- Total Citations: 204
+- H-Index: 7
+- Average Citations per Paper: 13.6
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 7.79 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Building Community for Participatory Modeling: Network Composition, Trust, and Adaptive Process Design *Society & Natural Resources* (2023) - 15 citations
+  DOI: https://doi.org/10.1080/08941920.2023.2177916
+- Stakeholder-driven assessment of watershed management strategies for agriculture and ecological sustainability: A case study in the lower Apalachicola-Chattahoochee-Flint (ACF) River Basin *Journal of Environmental Management* (2024) - 2 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2024.123628
+- Cultivating a bioeconomy: Risks, collaboration, and partnerships in agricultural innovation *NJAS Impact in Agricultural and Life Sciences* (2024) - 1 citations
+  DOI: https://doi.org/10.1080/27685241.2024.2420797
+- Stakeholder-Informed Environmental-Economic Tradeoffs at the Farm and Forest Scale *SSRN Electronic Journal* (2025)
+  DOI: https://doi.org/10.2139/ssrn.5527371
+- Exploring Trust Ecology in a Public-Private Partnership for Agricultural Innovation in the United States Bioeconomy *Society & Natural Resources* (2024)
+  DOI: https://doi.org/10.1080/08941920.2024.2420315
+- Inclusive simulation game development to enhance Florida research and management: Cedar Key oyster fishery *Environmental Modelling & Software* (2024)
+  DOI: https://doi.org/10.1016/j.envsoft.2023.105885
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 41 Environmental Sciences; 4104 Environmental Management; 30 Agricultural, Veterinary and Food Sciences; 33 Built Environment and Design
+
+Key Research Concepts (from Dimensions.ai):
+public-private partnership; phases of projects; process design; iterative process design; participatory model; building community; Apalachicola–Chattahoochee–Flint; watershed management strategies; River Basin; ecological sustainability
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Maryland, College Park
+- Albany State University
+- University of Georgia
+- Auburn University
+- Government of the United States of America
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.7/10
+Percentile: Top 62% of Water Institute faculty
+Rankings by Research Category:
+- Built Environment and Design: #7 of 12
+- Environmental Management: #31 of 46
+- Earth Sciences: #53 of 70

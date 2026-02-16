@@ -22,3 +22,67 @@ Notable Achievements:
 
 Keywords:
 Marine disease ecology; lobster viruses; marine invertebrates; coral reef restoration; cyanobacteria blooms; Florida Keys; fisheries management; aquatic disease epidemiology.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 74
+- Total Citations: 1370
+- H-Index: 22
+- Average Citations per Paper: 18.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.82 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- A scuticociliate causes mass mortality of Diadema antillarum in the Caribbean Sea *Science Advances* (2023) - 51 citations
+  DOI: https://doi.org/10.1126/sciadv.adg3200
+- Identifying invasive species threats, pathways, and impacts to improve biosecurity *Ecosphere* (2023) - 34 citations
+  DOI: https://doi.org/10.1002/ecs2.4711
+- Revising the Freshwater Thelohania to Astathelohania gen. et comb. nov., and Description of Two New Species *Microorganisms* (2022) - 16 citations
+  DOI: https://doi.org/10.3390/microorganisms10030636
+- Pathology and genetic connectedness of the mangrove crab (Aratus pisonii) – a foundation for understanding mangrove disease ecology *Animal Diseases* (2022) - 12 citations
+  DOI: https://doi.org/10.1186/s44149-022-00039-7
+- Rediscovering “Baculovirus-A” (Johnson, 1976): The complete genome of ‘Callinectes sapidus nudivirus’ *Journal of Invertebrate Pathology* (2022) - 11 citations
+  DOI: https://doi.org/10.1016/j.jip.2022.107822
+- Alternosema astaquatica n. sp. (Microsporidia: Enterocytozoonida), a systemic parasite of the crayfish Faxonius virilis *Journal of Invertebrate Pathology* (2023) - 10 citations
+  DOI: https://doi.org/10.1016/j.jip.2023.107948
+- The plot thickens: Ovipleistophora diplostomuri infects two additional species of Florida crayfish *Journal of Invertebrate Pathology* (2022) - 10 citations
+  DOI: https://doi.org/10.1016/j.jip.2022.107766
+- A reflex action mortality predictor (RAMP) for commercially fished blue crab Callinectes sapidus in Florida *Fisheries Research* (2022) - 10 citations
+  DOI: https://doi.org/10.1016/j.fishres.2021.106188
+- Behavioral Immunity and Social Distancing in the Wild: The Same as in Humans? *BioScience* (2021) - 9 citations
+  DOI: https://doi.org/10.1093/biosci/biaa176
+- Microsporidia and invertebrate hosts: genome-informed taxonomy surrounding a new lineage of crayfish-infecting Nosema spp. (Nosematida) *Fungal Diversity* (2024) - 8 citations
+  DOI: https://doi.org/10.1007/s13225-024-00543-w
+
+Research Grants (from Dimensions.ai):
+- RAPID: Effects of the 2023-24 El Nino on Fish Disease and Population Dynamics in the Galapagos Islands (2024-2025) - $200,000
+  Funder: Directorate for Geosciences
+- RAPID: Mass Mortality of the Keystone Herbivore Diadema antillarum Underway around the Caribbean Sea (2022-2026) - $199,928
+  Funder: Directorate for Geosciences
+- Collaborative research: Variation in life history and connectivity as drivers of pathogen-host dynamics and genetic structure in a trans-hemispheric pathosystem (2017-2022) - $423,412
+  Funder: Directorate for Geosciences
+- Marine Pathogens as Drivers of European Crustacean Ecology and Fishery Dynamics (2015-2016)
+  Funder: Council for International Exchange of Scholars
+- Tools for Sustainably Managing the Florida Lobster Fishery Under Threat from Disease and Climate Change (2014-2017) - $248,115
+  Funder: National Oceanic and Atmospheric Administration
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 3103 Ecology; 3105 Genetics; 3107 Microbiology; 30 Agricultural, Veterinary and Food Sciences
+
+Key Research Concepts (from Dimensions.ai):
+protein coding genes; Faxonius virilis; host cell cytoplasm; reflex action mortality predictors; mass mortality events; mass mortality; mortality events; field-collected specimens; Diadema antillarum; high-risk taxa
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Teesside University
+- Florida Fish and Wildlife Conservation Commission
+- United States Geological Survey
+- University of the Virgin Islands
+- Cornell University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.7/10
+Percentile: Top 24% of Water Institute faculty
+Rankings by Research Category:
+- Genetics: #3 of 8
+- Microbiology: #6 of 20
+- Ecology: #18 of 59

@@ -26,3 +26,39 @@ Water & Policy Relevance:
 
 Keywords:
 Horticulture; specialty crops; vegetables; subtropical agriculture; South Florida; nutrient management; fertilizer efficiency; water quality; sustainable agriculture; FLREC; food-water-energy nexus; rain barrels; climate resilience; Extension; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 4
+- Total Citations: 2
+- H-Index: 1
+- Average Citations per Paper: 0.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 0.43 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Urban Agriculture and its Sustainability Implications on the Food-Water-Energy Nexus: FOR391/FR463, 3/2023 *EDIS* (2023) - 1 citations
+  DOI: https://doi.org/10.32473/edis-fr463-2023
+- Costs and Benefits of Vegetable Gardening *EDIS* (2021) - 1 citations
+  DOI: https://doi.org/10.32473/edis-fe1092-2021
+- Rain Barrel Water Quality in Florida: ENH1376/EP640, 10/2023 *EDIS* (2023)
+  DOI: https://doi.org/10.32473/edis-ep640-2023
+- Scenario Planning in Managing Ecosystem Services and Natural Resources: FOR394/FR465, 3/2023 *EDIS* (2023)
+  DOI: https://doi.org/10.32473/edis-fr464-2023
+
+Research Categories (from Dimensions.ai):
+4406 Human Geography; 4410 Sociology; 44 Human Society; 32 Biomedical and Clinical Sciences; 3210 Nutrition and Dietetics
+
+Key Research Concepts (from Dimensions.ai):
+urban agriculture; development of urban agriculture; sustainability implications; FEW Nexus; local case studies; economics departments; calculated cost savings; home vegetable gardens; food bill; cost savings
+
+Top Collaborating Institutions (from Dimensions.ai):
+- UF/IFAS Extension Broward County
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.1/10
+Percentile: Top 97% of Water Institute faculty
+Rankings by Research Category:
+- Nutrition and Dietetics: #2 of 2
+- Sociology: #4 of 4
+- Human Geography: #5 of 6

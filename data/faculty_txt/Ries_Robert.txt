@@ -27,3 +27,51 @@ Dr. Ries's research equips decision-makers with evidence and metrics to evaluate
 
 Keywords:
 sustainable construction; life-cycle assessment; LCA; built environment; environmental impact; building performance; infrastructure; construction management; sustainability metrics; green building; design decisions; environmental footprint; resilience
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 23
+- Total Citations: 1547
+- H-Index: 17
+- Average Citations per Paper: 67.3
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 6.29 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Monte Carlo parameters in modeling service life: Influence on life-cycle assessment *Journal of Building Engineering* (2021) - 33 citations
+  DOI: https://doi.org/10.1016/j.jobe.2021.103232
+- Investigating the Impact of Actual and Modeled Occupant Behavior Information Input to Building Performance Simulation *Buildings* (2021) - 22 citations
+  DOI: https://doi.org/10.3390/buildings11010032
+- Retrospective dynamic life cycle assessment of residential heating and cooling systems in four locations in the United States *Energy and Buildings* (2023) - 18 citations
+  DOI: https://doi.org/10.1016/j.enbuild.2023.113272
+- Driving factors for the adoption of green finance in green building for sustainable development in developing countries: The case of Ghana *Sustainable Development* (2024) - 13 citations
+  DOI: https://doi.org/10.1002/sd.3022
+- Preliminary Cost Estimation of Highway Projects Using Statistical Learning Methods *Journal of Construction Engineering and Management* (2023) - 11 citations
+  DOI: https://doi.org/10.1061/jcemd4.coeng-12773
+- Comparison and analysis of product stage and service life uncertainties in life cycle assessment of building elements *Environmental Research Infrastructure and Sustainability* (2022) - 5 citations
+  DOI: https://doi.org/10.1088/2634-4505/ac6d07
+- Evaluating the GHG Emissions of Manufactured Housing through a Comprehensive Life-Cycle Assessment (2023) - 1 citations
+  DOI: https://doi.org/10.1061/9780784485163.100
+- Integrated Environmental and Economic Assessment for the Replacement of the Flooring System in a Public Educational Building *World Sustainability Series* (2025)
+  DOI: https://doi.org/10.1007/978-3-031-85300-5_9
+
+Research Categories (from Dimensions.ai):
+33 Built Environment and Design; 3302 Building; 4104 Environmental Management; 41 Environmental Sciences; 40 Engineering
+
+Key Research Concepts (from Dimensions.ai):
+life cycle assessment; life cycle cost; service life data; service life models; service life; building energy model; occupant behavior; agent-based model; development of energy-efficient buildings; building performance simulation
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Federal University of Rio Grande do Sul
+- Hong Kong Polytechnic University
+- University of Technology Sydney
+- University of Pennsylvania
+- University of Washington
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.4/10
+Percentile: Top 33% of Water Institute faculty
+Rankings by Research Category:
+- Built Environment and Design: #1 of 12
+- Building: #1 of 1
+- Environmental Management: #15 of 46

@@ -1,0 +1,5377 @@
+{
+  "updated": "2026-02-13",
+  "overall": [
+    {
+      "name": "Andrew Zimmerman",
+      "score": 6.4,
+      "h_index": 64,
+      "fcr": 9.48,
+      "citations": 21793,
+      "publications": 130
+    },
+    {
+      "name": "David Kaplan",
+      "score": 6.0,
+      "h_index": 38,
+      "fcr": 79.13,
+      "citations": 6902,
+      "publications": 110
+    },
+    {
+      "name": "Gerrit Hoogenboom",
+      "score": 5.2,
+      "h_index": 52,
+      "fcr": 25.47,
+      "citations": 9777,
+      "publications": 289
+    },
+    {
+      "name": "Nancy Denslow",
+      "score": 4.8,
+      "h_index": 55,
+      "fcr": 9.49,
+      "citations": 10465,
+      "publications": 280
+    },
+    {
+      "name": "Christopher McCarty",
+      "score": 4.7,
+      "h_index": 30,
+      "fcr": 63.59,
+      "citations": 3659,
+      "publications": 79
+    },
+    {
+      "name": "Frank Asche",
+      "score": 4.6,
+      "h_index": 43,
+      "fcr": 33.8,
+      "citations": 6777,
+      "publications": 151
+    },
+    {
+      "name": "Mark Brenner",
+      "score": 4.6,
+      "h_index": 53,
+      "fcr": 9.32,
+      "citations": 10492,
+      "publications": 152
+    },
+    {
+      "name": "Jane Southworth",
+      "score": 4.5,
+      "h_index": 33,
+      "fcr": 52.19,
+      "citations": 4253,
+      "publications": 105
+    },
+    {
+      "name": "Eric W. Triplett",
+      "score": 4.4,
+      "h_index": 41,
+      "fcr": 7.42,
+      "citations": 9709,
+      "publications": 98
+    },
+    {
+      "name": "Sabine Grunwald",
+      "score": 4.4,
+      "h_index": 34,
+      "fcr": 24.53,
+      "citations": 4105,
+      "publications": 109
+    },
+    {
+      "name": "Christopher Martyniuk",
+      "score": 4.3,
+      "h_index": 49,
+      "fcr": 12.55,
+      "citations": 7890,
+      "publications": 318
+    },
+    {
+      "name": "Yiannis Ampatzidis",
+      "score": 3.9,
+      "h_index": 35,
+      "fcr": 26.29,
+      "citations": 4431,
+      "publications": 125
+    },
+    {
+      "name": "Eben Broadbent",
+      "score": 3.9,
+      "h_index": 37,
+      "fcr": 29.56,
+      "citations": 4890,
+      "publications": 108
+    },
+    {
+      "name": "Aditya Singh",
+      "score": 3.9,
+      "h_index": 18,
+      "fcr": 63.9,
+      "citations": 2340,
+      "publications": 72
+    },
+    {
+      "name": "Sadie J. Ryan",
+      "score": 3.8,
+      "h_index": 42,
+      "fcr": 12.58,
+      "citations": 7899,
+      "publications": 217
+    },
+    {
+      "name": "Jianjun Chen",
+      "score": 3.6,
+      "h_index": 41,
+      "fcr": 7.83,
+      "citations": 8392,
+      "publications": 165
+    },
+    {
+      "name": "Paul Fisher",
+      "score": 3.4,
+      "h_index": 18,
+      "fcr": 31.88,
+      "citations": 11827,
+      "publications": 60
+    },
+    {
+      "name": "John Bowden",
+      "score": 3.3,
+      "h_index": 39,
+      "fcr": 10.29,
+      "citations": 4739,
+      "publications": 139
+    },
+    {
+      "name": "Robert Fletcher",
+      "score": 3.3,
+      "h_index": 39,
+      "fcr": 7.29,
+      "citations": 5706,
+      "publications": 138
+    },
+    {
+      "name": "Matthew J. Cohen",
+      "score": 3.0,
+      "h_index": 36,
+      "fcr": 7.45,
+      "citations": 4392,
+      "publications": 95
+    },
+    {
+      "name": "Brett R. Scheffers",
+      "score": 2.9,
+      "h_index": 27,
+      "fcr": 19.32,
+      "citations": 4793,
+      "publications": 67
+    },
+    {
+      "name": "James W. Jawitz",
+      "score": 2.8,
+      "h_index": 36,
+      "fcr": 3.92,
+      "citations": 4706,
+      "publications": 115
+    },
+    {
+      "name": "Vimala D. Nair",
+      "score": 2.8,
+      "h_index": 29,
+      "fcr": 16.66,
+      "citations": 4021,
+      "publications": 63
+    },
+    {
+      "name": "Stephanie Bohlman",
+      "score": 2.7,
+      "h_index": 30,
+      "fcr": 7.61,
+      "citations": 4640,
+      "publications": 81
+    },
+    {
+      "name": "Stephen Holland",
+      "score": 2.7,
+      "h_index": 23,
+      "fcr": 28.5,
+      "citations": 1993,
+      "publications": 44
+    },
+    {
+      "name": "Kati W. Migliaccio",
+      "score": 2.6,
+      "h_index": 17,
+      "fcr": 33.04,
+      "citations": 2500,
+      "publications": 61
+    },
+    {
+      "name": "Jie Xu",
+      "score": 2.5,
+      "h_index": 17,
+      "fcr": 27.02,
+      "citations": 2589,
+      "publications": 93
+    },
+    {
+      "name": "Michael R. Perfit",
+      "score": 2.5,
+      "h_index": 31,
+      "fcr": 1.97,
+      "citations": 3404,
+      "publications": 56
+    },
+    {
+      "name": "Rafael Munoz-Carpena",
+      "score": 2.5,
+      "h_index": 30,
+      "fcr": 3.75,
+      "citations": 4500,
+      "publications": 128
+    },
+    {
+      "name": "Zhenli He",
+      "score": 2.4,
+      "h_index": 30,
+      "fcr": 6.2,
+      "citations": 3317,
+      "publications": 82
+    },
+    {
+      "name": "Micheal S. Allen",
+      "score": 2.4,
+      "h_index": 30,
+      "fcr": 6.49,
+      "citations": 2572,
+      "publications": 95
+    },
+    {
+      "name": "Damian C. Adams",
+      "score": 2.4,
+      "h_index": 21,
+      "fcr": 1.96,
+      "citations": 1259,
+      "publications": 65
+    },
+    {
+      "name": "Lincoln Zotarelli",
+      "score": 2.3,
+      "h_index": 28,
+      "fcr": 9.23,
+      "citations": 2674,
+      "publications": 192
+    },
+    {
+      "name": "Michael D. Annable",
+      "score": 2.3,
+      "h_index": 31,
+      "fcr": 1.4,
+      "citations": 3080,
+      "publications": 101
+    },
+    {
+      "name": "Margaret O. James",
+      "score": 2.3,
+      "h_index": 31,
+      "fcr": 1.57,
+      "citations": 3421,
+      "publications": 117
+    },
+    {
+      "name": "Stuart McDaniel",
+      "score": 2.3,
+      "h_index": 25,
+      "fcr": 7.49,
+      "citations": 2450,
+      "publications": 68
+    },
+    {
+      "name": "Amr Abd-Elrahman",
+      "score": 2.2,
+      "h_index": 27,
+      "fcr": 5.51,
+      "citations": 2312,
+      "publications": 65
+    },
+    {
+      "name": "Arnoldo Valle-Levinson",
+      "score": 2.2,
+      "h_index": 29,
+      "fcr": 2.75,
+      "citations": 3102,
+      "publications": 158
+    },
+    {
+      "name": "Karen Garrett",
+      "score": 2.2,
+      "h_index": 23,
+      "fcr": 14.2,
+      "citations": 2365,
+      "publications": 72
+    },
+    {
+      "name": "Benjamin Anderson",
+      "score": 2.2,
+      "h_index": 22,
+      "fcr": 17.98,
+      "citations": 1734,
+      "publications": 49
+    },
+    {
+      "name": "Colette M. St. Mary",
+      "score": 2.2,
+      "h_index": 22,
+      "fcr": null,
+      "citations": 1187,
+      "publications": 41
+    },
+    {
+      "name": "Lynn E. Sollenberger",
+      "score": 2.2,
+      "h_index": 29,
+      "fcr": 3.51,
+      "citations": 3134,
+      "publications": 186
+    },
+    {
+      "name": "Peter Frederick",
+      "score": 2.1,
+      "h_index": 29,
+      "fcr": 1.99,
+      "citations": 2762,
+      "publications": 107
+    },
+    {
+      "name": "James L. Anderson",
+      "score": 2.1,
+      "h_index": 22,
+      "fcr": 12.73,
+      "citations": 2239,
+      "publications": 36
+    },
+    {
+      "name": "Andrew H. Altieri",
+      "score": 2.1,
+      "h_index": 25,
+      "fcr": 9.01,
+      "citations": 2051,
+      "publications": 68
+    },
+    {
+      "name": "Paul A. Mueller",
+      "score": 2.1,
+      "h_index": 27,
+      "fcr": 3.17,
+      "citations": 2541,
+      "publications": 64
+    },
+    {
+      "name": "Edward J. Phlips",
+      "score": 2.1,
+      "h_index": 27,
+      "fcr": 4.87,
+      "citations": 2161,
+      "publications": 66
+    },
+    {
+      "name": "Michael Dukes",
+      "score": 2.0,
+      "h_index": 24,
+      "fcr": 7.43,
+      "citations": 2758,
+      "publications": 154
+    },
+    {
+      "name": "Anita Wright",
+      "score": 2.0,
+      "h_index": 23,
+      "fcr": 12.11,
+      "citations": 1447,
+      "publications": 39
+    },
+    {
+      "name": "Arnold W. Schumann",
+      "score": 2.0,
+      "h_index": 26,
+      "fcr": 6.85,
+      "citations": 1745,
+      "publications": 76
+    }
+  ],
+  "categories": {
+    "Agricultural, Veterinary and Food Sciences": [
+      {
+        "name": "Andrew Zimmerman",
+        "score": 6.4,
+        "h_index": 64,
+        "fcr": 9.48,
+        "citations": 21793
+      },
+      {
+        "name": "Gerrit Hoogenboom",
+        "score": 5.2,
+        "h_index": 52,
+        "fcr": 25.47,
+        "citations": 9777
+      },
+      {
+        "name": "Frank Asche",
+        "score": 4.6,
+        "h_index": 43,
+        "fcr": 33.8,
+        "citations": 6777
+      },
+      {
+        "name": "Yiannis Ampatzidis",
+        "score": 3.9,
+        "h_index": 35,
+        "fcr": 26.29,
+        "citations": 4431
+      },
+      {
+        "name": "Aditya Singh",
+        "score": 3.9,
+        "h_index": 18,
+        "fcr": 63.9,
+        "citations": 2340
+      },
+      {
+        "name": "Jianjun Chen",
+        "score": 3.6,
+        "h_index": 41,
+        "fcr": 7.83,
+        "citations": 8392
+      },
+      {
+        "name": "Paul Fisher",
+        "score": 3.4,
+        "h_index": 18,
+        "fcr": 31.88,
+        "citations": 11827
+      },
+      {
+        "name": "Vimala D. Nair",
+        "score": 2.8,
+        "h_index": 29,
+        "fcr": 16.66,
+        "citations": 4021
+      },
+      {
+        "name": "Kati W. Migliaccio",
+        "score": 2.6,
+        "h_index": 17,
+        "fcr": 33.04,
+        "citations": 2500
+      },
+      {
+        "name": "Rafael Munoz-Carpena",
+        "score": 2.5,
+        "h_index": 30,
+        "fcr": 3.75,
+        "citations": 4500
+      },
+      {
+        "name": "Zhenli He",
+        "score": 2.4,
+        "h_index": 30,
+        "fcr": 6.2,
+        "citations": 3317
+      },
+      {
+        "name": "Micheal S. Allen",
+        "score": 2.4,
+        "h_index": 30,
+        "fcr": 6.49,
+        "citations": 2572
+      },
+      {
+        "name": "Damian C. Adams",
+        "score": 2.4,
+        "h_index": 21,
+        "fcr": 1.96,
+        "citations": 1259
+      },
+      {
+        "name": "Lincoln Zotarelli",
+        "score": 2.3,
+        "h_index": 28,
+        "fcr": 9.23,
+        "citations": 2674
+      },
+      {
+        "name": "Stuart McDaniel",
+        "score": 2.3,
+        "h_index": 25,
+        "fcr": 7.49,
+        "citations": 2450
+      },
+      {
+        "name": "Karen Garrett",
+        "score": 2.2,
+        "h_index": 23,
+        "fcr": 14.2,
+        "citations": 2365
+      },
+      {
+        "name": "Lynn E. Sollenberger",
+        "score": 2.2,
+        "h_index": 29,
+        "fcr": 3.51,
+        "citations": 3134
+      },
+      {
+        "name": "James L. Anderson",
+        "score": 2.1,
+        "h_index": 22,
+        "fcr": 12.73,
+        "citations": 2239
+      },
+      {
+        "name": "Michael Dukes",
+        "score": 2.0,
+        "h_index": 24,
+        "fcr": 7.43,
+        "citations": 2758
+      },
+      {
+        "name": "Arnold W. Schumann",
+        "score": 2.0,
+        "h_index": 26,
+        "fcr": 6.85,
+        "citations": 1745
+      }
+    ],
+    "Earth Sciences": [
+      {
+        "name": "David Kaplan",
+        "score": 6.0,
+        "h_index": 38,
+        "fcr": 79.13,
+        "citations": 6902
+      },
+      {
+        "name": "Gerrit Hoogenboom",
+        "score": 5.2,
+        "h_index": 52,
+        "fcr": 25.47,
+        "citations": 9777
+      },
+      {
+        "name": "Mark Brenner",
+        "score": 4.6,
+        "h_index": 53,
+        "fcr": 9.32,
+        "citations": 10492
+      },
+      {
+        "name": "Jane Southworth",
+        "score": 4.5,
+        "h_index": 33,
+        "fcr": 52.19,
+        "citations": 4253
+      },
+      {
+        "name": "Sabine Grunwald",
+        "score": 4.4,
+        "h_index": 34,
+        "fcr": 24.53,
+        "citations": 4105
+      },
+      {
+        "name": "Eben Broadbent",
+        "score": 3.9,
+        "h_index": 37,
+        "fcr": 29.56,
+        "citations": 4890
+      },
+      {
+        "name": "Aditya Singh",
+        "score": 3.9,
+        "h_index": 18,
+        "fcr": 63.9,
+        "citations": 2340
+      },
+      {
+        "name": "Matthew J. Cohen",
+        "score": 3.0,
+        "h_index": 36,
+        "fcr": 7.45,
+        "citations": 4392
+      },
+      {
+        "name": "James W. Jawitz",
+        "score": 2.8,
+        "h_index": 36,
+        "fcr": 3.92,
+        "citations": 4706
+      },
+      {
+        "name": "Stephanie Bohlman",
+        "score": 2.7,
+        "h_index": 30,
+        "fcr": 7.61,
+        "citations": 4640
+      },
+      {
+        "name": "Kati W. Migliaccio",
+        "score": 2.6,
+        "h_index": 17,
+        "fcr": 33.04,
+        "citations": 2500
+      },
+      {
+        "name": "Michael R. Perfit",
+        "score": 2.5,
+        "h_index": 31,
+        "fcr": 1.97,
+        "citations": 3404
+      },
+      {
+        "name": "Rafael Munoz-Carpena",
+        "score": 2.5,
+        "h_index": 30,
+        "fcr": 3.75,
+        "citations": 4500
+      },
+      {
+        "name": "Lincoln Zotarelli",
+        "score": 2.3,
+        "h_index": 28,
+        "fcr": 9.23,
+        "citations": 2674
+      },
+      {
+        "name": "Michael D. Annable",
+        "score": 2.3,
+        "h_index": 31,
+        "fcr": 1.4,
+        "citations": 3080
+      },
+      {
+        "name": "Amr Abd-Elrahman",
+        "score": 2.2,
+        "h_index": 27,
+        "fcr": 5.51,
+        "citations": 2312
+      },
+      {
+        "name": "Arnoldo Valle-Levinson",
+        "score": 2.2,
+        "h_index": 29,
+        "fcr": 2.75,
+        "citations": 3102
+      },
+      {
+        "name": "Paul A. Mueller",
+        "score": 2.1,
+        "h_index": 27,
+        "fcr": 3.17,
+        "citations": 2541
+      },
+      {
+        "name": "Edward J. Phlips",
+        "score": 2.1,
+        "h_index": 27,
+        "fcr": 4.87,
+        "citations": 2161
+      },
+      {
+        "name": "Arnold W. Schumann",
+        "score": 2.0,
+        "h_index": 26,
+        "fcr": 6.85,
+        "citations": 1745
+      }
+    ],
+    "Engineering": [
+      {
+        "name": "Andrew Zimmerman",
+        "score": 6.4,
+        "h_index": 64,
+        "fcr": 9.48,
+        "citations": 21793
+      },
+      {
+        "name": "Jane Southworth",
+        "score": 4.5,
+        "h_index": 33,
+        "fcr": 52.19,
+        "citations": 4253
+      },
+      {
+        "name": "Sabine Grunwald",
+        "score": 4.4,
+        "h_index": 34,
+        "fcr": 24.53,
+        "citations": 4105
+      },
+      {
+        "name": "Jianjun Chen",
+        "score": 3.6,
+        "h_index": 41,
+        "fcr": 7.83,
+        "citations": 8392
+      },
+      {
+        "name": "Stephanie Bohlman",
+        "score": 2.7,
+        "h_index": 30,
+        "fcr": 7.61,
+        "citations": 4640
+      },
+      {
+        "name": "Kati W. Migliaccio",
+        "score": 2.6,
+        "h_index": 17,
+        "fcr": 33.04,
+        "citations": 2500
+      },
+      {
+        "name": "Rafael Munoz-Carpena",
+        "score": 2.5,
+        "h_index": 30,
+        "fcr": 3.75,
+        "citations": 4500
+      },
+      {
+        "name": "Zhenli He",
+        "score": 2.4,
+        "h_index": 30,
+        "fcr": 6.2,
+        "citations": 3317
+      },
+      {
+        "name": "Lincoln Zotarelli",
+        "score": 2.3,
+        "h_index": 28,
+        "fcr": 9.23,
+        "citations": 2674
+      },
+      {
+        "name": "Amr Abd-Elrahman",
+        "score": 2.2,
+        "h_index": 27,
+        "fcr": 5.51,
+        "citations": 2312
+      },
+      {
+        "name": "Michael Dukes",
+        "score": 2.0,
+        "h_index": 24,
+        "fcr": 7.43,
+        "citations": 2758
+      },
+      {
+        "name": "Arnold W. Schumann",
+        "score": 2.0,
+        "h_index": 26,
+        "fcr": 6.85,
+        "citations": 1745
+      },
+      {
+        "name": "Xiaoyu Song",
+        "score": 1.9,
+        "h_index": 24,
+        "fcr": 5.46,
+        "citations": 1423
+      },
+      {
+        "name": "Pratap Pullammanappallil",
+        "score": 1.8,
+        "h_index": 21,
+        "fcr": 0.65,
+        "citations": 4724
+      },
+      {
+        "name": "Jean-Claude Bonzongo",
+        "score": 1.8,
+        "h_index": 22,
+        "fcr": 3.51,
+        "citations": 2483
+      },
+      {
+        "name": "Jasmeet Judge",
+        "score": 1.6,
+        "h_index": 20,
+        "fcr": 5.18,
+        "citations": 1531
+      },
+      {
+        "name": "Myoseon Jang",
+        "score": 1.6,
+        "h_index": 20,
+        "fcr": 2.68,
+        "citations": 1525
+      },
+      {
+        "name": "Kent Crippen",
+        "score": 1.5,
+        "h_index": 15,
+        "fcr": 6.82,
+        "citations": 856
+      },
+      {
+        "name": "Robert J. Ries",
+        "score": 1.4,
+        "h_index": 17,
+        "fcr": 6.29,
+        "citations": 1547
+      },
+      {
+        "name": "Xiao Yu",
+        "score": 1.3,
+        "h_index": 15,
+        "fcr": 4.71,
+        "citations": 739
+      }
+    ],
+    "Geoinformatics": [
+      {
+        "name": "Kati W. Migliaccio",
+        "score": 2.6,
+        "h_index": 17,
+        "fcr": 33.04,
+        "citations": 2500
+      },
+      {
+        "name": "Amr Abd-Elrahman",
+        "score": 2.2,
+        "h_index": 27,
+        "fcr": 5.51,
+        "citations": 2312
+      },
+      {
+        "name": "Jasmeet Judge",
+        "score": 1.6,
+        "h_index": 20,
+        "fcr": 5.18,
+        "citations": 1531
+      },
+      {
+        "name": "Kirk Hatfield",
+        "score": 1.6,
+        "h_index": 21,
+        "fcr": 0.87,
+        "citations": 1663
+      },
+      {
+        "name": "David Keellings",
+        "score": 1.1,
+        "h_index": 13,
+        "fcr": 4.83,
+        "citations": 1105
+      },
+      {
+        "name": "Young Gu Her",
+        "score": 0.4,
+        "h_index": 4,
+        "fcr": 1.72,
+        "citations": 109
+      },
+      {
+        "name": "Xiaohui Qiao",
+        "score": 0.3,
+        "h_index": 3,
+        "fcr": 4.2,
+        "citations": 30
+      }
+    ],
+    "Plant Biology": [
+      {
+        "name": "Jianjun Chen",
+        "score": 3.6,
+        "h_index": 41,
+        "fcr": 7.83,
+        "citations": 8392
+      },
+      {
+        "name": "Kati W. Migliaccio",
+        "score": 2.6,
+        "h_index": 17,
+        "fcr": 33.04,
+        "citations": 2500
+      },
+      {
+        "name": "Karen Garrett",
+        "score": 2.2,
+        "h_index": 23,
+        "fcr": 14.2,
+        "citations": 2365
+      },
+      {
+        "name": "Muhammad Shahid",
+        "score": 1.8,
+        "h_index": 19,
+        "fcr": 11.34,
+        "citations": 1603
+      },
+      {
+        "name": "Shouan Zhang",
+        "score": 1.7,
+        "h_index": 22,
+        "fcr": 3.94,
+        "citations": 1476
+      },
+      {
+        "name": "Heqiang Huo",
+        "score": 1.6,
+        "h_index": 19,
+        "fcr": 7.31,
+        "citations": 1440
+      },
+      {
+        "name": "Jonathan Crane",
+        "score": 1.5,
+        "h_index": 20,
+        "fcr": 4.27,
+        "citations": 1365
+      },
+      {
+        "name": "Johan Desaeger",
+        "score": 1.2,
+        "h_index": 16,
+        "fcr": 3.48,
+        "citations": 773
+      },
+      {
+        "name": "Davie M. Kadyampakeni",
+        "score": 1.0,
+        "h_index": 14,
+        "fcr": 2.69,
+        "citations": 610
+      },
+      {
+        "name": "Ian M. Small",
+        "score": 1.0,
+        "h_index": 14,
+        "fcr": 3.21,
+        "citations": 573
+      },
+      {
+        "name": "Christopher I. Vincent",
+        "score": 1.0,
+        "h_index": 11,
+        "fcr": 6.99,
+        "citations": 383
+      },
+      {
+        "name": "Brian Pearson",
+        "score": 1.0,
+        "h_index": 13,
+        "fcr": 3.47,
+        "citations": 448
+      },
+      {
+        "name": "Grace John",
+        "score": 0.9,
+        "h_index": 8,
+        "fcr": 8.45,
+        "citations": 453
+      },
+      {
+        "name": "Vivek Sharma",
+        "score": 0.6,
+        "h_index": 7,
+        "fcr": 3.84,
+        "citations": 198
+      },
+      {
+        "name": "Richard Beeson",
+        "score": 0.5,
+        "h_index": 7,
+        "fcr": 0.38,
+        "citations": 158
+      },
+      {
+        "name": "Chamteut Oh",
+        "score": 0.4,
+        "h_index": 4,
+        "fcr": 2.83,
+        "citations": 54
+      },
+      {
+        "name": "James Estrada",
+        "score": 0.3,
+        "h_index": 3,
+        "fcr": null,
+        "citations": 85
+      },
+      {
+        "name": "Luke Harlow",
+        "score": 0.2,
+        "h_index": 1,
+        "fcr": 2.86,
+        "citations": 3
+      }
+    ],
+    "Horticultural Production": [
+      {
+        "name": "Yiannis Ampatzidis",
+        "score": 3.9,
+        "h_index": 35,
+        "fcr": 26.29,
+        "citations": 4431
+      },
+      {
+        "name": "Clyde Fraisse",
+        "score": 1.9,
+        "h_index": 21,
+        "fcr": 3.72,
+        "citations": 1761
+      },
+      {
+        "name": "Muhammad Shahid",
+        "score": 1.8,
+        "h_index": 19,
+        "fcr": 11.34,
+        "citations": 1603
+      },
+      {
+        "name": "Heqiang Huo",
+        "score": 1.6,
+        "h_index": 19,
+        "fcr": 7.31,
+        "citations": 1440
+      },
+      {
+        "name": "Jonathan Crane",
+        "score": 1.5,
+        "h_index": 20,
+        "fcr": 4.27,
+        "citations": 1365
+      },
+      {
+        "name": "Johan Desaeger",
+        "score": 1.2,
+        "h_index": 16,
+        "fcr": 3.48,
+        "citations": 773
+      },
+      {
+        "name": "J. Bryan Unruh",
+        "score": 1.1,
+        "h_index": 15,
+        "fcr": 3.65,
+        "citations": 781
+      },
+      {
+        "name": "Christopher I. Vincent",
+        "score": 1.0,
+        "h_index": 11,
+        "fcr": 6.99,
+        "citations": 383
+      },
+      {
+        "name": "Shinsuke Agehara",
+        "score": 0.9,
+        "h_index": 12,
+        "fcr": 3.37,
+        "citations": 384
+      },
+      {
+        "name": "Qingren Wang",
+        "score": 0.6,
+        "h_index": 8,
+        "fcr": 0.57,
+        "citations": 480
+      },
+      {
+        "name": "Tara Wade",
+        "score": 0.6,
+        "h_index": 6,
+        "fcr": 4.35,
+        "citations": 180
+      },
+      {
+        "name": "Huiping Yang",
+        "score": 0.4,
+        "h_index": 5,
+        "fcr": 1.94,
+        "citations": 70
+      },
+      {
+        "name": "Evelyn Fletcher",
+        "score": 0.2,
+        "h_index": 2,
+        "fcr": null,
+        "citations": 37
+      }
+    ],
+    "Environmental Sciences": [
+      {
+        "name": "Andrew Zimmerman",
+        "score": 6.4,
+        "h_index": 64,
+        "fcr": 9.48,
+        "citations": 21793
+      },
+      {
+        "name": "David Kaplan",
+        "score": 6.0,
+        "h_index": 38,
+        "fcr": 79.13,
+        "citations": 6902
+      },
+      {
+        "name": "Nancy Denslow",
+        "score": 4.8,
+        "h_index": 55,
+        "fcr": 9.49,
+        "citations": 10465
+      },
+      {
+        "name": "Frank Asche",
+        "score": 4.6,
+        "h_index": 43,
+        "fcr": 33.8,
+        "citations": 6777
+      },
+      {
+        "name": "Jane Southworth",
+        "score": 4.5,
+        "h_index": 33,
+        "fcr": 52.19,
+        "citations": 4253
+      },
+      {
+        "name": "Sabine Grunwald",
+        "score": 4.4,
+        "h_index": 34,
+        "fcr": 24.53,
+        "citations": 4105
+      },
+      {
+        "name": "Christopher Martyniuk",
+        "score": 4.3,
+        "h_index": 49,
+        "fcr": 12.55,
+        "citations": 7890
+      },
+      {
+        "name": "Eben Broadbent",
+        "score": 3.9,
+        "h_index": 37,
+        "fcr": 29.56,
+        "citations": 4890
+      },
+      {
+        "name": "Sadie J. Ryan",
+        "score": 3.8,
+        "h_index": 42,
+        "fcr": 12.58,
+        "citations": 7899
+      },
+      {
+        "name": "John Bowden",
+        "score": 3.3,
+        "h_index": 39,
+        "fcr": 10.29,
+        "citations": 4739
+      },
+      {
+        "name": "Robert Fletcher",
+        "score": 3.3,
+        "h_index": 39,
+        "fcr": 7.29,
+        "citations": 5706
+      },
+      {
+        "name": "Brett R. Scheffers",
+        "score": 2.9,
+        "h_index": 27,
+        "fcr": 19.32,
+        "citations": 4793
+      },
+      {
+        "name": "Vimala D. Nair",
+        "score": 2.8,
+        "h_index": 29,
+        "fcr": 16.66,
+        "citations": 4021
+      },
+      {
+        "name": "Stephanie Bohlman",
+        "score": 2.7,
+        "h_index": 30,
+        "fcr": 7.61,
+        "citations": 4640
+      },
+      {
+        "name": "Rafael Munoz-Carpena",
+        "score": 2.5,
+        "h_index": 30,
+        "fcr": 3.75,
+        "citations": 4500
+      },
+      {
+        "name": "Zhenli He",
+        "score": 2.4,
+        "h_index": 30,
+        "fcr": 6.2,
+        "citations": 3317
+      },
+      {
+        "name": "Micheal S. Allen",
+        "score": 2.4,
+        "h_index": 30,
+        "fcr": 6.49,
+        "citations": 2572
+      },
+      {
+        "name": "Damian C. Adams",
+        "score": 2.4,
+        "h_index": 21,
+        "fcr": 1.96,
+        "citations": 1259
+      },
+      {
+        "name": "Michael D. Annable",
+        "score": 2.3,
+        "h_index": 31,
+        "fcr": 1.4,
+        "citations": 3080
+      },
+      {
+        "name": "Margaret O. James",
+        "score": 2.3,
+        "h_index": 31,
+        "fcr": 1.57,
+        "citations": 3421
+      }
+    ],
+    "Chemical Sciences": [
+      {
+        "name": "John Bowden",
+        "score": 3.3,
+        "h_index": 39,
+        "fcr": 10.29,
+        "citations": 4739
+      },
+      {
+        "name": "Margaret O. James",
+        "score": 2.3,
+        "h_index": 31,
+        "fcr": 1.57,
+        "citations": 3421
+      },
+      {
+        "name": "Joseph Bisesi",
+        "score": 1.4,
+        "h_index": 19,
+        "fcr": 3.0,
+        "citations": 1068
+      },
+      {
+        "name": "Austin Evans",
+        "score": 1.2,
+        "h_index": 11,
+        "fcr": 10.69,
+        "citations": 756
+      },
+      {
+        "name": "Daniel A. Savin",
+        "score": 1.1,
+        "h_index": 15,
+        "fcr": 0.82,
+        "citations": 1215
+      },
+      {
+        "name": "Boce Zhang",
+        "score": 0.9,
+        "h_index": 11,
+        "fcr": 3.74,
+        "citations": 269
+      },
+      {
+        "name": "Joshua Moon",
+        "score": 0.2,
+        "h_index": 1,
+        "fcr": null,
+        "citations": 4
+      },
+      {
+        "name": "Guilhem De Hoe",
+        "score": 0.2,
+        "h_index": 1,
+        "fcr": 2.8,
+        "citations": 9
+      },
+      {
+        "name": "Youngsup Song",
+        "score": 0.2,
+        "h_index": 2,
+        "fcr": 2.35,
+        "citations": 8
+      },
+      {
+        "name": "Sungyoon Jung",
+        "score": 0.1,
+        "h_index": 1,
+        "fcr": null,
+        "citations": 4
+      }
+    ],
+    "Pollution and Contamination": [
+      {
+        "name": "Nancy Denslow",
+        "score": 4.8,
+        "h_index": 55,
+        "fcr": 9.49,
+        "citations": 10465
+      },
+      {
+        "name": "Christopher Martyniuk",
+        "score": 4.3,
+        "h_index": 49,
+        "fcr": 12.55,
+        "citations": 7890
+      },
+      {
+        "name": "John Bowden",
+        "score": 3.3,
+        "h_index": 39,
+        "fcr": 10.29,
+        "citations": 4739
+      },
+      {
+        "name": "Margaret O. James",
+        "score": 2.3,
+        "h_index": 31,
+        "fcr": 1.57,
+        "citations": 3421
+      },
+      {
+        "name": "Edward J. Phlips",
+        "score": 2.1,
+        "h_index": 27,
+        "fcr": 4.87,
+        "citations": 2161
+      },
+      {
+        "name": "Todd Osborne",
+        "score": 1.9,
+        "h_index": 23,
+        "fcr": 5.13,
+        "citations": 1745
+      },
+      {
+        "name": "Jean-Claude Bonzongo",
+        "score": 1.8,
+        "h_index": 22,
+        "fcr": 3.51,
+        "citations": 2483
+      },
+      {
+        "name": "Tracie Baker",
+        "score": 0.9,
+        "h_index": 8,
+        "fcr": 4.6,
+        "citations": 256
+      },
+      {
+        "name": "Jonathan D. Judy",
+        "score": 0.9,
+        "h_index": 11,
+        "fcr": 2.47,
+        "citations": 1327
+      },
+      {
+        "name": "Katherine Deliz Qui\u00f1ones",
+        "score": 0.6,
+        "h_index": 6,
+        "fcr": 4.74,
+        "citations": 120
+      },
+      {
+        "name": "Nicole Dennis",
+        "score": 0.4,
+        "h_index": 2,
+        "fcr": 7.9,
+        "citations": 26
+      },
+      {
+        "name": "Bridget B. Baker",
+        "score": 0.4,
+        "h_index": 5,
+        "fcr": 3.42,
+        "citations": 76
+      },
+      {
+        "name": "Patrick C. Wilson",
+        "score": 0.3,
+        "h_index": 4,
+        "fcr": 1.33,
+        "citations": 97
+      }
+    ],
+    "Biomedical and Clinical Sciences": [
+      {
+        "name": "Nancy Denslow",
+        "score": 4.8,
+        "h_index": 55,
+        "fcr": 9.49,
+        "citations": 10465
+      },
+      {
+        "name": "Eric W. Triplett",
+        "score": 4.4,
+        "h_index": 41,
+        "fcr": 7.42,
+        "citations": 9709
+      },
+      {
+        "name": "Christopher Martyniuk",
+        "score": 4.3,
+        "h_index": 49,
+        "fcr": 12.55,
+        "citations": 7890
+      },
+      {
+        "name": "Sadie J. Ryan",
+        "score": 3.8,
+        "h_index": 42,
+        "fcr": 12.58,
+        "citations": 7899
+      },
+      {
+        "name": "Paul Fisher",
+        "score": 3.4,
+        "h_index": 18,
+        "fcr": 31.88,
+        "citations": 11827
+      },
+      {
+        "name": "John Bowden",
+        "score": 3.3,
+        "h_index": 39,
+        "fcr": 10.29,
+        "citations": 4739
+      },
+      {
+        "name": "Jie Xu",
+        "score": 2.5,
+        "h_index": 17,
+        "fcr": 27.02,
+        "citations": 2589
+      },
+      {
+        "name": "Margaret O. James",
+        "score": 2.3,
+        "h_index": 31,
+        "fcr": 1.57,
+        "citations": 3421
+      },
+      {
+        "name": "Benjamin Anderson",
+        "score": 2.2,
+        "h_index": 22,
+        "fcr": 17.98,
+        "citations": 1734
+      },
+      {
+        "name": "Anita Wright",
+        "score": 2.0,
+        "h_index": 23,
+        "fcr": 12.11,
+        "citations": 1447
+      },
+      {
+        "name": "Joseph Bisesi",
+        "score": 1.4,
+        "h_index": 19,
+        "fcr": 3.0,
+        "citations": 1068
+      },
+      {
+        "name": "Erin Jones",
+        "score": 1.2,
+        "h_index": 2,
+        "fcr": 27.9,
+        "citations": 52
+      },
+      {
+        "name": "Mariola Edelmann",
+        "score": 1.2,
+        "h_index": 14,
+        "fcr": 5.58,
+        "citations": 780
+      },
+      {
+        "name": "Spyros A. Svoronos",
+        "score": 1.1,
+        "h_index": 15,
+        "fcr": 0.91,
+        "citations": 924
+      },
+      {
+        "name": "Apichai Tuanyok",
+        "score": 1.1,
+        "h_index": 15,
+        "fcr": 2.75,
+        "citations": 857
+      },
+      {
+        "name": "Kevin Bardosh",
+        "score": 1.1,
+        "h_index": 13,
+        "fcr": 4.72,
+        "citations": 865
+      },
+      {
+        "name": "Tracie Baker",
+        "score": 0.9,
+        "h_index": 8,
+        "fcr": 4.6,
+        "citations": 256
+      },
+      {
+        "name": "Banikalyan Swain",
+        "score": 0.7,
+        "h_index": 6,
+        "fcr": 7.89,
+        "citations": 111
+      },
+      {
+        "name": "Sarah Doore",
+        "score": 0.5,
+        "h_index": 4,
+        "fcr": 2.95,
+        "citations": 54
+      },
+      {
+        "name": "Alyson Young",
+        "score": 0.5,
+        "h_index": 7,
+        "fcr": 1.53,
+        "citations": 203
+      }
+    ],
+    "Medical Biochemistry and Metabolomics": [
+      {
+        "name": "Eric W. Triplett",
+        "score": 4.4,
+        "h_index": 41,
+        "fcr": 7.42,
+        "citations": 9709
+      },
+      {
+        "name": "John Bowden",
+        "score": 3.3,
+        "h_index": 39,
+        "fcr": 10.29,
+        "citations": 4739
+      },
+      {
+        "name": "Masanori Fujimoto",
+        "score": 0.2,
+        "h_index": 2,
+        "fcr": 0.38,
+        "citations": 63
+      },
+      {
+        "name": "Sungyoon Jung",
+        "score": 0.1,
+        "h_index": 1,
+        "fcr": null,
+        "citations": 4
+      }
+    ],
+    "Crop and Pasture Production": [
+      {
+        "name": "Gerrit Hoogenboom",
+        "score": 5.2,
+        "h_index": 52,
+        "fcr": 25.47,
+        "citations": 9777
+      },
+      {
+        "name": "Yiannis Ampatzidis",
+        "score": 3.9,
+        "h_index": 35,
+        "fcr": 26.29,
+        "citations": 4431
+      },
+      {
+        "name": "Aditya Singh",
+        "score": 3.9,
+        "h_index": 18,
+        "fcr": 63.9,
+        "citations": 2340
+      },
+      {
+        "name": "Jianjun Chen",
+        "score": 3.6,
+        "h_index": 41,
+        "fcr": 7.83,
+        "citations": 8392
+      },
+      {
+        "name": "Paul Fisher",
+        "score": 3.4,
+        "h_index": 18,
+        "fcr": 31.88,
+        "citations": 11827
+      },
+      {
+        "name": "Vimala D. Nair",
+        "score": 2.8,
+        "h_index": 29,
+        "fcr": 16.66,
+        "citations": 4021
+      },
+      {
+        "name": "Zhenli He",
+        "score": 2.4,
+        "h_index": 30,
+        "fcr": 6.2,
+        "citations": 3317
+      },
+      {
+        "name": "Lincoln Zotarelli",
+        "score": 2.3,
+        "h_index": 28,
+        "fcr": 9.23,
+        "citations": 2674
+      },
+      {
+        "name": "Karen Garrett",
+        "score": 2.2,
+        "h_index": 23,
+        "fcr": 14.2,
+        "citations": 2365
+      },
+      {
+        "name": "Lynn E. Sollenberger",
+        "score": 2.2,
+        "h_index": 29,
+        "fcr": 3.51,
+        "citations": 3134
+      },
+      {
+        "name": "Michael Dukes",
+        "score": 2.0,
+        "h_index": 24,
+        "fcr": 7.43,
+        "citations": 2758
+      },
+      {
+        "name": "Arnold W. Schumann",
+        "score": 2.0,
+        "h_index": 26,
+        "fcr": 6.85,
+        "citations": 1745
+      },
+      {
+        "name": "Alan L. Wright",
+        "score": 2.0,
+        "h_index": 27,
+        "fcr": 2.46,
+        "citations": 2253
+      },
+      {
+        "name": "Andrew Ogram",
+        "score": 2.0,
+        "h_index": 25,
+        "fcr": 3.37,
+        "citations": 1996
+      },
+      {
+        "name": "Wendy Graham",
+        "score": 1.9,
+        "h_index": 21,
+        "fcr": 2.37,
+        "citations": 1345
+      },
+      {
+        "name": "Clyde Fraisse",
+        "score": 1.9,
+        "h_index": 21,
+        "fcr": 3.72,
+        "citations": 1761
+      },
+      {
+        "name": "Muhammad Shahid",
+        "score": 1.8,
+        "h_index": 19,
+        "fcr": 11.34,
+        "citations": 1603
+      },
+      {
+        "name": "Kelly T. Morgan",
+        "score": 1.8,
+        "h_index": 22,
+        "fcr": 7.37,
+        "citations": 1531
+      },
+      {
+        "name": "Shouan Zhang",
+        "score": 1.7,
+        "h_index": 22,
+        "fcr": 3.94,
+        "citations": 1476
+      },
+      {
+        "name": "Patrick Inglett",
+        "score": 1.6,
+        "h_index": 23,
+        "fcr": 2.05,
+        "citations": 1253
+      }
+    ],
+    "Agriculture, Land and Farm Management": [
+      {
+        "name": "Gerrit Hoogenboom",
+        "score": 5.2,
+        "h_index": 52,
+        "fcr": 25.47,
+        "citations": 9777
+      },
+      {
+        "name": "Paul Fisher",
+        "score": 3.4,
+        "h_index": 18,
+        "fcr": 31.88,
+        "citations": 11827
+      },
+      {
+        "name": "Vimala D. Nair",
+        "score": 2.8,
+        "h_index": 29,
+        "fcr": 16.66,
+        "citations": 4021
+      },
+      {
+        "name": "Zhenli He",
+        "score": 2.4,
+        "h_index": 30,
+        "fcr": 6.2,
+        "citations": 3317
+      },
+      {
+        "name": "Lincoln Zotarelli",
+        "score": 2.3,
+        "h_index": 28,
+        "fcr": 9.23,
+        "citations": 2674
+      },
+      {
+        "name": "Lynn E. Sollenberger",
+        "score": 2.2,
+        "h_index": 29,
+        "fcr": 3.51,
+        "citations": 3134
+      },
+      {
+        "name": "Michael Dukes",
+        "score": 2.0,
+        "h_index": 24,
+        "fcr": 7.43,
+        "citations": 2758
+      },
+      {
+        "name": "Wendy Graham",
+        "score": 1.9,
+        "h_index": 21,
+        "fcr": 2.37,
+        "citations": 1345
+      },
+      {
+        "name": "Clyde Fraisse",
+        "score": 1.9,
+        "h_index": 21,
+        "fcr": 3.72,
+        "citations": 1761
+      },
+      {
+        "name": "Kelly T. Morgan",
+        "score": 1.8,
+        "h_index": 22,
+        "fcr": 7.37,
+        "citations": 1531
+      },
+      {
+        "name": "Maria L. Silveira",
+        "score": 1.6,
+        "h_index": 22,
+        "fcr": 3.07,
+        "citations": 1684
+      },
+      {
+        "name": "Samira Daroub",
+        "score": 1.5,
+        "h_index": 18,
+        "fcr": 3.24,
+        "citations": 2569
+      },
+      {
+        "name": "Sudeep S. Sidhu",
+        "score": 1.4,
+        "h_index": 5,
+        "fcr": 27.73,
+        "citations": 422
+      },
+      {
+        "name": "Haimanote Bayabil",
+        "score": 1.4,
+        "h_index": 15,
+        "fcr": 9.93,
+        "citations": 863
+      },
+      {
+        "name": "Alan Hodges",
+        "score": 1.2,
+        "h_index": 17,
+        "fcr": 1.71,
+        "citations": 1111
+      },
+      {
+        "name": "Davie M. Kadyampakeni",
+        "score": 1.0,
+        "h_index": 14,
+        "fcr": 2.69,
+        "citations": 610
+      },
+      {
+        "name": "Ian M. Small",
+        "score": 1.0,
+        "h_index": 14,
+        "fcr": 3.21,
+        "citations": 573
+      },
+      {
+        "name": "Hardeep Singh",
+        "score": 0.7,
+        "h_index": 8,
+        "fcr": 3.89,
+        "citations": 297
+      },
+      {
+        "name": "Vivek Sharma",
+        "score": 0.6,
+        "h_index": 7,
+        "fcr": 3.84,
+        "citations": 198
+      },
+      {
+        "name": "Marco Schiavon",
+        "score": 0.6,
+        "h_index": 8,
+        "fcr": 1.57,
+        "citations": 185
+      }
+    ],
+    "Health Sciences": [
+      {
+        "name": "Jie Xu",
+        "score": 2.5,
+        "h_index": 17,
+        "fcr": 27.02,
+        "citations": 2589
+      },
+      {
+        "name": "Anita Wright",
+        "score": 2.0,
+        "h_index": 23,
+        "fcr": 12.11,
+        "citations": 1447
+      },
+      {
+        "name": "Kevin Bardosh",
+        "score": 1.1,
+        "h_index": 13,
+        "fcr": 4.72,
+        "citations": 865
+      },
+      {
+        "name": "Paul Monaghan",
+        "score": 0.9,
+        "h_index": 11,
+        "fcr": 3.45,
+        "citations": 396
+      },
+      {
+        "name": "Alyson Young",
+        "score": 0.5,
+        "h_index": 7,
+        "fcr": 1.53,
+        "citations": 203
+      },
+      {
+        "name": "Chamteut Oh",
+        "score": 0.4,
+        "h_index": 4,
+        "fcr": 2.83,
+        "citations": 54
+      },
+      {
+        "name": "Lisa Krimsky",
+        "score": 0.3,
+        "h_index": 4,
+        "fcr": 2.45,
+        "citations": 79
+      }
+    ],
+    "Health Services and Systems": [
+      {
+        "name": "Christopher McCarty",
+        "score": 4.7,
+        "h_index": 30,
+        "fcr": 63.59,
+        "citations": 3659
+      },
+      {
+        "name": "Jie Xu",
+        "score": 2.5,
+        "h_index": 17,
+        "fcr": 27.02,
+        "citations": 2589
+      },
+      {
+        "name": "Kevin Bardosh",
+        "score": 1.1,
+        "h_index": 13,
+        "fcr": 4.72,
+        "citations": 865
+      },
+      {
+        "name": "Lisa Krimsky",
+        "score": 0.3,
+        "h_index": 4,
+        "fcr": 2.45,
+        "citations": 79
+      }
+    ],
+    "Clinical Sciences": [
+      {
+        "name": "Eric W. Triplett",
+        "score": 4.4,
+        "h_index": 41,
+        "fcr": 7.42,
+        "citations": 9709
+      },
+      {
+        "name": "Jie Xu",
+        "score": 2.5,
+        "h_index": 17,
+        "fcr": 27.02,
+        "citations": 2589
+      },
+      {
+        "name": "Benjamin Anderson",
+        "score": 2.2,
+        "h_index": 22,
+        "fcr": 17.98,
+        "citations": 1734
+      },
+      {
+        "name": "Anita Wright",
+        "score": 2.0,
+        "h_index": 23,
+        "fcr": 12.11,
+        "citations": 1447
+      },
+      {
+        "name": "Apichai Tuanyok",
+        "score": 1.1,
+        "h_index": 15,
+        "fcr": 2.75,
+        "citations": 857
+      },
+      {
+        "name": "Kevin Bardosh",
+        "score": 1.1,
+        "h_index": 13,
+        "fcr": 4.72,
+        "citations": 865
+      },
+      {
+        "name": "Nicole Dennis",
+        "score": 0.4,
+        "h_index": 2,
+        "fcr": 7.9,
+        "citations": 26
+      }
+    ],
+    "Information and Computing Sciences": [
+      {
+        "name": "Gerrit Hoogenboom",
+        "score": 5.2,
+        "h_index": 52,
+        "fcr": 25.47,
+        "citations": 9777
+      },
+      {
+        "name": "Christopher McCarty",
+        "score": 4.7,
+        "h_index": 30,
+        "fcr": 63.59,
+        "citations": 3659
+      },
+      {
+        "name": "Jane Southworth",
+        "score": 4.5,
+        "h_index": 33,
+        "fcr": 52.19,
+        "citations": 4253
+      },
+      {
+        "name": "Sabine Grunwald",
+        "score": 4.4,
+        "h_index": 34,
+        "fcr": 24.53,
+        "citations": 4105
+      },
+      {
+        "name": "Yiannis Ampatzidis",
+        "score": 3.9,
+        "h_index": 35,
+        "fcr": 26.29,
+        "citations": 4431
+      },
+      {
+        "name": "Aditya Singh",
+        "score": 3.9,
+        "h_index": 18,
+        "fcr": 63.9,
+        "citations": 2340
+      },
+      {
+        "name": "Jie Xu",
+        "score": 2.5,
+        "h_index": 17,
+        "fcr": 27.02,
+        "citations": 2589
+      },
+      {
+        "name": "Arnold W. Schumann",
+        "score": 2.0,
+        "h_index": 26,
+        "fcr": 6.85,
+        "citations": 1745
+      },
+      {
+        "name": "Kelly T. Morgan",
+        "score": 1.8,
+        "h_index": 22,
+        "fcr": 7.37,
+        "citations": 1531
+      },
+      {
+        "name": "Jason von Meding",
+        "score": 1.5,
+        "h_index": 16,
+        "fcr": 10.53,
+        "citations": 959
+      },
+      {
+        "name": "Erin Jones",
+        "score": 1.2,
+        "h_index": 2,
+        "fcr": 27.9,
+        "citations": 52
+      },
+      {
+        "name": "Zhe Jiang",
+        "score": 1.2,
+        "h_index": 12,
+        "fcr": 8.33,
+        "citations": 526
+      },
+      {
+        "name": "Thomas A. Obreza",
+        "score": 1.1,
+        "h_index": 16,
+        "fcr": 1.31,
+        "citations": 950
+      },
+      {
+        "name": "Mark Jamison",
+        "score": 0.8,
+        "h_index": 10,
+        "fcr": 1.18,
+        "citations": 414
+      },
+      {
+        "name": "Sandra Guzman",
+        "score": 0.7,
+        "h_index": 9,
+        "fcr": 2.3,
+        "citations": 265
+      },
+      {
+        "name": "Chunli Dai",
+        "score": 0.5,
+        "h_index": 3,
+        "fcr": 8.29,
+        "citations": 34
+      },
+      {
+        "name": "Jamie Loizzo",
+        "score": 0.4,
+        "h_index": 4,
+        "fcr": 2.12,
+        "citations": 38
+      },
+      {
+        "name": "Youngsup Song",
+        "score": 0.2,
+        "h_index": 2,
+        "fcr": 2.35,
+        "citations": 8
+      },
+      {
+        "name": "Yilin Zhuang",
+        "score": 0.2,
+        "h_index": 2,
+        "fcr": 2.41,
+        "citations": 14
+      },
+      {
+        "name": "Amelia Winger-Bearskin",
+        "score": 0.0,
+        "h_index": 0,
+        "fcr": null,
+        "citations": 0
+      }
+    ],
+    "Human Society": [
+      {
+        "name": "Christopher McCarty",
+        "score": 4.7,
+        "h_index": 30,
+        "fcr": 63.59,
+        "citations": 3659
+      },
+      {
+        "name": "Frank Asche",
+        "score": 4.6,
+        "h_index": 43,
+        "fcr": 33.8,
+        "citations": 6777
+      },
+      {
+        "name": "Jason von Meding",
+        "score": 1.5,
+        "h_index": 16,
+        "fcr": 10.53,
+        "citations": 959
+      },
+      {
+        "name": "Gregory Kiker",
+        "score": 1.4,
+        "h_index": 16,
+        "fcr": 4.33,
+        "citations": 921
+      },
+      {
+        "name": "Rachata Muneepeerakul",
+        "score": 1.3,
+        "h_index": 13,
+        "fcr": 2.96,
+        "citations": 472
+      },
+      {
+        "name": "Marit \u00d8steb\u00f8",
+        "score": 1.2,
+        "h_index": 6,
+        "fcr": 21.62,
+        "citations": 113
+      },
+      {
+        "name": "Tracy Irani",
+        "score": 1.2,
+        "h_index": 10,
+        "fcr": 2.07,
+        "citations": 422
+      },
+      {
+        "name": "Laura A. Warner",
+        "score": 1.1,
+        "h_index": 14,
+        "fcr": 3.82,
+        "citations": 577
+      },
+      {
+        "name": "Mysha Clarke",
+        "score": 1.0,
+        "h_index": 9,
+        "fcr": 10.17,
+        "citations": 313
+      },
+      {
+        "name": "Renata Serra",
+        "score": 0.9,
+        "h_index": 9,
+        "fcr": 7.73,
+        "citations": 263
+      },
+      {
+        "name": "Catherine M. Tucker",
+        "score": 0.9,
+        "h_index": 8,
+        "fcr": 10.09,
+        "citations": 375
+      },
+      {
+        "name": "Kevin Ash",
+        "score": 0.9,
+        "h_index": 10,
+        "fcr": 5.44,
+        "citations": 397
+      },
+      {
+        "name": "Mark Jamison",
+        "score": 0.8,
+        "h_index": 10,
+        "fcr": 1.18,
+        "citations": 414
+      },
+      {
+        "name": "Johanna Engstr\u00f6m",
+        "score": 0.6,
+        "h_index": 7,
+        "fcr": 3.38,
+        "citations": 496
+      },
+      {
+        "name": "Katherine Deliz Qui\u00f1ones",
+        "score": 0.6,
+        "h_index": 6,
+        "fcr": 4.74,
+        "citations": 120
+      },
+      {
+        "name": "Johanna Engstr\u00f6m",
+        "score": 0.6,
+        "h_index": 7,
+        "fcr": 3.38,
+        "citations": 496
+      },
+      {
+        "name": "Jeffrey C. Johnson",
+        "score": 0.5,
+        "h_index": 6,
+        "fcr": 2.76,
+        "citations": 547
+      },
+      {
+        "name": "Alyson Young",
+        "score": 0.5,
+        "h_index": 7,
+        "fcr": 1.53,
+        "citations": 203
+      },
+      {
+        "name": "Sebastian Galindo",
+        "score": 0.4,
+        "h_index": 5,
+        "fcr": 2.51,
+        "citations": 94
+      },
+      {
+        "name": "Weizhe Weng",
+        "score": 0.3,
+        "h_index": 3,
+        "fcr": 3.38,
+        "citations": 27
+      }
+    ],
+    "Political Science": [
+      {
+        "name": "Marit \u00d8steb\u00f8",
+        "score": 1.2,
+        "h_index": 6,
+        "fcr": 21.62,
+        "citations": 113
+      },
+      {
+        "name": "Catherine M. Tucker",
+        "score": 0.9,
+        "h_index": 8,
+        "fcr": 10.09,
+        "citations": 375
+      },
+      {
+        "name": "Jeffrey C. Johnson",
+        "score": 0.5,
+        "h_index": 6,
+        "fcr": 2.76,
+        "citations": 547
+      }
+    ],
+    "Biological Sciences": [
+      {
+        "name": "Andrew Zimmerman",
+        "score": 6.4,
+        "h_index": 64,
+        "fcr": 9.48,
+        "citations": 21793
+      },
+      {
+        "name": "David Kaplan",
+        "score": 6.0,
+        "h_index": 38,
+        "fcr": 79.13,
+        "citations": 6902
+      },
+      {
+        "name": "Nancy Denslow",
+        "score": 4.8,
+        "h_index": 55,
+        "fcr": 9.49,
+        "citations": 10465
+      },
+      {
+        "name": "Mark Brenner",
+        "score": 4.6,
+        "h_index": 53,
+        "fcr": 9.32,
+        "citations": 10492
+      },
+      {
+        "name": "Eric W. Triplett",
+        "score": 4.4,
+        "h_index": 41,
+        "fcr": 7.42,
+        "citations": 9709
+      },
+      {
+        "name": "Christopher Martyniuk",
+        "score": 4.3,
+        "h_index": 49,
+        "fcr": 12.55,
+        "citations": 7890
+      },
+      {
+        "name": "Eben Broadbent",
+        "score": 3.9,
+        "h_index": 37,
+        "fcr": 29.56,
+        "citations": 4890
+      },
+      {
+        "name": "Aditya Singh",
+        "score": 3.9,
+        "h_index": 18,
+        "fcr": 63.9,
+        "citations": 2340
+      },
+      {
+        "name": "Sadie J. Ryan",
+        "score": 3.8,
+        "h_index": 42,
+        "fcr": 12.58,
+        "citations": 7899
+      },
+      {
+        "name": "Jianjun Chen",
+        "score": 3.6,
+        "h_index": 41,
+        "fcr": 7.83,
+        "citations": 8392
+      },
+      {
+        "name": "Paul Fisher",
+        "score": 3.4,
+        "h_index": 18,
+        "fcr": 31.88,
+        "citations": 11827
+      },
+      {
+        "name": "Robert Fletcher",
+        "score": 3.3,
+        "h_index": 39,
+        "fcr": 7.29,
+        "citations": 5706
+      },
+      {
+        "name": "Matthew J. Cohen",
+        "score": 3.0,
+        "h_index": 36,
+        "fcr": 7.45,
+        "citations": 4392
+      },
+      {
+        "name": "Brett R. Scheffers",
+        "score": 2.9,
+        "h_index": 27,
+        "fcr": 19.32,
+        "citations": 4793
+      },
+      {
+        "name": "James W. Jawitz",
+        "score": 2.8,
+        "h_index": 36,
+        "fcr": 3.92,
+        "citations": 4706
+      },
+      {
+        "name": "Stephanie Bohlman",
+        "score": 2.7,
+        "h_index": 30,
+        "fcr": 7.61,
+        "citations": 4640
+      },
+      {
+        "name": "Micheal S. Allen",
+        "score": 2.4,
+        "h_index": 30,
+        "fcr": 6.49,
+        "citations": 2572
+      },
+      {
+        "name": "Stuart McDaniel",
+        "score": 2.3,
+        "h_index": 25,
+        "fcr": 7.49,
+        "citations": 2450
+      },
+      {
+        "name": "Amr Abd-Elrahman",
+        "score": 2.2,
+        "h_index": 27,
+        "fcr": 5.51,
+        "citations": 2312
+      },
+      {
+        "name": "Karen Garrett",
+        "score": 2.2,
+        "h_index": 23,
+        "fcr": 14.2,
+        "citations": 2365
+      }
+    ],
+    "Ecology": [
+      {
+        "name": "Mark Brenner",
+        "score": 4.6,
+        "h_index": 53,
+        "fcr": 9.32,
+        "citations": 10492
+      },
+      {
+        "name": "Eben Broadbent",
+        "score": 3.9,
+        "h_index": 37,
+        "fcr": 29.56,
+        "citations": 4890
+      },
+      {
+        "name": "Sadie J. Ryan",
+        "score": 3.8,
+        "h_index": 42,
+        "fcr": 12.58,
+        "citations": 7899
+      },
+      {
+        "name": "Robert Fletcher",
+        "score": 3.3,
+        "h_index": 39,
+        "fcr": 7.29,
+        "citations": 5706
+      },
+      {
+        "name": "Matthew J. Cohen",
+        "score": 3.0,
+        "h_index": 36,
+        "fcr": 7.45,
+        "citations": 4392
+      },
+      {
+        "name": "Brett R. Scheffers",
+        "score": 2.9,
+        "h_index": 27,
+        "fcr": 19.32,
+        "citations": 4793
+      },
+      {
+        "name": "James W. Jawitz",
+        "score": 2.8,
+        "h_index": 36,
+        "fcr": 3.92,
+        "citations": 4706
+      },
+      {
+        "name": "Stephanie Bohlman",
+        "score": 2.7,
+        "h_index": 30,
+        "fcr": 7.61,
+        "citations": 4640
+      },
+      {
+        "name": "Stuart McDaniel",
+        "score": 2.3,
+        "h_index": 25,
+        "fcr": 7.49,
+        "citations": 2450
+      },
+      {
+        "name": "Peter Frederick",
+        "score": 2.1,
+        "h_index": 29,
+        "fcr": 1.99,
+        "citations": 2762
+      },
+      {
+        "name": "Andrew H. Altieri",
+        "score": 2.1,
+        "h_index": 25,
+        "fcr": 9.01,
+        "citations": 2051
+      },
+      {
+        "name": "Edward J. Phlips",
+        "score": 2.1,
+        "h_index": 27,
+        "fcr": 4.87,
+        "citations": 2161
+      },
+      {
+        "name": "Andrew Ogram",
+        "score": 2.0,
+        "h_index": 25,
+        "fcr": 3.37,
+        "citations": 1996
+      },
+      {
+        "name": "Robert A. McCleery",
+        "score": 1.9,
+        "h_index": 26,
+        "fcr": 2.38,
+        "citations": 2212
+      },
+      {
+        "name": "Ang\u00e9lica Maria Almeyda Zambrano",
+        "score": 1.9,
+        "h_index": 17,
+        "fcr": 17.71,
+        "citations": 1765
+      },
+      {
+        "name": "Todd Osborne",
+        "score": 1.9,
+        "h_index": 23,
+        "fcr": 5.13,
+        "citations": 1745
+      },
+      {
+        "name": "James Gillooly",
+        "score": 1.9,
+        "h_index": 25,
+        "fcr": 1.75,
+        "citations": 3180
+      },
+      {
+        "name": "Donald Behringer",
+        "score": 1.7,
+        "h_index": 22,
+        "fcr": 3.82,
+        "citations": 1370
+      },
+      {
+        "name": "Patrick Inglett",
+        "score": 1.6,
+        "h_index": 23,
+        "fcr": 2.05,
+        "citations": 1253
+      },
+      {
+        "name": "Lawrence M. Page",
+        "score": 1.6,
+        "h_index": 7,
+        "fcr": 2.92,
+        "citations": 368
+      }
+    ],
+    "Environmental Management": [
+      {
+        "name": "Andrew Zimmerman",
+        "score": 6.4,
+        "h_index": 64,
+        "fcr": 9.48,
+        "citations": 21793
+      },
+      {
+        "name": "Vimala D. Nair",
+        "score": 2.8,
+        "h_index": 29,
+        "fcr": 16.66,
+        "citations": 4021
+      },
+      {
+        "name": "Micheal S. Allen",
+        "score": 2.4,
+        "h_index": 30,
+        "fcr": 6.49,
+        "citations": 2572
+      },
+      {
+        "name": "Damian C. Adams",
+        "score": 2.4,
+        "h_index": 21,
+        "fcr": 1.96,
+        "citations": 1259
+      },
+      {
+        "name": "Peter Frederick",
+        "score": 2.1,
+        "h_index": 29,
+        "fcr": 1.99,
+        "citations": 2762
+      },
+      {
+        "name": "James L. Anderson",
+        "score": 2.1,
+        "h_index": 22,
+        "fcr": 12.73,
+        "citations": 2239
+      },
+      {
+        "name": "Andrew H. Altieri",
+        "score": 2.1,
+        "h_index": 25,
+        "fcr": 9.01,
+        "citations": 2051
+      },
+      {
+        "name": "Jiangxiao Qiu",
+        "score": 2.0,
+        "h_index": 23,
+        "fcr": 9.25,
+        "citations": 1482
+      },
+      {
+        "name": "Robert A. McCleery",
+        "score": 1.9,
+        "h_index": 26,
+        "fcr": 2.38,
+        "citations": 2212
+      },
+      {
+        "name": "Thomas Anderson",
+        "score": 1.9,
+        "h_index": 5,
+        "fcr": 40.25,
+        "citations": 179
+      },
+      {
+        "name": "Pratap Pullammanappallil",
+        "score": 1.8,
+        "h_index": 21,
+        "fcr": 0.65,
+        "citations": 4724
+      },
+      {
+        "name": "Jean-Claude Bonzongo",
+        "score": 1.8,
+        "h_index": 22,
+        "fcr": 3.51,
+        "citations": 2483
+      },
+      {
+        "name": "Julie Meyer",
+        "score": 1.4,
+        "h_index": 16,
+        "fcr": 6.77,
+        "citations": 1288
+      },
+      {
+        "name": "Andr\u00e9s Susaeta",
+        "score": 1.4,
+        "h_index": 19,
+        "fcr": 3.11,
+        "citations": 970
+      },
+      {
+        "name": "Robert J. Ries",
+        "score": 1.4,
+        "h_index": 17,
+        "fcr": 6.29,
+        "citations": 1547
+      },
+      {
+        "name": "Gregory Kiker",
+        "score": 1.4,
+        "h_index": 16,
+        "fcr": 4.33,
+        "citations": 921
+      },
+      {
+        "name": "John Jaeger",
+        "score": 1.4,
+        "h_index": 19,
+        "fcr": 3.03,
+        "citations": 1159
+      },
+      {
+        "name": "Mark Clark",
+        "score": 1.3,
+        "h_index": 17,
+        "fcr": 3.04,
+        "citations": 975
+      },
+      {
+        "name": "David Chagaris",
+        "score": 1.3,
+        "h_index": 15,
+        "fcr": 6.74,
+        "citations": 693
+      },
+      {
+        "name": "Laura A. Warner",
+        "score": 1.1,
+        "h_index": 14,
+        "fcr": 3.82,
+        "citations": 577
+      }
+    ],
+    "Physical Geography and Environmental Geoscience": [
+      {
+        "name": "Mark Brenner",
+        "score": 4.6,
+        "h_index": 53,
+        "fcr": 9.32,
+        "citations": 10492
+      },
+      {
+        "name": "Arnoldo Valle-Levinson",
+        "score": 2.2,
+        "h_index": 29,
+        "fcr": 2.75,
+        "citations": 3102
+      },
+      {
+        "name": "Brent Christner",
+        "score": 1.5,
+        "h_index": 17,
+        "fcr": 5.35,
+        "citations": 828
+      },
+      {
+        "name": "Jason von Meding",
+        "score": 1.5,
+        "h_index": 16,
+        "fcr": 10.53,
+        "citations": 959
+      },
+      {
+        "name": "Joann Mossa",
+        "score": 1.4,
+        "h_index": 17,
+        "fcr": 5.57,
+        "citations": 1141
+      },
+      {
+        "name": "John Jaeger",
+        "score": 1.4,
+        "h_index": 19,
+        "fcr": 3.03,
+        "citations": 1159
+      },
+      {
+        "name": "Xiao Yu",
+        "score": 1.3,
+        "h_index": 15,
+        "fcr": 4.71,
+        "citations": 739
+      },
+      {
+        "name": "Peter N. Adams",
+        "score": 1.0,
+        "h_index": 14,
+        "fcr": 2.0,
+        "citations": 1022
+      },
+      {
+        "name": "Alberto Canestrelli",
+        "score": 0.8,
+        "h_index": 9,
+        "fcr": 2.82,
+        "citations": 413
+      },
+      {
+        "name": "Esther D. Mullens",
+        "score": 0.2,
+        "h_index": 2,
+        "fcr": 1.2,
+        "citations": 20
+      },
+      {
+        "name": "Megan E. Moore",
+        "score": 0.1,
+        "h_index": 1,
+        "fcr": null,
+        "citations": 4
+      }
+    ],
+    "Microbiology": [
+      {
+        "name": "Eric W. Triplett",
+        "score": 4.4,
+        "h_index": 41,
+        "fcr": 7.42,
+        "citations": 9709
+      },
+      {
+        "name": "Karen Garrett",
+        "score": 2.2,
+        "h_index": 23,
+        "fcr": 14.2,
+        "citations": 2365
+      },
+      {
+        "name": "Benjamin Anderson",
+        "score": 2.2,
+        "h_index": 22,
+        "fcr": 17.98,
+        "citations": 1734
+      },
+      {
+        "name": "Andrew Ogram",
+        "score": 2.0,
+        "h_index": 25,
+        "fcr": 3.37,
+        "citations": 1996
+      },
+      {
+        "name": "James Gillooly",
+        "score": 1.9,
+        "h_index": 25,
+        "fcr": 1.75,
+        "citations": 3180
+      },
+      {
+        "name": "Donald Behringer",
+        "score": 1.7,
+        "h_index": 22,
+        "fcr": 3.82,
+        "citations": 1370
+      },
+      {
+        "name": "Brent Christner",
+        "score": 1.5,
+        "h_index": 17,
+        "fcr": 5.35,
+        "citations": 828
+      },
+      {
+        "name": "Julie Meyer",
+        "score": 1.4,
+        "h_index": 16,
+        "fcr": 6.77,
+        "citations": 1288
+      },
+      {
+        "name": "Joseph Bisesi",
+        "score": 1.4,
+        "h_index": 19,
+        "fcr": 3.0,
+        "citations": 1068
+      },
+      {
+        "name": "Willm Martens-Habbena",
+        "score": 1.2,
+        "h_index": 13,
+        "fcr": 6.99,
+        "citations": 748
+      },
+      {
+        "name": "Mariola Edelmann",
+        "score": 1.2,
+        "h_index": 14,
+        "fcr": 5.58,
+        "citations": 780
+      },
+      {
+        "name": "Christopher Dutton",
+        "score": 1.1,
+        "h_index": 10,
+        "fcr": 10.48,
+        "citations": 429
+      },
+      {
+        "name": "Bryndan Durham",
+        "score": 1.1,
+        "h_index": 12,
+        "fcr": 7.49,
+        "citations": 617
+      },
+      {
+        "name": "Apichai Tuanyok",
+        "score": 1.1,
+        "h_index": 15,
+        "fcr": 2.75,
+        "citations": 857
+      },
+      {
+        "name": "Amanda L. Subalusky",
+        "score": 1.0,
+        "h_index": 9,
+        "fcr": 11.0,
+        "citations": 329
+      },
+      {
+        "name": "Lindsey S. Reisinger",
+        "score": 0.7,
+        "h_index": 8,
+        "fcr": 3.68,
+        "citations": 215
+      },
+      {
+        "name": "Jos\u00e9 L. Rolando",
+        "score": 0.6,
+        "h_index": 6,
+        "fcr": 6.32,
+        "citations": 285
+      },
+      {
+        "name": "Sarah Doore",
+        "score": 0.5,
+        "h_index": 4,
+        "fcr": 2.95,
+        "citations": 54
+      },
+      {
+        "name": "Laurel Kaminsky",
+        "score": 0.1,
+        "h_index": 2,
+        "fcr": 0.66,
+        "citations": 12
+      },
+      {
+        "name": "Matthew R. Whiles",
+        "score": 0.1,
+        "h_index": 1,
+        "fcr": 1.22,
+        "citations": 5
+      }
+    ],
+    "Geology": [
+      {
+        "name": "Mark Brenner",
+        "score": 4.6,
+        "h_index": 53,
+        "fcr": 9.32,
+        "citations": 10492
+      },
+      {
+        "name": "Michael R. Perfit",
+        "score": 2.5,
+        "h_index": 31,
+        "fcr": 1.97,
+        "citations": 3404
+      },
+      {
+        "name": "Michael D. Annable",
+        "score": 2.3,
+        "h_index": 31,
+        "fcr": 1.4,
+        "citations": 3080
+      },
+      {
+        "name": "Paul A. Mueller",
+        "score": 2.1,
+        "h_index": 27,
+        "fcr": 3.17,
+        "citations": 2541
+      },
+      {
+        "name": "Kirk Hatfield",
+        "score": 1.6,
+        "h_index": 21,
+        "fcr": 0.87,
+        "citations": 1663
+      },
+      {
+        "name": "Brent Christner",
+        "score": 1.5,
+        "h_index": 17,
+        "fcr": 5.35,
+        "citations": 828
+      },
+      {
+        "name": "John Jaeger",
+        "score": 1.4,
+        "h_index": 19,
+        "fcr": 3.03,
+        "citations": 1159
+      },
+      {
+        "name": "Peter N. Adams",
+        "score": 1.0,
+        "h_index": 14,
+        "fcr": 2.0,
+        "citations": 1022
+      },
+      {
+        "name": "Rob de Rooij",
+        "score": 0.7,
+        "h_index": 7,
+        "fcr": 6.73,
+        "citations": 163
+      },
+      {
+        "name": "Chunli Dai",
+        "score": 0.5,
+        "h_index": 3,
+        "fcr": 8.29,
+        "citations": 34
+      },
+      {
+        "name": "Megan E. Moore",
+        "score": 0.1,
+        "h_index": 1,
+        "fcr": null,
+        "citations": 4
+      }
+    ],
+    "Ecological Applications": [
+      {
+        "name": "Jane Southworth",
+        "score": 4.5,
+        "h_index": 33,
+        "fcr": 52.19,
+        "citations": 4253
+      },
+      {
+        "name": "Christopher Martyniuk",
+        "score": 4.3,
+        "h_index": 49,
+        "fcr": 12.55,
+        "citations": 7890
+      },
+      {
+        "name": "Eben Broadbent",
+        "score": 3.9,
+        "h_index": 37,
+        "fcr": 29.56,
+        "citations": 4890
+      },
+      {
+        "name": "Robert Fletcher",
+        "score": 3.3,
+        "h_index": 39,
+        "fcr": 7.29,
+        "citations": 5706
+      },
+      {
+        "name": "Brett R. Scheffers",
+        "score": 2.9,
+        "h_index": 27,
+        "fcr": 19.32,
+        "citations": 4793
+      },
+      {
+        "name": "Jiangxiao Qiu",
+        "score": 2.0,
+        "h_index": 23,
+        "fcr": 9.25,
+        "citations": 1482
+      },
+      {
+        "name": "Robert A. McCleery",
+        "score": 1.9,
+        "h_index": 26,
+        "fcr": 2.38,
+        "citations": 2212
+      },
+      {
+        "name": "Jason G. Vogel",
+        "score": 1.7,
+        "h_index": 20,
+        "fcr": 5.25,
+        "citations": 2462
+      },
+      {
+        "name": "Jeffrey Hill",
+        "score": 1.6,
+        "h_index": 20,
+        "fcr": 5.11,
+        "citations": 1309
+      },
+      {
+        "name": "Andr\u00e9s Susaeta",
+        "score": 1.4,
+        "h_index": 19,
+        "fcr": 3.11,
+        "citations": 970
+      },
+      {
+        "name": "Mark Clark",
+        "score": 1.3,
+        "h_index": 17,
+        "fcr": 3.04,
+        "citations": 975
+      },
+      {
+        "name": "Grenville Barnes",
+        "score": 1.1,
+        "h_index": 15,
+        "fcr": 2.54,
+        "citations": 665
+      },
+      {
+        "name": "Mysha Clarke",
+        "score": 1.0,
+        "h_index": 9,
+        "fcr": 10.17,
+        "citations": 313
+      },
+      {
+        "name": "Laura K. Reynolds",
+        "score": 1.0,
+        "h_index": 12,
+        "fcr": 5.92,
+        "citations": 435
+      },
+      {
+        "name": "Raelene Crandall",
+        "score": 0.9,
+        "h_index": 10,
+        "fcr": 2.1,
+        "citations": 906
+      },
+      {
+        "name": "Quenton Tuckett",
+        "score": 0.9,
+        "h_index": 11,
+        "fcr": 5.06,
+        "citations": 430
+      },
+      {
+        "name": "Steve A. Johnson",
+        "score": 0.9,
+        "h_index": 13,
+        "fcr": 1.44,
+        "citations": 701
+      },
+      {
+        "name": "Carrie Reinhardt Adams",
+        "score": 0.9,
+        "h_index": 11,
+        "fcr": 2.27,
+        "citations": 953
+      },
+      {
+        "name": "Basil Iannone",
+        "score": 0.9,
+        "h_index": 12,
+        "fcr": 3.17,
+        "citations": 504
+      },
+      {
+        "name": "Michael G. Andreu",
+        "score": 0.8,
+        "h_index": 10,
+        "fcr": 2.72,
+        "citations": 313
+      }
+    ],
+    "Forestry Sciences": [
+      {
+        "name": "Damian C. Adams",
+        "score": 2.4,
+        "h_index": 21,
+        "fcr": 1.96,
+        "citations": 1259
+      },
+      {
+        "name": "Lynn E. Sollenberger",
+        "score": 2.2,
+        "h_index": 29,
+        "fcr": 3.51,
+        "citations": 3134
+      },
+      {
+        "name": "Ang\u00e9lica Maria Almeyda Zambrano",
+        "score": 1.9,
+        "h_index": 17,
+        "fcr": 17.71,
+        "citations": 1765
+      },
+      {
+        "name": "Jason G. Vogel",
+        "score": 1.7,
+        "h_index": 20,
+        "fcr": 5.25,
+        "citations": 2462
+      },
+      {
+        "name": "Andr\u00e9s Susaeta",
+        "score": 1.4,
+        "h_index": 19,
+        "fcr": 3.11,
+        "citations": 970
+      },
+      {
+        "name": "Michael G. Andreu",
+        "score": 0.8,
+        "h_index": 10,
+        "fcr": 2.72,
+        "citations": 313
+      },
+      {
+        "name": "Patrick J. Minogue",
+        "score": 0.3,
+        "h_index": 5,
+        "fcr": 0.46,
+        "citations": 129
+      },
+      {
+        "name": "Misti Sharp",
+        "score": 0.2,
+        "h_index": 2,
+        "fcr": 2.52,
+        "citations": 18
+      }
+    ],
+    "Economics": [
+      {
+        "name": "Damian C. Adams",
+        "score": 2.4,
+        "h_index": 21,
+        "fcr": 1.96,
+        "citations": 1259
+      },
+      {
+        "name": "James L. Anderson",
+        "score": 2.1,
+        "h_index": 22,
+        "fcr": 12.73,
+        "citations": 2239
+      },
+      {
+        "name": "Michael Dukes",
+        "score": 2.0,
+        "h_index": 24,
+        "fcr": 7.43,
+        "citations": 2758
+      },
+      {
+        "name": "Thomas Anderson",
+        "score": 1.9,
+        "h_index": 5,
+        "fcr": 40.25,
+        "citations": 179
+      },
+      {
+        "name": "Alan Hodges",
+        "score": 1.2,
+        "h_index": 17,
+        "fcr": 1.71,
+        "citations": 1111
+      },
+      {
+        "name": "Laura A. Warner",
+        "score": 1.1,
+        "h_index": 14,
+        "fcr": 3.82,
+        "citations": 577
+      },
+      {
+        "name": "Edward Evans",
+        "score": 1.1,
+        "h_index": 13,
+        "fcr": 4.57,
+        "citations": 578
+      },
+      {
+        "name": "Catherine M. Tucker",
+        "score": 0.9,
+        "h_index": 8,
+        "fcr": 10.09,
+        "citations": 375
+      },
+      {
+        "name": "Mark Jamison",
+        "score": 0.8,
+        "h_index": 10,
+        "fcr": 1.18,
+        "citations": 414
+      },
+      {
+        "name": "Johanna Engstr\u00f6m",
+        "score": 0.6,
+        "h_index": 7,
+        "fcr": 3.38,
+        "citations": 496
+      },
+      {
+        "name": "Johanna Engstr\u00f6m",
+        "score": 0.6,
+        "h_index": 7,
+        "fcr": 3.38,
+        "citations": 496
+      },
+      {
+        "name": "Tara Wade",
+        "score": 0.6,
+        "h_index": 6,
+        "fcr": 4.35,
+        "citations": 180
+      },
+      {
+        "name": "Ignacia Mercadal",
+        "score": 0.5,
+        "h_index": 3,
+        "fcr": 8.45,
+        "citations": 59
+      },
+      {
+        "name": "Olesya Savchenko",
+        "score": 0.5,
+        "h_index": 4,
+        "fcr": 4.27,
+        "citations": 64
+      },
+      {
+        "name": "Christa D. Court",
+        "score": 0.5,
+        "h_index": 7,
+        "fcr": 2.66,
+        "citations": 135
+      },
+      {
+        "name": "Michelle Phillips",
+        "score": 0.5,
+        "h_index": 6,
+        "fcr": 2.25,
+        "citations": 96
+      },
+      {
+        "name": "Di Fang",
+        "score": 0.4,
+        "h_index": 4,
+        "fcr": 3.48,
+        "citations": 52
+      },
+      {
+        "name": "Young Gu Her",
+        "score": 0.4,
+        "h_index": 4,
+        "fcr": 1.72,
+        "citations": 109
+      },
+      {
+        "name": "Weizhe Weng",
+        "score": 0.3,
+        "h_index": 3,
+        "fcr": 3.38,
+        "citations": 27
+      },
+      {
+        "name": "Xiaohui Qiao",
+        "score": 0.3,
+        "h_index": 3,
+        "fcr": 4.2,
+        "citations": 30
+      }
+    ],
+    "Applied Economics": [
+      {
+        "name": "Taylor V. Stein",
+        "score": 1.5,
+        "h_index": 18,
+        "fcr": 6.95,
+        "citations": 924
+      },
+      {
+        "name": "Alan Hodges",
+        "score": 1.2,
+        "h_index": 17,
+        "fcr": 1.71,
+        "citations": 1111
+      },
+      {
+        "name": "Edward Evans",
+        "score": 1.1,
+        "h_index": 13,
+        "fcr": 4.57,
+        "citations": 578
+      },
+      {
+        "name": "Tara Wade",
+        "score": 0.6,
+        "h_index": 6,
+        "fcr": 4.35,
+        "citations": 180
+      },
+      {
+        "name": "Ignacia Mercadal",
+        "score": 0.5,
+        "h_index": 3,
+        "fcr": 8.45,
+        "citations": 59
+      },
+      {
+        "name": "Olesya Savchenko",
+        "score": 0.5,
+        "h_index": 4,
+        "fcr": 4.27,
+        "citations": 64
+      },
+      {
+        "name": "Di Fang",
+        "score": 0.4,
+        "h_index": 4,
+        "fcr": 3.48,
+        "citations": 52
+      },
+      {
+        "name": "Weizhe Weng",
+        "score": 0.3,
+        "h_index": 3,
+        "fcr": 3.38,
+        "citations": 27
+      },
+      {
+        "name": "Xiaohui Qiao",
+        "score": 0.3,
+        "h_index": 3,
+        "fcr": 4.2,
+        "citations": 30
+      },
+      {
+        "name": "Patrick Ward",
+        "score": 0.3,
+        "h_index": 2,
+        "fcr": 2.98,
+        "citations": 435
+      },
+      {
+        "name": "Sadie Hundemer",
+        "score": 0.3,
+        "h_index": 3,
+        "fcr": 4.12,
+        "citations": 34
+      },
+      {
+        "name": "Misti Sharp",
+        "score": 0.2,
+        "h_index": 2,
+        "fcr": 2.52,
+        "citations": 18
+      }
+    ],
+    "Geomatic Engineering": [
+      {
+        "name": "Amr Abd-Elrahman",
+        "score": 2.2,
+        "h_index": 27,
+        "fcr": 5.51,
+        "citations": 2312
+      },
+      {
+        "name": "Jasmeet Judge",
+        "score": 1.6,
+        "h_index": 20,
+        "fcr": 5.18,
+        "citations": 1531
+      },
+      {
+        "name": "Benjamin Wilkinson",
+        "score": 1.2,
+        "h_index": 15,
+        "fcr": 4.31,
+        "citations": 710
+      },
+      {
+        "name": "Grenville Barnes",
+        "score": 1.1,
+        "h_index": 15,
+        "fcr": 2.54,
+        "citations": 665
+      },
+      {
+        "name": "Di Yang",
+        "score": 0.8,
+        "h_index": 11,
+        "fcr": 2.48,
+        "citations": 379
+      },
+      {
+        "name": "Alberto Canestrelli",
+        "score": 0.8,
+        "h_index": 9,
+        "fcr": 2.82,
+        "citations": 413
+      },
+      {
+        "name": "Yixin Wen",
+        "score": 0.5,
+        "h_index": 6,
+        "fcr": 3.41,
+        "citations": 142
+      },
+      {
+        "name": "Ebrahim Babaeian",
+        "score": 0.5,
+        "h_index": 4,
+        "fcr": 5.35,
+        "citations": 94
+      },
+      {
+        "name": "Chunli Dai",
+        "score": 0.5,
+        "h_index": 3,
+        "fcr": 8.29,
+        "citations": 34
+      }
+    ],
+    "Environmental Engineering": [
+      {
+        "name": "David W. Mazyck",
+        "score": 1.2,
+        "h_index": 17,
+        "fcr": 0.68,
+        "citations": 1029
+      },
+      {
+        "name": "Eban Bean",
+        "score": 1.1,
+        "h_index": 14,
+        "fcr": 2.01,
+        "citations": 808
+      },
+      {
+        "name": "Jonathan D. Judy",
+        "score": 0.9,
+        "h_index": 11,
+        "fcr": 2.47,
+        "citations": 1327
+      },
+      {
+        "name": "Dengjun Wang",
+        "score": 0.6,
+        "h_index": 5,
+        "fcr": 3.58,
+        "citations": 258
+      },
+      {
+        "name": "Michelle Atkinson",
+        "score": 0.1,
+        "h_index": 1,
+        "fcr": 0.23,
+        "citations": 3
+      },
+      {
+        "name": "Abbey Tyrna",
+        "score": 0.1,
+        "h_index": 1,
+        "fcr": 0.62,
+        "citations": 4
+      }
+    ],
+    "Atmospheric Sciences": [
+      {
+        "name": "Matthew J. Cohen",
+        "score": 3.0,
+        "h_index": 36,
+        "fcr": 7.45,
+        "citations": 4392
+      },
+      {
+        "name": "James W. Jawitz",
+        "score": 2.8,
+        "h_index": 36,
+        "fcr": 3.92,
+        "citations": 4706
+      },
+      {
+        "name": "Wendy Graham",
+        "score": 1.9,
+        "h_index": 21,
+        "fcr": 2.37,
+        "citations": 1345
+      },
+      {
+        "name": "Myoseon Jang",
+        "score": 1.6,
+        "h_index": 20,
+        "fcr": 2.68,
+        "citations": 1525
+      },
+      {
+        "name": "Joann Mossa",
+        "score": 1.4,
+        "h_index": 17,
+        "fcr": 5.57,
+        "citations": 1141
+      },
+      {
+        "name": "Corene J. Matyas",
+        "score": 1.3,
+        "h_index": 17,
+        "fcr": 2.11,
+        "citations": 752
+      },
+      {
+        "name": "Peter R. Waylen",
+        "score": 1.2,
+        "h_index": 16,
+        "fcr": 2.31,
+        "citations": 1277
+      },
+      {
+        "name": "David Keellings",
+        "score": 1.1,
+        "h_index": 13,
+        "fcr": 4.83,
+        "citations": 1105
+      },
+      {
+        "name": "Kevin Ash",
+        "score": 0.9,
+        "h_index": 10,
+        "fcr": 5.44,
+        "citations": 397
+      },
+      {
+        "name": "Golmar Golmohammadi",
+        "score": 0.7,
+        "h_index": 7,
+        "fcr": 6.5,
+        "citations": 142
+      },
+      {
+        "name": "Johanna Engstr\u00f6m",
+        "score": 0.6,
+        "h_index": 7,
+        "fcr": 3.38,
+        "citations": 496
+      },
+      {
+        "name": "Johanna Engstr\u00f6m",
+        "score": 0.6,
+        "h_index": 7,
+        "fcr": 3.38,
+        "citations": 496
+      },
+      {
+        "name": "Yixin Wen",
+        "score": 0.5,
+        "h_index": 6,
+        "fcr": 3.41,
+        "citations": 142
+      },
+      {
+        "name": "Ziwen Yu",
+        "score": 0.5,
+        "h_index": 6,
+        "fcr": 2.35,
+        "citations": 141
+      },
+      {
+        "name": "Young Gu Her",
+        "score": 0.4,
+        "h_index": 4,
+        "fcr": 1.72,
+        "citations": 109
+      },
+      {
+        "name": "Esther D. Mullens",
+        "score": 0.2,
+        "h_index": 2,
+        "fcr": 1.2,
+        "citations": 20
+      },
+      {
+        "name": "Nasser Najibi",
+        "score": 0.1,
+        "h_index": 1,
+        "fcr": null,
+        "citations": 1
+      }
+    ],
+    "Hydrology": [
+      {
+        "name": "Matthew J. Cohen",
+        "score": 3.0,
+        "h_index": 36,
+        "fcr": 7.45,
+        "citations": 4392
+      },
+      {
+        "name": "James W. Jawitz",
+        "score": 2.8,
+        "h_index": 36,
+        "fcr": 3.92,
+        "citations": 4706
+      },
+      {
+        "name": "Rafael Munoz-Carpena",
+        "score": 2.5,
+        "h_index": 30,
+        "fcr": 3.75,
+        "citations": 4500
+      },
+      {
+        "name": "Michael D. Annable",
+        "score": 2.3,
+        "h_index": 31,
+        "fcr": 1.4,
+        "citations": 3080
+      },
+      {
+        "name": "Arnoldo Valle-Levinson",
+        "score": 2.2,
+        "h_index": 29,
+        "fcr": 2.75,
+        "citations": 3102
+      },
+      {
+        "name": "Kirk Hatfield",
+        "score": 1.6,
+        "h_index": 21,
+        "fcr": 0.87,
+        "citations": 1663
+      },
+      {
+        "name": "Joann Mossa",
+        "score": 1.4,
+        "h_index": 17,
+        "fcr": 5.57,
+        "citations": 1141
+      },
+      {
+        "name": "Rachata Muneepeerakul",
+        "score": 1.3,
+        "h_index": 13,
+        "fcr": 2.96,
+        "citations": 472
+      },
+      {
+        "name": "Rob de Rooij",
+        "score": 0.7,
+        "h_index": 7,
+        "fcr": 6.73,
+        "citations": 163
+      },
+      {
+        "name": "Golmar Golmohammadi",
+        "score": 0.7,
+        "h_index": 7,
+        "fcr": 6.5,
+        "citations": 142
+      },
+      {
+        "name": "Matt Whiles",
+        "score": 0.6,
+        "h_index": 7,
+        "fcr": 3.85,
+        "citations": 228
+      },
+      {
+        "name": "Ryan Good",
+        "score": 0.6,
+        "h_index": 4,
+        "fcr": 8.68,
+        "citations": 80
+      },
+      {
+        "name": "Yixin Wen",
+        "score": 0.5,
+        "h_index": 6,
+        "fcr": 3.41,
+        "citations": 142
+      },
+      {
+        "name": "Olesya Savchenko",
+        "score": 0.5,
+        "h_index": 4,
+        "fcr": 4.27,
+        "citations": 64
+      },
+      {
+        "name": "Ebrahim Babaeian",
+        "score": 0.5,
+        "h_index": 4,
+        "fcr": 5.35,
+        "citations": 94
+      },
+      {
+        "name": "Sadie Hundemer",
+        "score": 0.3,
+        "h_index": 3,
+        "fcr": 4.12,
+        "citations": 34
+      },
+      {
+        "name": "Paloma Carton de Grammont",
+        "score": 0.3,
+        "h_index": 3,
+        "fcr": null,
+        "citations": 18
+      },
+      {
+        "name": "Nasser Najibi",
+        "score": 0.1,
+        "h_index": 1,
+        "fcr": null,
+        "citations": 1
+      }
+    ],
+    "Climate Change Impacts and Adaptation": [
+      {
+        "name": "Sadie J. Ryan",
+        "score": 3.8,
+        "h_index": 42,
+        "fcr": 12.58,
+        "citations": 7899
+      },
+      {
+        "name": "Robert Fletcher",
+        "score": 3.3,
+        "h_index": 39,
+        "fcr": 7.29,
+        "citations": 5706
+      },
+      {
+        "name": "Brett R. Scheffers",
+        "score": 2.9,
+        "h_index": 27,
+        "fcr": 19.32,
+        "citations": 4793
+      },
+      {
+        "name": "Andrew H. Altieri",
+        "score": 2.1,
+        "h_index": 25,
+        "fcr": 9.01,
+        "citations": 2051
+      },
+      {
+        "name": "Jeffrey Hill",
+        "score": 1.6,
+        "h_index": 20,
+        "fcr": 5.11,
+        "citations": 1309
+      },
+      {
+        "name": "David Chagaris",
+        "score": 1.3,
+        "h_index": 15,
+        "fcr": 6.74,
+        "citations": 693
+      },
+      {
+        "name": "Christopher Dutton",
+        "score": 1.1,
+        "h_index": 10,
+        "fcr": 10.48,
+        "citations": 429
+      },
+      {
+        "name": "Ashley R. Smyth",
+        "score": 1.1,
+        "h_index": 13,
+        "fcr": 3.56,
+        "citations": 703
+      },
+      {
+        "name": "Amanda L. Subalusky",
+        "score": 1.0,
+        "h_index": 9,
+        "fcr": 11.0,
+        "citations": 329
+      },
+      {
+        "name": "Elise Morrison",
+        "score": 1.0,
+        "h_index": 11,
+        "fcr": 4.37,
+        "citations": 422
+      },
+      {
+        "name": "Laura K. Reynolds",
+        "score": 1.0,
+        "h_index": 12,
+        "fcr": 5.92,
+        "citations": 435
+      },
+      {
+        "name": "Grace John",
+        "score": 0.9,
+        "h_index": 8,
+        "fcr": 8.45,
+        "citations": 453
+      },
+      {
+        "name": "Catherine M. Tucker",
+        "score": 0.9,
+        "h_index": 8,
+        "fcr": 10.09,
+        "citations": 375
+      },
+      {
+        "name": "Quenton Tuckett",
+        "score": 0.9,
+        "h_index": 11,
+        "fcr": 5.06,
+        "citations": 430
+      },
+      {
+        "name": "Savanna Barry",
+        "score": 0.8,
+        "h_index": 10,
+        "fcr": 3.11,
+        "citations": 353
+      },
+      {
+        "name": "James Cuda",
+        "score": 0.7,
+        "h_index": 10,
+        "fcr": 0.65,
+        "citations": 533
+      }
+    ],
+    "Commerce, Management, Tourism and Services": [
+      {
+        "name": "Stephen Holland",
+        "score": 2.7,
+        "h_index": 23,
+        "fcr": 28.5,
+        "citations": 1993
+      },
+      {
+        "name": "Taylor V. Stein",
+        "score": 1.5,
+        "h_index": 18,
+        "fcr": 6.95,
+        "citations": 924
+      },
+      {
+        "name": "Zhe Jiang",
+        "score": 1.2,
+        "h_index": 12,
+        "fcr": 8.33,
+        "citations": 526
+      },
+      {
+        "name": "Tracy Irani",
+        "score": 1.2,
+        "h_index": 10,
+        "fcr": 2.07,
+        "citations": 422
+      },
+      {
+        "name": "Laura A. Warner",
+        "score": 1.1,
+        "h_index": 14,
+        "fcr": 3.82,
+        "citations": 577
+      },
+      {
+        "name": "Thomas A. Obreza",
+        "score": 1.1,
+        "h_index": 16,
+        "fcr": 1.31,
+        "citations": 950
+      },
+      {
+        "name": "Paul Monaghan",
+        "score": 0.9,
+        "h_index": 11,
+        "fcr": 3.45,
+        "citations": 396
+      },
+      {
+        "name": "Cynthia S. Simmons",
+        "score": 0.8,
+        "h_index": 8,
+        "fcr": 7.45,
+        "citations": 186
+      },
+      {
+        "name": "Mark Jamison",
+        "score": 0.8,
+        "h_index": 10,
+        "fcr": 1.18,
+        "citations": 414
+      },
+      {
+        "name": "Ignacia Mercadal",
+        "score": 0.5,
+        "h_index": 3,
+        "fcr": 8.45,
+        "citations": 59
+      },
+      {
+        "name": "Christa D. Court",
+        "score": 0.5,
+        "h_index": 7,
+        "fcr": 2.66,
+        "citations": 135
+      },
+      {
+        "name": "Sebastian Galindo",
+        "score": 0.4,
+        "h_index": 5,
+        "fcr": 2.51,
+        "citations": 94
+      },
+      {
+        "name": "Lisa Krimsky",
+        "score": 0.3,
+        "h_index": 4,
+        "fcr": 2.45,
+        "citations": 79
+      }
+    ],
+    "Built Environment and Design": [
+      {
+        "name": "Robert J. Ries",
+        "score": 1.4,
+        "h_index": 17,
+        "fcr": 6.29,
+        "citations": 1547
+      },
+      {
+        "name": "Alan Hodges",
+        "score": 1.2,
+        "h_index": 17,
+        "fcr": 1.71,
+        "citations": 1111
+      },
+      {
+        "name": "Sanjay Shukla",
+        "score": 1.0,
+        "h_index": 14,
+        "fcr": 1.1,
+        "citations": 651
+      },
+      {
+        "name": "Mysha Clarke",
+        "score": 1.0,
+        "h_index": 9,
+        "fcr": 10.17,
+        "citations": 313
+      },
+      {
+        "name": "Cynthia S. Simmons",
+        "score": 0.8,
+        "h_index": 8,
+        "fcr": 7.45,
+        "citations": 186
+      },
+      {
+        "name": "Kathryn Frank",
+        "score": 0.7,
+        "h_index": 10,
+        "fcr": 1.6,
+        "citations": 265
+      },
+      {
+        "name": "Wendy-Lin Bartels",
+        "score": 0.7,
+        "h_index": 7,
+        "fcr": 7.79,
+        "citations": 204
+      },
+      {
+        "name": "Claire Lewis",
+        "score": 0.2,
+        "h_index": 3,
+        "fcr": 0.44,
+        "citations": 260
+      },
+      {
+        "name": "Alpa Nawre",
+        "score": 0.2,
+        "h_index": 2,
+        "fcr": 2.89,
+        "citations": 15
+      },
+      {
+        "name": "Tina McIntyre",
+        "score": 0.2,
+        "h_index": 2,
+        "fcr": 0.99,
+        "citations": 11
+      },
+      {
+        "name": "Jeffrey Carney",
+        "score": 0.1,
+        "h_index": 1,
+        "fcr": null,
+        "citations": 8
+      },
+      {
+        "name": "Andrea Galinski",
+        "score": 0.1,
+        "h_index": 1,
+        "fcr": null,
+        "citations": 8
+      }
+    ],
+    "Historical Studies": [
+      {
+        "name": "Anna Peterson",
+        "score": 0.7,
+        "h_index": 5,
+        "fcr": 9.39,
+        "citations": 64
+      },
+      {
+        "name": "Kathryn Frank",
+        "score": 0.7,
+        "h_index": 10,
+        "fcr": 1.6,
+        "citations": 265
+      },
+      {
+        "name": "Steven Noll",
+        "score": 0.3,
+        "h_index": 3,
+        "fcr": null,
+        "citations": 59
+      },
+      {
+        "name": "Tiare Silvasy",
+        "score": 0.2,
+        "h_index": 2,
+        "fcr": 1.0,
+        "citations": 11
+      },
+      {
+        "name": "Luke Harlow",
+        "score": 0.2,
+        "h_index": 1,
+        "fcr": 2.86,
+        "citations": 3
+      }
+    ],
+    "History, Heritage and Archaeology": [
+      {
+        "name": "Anna Peterson",
+        "score": 0.7,
+        "h_index": 5,
+        "fcr": 9.39,
+        "citations": 64
+      },
+      {
+        "name": "Kathryn Frank",
+        "score": 0.7,
+        "h_index": 10,
+        "fcr": 1.6,
+        "citations": 265
+      },
+      {
+        "name": "Steven Noll",
+        "score": 0.3,
+        "h_index": 3,
+        "fcr": null,
+        "citations": 59
+      },
+      {
+        "name": "Luke Harlow",
+        "score": 0.2,
+        "h_index": 1,
+        "fcr": 2.86,
+        "citations": 3
+      }
+    ],
+    "Development Studies": [
+      {
+        "name": "Frank Asche",
+        "score": 4.6,
+        "h_index": 43,
+        "fcr": 33.8,
+        "citations": 6777
+      },
+      {
+        "name": "Rachata Muneepeerakul",
+        "score": 1.3,
+        "h_index": 13,
+        "fcr": 2.96,
+        "citations": 472
+      },
+      {
+        "name": "Renata Serra",
+        "score": 0.9,
+        "h_index": 9,
+        "fcr": 7.73,
+        "citations": 263
+      },
+      {
+        "name": "Anna Peterson",
+        "score": 0.7,
+        "h_index": 5,
+        "fcr": 9.39,
+        "citations": 64
+      },
+      {
+        "name": "Patrick Ward",
+        "score": 0.3,
+        "h_index": 2,
+        "fcr": 2.98,
+        "citations": 435
+      },
+      {
+        "name": "Alpa Nawre",
+        "score": 0.2,
+        "h_index": 2,
+        "fcr": 2.89,
+        "citations": 15
+      }
+    ],
+    "Zoology": [
+      {
+        "name": "Peter Frederick",
+        "score": 2.1,
+        "h_index": 29,
+        "fcr": 1.99,
+        "citations": 2762
+      },
+      {
+        "name": "James Gillooly",
+        "score": 1.9,
+        "h_index": 25,
+        "fcr": 1.75,
+        "citations": 3180
+      },
+      {
+        "name": "Johan Desaeger",
+        "score": 1.2,
+        "h_index": 16,
+        "fcr": 3.48,
+        "citations": 773
+      },
+      {
+        "name": "Carissa L. Wickens",
+        "score": 0.4,
+        "h_index": 5,
+        "fcr": 2.3,
+        "citations": 90
+      },
+      {
+        "name": "Laurel Kaminsky",
+        "score": 0.1,
+        "h_index": 2,
+        "fcr": 0.66,
+        "citations": 12
+      }
+    ],
+    "Macromolecular and Materials Chemistry": [
+      {
+        "name": "Austin Evans",
+        "score": 1.2,
+        "h_index": 11,
+        "fcr": 10.69,
+        "citations": 756
+      },
+      {
+        "name": "Daniel A. Savin",
+        "score": 1.1,
+        "h_index": 15,
+        "fcr": 0.82,
+        "citations": 1215
+      },
+      {
+        "name": "Joshua Moon",
+        "score": 0.2,
+        "h_index": 1,
+        "fcr": null,
+        "citations": 4
+      },
+      {
+        "name": "Guilhem De Hoe",
+        "score": 0.2,
+        "h_index": 1,
+        "fcr": 2.8,
+        "citations": 9
+      }
+    ],
+    "Fisheries Sciences": [
+      {
+        "name": "Frank Asche",
+        "score": 4.6,
+        "h_index": 43,
+        "fcr": 33.8,
+        "citations": 6777
+      },
+      {
+        "name": "Micheal S. Allen",
+        "score": 2.4,
+        "h_index": 30,
+        "fcr": 6.49,
+        "citations": 2572
+      },
+      {
+        "name": "James L. Anderson",
+        "score": 2.1,
+        "h_index": 22,
+        "fcr": 12.73,
+        "citations": 2239
+      },
+      {
+        "name": "Thomas Anderson",
+        "score": 1.9,
+        "h_index": 5,
+        "fcr": 40.25,
+        "citations": 179
+      },
+      {
+        "name": "Kuttichantran Subramaniam",
+        "score": 1.5,
+        "h_index": 18,
+        "fcr": 3.54,
+        "citations": 2155
+      },
+      {
+        "name": "William E. Pine",
+        "score": 1.2,
+        "h_index": 17,
+        "fcr": 1.94,
+        "citations": 999
+      },
+      {
+        "name": "Ruth Francis-Floyd",
+        "score": 1.1,
+        "h_index": 14,
+        "fcr": 4.19,
+        "citations": 597
+      },
+      {
+        "name": "Joshua T. Patterson",
+        "score": 1.1,
+        "h_index": 14,
+        "fcr": 4.39,
+        "citations": 589
+      },
+      {
+        "name": "Debra J. Murie",
+        "score": 0.7,
+        "h_index": 10,
+        "fcr": 2.35,
+        "citations": 383
+      },
+      {
+        "name": "Roy P. E. Yanong",
+        "score": 0.6,
+        "h_index": 8,
+        "fcr": 2.28,
+        "citations": 250
+      },
+      {
+        "name": "Huiping Yang",
+        "score": 0.4,
+        "h_index": 5,
+        "fcr": 1.94,
+        "citations": 70
+      },
+      {
+        "name": "Bridget B. Baker",
+        "score": 0.4,
+        "h_index": 5,
+        "fcr": 3.42,
+        "citations": 76
+      }
+    ],
+    "Policy and Administration": [
+      {
+        "name": "Erin Jones",
+        "score": 1.2,
+        "h_index": 2,
+        "fcr": 27.9,
+        "citations": 52
+      },
+      {
+        "name": "Marit \u00d8steb\u00f8",
+        "score": 1.2,
+        "h_index": 6,
+        "fcr": 21.62,
+        "citations": 113
+      },
+      {
+        "name": "Mark Jamison",
+        "score": 0.8,
+        "h_index": 10,
+        "fcr": 1.18,
+        "citations": 414
+      },
+      {
+        "name": "Katherine Deliz Qui\u00f1ones",
+        "score": 0.6,
+        "h_index": 6,
+        "fcr": 4.74,
+        "citations": 120
+      }
+    ],
+    "Education": [
+      {
+        "name": "Jasmeet Judge",
+        "score": 1.6,
+        "h_index": 20,
+        "fcr": 5.18,
+        "citations": 1531
+      },
+      {
+        "name": "Kent Crippen",
+        "score": 1.5,
+        "h_index": 15,
+        "fcr": 6.82,
+        "citations": 856
+      },
+      {
+        "name": "Paul Monaghan",
+        "score": 0.9,
+        "h_index": 11,
+        "fcr": 3.45,
+        "citations": 396
+      },
+      {
+        "name": "Ryan Good",
+        "score": 0.6,
+        "h_index": 4,
+        "fcr": 8.68,
+        "citations": 80
+      },
+      {
+        "name": "Sebastian Galindo",
+        "score": 0.4,
+        "h_index": 5,
+        "fcr": 2.51,
+        "citations": 94
+      },
+      {
+        "name": "Jamie Loizzo",
+        "score": 0.4,
+        "h_index": 4,
+        "fcr": 2.12,
+        "citations": 38
+      },
+      {
+        "name": "Jeffrey Carney",
+        "score": 0.1,
+        "h_index": 1,
+        "fcr": null,
+        "citations": 8
+      },
+      {
+        "name": "Danny Coenen",
+        "score": 0.1,
+        "h_index": 1,
+        "fcr": null,
+        "citations": 7
+      },
+      {
+        "name": "Andrea Galinski",
+        "score": 0.1,
+        "h_index": 1,
+        "fcr": null,
+        "citations": 8
+      }
+    ],
+    "Veterinary Sciences": [
+      {
+        "name": "Kuttichantran Subramaniam",
+        "score": 1.5,
+        "h_index": 18,
+        "fcr": 3.54,
+        "citations": 2155
+      },
+      {
+        "name": "Renata Serra",
+        "score": 0.9,
+        "h_index": 9,
+        "fcr": 7.73,
+        "citations": 263
+      },
+      {
+        "name": "Roy P. E. Yanong",
+        "score": 0.6,
+        "h_index": 8,
+        "fcr": 2.28,
+        "citations": 250
+      },
+      {
+        "name": "Carissa L. Wickens",
+        "score": 0.4,
+        "h_index": 5,
+        "fcr": 2.3,
+        "citations": 90
+      },
+      {
+        "name": "Caitlin Justesen",
+        "score": 0.0,
+        "h_index": 0,
+        "fcr": null,
+        "citations": 0
+      }
+    ],
+    "Animal Production": [
+      {
+        "name": "Lynn E. Sollenberger",
+        "score": 2.2,
+        "h_index": 29,
+        "fcr": 3.51,
+        "citations": 3134
+      },
+      {
+        "name": "Maria L. Silveira",
+        "score": 1.6,
+        "h_index": 22,
+        "fcr": 3.07,
+        "citations": 1684
+      },
+      {
+        "name": "Renata Serra",
+        "score": 0.9,
+        "h_index": 9,
+        "fcr": 7.73,
+        "citations": 263
+      },
+      {
+        "name": "Carissa L. Wickens",
+        "score": 0.4,
+        "h_index": 5,
+        "fcr": 2.3,
+        "citations": 90
+      }
+    ],
+    "Creative Arts and Writing": [
+      {
+        "name": "Ricky Telg",
+        "score": 0.4,
+        "h_index": 5,
+        "fcr": 2.77,
+        "citations": 93
+      },
+      {
+        "name": "Sebastian Galindo",
+        "score": 0.4,
+        "h_index": 5,
+        "fcr": 2.51,
+        "citations": 94
+      },
+      {
+        "name": "Amelia Winger-Bearskin",
+        "score": 0.0,
+        "h_index": 0,
+        "fcr": null,
+        "citations": 0
+      }
+    ],
+    "Law and Legal Studies": [
+      {
+        "name": "Shinsuke Agehara",
+        "score": 0.9,
+        "h_index": 12,
+        "fcr": 3.37,
+        "citations": 384
+      },
+      {
+        "name": "Qingren Wang",
+        "score": 0.6,
+        "h_index": 8,
+        "fcr": 0.57,
+        "citations": 480
+      },
+      {
+        "name": "Roy P. E. Yanong",
+        "score": 0.6,
+        "h_index": 8,
+        "fcr": 2.28,
+        "citations": 250
+      },
+      {
+        "name": "Thomas T. Ankersen",
+        "score": 0.3,
+        "h_index": 4,
+        "fcr": 1.49,
+        "citations": 47
+      },
+      {
+        "name": "Whitney Elmore",
+        "score": 0.1,
+        "h_index": 1,
+        "fcr": null,
+        "citations": 1
+      }
+    ],
+    "Oceanography": [
+      {
+        "name": "Arnoldo Valle-Levinson",
+        "score": 2.2,
+        "h_index": 29,
+        "fcr": 2.75,
+        "citations": 3102
+      },
+      {
+        "name": "Xiao Yu",
+        "score": 1.3,
+        "h_index": 15,
+        "fcr": 4.71,
+        "citations": 739
+      },
+      {
+        "name": "Corene J. Matyas",
+        "score": 1.3,
+        "h_index": 17,
+        "fcr": 2.11,
+        "citations": 752
+      },
+      {
+        "name": "Peter R. Waylen",
+        "score": 1.2,
+        "h_index": 16,
+        "fcr": 2.31,
+        "citations": 1277
+      },
+      {
+        "name": "Bryndan Durham",
+        "score": 1.1,
+        "h_index": 12,
+        "fcr": 7.49,
+        "citations": 617
+      },
+      {
+        "name": "Esther D. Mullens",
+        "score": 0.2,
+        "h_index": 2,
+        "fcr": 1.2,
+        "citations": 20
+      },
+      {
+        "name": "Nasser Najibi",
+        "score": 0.1,
+        "h_index": 1,
+        "fcr": null,
+        "citations": 1
+      },
+      {
+        "name": "Carla Brisotto",
+        "score": 0.1,
+        "h_index": 1,
+        "fcr": 0.71,
+        "citations": 7
+      }
+    ],
+    "Materials Engineering": [
+      {
+        "name": "Xiaoyu Song",
+        "score": 1.9,
+        "h_index": 24,
+        "fcr": 5.46,
+        "citations": 1423
+      },
+      {
+        "name": "Austin Evans",
+        "score": 1.2,
+        "h_index": 11,
+        "fcr": 10.69,
+        "citations": 756
+      },
+      {
+        "name": "Youngsup Song",
+        "score": 0.2,
+        "h_index": 2,
+        "fcr": 2.35,
+        "citations": 8
+      }
+    ],
+    "Civil Engineering": [
+      {
+        "name": "Xiaoyu Song",
+        "score": 1.9,
+        "h_index": 24,
+        "fcr": 5.46,
+        "citations": 1423
+      },
+      {
+        "name": "John J. Sansalone",
+        "score": 1.1,
+        "h_index": 16,
+        "fcr": 0.14,
+        "citations": 816
+      },
+      {
+        "name": "Rob de Rooij",
+        "score": 0.7,
+        "h_index": 7,
+        "fcr": 6.73,
+        "citations": 163
+      },
+      {
+        "name": "Taylor Clem",
+        "score": 0.2,
+        "h_index": 2,
+        "fcr": 2.73,
+        "citations": 56
+      }
+    ],
+    "Tourism": [
+      {
+        "name": "Stephen Holland",
+        "score": 2.7,
+        "h_index": 23,
+        "fcr": 28.5,
+        "citations": 1993
+      },
+      {
+        "name": "Taylor V. Stein",
+        "score": 1.5,
+        "h_index": 18,
+        "fcr": 6.95,
+        "citations": 924
+      },
+      {
+        "name": "Kevin Ash",
+        "score": 0.9,
+        "h_index": 10,
+        "fcr": 5.44,
+        "citations": 397
+      }
+    ],
+    "Genetics": [
+      {
+        "name": "Nancy Denslow",
+        "score": 4.8,
+        "h_index": 55,
+        "fcr": 9.49,
+        "citations": 10465
+      },
+      {
+        "name": "Stuart McDaniel",
+        "score": 2.3,
+        "h_index": 25,
+        "fcr": 7.49,
+        "citations": 2450
+      },
+      {
+        "name": "Donald Behringer",
+        "score": 1.7,
+        "h_index": 22,
+        "fcr": 3.82,
+        "citations": 1370
+      },
+      {
+        "name": "Lawrence M. Page",
+        "score": 1.6,
+        "h_index": 7,
+        "fcr": 2.92,
+        "citations": 368
+      },
+      {
+        "name": "Kuttichantran Subramaniam",
+        "score": 1.5,
+        "h_index": 18,
+        "fcr": 3.54,
+        "citations": 2155
+      },
+      {
+        "name": "Willm Martens-Habbena",
+        "score": 1.2,
+        "h_index": 13,
+        "fcr": 6.99,
+        "citations": 748
+      },
+      {
+        "name": "Huiping Yang",
+        "score": 0.4,
+        "h_index": 5,
+        "fcr": 1.94,
+        "citations": 70
+      },
+      {
+        "name": "Elizabeth Cash",
+        "score": 0.1,
+        "h_index": 1,
+        "fcr": 1.15,
+        "citations": 5
+      }
+    ],
+    "Climate Change Science": [
+      {
+        "name": "Corene J. Matyas",
+        "score": 1.3,
+        "h_index": 17,
+        "fcr": 2.11,
+        "citations": 752
+      },
+      {
+        "name": "Peter R. Waylen",
+        "score": 1.2,
+        "h_index": 16,
+        "fcr": 2.31,
+        "citations": 1277
+      },
+      {
+        "name": "David Keellings",
+        "score": 1.1,
+        "h_index": 13,
+        "fcr": 4.83,
+        "citations": 1105
+      },
+      {
+        "name": "Ziwen Yu",
+        "score": 0.5,
+        "h_index": 6,
+        "fcr": 2.35,
+        "citations": 141
+      },
+      {
+        "name": "Esther D. Mullens",
+        "score": 0.2,
+        "h_index": 2,
+        "fcr": 1.2,
+        "citations": 20
+      }
+    ],
+    "Biochemistry and Cell Biology": [
+      {
+        "name": "Mariola Edelmann",
+        "score": 1.2,
+        "h_index": 14,
+        "fcr": 5.58,
+        "citations": 780
+      },
+      {
+        "name": "Daniel A. Savin",
+        "score": 1.1,
+        "h_index": 15,
+        "fcr": 0.82,
+        "citations": 1215
+      },
+      {
+        "name": "Tracie Baker",
+        "score": 0.9,
+        "h_index": 8,
+        "fcr": 4.6,
+        "citations": 256
+      },
+      {
+        "name": "Banikalyan Swain",
+        "score": 0.7,
+        "h_index": 6,
+        "fcr": 7.89,
+        "citations": 111
+      },
+      {
+        "name": "Sarah Doore",
+        "score": 0.5,
+        "h_index": 4,
+        "fcr": 2.95,
+        "citations": 54
+      }
+    ],
+    "Human Geography": [
+      {
+        "name": "Jason von Meding",
+        "score": 1.5,
+        "h_index": 16,
+        "fcr": 10.53,
+        "citations": 959
+      },
+      {
+        "name": "Mysha Clarke",
+        "score": 1.0,
+        "h_index": 9,
+        "fcr": 10.17,
+        "citations": 313
+      },
+      {
+        "name": "Kevin Ash",
+        "score": 0.9,
+        "h_index": 10,
+        "fcr": 5.44,
+        "citations": 397
+      },
+      {
+        "name": "Carla Brisotto",
+        "score": 0.1,
+        "h_index": 1,
+        "fcr": 0.71,
+        "citations": 7
+      },
+      {
+        "name": "Lorna Bravo",
+        "score": 0.1,
+        "h_index": 1,
+        "fcr": 0.43,
+        "citations": 2
+      },
+      {
+        "name": "Maxine Hunter",
+        "score": 0.0,
+        "h_index": 0,
+        "fcr": null,
+        "citations": 0
+      }
+    ],
+    "Soil Sciences": [
+      {
+        "name": "Sabine Grunwald",
+        "score": 4.4,
+        "h_index": 34,
+        "fcr": 24.53,
+        "citations": 4105
+      },
+      {
+        "name": "Michael D. Annable",
+        "score": 2.3,
+        "h_index": 31,
+        "fcr": 1.4,
+        "citations": 3080
+      },
+      {
+        "name": "Alan L. Wright",
+        "score": 2.0,
+        "h_index": 27,
+        "fcr": 2.46,
+        "citations": 2253
+      },
+      {
+        "name": "Samira Daroub",
+        "score": 1.5,
+        "h_index": 18,
+        "fcr": 3.24,
+        "citations": 2569
+      },
+      {
+        "name": "Sudeep S. Sidhu",
+        "score": 1.4,
+        "h_index": 5,
+        "fcr": 27.73,
+        "citations": 422
+      },
+      {
+        "name": "Scot E. Smith",
+        "score": 1.2,
+        "h_index": 16,
+        "fcr": 2.27,
+        "citations": 810
+      },
+      {
+        "name": "Stefan Gerber",
+        "score": 1.2,
+        "h_index": 15,
+        "fcr": 2.83,
+        "citations": 866
+      },
+      {
+        "name": "Tracy Irani",
+        "score": 1.2,
+        "h_index": 10,
+        "fcr": 2.07,
+        "citations": 422
+      },
+      {
+        "name": "Edward Evans",
+        "score": 1.1,
+        "h_index": 13,
+        "fcr": 4.57,
+        "citations": 578
+      },
+      {
+        "name": "Rao S. Mylavarapu",
+        "score": 0.6,
+        "h_index": 8,
+        "fcr": 2.3,
+        "citations": 276
+      },
+      {
+        "name": "Ebrahim Babaeian",
+        "score": 0.5,
+        "h_index": 4,
+        "fcr": 5.35,
+        "citations": 94
+      },
+      {
+        "name": "Michelle Phillips",
+        "score": 0.5,
+        "h_index": 6,
+        "fcr": 2.25,
+        "citations": 96
+      },
+      {
+        "name": "Jay Capasso",
+        "score": 0.3,
+        "h_index": 4,
+        "fcr": 2.09,
+        "citations": 126
+      },
+      {
+        "name": "Yilin Zhuang",
+        "score": 0.2,
+        "h_index": 2,
+        "fcr": 2.41,
+        "citations": 14
+      }
+    ],
+    "Physical Sciences": [
+      {
+        "name": "David Kaplan",
+        "score": 6.0,
+        "h_index": 38,
+        "fcr": 79.13,
+        "citations": 6902
+      },
+      {
+        "name": "Stephen Holland",
+        "score": 2.7,
+        "h_index": 23,
+        "fcr": 28.5,
+        "citations": 1993
+      },
+      {
+        "name": "Rachata Muneepeerakul",
+        "score": 1.3,
+        "h_index": 13,
+        "fcr": 2.96,
+        "citations": 472
+      },
+      {
+        "name": "Hamed Dalir",
+        "score": 1.0,
+        "h_index": 11,
+        "fcr": 8.04,
+        "citations": 437
+      },
+      {
+        "name": "Qingren Wang",
+        "score": 0.6,
+        "h_index": 8,
+        "fcr": 0.57,
+        "citations": 480
+      }
+    ],
+    "Geochemistry": [
+      {
+        "name": "Michael R. Perfit",
+        "score": 2.5,
+        "h_index": 31,
+        "fcr": 1.97,
+        "citations": 3404
+      },
+      {
+        "name": "Paul A. Mueller",
+        "score": 2.1,
+        "h_index": 27,
+        "fcr": 3.17,
+        "citations": 2541
+      },
+      {
+        "name": "Megan E. Moore",
+        "score": 0.1,
+        "h_index": 1,
+        "fcr": null,
+        "citations": 4
+      }
+    ],
+    "Chemical Engineering": [
+      {
+        "name": "Pratap Pullammanappallil",
+        "score": 1.8,
+        "h_index": 21,
+        "fcr": 0.65,
+        "citations": 4724
+      },
+      {
+        "name": "David W. Mazyck",
+        "score": 1.2,
+        "h_index": 17,
+        "fcr": 0.68,
+        "citations": 1029
+      },
+      {
+        "name": "Spyros A. Svoronos",
+        "score": 1.1,
+        "h_index": 15,
+        "fcr": 0.91,
+        "citations": 924
+      },
+      {
+        "name": "John J. Sansalone",
+        "score": 1.1,
+        "h_index": 16,
+        "fcr": 0.14,
+        "citations": 816
+      },
+      {
+        "name": "Dengjun Wang",
+        "score": 0.6,
+        "h_index": 5,
+        "fcr": 3.58,
+        "citations": 258
+      },
+      {
+        "name": "Ahn Jaehyun",
+        "score": 0.4,
+        "h_index": 2,
+        "fcr": 4.95,
+        "citations": 27
+      }
+    ],
+    "Evolutionary Biology": [
+      {
+        "name": "Stuart McDaniel",
+        "score": 2.3,
+        "h_index": 25,
+        "fcr": 7.49,
+        "citations": 2450
+      },
+      {
+        "name": "Lawrence M. Page",
+        "score": 1.6,
+        "h_index": 7,
+        "fcr": 2.92,
+        "citations": 368
+      },
+      {
+        "name": "Laurel Kaminsky",
+        "score": 0.1,
+        "h_index": 2,
+        "fcr": 0.66,
+        "citations": 12
+      }
+    ],
+    "Food Sciences": [
+      {
+        "name": "Boce Zhang",
+        "score": 0.9,
+        "h_index": 11,
+        "fcr": 3.74,
+        "citations": 269
+      },
+      {
+        "name": "Shirley M. Baker",
+        "score": 0.7,
+        "h_index": 9,
+        "fcr": 2.71,
+        "citations": 299
+      },
+      {
+        "name": "Ahn Jaehyun",
+        "score": 0.4,
+        "h_index": 2,
+        "fcr": 4.95,
+        "citations": 27
+      }
+    ],
+    "Public Health": [
+      {
+        "name": "Anita Wright",
+        "score": 2.0,
+        "h_index": 23,
+        "fcr": 12.11,
+        "citations": 1447
+      },
+      {
+        "name": "Kevin Bardosh",
+        "score": 1.1,
+        "h_index": 13,
+        "fcr": 4.72,
+        "citations": 865
+      },
+      {
+        "name": "Paul Monaghan",
+        "score": 0.9,
+        "h_index": 11,
+        "fcr": 3.45,
+        "citations": 396
+      },
+      {
+        "name": "Alyson Young",
+        "score": 0.5,
+        "h_index": 7,
+        "fcr": 1.53,
+        "citations": 203
+      }
+    ],
+    "Sociology": [
+      {
+        "name": "Christopher McCarty",
+        "score": 4.7,
+        "h_index": 30,
+        "fcr": 63.59,
+        "citations": 3659
+      },
+      {
+        "name": "Hannah Wooten",
+        "score": 0.2,
+        "h_index": 2,
+        "fcr": 2.01,
+        "citations": 16
+      },
+      {
+        "name": "Carla Brisotto",
+        "score": 0.1,
+        "h_index": 1,
+        "fcr": 0.71,
+        "citations": 7
+      },
+      {
+        "name": "Lorna Bravo",
+        "score": 0.1,
+        "h_index": 1,
+        "fcr": 0.43,
+        "citations": 2
+      }
+    ],
+    "Medical Microbiology": [
+      {
+        "name": "Benjamin Anderson",
+        "score": 2.2,
+        "h_index": 22,
+        "fcr": 17.98,
+        "citations": 1734
+      },
+      {
+        "name": "Mariola Edelmann",
+        "score": 1.2,
+        "h_index": 14,
+        "fcr": 5.58,
+        "citations": 780
+      },
+      {
+        "name": "Banikalyan Swain",
+        "score": 0.7,
+        "h_index": 6,
+        "fcr": 7.89,
+        "citations": 111
+      },
+      {
+        "name": "Sarah Doore",
+        "score": 0.5,
+        "h_index": 4,
+        "fcr": 2.95,
+        "citations": 54
+      }
+    ],
+    "Curriculum and Pedagogy": [
+      {
+        "name": "Kent Crippen",
+        "score": 1.5,
+        "h_index": 15,
+        "fcr": 6.82,
+        "citations": 856
+      },
+      {
+        "name": "Corene J. Matyas",
+        "score": 1.3,
+        "h_index": 17,
+        "fcr": 2.11,
+        "citations": 752
+      },
+      {
+        "name": "Kathryn Frank",
+        "score": 0.7,
+        "h_index": 10,
+        "fcr": 1.6,
+        "citations": 265
+      },
+      {
+        "name": "Jeffrey Carney",
+        "score": 0.1,
+        "h_index": 1,
+        "fcr": null,
+        "citations": 8
+      },
+      {
+        "name": "Andrea Galinski",
+        "score": 0.1,
+        "h_index": 1,
+        "fcr": null,
+        "citations": 8
+      }
+    ],
+    "Urban and Regional Planning": [
+      {
+        "name": "Kathryn Frank",
+        "score": 0.7,
+        "h_index": 10,
+        "fcr": 1.6,
+        "citations": 265
+      },
+      {
+        "name": "Jeffrey Carney",
+        "score": 0.1,
+        "h_index": 1,
+        "fcr": null,
+        "citations": 8
+      },
+      {
+        "name": "Andrea Galinski",
+        "score": 0.1,
+        "h_index": 1,
+        "fcr": null,
+        "citations": 8
+      }
+    ],
+    "Communication and Media Studies": [
+      {
+        "name": "Ricky Telg",
+        "score": 0.4,
+        "h_index": 5,
+        "fcr": 2.77,
+        "citations": 93
+      },
+      {
+        "name": "Jamie Loizzo",
+        "score": 0.4,
+        "h_index": 4,
+        "fcr": 2.12,
+        "citations": 38
+      },
+      {
+        "name": "Hannah Wooten",
+        "score": 0.2,
+        "h_index": 2,
+        "fcr": 2.01,
+        "citations": 16
+      }
+    ],
+    "Language, Communication and Culture": [
+      {
+        "name": "Ricky Telg",
+        "score": 0.4,
+        "h_index": 5,
+        "fcr": 2.77,
+        "citations": 93
+      },
+      {
+        "name": "Jamie Loizzo",
+        "score": 0.4,
+        "h_index": 4,
+        "fcr": 2.12,
+        "citations": 38
+      },
+      {
+        "name": "Hannah Wooten",
+        "score": 0.2,
+        "h_index": 2,
+        "fcr": 2.01,
+        "citations": 16
+      }
+    ],
+    "Education Systems": [
+      {
+        "name": "Kent Crippen",
+        "score": 1.5,
+        "h_index": 15,
+        "fcr": 6.82,
+        "citations": 856
+      },
+      {
+        "name": "Ryan Good",
+        "score": 0.6,
+        "h_index": 4,
+        "fcr": 8.68,
+        "citations": 80
+      },
+      {
+        "name": "Danny Coenen",
+        "score": 0.1,
+        "h_index": 1,
+        "fcr": null,
+        "citations": 7
+      }
+    ]
+  }
+}

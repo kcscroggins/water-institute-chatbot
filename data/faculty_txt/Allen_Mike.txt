@@ -29,3 +29,14 @@ Nature Coast Biological Station, PO Box 878, Cedar Key, FL 32625.  [oai_citation
 Associated Faculty, UF Water Institute: “Aquatic Biology, Data Analysis/Modeling, Ecology, Policy/Legal/Governance, Water Quality, Water Resource Management.”  [oai_citation:9‡waterinstitute.ufl.edu](https://waterinstitute.ufl.edu/people/affiliate-faculty/?utm_source=chatgpt.com)
 
 Keywords: Fisheries science, fish population dynamics, recreational fisheries management, habitat restoration, coastal ecology, fish community responses, simulation modelling, living shorelines.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 8
+- Total Citations: 399
+- H-Index: 7
+- Average Citations per Paper: 49.9
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.7/10
+Percentile: Top 62% of Water Institute faculty

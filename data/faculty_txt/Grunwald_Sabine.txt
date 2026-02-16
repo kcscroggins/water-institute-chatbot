@@ -28,3 +28,67 @@ Water & Policy Relevance:
 
 Keywords:
 Digital soil mapping; soil carbon; spatiotemporal modeling; soil health; geospatial analytics; machine learning; soil degradation; land-use change; carbon accounting; soil monitoring; uncertainty analysis; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 109
+- Total Citations: 4105
+- H-Index: 34
+- Average Citations per Paper: 37.7
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 24.53 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Artificial intelligence for geoscience: Progress, challenges, and perspectives *The Innovation* (2024) - 326 citations
+  DOI: https://doi.org/10.1016/j.xinn.2024.100691
+- Practical Guide to Measuring Wetland Carbon Pools and Fluxes *Wetlands* (2023) - 58 citations
+  DOI: https://doi.org/10.1007/s13157-023-01722-2
+- Predicting Soil Properties and Interpreting Vis-NIR Models from across Continental United States *Sensors* (2022) - 46 citations
+  DOI: https://doi.org/10.3390/s22093187
+- The Brazilian Soil Spectral Service (BraSpecS): A User-Friendly System for Global Soil Spectra Communication *Remote Sensing* (2022) - 34 citations
+  DOI: https://doi.org/10.3390/rs14030740
+- Environmental covariates improve the spectral predictions of organic carbon in subtropical soils in southern Brazil *Geoderma* (2021) - 32 citations
+  DOI: https://doi.org/10.1016/j.geoderma.2021.114981
+- Do the Mann-Kendall test and Theil-Sen slope fail to inform trend significance and magnitude in hydrology? *Hydrological Sciences Journal* (2023) - 24 citations
+  DOI: https://doi.org/10.1080/02626667.2023.2212166
+- Soil depth prediction by digital soil mapping and its impact in pine forestry productivity in South Brazil *Forest Ecology and Management* (2021) - 24 citations
+  DOI: https://doi.org/10.1016/j.foreco.2021.118983
+- Regional Assessment of Carbon Pool Response to Intensive Silvicultural Practices in Loblolly Pine Plantations *Forests* (2021) - 18 citations
+  DOI: https://doi.org/10.3390/f13010036
+- Effect of Mississippi River discharge and local hydrological variables on salinity of nearby estuaries using a machine learning algorithm *Estuarine Coastal and Shelf Science* (2021) - 15 citations
+  DOI: https://doi.org/10.1016/j.ecss.2021.107628
+- Developmental History of Soil Concepts from a Scientific Perspective *Applied Sciences* (2021) - 15 citations
+  DOI: https://doi.org/10.3390/app11094275
+
+Research Grants (from Dimensions.ai):
+- (MC) Integral Soil Security and Soil Health (2021-2025)
+  Funder: National Institute of Food and Agriculture
+- INTEGRATING RESEARCH, EDUCATION, AND EXTENSION FOR ENHANCING SOUTHERN PINE CLIMATE CHANGE MITIGATION AND ADAPTATION (2013-2014) - $16,000,000
+  Funder: National Institute of Food and Agriculture
+- EAGER: Development of a Geospatial Soil-Crop Inference Engine for Smallholder Farmers (2012-2014) - $292,033
+  Funder: Directorate for Biological Sciences
+- Carbon Balance for Forested Ecosystems Role of Soils as Carbon Reservoirs (2009-2014)
+  Funder: National Institute of Food and Agriculture
+- Rapid Assessment and Trajectory Modeling of Soil Carbon Across a Southeastern Landscape (2007-2011) - $380,000
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 4106 Soil Sciences; 40 Engineering; 37 Earth Sciences; 46 Information and Computing Sciences
+
+Key Research Concepts (from Dimensions.ai):
+soil organic carbon; artificial intelligence; soil spectral library; deep learning; machine learning; data privacy concerns; advanced AI techniques; wetland C; C pools; C dynamics
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Universidade de São Paulo
+- United States Geological Survey
+- Aerospace Information Research Institute
+- University of Chinese Academy of Sciences
+- Isfahan University of Technology
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 4.4/10
+Percentile: Top 3% of Water Institute faculty
+Rankings by Research Category:
+- Soil Sciences: #1 of 14
+- Engineering: #3 of 53
+- Information and Computing Sciences: #4 of 20

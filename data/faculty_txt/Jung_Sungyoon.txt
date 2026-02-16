@@ -15,3 +15,35 @@ Dr. Jung's research interests include identification and quantification of emerg
 
 Keywords:
 Environmental pollutants; micro/nanoplastics; nanotechnology; air quality; aerosol science; catalysts; pollutant remediation; nanomaterials; environmental analysis.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 2
+- Total Citations: 4
+- H-Index: 1
+- Average Citations per Paper: 2.0
+- Open Access Publications: 100.0%
+
+Recent Publications (from Dimensions.ai):
+- Development of Standardized Methods to Extract and Digest Microplastics in Environmental Samples *Analytical Chemistry* (2025) - 4 citations
+  DOI: https://doi.org/10.1021/acs.analchem.5c00419
+- Optimization of a Sequential Method for Microplastic Extraction from Environmental Samples *Water, Air, & Soil Pollution* (2025)
+  DOI: https://doi.org/10.1007/s11270-025-08879-y
+
+Research Grants (from Dimensions.ai):
+- RAPID: Impact of Back-to-Back Major Hurricanes on Antibiotic Resistance Gene Transfer to Autochthonous Bacteria in Estuarine and Coastal Water Systems (2025-2026) - $98,944
+  Funder: Directorate for Engineering
+
+Research Categories (from Dimensions.ai):
+3401 Analytical Chemistry; 32 Biomedical and Clinical Sciences; 34 Chemical Sciences; 40 Engineering; 3205 Medical Biochemistry and Metabolomics
+
+Key Research Concepts (from Dimensions.ai):
+digestion method; density separation; exposure duration; contamination of environment; microplastic extraction; environmental impact; impacts of microplastics; mass of microplastics; environmental soil samples; large-scale contamination
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.1/10
+Percentile: Top 97% of Water Institute faculty
+Rankings by Research Category:
+- Analytical Chemistry: #1 of 1
+- Medical Biochemistry and Metabolomics: #4 of 4
+- Chemical Sciences: #10 of 10

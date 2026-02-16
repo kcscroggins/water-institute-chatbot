@@ -1,0 +1,76 @@
+Name: Ray Huffaker
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: rhuffaker@ufl.edu
+Website: https://abe.ufl.edu/people/faculty/ray-huffaker/
+Google Scholar: 
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 26
+- Total Citations: 306
+- H-Index: 9
+- Average Citations per Paper: 11.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 4.29 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Nitrogen-enriched discharges from a highly managed watershed intensify red tide (Karenia brevis) blooms in southwest Florida *The Science of The Total Environment* (2022) - 68 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2022.154149
+- HUM: A review of hydrochemical analysis using ultraviolet-visible absorption spectroscopy and machine learning *The Science of The Total Environment* (2023) - 15 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2023.165826
+- Statistical and microbial analysis of bio-electrochemical sensors used for carbon monitoring at water resource recovery facilities *Environmental Science Water Research & Technology* (2022) - 12 citations
+  DOI: https://doi.org/10.1039/d1ew00653c
+- Empirical Detection and Quantification of Price Transmission in Endogenously Unstable Markets: The Case of the Global–Domestic Coffee Supply Chain in Papua New Guinea *Sustainability* (2021) - 8 citations
+  DOI: https://doi.org/10.3390/su13169172
+- Hydrological records can be used to reconstruct the resilience of watersheds to climatic extremes *Communications Earth & Environment* (2024) - 6 citations
+  DOI: https://doi.org/10.1038/s43247-023-01181-x
+- Agriculture technology providers' perspectives of data rights and obligations in agriculture reflected by farm data value chain *Sustainable Futures* (2025) - 5 citations
+  DOI: https://doi.org/10.1016/j.sftr.2025.100585
+- Experimental evidence that rill-bed morphology is governed by emergent nonlinear spatial dynamics *Scientific Reports* (2022) - 4 citations
+  DOI: https://doi.org/10.1038/s41598-022-26114-0
+- Reconstructing dynamics of foodborne disease outbreaks in the US cattle market from monitoring data *PLOS ONE* (2021) - 4 citations
+  DOI: https://doi.org/10.1371/journal.pone.0245867
+- Assessing the impact of sowing dates and ENSO in a drought index-based insurance for soybean *Climate Risk Management* (2023) - 3 citations
+  DOI: https://doi.org/10.1016/j.crm.2023.100544
+- An empirical nonlinear dynamics approach to analyzing emergent behavior of agent-based models *AIP Advances* (2021) - 3 citations
+  DOI: https://doi.org/10.1063/5.0023116
+
+Research Grants (from Dimensions.ai):
+- Management and Policy Challenges in a Water-Scarce World (2019-2024)
+  Funder: National Institute of Food and Agriculture
+- Management and Policy Challenges in a Water-Scarce World (2015-2019)
+  Funder: National Institute of Food and Agriculture
+- U.S.-Costa Rican Workshop: Interdisciplinary workgroup on water sustainability in the Tempisque Basin; Palo Verde NP, Costa Rica, April 2012 (2011-2013) - $30,246
+  Funder: Office of the Director
+- Water Policy and Management Challenges in the West (2009-2014)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 46 Information and Computing Sciences; 4605 Data Management and Data Science; 40 Engineering; 3801 Applied Economics
+
+Key Research Concepts (from Dimensions.ai):
+coastal blooms; K. brevis blooms; river discharge; Gulf Coast; in-situ sample data; ultraviolet-visible absorption spectroscopy; machine learning; absorption spectroscopy; software development; sensor fusion
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Universidad Publica de Navarra
+- University of Illinois at Urbana-Champaign
+- Northwestern University
+- Metropolitan Water Reclamation District of Greater Chicago, Chicago, IL 60611, USA
+- Sanibel-Captiva Conservation Foundation

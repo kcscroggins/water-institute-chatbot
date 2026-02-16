@@ -1,0 +1,67 @@
+Name: Mariola Ferraro
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: medelmann@ufl.edu
+Website: https://microcell.ufl.edu/research/ferraro-lab/
+Google Scholar: https://scholar.google.com/citations?hl=en&user=9vM5txAAAAAJ&view_op=list_works&sortby=pubdate
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 8
+- Total Citations: 10
+- H-Index: 2
+- Average Citations per Paper: 1.2
+- Open Access Publications: 100.0%
+
+Recent Publications (from Dimensions.ai):
+- Evaluating small extracellular vesicle-based vaccination across heterologous Salmonella strains isolated from wastewater *Infection and Immunity* (2025) - 7 citations
+  DOI: https://doi.org/10.1128/iai.00485-24
+- Targeting deubiquitinating enzymes (DUBs) and ubiquitin pathway modulators to enhance host defense against bacterial infections *bioRxiv* (2025) - 2 citations
+  DOI: https://doi.org/10.1101/2025.01.27.635188
+- Targeting deubiquitinating enzymes and ubiquitin pathway modulators to enhance host defense against bacterial infections *mBio* (2025) - 1 citations
+  DOI: https://doi.org/10.1128/mbio.00312-25
+- Extracellular vesicles decoying across host immunity *Journal of Leukocyte Biology* (2025)
+  DOI: https://doi.org/10.1093/jleuko/qiaf173
+- Oral administration of sEVs from Salmonella-infected macrophages provides antigen-specific adaptive immunity in vivo 4496 *The Journal of Immunology* (2025)
+  DOI: https://doi.org/10.1093/jimmun/vkaf283.2171
+- Salmonella synthesizing 1-monophosphorylated lipopolysaccharide infection challenge induces immunomodulatory innate immune responses in murine antigen presenting cells 4229 *The Journal of Immunology* (2025)
+  DOI: https://doi.org/10.1093/jimmun/vkaf283.1937
+- Orally administered extracellular vesicles from Salmonella-infected macrophages confer protective immunity in vivo *Frontiers in Immunology* (2025)
+  DOI: https://doi.org/10.3389/fimmu.2025.1628756
+- Celestial hazards: immunological and pulmonary effects of lunar and Martian regolith simulants *Life Sciences in Space Research* (2025)
+  DOI: https://doi.org/10.1016/j.lssr.2025.07.003
+
+Research Grants (from Dimensions.ai):
+- The Function of Host-derived Extracellular Vesicles in Trafficking of Bacterial Antigens to Stimulate the Antibacterial Immune Response (2022-2028) - $1,718,880
+  Funder: National Institute of Allergy and Infectious Diseases
+- Function and protein cargo of exosomes in antigen presenting cells during Salmonella infection (2019-2022) - $139,871
+  Funder: National Institute of Allergy and Infectious Diseases
+- Advanced Technologies for the Genetic Improvement of Poultry (2018-2023)
+  Funder: National Institute of Food and Agriculture
+- Advanced Technologies for the Genetic Improvement of Poultry (was NC-168) (2015-2018)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+32 Biomedical and Clinical Sciences; 31 Biological Sciences; 3107 Microbiology; 3207 Medical Microbiology; 3204 Immunology
+
+Key Research Concepts (from Dimensions.ai):
+small extracellular vesicles; ubiquitin-proteasome system; deubiquitinating enzymes; whole-genome sequencing; systemic infection model; serovars Enteritidis; Typhimurium infection; host-targeted therapies; antibiotic-resistant bacterial pathogens; host-pathogen interactions
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Institute of Food and Agricultural Sciences

@@ -28,3 +28,67 @@ Zhang's work informs grower guidance and agricultural programs by providing scie
 
 Keywords:
 horticulture; tropical crops; subtropical crops; crop physiology; production systems; nutrient management; water management; stress physiology; specialty crops; South Florida; TREC; yield optimization; grower guidance
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 122
+- Total Citations: 1476
+- H-Index: 22
+- Average Citations per Paper: 12.1
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.94 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Oxidative stress, intestinal damage, and cell apoptosis: Toxicity induced by fluopyram in Caenorhabditis elegans *Chemosphere* (2021) - 75 citations
+  DOI: https://doi.org/10.1016/j.chemosphere.2021.131830
+- Lentinan extends lifespan and increases oxidative stress resistance through DAF-16 and SKN-1 pathways in Caenorhabditis elegans *International Journal of Biological Macromolecules* (2022) - 51 citations
+  DOI: https://doi.org/10.1016/j.ijbiomac.2022.01.071
+- History of a model plant growth-promoting rhizobacterium, Bacillus velezensis GB03: from isolation to commercialization *Frontiers in Plant Science* (2023) - 32 citations
+  DOI: https://doi.org/10.3389/fpls.2023.1279896
+- Evaluation of fluazaindolizine, a new nematicide for management of Meloidogyne incognita in squash in calcareous soils *Crop Protection* (2021) - 18 citations
+  DOI: https://doi.org/10.1016/j.cropro.2020.105469
+- Saltwater Intrusion and Flooding: Risks to South Florida’s Agriculture and Potential Management Practices: AE572/AE572, 5/2022 *EDIS* (2022) - 13 citations
+  DOI: https://doi.org/10.32473/edis-ae572-2022
+- Isolating and Characterizing Phosphorus Solubilizing Bacteria From Rhizospheres of Native Plants Grown in Calcareous Soils *Frontiers in Environmental Science* (2021) - 13 citations
+  DOI: https://doi.org/10.3389/fenvs.2021.802563
+- Polysaccharides from Ziziphus jujuba prolong lifespan and attenuate oxidative stress in Caenorhabditis elegans via DAF-16 and SKN-1 *International Journal of Biological Macromolecules* (2024) - 11 citations
+  DOI: https://doi.org/10.1016/j.ijbiomac.2024.137482
+- Exposure to fluopimomide at sublethal doses causes oxidative stress in Caenorhabditis elegans regulated by insulin/insulin‐like growth factor 1‐like signaling pathway *Environmental Toxicology* (2022) - 11 citations
+  DOI: https://doi.org/10.1002/tox.23616
+- Biocontrol of Meloidogyne incognita by Bacillus velezensis TA-1 through induction of host resistance in tomato *Journal of Pest Science* (2024) - 10 citations
+  DOI: https://doi.org/10.1007/s10340-024-01742-9
+- Biocontrol Efficacy of Bacillus methylotrophicus TA-1 Against Meloidogyne incognita in Tomato. *Plant Disease* (2023) - 10 citations
+  DOI: https://doi.org/10.1094/pdis-12-22-2801-re
+
+Research Grants (from Dimensions.ai):
+- Integrated management of Tomato chlorotic spot virus, an emerging tospovirus threatening tomato production in the eastern United States (2015-2018) - $299,900
+  Funder: National Institute of Food and Agriculture
+- Integrated management of major diseases of vegetable and herb crops important in South Florida (2014-2019)
+  Funder: National Institute of Food and Agriculture
+- Biorational Approaches for Managing Vegetable Diseases in South Florida (2009-2013)
+  Funder: National Institute of Food and Agriculture
+
+Patents (from Dimensions.ai):
+- NOVEL COMPOUNDS FOR MANAGEMENT OF BACTERIAL SPOT DISEASE IN TOMATO (2022)
+- NOVEL COMPOUNDS FOR MANAGEMENT OF BACTERIAL SPOT DISEASE IN TOMATO (2022)
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 41 Environmental Sciences; 30 Agricultural, Veterinary and Food Sciences; 3004 Crop and Pasture Production; 3108 Plant Biology
+
+Key Research Concepts (from Dimensions.ai):
+M. incognita; field trials; Caenorhabditis elegans; DAF-16; SKN-1; stress resistance; calcareous soils; toxicity to C. elegans; non-target organisms; thermo Q-Exactive orbitrap mass spectrometer
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Shandong Agricultural University
+- Shandong Institute of Pomology
+- Institute of Food and Agricultural Sciences
+- Korea Research Institute of Bioscience and Biotechnology
+- Shandong Huayang Technology Co., Ltd, 271411, Tai’an, Shandong, China
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.7/10
+Percentile: Top 24% of Water Institute faculty
+Rankings by Research Category:
+- Plant Biology: #5 of 18
+- Crop and Pasture Production: #19 of 41
+- Agricultural, Veterinary and Food Sciences: #31 of 99

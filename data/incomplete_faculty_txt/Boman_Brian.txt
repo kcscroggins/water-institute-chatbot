@@ -1,0 +1,56 @@
+Name: Brian Boman
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: bjbo@ufl.edu
+Website: https://irrec.ifas.ufl.edu/Boman/
+Google Scholar: https://scholar.google.com/citations?user=g26ZEaoAAAAJ&hl=en
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 56
+- Total Citations: 342
+- H-Index: 9
+- Average Citations per Paper: 6.1
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 0.92 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Enhanced interfacial behaviors of benzo(a)pyrene on the petroleum-based degradable plastics endured long-term bio-aging *Surfaces and Interfaces* (2025) - 2 citations
+  DOI: https://doi.org/10.1016/j.surfin.2025.107632
+- 2023–2024 Florida Citrus Production Guide: Fertilizer Application Methods: CPG ch. 16, CG092/CMG14, rev. 5/2023 *EDIS* (2023) - 1 citations
+  DOI: https://doi.org/10.32473/edis-cg092-2023
+- 2021–2022 Florida Citrus Production Guide: Fertilizer Application Methods: CMG14/CG092, rev. 4/2021 *EDIS* (2021) - 1 citations
+  DOI: https://doi.org/10.32473/edis-cg092-2021
+- Fate and attenuation of antibiotic resistance genes in a constructed seawater wetland used for aquaculture tailwater treatment *Frontiers of Environmental Science & Engineering* (2026)
+  DOI: https://doi.org/10.1007/s11783-026-2147-3
+- 2022–2023 Florida Citrus Production Guide: Fertilizer Application Methods: CPG ch. 17, CG092/CMG14, rev. 4/2022 *EDIS* (2022)
+  DOI: https://doi.org/10.32473/edis-cg092-2022
+- Best Management Practices (BMPs): Perimeter Borders *EDIS* (2021)
+  DOI: https://doi.org/10.32473/edis-ae439-2021
+
+Research Categories (from Dimensions.ai):
+46 Information and Computing Sciences; 40 Engineering; 4610 Library and Information Studies; 30 Agricultural, Veterinary and Food Sciences; 4016 Materials Engineering
+
+Key Research Concepts (from Dimensions.ai):
+UF/IFAS; repository; websites; EDI; publications; bio-agents; surface functional groups; adsorption capacity; degradable plastics; environmental behavior
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Yantai Institute of Coastal Zone Research
+- Harbin Engineering University
+- University of Chinese Academy of Sciences

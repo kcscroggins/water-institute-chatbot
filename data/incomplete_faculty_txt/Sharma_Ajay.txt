@@ -1,0 +1,70 @@
+Name: Ajay Sharma
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: ajay.sharma@ufl.edu
+Website: http://theajaysharma.org
+Google Scholar: https://scholar.google.com/citations?user=CVHli6wAAAAJ&hl=en
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 48
+- Total Citations: 483
+- H-Index: 13
+- Average Citations per Paper: 10.1
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.83 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- treetop: A Shiny‐based application and R package for extracting forest information from LiDAR data for ecologists and conservationists *Methods in Ecology and Evolution* (2022) - 37 citations
+  DOI: https://doi.org/10.1111/2041-210x.13830
+- Long-term effects of catastrophic wind on southern US coastal forests: Lessons from a major hurricane *PLOS ONE* (2021) - 24 citations
+  DOI: https://doi.org/10.1371/journal.pone.0243362
+- Competitive interactions with dominant carnivores affect carrion acquisition of striped hyena in a semi-arid landscape of Rajasthan, India *Mammal Research* (2022) - 20 citations
+  DOI: https://doi.org/10.1007/s13364-022-00663-1
+- Vegetation dynamics and soil nutrient availability in a temperate forest along altitudinal gradient of Nanda Devi Biosphere Reserve, Western Himalaya, India *PLOS ONE* (2022) - 16 citations
+  DOI: https://doi.org/10.1371/journal.pone.0275051
+- Projected Shifts in Bird Distribution in India under Climate Change *Diversity* (2023) - 15 citations
+  DOI: https://doi.org/10.3390/d15030404
+- Region-wide characterization of structural diversity of the U.S. Outer Coastal Plain Mixed Forests Province *Forest Ecology and Management* (2021) - 13 citations
+  DOI: https://doi.org/10.1016/j.foreco.2021.118979
+- Ecological Restoration of Degraded Forests for Achieving Land Degradation Neutrality (2022) - 12 citations
+  DOI: https://doi.org/10.1007/978-981-19-5478-8_11
+- Effects of hurricane canopy gaps on longleaf pine and upland oak sapling growth *Forest Ecology and Management* (2023) - 10 citations
+  DOI: https://doi.org/10.1016/j.foreco.2022.120684
+- Can uneven-aged management improve the economic performance of longleaf pine? *Canadian Journal of Forest Research* (2021) - 8 citations
+  DOI: https://doi.org/10.1139/cjfr-2020-0437
+- Flood dynamics and tree resilience: First-year seedlings of five floodplain forest species responding to diverse inundation scenarios *Forest Ecology and Management* (2024) - 7 citations
+  DOI: https://doi.org/10.1016/j.foreco.2024.121724
+
+Research Grants (from Dimensions.ai):
+- Ecology, management, and restoration of southern forests and agroforests (2017-2022)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 30 Agricultural, Veterinary and Food Sciences; 3007 Forestry Sciences; 4102 Ecological Applications; 31 Biological Sciences
+
+Key Research Concepts (from Dimensions.ai):
+longleaf pine; growth response; uneven-aged management; swamp species; individual tree detection; LiDAR data; forest information; forest structure information; extract forest information; forest management
+
+Top Collaborating Institutions (from Dimensions.ai):
+- The Jones Center at Ichauway
+- Auburn University
+- Amity University
+- US Forest Service
+- Southern Research Station

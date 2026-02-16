@@ -1,0 +1,60 @@
+Name: Karl Havens
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: khavens@ufl.edu
+Website: http://sfrc.ifas.ufl.edu/planktonweb/index.htm
+Google Scholar: 
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 66
+- Total Citations: 9891
+- H-Index: 29
+- Average Citations per Paper: 149.9
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.05 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Global data set of long-term summertime vertical temperature profiles in 153 lakes *Scientific Data* (2021) - 17 citations
+  DOI: https://doi.org/10.1038/s41597-021-00983-y
+- Repensando el papel del nitrógeno y fósforo en la eutrofización de los ecosistemas acuáticos: SGEF190s/SG191, 4/2022 *EDIS* (2022) - 4 citations
+  DOI: https://doi.org/10.32473/edis-sg191-2022
+- Climate Change: Effects on Salinity in Florida’s Estuaries and Responses of Oysters, Seagrass, and Other Animal and Plant Life: SGEF-218/SG138, rev. 4/2024 *EDIS* (2024) - 2 citations
+  DOI: https://doi.org/10.32473/edis-sg138-2024
+- Rethinking the Role of Nitrogen and Phosphorus in the Eutrophication of Aquatic Ecosystems: SGEF190/SG118, rev. 1/2022 *EDIS* (2022) - 2 citations
+  DOI: https://doi.org/10.32473/edis-sg118-2022
+- Cambio climático: Efectos sobre la salinidad en los estuarios de Florida y respuestas de las ostras, las praderas marinas y otras formas de vida animal y vegetal: SGEF-218s/SS742, 2/2025 *EDIS* (2025)
+  DOI: https://doi.org/10.32473/edis-ss742-2025
+
+Research Grants (from Dimensions.ai):
+- Limits of Multiple Uses of Freshwater Resources in Tropical and Subtropical Ecosystems (2013-2013)
+  Funder: Council for International Exchange of Scholars
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3705 Geology; 4101 Climate Change Impacts and Adaptation; 41 Environmental Sciences; 30 Agricultural, Veterinary and Food Sciences
+
+Key Research Concepts (from Dimensions.ai):
+vertical temperature profiles; long-term time series; vertical thermal structure; thermal structure; global data sets; Florida estuaries; capacity of estuaries; response of oysters; bird habitat; sea level rise
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Miami University
+- Irkutsk State University
+- Uppsala University
+- Universität Innsbruck
+- Institute of Biophysics

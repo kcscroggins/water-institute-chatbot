@@ -1,0 +1,58 @@
+Name: Kanika Inglett
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: kanika@ufl.edu
+Website: http://soils.ifas.ufl.edu/people/faculty/kanika-sharma-inglett/
+Google Scholar: https://scholar.google.com/citations?user=IpnooasAAAAJ&hl=en
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 34
+- Total Citations: 853
+- H-Index: 19
+- Average Citations per Paper: 25.1
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 1.72 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- The effects of nutrient limitations on microbial respiration and organic matter decomposition in a Florida Spodosol as influenced by historical forest management practices *Forest Ecology and Management* (2021) - 26 citations
+  DOI: https://doi.org/10.1016/j.foreco.2020.118592
+- Periphyton enzymatic activities in the water column along internal low-phosphorus nutrient gradients in the Everglades Stormwater Treatment Areas *Ecological Engineering* (2023) - 6 citations
+  DOI: https://doi.org/10.1016/j.ecoleng.2023.107100
+- Phosphorous remediation using alginate/glomalin biobeads: Examining structural cohesivity, nutrient retention, and reapplication viability *Frontiers in Environmental Science* (2022) - 6 citations
+  DOI: https://doi.org/10.3389/fenvs.2022.889940
+- Municipal Solid Waste Biodegradability and Methane Potential: Influence of Fiber Content and Elemental Composition *Environmental Engineering Science* (2022) - 4 citations
+  DOI: https://doi.org/10.1089/ees.2021.0232
+- The Role of Nutrient and Energy Limitation on Microbial Decomposition of Deep Podzolized Carbon: A Priming Experiment *Journal of Geophysical Research Biogeosciences* (2024) - 1 citations
+  DOI: https://doi.org/10.1029/2024jg008176
+- Phosphorus Dynamics in High-Legacy Soils: Acid Phosphatase Activity, Extraction Techniques and Isotherm in Florida Potato Fields *Agriculture* (2025)
+  DOI: https://doi.org/10.3390/agriculture15192048
+- Differential Response of Surface and Deep Soil C, N, and Microbial Processes to Long-Term Pasture Management in a Sub-Tropical Rangeland *SSRN Electronic Journal* (2022)
+  DOI: https://doi.org/10.2139/ssrn.4129731
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 31 Biological Sciences; 3103 Ecology; 40 Engineering; 4011 Environmental Engineering
+
+Key Research Concepts (from Dimensions.ai):
+microbial respiration rates; organic matter decomposition; forest management practices; microbial respiration; respiration rate; nutrient-limited conditions; N-acquisition enzymes; Stormwater Treatment Areas; N acquisition; P-limited conditions
+
+Top Collaborating Institutions (from Dimensions.ai):
+- affiliation not provided to SSRN
+- South Florida Water Management District
+- Community School, Naples, FL, United States

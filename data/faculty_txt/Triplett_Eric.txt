@@ -29,3 +29,67 @@ Dr. Triplett's work provides the microbial and genomic foundation needed to info
 
 Keywords:
 microbial ecology; microbiome; soil microbiome; rhizosphere; nitrogen fixation; plant-microbe interactions; metagenomics; 16S rRNA; microbial diversity; soil pH; freshwater microbiology; human microbiome; autoimmunity; high-throughput sequencing; agricultural microbiology
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 98
+- Total Citations: 9709
+- H-Index: 41
+- Average Citations per Paper: 99.1
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 7.42 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Infant microbes and metabolites point to childhood neurodevelopmental disorders *Cell* (2024) - 91 citations
+  DOI: https://doi.org/10.1016/j.cell.2024.02.035
+- A Six-Day, Lifestyle-Based Immersion Program Mitigates Cardiovascular Risk Factors and Induces Shifts in Gut Microbiota, Specifically Lachnospiraceae, Ruminococcaceae, Faecalibacterium prausnitzii: A Pilot Study *Nutrients* (2021) - 73 citations
+  DOI: https://doi.org/10.3390/nu13103459
+- Antibiotics and the developing intestinal microbiome, metabolome and inflammatory environment in a randomized trial of preterm infants *Scientific Reports* (2021) - 62 citations
+  DOI: https://doi.org/10.1038/s41598-021-80982-6
+- The oral microbiome, pancreatic cancer and human diversity in the age of precision medicine *Microbiome* (2022) - 54 citations
+  DOI: https://doi.org/10.1186/s40168-022-01262-7
+- Infant gut microbiome composition correlated with type 1 diabetes acquisition in the general population: the ABIS study *Diabetologia* (2023) - 36 citations
+  DOI: https://doi.org/10.1007/s00125-023-05895-7
+- Integrative analyses of TEDDY Omics data reveal lipid metabolism abnormalities, increased intracellular ROS and heightened inflammation prior to autoimmunity for type 1 diabetes *Genome Biology* (2021) - 32 citations
+  DOI: https://doi.org/10.1186/s13059-021-02262-w
+- Enterocyte-specific deletion of metal transporter Zip14 (Slc39a14) alters intestinal homeostasis through epigenetic mechanisms *AJP Gastrointestinal and Liver Physiology* (2022) - 21 citations
+  DOI: https://doi.org/10.1152/ajpgi.00244.2022
+- Nitrogen and phosphorous acquisition strategies drive coexistence patterns among archaeal lineages in soil *The ISME Journal: Multidisciplinary Journal of Microbial Ecology* (2023) - 17 citations
+  DOI: https://doi.org/10.1038/s41396-023-01493-y
+- Telomere length is not a main factor for the development of islet autoimmunity and type 1 diabetes in the TEDDY study *Scientific Reports* (2022) - 15 citations
+  DOI: https://doi.org/10.1038/s41598-022-08058-7
+- Transfer of oral bacteria to the fetus during late gestation *Scientific Reports* (2021) - 13 citations
+  DOI: https://doi.org/10.1038/s41598-020-80653-y
+
+Research Grants (from Dimensions.ai):
+- Extending the Florida Pathways 2 Success Partnership to Increase Engagement, Retention, and Success of Low-income Undergraduate and Graduate Students (2024-2029) - $4,998,484
+  Funder: Directorate for STEM Education
+- Aberrant microbiome in children at high genetic risk for type 1 diabetes suggests probiotic bacteria for disease prevention (2018-2020) - $108,762
+  Funder: Breakthrough T1D
+- Florida Pathways to Success: A Research University/Minority-Serving Community College Partnership to Enhance Retention and Diversity of Transfer Students (2017-2024) - $4,795,499
+  Funder: Directorate for STEM Education
+- Modeling the Fetal Microbiome (2016-2019) - $412,500
+  Funder: National Institute of Allergy and Infectious Diseases
+- Dimensions US-China: Collaborative Research: How historical constraints, local adaptation, and species interactions shape biodiversity across an ancient floristic disjunction (2015-2020) - $1,203,836
+  Funder: Directorate for Biological Sciences
+
+Research Categories (from Dimensions.ai):
+32 Biomedical and Clinical Sciences; 31 Biological Sciences; 3107 Microbiology; 3205 Medical Biochemistry and Metabolomics; 3202 Clinical Sciences
+
+Key Research Concepts (from Dimensions.ai):
+human leukocyte antigen; antibiotic use; preterm infants; gut microbiome; oral microbiome; type 1 diabetes; islet autoimmunity; microbial composition; microbial composition of stool; neurodevelopmental disorders
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of South Florida
+- Skåne University Hospital
+- Lund University
+- Helmholtz Zentrum München
+- Institute of Food and Agricultural Sciences
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 4.4/10
+Percentile: Top 3% of Water Institute faculty
+Rankings by Research Category:
+- Medical Biochemistry and Metabolomics: #1 of 4
+- Clinical Sciences: #1 of 7
+- Microbiology: #1 of 20

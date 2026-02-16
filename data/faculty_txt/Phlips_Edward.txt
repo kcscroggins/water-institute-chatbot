@@ -27,3 +27,59 @@ Dr. Phlips's work provides the scientific basis for diagnosing and managing nutr
 
 Keywords:
 aquatic ecology; limnology; phytoplankton; harmful algal blooms; HABs; cyanobacteria; eutrophication; nutrient dynamics; water quality; freshwater; estuarine; Florida; lakes; rivers; springs; monitoring; chlorophyll; bloom formation
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 66
+- Total Citations: 2161
+- H-Index: 27
+- Average Citations per Paper: 32.7
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 4.87 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Cyclical Patterns and a Regime Shift in the Character of Phytoplankton Blooms in a Restricted Sub-Tropical Lagoon, Indian River Lagoon, Florida, United States *Frontiers in Marine Science* (2021) - 39 citations
+  DOI: https://doi.org/10.3389/fmars.2021.730934
+- Initial estuarine response to inorganic nutrient inputs from a legacy mining facility adjacent to Tampa Bay, Florida *Marine Pollution Bulletin* (2022) - 33 citations
+  DOI: https://doi.org/10.1016/j.marpolbul.2022.113598
+- Modeling temporal and spatial variations of biogeochemical processes in a large subtropical lake: Assessing alternative solutions to algal blooms in Lake Okeechobee, Florida *Journal of Hydrology Regional Studies* (2023) - 24 citations
+  DOI: https://doi.org/10.1016/j.ejrh.2023.101441
+- High-Resolution Spatiotemporal Dynamics of Harmful Algae in the Indian River Lagoon (Florida)—A Case Study of Aureoumbra lagunensis, Pyrodinium bahamense, and Pseudo-nitzschia *Frontiers in Marine Science* (2021) - 16 citations
+  DOI: https://doi.org/10.3389/fmars.2021.769877
+- Effects of Zinc in an Outdoor Freshwater Microcosm System *Environmental Toxicology and Chemistry* (2021) - 8 citations
+  DOI: https://doi.org/10.1002/etc.5050
+- Fate of a toxic Microcystis aeruginosa bloom introduced into a subtropical estuary from a flow-managed canal and management implications *Journal of Environmental Management* (2025) - 5 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2025.124362
+- Influence of regulated water discharges on phytoplankton composition and biomass in a subtropical canal *Journal of Environmental Management* (2024) - 2 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2024.123470
+- Nitrogen and phosphorus uptake kinetics in cultures of two novel picoplankton groups responsible for a recent bloom event in a subtropical estuary (Indian River Lagoon, Florida) *Frontiers in Marine Science* (2024) - 2 citations
+  DOI: https://doi.org/10.3389/fmars.2024.1256901
+- A comparative analysis of data-driven modeling approaches to forecast cyanobacteria algal blooms in eutrophic lake discharge canals *Journal of Environmental Management* (2025) - 1 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2025.124834
+- Coastal sediments record decades of cultural eutrophication in Tampa Bay, Florida, USA *Ecological Indicators* (2025) - 1 citations
+  DOI: https://doi.org/10.1016/j.ecolind.2025.113329
+
+Research Grants (from Dimensions.ai):
+- RAPID: Tracking the impact of engineered system failures on nearshore nutrient loads and harmful algal blooms using multiple stable isotopes (2021-2024) - $181,121
+  Funder: Directorate for Engineering
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 3103 Ecology; 41 Environmental Sciences; 37 Earth Sciences; 4105 Pollution and Contamination
+
+Key Research Concepts (from Dimensions.ai):
+Indian River Lagoon; water control structures; phytoplankton blooms; associated with drought conditions; regime shifts; Atlantic coast; Atlantic coast of central Florida; metric tons; nitrogen loading; mining facilities
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Florida Fish and Wildlife Conservation Commission
+- University of South Florida
+- South Florida Water Management District
+- St. Johns River Water Management District, Palatka, FL, United States
+- Tampa Bay Estuary Program
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.1/10
+Percentile: Top 16% of Water Institute faculty
+Rankings by Research Category:
+- Pollution and Contamination: #5 of 13
+- Ecology: #12 of 59
+- Earth Sciences: #19 of 70

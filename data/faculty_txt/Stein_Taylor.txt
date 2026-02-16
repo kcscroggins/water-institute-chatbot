@@ -28,3 +28,49 @@ Dr. Stein's work supports sustainable landscape planning by integrating visitor 
 
 Keywords:
 ecotourism; nature-based recreation; visitor behavior; sense of place; conservation planning; sustainable tourism; human dimensions; recreation management; public lands; Florida National Scenic Trail; scenic beauty; ecosystem services; extension; forest resources
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 40
+- Total Citations: 924
+- H-Index: 18
+- Average Citations per Paper: 23.1
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 6.95 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- The role of place attachment in recreation experience and outcome preferences among forest bathers *Journal of Outdoor Recreation and Tourism* (2021) - 46 citations
+  DOI: https://doi.org/10.1016/j.jort.2021.100410
+- Equity, identity, and representation in outdoor recreation: ‘I am not an outdoors person’ *Leisure Studies* (2023) - 18 citations
+  DOI: https://doi.org/10.1080/02614367.2023.2232558
+- Recreation Area Characteristics and Their Impact on Property Values within Florida’s Wekiva River System *Society & Natural Resources* (2023) - 4 citations
+  DOI: https://doi.org/10.1080/08941920.2023.2254730
+- Predicting physical distancing on recreational trails during COVID-19 *Journal of Outdoor Recreation and Tourism* (2021) - 4 citations
+  DOI: https://doi.org/10.1016/j.jort.2021.100482
+- If you build it, will they come? Assessing the response of tiger populations to elevated conservation efforts in lowland Nepal *Global Ecology and Conservation* (2025) - 2 citations
+  DOI: https://doi.org/10.1016/j.gecco.2025.e03632
+- Thinking big: The role of mega trails in creating meaning and sense of place to conserve large landscapes *Journal of Outdoor Recreation and Tourism* (2024) - 2 citations
+  DOI: https://doi.org/10.1016/j.jort.2024.100812
+- Thinking big: the role of mega trails in creating meaning and sense of place for large landscapes *Research Square* (2023)
+  DOI: https://doi.org/10.21203/rs.3.rs-2558358/v1
+
+Research Categories (from Dimensions.ai):
+35 Commerce, Management, Tourism and Services; 3508 Tourism; 41 Environmental Sciences; 3504 Commercial Services; 3801 Applied Economics
+
+Key Research Concepts (from Dimensions.ai):
+National Scenic Trail; nature conservation; spatial scales; well-being outcomes; well-being benefits; outcomes-focused; mindful walking; South Korea; leisure identity; context of outdoor recreation
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Minnesota Twin Cities
+- Department of National Parks Wildlife Conservation, Babar Mahal, Kathmandu 44600, Nepal
+- National Trust for Nature Conservation
+- Instituto Chico Mendes de Conservação da Biodiversidade
+- University of Wisconsin–La Crosse
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.5/10
+Percentile: Top 29% of Water Institute faculty
+Rankings by Research Category:
+- Applied Economics: #1 of 12
+- Commercial Services: #1 of 2
+- Commerce, Management, Tourism and Services: #2 of 13

@@ -31,3 +31,58 @@ Water & Policy Relevance:
 
 Keywords:
 Environmental microbiology; aquatic microbiology; microbial ecology; biogeochemical cycling; carbon cycling; nutrient cycling; anaerobic systems; hypoxia; sediments; eutrophication; microbial metabolism; freshwater; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 28
+- Total Citations: 780
+- H-Index: 14
+- Average Citations per Paper: 27.9
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 5.58 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Roles of Eicosanoids in Regulating Inflammation and Neutrophil Migration as an Innate Host Response to Bacterial Infections *Infection and Immunity* (2021) - 103 citations
+  DOI: https://doi.org/10.1128/iai.00095-21
+- Antigen-encapsulating host extracellular vesicles derived from Salmonella-infected cells stimulate pathogen-specific Th1-type responses in vivo *PLOS Pathogens* (2021) - 50 citations
+  DOI: https://doi.org/10.1371/journal.ppat.1009465
+- Interaction with mammalian enteric viruses alters outer membrane vesicle production and content by commensal bacteria *Journal of Extracellular Vesicles* (2022) - 36 citations
+  DOI: https://doi.org/10.1002/jev2.12172
+- Extracellular vesicles elicit protective immune responses against Salmonella infection *Journal of Extracellular Vesicles* (2022) - 13 citations
+  DOI: https://doi.org/10.1002/jev2.12267
+- Yersinia pseudotuberculosis YopJ Limits Macrophage Response by Downregulating COX-2-Mediated Biosynthesis of PGE2 in a MAPK/ERK-Dependent Manner *Microbiology Spectrum* (2021) - 8 citations
+  DOI: https://doi.org/10.1128/spectrum.00496-21
+- Identification of active deubiquitinases in the chicken tissues *Proteomics* (2021) - 1 citations
+  DOI: https://doi.org/10.1002/pmic.202100122
+- 417 A CTS Team Approach to Developing an Effective Vaccine for Non-Typhoidal Salmonella *Journal of Clinical and Translational Science* (2023)
+  DOI: https://doi.org/10.1017/cts.2023.450
+- GALC-containing EVs as a tool to deliver ERT agents and treat neuronopathic processes in Krabbe disease *Molecular Genetics and Metabolism* (2022)
+  DOI: https://doi.org/10.1016/j.ymgme.2021.11.091
+- CNS-targeting exosomes: A strategy to treat neurological lysosomal disorders *Molecular Genetics and Metabolism* (2021)
+  DOI: https://doi.org/10.1016/j.ymgme.2020.12.227
+
+Research Grants (from Dimensions.ai):
+- Assessing the Impact of Agr Quorum Sensing on Staphylococcus aureus Physiology in the Space Flight Environment (2021-2026)
+  Funder: National Aeronautics and Space Administration
+- Host Enzymes as Targets of Novel Host-Directed Antimicrobial Therapies (2020-2024) - $304,909
+  Funder: Congressionally Directed Medical Research Programs
+- Quorum Sensing and S. aureus Virulence Potential During Simulated Microgravity Growth (2018-2021)
+  Funder: National Aeronautics and Space Administration
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 32 Biomedical and Clinical Sciences; 3107 Microbiology; 3101 Biochemistry and Cell Biology; 3207 Medical Microbiology
+
+Key Research Concepts (from Dimensions.ai):
+small extracellular vesicles; pore-induced intracellular traps; bacterial pathogens; substrate availability; host-pathogen interactions; response to bacterial infection; host extracellular vesicles; extracellular vesicles; Salmonella-infected cells; Salmonella-infected macrophages
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Institute of Food and Agricultural Sciences
+- Mississippi State University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.2/10
+Percentile: Top 40% of Water Institute faculty
+Rankings by Research Category:
+- Biochemistry and Cell Biology: #1 of 5
+- Medical Microbiology: #2 of 4
+- Microbiology: #11 of 20

@@ -30,3 +30,55 @@ Zotarelli's research underpins irrigation and nutrient management guidelines tha
 
 Keywords:
 irrigation management; nitrogen management; water use efficiency; nutrient use efficiency; soil moisture; sandy soils; vegetable production; nitrate leaching; drip irrigation; evapotranspiration; BMPs; Florida agriculture; horticulture; decision support
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 192
+- Total Citations: 2674
+- H-Index: 28
+- Average Citations per Paper: 13.9
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 9.23 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Step by Step Calculation of the Penman-Monteith Evapotranspiration (FAO-56 Method): AE459, 2/2010 *EDIS* (2024) - 112 citations
+  DOI: https://doi.org/10.32473/edis-ae459-2010
+- Biochar improves soil physical characteristics and strengthens root architecture in Muscadine grape (Vitis rotundifolia L.) *Chemical and Biological Technologies in Agriculture* (2021) - 95 citations
+  DOI: https://doi.org/10.1186/s40538-020-00204-5
+- Nitrogen fertilizer rate and timing of application for potato under different irrigation methods *Agricultural Water Management* (2023) - 24 citations
+  DOI: https://doi.org/10.1016/j.agwat.2023.108312
+- Assessing the impact of irrigation and nitrogen management on potato performance under varying climate in the state of Florida, USA *Agricultural Water Management* (2024) - 12 citations
+  DOI: https://doi.org/10.1016/j.agwat.2024.108769
+- Soybean maturity groups and sowing dates to minimize ENSO and extreme weather events effects on yield variability in the Southeastern US *Agricultural and Forest Meteorology* (2022) - 12 citations
+  DOI: https://doi.org/10.1016/j.agrformet.2022.109104
+- Nitrogen Fertilization Guidelines for Potato Production in Florida: HS1429, 12/2021 *EDIS* (2021) - 10 citations
+  DOI: https://doi.org/10.32473/edis-hs1429-2021
+- Impact of Early Potato Desiccation Method on Crop Growth, Skinning Injury, and Storage Quality Maintenance *American Journal of Potato Research* (2021) - 10 citations
+  DOI: https://doi.org/10.1007/s12230-021-09836-1
+- A review of potassium significance and management approaches in potato production under sandy soils *Journal of Sustainable Agriculture and Environment* (2024) - 8 citations
+  DOI: https://doi.org/10.1002/sae2.12106
+- Estimating soil mineral nitrogen from data-sparse field experiments using crop model-guided deep learning approach *Computers and Electronics in Agriculture* (2024) - 7 citations
+  DOI: https://doi.org/10.1016/j.compag.2024.109355
+- Managing water table depth thresholds for potato subirrigation *Agricultural Water Management* (2022) - 7 citations
+  DOI: https://doi.org/10.1016/j.agwat.2021.107236
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3004 Crop and Pasture Production; 3002 Agriculture, Land and Farm Management; 37 Earth Sciences; 40 Engineering
+
+Key Research Concepts (from Dimensions.ai):
+tuber yield; sandy soil; potato tuber yield; plug transplants; Florida sandy soils; FAO-56; Penman–Monteith evapotranspiration; FAO-56 method; Penman-Monteith; reference evapotranspiration
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Institute of Food and Agricultural Sciences
+- National Institute of Amazonian Research
+- Auburn University
+- Technical University of Munich
+- Khulna University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.3/10
+Percentile: Top 12% of Water Institute faculty
+Rankings by Research Category:
+- Agriculture, Land and Farm Management: #5 of 24
+- Crop and Pasture Production: #8 of 41
+- Engineering: #9 of 53

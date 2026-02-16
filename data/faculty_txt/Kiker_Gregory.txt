@@ -21,3 +21,67 @@ Current Role:
 
 Keywords:
 Ecological modeling; water systems management; environmental risk and decision analysis; adaptive management; ACF Basin; stakeholder engagement; decision support systems.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 58
+- Total Citations: 921
+- H-Index: 16
+- Average Citations per Paper: 15.9
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 4.33 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- A systematic review of economic assessments for brucellosis control interventions in livestock populations *Preventive Veterinary Medicine* (2023) - 29 citations
+  DOI: https://doi.org/10.1016/j.prevetmed.2023.105878
+- Woody encroachment happens via intensification, not extensification, of species ranges in an African savanna *Ecological Applications* (2021) - 15 citations
+  DOI: https://doi.org/10.1002/eap.2437
+- Household food waste behaviors of participants in a municipal community compost program *Journal of Agriculture Food Systems and Community Development* (2025) - 9 citations
+  DOI: https://doi.org/10.5304/jafscd.2025.142.002
+- Development of climate-smart sorghum ideotype for climate resilience in Ethiopia *Field Crops Research* (2023) - 9 citations
+  DOI: https://doi.org/10.1016/j.fcr.2023.109135
+- Intra-group decision-making in agent-based models *Scientific Reports* (2021) - 9 citations
+  DOI: https://doi.org/10.1038/s41598-021-96661-5
+- Threat-agnostic resilience: Framing and applications *International Journal of Disaster Risk Reduction* (2025) - 7 citations
+  DOI: https://doi.org/10.1016/j.ijdrr.2025.105535
+- Optimising sustainable renewable energy portfolios using a multi-tolerance fuzzy goal programming approach *International Journal of Green Energy* (2022) - 7 citations
+  DOI: https://doi.org/10.1080/15435075.2022.2080502
+- International airports as agents of resilience *Journal of Contingencies and Crisis Management* (2022) - 7 citations
+  DOI: https://doi.org/10.1111/1468-5973.12401
+- Simulated economic and nutritional impacts of irrigated fodder and crossbred cows on farm households in southern Ethiopia *World Development Perspectives* (2023) - 3 citations
+  DOI: https://doi.org/10.1016/j.wdp.2023.100517
+- An empirical nonlinear dynamics approach to analyzing emergent behavior of agent-based models *AIP Advances* (2021) - 3 citations
+  DOI: https://doi.org/10.1063/5.0023116
+
+Research Grants (from Dimensions.ai):
+- Collaborative Research Network for Enhancing Airport Resilience Science and Operation (2025-2027) - $357,481
+  Funder: Directorate for Engineering
+- EAGER: IMPRESS-U Adaptive Infrastructure Recovery from Repeated Shocks through Resilience Stress Testing in Ukraine (2024-2026) - $298,348
+  Funder: Office of the Director
+- EAGER International Type II: Inclusiveness and Diversity as Building Blocks of Resilient International Research Teams in the Age of COVID-19 (2021-2024) - $297,955
+  Funder: Office of the Director
+- Establishing a Community of Practice for Modeling Elephant and Vegetation Dynamics for Adaptive Management in Complex Ecosystems (2012-2013)
+  Funder: Council for International Exchange of Scholars
+- CNH: Global Sensitivity and Uncertainty Analysis in the Evaluation of Social-Ecological Resilience: Theoretical Debates Over Infrastructure Impacts on Livelihoods and Forest Change (2011-2016) - $1,435,000
+  Funder: Directorate for Biological Sciences
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 44 Human Society; 30 Agricultural, Veterinary and Food Sciences; 31 Biological Sciences; 4104 Environmental Management
+
+Key Research Concepts (from Dimensions.ai):
+systematic review; control interventions; baseline prevalence; intervention scenarios; Preferred Reporting Items; woody encroachment; species-level changes; Kruger National Park; fire frequency; elephant densities
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Institute of Food and Agricultural Sciences
+- WildCAT Botswana Trust, Maun, Botswana
+- Yale University
+- Engineer Research and Development Center
+- National Academy of Sciences of Ukraine
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.4/10
+Percentile: Top 33% of Water Institute faculty
+Rankings by Research Category:
+- Human Society: #4 of 27
+- Environmental Management: #16 of 46
+- Agricultural, Veterinary and Food Sciences: #41 of 99

@@ -28,3 +28,41 @@ Dr. Rolando's work informs sustainable environmental and agricultural strategies
 
 Keywords:
 microbial ecology; biogeochemistry; plant-microbe interactions; soil microbiome; nutrient cycling; carbon cycling; nitrogen cycling; sulfur cycling; environmental microbiology; coastal ecosystems; terrestrial ecosystems; soil health; ecosystem resilience; environmental change
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 9
+- Total Citations: 285
+- H-Index: 6
+- Average Citations per Paper: 31.7
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 6.32 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Organic carbon is mostly stored in deep soil and only affected by land use in its superficial layers: A case study *Agrosystems Geosciences & Environment* (2021) - 24 citations
+  DOI: https://doi.org/10.1002/agg2.20135
+- Viral community diversity in the rhizosphere of the foundation salt marsh plant Spartina alterniflora *mSphere* (2025) - 1 citations
+  DOI: https://doi.org/10.1128/msphere.00234-25
+- Viral community diversity in the rhizosphere of the foundation salt marsh plant Spartina alterniflora *bioRxiv* (2025)
+  DOI: https://doi.org/10.1101/2025.04.03.647062
+
+Research Categories (from Dimensions.ai):
+3107 Microbiology; 31 Biological Sciences; 3103 Ecology; 30 Agricultural, Veterinary and Food Sciences; 41 Environmental Sciences
+
+Key Research Concepts (from Dimensions.ai):
+community composition; nutrient cycling; viral modulation; soil organic carbon; SOC concentration; land use; soil layer; organic C; Spartina alterniflora</i> ; root-associated microbial communities
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Georgia Institute of Technology
+- University of Maryland, College Park
+- Federal Rural University of Pernambuco
+- Universidade Federal de Viçosa
+- Georgetown University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.6/10
+Percentile: Top 67% of Water Institute faculty
+Rankings by Research Category:
+- Microbiology: #17 of 20
+- Ecology: #49 of 59
+- Agricultural, Veterinary and Food Sciences: #70 of 99

@@ -23,3 +23,61 @@ Notable Publications:
 
 Keywords:
 Food safety; food microbiology; pathogen surveillance; transcriptomics; machine learning; nanotechnology; biofilms; RNA sequencing; AI sensors.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 30
+- Total Citations: 269
+- H-Index: 11
+- Average Citations per Paper: 9.0
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.74 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- X-ray irradiation - nonthermal processing and preservation of fresh winter jujube (Zizyphus jujuba mill. cv. Dalidongzao) *Innovative Food Science & Emerging Technologies* (2022) - 28 citations
+  DOI: https://doi.org/10.1016/j.ifset.2022.103151
+- Long-term quality retention and decay inhibition of chestnut using thymol loaded chitosan nanoparticle *Food Chemistry* (2021) - 25 citations
+  DOI: https://doi.org/10.1016/j.foodchem.2021.131781
+- Surveillance of pathogenic bacteria on a food matrix using machine-learning-enabled paper chromogenic arrays *Biosensors and Bioelectronics* (2024) - 22 citations
+  DOI: https://doi.org/10.1016/j.bios.2024.115999
+- Effect of Protein Adsorption on Air Plastron Behavior of a Superhydrophobic Surface *ACS Applied Materials & Interfaces* (2021) - 22 citations
+  DOI: https://doi.org/10.1021/acsami.1c15981
+- Nondestructive and multiplex differentiation of pathogenic microorganisms from spoilage microflora on seafood using paper chromogenic array and neural network *Food Research International* (2022) - 19 citations
+  DOI: https://doi.org/10.1016/j.foodres.2022.112052
+- Novel applications of exogenous melatonin on cold stress mitigation in postharvest cucumbers *Journal of Agriculture and Food Research* (2022) - 17 citations
+  DOI: https://doi.org/10.1016/j.jafr.2022.100459
+- Enhancing pathogen identification in cheese with high background microflora using an artificial neural network-enabled paper chromogenic array sensor approach *Sensors and Actuators B Chemical* (2024) - 15 citations
+  DOI: https://doi.org/10.1016/j.snb.2024.135675
+- Uncovering Interactions between Plant Metabolism and Plant-Associated Bacteria in Huanglongbing-Affected Citrus Cultivars Using Multiomics Analysis and Machine Learning *Journal of Agricultural and Food Chemistry* (2023) - 15 citations
+  DOI: https://doi.org/10.1021/acs.jafc.3c04460
+- Differential microbiota shift on whole romaine lettuce subjected to source or forward processing and on fresh-cut products during cold storage *International Journal of Food Microbiology* (2024) - 13 citations
+  DOI: https://doi.org/10.1016/j.ijfoodmicro.2024.110665
+- Nanopore Whole Transcriptome Analysis and Pathogen Surveillance by a Novel Solid‐Phase Catalysis Approach *Advanced Science* (2021) - 12 citations
+  DOI: https://doi.org/10.1002/advs.202103373
+
+Research Grants (from Dimensions.ai):
+- Machine Learning Enabled Detection of Spoilage and Foodborne Pathogens Using Paper Chromogenic Arrays of Dye-Impregnated Porous Nanosilica (2023-2026) - $420,604
+  Funder: National Institute of Food and Agriculture
+- Integrative Multi-Omics to Elucidate Mechanisms and Implications of Microbiome Evolution to Agi-Food Nanomaterials in Food System (2023-2026) - $608,676
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3006 Food Sciences; 40 Engineering; 34 Chemical Sciences; 31 Biological Sciences
+
+Key Research Concepts (from Dimensions.ai):
+food safety; machine learning; volatile compounds; winter jujube; preservation effect; nonthermal processes; activity of polygalacturonase; aerobic bacterial growth; starch content; amylase activity
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Massachusetts Lowell
+- Beltsville Agricultural Research Center
+- North West Agriculture and Forestry University
+- University of Connecticut
+- University of Massachusetts Amherst
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.9/10
+Percentile: Top 54% of Water Institute faculty
+Rankings by Research Category:
+- Food Sciences: #1 of 3
+- Chemical Sciences: #6 of 10
+- Engineering: #32 of 53

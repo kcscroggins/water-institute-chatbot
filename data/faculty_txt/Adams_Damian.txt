@@ -32,3 +32,59 @@ Research Metrics:
 
 Keywords:
 Natural resource economics; non-market valuation; ecosystem services; forest policy; forest economics; invasive species; carbon sequestration; water resources; bioeconomic modeling; preference-based valuation; environmental decision making; conservation policy.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 65
+- Total Citations: 1259
+- H-Index: 21
+- Average Citations per Paper: 19.4
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 1.96 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Preinvasion Assessment of Exotic Bark Beetle-Vectored Fungi to Detect Tree-Killing Pathogens. *Phytopathology* (2022) - 17 citations
+  DOI: https://doi.org/10.1094/phyto-01-21-0041-r
+- Economic and Ethical Motivations for Forest Restoration and Incentive Payments *Society & Natural Resources* (2021) - 15 citations
+  DOI: https://doi.org/10.1080/08941920.2021.1938320
+- Public Preferences for Longleaf Pine Restoration Programs in the Southeastern United States *Forest Science* (2021) - 10 citations
+  DOI: https://doi.org/10.1093/forsci/fxab008
+- Integrating policy to achieve a harmonized sustainability model: A multidisciplinary synthesis and conceptual framework *Journal of Environmental Management* (2022) - 9 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2022.115314
+- Can uneven-aged management improve the economic performance of longleaf pine? *Canadian Journal of Forest Research* (2021) - 8 citations
+  DOI: https://doi.org/10.1139/cjfr-2020-0437
+- Value of a Flexible Forest Harvest Decision with Short Period Forest Carbon Offsets: Application of a Binomial Option Model *Forests* (2022) - 5 citations
+  DOI: https://doi.org/10.3390/f13111785
+- Economic analysis of uneven-aged forest management in the southeastern United States *Canadian Journal of Forest Research* (2022) - 5 citations
+  DOI: https://doi.org/10.1139/cjfr-2022-0109
+- Recreation Area Characteristics and Their Impact on Property Values within Florida’s Wekiva River System *Society & Natural Resources* (2023) - 4 citations
+  DOI: https://doi.org/10.1080/08941920.2023.2254730
+- Can Payments for Watershed Services Help Advance Restoration of Longleaf Pine? A Critically Engaged Research Approach *Forests* (2021) - 4 citations
+  DOI: https://doi.org/10.3390/f12030279
+- Building bipartisan support for pro-environmental water policy in a competitive communication environment: The effect of competing moral frames and political communicators *Journal of Hydrology* (2023) - 3 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2023.130379
+
+Research Grants (from Dimensions.ai):
+- INTEGRATING RESEARCH, EDUCATION, AND EXTENSION FOR ENHANCING SOUTHERN PINE CLIMATE CHANGE MITIGATION AND ADAPTATION (2013-2014) - $16,000,000
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3007 Forestry Sciences; 41 Environmental Sciences; 4104 Environmental Management; 38 Economics
+
+Key Research Concepts (from Dimensions.ai):
+ecosystem services; longleaf pine; uneven-aged management; empirical risk assessment; establishment of species; pests of trees; North American trees; prevention of introduction; deliberative monetary valuation; forest owners
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Montclair State University
+- Oregon State University
+- William & Mary
+- Agricultural Research Organization
+- The Pennsylvania State University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.4/10
+Percentile: Top 11% of Water Institute faculty
+Rankings by Research Category:
+- Forestry Sciences: #1 of 8
+- Economics: #1 of 24
+- Environmental Management: #4 of 46

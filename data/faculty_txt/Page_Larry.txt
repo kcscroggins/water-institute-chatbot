@@ -28,3 +28,51 @@ Dr. Page's work provides authoritative biodiversity baselines that inform conser
 
 Keywords:
 ichthyology; freshwater fish; systematics; taxonomy; biogeography; biodiversity; conservation; natural history; museum collections; North America; southeastern United States; rivers; streams; species identification; evolutionary biology; field guides
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 19
+- Total Citations: 368
+- H-Index: 7
+- Average Citations per Paper: 19.4
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.92 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Taxonomic revision of a radiation of South-east Asian freshwater mussels (Unionidae : Gonideinae : Contradentini+Rectidentini) *Invertebrate Systematics* (2021) - 44 citations
+  DOI: https://doi.org/10.1071/is20044
+- Generic Revision of the Southeast and East Asian Torrent Carp Subfamily Acrossocheilinae (Pisces: Teleostei) With Description of Three New Genera and a New Species From Vietnam *Journal of Zoological Systematics & Evolutionary Research* (2025) - 2 citations
+  DOI: https://doi.org/10.1155/jzs/8895501
+- Taxonomic revision of the Southeast Asian brook barb genus Poropuntius Smith, 1931 (Teleostei, Cyprinidae) with description of a new species from Vietnam *ZooKeys* (2024) - 2 citations
+  DOI: https://doi.org/10.3897/zookeys.1204.120873
+- <strong>Species of <em>Garra</em> (Cyprinidae: Labeoninae) in the Salween River basin with description of an enigmatic new species from the Ataran River drainage of Thailand and Myanmar</strong> *Zootaxa* (2023) - 2 citations
+  DOI: https://doi.org/10.11646/zootaxa.5311.3.3
+- The complete mitochondrial genome of the Jaguar Loach (Yasuhikotakia splendida) *Mitochondrial DNA Part B* (2021) - 1 citations
+  DOI: https://doi.org/10.1080/23802359.2021.1924090
+
+Research Grants (from Dimensions.ai):
+- Research Infrastructure: Moving and Improving the Florida Museum of Natural History Fish Collection (2022-2026) - $695,316
+  Funder: Directorate for Biological Sciences
+- Digitization: iDigBio: Integrated Digitized Biocollections Phase 2 (2016-2023) - $16,454,662
+  Funder: Directorate for Biological Sciences
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 3104 Evolutionary Biology; 3103 Ecology; 3105 Genetics
+
+Key Research Concepts (from Dimensions.ai):
+species-level diversity; taxonomic revision; taxonomic changes; phylogenomic reconstruction; diverse clade; geographical distribution; molecular data; resurrected genera; new species; nominal species
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Florida Museum of Natural History
+- Ho Chi Minh City University of Science
+- Vietnam National University, Ho Chi Minh City
+- National Museum of Natural History
+- University of Wisconsin–Stevens Point
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.6/10
+Percentile: Top 27% of Water Institute faculty
+Rankings by Research Category:
+- Evolutionary Biology: #2 of 3
+- Genetics: #4 of 8
+- Ecology: #20 of 59

@@ -39,3 +39,67 @@ Climate & Policy Relevance:
 
 Keywords:
 Forest ecology; remote sensing; LiDAR; UAV; deep learning; tree crowns; carbon dynamics; climate change; disturbance ecology; drought; hurricanes; fire; tropical forests; forest structure; biomass; phenology; carbon accounting; climate adaptation; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 81
+- Total Citations: 4640
+- H-Index: 30
+- Average Citations per Paper: 57.3
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 7.61 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- ForestGEO: Understanding forest diversity and dynamics through a global observatory network *Biological Conservation* (2021) - 221 citations
+  DOI: https://doi.org/10.1016/j.biocon.2020.108907
+- A remote sensing derived data set of 100 million individual tree crowns for the National Ecological Observatory Network *eLife* (2021) - 70 citations
+  DOI: https://doi.org/10.7554/elife.62922
+- Individual tree detection using UAV-lidar and UAV-SfM data: A tutorial for beginners *Open Geosciences* (2021) - 63 citations
+  DOI: https://doi.org/10.1515/geo-2020-0290
+- Continental-scale hyperspectral tree species classification in the United States National Ecological Observatory Network *Remote Sensing of Environment* (2022) - 54 citations
+  DOI: https://doi.org/10.1016/j.rse.2022.113264
+- A benchmark dataset for canopy crown detection and delineation in co-registered airborne RGB, LiDAR and hyperspectral imagery from the National Ecological Observation Network *PLOS Computational Biology* (2021) - 45 citations
+  DOI: https://doi.org/10.1371/journal.pcbi.1009180
+- Cumulative Impacts of Land Cover Change and Dams on the Land–Water Interface of the Tocantins River *Frontiers in Environmental Science* (2021) - 43 citations
+  DOI: https://doi.org/10.3389/fenvs.2021.662904
+- Canopy tree density and species influence tree regeneration patterns and woody species diversity in a longleaf pine forest *Forest Ecology and Management* (2021) - 43 citations
+  DOI: https://doi.org/10.1016/j.foreco.2021.119082
+- Changes in floodplain hydrology following serial damming of the Tocantins River in the eastern Amazon *The Science of The Total Environment* (2021) - 31 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2021.149494
+- Cost-effective and accurate monitoring of flowering across multiple tropical tree species over two years with a time series of high-resolution drone imagery and deep learning *ISPRS Journal of Photogrammetry and Remote Sensing* (2023) - 26 citations
+  DOI: https://doi.org/10.1016/j.isprsjprs.2023.05.022
+- Grassland intensification effects cascade to alter multifunctionality of wetlands within metaecosystems *Nature Communications* (2023) - 24 citations
+  DOI: https://doi.org/10.1038/s41467-023-44104-2
+
+Research Grants (from Dimensions.ai):
+- MRA: Disentangling cross-scale influences on tree species, traits, and diversity from individual trees to continental scales (2019-2024) - $1,313,135
+  Funder: Directorate for Biological Sciences
+- EFFECTS OF DAMS ON RIPARIAN VEGETATION IN THE AMAZON: CUMULATIVE IMPACTS AND LINKAGES TO HYDROLOGY (2019-2022)
+  Funder: National Aeronautics and Space Administration
+- CNH-RCN: Amazon Dams Network: Advancing Integrative Research and Adaptive Management of Social-ecological Systems Transformed by Hydroelectric Dams (2016-2022) - $499,687
+  Funder: Directorate for Biological Sciences
+- QUANTIFYING THE SPATIAL AND TEMPORAL FREQUENCY OF BLOWDOWNS DISTURBANCES IN THE NORTHWESTERN AMAZON REGION IS CRITICAL FOR IMPROVING ESTIMATES OF GLOBAL TERRESTRIAL CARBON BALANCE BECAUSE OF THE DISPROPORTIONATELY LARGE CONTRIBUTION THESE DENSE TROPICAL F (2013-2014) - $30,000
+  Funder: National Aeronautics and Space Administration
+- Temperature responses of leaf dark respiration and their implications for tropical forest carbon balance (2011-2016) - $444,698
+  Funder: Directorate for Biological Sciences
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 31 Biological Sciences; 3103 Ecology; 40 Engineering; 37 Earth Sciences
+
+Key Research Concepts (from Dimensions.ai):
+individual trees; National Ecological Observatory Network; forest ecosystems; closed-canopy forests; Tocantins River; domain knowledge; forest dynamics plot; forest plot networks; forest diversity; species demography
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Smithsonian Tropical Research Institute
+- University of Hong Kong
+- University of Wisconsin-Madison
+- University of Colorado Boulder
+- National Zoological Park
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.7/10
+Percentile: Top 9% of Water Institute faculty
+Rankings by Research Category:
+- Engineering: #5 of 53
+- Ecology: #8 of 59
+- Earth Sciences: #10 of 70

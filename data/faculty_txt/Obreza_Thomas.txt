@@ -29,3 +29,48 @@ Dr. Obreza provides foundational guidance on soil fertility management, nutrient
 
 Keywords:
 soil fertility; nutrient management; soil pH; liming; citrus nutrition; fertilization; soil testing; extension; best management practices; BMPs; Florida agriculture; soil chemistry; nutrient availability; water quality; agricultural soils
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 67
+- Total Citations: 950
+- H-Index: 16
+- Average Citations per Paper: 14.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 1.31 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- 2023–2024 Florida Citrus Production Guide: Irrigation Management of Citrus Trees: CPG ch. 14, CG093/CPG12, rev. 5/2023 *EDIS* (2023) - 4 citations
+  DOI: https://doi.org/10.32473/edis-cg093-2023
+- 2021–2022 Florida Citrus Production Guide: Nutrition Management for Citrus Trees: CMG13/CG091, rev. 4/2021 *EDIS* (2021) - 2 citations
+  DOI: https://doi.org/10.32473/edis-cg091-2021
+- Comparison of methods to determine optimum nitrogen rates for irrigated corn using economic and yield‐goal‐based approaches in North Florida *Agronomy Journal* (2025) - 1 citations
+  DOI: https://doi.org/10.1002/agj2.70130
+- When to Lime Soil and Liming Products Available in Florida : SL519/SS732, 11/2024 *EDIS* (2024) - 1 citations
+  DOI: https://doi.org/10.32473/edis-ss732-2024
+- 2023–2024 Florida Citrus Production Guide: Fertilizer Application Methods: CPG ch. 16, CG092/CMG14, rev. 5/2023 *EDIS* (2023) - 1 citations
+  DOI: https://doi.org/10.32473/edis-cg092-2023
+- 2023–2024 Florida Citrus Production Guide: Nutrition Management for Citrus Trees: CPG ch. 15, CG091/CMG13, rev. 5/2023 *EDIS* (2023) - 1 citations
+  DOI: https://doi.org/10.32473/edis-cg091-2023
+- 2022–2023 Florida Citrus Production Guide: Irrigation Management of Citrus Trees: CPG ch. 15, CG093/CPG12, rev. 4/2022 *EDIS* (2022) - 1 citations
+  DOI: https://doi.org/10.32473/edis-cg093-2022
+- 2022–2023 Florida Citrus Production Guide: Nutrition Management of Citrus Trees: CPG ch. 16, CG091/CMG13, rev. 4/2022 *EDIS* (2022) - 1 citations
+  DOI: https://doi.org/10.32473/edis-cg091-2022
+- 2021–2022 Florida Citrus Production Guide: Irrigation Management of Citrus Trees: CPG12/CG093, rev. 4/2021 *EDIS* (2021) - 1 citations
+  DOI: https://doi.org/10.32473/edis-cg093-2021
+- 2021–2022 Florida Citrus Production Guide: Fertilizer Application Methods: CMG14/CG092, rev. 4/2021 *EDIS* (2021) - 1 citations
+  DOI: https://doi.org/10.32473/edis-cg092-2021
+
+Research Categories (from Dimensions.ai):
+46 Information and Computing Sciences; 4610 Library and Information Studies; 41 Environmental Sciences; 30 Agricultural, Veterinary and Food Sciences; 35 Commerce, Management, Tourism and Services
+
+Key Research Concepts (from Dimensions.ai):
+Florida; citrus trees; EDI; production guide; irrigation management; irrigation; nutritional management; repository; websites; UF/IFAS
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.1/10
+Percentile: Top 46% of Water Institute faculty
+Rankings by Research Category:
+- Library and Information Studies: #2 of 2
+- Commerce, Management, Tourism and Services: #6 of 13
+- Information and Computing Sciences: #13 of 20

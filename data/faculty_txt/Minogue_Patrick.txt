@@ -28,3 +28,45 @@ Dr. Minogue produces applied evidence on how forest management practices influen
 
 Keywords:
 silviculture; forest management; forest vegetation control; invasive plants; reforestation; BMPs; best management practices; forest fertilization; nutrient leaching; nitrogen; pine straw; herbicides; water quality; Suwannee Valley; pine ecosystems; sustainable forestry; Extension
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 29
+- Total Citations: 129
+- H-Index: 5
+- Average Citations per Paper: 4.4
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 0.46 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Eucalyptus Amplifolia and Corymbia Torelliana in the Southeastern USA: Genetic Improvement and Potential Uses *Forests* (2022) - 3 citations
+  DOI: https://doi.org/10.3390/f13010075
+- Utilization of Urea or Polymer-Coated Urea in Florida Slash Pinestraw Production *Forest Science* (2021) - 2 citations
+  DOI: https://doi.org/10.1093/forsci/fxab034
+- Initial plant community responses to hardwood control treatments in restoration of remnant longleaf pine (Pinus palustris) woodlands *Forest Ecology and Management* (2021) - 2 citations
+  DOI: https://doi.org/10.1016/j.foreco.2021.119197
+- Herbicide control of swamp titi (Cyrilla racemiflora) in restoration of ephemeral wetlands *Restoration Ecology* (2023) - 1 citations
+  DOI: https://doi.org/10.1111/rec.13971
+- Slash pine growth and nitrogen leaching potential following fertilization and pinestraw removal *Soil Science Society of America Journal* (2022)
+  DOI: https://doi.org/10.1002/saj2.20381
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 41 Environmental Sciences; 3007 Forestry Sciences; 4102 Ecological Applications; 31 Biological Sciences
+
+Key Research Concepts (from Dimensions.ai):
+seedling seed orchard; short rotation woody crops; clonal seed orchard; genetic improvement; breeding values; polymer-coated urea; Total Kjeldahl Nitrogen; K concentration; polymer-coated urea application; Ca concentration
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Phillip Rucks Citrus Nursery (PRCN) and Florida Grown Specialties, 1697 Rucks Dairy Road, Frostproof, FL 33843, USA;, phillip@rucksnursery.com, (P.C.R.);, beth-lamb@hotmail.com, (E.L.)
+- North Carolina State University
+- Camcore, Department of Forestry & Environmental Resources, North Carolina State University, Jordan Hall Addition 3231, Raleigh, NC 27695, USA;, rjump@ncsu.edu, (R.J.);, grh@ncsu.edu, (G.R.H.)
+- Pacific Northwest Research Station
+- USDA Forest Service, Savannah River, P.O. Box 700, Aiken, SC 29809, USA
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.3/10
+Percentile: Top 82% of Water Institute faculty
+Rankings by Research Category:
+- Forestry Sciences: #7 of 8
+- Ecological Applications: #27 of 32
+- Agricultural, Veterinary and Food Sciences: #91 of 99

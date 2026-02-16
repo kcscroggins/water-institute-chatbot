@@ -38,3 +38,53 @@ Water & Policy Relevance:
 
 Keywords:
 Soil science; biogeochemistry; soil organic matter; carbon sequestration; nutrient cycling; phosphorus; nitrogen; water quality; wetlands; agricultural soils; BMPs; nonpoint source pollution; BMAP; soil health; legacy nutrients; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 49
+- Total Citations: 975
+- H-Index: 17
+- Average Citations per Paper: 19.9
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.04 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- The Use of Non-Plastic Materials for Oyster Reef and Shoreline Restoration: Understanding What Is Needed and Where the Field Is Headed *Sustainability* (2022) - 28 citations
+  DOI: https://doi.org/10.3390/su14138055
+- Challenges and opportunities for sustaining coastal wetlands and oyster reefs in the southeastern United States *Journal of Environmental Management* (2021) - 17 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2021.113178
+- Effect of Phosphorus Fertilization on Yield of Chipping Potato Grown on High Legacy Phosphorus Soil *Agronomy* (2022) - 14 citations
+  DOI: https://doi.org/10.3390/agronomy12040812
+- Performance Assessment of Three Living Shorelines in Cedar Key, Florida, USA *Estuaries and Coasts* (2024) - 7 citations
+  DOI: https://doi.org/10.1007/s12237-024-01440-w
+- Intertidal Soundscapes of Hardened and Living Shorelines: A Case Study of Habitat Enhancement *Aquatic Conservation Marine and Freshwater Ecosystems* (2024) - 3 citations
+  DOI: https://doi.org/10.1002/aqc.4118
+- Capitalizing on Carbon: AE582/AE582, 1/2023 *EDIS* (2023) - 3 citations
+  DOI: https://doi.org/10.32473/edis-ae582-2023
+- Community perception and stewardship of public coastal infrastructure in Cedar Key, Florida *Frontiers in Marine Science* (2025) - 1 citations
+  DOI: https://doi.org/10.3389/fmars.2025.1639887
+- Recreational Fishing Effort and How Management Actions Can Affect It—Part 2: Literature and a Case Study. : FA259 7/2023 *EDIS* (2023)
+  DOI: https://doi.org/10.32473/edis-fa259-2023
+- Recreational fishing effort and how management actions can affect it—Part 1: Theory: FA257, 4/2023 *EDIS* (2023)
+  DOI: https://doi.org/10.32473/edis-fa257-2023
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 4104 Environmental Management; 31 Biological Sciences; 3103 Ecology; 4102 Ecological Applications
+
+Key Research Concepts (from Dimensions.ai):
+oyster reefs; living shorelines; Cedar Key; fishing effort; management actions; recreational fishing effort; non-plastic materials; shoreline restoration; habitat restoration projects; impacts of plastics
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Institute of Food and Agricultural Sciences
+- Florida Fish and Wildlife Conservation Commission
+- Florida Sea Grant
+- University of Central Florida
+- Department of Biology, University of Central Florida, 4000 Central Florida Blvd., Orlando, FL 32816, USA;, melinda.donnelly@ucf.edu, (M.D.);, paul.sacks@ucf.edu, (P.E.S.)
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.3/10
+Percentile: Top 35% of Water Institute faculty
+Rankings by Research Category:
+- Ecological Applications: #11 of 32
+- Environmental Management: #18 of 46
+- Ecology: #23 of 59

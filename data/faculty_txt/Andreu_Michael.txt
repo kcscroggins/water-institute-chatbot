@@ -36,3 +36,59 @@ Awards:
 
 Keywords:
 Water Institute affiliate; forestry; urban forestry; forest ecology; silviculture; ecosystem services; restoration ecology; invasive species; forest management; extension; Florida forests; hurricane response; land stewardship
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 85
+- Total Citations: 313
+- H-Index: 10
+- Average Citations per Paper: 3.7
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.72 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Municipal response to state legislation limiting local oversight of private urban tree removal in Florida *Land Use Policy* (2021) - 24 citations
+  DOI: https://doi.org/10.1016/j.landusepol.2021.105398
+- Carbon and nitrogen pools and mobile fractions in surface soils across a mangrove saltmarsh ecotone *The Science of The Total Environment* (2021) - 20 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2021.149328
+- Conceptualizing the human drivers of low tree diversity in planted urban landscapes *Ambio* (2023) - 18 citations
+  DOI: https://doi.org/10.1007/s13280-023-01876-7
+- Predictors of tropical cyclone-induced urban tree failure: an international scoping review *Frontiers in Forests and Global Change* (2023) - 10 citations
+  DOI: https://doi.org/10.3389/ffgc.2023.1168495
+- Impact of model choice in predicting urban forest storm damage when data is uncertain *Landscape and Urban Planning* (2022) - 9 citations
+  DOI: https://doi.org/10.1016/j.landurbplan.2022.104467
+- An Ecosystem Services-Centric Land Use and Land Cover Classification for a Subbasin of the Tampa Bay Watershed *Forests* (2022) - 6 citations
+  DOI: https://doi.org/10.3390/f13050745
+- Group selection silviculture for converting pine plantations to uneven-aged stands *Forest Ecology and Management* (2021) - 5 citations
+  DOI: https://doi.org/10.1016/j.foreco.2020.118729
+- Testing seed mixtures featuring ruderal grasses in restoration of pine savannas in the southeastern, United States *Restoration Ecology* (2025) - 1 citations
+  DOI: https://doi.org/10.1111/rec.70136
+- Lumnitzera racemosa, White Flowered Black Mangrove: FOR396/FR467, 6/2023 *EDIS* (2023) - 1 citations
+  DOI: https://doi.org/10.32473/edis-fr467-2023
+- Benefits of Prescribed Fire: FR468/FOR397, 6/2023 *EDIS* (2023) - 1 citations
+  DOI: https://doi.org/10.32473/edis-fr468-2023
+
+Research Grants (from Dimensions.ai):
+- RAPID Collaborative Research: Resilient and resistant urban forests: the role of landscape configuration and socioeconomic legacy in understanding tree response to hurricane (2018-2020) - $123,568
+  Funder: Directorate for Biological Sciences
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 4102 Ecological Applications; 30 Agricultural, Veterinary and Food Sciences; 3007 Forestry Sciences; 31 Biological Sciences
+
+Key Research Concepts (from Dimensions.ai):
+knowledge of biology; academic audience; laypersons; urban forests; audience; prescribed fire; land management; urban forest governance; urban trees; forest governance
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of South Florida
+- Florida Gulf Coast University
+- University of Alabama
+- University of Wisconsin–Stevens Point
+- Institute of Food and Agricultural Sciences
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.8/10
+Percentile: Top 57% of Water Institute faculty
+Rankings by Research Category:
+- Forestry Sciences: #6 of 8
+- Ecological Applications: #20 of 32
+- Agricultural, Veterinary and Food Sciences: #62 of 99

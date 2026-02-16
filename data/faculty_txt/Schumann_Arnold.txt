@@ -30,3 +30,59 @@ Dr. Schumann's research provides the technical foundation for nutrient best-mana
 
 Keywords:
 precision agriculture; nutrient management; nitrogen; variable-rate application; citrus; crop sensing; canopy measurement; deep learning; weed detection; computer vision; plant nutrition; fertilizer efficiency; best management practices; sensor technology; CREC
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 76
+- Total Citations: 1745
+- H-Index: 26
+- Average Citations per Paper: 23.0
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 6.85 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Detection of fruit maturity stage and yield estimation in wild blueberry using deep learning convolutional neural networks *Smart Agricultural Technology* (2023) - 101 citations
+  DOI: https://doi.org/10.1016/j.atech.2022.100099
+- Detection of a Potato Disease (Early Blight) Using Artificial Intelligence *Remote Sensing* (2021) - 74 citations
+  DOI: https://doi.org/10.3390/rs13030411
+- Weed detection to weed recognition: reviewing 50 years of research to identify constraints and opportunities for large-scale cropping systems *Weed Technology* (2022) - 51 citations
+  DOI: https://doi.org/10.1017/wet.2022.84
+- Field evaluation of a deep learning-based smart variable-rate sprayer for targeted application of agrochemicals *Smart Agricultural Technology* (2023) - 39 citations
+  DOI: https://doi.org/10.1016/j.atech.2022.100073
+- Application of deep learning to detect Lamb’s quarters (Chenopodium album L.) in potato fields of Atlantic Canada *Computers and Electronics in Agriculture* (2021) - 28 citations
+  DOI: https://doi.org/10.1016/j.compag.2021.106040
+- Evaluation of cameras and image distance for CNN-based weed detection in wild blueberry *Smart Agricultural Technology* (2022) - 27 citations
+  DOI: https://doi.org/10.1016/j.atech.2021.100030
+- Hair Fescue and Sheep Sorrel Identification Using Deep Learning in Wild Blueberry Production *Remote Sensing* (2021) - 21 citations
+  DOI: https://doi.org/10.3390/rs13050943
+- 2023–2024 Florida Citrus Production Guide: Citrus under Protective Screen (CUPS) Production Systems: CPG ch. 21, HS1304/CMG19, rev. 5/2023 *EDIS* (2023) - 10 citations
+  DOI: https://doi.org/10.32473/edis-hs1304-2023
+- Machine vision system for real-time debris detection on mechanical wild blueberry harvesters *Smart Agricultural Technology* (2023) - 8 citations
+  DOI: https://doi.org/10.1016/j.atech.2022.100166
+- An investigation into the potential of Gabor wavelet features for scene classification in wild blueberry fields *Artificial Intelligence in Agriculture* (2021) - 7 citations
+  DOI: https://doi.org/10.1016/j.aiia.2021.03.001
+
+Research Grants (from Dimensions.ai):
+- IMPROVING THE PROFITABILITY OF BLUEBERRY PRODUCTION WITH A COMPREHENSIVE PRECISION AGRICULTURE PROGRAM (2009-2010) - $22,963
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 46 Information and Computing Sciences; 40 Engineering; 3004 Crop and Pasture Production; 37 Earth Sciences
+
+Key Research Concepts (from Dimensions.ai):
+convolutional neural network; production guide; production systems; citrus; citrus trees; Florida; deep learning; object detection; UF/IFAS; repository
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Dalhousie University
+- University of Prince Edward Island
+- Faculty of Sustainable Design Engineering, University of Prince Edward Island, Charlottetown, PE C1A4P3, Canada;, hafzaal2@upei.ca, (H.A.);, nhussain@upei.ca, (N.H.);, fabbas@upei.ca, (F.A.);, bsp874@mail.usask.ca, (B.A.)
+- The University of Sydney
+- Agriculture and Agri-Food Canada
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.0/10
+Percentile: Top 18% of Water Institute faculty
+Rankings by Research Category:
+- Information and Computing Sciences: #8 of 20
+- Engineering: #12 of 53
+- Crop and Pasture Production: #12 of 41

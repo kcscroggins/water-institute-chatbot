@@ -35,3 +35,59 @@ Water & Policy Relevance:
 
 Keywords:
 Human dimensions; socio-ecological systems; ecosystem services; urban ecology; conservation behavior; family forest owners; landowner decision-making; urban greenspaces; community gardens; climate resilience; invasive species management; social-ecological connectivity; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 19
+- Total Citations: 313
+- H-Index: 9
+- Average Citations per Paper: 16.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 10.17 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Factors that enhance or hinder social cohesion in urban greenspaces: A literature review *Urban Forestry & Urban Greening* (2023) - 72 citations
+  DOI: https://doi.org/10.1016/j.ufug.2023.127936
+- Understanding invasive plant management on family forestlands: An application of protection motivation theory *Journal of Environmental Management* (2021) - 24 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2021.112161
+- A tale of urban forest patch governance in four eastern US cities *Urban Forestry & Urban Greening* (2022) - 21 citations
+  DOI: https://doi.org/10.1016/j.ufug.2022.127693
+- Factors Influencing Family Forest Owners’ Interest in Community-led Collective Invasive Plant Management *Environmental Management* (2021) - 16 citations
+  DOI: https://doi.org/10.1007/s00267-021-01454-1
+- Greening development: Reducing urban tree canopy loss through incentives *Urban Forestry & Urban Greening* (2024) - 15 citations
+  DOI: https://doi.org/10.1016/j.ufug.2023.128184
+- Expanding Urban Tree Species Diversity in Florida (USA): Challenges and Opportunities for Practitioners *Society & Natural Resources* (2023) - 11 citations
+  DOI: https://doi.org/10.1080/08941920.2023.2175285
+- Public perceptions of multiple ecosystem services from urban agriculture *Landscape and Urban Planning* (2024) - 9 citations
+  DOI: https://doi.org/10.1016/j.landurbplan.2024.105170
+- Managing urban trees through storms in three United States cities *Landscape and Urban Planning* (2024) - 9 citations
+  DOI: https://doi.org/10.1016/j.landurbplan.2024.105102
+- Forest Disturbances and Nonindustrial Forest Landowners: Management of Invasive Plants, Fire Hazards and Wildlife Habitats After a Hurricane *Journal of Forestry* (2023) - 6 citations
+  DOI: https://doi.org/10.1093/jofore/fvad022
+- Branching Out: The under examined role of urban tree giveaway programs and urban greening in Florida *Urban Forestry & Urban Greening* (2025) - 2 citations
+  DOI: https://doi.org/10.1016/j.ufug.2025.128924
+
+Research Grants (from Dimensions.ai):
+- (MC) Perceptions, attitudes, behaviors and community engagement with urban forests: Implications for social resilience in Southeastern cities (2020-2025)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 44 Human Society; 33 Built Environment and Design; 4406 Human Geography; 4102 Ecological Applications
+
+Key Research Concepts (from Dimensions.ai):
+invasive plants; invasive plant management; plant management; giveaway program; ecosystem services; social cohesion; urban greenspace; human wellbeing; perceptions of safety; aspects of wellbeing
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Northern Research Station
+- Purdue University West Lafayette
+- University of Connecticut
+- Institute of Food and Agricultural Sciences
+- Florida Gulf Coast University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.0/10
+Percentile: Top 49% of Water Institute faculty
+Rankings by Research Category:
+- Human Geography: #2 of 6
+- Built Environment and Design: #4 of 12
+- Human Society: #9 of 27

@@ -30,3 +30,55 @@ Dr. Morgan produces mechanistic science and BMP guidance that informs nutrient m
 
 Keywords:
 soil fertility; nutrient cycling; nitrogen; phosphorus; nutrient management; BMPs; best management practices; soil testing; fertilizer recommendations; citrus nutrition; irrigation; water quality; nutrient leaching; sandy soils; Florida agriculture; 4R stewardship; TMDL
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 111
+- Total Citations: 1531
+- H-Index: 22
+- Average Citations per Paper: 13.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 7.37 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Step by Step Calculation of the Penman-Monteith Evapotranspiration (FAO-56 Method): AE459, 2/2010 *EDIS* (2024) - 112 citations
+  DOI: https://doi.org/10.32473/edis-ae459-2010
+- The Effect of Foliar and Ground-Applied Essential Nutrients on Huanglongbing-Affected Mature Citrus Trees *Plants* (2021) - 15 citations
+  DOI: https://doi.org/10.3390/plants10050925
+- Chapter 2. Fertilizer Management for Vegetable Production in Florida: CV296, rev. 4/2021 *EDIS* (2021) - 14 citations
+  DOI: https://doi.org/10.32473/edis-cv296-2021
+- Integrated Water, Nutrient, and Pesticide Management of Huanglongbing-Affected Sweet Oranges on Florida Sandy Soils—A Review *Plants* (2022) - 12 citations
+  DOI: https://doi.org/10.3390/plants11141850
+- Effects of oxygen fertilization on damage reduction in flooded snap bean (Phaseolus vulgaris L.) *Scientific Reports* (2022) - 11 citations
+  DOI: https://doi.org/10.1038/s41598-022-08165-5
+- Chapter 2. Fertilizer Management for Vegetable Production in Florida: VPH ch. 2, CV296, rev. 6/2023 *EDIS* (2023) - 8 citations
+  DOI: https://doi.org/10.32473/edis-cv296-2023
+- Spatial and Temporal Nutrient Dynamics and Water Management of Huanglongbing-Affected Mature Citrus Trees on Florida Sandy Soils *Sustainability* (2022) - 8 citations
+  DOI: https://doi.org/10.3390/su14127134
+- Field trial guidelines for evaluating enhanced efficiency fertilizers *Soil Science Society of America Journal* (2024) - 7 citations
+  DOI: https://doi.org/10.1002/saj2.20787
+- Estimating soil mineral nitrogen from data-sparse field experiments using crop model-guided deep learning approach *Computers and Electronics in Agriculture* (2024) - 7 citations
+  DOI: https://doi.org/10.1016/j.compag.2024.109355
+- Managing water table depth thresholds for potato subirrigation *Agricultural Water Management* (2022) - 7 citations
+  DOI: https://doi.org/10.1016/j.agwat.2021.107236
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3002 Agriculture, Land and Farm Management; 3004 Crop and Pasture Production; 41 Environmental Sciences; 46 Information and Computing Sciences
+
+Key Research Concepts (from Dimensions.ai):
+citrus trees; Chapter 2; fertility management; vegetable production; chapter; vegetation; EDI; Florida; leaf nutrient concentrations; soil application
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Institute of Food and Agricultural Sciences
+- Purdue University West Lafayette
+- Agricultural Research Service - Northeast Area
+- Citrus Research and Education Center, 700 Experiment Station Road, Lake Alfred, FL 33850, USA
+- Citrus Research and Education Center, 700 Experiment Station Rd.,, 33850, Lake Alfred, FL, USA
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.8/10
+Percentile: Top 23% of Water Institute faculty
+Rankings by Research Category:
+- Information and Computing Sciences: #9 of 20
+- Agriculture, Land and Farm Management: #10 of 24
+- Crop and Pasture Production: #18 of 41

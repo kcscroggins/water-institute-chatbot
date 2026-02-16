@@ -26,3 +26,38 @@ Tyrna's work strengthens environmental policy and conservation outcomes by ident
 
 Keywords:
 extension; conservation adoption; water quality; nutrient management; outreach; program evaluation; behavior change; stakeholder engagement; agricultural extension; Florida; watershed; communication; decision support; best management practices
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 3
+- Total Citations: 4
+- H-Index: 1
+- Average Citations per Paper: 1.3
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 0.62 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- A comparative study of the secondary benefits of stormwater ponds in economically distinct neighborhoods of Tampa, Florida USA *Discover Water* (2024) - 3 citations
+  DOI: https://doi.org/10.1007/s43832-024-00144-3
+- Spatial Considerations Needed when Balancing Land Conservation and Development: FOR380/FR451, 3/2022 *EDIS* (2022) - 1 citations
+  DOI: https://doi.org/10.32473/edis-fr451-2022
+- Using Graph Networks to Quantify the Cumulative Importance of Riparian Wetlands within a Watershed *Research Square* (2021)
+  DOI: https://doi.org/10.21203/rs.3.rs-249850/v1
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 4104 Environmental Management; 4102 Ecological Applications; 40 Engineering; 4011 Environmental Engineering
+
+Key Research Concepts (from Dimensions.ai):
+stormwater ponds; green spaces; stormwater; pond features; suburban ponds; urban ecosystems; urban areas; spatial considerations; urban landscape; spatial planning
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Suncoast Waterkeeper, 34230, Sarasota, FL, USA
+- The Pennsylvania State University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.1/10
+Percentile: Top 97% of Water Institute faculty
+Rankings by Research Category:
+- Environmental Engineering: #6 of 6
+- Ecological Applications: #32 of 32
+- Environmental Management: #43 of 46

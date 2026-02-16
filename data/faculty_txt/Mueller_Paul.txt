@@ -29,3 +29,67 @@ Dr. Mueller produces foundational evidence on Earth's crustal and tectonic evolu
 
 Keywords:
 isotope geochemistry; geochronology; U-Pb; Rb-Sr; Sm-Nd; Lu-Hf; continental crust; tectonics; Precambrian; Archean; Hadean; zircon; crustal evolution; Wyoming province; Appalachians; mantle; geodynamics
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 64
+- Total Citations: 2541
+- H-Index: 27
+- Average Citations per Paper: 39.7
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.17 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Crustal genesis and evolution of the Archean Wyoming Province: Continental growth through vertical magmatic and horizontal tectonic processes (2023) - 15 citations
+  DOI: https://doi.org/10.1130/2022.1220(01)
+- Paleomagnetic Constraint on the Age of the Shyok Suture Zone *Journal of Geophysical Research: Solid Earth* (2023) - 12 citations
+  DOI: https://doi.org/10.1029/2022jb026137
+- Combined U-Pb ages and Lu-Hf systematics of detrital zircons from Early Cambrian Gondwanan siliciclastic rocks in S Turkey: Provenance and correlations with coeval successions in peri-Gondwanan terranes *Gondwana Research* (2022) - 12 citations
+  DOI: https://doi.org/10.1016/j.gr.2022.04.010
+- Ordovician–Silurian back-arc silicic magmatism in the southernmost Appalachians *Geological Society of America Bulletin* (2022) - 8 citations
+  DOI: https://doi.org/10.1130/b35948.1
+- Extensional Collapse of Orogens *Geophysical Monograph Series* (2023) - 7 citations
+  DOI: https://doi.org/10.1002/9781119773856.ch12
+- The drift history of the Dharwar Craton and India from 2.37 Ga to 1.01 Ga with refinements for an initial Rodinia configuration *Geoscience Frontiers* (2023) - 7 citations
+  DOI: https://doi.org/10.1016/j.gsf.2023.101581
+- Colliding cratons: linking the Variscan Orogeny in West Africa and North America *Geological Society London Special Publications* (2023) - 6 citations
+  DOI: https://doi.org/10.1144/sp542-2023-14
+- Archean Cratons: Time Capsules of the Early Earth *Elements* (2024) - 4 citations
+  DOI: https://doi.org/10.2138/gselements.20.3.162
+- Transformation of eastern North America from compression to extension in the Permian–Triassic (2023) - 3 citations
+  DOI: https://doi.org/10.1130/2022.1220(28)
+- Mesozoic crustal melting and metamorphism in the U.S. Cordilleran hinterland: Insights from the Sawtooth metamorphic complex, central Idaho *Geological Society of America Bulletin* (2021) - 3 citations
+  DOI: https://doi.org/10.1130/b35837.1
+
+Research Grants (from Dimensions.ai):
+- Early Career: Acquisition of a MC-ICP-MS for Research and Education in U-series Geochemistry and Applications in Geosciences (2017-2019) - $693,780
+  Funder: Directorate for Geosciences
+- Significance of the Damara Orogen in Gondwana Assembly: an Evaluation of Detrital Zircon Ages and Isotopic Compositions of Neoproterozoic Metasedimentary Rocks (2008-2012) - $291,023
+  Funder: Directorate for Geosciences
+- Acquisition of a Noble Gas Mass Spectrometer for Geochronology and Thermochronology at the University of Florida (2000-2004) - $280,000
+  Funder: Directorate for Geosciences
+- ROW: Evolution of Tallahassee-Suwannee Terrane: Geochemicaland Tectonic Affinities with Avalonia and West Africa (1992-1995) - $57,627
+  Funder: Directorate for Geosciences
+- Marine/Non-Marine Stratigraphy and Environments in the Plio-Pleistocene of Florida (1987-1989) - $64,800
+  Funder: Directorate for Geosciences
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3705 Geology; 3706 Geophysics; 3703 Geochemistry
+
+Key Research Concepts (from Dimensions.ai):
+Archean Wyoming province; Reguibat Shield; eastern Beartooth Mountains; calc-alkalic magmatism; Wyoming Province; crustal evolution; tectonic processes; Kohistan–Ladakh arc; India–Eurasia collision; India–Eurasia continental collision
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Wyoming
+- Louisiana State University
+- Laurentian University
+- Senckenberg Natural History Collections Dresden
+- Montana State University – Bozeman
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.1/10
+Percentile: Top 16% of Water Institute faculty
+Rankings by Research Category:
+- Geochemistry: #2 of 3
+- Geophysics: #2 of 2
+- Geology: #4 of 11

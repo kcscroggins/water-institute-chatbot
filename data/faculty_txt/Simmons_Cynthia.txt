@@ -26,3 +26,43 @@ Dr. Simmons's research informs environmental policy and governance by elucidatin
 
 Keywords:
 human geography; political economy; land change; Amazonia; Latin America; environmental governance; agrarian reform; land conflict; deforestation; landscape transformation; human-environment interactions; development geography; environmental policy; socio-ecological systems
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 11
+- Total Citations: 186
+- H-Index: 8
+- Average Citations per Paper: 16.9
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 7.45 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Non-Timber Forest Products and the Cosmetic Industry: An Econometric Assessment of Contributions to Income in the Brazilian Amazon *Land* (2021) - 29 citations
+  DOI: https://doi.org/10.3390/land10060588
+- Biocultural Geographies: Stewardship, Indigenous Territories, and Conservation in Ecuador’s Amazon *Annals of the American Association of Geographers* (2025) - 1 citations
+  DOI: https://doi.org/10.1080/24694452.2025.2511942
+- Habitat Mapping and Spatiotemporal Overlap of the Amazon River Dolphin, Fishers, and Tourism in the Central Region of the Brazilian Amazon *Conservation* (2023)
+  DOI: https://doi.org/10.3390/conservation3040034
+- Large Mining Projects and Socio-Environmental Impacts: Economic and Socio-Environmental Dynamics in Barcarena (Pará, Brazil) *Journal of Service Science and Management* (2023)
+  DOI: https://doi.org/10.4236/jssm.2023.165030
+
+Research Categories (from Dimensions.ai):
+4104 Environmental Management; 41 Environmental Sciences; 35 Commerce, Management, Tourism and Services; 3504 Commercial Services; 33 Built Environment and Design
+
+Key Research Concepts (from Dimensions.ai):
+non-timber forest product extraction; non-timber forest products; spatial Durbin model; spatial error model; spatial autoregressive regression; protected areas; indigenous territorial governance; Northern Ecuadorian Amazon; well-being; geographical scholarship
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Federal University of Para
+- Colorado State University Fort Collins
+- Sinangoe, Cofán Indigenous Nation, Ecuador
+- Sotosiaya, Siona Indigenous Nation, Ecuador
+- University of Arkansas at Fayetteville
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.8/10
+Percentile: Top 57% of Water Institute faculty
+Rankings by Research Category:
+- Commercial Services: #2 of 2
+- Built Environment and Design: #5 of 12
+- Commerce, Management, Tourism and Services: #8 of 13

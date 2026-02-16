@@ -36,3 +36,67 @@ Water & Climate Relevance:
 
 Keywords:
 Environmental microbiology; cryosphere; glaciers; ice cores; atmospheric microbiology; ice nucleation; biological ice nucleators; precipitation; snow; biogeochemical cycling; climate feedbacks; extreme environments; astrobiology; microbial ecology; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 39
+- Total Citations: 828
+- H-Index: 17
+- Average Citations per Paper: 21.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 5.35 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Scientific access into Mercer Subglacial Lake: scientific objectives, drilling operations and initial observations *Annals of Glaciology* (2021) - 62 citations
+  DOI: https://doi.org/10.1017/aog.2021.10
+- Wildland fire smoke alters the composition, diversity, and potential atmospheric function of microbial life in the aerobiome *ISME Communications* (2022) - 52 citations
+  DOI: https://doi.org/10.1038/s43705-022-00089-5
+- Constraints on the Timing and Extent of Deglacial Grounding Line Retreat in West Antarctica *AGU Advances* (2023) - 38 citations
+  DOI: https://doi.org/10.1029/2022av000846
+- Subglacial erosion has the potential to sustain microbial processes in Subglacial Lake Whillans, Antarctica *Communications Earth & Environment* (2021) - 25 citations
+  DOI: https://doi.org/10.1038/s43247-021-00202-x
+- Biogeochemical and historical drivers of microbial community composition and structure in sediments from Mercer Subglacial Lake, West Antarctica *ISME Communications* (2023) - 24 citations
+  DOI: https://doi.org/10.1038/s43705-023-00216-w
+- Bacterial Emission Factors: A Foundation for the Terrestrial-Atmospheric Modeling of Bacteria Aerosolized by Wildland Fires *Environmental Science and Technology* (2024) - 17 citations
+  DOI: https://doi.org/10.1021/acs.est.3c05142
+- Nitrous oxide processing in carbonate karst aquifers *Journal of Hydrology* (2021) - 12 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2020.125936
+- Climatic and landscape changes as drivers of environmental feedback that influence rainfall frequency in the United States *Global Change Biology* (2021) - 10 citations
+  DOI: https://doi.org/10.1111/gcb.15876
+- Dispersal of microbes from grassland fire smoke to soils *The ISME Journal: Multidisciplinary Journal of Microbial Ecology* (2024) - 7 citations
+  DOI: https://doi.org/10.1093/ismejo/wrae203
+- A method for successful collection of multicores and gravity cores from Antarctic subglacial lakes *Limnology and Oceanography Methods* (2023) - 7 citations
+  DOI: https://doi.org/10.1002/lom3.10545
+
+Research Grants (from Dimensions.ai):
+- ABOVE & BELOW: AstroBiOlogical inVEstigation of Biosignatures Emblematic of Life on Ocean Worlds (2023-2028)
+  Funder: National Aeronautics and Space Administration
+- Luminescence Imager for Exploration (2023-2026)
+  Funder: National Aeronautics and Space Administration
+- Collaborative Research: Biomass burning smoke as a driver of multi-scale microbial teleconnections (2021-2024) - $71,811
+  Funder: Directorate for Biological Sciences
+- UNDERSTANDING THE GENETICS OF EXTREME STRESS RESISTANCE IN BACTERIA (2021-2024)
+  Funder: National Aeronautics and Space Administration
+- Significance of Ice-loss to Landscapes in the Arctic: SILA (Inuit concept of the physical world and weather) (2020-2026) - $2,244,966
+  Funder: Directorate for Geosciences
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 31 Biological Sciences; 3709 Physical Geography and Environmental Geoscience; 3107 Microbiology; 3705 Geology
+
+Key Research Concepts (from Dimensions.ai):
+subglacial lakes; Upper Floridan aquifer; Antarctic Ice Sheet; basal ice types; ice types; basal ice; bioavailable organic matter; surface water; subsurface sources; karstic Upper Floridan aquifer
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Nebraska–Lincoln
+- Montana State University – Bozeman
+- Korea Polar Research Institute
+- University of Idaho
+- Colorado School of Mines
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.5/10
+Percentile: Top 29% of Water Institute faculty
+Rankings by Research Category:
+- Physical Geography and Environmental Geoscience: #3 of 11
+- Geology: #6 of 11
+- Microbiology: #7 of 20

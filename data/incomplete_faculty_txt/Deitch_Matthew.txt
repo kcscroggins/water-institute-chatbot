@@ -1,0 +1,70 @@
+Name: Matthew Deitch
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: mdeitch@ufl.edu
+Website: http://wfrec.ifas.ufl.edu/faculty/dr-matthew-deitch/
+Google Scholar: https://scholar.google.com/citations?user=C7tiV8IAAAAJ&hl=en&oi=sra
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 33
+- Total Citations: 711
+- H-Index: 15
+- Average Citations per Paper: 21.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 7.13 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Fostering Green Finance for Sustainable Development: A Focus on Textile and Leather Small Medium Enterprises in Pakistan *Sustainability* (2022) - 73 citations
+  DOI: https://doi.org/10.3390/su141911908
+- Identifying critical source areas of non-point source pollution to enhance water quality: Integrated SWAT modeling and multi-variable statistical analysis to reveal key variables and thresholds *Water Research* (2024) - 53 citations
+  DOI: https://doi.org/10.1016/j.watres.2024.121286
+- Satellite-based rainfall estimates evaluation using a parsimonious hydrological model in the complex climate and topography of the Nile River Catchments *Atmospheric Research* (2022) - 34 citations
+  DOI: https://doi.org/10.1016/j.atmosres.2021.105939
+- Assessment of physicochemical parameters in groundwater quality of desert area (Tharparkar) of Pakistan *Case Studies in Chemical and Environmental Engineering* (2022) - 30 citations
+  DOI: https://doi.org/10.1016/j.cscee.2022.100232
+- Opportunities and constraints for cleaner production policy in the developing world: a case study of Sindh Region, Pakistan *Environment, Development and Sustainability* (2023) - 26 citations
+  DOI: https://doi.org/10.1007/s10668-022-02889-0
+- In-house resource efficiency improvements supplementing the end of pipe treatments in textile SMEs under a circular economy fashion *Frontiers in Environmental Science* (2022) - 25 citations
+  DOI: https://doi.org/10.3389/fenvs.2022.1002319
+- Do the Mann-Kendall test and Theil-Sen slope fail to inform trend significance and magnitude in hydrology? *Hydrological Sciences Journal* (2023) - 24 citations
+  DOI: https://doi.org/10.1080/02626667.2023.2212166
+- Treatment of Industrial Wastewater in a Floating Treatment Wetland: A Case Study of Sialkot Tannery *Sustainability* (2022) - 22 citations
+  DOI: https://doi.org/10.3390/su141912854
+- Damming consequences: Quantifying the effects on channel geometry and floodplain inundation *Catena* (2024) - 19 citations
+  DOI: https://doi.org/10.1016/j.catena.2023.107634
+- Adaptive management as a foundational framework for developing collaborative estuary management programs *Journal of Environmental Management* (2021) - 17 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2021.113107
+
+Research Grants (from Dimensions.ai):
+- Streamflow, sediment, and water quality studies and modeling to sustain ecosystem services in forested, urbanizing, and urbanized watersheds (2016-2021)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 4104 Environmental Management; 37 Earth Sciences; 3707 Hydrology; 31 Biological Sciences
+
+Key Research Concepts (from Dimensions.ai):
+critical source areas; total nitrogen; fecal pollution; green banking guidelines; green finance; State Bank; medium enterprises; Small Medium Enterprises; organic phosphorus; total phosphorus
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Shanghai Ocean University
+- Water Environment and Ecology Engineering Research Center of Shanghai Institution of Higher Education, 201306, Shanghai, China
+- Freshwater Programme, WWF-Pakistan, WWF-Pakistan Office, Ali Institute of Education, Lahore, Pakistan
+- Florida Atlantic University
+- University of West Florida

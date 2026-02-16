@@ -33,3 +33,55 @@ Water & Policy Relevance:
 
 Keywords:
 Microbial ecology; aquatic microbes; nutrient enrichment; eutrophication; freshwater; estuarine; microbial communities; carbon cycling; biogeochemical cycling; microbial adaptation; nutrient processing; ecosystem function; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 8
+- Total Citations: 54
+- H-Index: 4
+- Average Citations per Paper: 6.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.95 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Host Range Expansion of Shigella Phage Sf6 Evolves through Point Mutations in the Tailspike *Journal of Virology* (2022) - 34 citations
+  DOI: https://doi.org/10.1128/jvi.00929-22
+- Moo19 and B2: Structures of Schitoviridae podophages with T = 9 geometry and tailspikes with esterase activity *Science Advances* (2024) - 8 citations
+  DOI: https://doi.org/10.1126/sciadv.adt0022
+- The structure of Shigella virus Sf14 reveals the presence of two decoration proteins and two long tail fibers *Communications Biology* (2025) - 6 citations
+  DOI: https://doi.org/10.1038/s42003-025-07668-x
+- Shigella viruses Sf22 and KRT47 require outer membrane protein C for infection *Biochimica et Biophysica Acta (BBA) - Biomembranes* (2022) - 5 citations
+  DOI: https://doi.org/10.1016/j.bbamem.2022.183920
+- The inaugural mBio Junior Editorial Board—lessons learned and the path forward toward improving the peer review process *mBio* (2023) - 1 citations
+  DOI: https://doi.org/10.1128/mbio.01991-23
+- A computational investigation into the role of tRNAs encoded by Shigella phage Sf14 *BMC Genomics* (2025)
+  DOI: https://doi.org/10.1186/s12864-025-11998-9
+- Bacterial lysis or survival after infection with phage Sf14 depends on combined nutrient and temperature conditions. *PLOS ONE* (2025)
+  DOI: https://doi.org/10.1371/journal.pone.0319836
+- Host range expansion of Shigella phage Sf6 evolves through the dual roles of its tailspike *bioRxiv* (2022)
+  DOI: https://doi.org/10.1101/2022.04.06.487239
+
+Research Grants (from Dimensions.ai):
+- Mechanisms of interaction between bacteriophage and their hosts throughout the infection cycle (2022-2027) - $1,763,654
+  Funder: National Institute of Allergy and Infectious Diseases
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 3107 Microbiology; 32 Biomedical and Clinical Sciences; 3101 Biochemistry and Cell Biology; 3207 Medical Microbiology
+
+Key Research Concepts (from Dimensions.ai):
+host range expansion; decoration protein; infection cycle; host cells; tailspike protein; turbid plaques; point mutations; noncontractile tail; cryo-electron microscopy; esterase activity
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Michigan State University
+- Clemson University
+- University of Cape Coast
+- Mount Holyoke College
+- University of Minho
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.5/10
+Percentile: Top 72% of Water Institute faculty
+Rankings by Research Category:
+- Medical Microbiology: #4 of 4
+- Biochemistry and Cell Biology: #5 of 5
+- Microbiology: #18 of 20

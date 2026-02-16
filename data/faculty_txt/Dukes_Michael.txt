@@ -32,3 +32,59 @@ Water & Policy Relevance:
 
 Keywords:
 Irrigation engineering; water conservation; smart irrigation; ET-based irrigation; soil moisture sensors; nutrient leaching; sandy soils; turfgrass; citrus; vegetables; BMPs; FAWN; urban irrigation; agricultural water management; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 154
+- Total Citations: 2758
+- H-Index: 24
+- Average Citations per Paper: 17.9
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 7.43 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Step by Step Calculation of the Penman-Monteith Evapotranspiration (FAO-56 Method): AE459, 2/2010 *EDIS* (2024) - 112 citations
+  DOI: https://doi.org/10.32473/edis-ae459-2010
+- Nitrogen fertilizer rate and timing of application for potato under different irrigation methods *Agricultural Water Management* (2023) - 24 citations
+  DOI: https://doi.org/10.1016/j.agwat.2023.108312
+- Sustainable Residential Landscapes in Florida: Controlled Comparison of Traditional versus Florida-Friendly Landscaping *Journal of Irrigation and Drainage Engineering* (2021) - 13 citations
+  DOI: https://doi.org/10.1061/(asce)ir.1943-4774.0001577
+- Assessing the impact of irrigation and nitrogen management on potato performance under varying climate in the state of Florida, USA *Agricultural Water Management* (2024) - 12 citations
+  DOI: https://doi.org/10.1016/j.agwat.2024.108769
+- Selecting High-Impact Landscape Irrigation Conservation Behaviors: Formative Research to Inform Behavior-Change Efforts *Social Marketing Quarterly* (2022) - 7 citations
+  DOI: https://doi.org/10.1177/15245004211071057
+- Chapter 3. Principles and Practices of Irrigation Management for Vegetables: CV297, 5/2021 *EDIS* (2021) - 6 citations
+  DOI: https://doi.org/10.32473/edis-cv297-2021
+- Farm-scale economic and environmental tradeoffs of land use and land management decisions *Agricultural Water Management* (2024) - 5 citations
+  DOI: https://doi.org/10.1016/j.agwat.2024.108925
+- Insights from residents under year‐round irrigation restrictions to improve water conservation impacts *AWWA Water Science* (2023) - 5 citations
+  DOI: https://doi.org/10.1002/aws2.1348
+- Long‐term performance of smart irrigation controllers on single‐family homes with excess irrigation *AWWA Water Science* (2021) - 5 citations
+  DOI: https://doi.org/10.1002/aws2.1218
+- Methods to Quantify In-Field Nutrient Leaching: AE581/AE581, 12/2022 *EDIS* (2023) - 4 citations
+  DOI: https://doi.org/10.32473/edis-ae581-2022
+
+Research Grants (from Dimensions.ai):
+- Multistate Research Coordination, Southern Region (2014-2017)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3004 Crop and Pasture Production; 3002 Agriculture, Land and Farm Management; 40 Engineering; 38 Economics
+
+Key Research Concepts (from Dimensions.ai):
+Chapter 3; irrigation management; vegetation; chapter; principles; tuber yield; residential landscapes; irrigation restrictions; sensor-based irrigation; irrigation frequency
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Texas A&M University
+- Natural Resources Conservation Service
+- South Florida Water Management District
+- Oklahoma State University
+- University of Georgia
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.0/10
+Percentile: Top 18% of Water Institute faculty
+Rankings by Research Category:
+- Economics: #3 of 24
+- Agriculture, Land and Farm Management: #7 of 24
+- Engineering: #11 of 53

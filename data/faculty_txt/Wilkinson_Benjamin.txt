@@ -28,3 +28,63 @@ Wilkinson's research informs forest management and climate policy by clarifying 
 
 Keywords:
 forest ecology; ecosystem ecology; carbon cycling; nutrient cycling; plant-soil interactions; biogeochemistry; functional traits; forest management; disturbance; environmental change; ecosystem resilience; belowground processes
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 33
+- Total Citations: 710
+- H-Index: 15
+- Average Citations per Paper: 21.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 4.31 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Deep and Machine Learning Image Classification of Coastal Wetlands Using Unpiloted Aircraft System Multispectral Images and Lidar Datasets *Remote Sensing* (2022) - 44 citations
+  DOI: https://doi.org/10.3390/rs14163937
+- Canopy tree density and species influence tree regeneration patterns and woody species diversity in a longleaf pine forest *Forest Ecology and Management* (2021) - 43 citations
+  DOI: https://doi.org/10.1016/j.foreco.2021.119082
+- Estimating Ground Elevation and Vegetation Characteristics in Coastal Salt Marshes Using UAV-Based LiDAR and Digital Aerial Photogrammetry *Remote Sensing* (2021) - 35 citations
+  DOI: https://doi.org/10.3390/rs13224506
+- A Rigorous Observation Model for the Risley Prism-Based Livox Mid-40 Lidar Sensor *Sensors* (2021) - 32 citations
+  DOI: https://doi.org/10.3390/s21144722
+- Accuracy Assessment of Low-Cost Lidar Scanners: An Analysis of the Velodyne HDL–32E and Livox Mid–40’s Temporal Stability *Remote Sensing* (2022) - 18 citations
+  DOI: https://doi.org/10.3390/rs14174220
+- Object-Detection from Multi-View remote sensing Images: A case study of fruit and flower detection and counting on a central Florida strawberry farm *International Journal of Applied Earth Observation and Geoinformation* (2023) - 15 citations
+  DOI: https://doi.org/10.1016/j.jag.2023.103457
+- Drone lidar-derived surface complexity metrics as indicators of intertidal oyster reef condition *Ecological Indicators* (2023) - 15 citations
+  DOI: https://doi.org/10.1016/j.ecolind.2023.110190
+- Estimating Ground Elevation in Coastal Dunes from High-Resolution UAV-LIDAR Point Clouds and Photogrammetry *Remote Sensing* (2022) - 15 citations
+  DOI: https://doi.org/10.3390/rs15010226
+- The Bathy-Drone: An Autonomous Uncrewed Drone-Tethered Sonar System *Drones* (2022) - 14 citations
+  DOI: https://doi.org/10.3390/drones6100294
+- Investigating Practical Impacts of Using Single-Antenna and Dual-Antenna GNSS/INS Sensors in UAS-Lidar Applications *Sensors* (2021) - 14 citations
+  DOI: https://doi.org/10.3390/s21165382
+
+Research Grants (from Dimensions.ai):
+- Blended Learning in a Geographically Distributed Education System for Geomatics Students (2021-2027) - $973,925
+  Funder: Directorate for STEM Education
+- (MC) Geospatial Sensors and Methods for Applications to Forest and Natural Resource Management (2019-2024)
+  Funder: National Institute of Food and Agriculture
+- Development of Geospatial Sensors and Methods for Applications to  Forest and Natural Resource Management (2014-2019)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+4013 Geomatic Engineering; 40 Engineering; 37 Earth Sciences; 41 Environmental Sciences; 3103 Ecology
+
+Key Research Concepts (from Dimensions.ai):
+ground elevation; salt marshes; LiDAR sensors; UAS-LiDAR; deep learning models; learning techniques; U-Net; deep convolutional network architecture; learning models; longleaf pine forests
+
+Top Collaborating Institutions (from Dimensions.ai):
+- School of Forest, Fisheries, and Geomatics Sciences, Gainesville, FL 32603, USA
+- Northern Arizona University
+- Michigan Technological University
+- Wildlife Conservation Society Bolivia
+- Gulf Coast Research and Education Center, 14625 CR 672, Wimauma, FL 33598, USA
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.2/10
+Percentile: Top 40% of Water Institute faculty
+Rankings by Research Category:
+- Geomatic Engineering: #3 of 9
+- Engineering: #22 of 53
+- Ecology: #26 of 59

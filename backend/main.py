@@ -51,6 +51,31 @@ async def root():
 async def health():
     return {"status": "healthy", "collection_count": collection.count()}
 
+
+@app.get("/rankings")
+async def get_rankings():
+    """
+    Get faculty research rankings data for the rankings page.
+    Returns overall rankings and rankings by category.
+    """
+    import json
+    from pathlib import Path
+
+    rankings_file = Path("../data/rankings.json")
+
+    if rankings_file.exists():
+        with open(rankings_file, "r", encoding="utf-8") as f:
+            return json.load(f)
+    else:
+        # Return empty structure if rankings haven't been generated yet
+        return {
+            "updated": None,
+            "overall": [],
+            "categories": {},
+            "message": "Rankings are being generated. Please check back soon."
+        }
+
+
 @app.post("/chat", response_model=ChatResponse)
 async def chat(request: ChatRequest):
     try:
@@ -187,6 +212,27 @@ async def chat(request: ChatRequest):
 
                 3. KNOWN LINKS - Always use these exact URLs when discussing these topics (NEVER make up URLs):
                 - Travel Awards: https://waterinstitute.ufl.edu/student-travel-award/
+
+                TOP RESEARCHER QUERIES: When users ask about top researchers, leading experts, or
+                best faculty in a specific area:
+
+                1. Use the "Research Impact Score" from the context to rank faculty (higher is better)
+                2. Initially show the TOP 5 researchers with their scores and key metrics
+                3. Format like this:
+                   "Here are the top researchers in [field] at the Water Institute:
+                   1. **Name** – Score: X/10 | H-index: Y | Expertise summary
+                   2. **Name** – Score: X/10 | H-index: Y | Expertise summary
+                   ..."
+
+                4. After showing top 5, ALWAYS offer: "Would you like to see more researchers in this area?"
+
+                5. If the user asks for "more", "full list", "all researchers", or "show more":
+                   - Look for the extended rankings in the context
+                   - Show up to 15-20 researchers with their scores
+                   - Mention that a complete rankings page is available
+
+                6. If comparing researchers across different fields, note that the Field Citation Ratio
+                   (FCR) is the fairest comparison metric (1.0 = field average, higher is better)
 
                 Relevant context:
                 {context}"""

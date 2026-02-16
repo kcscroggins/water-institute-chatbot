@@ -26,3 +26,39 @@ Water & Policy Relevance:
 
 Keywords:
 Watershed hydrology; nutrient transport; nitrogen; phosphorus; water quality; hydrologic modeling; runoff; leaching; surface-groundwater interactions; BMPs; TMDLs; managed landscapes; Florida watersheds; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 3
+- Total Citations: 63
+- H-Index: 2
+- Average Citations per Paper: 21.0
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 0.38 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Characterizing the metabolome and microbiome at giant panda scent marking sites during the mating season *iScience* (2024) - 1 citations
+  DOI: https://doi.org/10.1016/j.isci.2024.110051
+
+Research Grants (from Dimensions.ai):
+- IRES: Human-Wildlife Feedbacks in the Mountains of Southwest China (2021-2025) - $299,746
+  Funder: Office of the Director
+
+Research Categories (from Dimensions.ai):
+3205 Medical Biochemistry and Metabolomics; 32 Biomedical and Clinical Sciences
+
+Key Research Concepts (from Dimensions.ai):
+scent-marking sites; microbial community structure; chemical communication; non-targeted metabolomics; high-throughput sequencing techniques
+
+Top Collaborating Institutions (from Dimensions.ai):
+- China West Normal University
+- Beijing Normal University
+- University of California, Berkeley
+- Chengdu Research Base of Giant Panda Breeding
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.2/10
+Percentile: Top 89% of Water Institute faculty
+Rankings by Research Category:
+- Medical Biochemistry and Metabolomics: #3 of 4
+- Biomedical and Clinical Sciences: #26 of 30

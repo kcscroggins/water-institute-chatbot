@@ -21,3 +21,63 @@ Notable Achievements:
 
 Keywords:
 Water resources management; precision irrigation; variable rate irrigation; saltwater intrusion; evapotranspiration; tropical agriculture; soil salinity; water quality.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 77
+- Total Citations: 863
+- H-Index: 15
+- Average Citations per Paper: 11.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 9.93 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Emerging Contaminants in Soil and Water *Frontiers in Environmental Science* (2022) - 116 citations
+  DOI: https://doi.org/10.3389/fenvs.2022.873499
+- Unmanned aerial vehicle (UAV) imaging and machine learning applications for plant phenotyping *Computers and Electronics in Agriculture* (2023) - 62 citations
+  DOI: https://doi.org/10.1016/j.compag.2023.108064
+- Improving soil moisture prediction with deep learning and machine learning models *Computers and Electronics in Agriculture* (2024) - 54 citations
+  DOI: https://doi.org/10.1016/j.compag.2024.109414
+- Impacts of Surface Water Quality in the Awash River Basin, Ethiopia: A Systematic Review *Frontiers in Water* (2022) - 50 citations
+  DOI: https://doi.org/10.3389/frwa.2021.790900
+- Local and regional climate trends and variabilities in Ethiopia: Implications for climate change adaptations *Environmental Challenges* (2023) - 41 citations
+  DOI: https://doi.org/10.1016/j.envc.2023.100794
+- Irrigation and shifting planting date as climate change adaptation strategies for sorghum *Agricultural Water Management* (2021) - 38 citations
+  DOI: https://doi.org/10.1016/j.agwat.2021.106988
+- Exploring deficit irrigation as a water conservation strategy: Insights from field experiments and model simulation *Agricultural Water Management* (2023) - 30 citations
+  DOI: https://doi.org/10.1016/j.agwat.2023.108490
+- A Synthesis of Surface Water Quality in Awash Basin, Ethiopia *Frontiers in Water* (2022) - 27 citations
+  DOI: https://doi.org/10.3389/frwa.2022.782124
+- Integrating machine learning and empirical evapotranspiration modeling with DSSAT: Implications for agricultural water management *The Science of The Total Environment* (2023) - 25 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2023.169403
+- Dynamics of micro and macronutrients in a hydroponic nutrient film technique system under lettuce cultivation *Heliyon* (2024) - 20 citations
+  DOI: https://doi.org/10.1016/j.heliyon.2024.e32316
+
+Research Grants (from Dimensions.ai):
+- Integrating Data from Ground Measurements, Unmanned Aerial Vehicles, And Modeling to Quantify Plot Scale Evapotranspiration (2020-2026) - $374,999
+  Funder: National Institute of Food and Agriculture
+- Soil Health And Environmental Impacts of Saltwater Intrusion In Agricultural Areas And Mitigation Strategies (2020-2026) - $497,315
+  Funder: National Institute of Food and Agriculture
+- Developing sustainable land and water management practices considering future populations and resource scarcity (2018-2023)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3004 Crop and Pasture Production; 41 Environmental Sciences; 37 Earth Sciences; 3002 Agriculture, Land and Farm Management
+
+Key Research Concepts (from Dimensions.ai):
+Tropical Research and Education Center; sweet corn; water quality; irrigation treatments; CSM-CERES-Sorghum model; availability of freshwater resources; consumer of fresh water; excessive nutrient loading; water quality deterioration; plant height
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Addis Ababa University
+- Bahir Dar University
+- Texas A&M University
+- Wageningen University & Research
+- Ethiopian Construction Design and Supervision Works Corporation, 2561, Addis Ababa, Ethiopia
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.4/10
+Percentile: Top 33% of Water Institute faculty
+Rankings by Research Category:
+- Agriculture, Land and Farm Management: #14 of 24
+- Crop and Pasture Production: #26 of 41
+- Earth Sciences: #32 of 70

@@ -27,3 +27,59 @@ While not policy-facing, Dr. Perfit's research supplies fundamental knowledge ab
 
 Keywords:
 marine geology; geochemistry; igneous petrology; mid-ocean ridge; volcanism; oceanic crust; basalt; magmatic systems; hydrothermal; submarine volcanic; tectonics; ocean chemistry; Earth system science; geophysics
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 56
+- Total Citations: 3404
+- H-Index: 31
+- Average Citations per Paper: 60.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 1.97 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Using precious metal probes to quantify mid-ocean ridge magmatic processes *Earth and Planetary Science Letters* (2021) - 20 citations
+  DOI: https://doi.org/10.1016/j.epsl.2020.116603
+- Cerium isotopic fractionation during magmatic processes and the composition of the upper mantle *Earth and Planetary Science Letters* (2025) - 5 citations
+  DOI: https://doi.org/10.1016/j.epsl.2025.119365
+- Relative Timing of Off‐Axis Volcanism From Sediment Thickness Estimates on the 8°20’N Seamount Chain, East Pacific Rise *Geochemistry Geophysics Geosystems* (2022) - 5 citations
+  DOI: https://doi.org/10.1029/2022gc010335
+- The formation of the 8˚20’ N seamount chain, east pacific rise *Marine Geophysical Research* (2022) - 3 citations
+  DOI: https://doi.org/10.1007/s11001-022-09502-z
+- Constraints on near-ridge magmatism using 40Ar/39Ar geochronology of enriched MORB from the 8°20' N seamount chain *Earth and Planetary Science Letters* (2023) - 2 citations
+  DOI: https://doi.org/10.1016/j.epsl.2023.118278
+- Trace element proxies in seamount olivine reveal the ‘missing pyroxenite’ and refertilized peridotite mantle beneath the East Pacific Rise *Earth and Planetary Science Letters* (2026)
+  DOI: https://doi.org/10.1016/j.epsl.2025.119739
+
+Research Grants (from Dimensions.ai):
+- Collaborative Research: Developing New Models of Oceanic Magmatism and Source Heterogeneity Using the 8 degree 20' N Seamounts as Windows into the Sub-Ridge Mantle (2020-2023) - $256,396
+  Funder: Directorate for Geosciences
+- Early Career: Acquisition of a MC-ICP-MS for Research and Education in U-series Geochemistry and Applications in Geosciences (2017-2019) - $693,780
+  Funder: Directorate for Geosciences
+- MRI: Acquisition of a High Resolution Electron Probe Micro-Analyzer (2014-2017) - $904,540
+  Funder: Directorate for Mathematical & Physical Sciences
+- An integrated geochemical and geodynamical approach to the origin of off-axis melt production at a range of mid-ocean ridge settings (2012-2016) - $193,995
+  Funder: Directorate for Geosciences
+- Technical Support for a New ICP-MS Laboratory for Earth and Ocean Science Research at the University of Florida (2004-2009) - $217,901
+  Funder: Directorate for Geosciences
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3703 Geochemistry; 3705 Geology; 3706 Geophysics
+
+Key Research Concepts (from Dimensions.ai):
+East Pacific Rise; mid-ocean ridge basalts; mid-ocean ridges; Mid-Atlantic Ridge; magma chamber; platinum group elements; isotopic composition; isotope fractionation; ridge basalts; East Pacific Rise axis
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Chengdu University of Technology
+- University of Illinois at Urbana-Champaign
+- Woods Hole Oceanographic Institution
+- Australian National University
+- Boise State University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.5/10
+Percentile: Top 10% of Water Institute faculty
+Rankings by Research Category:
+- Geochemistry: #1 of 3
+- Geophysics: #1 of 2
+- Geology: #2 of 11

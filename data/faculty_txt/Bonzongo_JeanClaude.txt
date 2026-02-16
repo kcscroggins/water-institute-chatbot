@@ -33,3 +33,67 @@ Water & Policy Relevance:
 
 Keywords:
 Mercury; methylmercury; trace metals; biogeochemistry; environmental chemistry; contaminant fate; sediment-water interactions; bioaccumulation; aquatic systems; fish advisories; water quality; arsenic; lead; cadmium; artisanal mining; watershed contamination; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 68
+- Total Citations: 2483
+- H-Index: 22
+- Average Citations per Paper: 36.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.51 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Children's exposure to environmental lead: A review of potential sources, blood levels, and methods used to reduce exposure *Environmental Research* (2021) - 76 citations
+  DOI: https://doi.org/10.1016/j.envres.2021.112025
+- Use of Metallic Mercury in Artisanal Gold Mining by Amalgamation: A Review of Temporal and Spatial Trends and Environmental Pollution *Minerals* (2024) - 20 citations
+  DOI: https://doi.org/10.3390/min14060555
+- High-precision Pb isotopes of drinking water lead pipes: Implications for human exposure to industrial Pb in the United States *The Science of The Total Environment* (2023) - 11 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2023.162067
+- Using Regulatory Classifications to Assess the Impact of Different Land Use Types on Per- and Polyfluoroalkyl Substance Concentrations in Stormwater Pond Sediments *Journal of Environmental Engineering* (2021) - 11 citations
+  DOI: https://doi.org/10.1061/(asce)ee.1943-7870.0001906
+- Acute and Chronic Toxicity Testing of Drinking Water Treatment Residuals in Freshwater Systems *Environmental Toxicology and Chemistry* (2021) - 9 citations
+  DOI: https://doi.org/10.1002/etc.5061
+- Removal of type-A, type-B, and borderline metals from contaminated soils using zero valent iron and magnetic separation technology: A predictive approach for metal resources recovery *Chemosphere* (2021) - 9 citations
+  DOI: https://doi.org/10.1016/j.chemosphere.2021.129980
+- The diversity of aluminum-based drinking water treatment residuals for use in environmental remediation *Environmental Science Water Research & Technology* (2023) - 7 citations
+  DOI: https://doi.org/10.1039/d2ew00387b
+- Effects of simulated acid rain and carbon-rich water on mercury mobilization in soils amended with aluminum-based drinking water treatment residuals *Soil & Environmental Health* (2023) - 5 citations
+  DOI: https://doi.org/10.1016/j.seh.2023.100020
+- Assessing presence of per- and polyfluoroalkyl substances (PFAS) in the Indian River Lagoon: A Bayesian approach to understanding the impact of environmental stressors *Chemosphere* (2025) - 1 citations
+  DOI: https://doi.org/10.1016/j.chemosphere.2025.144287
+- Drinking water treatment residuals reduce toxicity to fish from metal-contaminated sediments. *Environmental Toxicology and Chemistry* (2025) - 1 citations
+  DOI: https://doi.org/10.1093/etojnl/vgae079
+
+Research Grants (from Dimensions.ai):
+- Drinking Water Treatment Residuals as Material for In Situ Capping of Metal Contaminated Sediments (2018-present)
+  Funder: Office of the Secretary of Defense
+- Rational Design of High-Purity Carbon Nanotube Dispersions Through Acute and Full Life-CycleToxicity Studies (2009-2013) - $350,001
+  Funder: Directorate for Engineering
+- Integrating Nanotechnology and its Environmental and Health Implications to Undergraduate Engineering Education (2007-2010) - $150,000
+  Funder: Directorate for STEM Education
+- Assessment of the Environmental Impacts of Nanotechnology on Organisms and Ecosystems (2005-2008) - $375,000
+  Funder: Environmental Protection Agency
+- Social Impact Assessment of Human Exposure to Mercury Related to Land Use and Physicochemical Settings in the Alabama-Mobile River System (1998-2001) - $804,534
+  Funder: Environmental Protection Agency
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 4105 Pollution and Contamination; 4104 Environmental Management; 37 Earth Sciences; 40 Engineering
+
+Key Research Concepts (from Dimensions.ai):
+drinking water treatment residuals; water treatment residuals; treatment residuals; human health; polyfluoroalkyl substances; metal-contaminated sediments; human exposure; pollutants of concern; blood lead levels; source of contamination
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Northwestern University
+- Engineering School of Sustainable Infrastructure and Environment, Department of Environmental Engineering Sciences, P.O. Box 116450, USA.
+- Cornwell Research Group, Newport News, Virginia, USA
+- Cornwell Engineering Group, 712 Gum Rock Ct, Newport News, VA, 23606, USA
+- Cornwell Engineering Group, 712 Gum Rock Ct, Newport News, VA 23606, USA.
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.8/10
+Percentile: Top 23% of Water Institute faculty
+Rankings by Research Category:
+- Pollution and Contamination: #7 of 13
+- Environmental Management: #12 of 46
+- Engineering: #15 of 53

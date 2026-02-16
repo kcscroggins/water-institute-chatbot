@@ -22,3 +22,55 @@ Notable Achievements:
 
 Keywords:
 Soil and environmental chemistry; phosphorus dynamics; Everglades restoration; Best Management Practices; organic soils; water quality; floating aquatic vegetation management.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 58
+- Total Citations: 2569
+- H-Index: 18
+- Average Citations per Paper: 44.3
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.24 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Ammonia-oxidizing archaea are integral to nitrogen cycling in a highly fertile agricultural soil *ISME Communications* (2021) - 99 citations
+  DOI: https://doi.org/10.1038/s43705-021-00020-4
+- Soil carbon characterization in a subtropical drained peatland *Geoderma* (2021) - 20 citations
+  DOI: https://doi.org/10.1016/j.geoderma.2020.114758
+- Nitrogen and phosphorous acquisition strategies drive coexistence patterns among archaeal lineages in soil *The ISME Journal: Multidisciplinary Journal of Microbial Ecology* (2023) - 17 citations
+  DOI: https://doi.org/10.1038/s41396-023-01493-y
+- Yuck! Plural Valuation of Constructed Wetland Maintenance for Decentralized Wastewater Treatment in Rural India *Frontiers in Sustainable Food Systems* (2021) - 13 citations
+  DOI: https://doi.org/10.3389/fsufs.2020.564539
+- Water management effect on soil oxidation, greenhouse gas emissions, and nitrogen leaching in drained peat soils *Soil Science Society of America Journal* (2021) - 12 citations
+  DOI: https://doi.org/10.1002/saj2.20247
+- Low levels of arsenic and cadmium in rice grown in southern Florida Histosols - Impacts of water management and soil thickness *The Science of The Total Environment* (2023) - 10 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2023.161712
+- A 360° perspective of women in soil science focused on the U.S *Frontiers in Soil Science* (2023) - 9 citations
+  DOI: https://doi.org/10.3389/fsoil.2023.1072758
+- Changes in nitrogen and phosphorus within a decade in waters along a major canal and estuary in South Florida *Journal of Environmental Quality* (2022) - 6 citations
+  DOI: https://doi.org/10.1002/jeq2.20386
+- Evaluating Growth, Biomass and Cannabinoid Profiles of Floral Hemp Varieties under Different Planting Dates in Organic Soils of Florida *Agronomy* (2022) - 5 citations
+  DOI: https://doi.org/10.3390/agronomy12112845
+- Communicating the use of artificial intelligence in agricultural and environmental research *Agricultural and Environmental Letters* (2024) - 2 citations
+  DOI: https://doi.org/10.1002/ael2.20144
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3004 Crop and Pasture Production; 41 Environmental Sciences; 3002 Agriculture, Land and Farm Management; 4106 Soil Sciences
+
+Key Research Concepts (from Dimensions.ai):
+Everglades Agricultural Area; organic soils; soil water repellency; ammonia-oxidizing archaea; fertile agricultural soils; ammonia-oxidizing bacteria; agricultural soils; nitrogen cycle; O-alkyl C; total carbon
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Nebraska–Lincoln
+- Institute of Food and Agricultural Sciences
+- The Pennsylvania State University
+- Alliance of Crop, Soil, and Environmental Science Societies
+- International Crops Research Institute for the Semi-Arid Tropics
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.5/10
+Percentile: Top 29% of Water Institute faculty
+Rankings by Research Category:
+- Soil Sciences: #4 of 14
+- Agriculture, Land and Farm Management: #12 of 24
+- Crop and Pasture Production: #24 of 41

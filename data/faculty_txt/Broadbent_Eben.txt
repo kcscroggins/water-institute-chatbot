@@ -38,3 +38,61 @@ Climate & Policy Relevance:
 
 Keywords:
 Forest ecology; remote sensing; Landsat; LiDAR; land-use change; deforestation; forest disturbance; forest recovery; carbon dynamics; tropical forests; Amazon; REDD+; carbon accounting; landscape ecology; secondary forests; climate mitigation; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 108
+- Total Citations: 4890
+- H-Index: 37
+- Average Citations per Paper: 45.3
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 29.56 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Multidimensional tropical forest recovery *Science* (2021) - 384 citations
+  DOI: https://doi.org/10.1126/science.abh3629
+- Integrated global assessment of the natural forest carbon potential *Nature* (2023) - 343 citations
+  DOI: https://doi.org/10.1038/s41586-023-06723-z
+- The number of tree species on Earth *Proceedings of the National Academy of Sciences of the United States of America* (2022) - 202 citations
+  DOI: https://doi.org/10.1073/pnas.2115329119
+- UAV-Supported Forest Regeneration: Current Trends, Challenges and Implications *Remote Sensing* (2021) - 155 citations
+  DOI: https://doi.org/10.3390/rs13132596
+- Amazon forests capture high levels of atmospheric mercury pollution from artisanal gold mining *Nature Communications* (2022) - 149 citations
+  DOI: https://doi.org/10.1038/s41467-022-27997-3
+- Monitoring restored tropical forest diversity and structure through UAV-borne hyperspectral and lidar fusion *Remote Sensing of Environment* (2021) - 149 citations
+  DOI: https://doi.org/10.1016/j.rse.2021.112582
+- Co-limitation towards lower latitudes shapes global forest diversity gradients *Nature Ecology & Evolution* (2022) - 107 citations
+  DOI: https://doi.org/10.1038/s41559-022-01831-x
+- Native diversity buffers against severity of non-native tree invasions *Nature* (2023) - 83 citations
+  DOI: https://doi.org/10.1038/s41586-023-06440-7
+- Agricultural land use changes stream dissolved organic matter via altering soil inputs to streams *The Science of The Total Environment* (2021) - 78 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2021.148968
+- Ecotourism and mangrove conservation in Southeast Asia: Current trends and perspectives *Journal of Environmental Management* (2024) - 67 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2024.121529
+
+Research Grants (from Dimensions.ai):
+- MRA: Resolving the multi-scale drivers of tree mortality from field and remote sensing data on co-located ForestGEO-NEON sites (2021-2026) - $1,005,822
+  Funder: Directorate for Biological Sciences
+- Developing a multi-platform multi-sensor framework for monitoring forest productivity, chemistry and water stress (2017-2022)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 31 Biological Sciences; 3103 Ecology; 4102 Ecological Applications; 37 Earth Sciences
+
+Key Research Concepts (from Dimensions.ai):
+tropical forests; tree species richness; unmanned aerial vehicles; individual tree detection; tree regeneration; old-growth values; species diversity; species composition; forest attributes; sustainable management
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Wageningen University & Research
+- ETH Zurich
+- Universidade de São Paulo
+- Purdue University West Lafayette
+- Duke University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 3.9/10
+Percentile: Top 5% of Water Institute faculty
+Rankings by Research Category:
+- Ecology: #2 of 59
+- Ecological Applications: #3 of 32
+- Earth Sciences: #6 of 70

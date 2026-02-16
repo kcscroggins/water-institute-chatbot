@@ -1,0 +1,59 @@
+Name: Miles Medina
+Role: Research Scientist
+Academic Unit: 
+Office: 
+Phone: 
+Email: miles.medina@ufl.edu
+Website: 
+Google Scholar: https://scholar.google.com/citations?user=p2OahHwAAAAJ&hl=en
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 11
+- Total Citations: 196
+- H-Index: 7
+- Average Citations per Paper: 17.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 10.95 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Nitrogen-enriched discharges from a highly managed watershed intensify red tide (Karenia brevis) blooms in southwest Florida *The Science of The Total Environment* (2022) - 68 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2022.154149
+- Initial estuarine response to inorganic nutrient inputs from a legacy mining facility adjacent to Tampa Bay, Florida *Marine Pollution Bulletin* (2022) - 33 citations
+  DOI: https://doi.org/10.1016/j.marpolbul.2022.113598
+- A Hierarchical Spatial Transformer for Massive Point Samples in Continuous Space. *Advances in neural information processing systems* (2023) - 7 citations
+- Fusing remote sensing data with spatiotemporal in situ samples for red tide (Karenia brevis) detection *Integrated Environmental Assessment and Management* (2024) - 7 citations
+  DOI: https://doi.org/10.1002/ieam.4908
+- An early-warning forecast model for red tide (Karenia brevis) blooms on the southwest coast of Florida *Harmful Algae* (2024) - 6 citations
+  DOI: https://doi.org/10.1016/j.hal.2024.102729
+- An empirical nonlinear dynamics approach to analyzing emergent behavior of agent-based models *AIP Advances* (2021) - 3 citations
+  DOI: https://doi.org/10.1063/5.0023116
+- Corrigendum to “An early-warning forecast model for red tide (Karenia brevis) blooms on the southwest coast of Florida.” Harmful Algae 139 (2024) 102729 *Harmful Algae* (2025)
+  DOI: https://doi.org/10.1016/j.hal.2025.102866
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 31 Biological Sciences; 37 Earth Sciences; 3103 Ecology; 30 Agricultural, Veterinary and Food Sciences
+
+Key Research Concepts (from Dimensions.ai):
+in-situ sample data; red tides; southwest coast; coastal blooms; K. brevis blooms; river discharge; Gulf Coast; metric tons; nitrogen loading; mining facilities
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Tampa Bay Estuary Program
+- University of South Florida St. Petersburg
+- Everglades Foundation
+- Florida Fish and Wildlife Conservation Commission
+- ECCO Scientific, LLC, St. Petersburg, Florida, USA. Electronic address: research@eccoscientific.com.

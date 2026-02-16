@@ -57,3 +57,61 @@ Metrics:
 
 Keywords:
 Water Institute affiliate; fisheries economics; aquaculture economics; seafood markets; seafood trade; market integration; price transmission; salmon aquaculture; eco-labeling; sustainability; food security; natural resource economics; Florida Sea Grant; global food systems
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 151
+- Total Citations: 6777
+- H-Index: 43
+- Average Citations per Paper: 44.9
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 33.8 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Emerging COVID-19 impacts, responses, and lessons for building resilience in the seafood system *Global Food Security* (2021) - 242 citations
+  DOI: https://doi.org/10.1016/j.gfs.2021.100494
+- Aquaculture: The missing contributor in the food security agenda *Global Food Security* (2022) - 206 citations
+  DOI: https://doi.org/10.1016/j.gfs.2022.100620
+- Environmental, economic, and social sustainability in aquaculture: the aquaculture performance indicators *Nature Communications* (2024) - 142 citations
+  DOI: https://doi.org/10.1038/s41467-024-49556-8
+- Innovation in the Norwegian aquaculture industry *Reviews in Aquaculture* (2022) - 112 citations
+  DOI: https://doi.org/10.1111/raq.12755
+- China’s seafood imports—Not for domestic consumption? *Science* (2022) - 95 citations
+  DOI: https://doi.org/10.1126/science.abl4756
+- WTO must ban harmful fisheries subsidies *Science* (2021) - 75 citations
+  DOI: https://doi.org/10.1126/science.abm1680
+- Technological innovations promoting sustainable salmon (Salmo salar) aquaculture in Norway *Aquaculture Reports* (2022) - 74 citations
+  DOI: https://doi.org/10.1016/j.aqrep.2022.101115
+- Production growth, company size, and concentration: The case of salmon *Aquaculture* (2023) - 69 citations
+  DOI: https://doi.org/10.1016/j.aquaculture.2023.739972
+- Affordability influences nutritional quality of seafood consumption among income and race/ethnicity groups in the United States *American Journal of Clinical Nutrition* (2022) - 60 citations
+  DOI: https://doi.org/10.1093/ajcn/nqac099
+- The value of responsibly farmed fish: A hedonic price study of ASC-certified whitefish *Ecological Economics* (2021) - 59 citations
+  DOI: https://doi.org/10.1016/j.ecolecon.2021.107135
+
+Research Grants (from Dimensions.ai):
+- Economics of Risk in US Aquaculture Production and Markets (2020-2022) - $249,979
+  Funder: National Oceanic and Atmospheric Administration
+- Structural changes in fish and seafood markets (2018-2023)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3005 Fisheries Sciences; 4404 Development Studies; 44 Human Society; 41 Environmental Sciences
+
+Key Research Concepts (from Dimensions.ai):
+supply chain; aquaculture production; aquatic foods; seafood; seafood consumption; fresh seafood; seafood sector; small-scale actors; seafood systems; COVID-19 impact
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of British Columbia
+- Johns Hopkins University
+- University of Stavanger
+- University of Cape Coast
+- University of California, Santa Barbara
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 4.6/10
+Percentile: Top 2% of Water Institute faculty
+Rankings by Research Category:
+- Development Studies: #1 of 6
+- Fisheries Sciences: #1 of 12
+- Human Society: #2 of 27

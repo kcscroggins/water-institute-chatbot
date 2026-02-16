@@ -26,3 +26,59 @@ Water & Policy Relevance:
 
 Keywords:
 Forest ecology; disturbance ecology; invasive species; long-term change; ecosystem resilience; forest dynamics; land-use change; conservation; forest management; carbon storage; nutrient retention; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 38
+- Total Citations: 504
+- H-Index: 12
+- Average Citations per Paper: 13.3
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.17 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Global data on earthworm abundance, biomass, diversity and corresponding environmental properties *Scientific Data* (2021) - 64 citations
+  DOI: https://doi.org/10.1038/s41597-021-00912-z
+- Identifying invasive species threats, pathways, and impacts to improve biosecurity *Ecosphere* (2023) - 34 citations
+  DOI: https://doi.org/10.1002/ecs2.4711
+- Importance of plant diversity and structure for urban garden pest resistance *Landscape and Urban Planning* (2021) - 25 citations
+  DOI: https://doi.org/10.1016/j.landurbplan.2021.104211
+- Scanning the horizon for invasive plant threats using a data-driven approach *NeoBiota* (2022) - 22 citations
+  DOI: https://doi.org/10.3897/neobiota.74.83312
+- Cultivar blends: A strategy for creating more resilient warm season turfgrass lawns *Urban Ecosystems* (2022) - 16 citations
+  DOI: https://doi.org/10.1007/s11252-021-01195-3
+- Stormwater ponds: Unaccounted environmental challenges of a widely-adopted best management practice in urban landscapes *Journal of Environmental Management* (2025) - 5 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2025.124170
+- Standardized invasive species terminology for effective education of Floridians: FOR730/FR439, 8/2021 *EDIS* (2021) - 5 citations
+  DOI: https://doi.org/10.32473/edis-fr439-2021
+- Forest plant invasions in the eastern United States: evidence of invasion debt in the wildland-urban interface *Landscape Ecology* (2024) - 4 citations
+  DOI: https://doi.org/10.1007/s10980-024-01985-y
+- Divergence in diversity-area relationships between lawn and non-lawn plants in residential landscapes *Landscape Ecology* (2024) - 3 citations
+  DOI: https://doi.org/10.1007/s10980-024-01876-2
+- Landscape and Fruit Evaluation of Three Privet (Ligustrum sp.) Cultivars in Florida *Horticulturae* (2024) - 3 citations
+  DOI: https://doi.org/10.3390/horticulturae10010090
+
+Research Grants (from Dimensions.ai):
+- Informing sustainable and resilient land development through geospatial tools (2017-2022)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 4102 Ecological Applications; 31 Biological Sciences; 3103 Ecology; 4104 Environmental Management
+
+Key Research Concepts (from Dimensions.ai):
+stormwater ponds; wildland-urban interface; species richness; ecological benefits; native plants; urban landscape; St. Augustinegrass cultivars; drivers of biodiversity change; biomass of individual species; local-scale data
+
+Top Collaborating Institutions (from Dimensions.ai):
+- German Center for Integrative Biodiversity Research
+- North Carolina State University
+- Colorado State University Fort Collins
+- Southern Research Station
+- University of Central Florida
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.9/10
+Percentile: Top 54% of Water Institute faculty
+Rankings by Research Category:
+- Ecological Applications: #19 of 32
+- Environmental Management: #26 of 46
+- Ecology: #43 of 59

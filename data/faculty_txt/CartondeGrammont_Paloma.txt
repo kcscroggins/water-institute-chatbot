@@ -45,3 +45,32 @@ Representative Themes & Expertise:
 
 Keywords:
 Environmental geography; biodiversity conservation; endangered species; natural resource management; stakeholder engagement; facilitation; interdisciplinary research; conservation policy; IUCN Red List; harmful algal blooms; international collaboration; Latin America; Mexico; water resources.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 4
+- Total Citations: 18
+- H-Index: 3
+- Average Citations per Paper: 4.5
+- Open Access Publications: 100.0%
+
+Recent Publications (from Dimensions.ai):
+- Stakeholder-Informed Environmental-Economic Tradeoffs at the Farm and Forest Scale *SSRN Electronic Journal* (2025)
+  DOI: https://doi.org/10.2139/ssrn.5527371
+
+Research Categories (from Dimensions.ai):
+3707 Hydrology; 30 Agricultural, Veterinary and Food Sciences; 4104 Environmental Management; 37 Earth Sciences; 38 Economics
+
+Key Research Concepts (from Dimensions.ai):
+management practices; nitrate leaching; enterprise budgets; environmental impact; production systems
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Government of the United States of America
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.3/10
+Percentile: Top 82% of Water Institute faculty
+Rankings by Research Category:
+- Hydrology: #17 of 18
+- Economics: #23 of 24
+- Environmental Management: #39 of 46

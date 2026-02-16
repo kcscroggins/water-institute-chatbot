@@ -1,0 +1,66 @@
+Name: Elias Bassil
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: ebassil@ufl.edu
+Website: https://trec.ifas.ufl.edu/faculty/ebassil/
+Google Scholar: https://scholar.google.com/citations?user=judOokEAAAAJ&hl=en
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 20
+- Total Citations: 409
+- H-Index: 8
+- Average Citations per Paper: 20.4
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.17 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Genetic engineering and genome editing in plants, animals and humans: Facts and myths *Gene* (2022) - 16 citations
+  DOI: https://doi.org/10.1016/j.gene.2022.147141
+- Melatonin seed priming improves early establishment and water stress tolerance of peanut *Plant Physiology and Biochemistry* (2024) - 12 citations
+  DOI: https://doi.org/10.1016/j.plaphy.2024.108664
+- Spectral light distribution affects photosynthesis, leaf reflective indices, antioxidant activity and growth of Vanilla planifolia *Plant Physiology and Biochemistry* (2022) - 11 citations
+  DOI: https://doi.org/10.1016/j.plaphy.2022.04.020
+- Cultivating resilience: Use of water deficit to prime peanut production and improve water stress tolerance *Plant Stress* (2024) - 3 citations
+  DOI: https://doi.org/10.1016/j.stress.2024.100637
+- Agrobacterium-mediated transformation, selection and regeneration of Vanilla pompona *Plant Cell, Tissue and Organ Culture (PCTOC)* (2024) - 2 citations
+  DOI: https://doi.org/10.1007/s11240-024-02836-z
+- Cross‐Generational Effect of Water Deficit Priming on Physiology of Peanut Plants Under Water Stress *Journal of Agronomy and Crop Science* (2024) - 1 citations
+  DOI: https://doi.org/10.1111/jac.12736
+- Differences in physiological and biochemical responses to short-term flooding among the three avocado (Persea americana Mill.) races *Plant Physiology and Biochemistry* (2023) - 1 citations
+  DOI: https://doi.org/10.1016/j.plaphy.2023.02.032
+- Vanilla Cultivation in Southern Florida: HS1348, rev. 1/2023 *EDIS* (2023)
+  DOI: https://doi.org/10.32473/edis-hs1348-2023
+
+Research Grants (from Dimensions.ai):
+- Physiological and molecular mechanisms to improve abiotic stress tolerance of tropical and subtropical crops (2019-2024)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 3108 Plant Biology; 30 Agricultural, Veterinary and Food Sciences; 3004 Crop and Pasture Production; 3101 Biochemistry and Cell Biology
+
+Key Research Concepts (from Dimensions.ai):
+non-primed plants; water stress; GE organisms; genetic engineering; nutritional value; weed control; breeding plants; New Mexico Valencia A; seed priming; water stress tolerance
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Cyprus
+- University of Maine
+- Cyprus University of Technology
+- University of New Hampshire
+- University of Idaho

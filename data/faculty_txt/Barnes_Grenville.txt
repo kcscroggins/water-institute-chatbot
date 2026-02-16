@@ -32,3 +32,45 @@ Teaching:
 
 Keywords:
 Land administration; cadastral systems; GIS; geographic information systems; land tenure; property rights; participatory mapping; informal settlements; urbanization; land governance; land policy; geospatial governance; fit-for-purpose; social equity; World Bank; UN-Habitat; development; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 27
+- Total Citations: 665
+- H-Index: 15
+- Average Citations per Paper: 24.6
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.54 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Harnessing the NEON data revolution to advance open environmental science with a diverse and data‐capable community *Ecosphere* (2021) - 28 citations
+  DOI: https://doi.org/10.1002/ecs2.3833
+- Georeferencing oblique PhenoCam imagery *ISPRS Journal of Photogrammetry and Remote Sensing* (2022) - 5 citations
+  DOI: https://doi.org/10.1016/j.isprsjprs.2022.05.012
+
+Research Grants (from Dimensions.ai):
+- QnD – Designing a Participatory Scenario Modeling Tool to Integrate Technology, Ecology, and Sociology in Guatemala’s Maya Biosphere Reserve and Beyond (2006-2007) - $10,000
+  Funder: Environmental Protection Agency
+- Agents of Change: Infrastructure Change, Human Agency, and Resilience in Social-Ecological Systems (2005-2010) - $649,944
+  Funder: Directorate for Social, Behavioral & Economic Sciences
+
+Research Categories (from Dimensions.ai):
+4102 Ecological Applications; 41 Environmental Sciences; 37 Earth Sciences; 4013 Geomatic Engineering; 40 Engineering
+
+Key Research Concepts (from Dimensions.ai):
+NEON data; drivers of biodiversity; human-environmental systems; ecological communities; ecological measures; Moderate Imaging Spectrometer; PhenoCam data; in situ data; object space coordinates; object space accuracy
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Colorado Boulder
+- National Ecological Observatory Network
+- University of Arizona
+- Northern Arizona University
+- Metropolitan State University of Denver
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.1/10
+Percentile: Top 46% of Water Institute faculty
+Rankings by Research Category:
+- Geomatic Engineering: #4 of 9
+- Ecological Applications: #12 of 32
+- Engineering: #28 of 53

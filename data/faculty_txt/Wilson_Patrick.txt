@@ -27,3 +27,34 @@ Wilson's work provides the technical basis for water-quality regulations, BMP de
 
 Keywords:
 environmental engineering; water quality; nutrient transport; treatment wetlands; BMPs; best management practices; pollution control; agricultural runoff; Indian River Lagoon; coastal Florida; nitrogen; phosphorus; contaminant fate; groundwater; surface water
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 8
+- Total Citations: 97
+- H-Index: 4
+- Average Citations per Paper: 12.1
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 1.33 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Effects of drinking water treatment residual amendments to biosolids on plant uptake of per‐ and polyfluoroalkyl substances *Journal of Environmental Quality* (2023) - 6 citations
+  DOI: https://doi.org/10.1002/jeq2.20511
+- Influence of Pesticide Application Method, Timing, and Rate on Contamination of Nectar with Systemic and Nonsystemic Pesticides *Environmental Toxicology and Chemistry* (2024) - 4 citations
+  DOI: https://doi.org/10.1002/etc.5989
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 4105 Pollution and Contamination
+
+Key Research Concepts (from Dimensions.ai):
+drinking water treatment residuals; polyfluoroalkyl substances; perfluorobutanoic acid; plant uptake; solid by-products; contamination of nectar; application methods; systemic insecticide thiamethoxam; residues of clothianidin; ornamental plant production
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Purdue University West Lafayette
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.3/10
+Percentile: Top 82% of Water Institute faculty
+Rankings by Research Category:
+- Pollution and Contamination: #13 of 13
+- Environmental Sciences: #113 of 135

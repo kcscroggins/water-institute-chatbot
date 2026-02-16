@@ -28,3 +28,59 @@ Yu's work supports evidence-based agricultural management and sustainability by 
 
 Keywords:
 precision agriculture; agricultural engineering; sensing technologies; smart farming; data analytics; instrumentation; resource efficiency; crop management; decision support; field monitoring; sustainable agriculture; Florida agriculture
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 28
+- Total Citations: 141
+- H-Index: 6
+- Average Citations per Paper: 5.0
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.35 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Mapping the US Census Data Using the TIGER/Line Shapefiles *EDIS* (2021) - 12 citations
+  DOI: https://doi.org/10.32473/edis-ae557-2021
+- Development of climate-smart sorghum ideotype for climate resilience in Ethiopia *Field Crops Research* (2023) - 9 citations
+  DOI: https://doi.org/10.1016/j.fcr.2023.109135
+- Potato Farming in the United States and South Korea: Status Comparison of Cultivation Patterns and Agricultural Machinery Use *Journal of Biosystems Engineering* (2024) - 8 citations
+  DOI: https://doi.org/10.1007/s42853-024-00231-2
+- Abatement of Sewer Overflow Pollution Based on Distributed Optimal Control Approach *ACS ES&T Water* (2022) - 8 citations
+  DOI: https://doi.org/10.1021/acsestwater.2c00281
+- Interpreting the Trends of Extreme Precipitation in Florida through Pressure Change *Remote Sensing* (2022) - 8 citations
+  DOI: https://doi.org/10.3390/rs14061410
+- Artificial Intelligence (AI) for Crop Yield Forecasting: AE571/AE571, 4/2022 *EDIS* (2022) - 6 citations
+  DOI: https://doi.org/10.32473/edis-ae571-2022
+- Agriculture technology providers' perspectives of data rights and obligations in agriculture reflected by farm data value chain *Sustainable Futures* (2025) - 5 citations
+  DOI: https://doi.org/10.1016/j.sftr.2025.100585
+- Stochastic Downscaling of Hourly Precipitation Series From Climate Change Projections *Water Resources Research* (2022) - 5 citations
+  DOI: https://doi.org/10.1029/2022wr033140
+- Assessing the stability of indoor farming systems using data outlier detection *Frontiers in Plant Science* (2025) - 3 citations
+  DOI: https://doi.org/10.3389/fpls.2024.1270544
+- Impact of cross-validation designs on cattle behavior prediction using machine learning and deep learning models with tri-axial accelerometer data *bioRxiv* (2025) - 2 citations
+  DOI: https://doi.org/10.1101/2025.01.22.634181
+
+Research Grants (from Dimensions.ai):
+- Enhancing the intelligence and efficiency in smart agricultural systems using innovative big data analytics (2019-2024)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 30 Agricultural, Veterinary and Food Sciences; 3701 Atmospheric Sciences; 3004 Crop and Pasture Production; 3702 Climate Change Science
+
+Key Research Concepts (from Dimensions.ai):
+Department of Agriculture; artificial intelligence; pressure change events; global climate models; F1 score; cattle behavior; DL models; machine learning; deep learning; Florida
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Institute of Food and Agricultural Sciences
+- Kangwon National University
+- Tongji University
+- Columbia University
+- Agricultural and Biological Engineering Department, UF/IFAS Indian River Research and Education Center, Fort Pierce, FL, United States
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.5/10
+Percentile: Top 72% of Water Institute faculty
+Rankings by Research Category:
+- Climate Change Science: #4 of 5
+- Atmospheric Sciences: #14 of 17
+- Crop and Pasture Production: #39 of 41

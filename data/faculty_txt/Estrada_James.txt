@@ -26,3 +26,31 @@ Water & Policy Relevance:
 
 Keywords:
 Agronomy; soil fertility; nutrient management; nitrogen use efficiency; crop production; fertilizer management; agricultural BMPs; nitrogen leaching; groundwater protection; sustainable agriculture; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 4
+- Total Citations: 85
+- H-Index: 3
+- Average Citations per Paper: 21.2
+- Open Access Publications: 100.0%
+
+Recent Publications (from Dimensions.ai):
+- Primed to fail: Primed acclimation to water stress can lead to greater disease severity and reduced yields in Sclerotium rolfsii-inoculated cultivated peanut (Arachis hypogaea L.). *Annals of Botany* (2026)
+  DOI: https://doi.org/10.1093/aob/mcag013
+
+Research Categories (from Dimensions.ai):
+3108 Plant Biology; 31 Biological Sciences
+
+Key Research Concepts (from Dimensions.ai):
+secondary water stress; southern blight; abiotic stressors; water stress; well-watered
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Minnesota Twin Cities
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.3/10
+Percentile: Top 82% of Water Institute faculty
+Rankings by Research Category:
+- Plant Biology: #17 of 18
+- Biological Sciences: #102 of 118

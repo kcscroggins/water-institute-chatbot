@@ -27,3 +27,66 @@ Notable Publications:
 
 Keywords:
 Vegetable production; fruit production; strawberry; tomato; blueberry; blackberry; hops; hemp; bell pepper; cucurbits; pomegranate; artichoke; crop stress physiology; heat stress; irrigation efficiency; nutrient management; fertilization; protected agriculture; plant physiological adaptation; remote sensing; crop modeling; image-based diagnostics; resource conservation; abiotic stress.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 68
+- Total Citations: 384
+- H-Index: 12
+- Average Citations per Paper: 5.6
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.37 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Deep learning-based postharvest strawberry bruise detection under UV and incandescent light *Computers and Electronics in Agriculture* (2022) - 39 citations
+  DOI: https://doi.org/10.1016/j.compag.2022.107389
+- Hop (Humulus lupulus L.) phenology, growth, and yield under subtropical climatic conditions: Effects of cultivars and crop management *Australian Journal of Crop Science* (2021) - 23 citations
+  DOI: https://doi.org/10.21475/ajcs.21.15.05.p3192
+- Development and improvement of the CROPGRO-Strawberry model *Scientia Horticulturae* (2022) - 20 citations
+  DOI: https://doi.org/10.1016/j.scienta.2021.110538
+- Advanced canopy size estimation in strawberry production: a machine learning approach using YOLOv11 and SAM *Computers and Electronics in Agriculture* (2025) - 16 citations
+  DOI: https://doi.org/10.1016/j.compag.2025.110501
+- Improving Strawberry Yield Prediction by Integrating Ground-Based Canopy Images in Modeling Approaches *ISPRS International Journal of Geo-Information* (2021) - 15 citations
+  DOI: https://doi.org/10.3390/ijgi10040239
+- Chapter 2. Fertilizer Management for Vegetable Production in Florida: CV296, rev. 4/2021 *EDIS* (2021) - 14 citations
+  DOI: https://doi.org/10.32473/edis-cv296-2021
+- Chapter 2. Fertilizer Management for Vegetable Production in Florida: VPH ch. 2, CV296, rev. 6/2023 *EDIS* (2023) - 8 citations
+  DOI: https://doi.org/10.32473/edis-cv296-2023
+- Chapter 16. Strawberry Production: VPH ch. 16, CV134/HS736, rev. 6/2023 *EDIS* (2023) - 8 citations
+  DOI: https://doi.org/10.32473/edis-cv134-2023
+- Harvesting End-effector Design and Picking Control (2021) - 8 citations
+  DOI: https://doi.org/10.1109/ssci50451.2021.9659872
+- A Strawberry Cropping System Design for Florida to Improve Early Yield and Water Conservation and Its Economic Effect *HortTechnology* (2023) - 6 citations
+  DOI: https://doi.org/10.21273/horttech05171-23
+
+Research Grants (from Dimensions.ai):
+- Hormonal Control of Plant Stress Responses and Practical Application for Crop Stress Management (2016-2021)
+  Funder: National Institute of Food and Agriculture
+
+Patents (from Dimensions.ai):
+- REFLECTIVE-STRIPED MULCH AND METHODS OF USING (2021)
+- Mulch with reflective stripes and methods of use. (2021)
+- REFLECTIVE-STRIPED MULCH AND METHODS OF USING (2020) - 4 citations
+- REFLECTIVE-STRIPED MULCH AND METHODS OF USING (2020)
+- MULCH WITH REFLECTIVE STRIPES AND METHODS OF USE (2020)
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3004 Crop and Pasture Production; 3008 Horticultural Production; 40 Engineering; 48 Law and Legal Studies
+
+Key Research Concepts (from Dimensions.ai):
+chapter; vegetation; fertility management; vegetable production; Chapter 2; Handbook; plug transplants; Gulf Coast Research and Education Center; quality of strawberries; shelf life
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Institute of Food and Agricultural Sciences
+- University of Central Florida
+- Khulna University
+- Economic Development Corp
+- Université de Toulouse
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.9/10
+Percentile: Top 54% of Water Institute faculty
+Rankings by Research Category:
+- Law and Legal Studies: #1 of 5
+- Horticultural Production: #9 of 13
+- Engineering: #31 of 53

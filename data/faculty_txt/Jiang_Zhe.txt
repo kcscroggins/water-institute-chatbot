@@ -23,3 +23,67 @@ Notable Achievements:
 
 Keywords:
 Spatiotemporal data mining; deep learning; uncertainty quantification; Earth science applications; artificial intelligence; geospatial analysis; flood modeling.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 55
+- Total Citations: 526
+- H-Index: 12
+- Average Citations per Paper: 9.6
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 8.33 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- STDEN: Towards Physics-Guided Neural Networks for Traffic Flow Prediction *Proceedings of the AAAI Conference on Artificial Intelligence* (2022) - 99 citations
+  DOI: https://doi.org/10.1609/aaai.v36i4.20322
+- Traffic Flow Prediction Based on Spatiotemporal Potential Energy Fields *IEEE Transactions on Knowledge and Data Engineering* (2022) - 60 citations
+  DOI: https://doi.org/10.1109/tkde.2022.3221183
+- Extensibility of U-Net Neural Network Model for Hydrographic Feature Extraction and Implications for Hydrologic Modeling *Remote Sensing* (2021) - 30 citations
+  DOI: https://doi.org/10.3390/rs13122368
+- Morphological profiling for drug discovery in the era of deep learning *Briefings in Bioinformatics* (2024) - 27 citations
+  DOI: https://doi.org/10.1093/bib/bbae284
+- Community Asset Mapping in Public Health: A Review of Applications and Approaches *Social Work in Public Health* (2022) - 27 citations
+  DOI: https://doi.org/10.1080/19371918.2022.2114568
+- Unsupervised Adversarial Network Alignment with Reinforcement Learning *ACM Transactions on Knowledge Discovery from Data* (2021) - 20 citations
+  DOI: https://doi.org/10.1145/3477050
+- Large-Scale River Mapping Using Contrastive Learning and Multi-Source Satellite Imagery *Remote Sensing* (2021) - 19 citations
+  DOI: https://doi.org/10.3390/rs13152893
+- Maximal Directed Quasi -Clique Mining (2022) - 18 citations
+  DOI: https://doi.org/10.1109/icde53745.2022.00188
+- Fairness by “Where”: A Statistically-Robust and Model-Agnostic Bi-level Learning Framework *Proceedings of the AAAI Conference on Artificial Intelligence* (2022) - 17 citations
+  DOI: https://doi.org/10.1609/aaai.v36i11.21481
+- Weakly Supervised Spatial Deep Learning for Earth Image Segmentation Based on Imperfect Polyline Labels *ACM Transactions on Intelligent Systems and Technology* (2022) - 17 citations
+  DOI: https://doi.org/10.1145/3480970
+
+Research Grants (from Dimensions.ai):
+- Elements: A GeoAI Toolset for Identifying Locations and Drivers of Pond Collapse in Salt Marshes from High-Resolution Earth Imagery (2024-2027) - $599,999
+  Funder: Directorate for Computer & Information Science & Engineering
+- Collaborative Research: OAC Core: Learning AI Surrogate of Large-Scale Spatiotemporal Simulations for Coastal Circulation (2024-2027) - $420,000
+  Funder: Directorate for Computer & Information Science & Engineering
+- CRII: III: Disciplinary Knowledge Guided Big Spatial Structured Models for Geoscience Applications (2021-2022) - $175,000
+  Funder: Directorate for Computer & Information Science & Engineering
+- Collaborative Research: OAC CORE: Large-Scale Spatial Machine Learning for 3D Surface Topology in Hydrological Applications (2021-2026) - $277,161
+  Funder: Directorate for Computer & Information Science & Engineering
+- III: Small: Spatial Deep Learning from Imperfect Volunteered Geographic Information (2021-2026) - $500,000
+  Funder: Directorate for Computer & Information Science & Engineering
+
+Research Categories (from Dimensions.ai):
+46 Information and Computing Sciences; 4611 Machine Learning; 40 Engineering; 35 Commerce, Management, Tourism and Services; 3509 Transportation, Logistics and Supply Chains
+
+Key Research Concepts (from Dimensions.ai):
+training labels; neural network; deep learning; machine learning; learning framework; convolutional neural network; graph neural networks; traffic flow prediction model; technology of intelligent transportation systems; core technologies of intelligent transportation systems
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Alabama at Birmingham
+- Auburn University
+- University of Alabama
+- Beihang University
+- University of Maryland, College Park
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.2/10
+Percentile: Top 40% of Water Institute faculty
+Rankings by Research Category:
+- Machine Learning: #1 of 1
+- Transportation, Logistics and Supply Chains: #1 of 1
+- Commerce, Management, Tourism and Services: #3 of 13

@@ -31,3 +31,55 @@ Awards:
 
 Keywords:
 Water Institute affiliate; Food and Resource Economics; fisheries economics; aquaculture economics; seafood markets; international trade; natural resource economics; sustainable food systems; economic modeling; marine resources; World Bank; sustainability indicators
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 36
+- Total Citations: 2239
+- H-Index: 22
+- Average Citations per Paper: 62.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 12.73 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Environmental, economic, and social sustainability in aquaculture: the aquaculture performance indicators *Nature Communications* (2024) - 142 citations
+  DOI: https://doi.org/10.1038/s41467-024-49556-8
+- China’s seafood imports—Not for domestic consumption? *Science* (2022) - 95 citations
+  DOI: https://doi.org/10.1126/science.abl4756
+- An Overview of Retail Sales of Seafood in the USA, 2017–2019 *Reviews in Fisheries Science & Aquaculture* (2021) - 57 citations
+  DOI: https://doi.org/10.1080/23308249.2021.1946481
+- Global insights on managing fishery systems for the three pillars of sustainability *Fish and Fisheries* (2022) - 45 citations
+  DOI: https://doi.org/10.1111/faf.12660
+- Global and Regional Determinants of Diversity in Blue Foods *Reviews in Fisheries Science & Aquaculture* (2023) - 39 citations
+  DOI: https://doi.org/10.1080/23308249.2023.2225627
+- Renewable energy in fisheries and aquaculture: Case studies from the United States *Journal of Cleaner Production* (2022) - 37 citations
+  DOI: https://doi.org/10.1016/j.jclepro.2022.134153
+- Risks shift along seafood supply chains *Global Food Security* (2021) - 34 citations
+  DOI: https://doi.org/10.1016/j.gfs.2020.100476
+- Market incentives for shark fisheries *Marine Policy* (2022) - 33 citations
+  DOI: https://doi.org/10.1016/j.marpol.2022.105031
+- Aquatic food loss and waste rate in the United States is half of earlier estimates *Nature Food* (2023) - 31 citations
+  DOI: https://doi.org/10.1038/s43016-023-00881-z
+- Consumers’ willingness to pay for information transparency at casual and fine dining restaurants *International Journal of Hospitality Management* (2022) - 26 citations
+  DOI: https://doi.org/10.1016/j.ijhm.2021.103104
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 4104 Environmental Management; 30 Agricultural, Veterinary and Food Sciences; 3005 Fisheries Sciences; 38 Economics
+
+Key Research Concepts (from Dimensions.ai):
+aquaculture; seafood; dining restaurants; Fishery Performance Indicators; aquaculture systems; fisheries management; pillars of sustainability; supply chain; United States; information transparency
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Johns Hopkins University
+- University of Stavanger
+- Auburn University
+- University of Gothenburg
+- World Bank
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.1/10
+Percentile: Top 16% of Water Institute faculty
+Rankings by Research Category:
+- Economics: #2 of 24
+- Fisheries Sciences: #3 of 12
+- Environmental Management: #6 of 46

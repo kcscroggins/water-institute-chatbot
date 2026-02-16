@@ -13,3 +13,38 @@ Dr. Najibi specializes in enhancing climate risk assessments and disaster resili
 
 Keywords:
 Hydroclimate systems analysis; natural hazards and disaster resilience; climate adaptation and sustainability; infrastructure planning and management; stochastic decision-making under uncertainty; systems resilience.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 2
+- Total Citations: 1
+- H-Index: 1
+- Average Citations per Paper: 0.5
+- Open Access Publications: 100.0%
+
+Recent Publications (from Dimensions.ai):
+- Shifting Patterns in the Weather Regimes That Drive Regional Drought: Demonstration for South Africa *International Journal of Climatology* (2025) - 1 citations
+  DOI: https://doi.org/10.1002/joc.8866
+- Uncertainty in estimating the relative change of design floods under climate change: a stylized experiment with process-based, deep learning, and hybrid models *Journal of Hydrology* (2026)
+  DOI: https://doi.org/10.1016/j.jhydrol.2025.134427
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3701 Atmospheric Sciences; 3708 Oceanography; 3707 Hydrology
+
+Key Research Concepts (from Dimensions.ai):
+atmospheric circulation patterns; general circulation model; weather regimes; circulation patterns; hydroclimatic extremes; precipitation errors; hydrological model; design flood; flood changes; change estimates
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Cincinnati
+- Cornell University
+- US Army Corps of Engineers
+- Stellenbosch University
+- United Nations Educational, Scientific and Cultural Organization
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.1/10
+Percentile: Top 97% of Water Institute faculty
+Rankings by Research Category:
+- Oceanography: #7 of 8
+- Atmospheric Sciences: #17 of 17
+- Hydrology: #18 of 18

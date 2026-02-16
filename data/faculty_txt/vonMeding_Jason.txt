@@ -28,4 +28,60 @@ Representative Themes & Expertise:
 - Built/Land-Use Systems, Urban Risk, Climate Adaptation  
 
 Keywords:  
-Disaster resilience; built environment; governance; social justice; land-use change; community-based adaptation; construction management; risk reduction; spatial justice; built-environment disasters.  
+Disaster resilience; built environment; governance; social justice; land-use change; community-based adaptation; construction management; risk reduction; spatial justice; built-environment disasters.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 43
+- Total Citations: 959
+- H-Index: 16
+- Average Citations per Paper: 22.3
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 10.53 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Flood risk assessment using deep learning integrated with multi-criteria decision analysis *Knowledge-Based Systems* (2021) - 143 citations
+  DOI: https://doi.org/10.1016/j.knosys.2021.106899
+- Can deep learning algorithms outperform benchmark machine learning algorithms in flood susceptibility modeling? *Journal of Hydrology* (2021) - 124 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2020.125615
+- What We Measure Matters: The Case of the Missing Development Data in Sendai Framework for Disaster Risk Reduction Monitoring *International Journal of Disaster Risk Science* (2021) - 40 citations
+  DOI: https://doi.org/10.1007/s13753-021-00382-2
+- Psycholinguistics and emergency communication: A qualitative descriptive study *International Journal of Disaster Risk Reduction* (2021) - 25 citations
+  DOI: https://doi.org/10.1016/j.ijdrr.2021.102061
+- From labelling weakness to liberatory praxis: a new theory of vulnerability for disaster studies *Disaster Prevention and Management An International Journal* (2023) - 24 citations
+  DOI: https://doi.org/10.1108/dpm-10-2022-0208
+- Landslide susceptibility prediction mapping with advanced ensemble models: Son La province, Vietnam *Natural Hazards* (2022) - 20 citations
+  DOI: https://doi.org/10.1007/s11069-022-05764-3
+- Standardised indicators for “resilient cities”: the folly of devising a technical solution to a political problem *International Journal of Disaster Resilience in the Built Environment* (2023) - 18 citations
+  DOI: https://doi.org/10.1108/ijdrbe-10-2022-0099
+- Evaluating the mental health of international students in the U.S. during the COVID-19 outbreak: The case of University of Florida *Journal of American College Health* (2023) - 17 citations
+  DOI: https://doi.org/10.1080/07448481.2023.2168547
+- Integrating international linguistic minorities in emergency planning at institutions of higher education *Natural Hazards* (2021) - 16 citations
+  DOI: https://doi.org/10.1007/s11069-021-04859-7
+- Traditional water knowledge: challenges and opportunities to build resilience to urban floods *International Journal of Disaster Resilience in the Built Environment* (2021) - 15 citations
+  DOI: https://doi.org/10.1108/ijdrbe-08-2020-0091
+
+Research Grants (from Dimensions.ai):
+- Belmont Forum Collaborative Research: Community-Centered Modeling of Housing Related Health Disparities (2025-2028) - $883,247
+  Funder: Directorate for Geosciences
+
+Research Categories (from Dimensions.ai):
+44 Human Society; 37 Earth Sciences; 46 Information and Computing Sciences; 3709 Physical Geography and Environmental Geoscience; 4406 Human Geography
+
+Key Research Concepts (from Dimensions.ai):
+higher education; disaster risk reduction; disaster risk creation; neoliberal state; institutions of higher education; flood risk assessment; flood-prone areas; deep neural networks; multi-criteria decision analysis; flood risk assessment map
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Loughborough University
+- Hanoi University
+- University of Transport Technology
+- Vietnam Academy of Science and Technology
+- The University of Texas at El Paso
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.5/10
+Percentile: Top 29% of Water Institute faculty
+Rankings by Research Category:
+- Human Geography: #1 of 6
+- Human Society: #3 of 27
+- Physical Geography and Environmental Geoscience: #4 of 11

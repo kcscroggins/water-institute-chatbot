@@ -21,3 +21,43 @@ Affiliate Faculty: Department of Geography, Tropical Conservation & Development 
 
 Keywords:
 Geography; geospatial analysis; environmental and economic research; natural resource management; land use policy; international development; Africa.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 6
+- Total Citations: 80
+- H-Index: 4
+- Average Citations per Paper: 13.3
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 8.68 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Sustainable futures in agricultural heritage: Geospatial exploration and predicting groundwater-level variations in Barind tract of Bangladesh *The Science of The Total Environment* (2022) - 47 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2022.161297
+- Navigating STEMification for critical geography educators: finding leverage in classroom and institutional pedagogies *Journal of Geography in Higher Education* (2023) - 4 citations
+  DOI: https://doi.org/10.1080/03098265.2023.2261863
+- Does Local Context Matter for Case-Based Environmental Education? *Case Studies in the Environment* (2025)
+  DOI: https://doi.org/10.1525/cse.2025.2483291
+- 849: VALIDITY EVIDENCE FOR A CVC INSERTION COMPETENCY CHECKLIST FOR PEDIATRIC CRITICAL CARE FELLOWS *Critical Care Medicine* (2022)
+  DOI: https://doi.org/10.1097/01.ccm.0000909124.97392.9c
+
+Research Categories (from Dimensions.ai):
+3903 Education Systems; 3904 Specialist Studies In Education; 39 Education; 3707 Hydrology; 37 Earth Sciences
+
+Key Research Concepts (from Dimensions.ai):
+Barind Tract of Bangladesh; groundwater level; Barind Tract; critical zone; groundwater-level variations; geography education; limitations of problem-based learning; problem-based learning; hierarchies of knowledge; pedagogical practices
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Rajshahi University of Engineering and Technology
+- University of Waterloo
+- Michigan Technological University
+- Children's Hospital of Philadelphia
+- Western Sydney University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.6/10
+Percentile: Top 67% of Water Institute faculty
+Rankings by Research Category:
+- Specialist Studies In Education: #1 of 2
+- Education Systems: #2 of 3
+- Education: #4 of 9

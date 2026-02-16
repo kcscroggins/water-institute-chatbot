@@ -16,3 +16,33 @@ Dr. De Hoe's research centers on dynamic networks, polyesters, and biodegradatio
 
 Keywords:
 Polymeric materials; dynamic networks; polyester chemistry; biodegradation; biodegradable polymers; sustainable materials.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 1
+- Total Citations: 9
+- H-Index: 1
+- Average Citations per Paper: 9.0
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.8 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Antioxidant-Containing Polymeric Additives for Improved Mechanical Recycling of PET *Macromolecules* (2024) - 9 citations
+  DOI: https://doi.org/10.1021/acs.macromol.4c01311
+
+Research Categories (from Dimensions.ai):
+3403 Macromolecular and Materials Chemistry; 40 Engineering; 34 Chemical Sciences
+
+Key Research Concepts (from Dimensions.ai):
+poly(ethylene terephthalate); chain extender; polymeric antioxidants; polymeric additives; molar mass
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Manchester
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.2/10
+Percentile: Top 89% of Water Institute faculty
+Rankings by Research Category:
+- Macromolecular and Materials Chemistry: #4 of 4
+- Chemical Sciences: #8 of 10
+- Engineering: #48 of 53

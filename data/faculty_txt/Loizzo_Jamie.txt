@@ -23,3 +23,61 @@ Recognition:
 
 Keywords:
 Science communication; technology integration; learning design; agricultural communication; digital media production; science literacy; mobile learning; participatory research.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 25
+- Total Citations: 38
+- H-Index: 4
+- Average Citations per Paper: 1.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.12 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Rocks Really Rock: electronic field trips via Web Google Earth can generate positive impacts in attitudes toward Earth sciences in middle- and high-school students *Geoscience Communication* (2024) - 6 citations
+  DOI: https://doi.org/10.5194/gc-7-101-2024
+- Conservation conversation: an arts-based approach to examine impacts of a live video webcast on youth viewers’ conceptualizations of forest ecosystems *Applied Environmental Education & Communication* (2022) - 4 citations
+  DOI: https://doi.org/10.1080/1533015x.2022.2034554
+- Community engagement in coral reef restoration in the Seaflower MPA, Colombia *Restoration Ecology* (2024) - 3 citations
+  DOI: https://doi.org/10.1111/rec.14268
+- Resisting coloniality in agriculture: A decolonial analysis of Florida’s agricultural migrant workers’ experiences *Agriculture and Human Values* (2024) - 2 citations
+  DOI: https://doi.org/10.1007/s10460-024-10578-z
+- Scientists’ side of the microphone: An examination of agricultural and natural resources podcast guests’ experiences *Advancements in Agricultural Development* (2024) - 2 citations
+  DOI: https://doi.org/10.37433/aad.v5i3.421
+- Streaming Science #4: Using Podcasts for Engagement with your Target Audience *EDIS* (2023) - 2 citations
+  DOI: https://doi.org/10.32473/edis-wc432-2023
+- Social media split testing and message framing: Emerging capacities to encourage residential water conservation *Applied Environmental Education & Communication* (2021) - 2 citations
+  DOI: https://doi.org/10.1080/1533015x.2021.1887779
+- Patients’ Perceptions of Cannabis Contamination in Florida’s Medical Program *Medical Cannabis and Cannabinoids* (2024) - 1 citations
+  DOI: https://doi.org/10.1159/000542929
+- A survey of listeners' perceptions of an extension-produced invasive plant podcast *Advancements in Agricultural Development* (2024) - 1 citations
+  DOI: https://doi.org/10.37433/aad.v5i3.457
+- Streaming Science #3: Using Scientist Online Electronic Field Trips for Engagement with Your Target Audience: AEC763/WC424, 12/2022 *EDIS* (2022) - 1 citations
+  DOI: https://doi.org/10.32473/edis-wc424-2022
+
+Research Grants (from Dimensions.ai):
+- Collaborative Research: PurSUiT: Aquatic nematodes of the Nebraska Sandhills: Accelerating taxonomic discovery through experiential learning (2024-2027) - $447,887
+  Funder: Directorate for Biological Sciences
+- Streaming Science: Electronic Field Trips (2019-2024)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+4701 Communication and Media Studies; 47 Language, Communication and Culture; 41 Environmental Sciences; 46 Information and Computing Sciences; 39 Education
+
+Key Research Concepts (from Dimensions.ai):
+target audience; mobile hardware; audience; science communication; adult audience; medical cannabis patients; irrigation restrictions; virtual reality; earth sciences; geological time
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Oregon State University
+- University of Valle
+- Tulane University
+- Kansas State University
+- American Farmland Trust
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.4/10
+Percentile: Top 76% of Water Institute faculty
+Rankings by Research Category:
+- Communication and Media Studies: #2 of 3
+- Language, Communication and Culture: #2 of 3
+- Education: #6 of 9

@@ -27,3 +27,55 @@ Dr. Susaeta's research informs forest and climate policy by quantifying how econ
 
 Keywords:
 forest economics; forest policy; landowner behavior; timber markets; bioenergy; biomass; carbon markets; ecosystem services; risk; uncertainty; forest investment; Southern U.S. forests; private forests; policy analysis; economic modeling
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 64
+- Total Citations: 970
+- H-Index: 19
+- Average Citations per Paper: 15.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.11 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Investigating factors affecting renewable energy consumption: A panel data analysis in Sub Saharan Africa *Environmental Challenges* (2021) - 68 citations
+  DOI: https://doi.org/10.1016/j.envc.2021.100092
+- Public preferences for renewable energy options: A choice experiment in Kenya *Energy Economics* (2021) - 44 citations
+  DOI: https://doi.org/10.1016/j.eneco.2021.105256
+- Public Preferences for Renewable Energy Options: A Choice Experiment in Rwanda *Frontiers in Climate* (2022) - 17 citations
+  DOI: https://doi.org/10.3389/fclim.2022.874753
+- Efficiency of pulp and paper industry in the production of pulp and bioelectricity in Brazil *Forest Policy and Economics* (2021) - 15 citations
+  DOI: https://doi.org/10.1016/j.forpol.2021.102484
+- A stand level application of efficiency analysis to understand efficacy of fertilization and thinning with drought in a loblolly pine plantation *Forest Ecology and Management* (2021) - 15 citations
+  DOI: https://doi.org/10.1016/j.foreco.2020.118855
+- Public Preferences for Longleaf Pine Restoration Programs in the Southeastern United States *Forest Science* (2021) - 10 citations
+  DOI: https://doi.org/10.1093/forsci/fxab008
+- Latin America: A regional perspective on its forest policy and economics *Forest Policy and Economics* (2022) - 8 citations
+  DOI: https://doi.org/10.1016/j.forpol.2022.102760
+- Can uneven-aged management improve the economic performance of longleaf pine? *Canadian Journal of Forest Research* (2021) - 8 citations
+  DOI: https://doi.org/10.1139/cjfr-2020-0437
+- Profit efficiency in the provision of ecosystem services in the Cross Timbers forests *Land Use Policy* (2024) - 6 citations
+  DOI: https://doi.org/10.1016/j.landusepol.2023.106978
+- Value of a Flexible Forest Harvest Decision with Short Period Forest Carbon Offsets: Application of a Binomial Option Model *Forests* (2022) - 5 citations
+  DOI: https://doi.org/10.3390/f13111785
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3007 Forestry Sciences; 41 Environmental Sciences; 4102 Ecological Applications; 4104 Environmental Management
+
+Key Research Concepts (from Dimensions.ai):
+longleaf pine; random parameter logit; renewable energy portfolio; greenhouse gases; ecosystem services; longleaf pine forests; uneven-aged management; provision of ecosystem services; forest management; aboveground biomass density
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Montclair State University
+- Oregon State University
+- Oklahoma State University
+- USDA Forest Service, Rocky Mountain Research Station, Moscow, ID 83843, USA
+- Auburn University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.4/10
+Percentile: Top 33% of Water Institute faculty
+Rankings by Research Category:
+- Forestry Sciences: #5 of 8
+- Ecological Applications: #10 of 32
+- Environmental Management: #14 of 46

@@ -25,3 +25,42 @@ Dr. Smith's research leverages geospatial and environmental data to support sust
 
 Keywords:
 forest resources; natural resource management; remote sensing; spatial analysis; GIS; geospatial mapping; land cover classification; soil prediction; water resources; conservation; environmental management; landscape ecology; UAS; Africa
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 22
+- Total Citations: 810
+- H-Index: 16
+- Average Citations per Paper: 36.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.27 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Effects of multi‐temporal environmental variables on SOC spatial prediction models in coastal wetlands of a Chinese delta *Land Degradation and Development* (2022) - 7 citations
+  DOI: https://doi.org/10.1002/ldr.4408
+
+Research Grants (from Dimensions.ai):
+- EAGER: Development of a Geospatial Soil-Crop Inference Engine for Smallholder Farmers (2012-2014) - $292,033
+  Funder: Directorate for Biological Sciences
+- Application of Ground Water and Pollutant Transport Models to Remediation of Contaminated Soil and Water (1999-2000)
+  Funder: Council for International Exchange of Scholars
+- A Comparison of Polish and U.S. Coastal Development Using Remote Sensing Methods (1994-1995)
+  Funder: Council for International Exchange of Scholars
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 4106 Soil Sciences
+
+Key Research Concepts (from Dimensions.ai):
+soil organic carbon; digital soil mapping; accurate spatial prediction; coastal wetlands; Yellow River Delta
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Beijing Normal University
+- Beijing Technology and Business University
+- Beijing Forestry University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.2/10
+Percentile: Top 40% of Water Institute faculty
+Rankings by Research Category:
+- Soil Sciences: #6 of 14
+- Environmental Sciences: #59 of 135

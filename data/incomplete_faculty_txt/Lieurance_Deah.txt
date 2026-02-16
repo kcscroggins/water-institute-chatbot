@@ -1,0 +1,66 @@
+Name: Deah Lieurance
+Role: Asst Extension Scientist
+Academic Unit: 
+Office: 
+Phone: 
+Email: dmlieurance@ufl.edu
+Website: https://assessment.ifas.ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=TvM9gTYAAAAJ&hl=en
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 29
+- Total Citations: 322
+- H-Index: 11
+- Average Citations per Paper: 11.1
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.88 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Identifying invasive species threats, pathways, and impacts to improve biosecurity *Ecosphere* (2023) - 34 citations
+  DOI: https://doi.org/10.1002/ecs2.4711
+- Two decades of data reveal that Biological Invasions needs to increase participation beyond North America, Europe, and Australasia *Biological Invasions* (2021) - 29 citations
+  DOI: https://doi.org/10.1007/s10530-021-02666-6
+- Scanning the horizon for invasive plant threats using a data-driven approach *NeoBiota* (2022) - 22 citations
+  DOI: https://doi.org/10.3897/neobiota.74.83312
+- Plant migration due to winter climate change: range expansion of tropical invasive plants in response to warming winters *Biological Invasions* (2023) - 16 citations
+  DOI: https://doi.org/10.1007/s10530-023-03075-7
+- Moving scholarship on invasion science forward *Trends in Ecology & Evolution* (2023) - 11 citations
+  DOI: https://doi.org/10.1016/j.tree.2023.01.006
+- A self-study of editorial board diversity at Biological Invasions *Biological Invasions* (2021) - 11 citations
+  DOI: https://doi.org/10.1007/s10530-021-02664-8
+- Words matter: how to increase gender and LGBTQIA + inclusivity at Biological Invasions *Biological Invasions* (2021) - 7 citations
+  DOI: https://doi.org/10.1007/s10530-021-02665-7
+- Potential effects of domestication on non-native plant invasion risk *Plant Ecology* (2021) - 6 citations
+  DOI: https://doi.org/10.1007/s11258-021-01130-8
+- Invasive species risk assessment in practice: Insights from a survey of practitioners *NeoBiota* (2025) - 2 citations
+  DOI: https://doi.org/10.3897/neobiota.99.153010
+- Preemptive and proactive application of biological control for weeds: An argument for swifter action to aid conservation efforts *Biological Control* (2025) - 2 citations
+  DOI: https://doi.org/10.1016/j.biocontrol.2025.105725
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 41 Environmental Sciences; 3103 Ecology; 4101 Climate Change Impacts and Adaptation; 4102 Ecological Applications
+
+Key Research Concepts (from Dimensions.ai):
+biological invasions; non-native species; invasion science; risk assessment; non-native plants; invasive species management; high-risk species; invasive plants; invasion risk; Global Biodiversity Information Facility
+
+Top Collaborating Institutions (from Dimensions.ai):
+- United States Geological Survey
+- The Pennsylvania State University
+- National Scientific and Technical Research Council
+- Stellenbosch University
+- University of Galway

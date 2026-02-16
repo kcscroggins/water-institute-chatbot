@@ -29,3 +29,30 @@ Dr. Sansalone's research underpins evidence-based stormwater and urban drainage 
 
 Keywords:
 environmental engineering; stormwater; urban hydrology; contaminant transport; particulate matter; metals; nutrients; water quality; permeable pavement; green infrastructure; BMPs; urban drainage; first flush; treatment systems; runoff; hydrodynamic modeling
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 36
+- Total Citations: 816
+- H-Index: 16
+- Average Citations per Paper: 22.7
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 0.14 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Gravimetric and Number Distributions of Urban PM Residuals from Urban Maintenance Practices *Journal of Environmental Engineering* (2021) - 1 citations
+  DOI: https://doi.org/10.1061/(asce)ee.1943-7870.0001955
+
+Research Categories (from Dimensions.ai):
+4004 Chemical Engineering; 4005 Civil Engineering; 40 Engineering
+
+Key Research Concepts (from Dimensions.ai):
+hydrological functional units; particulate matter; cumulative gamma distribution; catch basins; particle size distribution
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.1/10
+Percentile: Top 46% of Water Institute faculty
+Rankings by Research Category:
+- Civil Engineering: #2 of 4
+- Chemical Engineering: #4 of 6
+- Engineering: #26 of 53

@@ -28,3 +28,53 @@ Dr. Subalusky's work provides mechanistic evidence that wildlife populations are
 
 Keywords:
 ecosystem ecology; biogeochemistry; nutrient cycling; cross-ecosystem fluxes; large mammals; hippopotamus; wildebeest; freshwater ecology; consumer-driven processes; trophic cascades; defaunation; aquatic-terrestrial linkages; East Africa; Mara River; wildlife conservation
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 12
+- Total Citations: 329
+- H-Index: 9
+- Average Citations per Paper: 27.4
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 11.0 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Impacts of large herbivores on terrestrial ecosystems *Current Biology* (2023) - 163 citations
+  DOI: https://doi.org/10.1016/j.cub.2023.04.024
+- The meta-gut: community coalescence of animal gut and environmental microbiomes *Scientific Reports* (2021) - 36 citations
+  DOI: https://doi.org/10.1038/s41598-021-02349-1
+- Animal legacies lost and found in river ecosystems *Environmental Research Letters* (2021) - 14 citations
+  DOI: https://doi.org/10.1088/1748-9326/ac2cb0
+- Fecal steroids as a potential tool for conservation paleobiology in East Africa *Biodiversity and Conservation* (2021) - 12 citations
+  DOI: https://doi.org/10.1007/s10531-021-02328-y
+- Temporal resource partitioning of wildebeest carcasses by scavengers after riverine mass mortality events *Ecosphere* (2021) - 10 citations
+  DOI: https://doi.org/10.1002/ecs2.3326
+- Rapid population growth and high management costs have created a narrow window for control of introduced hippos in Colombia *Scientific Reports* (2023) - 9 citations
+  DOI: https://doi.org/10.1038/s41598-023-33028-y
+- Integrating the Bright and Dark Sides of Aquatic Resource Subsidies—A Synthesis *Ecology Letters* (2025) - 7 citations
+  DOI: https://doi.org/10.1111/ele.70109
+- Short-term study fails to capture negative impacts of livestock intensification on wildlife *Proceedings of the National Academy of Sciences of the United States of America* (2025) - 4 citations
+  DOI: https://doi.org/10.1073/pnas.2502418122
+- The meta-gut: Hippo inputs lead to community coalescence of animal and environmental microbiomes *bioRxiv* (2021) - 2 citations
+  DOI: https://doi.org/10.1101/2021.04.06.438626
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 3103 Ecology; 41 Environmental Sciences; 4101 Climate Change Impacts and Adaptation; 3107 Microbiology
+
+Key Research Concepts (from Dimensions.ai):
+community coalescence; gut microbiome; microbial communities; water microbial communities; large herbivores; ecological impacts; top-down control; ecosystem impacts; abundance of small animals; active microbial community
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Yale University
+- Cary Institute of Ecosystem Studies
+- Michigan State University
+- University of Groningen
+- Pontificia Universidad Javeriana
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.0/10
+Percentile: Top 49% of Water Institute faculty
+Rankings by Research Category:
+- Climate Change Impacts and Adaptation: #9 of 16
+- Microbiology: #15 of 20
+- Ecology: #34 of 59

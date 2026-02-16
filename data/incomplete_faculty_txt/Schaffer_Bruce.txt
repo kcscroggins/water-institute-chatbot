@@ -1,0 +1,66 @@
+Name: Bruce Schaffer
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: bas56@ufl.edu
+Website: https://trec.ifas.ufl.edu/people/bruce-schaffer/
+Google Scholar: https://scholar.google.com/citations?user=wiStj80AAAAJ&hl=en
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 135
+- Total Citations: 2259
+- H-Index: 25
+- Average Citations per Paper: 16.7
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 8.2 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Unmanned aerial vehicle (UAV) imaging and machine learning applications for plant phenotyping *Computers and Electronics in Agriculture* (2023) - 62 citations
+  DOI: https://doi.org/10.1016/j.compag.2023.108064
+- Physiological, biochemical, and molecular responses of fruit trees to root zone hypoxia *Environmental and Experimental Botany* (2023) - 57 citations
+  DOI: https://doi.org/10.1016/j.envexpbot.2022.105179
+- Improving soil moisture prediction with deep learning and machine learning models *Computers and Electronics in Agriculture* (2024) - 54 citations
+  DOI: https://doi.org/10.1016/j.compag.2024.109414
+- Physiological and biochemical characterization of six Prunus rootstocks in response to flooding *Environmental and Experimental Botany* (2021) - 37 citations
+  DOI: https://doi.org/10.1016/j.envexpbot.2020.104368
+- Exploring deficit irrigation as a water conservation strategy: Insights from field experiments and model simulation *Agricultural Water Management* (2023) - 30 citations
+  DOI: https://doi.org/10.1016/j.agwat.2023.108490
+- Influence of vegetation cover and rainfall intensity on soil attributes in an area undergoing desertification in Brazil *Catena* (2023) - 25 citations
+  DOI: https://doi.org/10.1016/j.catena.2022.106751
+- Comparison of solution extraction methods for estimating electrical conductivity in soils with contrasting mineralogical assemblages and textures *Catena* (2022) - 16 citations
+  DOI: https://doi.org/10.1016/j.catena.2022.106581
+- Saltwater Intrusion and Flooding: Risks to South Florida’s Agriculture and Potential Management Practices: AE572/AE572, 5/2022 *EDIS* (2022) - 13 citations
+  DOI: https://doi.org/10.32473/edis-ae572-2022
+- Carbon and nitrogen metabolism in peach trees on different Prunus rootstocks in response to flooding *Plant and Soil* (2022) - 13 citations
+  DOI: https://doi.org/10.1007/s11104-022-05377-6
+- Melatonin seed priming improves early establishment and water stress tolerance of peanut *Plant Physiology and Biochemistry* (2024) - 12 citations
+  DOI: https://doi.org/10.1016/j.plaphy.2024.108664
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 31 Biological Sciences; 3108 Plant Biology; 3004 Crop and Pasture Production; 41 Environmental Sciences
+
+Key Research Concepts (from Dimensions.ai):
+Tropical Research and Education Center; sweet corn; irrigation treatments; leaf gas exchange; reactive oxygen species; plant height; unmanned aerial vehicle images; unmanned aerial vehicles; support vector machine; abscisic acid
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Federal Rural University of Pernambuco
+- Institute of Food and Agricultural Sciences
+- Pontificia Universidad Católica de Chile
+- University of New Hampshire
+- Cyprus University of Technology

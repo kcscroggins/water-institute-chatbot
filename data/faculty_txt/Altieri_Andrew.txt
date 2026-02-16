@@ -35,3 +35,55 @@ Research Metrics:
 
 Keywords:
 Coastal ecology; marine ecology; coral reef ecosystems; ocean deoxygenation; hypoxia; restoration ecology; nature-based solutions; coastal resilience; species interactions; habitat degradation; biodiversity; conservation; ecosystem function; ecophysiology; environmental stress; seascape ecology.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 68
+- Total Citations: 2051
+- H-Index: 25
+- Average Citations per Paper: 30.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 9.01 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Herbivory limits success of vegetation restoration globally *Science* (2023) - 97 citations
+  DOI: https://doi.org/10.1126/science.add2814
+- Heterogeneity within and among co-occurring foundation species increases biodiversity *Nature Communications* (2022) - 86 citations
+  DOI: https://doi.org/10.1038/s41467-022-28194-y
+- Rapid ecosystem-scale consequences of acute deoxygenation on a Caribbean coral reef *Nature Communications* (2021) - 82 citations
+  DOI: https://doi.org/10.1038/s41467-021-24777-3
+- Predator control of marine communities increases with temperature across 115 degrees of latitude *Science* (2022) - 74 citations
+  DOI: https://doi.org/10.1126/science.abc4916
+- Resilience of Tropical Ecosystems to Ocean Deoxygenation *Trends in Ecology & Evolution* (2021) - 50 citations
+  DOI: https://doi.org/10.1016/j.tree.2020.11.003
+- Governance and the mangrove commons: Advancing the cross-scale, nested framework for the global conservation and wise use of mangroves *Journal of Environmental Management* (2022) - 42 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2022.114823
+- Differential susceptibility of reef-building corals to deoxygenation reveals remarkable hypoxia tolerance *Scientific Reports* (2021) - 38 citations
+  DOI: https://doi.org/10.1038/s41598-021-01078-9
+- Harnessing ecological theory to enhance ecosystem restoration *Current Biology* (2024) - 35 citations
+  DOI: https://doi.org/10.1016/j.cub.2024.03.043
+- Caribbean mangrove forests act as coral refugia by reducing light stress and increasing coral richness *Ecosphere* (2021) - 34 citations
+  DOI: https://doi.org/10.1002/ecs2.3413
+- The gut microbiome variability of a butterflyfish increases on severely degraded Caribbean reefs *Communications Biology* (2022) - 28 citations
+  DOI: https://doi.org/10.1038/s42003-022-03679-0
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 3103 Ecology; 41 Environmental Sciences; 4101 Climate Change Impacts and Adaptation; 4104 Environmental Management
+
+Key Research Concepts (from Dimensions.ai):
+coral reefs; Caribbean coral reefs; coral species; vegetation restoration efforts; restoration success; restoration sites; herbivore control; restoration efforts; habitat heterogeneity; amount of habitat
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Smithsonian Tropical Research Institute
+- Smithsonian Marine Station
+- Florida International University
+- Duke University
+- National Autonomous University of Mexico
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.1/10
+Percentile: Top 16% of Water Institute faculty
+Rankings by Research Category:
+- Climate Change Impacts and Adaptation: #4 of 16
+- Environmental Management: #7 of 46
+- Ecology: #11 of 59

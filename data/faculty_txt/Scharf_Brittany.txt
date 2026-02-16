@@ -29,3 +29,36 @@ Dr. Hall-Scharf's work supports sustainable coastal resource use and resilience 
 
 Keywords:
 marine extension; Florida Sea Grant; coastal resources; sustainable fisheries; citizen science; horseshoe crabs; bay scallops; seagrass; estuarine systems; environmental literacy; coastal resilience; community engagement; recreational fishing; Hernando County
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 2
+- Total Citations: 5
+- H-Index: 1
+- Average Citations per Paper: 2.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 0.39 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Increased Cold Tolerance of a Tropical Fish Species at the Northern Edge of Its Expanded Range *Estuaries and Coasts* (2025) - 4 citations
+  DOI: https://doi.org/10.1007/s12237-024-01480-2
+- Water temperature and season length interact to explain a rare non‐linear ecogeographic cline in body size *Journal of Biogeography* (2023) - 1 citations
+  DOI: https://doi.org/10.1111/jbi.14730
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 4104 Environmental Management; 31 Biological Sciences; 3103 Ecology
+
+Key Research Concepts (from Dimensions.ai):
+species' cold tolerance; climate change; tropical fish species; snook Centropomus undecimalis; critical thermal minimum; body size clines; size clines; body size; crab body size; horseshoe crabs
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Florida Fish and Wildlife Conservation Commission
+- Institute of Food and Agricultural Sciences
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.1/10
+Percentile: Top 97% of Water Institute faculty
+Rankings by Research Category:
+- Environmental Management: #42 of 46
+- Ecology: #54 of 59
+- Biological Sciences: #112 of 118

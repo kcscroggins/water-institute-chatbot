@@ -1,0 +1,76 @@
+Name: Kelly Grogan
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: kellyagrogan@ufl.edu
+Website: http://www.fred.ifas.ufl.edu/faculty/grogan/
+Google Scholar: 
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 40
+- Total Citations: 351
+- H-Index: 10
+- Average Citations per Paper: 8.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.0 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- The Impact of COVID-19 on management of non-industrial private forests in the Southeastern United States *Trees Forests and People* (2021) - 13 citations
+  DOI: https://doi.org/10.1016/j.tfp.2021.100159
+- Past, present, and future: Status of women and minority faculty in agricultural and applied economics *Applied Economic Perspectives and Policy* (2021) - 12 citations
+  DOI: https://doi.org/10.1002/aepp.13191
+- The Impact of Heterogeneous Management Interests in Reducing Social Losses from Wildfire Externalities *Forests* (2021) - 8 citations
+  DOI: https://doi.org/10.3390/f12101326
+- Non-industrial private forest owners' preferences for fuel reduction cost-share programs in the southeastern U.S. *Forest Policy and Economics* (2023) - 5 citations
+  DOI: https://doi.org/10.1016/j.forpol.2023.102994
+- Factors affecting the bundled adoption of irrigation and nutrient best management practices for improving water quality and quantity in Florida *Journal of the Agricultural and Applied Economics Association* (2023) - 4 citations
+  DOI: https://doi.org/10.1002/jaa2.74
+- Optimal forest management in the presence of endogenous fire risk and fuel control *European Journal of Forest Research* (2023) - 4 citations
+  DOI: https://doi.org/10.1007/s10342-023-01530-7
+- Assessing the effects of increasing surface seawater temperature on black pearl production in French Polynesia: A bioeconomic simulation *Ecological Economics* (2021) - 2 citations
+  DOI: https://doi.org/10.1016/j.ecolecon.2020.106914
+- Environmental risks and the profitability of Florida’s hard clam aquaculture industry *Aquaculture Economics & Management* (2025) - 1 citations
+  DOI: https://doi.org/10.1080/13657305.2025.2487523
+- Is environmental consciousness associated with organic food consumption?: A revealed preference approach *Journal of the Agricultural and Applied Economics Association* (2024) - 1 citations
+  DOI: https://doi.org/10.1002/jaa2.119
+- Florida Marine Baitfish Aquaculture - Marketing Opportunities and Challenges (Part 1 of a Marine Baitfish Aquaculture Series): FA256, 3/2023 *EDIS* (2023)
+  DOI: https://doi.org/10.32473/edis-fa256-2023
+
+Research Grants (from Dimensions.ai):
+- Wildfire Management in the Southeastern United States: Optimal Fire Prevention Effort and the Effectiveness of Incentives to Achieve Increased Prevention (2019-2023) - $481,906
+  Funder: National Institute of Food and Agriculture
+- The Economics of Citrus Greening Disease Management (2016-2021)
+  Funder: National Institute of Food and Agriculture
+- Innovative Policies to Optimize the Allocation of Water Quality and Conservation Investments and Maximize Multiple Benefits (2014-2018) - $659,676
+  Funder: National Institute of Food and Agriculture
+- Spatial Externalities of Pest Control (2011-2016)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 38 Economics; 3801 Applied Economics; 3007 Forestry Sciences; 31 Biological Sciences
+
+Key Research Concepts (from Dimensions.ai):
+non-industrial private forest landowners; management practices; cost-share programs; economic value; water resources; economic value of goods; value of goods; forest management practices; southeastern United States; forest management decisions
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Sultan Qaboos University
+- University of Arizona
+- The Ohio State University
+- University of Delaware
+- University of Nebraska–Lincoln

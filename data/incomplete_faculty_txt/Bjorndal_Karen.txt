@@ -1,0 +1,72 @@
+Name: Karen Bjorndal
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: bjorndal@ufl.edu
+Website: http://accstr.ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=27y92WQAAAAJ&hl=en
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 131
+- Total Citations: 15401
+- H-Index: 53
+- Average Citations per Paper: 117.6
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.16 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Divergence and hybridization in sea turtles: Inferences from genome data show evidence of ancient gene flow between species *Molecular Ecology* (2021) - 43 citations
+  DOI: https://doi.org/10.1111/mec.16113
+- Litter ingestion and entanglement in green turtles: An analysis of two decades of stranding events in the NE Atlantic *Environmental Pollution* (2022) - 29 citations
+  DOI: https://doi.org/10.1016/j.envpol.2022.118796
+- Recovery of a cultivation grazer: A mechanism for compensatory growth of Thalassia testudinum in a Caribbean seagrass meadow grazed by green turtles *Journal of Ecology* (2021) - 23 citations
+  DOI: https://doi.org/10.1111/1365-2745.13718
+- Priorities for Mediterranean marine turtle conservation and management in the face of climate change *Journal of Environmental Management* (2023) - 20 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2023.117805
+- The Portuguese industrial pelagic longline fishery in the Northeast Atlantic: Catch composition, spatio-temporal dynamics of fishing effort, and target species catch rates *Fisheries Research* (2023) - 13 citations
+  DOI: https://doi.org/10.1016/j.fishres.2023.106730
+- Effects of gear modifications in a North Atlantic pelagic longline fishery: A multiyear study *PLOS ONE* (2023) - 9 citations
+  DOI: https://doi.org/10.1371/journal.pone.0292727
+- Holopelagic Sargassum aggregations provide warmer microhabitats for associated fauna *Scientific Reports* (2023) - 9 citations
+  DOI: https://doi.org/10.1038/s41598-023-41982-w
+- Incidental capture of sea turtles in the Northeast Atlantic Portuguese pelagic longline fishery *Fisheries Research* (2023) - 8 citations
+  DOI: https://doi.org/10.1016/j.fishres.2023.106673
+- Role of ingesta particle size in the green turtle grazing strategy, ontogenetic diet shifts, and responses to seagrass declines *Marine Biology* (2021) - 8 citations
+  DOI: https://doi.org/10.1007/s00227-021-03965-1
+- An underwater Serengeti: Seagrass‐mediated effects on intake and cultivation grazing behavior of a marine megaherbivore *Ecosphere* (2022) - 5 citations
+  DOI: https://doi.org/10.1002/ecs2.4259
+
+Research Grants (from Dimensions.ai):
+- Dissertation Research: Physiological and life-history responses to variation in food availability in a parthenogenetic insect (2005-2008) - $11,800
+  Funder: Directorate for Biological Sciences
+- Acquisition of An Atomic Absorption Spectrophotometer (1989-1991) - $21,109
+  Funder: Directorate for Biological Sciences
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 3103 Ecology; 41 Environmental Sciences; 4104 Environmental Management; 3105 Genetics
+
+Key Research Concepts (from Dimensions.ai):
+green turtles; sea turtles; pelagic longline fisheries; longline fisheries; juvenile green turtles; female green turtles; sea turtle species; species evolutionary history; turtle species; nuclear genome
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of the Azores
+- Instituto do Mar
+- Fundação Projeto TAMAR, Mata de São João, Bahia, Brazil
+- University of Ferrara
+- Aristotle University of Thessaloniki

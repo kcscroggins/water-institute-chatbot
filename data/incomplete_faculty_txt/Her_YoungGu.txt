@@ -1,0 +1,70 @@
+Name: Young Gu Her
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: yher@ufl.edu
+Website: https://abe.ufl.edu/people/faculty/young-gu-her/
+Google Scholar: https://scholar.google.com/citations?user=kfAh-o8AAAAJ&hl=en
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 22
+- Total Citations: 109
+- H-Index: 4
+- Average Citations per Paper: 5.0
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 1.72 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Mapping the US Census Data Using the TIGER/Line Shapefiles *EDIS* (2021) - 12 citations
+  DOI: https://doi.org/10.32473/edis-ae557-2021
+- Capitalizing on Carbon: AE582/AE582, 1/2023 *EDIS* (2023) - 3 citations
+  DOI: https://doi.org/10.32473/edis-ae582-2023
+- Florida’s Agricultural Carbon Economy as Climate Action: The Potential Role of Farmers and Ranchers: AE573/AE573, 5/2022 *EDIS* (2022) - 2 citations
+  DOI: https://doi.org/10.32473/edis-ae573-2022
+- Nitrogen Fertilizer Effects on Hemp Biomass Production Detected by Drone-based Spectral Imaging *HortScience* (2025) - 1 citations
+  DOI: https://doi.org/10.21273/hortsci18264-24
+- Safe Salinity Levels for Irrigation of Two Ornamental Crops: Hibiscus and Mandevilla: AE574/AE574, 6/2022 *EDIS* (2022) - 1 citations
+  DOI: https://doi.org/10.32473/edis-ae574-2022
+- Sensitivity of redox conditions to irrigation practice and organic matter decomposition in a rotational flooded rice (Oryza sativa) cropping system *Journal of Environmental Quality* (2025)
+  DOI: https://doi.org/10.1002/jeq2.70087
+- Introduction to Artificial Intelligence in Agriculture: AE605, 9/2024 *EDIS* (2024)
+  DOI: https://doi.org/10.32473/edis-ae605-2024
+- An Introduction to Carbon Credit Markets and Their Potential for Florida Agricultural Producers: FE1154, 9/2024 *EDIS* (2024)
+  DOI: https://doi.org/10.32473/edis-fe1154-2024
+- An exploration of early career agricultural and natural resource scientists’ perceptions of social responsibility *International Journal of Science Education Part B* (2024)
+  DOI: https://doi.org/10.1080/21548455.2024.2335673
+- Accounting for Climate Change in Rainfall Intensity-Duration-Frequency (IDF) Curves for Stormwater Management: AE596, 1/2024 *EDIS* (2024)
+  DOI: https://doi.org/10.32473/edis-ae596-2024
+
+Research Grants (from Dimensions.ai):
+- RAISE: Safeguarding U.S. Coastal Groundwater Supplies from Flooding and Saltwater Intrusion (2025-2028) - $999,721
+  Funder: Directorate for Geosciences
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3704 Geoinformatics; 38 Economics; 30 Agricultural, Veterinary and Food Sciences; 3701 Atmospheric Sciences
+
+Key Research Concepts (from Dimensions.ai):
+Department of Agriculture; biological engineering; carbon market; carbon sequestration; extension agents; shapefiles; spatial information; census data; global carbon cycle; carbon cycle
+
+Top Collaborating Institutions (from Dimensions.ai):
+- American Farmland Trust
+- Cornell University
+- CultivateAI, Cultivate Agricultural Intelligence, LLC, 3801 Avalon Park East Boulevard, Suite 400, Orlando, FL 32828, USA
+- Natural Resources Conservation Service
+- New Mexico State University

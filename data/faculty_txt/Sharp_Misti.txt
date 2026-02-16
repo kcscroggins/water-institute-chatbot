@@ -25,3 +25,32 @@ Dr. Sharp's work informs resource management policy by revealing how economic in
 
 Keywords:
 resource economics; natural resource management; water institutions; environmental policy; landowner behavior; sea-level rise; climate adaptation; economic incentives; policy analysis; forest management; water conservation; southeastern US; behavioral economics; private landowners
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 3
+- Total Citations: 18
+- H-Index: 2
+- Average Citations per Paper: 6.0
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.52 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- The Impact of COVID-19 on management of non-industrial private forests in the Southeastern United States *Trees Forests and People* (2021) - 13 citations
+  DOI: https://doi.org/10.1016/j.tfp.2021.100159
+- Non-industrial private forest owners' preferences for fuel reduction cost-share programs in the southeastern U.S. *Forest Policy and Economics* (2023) - 5 citations
+  DOI: https://doi.org/10.1016/j.forpol.2023.102994
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3007 Forestry Sciences; 38 Economics; 3801 Applied Economics; 4104 Environmental Management
+
+Key Research Concepts (from Dimensions.ai):
+non-industrial private forest landowners; forest management practices; management practices; southeastern United States; forest management decisions; cost-share programs; large-scale management; wildfire risk; forest owners' preferences
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.2/10
+Percentile: Top 89% of Water Institute faculty
+Rankings by Research Category:
+- Forestry Sciences: #8 of 8
+- Applied Economics: #12 of 12
+- Economics: #24 of 24

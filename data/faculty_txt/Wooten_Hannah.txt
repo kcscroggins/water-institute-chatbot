@@ -26,3 +26,46 @@ Wooten's work supports effective agricultural and environmental policy by ensuri
 
 Keywords:
 extension; community education; outreach; agriculture; natural resources; stakeholder engagement; UF/IFAS; Florida; workshops; training; knowledge transfer; practice adoption; land management
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 9
+- Total Citations: 16
+- H-Index: 2
+- Average Citations per Paper: 1.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.01 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Social and Community Benefits and Limitations of Urban Agriculture: FCS3378/FY1517, 1/2023 *EDIS* (2023) - 8 citations
+  DOI: https://doi.org/10.32473/edis-fy1517-2023
+- Common Media Used in Hydroponics: EP623/ENH1359, 8/2022 *EDIS* (2022) - 3 citations
+  DOI: https://doi.org/10.32473/edis-ep623-2022
+- "Set It and Forget It" Hydroponic Lettuce: HS1488, 1/2025 *EDIS* (2025) - 1 citations
+  DOI: https://doi.org/10.32473/edis-hs1488-2025
+- Beneficios socio-comunitarios y limitaciones de la agricultura urbana: FCS3378-Span/FY1530, 10/2023 *EDIS* (2023) - 1 citations
+  DOI: https://doi.org/10.32473/edis-fy1530-2023
+- Introducing Agroecology: SS-AGR-476/AG472, 6/2023 *EDIS* (2023) - 1 citations
+  DOI: https://doi.org/10.32473/edis-ag472-2023
+- What is urban agriculture? FCS3380/FY1519, 4/2023 *EDIS* (2023) - 1 citations
+  DOI: https://doi.org/10.32473/edis-fy1519-2023
+- Costs and Benefits of Vegetable Gardening *EDIS* (2021) - 1 citations
+  DOI: https://doi.org/10.32473/edis-fe1092-2021
+- ¿Qué es la agricultura urbana? FCS3380-Span/FY1529, 10/2023 *EDIS* (2023)
+  DOI: https://doi.org/10.32473/edis-fy1529-2023
+- Victory Gardeners: Food and Gardening as part of a Healthy Lifestyle and Community *EDIS* (2023)
+  DOI: https://doi.org/10.32473/edis-hs1464-2023
+
+Research Categories (from Dimensions.ai):
+44 Human Society; 4410 Sociology; 32 Biomedical and Clinical Sciences; 4701 Communication and Media Studies; 47 Language, Communication and Culture
+
+Key Research Concepts (from Dimensions.ai):
+Department of Family; urban agriculture; urban food production; community benefits; community; media culture; medium; method of growing plants; Whitman; plant productivity
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.2/10
+Percentile: Top 89% of Water Institute faculty
+Rankings by Research Category:
+- Sociology: #2 of 4
+- Communication and Media Studies: #3 of 3
+- Language, Communication and Culture: #3 of 3

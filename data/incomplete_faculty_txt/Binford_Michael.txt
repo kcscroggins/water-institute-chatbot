@@ -1,0 +1,72 @@
+Name: Michael Binford
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: mbinford@ufl.edu
+Website: https://people.clas.ufl.edu/mbinford/
+Google Scholar: https://scholar.google.com/citations?user=mZovLMQAAAAJ&hl=en
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 60
+- Total Citations: 2355
+- H-Index: 24
+- Average Citations per Paper: 39.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 4.91 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- The interrelated impacts of credit access, market access and forest proximity on livelihood strategies in Cambodia *World Development* (2022) - 21 citations
+  DOI: https://doi.org/10.1016/j.worlddev.2021.105795
+- Georeferencing oblique PhenoCam imagery *ISPRS Journal of Photogrammetry and Remote Sensing* (2022) - 5 citations
+  DOI: https://doi.org/10.1016/j.isprsjprs.2022.05.012
+- Drivers of forest productivity in two regions of the United States: Relative impacts of management and environmental variables *Journal of Environmental Management* (2025) - 4 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2025.124040
+- Hydrological drought and floodplain disconnectivity: quantifying flow thresholds in a large coastal plain river *Hydrological Sciences Journal* (2024) - 4 citations
+  DOI: https://doi.org/10.1080/02626667.2024.2410908
+- Home and Away: Drivers and Perceptions of Migration Among Urban Migrants and Their Rural Families in the Lower Mekong River Basin of Cambodia *Migration and Development* (2023) - 2 citations
+  DOI: https://doi.org/10.1177/21632324231194763
+- Linking forest management to surrounding lands: a citizen-based approach towards the regional understanding of land-use transitions *Frontiers in Remote Sensing* (2023)
+  DOI: https://doi.org/10.3389/frsen.2023.1197523
+- Home and Away: Drivers and Perceptions of Migration Among Urban Migrants and their Rural Families in the Lower Mekong River Basin of Cambodia *SSRN Electronic Journal* (2021)
+  DOI: https://doi.org/10.2139/ssrn.3914359
+
+Research Grants (from Dimensions.ai):
+- Collaborative Proposal: MSB-FRA: The future of US forest function under changing environment, disturbance, and forest management (2017-2023) - $330,097
+  Funder: Directorate for Biological Sciences
+- Collaborative Research: Building Forest Management into Earth System Modeling: Scaling from Stand to Continent (2013-2016) - $274,523
+  Funder: Directorate for Biological Sciences
+- Planning Grant for the Ordway-Swisher Biological Station (2008-2009) - $20,807
+  Funder: Directorate for Biological Sciences
+- Doctoral Dissertation Research: Using Remote Sensing to Create Indicators of Socio-Ecological System Resilience in Savannas of the Kavango-Zambezi Region of Southern Africa (2008-2010) - $11,996
+  Funder: Directorate for Social, Behavioral & Economic Sciences
+- SGER: Crop and Forest Losses Due to Hurricane Dean (2007-2008) - $9,000
+  Funder: Directorate for Social, Behavioral & Economic Sciences
+
+Research Categories (from Dimensions.ai):
+44 Human Society; 37 Earth Sciences; 4404 Development Studies; 4013 Geomatic Engineering; 40 Engineering
+
+Key Research Concepts (from Dimensions.ai):
+urban migrants; rural-to-urban migration; in-country migration; perceptions of migration; off-farm income; market access; forest access; off-farm; credit access; Moderate Imaging Spectrometer
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Chicago
+- University of Alabama
+- Northern Arizona University
+- University of Wisconsin-Madison
+- Florida State University

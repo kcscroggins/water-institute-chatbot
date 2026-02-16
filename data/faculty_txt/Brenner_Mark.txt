@@ -29,3 +29,67 @@ Water & Policy Relevance:
 
 Keywords:
 Paleolimnology; lake sediments; sediment cores; environmental geochemistry; isotope geochemistry; water quality history; eutrophication; nutrients; climate reconstruction; climate variability; Florida lakes; Everglades; Caribbean; restoration baselines; legacy nutrients; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 152
+- Total Citations: 10492
+- H-Index: 53
+- Average Citations per Paper: 69.0
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 9.32 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Drought-Induced Civil Conflict Among the Ancient Maya *Nature Communications* (2022) - 47 citations
+  DOI: https://doi.org/10.1038/s41467-022-31522-x
+- Harmful algal blooms and cyanotoxins in Lake Amatitlán, Guatemala, coincided with ancient Maya occupation in the watershed *Proceedings of the National Academy of Sciences of the United States of America* (2021) - 29 citations
+  DOI: https://doi.org/10.1073/pnas.2109919118
+- Ecological turnover in neotropical freshwater and terrestrial communities during episodes of abrupt climate change *Quaternary Research* (2021) - 24 citations
+  DOI: https://doi.org/10.1017/qua.2020.124
+- Influence of Late Holocene Climate Change and Human Land Use on Terrestrial and Aquatic Ecosystems in Southwest Madagascar *Frontiers in Ecology and Evolution* (2021) - 16 citations
+  DOI: https://doi.org/10.3389/fevo.2021.688512
+- New estimates of the magnitude of the sea-level jump during the 8.2 ka event *Geology* (2021) - 16 citations
+  DOI: https://doi.org/10.1130/g49296.1
+- Drought Coincided with, but Does Not Explain, Late Holocene Megafauna Extinctions in SW Madagascar *Climate* (2021) - 16 citations
+  DOI: https://doi.org/10.3390/cli9090138
+- Novel responses of diatoms in neotropical mountain lakes to indigenous and post-European occupation *Anthropocene* (2021) - 16 citations
+  DOI: https://doi.org/10.1016/j.ancene.2021.100294
+- Molluscs along a salinity gradient in a hypersaline coastal lagoon, southern Gulf of Mexico *Journal of the Marine Biological Association of the United Kingdom* (2023) - 12 citations
+  DOI: https://doi.org/10.1017/s0025315423000085
+- Early Maize in the Maya Area *Latin American Antiquity* (2022) - 8 citations
+  DOI: https://doi.org/10.1017/laq.2022.55
+- Past fire dynamics inferred from polycyclic aromatic hydrocarbons and monosaccharide anhydrides in a stalagmite from the archaeological site of Mayapan, Mexico *Biogeosciences* (2023) - 7 citations
+  DOI: https://doi.org/10.5194/bg-20-3249-2023
+
+Research Grants (from Dimensions.ai):
+- Environmental effects of climate and vulcanism during the Marine Isotope Stage 5 in lowland Central America (2025-present)
+  Funder: Deutsche Forschungsgemeinschaft
+- The Evolution Process and Mechanism of the Recent Thousand Years of the Sediment Record of Lake Issyk in Central Asia (2017-2020) - $103,024
+  Funder: National Natural Science Foundation of China
+- Doctoral Dissertation Research: Linking Land-Use and Land-Cover Change and Aquatic Ecosystem Function in the Temash River Watershed, Belize, Central America (2008-2009) - $12,000
+  Funder: Directorate for Social, Behavioral & Economic Sciences
+- A Sustainable Approach to Preserve the Choctawhatchee Coastal Dune Lakes of Florida (2007-2008) - $9,941
+  Funder: Environmental Protection Agency
+- Collaborative Research: Lake Peten-Itza Drilling Project, Guatemala: A Terrestrial Archive of Northern Neotropical Climate and Environmental Change for the Last Climate Cycle (2005-2008) - $298,904
+  Funder: Directorate for Geosciences
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3709 Physical Geography and Environmental Geoscience; 3705 Geology; 31 Biological Sciences; 3103 Ecology
+
+Key Research Concepts (from Dimensions.ai):
+sediment cores; Intertropical Convergence Zone; sea level rise; coastal lagoons; International Continental Scientific Drilling Program; civil conflict; centuries CE; economic structure; political collapse; disciplinary scope
+
+Top Collaborating Institutions (from Dimensions.ai):
+- National Autonomous University of Mexico
+- Technische Universität Braunschweig
+- University of Cambridge
+- The Pennsylvania State University
+- University of Minnesota Duluth
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 4.6/10
+Percentile: Top 2% of Water Institute faculty
+Rankings by Research Category:
+- Ecology: #1 of 59
+- Physical Geography and Environmental Geoscience: #1 of 11
+- Geology: #1 of 11

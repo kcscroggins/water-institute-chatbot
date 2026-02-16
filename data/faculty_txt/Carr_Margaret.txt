@@ -34,3 +34,31 @@ Water & Policy Relevance:
 
 Keywords:
 Landscape architecture; green infrastructure; stormwater; Low-Impact Development; LID; urban design; climate resilience; ecological planning; ecological networks; conservation planning; urban runoff; flood mitigation; landscape performance; spatial planning; sustainability; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 5
+- Total Citations: 120
+- H-Index: 3
+- Average Citations per Paper: 24.0
+- Open Access Publications: 100.0%
+
+Recent Publications (from Dimensions.ai):
+- A Model for Future Development Scenario Planning to Address Population Change and Sea Level Rise *Land* (2025)
+  DOI: https://doi.org/10.3390/land14081536
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 4104 Environmental Management
+
+Key Research Concepts (from Dimensions.ai):
+population growth; land use; future land use scenarios; land use change; land use scenarios
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Friends of Florida, Tallahassee, FL 32301, USA;, vyoung@1000fof.org
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.3/10
+Percentile: Top 82% of Water Institute faculty
+Rankings by Research Category:
+- Environmental Management: #36 of 46
+- Environmental Sciences: #114 of 135

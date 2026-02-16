@@ -28,3 +28,55 @@ Water & Policy Relevance:
 
 Keywords:
 Aquatic plants; wetland plants; invasive species; weed management; native plant restoration; aquatic ecology; waterhyacinth; hydrilla; nutrient dynamics; water quality; integrated management; Extension; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 68
+- Total Citations: 416
+- H-Index: 11
+- Average Citations per Paper: 6.1
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.98 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Identifying invasive species threats, pathways, and impacts to improve biosecurity *Ecosphere* (2023) - 34 citations
+  DOI: https://doi.org/10.1002/ecs2.4711
+- Scanning the horizon for invasive plant threats using a data-driven approach *NeoBiota* (2022) - 22 citations
+  DOI: https://doi.org/10.3897/neobiota.74.83312
+- Salt tolerance assessment of aquatic and wetland plants: increased salinity can reshape aquatic vegetation communities *Hydrobiologia* (2022) - 19 citations
+  DOI: https://doi.org/10.1007/s10750-022-04934-5
+- Macrophyte coverage drives microbial community structure and interactions in a shallow sub-tropical lake *The Science of The Total Environment* (2024) - 10 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2024.171414
+- Integrating herbicide rates, coverage, and classical biological control insects (Megamelus scutellaris, Neochetina eichhorniae,and Neochetina bruchi) to manage Pontederia (Eichhornia) crassipes *Biological Control* (2022) - 10 citations
+  DOI: https://doi.org/10.1016/j.biocontrol.2022.104930
+- Less is more: Less herbicide does more when biological control is present in Pontederia crassipes *Ecological Modelling* (2024) - 8 citations
+  DOI: https://doi.org/10.1016/j.ecolmodel.2023.110566
+- Phytotoxic Effects of Acetic Acid and d-limonene on Four Aquatic Plants *HortTechnology* (2022) - 7 citations
+  DOI: https://doi.org/10.21273/horttech04986-21
+- Monitoring the Efficacy of Crested Floatingheart (Nymphoides cristata) Management with Object-Based Image Analysis of UAS Imagery *Remote Sensing* (2021) - 7 citations
+  DOI: https://doi.org/10.3390/rs13040830
+- Know thy enemy: Investigating genetic contributions from putative parents of invasive Nymphaea mexicana hybrids in South Africa as part of efforts to develop biological control *Biological Control* (2023) - 6 citations
+  DOI: https://doi.org/10.1016/j.biocontrol.2023.105291
+- Nuisance to Invasive Ornamentals: Proceedings from the ASHS Invasive Plants Research Group 2020 Workshop *HortTechnology* (2021) - 6 citations
+  DOI: https://doi.org/10.21273/horttech04787-20
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 3103 Ecology; 41 Environmental Sciences; 30 Agricultural, Veterinary and Food Sciences; 4102 Ecological Applications
+
+Key Research Concepts (from Dimensions.ai):
+biological control agents; control agents; biological control; invasive species management; aquatic weed control; native plant communities; diquat dibromide; American Society for Horticultural Science; proceedings; Horticultural Science
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Invasive Plant Research Laboratory
+- Rhodes University
+- United States Geological Survey
+- Agricultural Research Service - Southeast Area
+- Montana State University – Bozeman
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.8/10
+Percentile: Top 57% of Water Institute faculty
+Rankings by Research Category:
+- Ecological Applications: #21 of 32
+- Ecology: #45 of 59
+- Agricultural, Veterinary and Food Sciences: #63 of 99

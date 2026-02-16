@@ -29,3 +29,67 @@ Dr. McCarty advances quantitative social science methods that underpin rigorous 
 
 Keywords:
 social network analysis; egocentric networks; personal networks; survey research; quantitative methods; hard-to-count populations; network scale-up; NSUM; EgoNet; scientific collaboration; disaster behavior; migration; BEBR; population estimation; methodology
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 79
+- Total Citations: 3659
+- H-Index: 30
+- Average Citations per Paper: 46.3
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 63.59 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Developing a model for AI Across the curriculum: Transforming the higher education landscape via innovation in AI literacy *Computers and Education Artificial Intelligence* (2023) - 469 citations
+  DOI: https://doi.org/10.1016/j.caeai.2023.100127
+- Understanding social network support, composition, and structure among cancer caregivers *Psycho-Oncology* (2023) - 16 citations
+  DOI: https://doi.org/10.1002/pon.6087
+- Social network connections and increased preparation intentions for a disaster *Journal of Environmental Psychology* (2022) - 14 citations
+  DOI: https://doi.org/10.1016/j.jenvp.2021.101726
+- Structural measures of personal networks predict migrants’ cultural backgrounds: an explanation from Grid/Group theory *PNAS Nexus* (2022) - 6 citations
+  DOI: https://doi.org/10.1093/pnasnexus/pgac195
+- Evaluating the Perception of Human-Robot Collaboration among Construction Project Managers (2022) - 6 citations
+  DOI: https://doi.org/10.1061/9780784483961.058
+- Stressful social environment and financial strain drive depressive symptoms, and reveal the effects of a FKBP5 variant and male sex, in African Americans living in Tallahassee *American Journal of Biological Anthropology* (2021) - 6 citations
+  DOI: https://doi.org/10.1002/ajpa.24362
+- Utilizing Text Analysis in Systematic Review Design: Perceptual and Cognitive Barriers to Adoption of Robotic and Automated Systems in Construction (2022) - 2 citations
+  DOI: https://doi.org/10.1061/9780784483961.075
+- Collecting a large number of alters in egocentric network research: A comparative analysis of three approaches *Social Networks* (2026) - 1 citations
+  DOI: https://doi.org/10.1016/j.socnet.2025.07.004
+- Socioeconomic inequalities in social support: Examining differences in social support network satisfaction and composition among pediatric cancer caregivers *Journal of Psychosocial Oncology* (2025) - 1 citations
+  DOI: https://doi.org/10.1080/07347332.2025.2483397
+- Personal Network Changes among Smoking Relapse Prevention Intervention Participants *American Journal of Health Behavior* (2023) - 1 citations
+  DOI: https://doi.org/10.5993/ajhb.47.5.8
+
+Research Grants (from Dimensions.ai):
+- Measuring the dynamic impact of personal social networks on language learning outcomes (2024-2027) - $598,444
+  Funder: Directorate for Social, Behavioral & Economic Sciences
+- Research Data Centers: Florida Research Data Center (2020-2024) - $305,000
+  Funder: Directorate for Social, Behavioral & Economic Sciences
+- Doctoral Dissertation Research: Risk Perceptions as Potential Mediators of Environmental Toxicants Associated with Biomass Fuel Use (2018-2020) - $25,029
+  Funder: Directorate for Social, Behavioral & Economic Sciences
+- Extreme Weather Events and Individual differences in Threat Perception and Behavior (2016-2020) - $414,962
+  Funder: Directorate for Engineering
+- Summer Course for Research Design in the Social, Behavioral and Economic Sciences (SCRD) (2014-2020) - $151,726
+  Funder: Directorate for Social, Behavioral & Economic Sciences
+
+Research Categories (from Dimensions.ai):
+44 Human Society; 52 Psychology; 46 Information and Computing Sciences; 4410 Sociology; 4203 Health Services and Systems
+
+Key Research Concepts (from Dimensions.ai):
+cancer caregivers; health care providers; care providers; personal networks; pediatric cancer caregivers; relapse prevention interventions; respondent burden; AI education; AI literacy; undergraduate programs
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Roswell Park Comprehensive Cancer Center
+- Carlos III University of Madrid
+- State University of New York at Buffalo
+- Autonomous University of Barcelona
+- Colorado State University Fort Collins
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 4.7/10
+Percentile: Top 2% of Water Institute faculty
+Rankings by Research Category:
+- Health Services and Systems: #1 of 4
+- Human Society: #1 of 27
+- Psychology: #1 of 1

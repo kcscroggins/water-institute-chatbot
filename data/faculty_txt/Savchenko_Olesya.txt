@@ -17,3 +17,55 @@ Dr. Savchenko employs experimental economics and non-market valuation to examine
 
 Keywords:
 Environmental economics and policy; water resource management; pro-environmental behavior adoption; agricultural economics; non-market valuation; experimental economics; aquatic invasive species economics.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 9
+- Total Citations: 64
+- H-Index: 4
+- Average Citations per Paper: 7.1
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 4.27 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Is a non-representative convenience sample of adults good enough? Insights from an economic experiment *Journal of the Economic Science Association* (2023) - 21 citations
+  DOI: https://doi.org/10.1007/s40881-023-00135-5
+- Mitigating stigma associated with recycled water *American Journal of Agricultural Economics* (2021) - 10 citations
+  DOI: https://doi.org/10.1111/ajae.12256
+- Intention Versus Action: Household Adoption of Best Management Practices for Water Quality *Water Resources Research* (2022) - 5 citations
+  DOI: https://doi.org/10.1029/2021wr029684
+- Encouraging pro-environmental behavior: Do testimonials by experts work? *PLOS ONE* (2023) - 2 citations
+  DOI: https://doi.org/10.1371/journal.pone.0291612
+- Lottery Incentives and Resource Management: Evidence from the Agricultural Data Reporting Incentive Program (AgDRIP) *Environmental and Resource Economics* (2022) - 2 citations
+  DOI: https://doi.org/10.1007/s10640-022-00690-1
+- Environmental risks and the profitability of Florida’s hard clam aquaculture industry *Aquaculture Economics & Management* (2025) - 1 citations
+  DOI: https://doi.org/10.1080/13657305.2025.2487523
+- Taking It for the Team: How Communication and Voting Increases Social Acceptance of Recycled Water *Water Resources Research* (2025)
+  DOI: https://doi.org/10.1029/2024wr038803
+- Navigating Public Perceptions: Exploring the Complex Social Dynamics of Invasive Species Management in Public Waters: FE1159, 10/2024 *EDIS* (2024)
+  DOI: https://doi.org/10.32473/edis-fe1159-2024
+
+Research Grants (from Dimensions.ai):
+- DISES: Valuing and managing engineered ecosystems: Primary and secondary services provided by stormwater ponds in urban landscapes (2023-2027) - $1,599,994
+  Funder: Directorate for Biological Sciences
+
+Research Categories (from Dimensions.ai):
+38 Economics; 3801 Applied Economics; 3707 Hydrology; 37 Earth Sciences; 40 Engineering
+
+Key Research Concepts (from Dimensions.ai):
+adult samples; growing body; growing body of literature; convenience sample; body of literature; water shortage; recycled water; field experimental setting; constrained markets; water recycling projects
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Delaware
+- The Center for Behavioral & Experimental Agri-Environmental Research
+- University of Pennsylvania
+- Franklin & Marshall College
+- University of Georgia
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.5/10
+Percentile: Top 72% of Water Institute faculty
+Rankings by Research Category:
+- Applied Economics: #6 of 12
+- Economics: #14 of 24
+- Hydrology: #14 of 18

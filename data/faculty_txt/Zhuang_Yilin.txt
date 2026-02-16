@@ -26,3 +26,48 @@ Zhuang's work supports effective agricultural and environmental programs by ensu
 
 Keywords:
 extension; community education; outreach; agriculture; natural resources; stakeholder engagement; UF/IFAS; Florida; workshops; training; knowledge transfer; practice adoption; technical assistance
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 10
+- Total Citations: 14
+- H-Index: 2
+- Average Citations per Paper: 1.4
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.41 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Mission Planner: An Open-Source Alternative to Commercial Flight Planning Software for Unmanned Aerial Systems: AE576/AE576, 8/2022 *EDIS* (2022) - 9 citations
+  DOI: https://doi.org/10.32473/edis-ae576-2022
+- WebODM: An Open-Source Alternative to Commercial Image Stitching Software for Uncrewed Aerial Systems: AE593, 2/2024 *EDIS* (2024) - 4 citations
+  DOI: https://doi.org/10.32473/edis-ae593-2024
+- Reclaimed Water in Your Florida-Friendly Edible Landscape: EP628/ENH1364, 1/2023 *EDIS* (2023) - 1 citations
+  DOI: https://doi.org/10.32473/edis-ep628-2023
+- Cost-Share Programs for Soil Moisture Sensors and Irrigation Projects in Florida: A Guide for Agricultural Growers: AE612, 12/2025 *EDIS* (2025)
+  DOI: https://doi.org/10.32473/edis-ae612-2025
+- Sandbag Disposal: Environmental and Practical Considerations After the Storm: FCS3402/FY1545, 2/2025 *EDIS* (2025)
+  DOI: https://doi.org/10.32473/edis-fy1545-2025
+- From Wells to Wellness: An Introduction to Drinking Water Systems in Florida: FE1156, 10/2024 *EDIS* (2024)
+  DOI: https://doi.org/10.32473/edis-fe1156-2024
+- Pozos privados 101: contaminación bacteriana y la cloración de choque: SL487-SP/SS738, 9/2024 *EDIS* (2024)
+  DOI: https://doi.org/10.32473/edis-ss738-2024
+- Household Drinking Water Testing for Public and Private Water Supplies *EDIS* (2023)
+  DOI: https://doi.org/10.32473/edis-ss712-2023
+- Private Well 101: Drinking Water Standards: SS297/SL159, rev. 6/2022 *EDIS* (2022)
+  DOI: https://doi.org/10.32473/edis-ss297-2022
+- Private Wells 101: Bacterial Contamination and Shock Chlorination *EDIS* (2021)
+  DOI: https://doi.org/10.32473/edis-ss700-2021
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 46 Information and Computing Sciences; 40 Engineering; 4106 Soil Sciences; 4602 Artificial Intelligence
+
+Key Research Concepts (from Dimensions.ai):
+aerial systems; water systems; public water systems; private wells; commercial-off-the-shelf; unmanned aerial systems; open-source; flight planning software; data processing tools; processing tools
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.2/10
+Percentile: Top 89% of Water Institute faculty
+Rankings by Research Category:
+- Artificial Intelligence: #1 of 1
+- Soil Sciences: #14 of 14
+- Information and Computing Sciences: #19 of 20

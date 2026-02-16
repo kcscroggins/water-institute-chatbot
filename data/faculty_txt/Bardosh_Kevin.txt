@@ -32,3 +32,55 @@ Other Affiliations:
 
 Keywords:
 Medical anthropology; global health; infectious diseases; emerging pathogens; zoonotic diseases; One Health; implementation science; community engagement; public health; vector-borne diseases; disease control; health policy; environmental anthropology; development studies; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 26
+- Total Citations: 865
+- H-Index: 13
+- Average Citations per Paper: 33.3
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 4.72 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Campylobacter Colonization, Environmental Enteric Dysfunction, Stunting, and Associated Risk Factors Among Young Children in Rural Ethiopia: A Cross-Sectional Study From the Campylobacter Genomics and Environmental Enteric Dysfunction (CAGED) Project *Frontiers in Public Health* (2021) - 44 citations
+  DOI: https://doi.org/10.3389/fpubh.2020.615793
+- Are malaria transmission-blocking vaccines acceptable to high burden communities? Results from a mixed methods study in Bo, Sierra Leone *Malaria Journal* (2021) - 21 citations
+  DOI: https://doi.org/10.1186/s12936-021-03723-0
+- Evaluating a community engagement model for malaria elimination in Haiti: lessons from the community health council project (2019–2021) *Malaria Journal* (2023) - 12 citations
+  DOI: https://doi.org/10.1186/s12936-023-04471-z
+- Chronic kidney disease in Ecuador: An epidemiological and health system analysis of an emerging public health crisis *PLOS ONE* (2022) - 8 citations
+  DOI: https://doi.org/10.1371/journal.pone.0265395
+- Was lockdown worth it? community perspectives and experiences of the Covid-19 pandemic in remote southwestern Haiti *Social Science & Medicine* (2023) - 7 citations
+  DOI: https://doi.org/10.1016/j.socscimed.2023.116076
+- Social dynamics influencing cholera risk in the City of Goma, Democratic Republic of Congo: a qualitative study *BMC Public Health* (2025) - 2 citations
+  DOI: https://doi.org/10.1186/s12889-025-22981-0
+- Five Social Dynamics Influencing Cholera risks in the City of Goma, Democratic Republic of Congo: A qualitative Study *Research Square* (2024) - 2 citations
+  DOI: https://doi.org/10.21203/rs.3.rs-5275711/v1
+- Chronic Kidney Disease in Ecuador: An Epidemiological and Health System Analysis of an Emerging Public Health Crisis *medRxiv* (2021) - 1 citations
+  DOI: https://doi.org/10.1101/2021.02.19.21252087
+- Evaluating a Community Engagement Model for Malaria Elimination in Haiti: Lessons from the Community Health Council (CHC) project (2019-2021) *Research Square* (2022)
+  DOI: https://doi.org/10.21203/rs.3.rs-2074284/v1
+- Research Participation Influences Willingness to Reduce Zoonotic Exposure in Uganda *EcoHealth* (2022)
+  DOI: https://doi.org/10.1007/s10393-022-01589-5
+
+Research Categories (from Dimensions.ai):
+42 Health Sciences; 4203 Health Services and Systems; 4206 Public Health; 32 Biomedical and Clinical Sciences; 3202 Clinical Sciences
+
+Key Research Concepts (from Dimensions.ai):
+indoor residual spraying; anti-malaria activity; malaria control; mass drug administration; community health councils; public health crisis; chronic kidney disease; health systems analysis; city of Goma; Democratic Republic
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Carter Center
+- State University of New York Upstate Medical University
+- University of Washington
+- Haramaya University
+- Ministère de la Santé Publique et de la Population
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.1/10
+Percentile: Top 46% of Water Institute faculty
+Rankings by Research Category:
+- Public Health: #2 of 4
+- Health Sciences: #3 of 7
+- Health Services and Systems: #3 of 4

@@ -39,3 +39,32 @@ Water & Policy Relevance:
 
 Keywords:
 Extension; horticulture; Florida-Friendly Landscaping; water conservation; irrigation; Master Gardener; Nassau County; landscape architecture; residential landscapes; native plants; nutrient reduction; urban BMPs; drought tolerance; ecosystem services; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 3
+- Total Citations: 56
+- H-Index: 2
+- Average Citations per Paper: 18.7
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.73 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Sustainable Residential Landscapes in Florida: Controlled Comparison of Traditional versus Florida-Friendly Landscaping *Journal of Irrigation and Drainage Engineering* (2021) - 13 citations
+  DOI: https://doi.org/10.1061/(asce)ir.1943-4774.0001577
+- Salvaging Native Plants from Sites Slated for Development: Stop Wasting Resources: FOR373/FR442, 10/2021 *EDIS* (2021)
+  DOI: https://doi.org/10.32473/edis-fr442-2021
+
+Research Categories (from Dimensions.ai):
+4005 Civil Engineering; 40 Engineering; 41 Environmental Sciences; 31 Biological Sciences; 3103 Ecology
+
+Key Research Concepts (from Dimensions.ai):
+Florida-Friendly Landscaping; residential landscapes; landscape; Florida; controlled comparison; native plant species; plant species; native plants; urban landscape; development sites
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.2/10
+Percentile: Top 89% of Water Institute faculty
+Rankings by Research Category:
+- Civil Engineering: #4 of 4
+- Engineering: #47 of 53
+- Ecology: #52 of 59

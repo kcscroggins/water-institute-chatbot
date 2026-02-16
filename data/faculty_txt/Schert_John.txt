@@ -31,3 +31,22 @@ John Schert steers multi-institutional research portfolios and translational act
 
 Keywords:
 solid waste management; hazardous waste; Hinkley Center; research coordination; waste policy; environmental protection; regulatory frameworks; stakeholder engagement; Florida DEP; waste systems; program leadership; environmental engineering; applied research
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 1
+- Total Citations: 20
+- H-Index: 1
+- Average Citations per Paper: 20.0
+
+Research Grants (from Dimensions.ai):
+- Sustainable Design and Implementation of a Solid Waste Management System in Kratovo, Macedonia: A Learning Partnership between University of Florida and Macedonia through Engineers without Borders (2006-2009) - $10,000
+  Funder: Environmental Protection Agency
+- Florida Interdisciplinary Center for Environmentally Sound Solutions (2002-2007) - $719,992
+  Funder: Directorate for Technology, Innovation and Partnerships
+- Bioreactor Landfill Moisture Management (2000-2003)
+  Funder: Environmental Protection Agency
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.2/10
+Percentile: Top 89% of Water Institute faculty

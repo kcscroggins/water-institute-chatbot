@@ -1,0 +1,78 @@
+Name: James Jones
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: 
+Website: 
+Google Scholar: 
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 164
+- Total Citations: 11423
+- H-Index: 50
+- Average Citations per Paper: 69.7
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 6.29 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Effective climate change adaptation means supporting community autonomy *Nature Climate Change* (2022) - 78 citations
+  DOI: https://doi.org/10.1038/s41558-022-01303-x
+- Enabling circularity in grain production systems with novel technologies and policy *Agricultural Systems* (2021) - 54 citations
+  DOI: https://doi.org/10.1016/j.agsy.2021.103244
+- Introducing HL7 FHIR Genomics Operations: a developer-friendly approach to genomics-EHR integration *Journal of the American Medical Informatics Association* (2022) - 33 citations
+  DOI: https://doi.org/10.1093/jamia/ocac246
+- Incorporating a dynamic gene-based process module into a crop simulation model *in silico Plants* (2021) - 18 citations
+  DOI: https://doi.org/10.1093/insilicoplants/diab011
+- Feeling the beat: a smart hand exoskeleton for learning to play musical instruments *Frontiers in Robotics and AI* (2023) - 17 citations
+  DOI: https://doi.org/10.3389/frobt.2023.1212768
+- vcf2fhir: a utility to convert VCF files into HL7 FHIR format for genomics-EHR integration *BMC Bioinformatics* (2021) - 17 citations
+  DOI: https://doi.org/10.1186/s12859-021-04039-1
+- A scalable index for quantifying circularity of bioeconomy systems *Resources Conservation and Recycling* (2024) - 9 citations
+  DOI: https://doi.org/10.1016/j.resconrec.2024.107821
+- Ethnographic methods: Training norms and practices and the future of American anthropology *American Anthropologist* (2024) - 7 citations
+  DOI: https://doi.org/10.1111/aman.13991
+- Dynamic QTL-based ecophysiological models to predict phenotype from genotype and environment data *BMC Plant Biology* (2022) - 6 citations
+  DOI: https://doi.org/10.1186/s12870-022-03624-7
+- A multi model ensemble reveals net climate benefits from regenerative practices in US Midwest croplands *Scientific Reports* (2025) - 5 citations
+  DOI: https://doi.org/10.1038/s41598-025-08419-y
+
+Research Grants (from Dimensions.ai):
+- Assessing climate information needs and opportunities for applying climate information for forest management in the southeast USA (2014-2014)
+  Funder: National Institute of Food and Agriculture
+- Merging Crop Modeling and Genetics: A Training Workshop, August 2014, Univerity of Florida. (2014-2015) - $82,450
+  Funder: Directorate for Biological Sciences
+- INTEGRATING RESEARCH, EDUCATION, AND EXTENSION FOR ENHANCING SOUTHERN PINE CLIMATE CHANGE MITIGATION AND ADAPTATION (2013-2014) - $16,000,000
+  Funder: National Institute of Food and Agriculture
+- Collaborative Research: CyberSEES:Type 2: Framework to Advance Climate, Economics, and Impact Investigations with Information Technology (FACE-IT) (2013-2016) - $302,710
+  Funder: Directorate for Computer & Information Science & Engineering
+- Development of a Gene-Based Ecophysiology Model (2010-2015) - $2,385,950
+  Funder: Directorate for Biological Sciences
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3004 Crop and Pasture Production; 41 Environmental Sciences; 3002 Agriculture, Land and Farm Management; 46 Information and Computing Sciences
+
+Key Research Concepts (from Dimensions.ai):
+time-to-flowering; crop simulation models; cropping system model; genotype-specific parameters; dynamic crop simulation models; quantitative trait loci; precision breeding; DSSAT Cropping System Model; soil organic carbon; agronomic practices
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Michigan State University
+- Universidade de Passo Fundo
+- Colorado State University Fort Collins
+- Elimu Informatics, 1160 Brickyard Cove Rd Ste 200, 94801-4173, Richmond, CA, USA
+- Florida Atlantic University

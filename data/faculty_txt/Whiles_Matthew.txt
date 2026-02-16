@@ -29,3 +29,38 @@ Whiles's work informs water-quality management and watershed policy by clarifyin
 
 Keywords:
 stream ecology; river ecology; aquatic food webs; nutrient cycling; organic matter dynamics; benthic invertebrates; secondary production; stable isotopes; biogeochemistry; freshwater ecosystems; land-water linkages; water quality; watershed management; ecosystem function
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 2
+- Total Citations: 5
+- H-Index: 1
+- Average Citations per Paper: 2.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 1.22 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Environmental risk assessment for fecal contamination sources in urban and peri-urban estuaries, in Escambia and Santa Rosa counties, FL, USA *Environmental Monitoring and Assessment* (2023) - 5 citations
+  DOI: https://doi.org/10.1007/s10661-023-11478-1
+- Biovolume of Naidinae and Pristininae (Clitellata: Oligochaeta) in neotropical environments *Biologia* (2022)
+  DOI: https://doi.org/10.1007/s11756-022-01304-3
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 3107 Microbiology; 41 Environmental Sciences; 3103 Ecology
+
+Key Research Concepts (from Dimensions.ai):
+microbial source tracking; fecal indicator bacteria; fecal pollution; fecal inputs; environmental risk assessment; Neotropical environments; biomonitoring programs; freshwater systems; flows of matter; total animals
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Centro Universitário de Araraquara
+- Georgia College & State University
+- Pensacola, USA
+- Universidade de São Paulo
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.1/10
+Percentile: Top 97% of Water Institute faculty
+Rankings by Research Category:
+- Microbiology: #20 of 20
+- Ecology: #57 of 59
+- Biological Sciences: #116 of 118

@@ -29,3 +29,51 @@ Research Metrics:
 
 Keywords:
 Quantitative geomorphology; coastal processes; coastal evolution; sediment transport; shoreline change; beach morphology; storm impacts; numerical modeling; surface processes; landscape evolution; fluvial processes; tectonic geomorphology; field instrumentation.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 36
+- Total Citations: 1022
+- H-Index: 14
+- Average Citations per Paper: 28.4
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.0 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Total water level controls on the trajectory of dune toe retreat *Geomorphology* (2023) - 9 citations
+  DOI: https://doi.org/10.1016/j.geomorph.2023.108826
+- Leveraging successional facilitation to improve restoration of foundational dune grasses along a frequently disturbed coastline *Restoration Ecology* (2024) - 5 citations
+  DOI: https://doi.org/10.1111/rec.14207
+- On the Potential for Remote Observations of Coastal Morphodynamics from Surf-Cameras *Remote Sensing* (2022) - 5 citations
+  DOI: https://doi.org/10.3390/rs14071706
+- Strategic planting and nutrient amendments to accelerate the revegetation of rapidly retreating coastal dunes *Journal of Applied Ecology* (2025) - 4 citations
+  DOI: https://doi.org/10.1111/1365-2664.14859
+- Tidal and subtidal hydrodynamics over ridge-swale bathymetry *Continental Shelf Research* (2021) - 2 citations
+  DOI: https://doi.org/10.1016/j.csr.2021.104392
+- Observational and Modeling Evidence for a Multi‐Decadal Shift in Longshore Sediment Transport Patterns From a Changing Wave Climate Along the Atlantic Coast of the Southeastern US *Journal of Geophysical Research Earth Surface* (2025)
+  DOI: https://doi.org/10.1029/2025jf008716
+- Creek System and Regional Patterns of Juncus roemerianus Stress and Links to Salt Marsh Loss on the Florida Gulf Coast *Wetlands* (2025)
+  DOI: https://doi.org/10.1007/s13157-024-01892-7
+- GEOAppS: Interactive numerical models of geomorphic processes and application in a post-secondary coastal processes course *Journal of Geoscience Education* (2021)
+  DOI: https://doi.org/10.1080/10899995.2021.1890527
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 41 Environmental Sciences; 31 Biological Sciences; 3709 Physical Geography and Environmental Geoscience; 3705 Geology
+
+Key Research Concepts (from Dimensions.ai):
+total water level; outer bank; exceedance levels; retreat trajectory; dune erosion model; bitter panicum; sea oats; climax species; dune revegetation; reciprocal transplant experiment
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Engineer Research and Development Center
+- Utrecht University
+- Royal Netherlands Institute for Sea Research
+- University of Groningen
+- United States Geological Survey
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.0/10
+Percentile: Top 49% of Water Institute faculty
+Rankings by Research Category:
+- Physical Geography and Environmental Geoscience: #8 of 11
+- Geology: #8 of 11
+- Earth Sciences: #45 of 70

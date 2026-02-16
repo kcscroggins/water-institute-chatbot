@@ -28,3 +28,55 @@ Dr. Ryan's research informs public health and environmental policy by quantifyin
 
 Keywords:
 medical geography; disease ecology; vector-borne disease; climate and health; spatial epidemiology; geospatial modeling; risk mapping; dengue; malaria; infectious disease; climate change; public health; emerging pathogens; environmental health; tropical disease
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 217
+- Total Citations: 7899
+- H-Index: 42
+- Average Citations per Paper: 36.4
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 12.58 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Climate predicts geographic and temporal variation in mosquito-borne disease dynamics on two continents *Nature Communications* (2021) - 120 citations
+  DOI: https://doi.org/10.1038/s41467-021-21496-7
+- Temperature impacts the environmental suitability for malaria transmission by Anopheles gambiae and Anopheles stephensi *Ecology* (2022) - 102 citations
+  DOI: https://doi.org/10.1002/ecy.3685
+- The science of the host–virus network *Nature Microbiology* (2021) - 94 citations
+  DOI: https://doi.org/10.1038/s41564-021-00999-5
+- The future of zoonotic risk prediction *Philosophical Transactions of the Royal Society B Biological Sciences* (2021) - 91 citations
+  DOI: https://doi.org/10.1098/rstb.2020.0358
+- Assessing the risk of human‐to‐wildlife pathogen transmission for conservation and public health *Ecology Letters* (2022) - 87 citations
+  DOI: https://doi.org/10.1111/ele.14003
+- The overlapping global distribution of dengue, chikungunya, Zika and yellow fever *Nature Communications* (2025) - 68 citations
+  DOI: https://doi.org/10.1038/s41467-025-58609-5
+- The Global Virome in One Network (VIRION): an Atlas of Vertebrate-Virus Associations *mBio* (2022) - 68 citations
+  DOI: https://doi.org/10.1128/mbio.02985-21
+- Urban-adapted mammal species have more known pathogens *Nature Ecology & Evolution* (2022) - 55 citations
+  DOI: https://doi.org/10.1038/s41559-022-01723-0
+- Trends and Opportunities in Tick-Borne Disease Geography *Journal of Medical Entomology* (2021) - 49 citations
+  DOI: https://doi.org/10.1093/jme/tjab086
+- Trends in mosquito species distribution modeling: insights for vector surveillance and disease control *Parasites & Vectors* (2023) - 47 citations
+  DOI: https://doi.org/10.1186/s13071-023-05912-z
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 41 Environmental Sciences; 4101 Climate Change Impacts and Adaptation; 3103 Ecology; 32 Biomedical and Clinical Sciences
+
+Key Research Concepts (from Dimensions.ai):
+global virome; malaria transmission; host-virus networks; viral ecology; transmission suitability; context-dependent effects; effects of climate; disease dynamics; population dynamics; natural populations
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Georgetown University Medical Center
+- London School of Hygiene & Tropical Medicine
+- University of KwaZulu-Natal
+- Viral Emergence Research Initiative consortium, a global scientific collaboration to predict which viruses could infect humans, which animals host them, and where they could emerge
+- Georgetown University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 3.8/10
+Percentile: Top 5% of Water Institute faculty
+Rankings by Research Category:
+- Climate Change Impacts and Adaptation: #1 of 16
+- Ecology: #3 of 59
+- Biomedical and Clinical Sciences: #4 of 30

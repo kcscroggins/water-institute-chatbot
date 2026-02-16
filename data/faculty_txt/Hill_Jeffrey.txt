@@ -28,3 +28,65 @@ Water & Policy Relevance:
 
 Keywords:
 Aquaculture; tropical aquaculture; water quality; production systems; recirculating systems; pond systems; nutrient management; Extension; species culture; sustainable aquaculture; nutrient discharge; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 67
+- Total Citations: 1309
+- H-Index: 20
+- Average Citations per Paper: 19.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 5.11 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- A global-scale screening of non-native aquatic organisms to identify potentially invasive species under current and future climate conditions *The Science of The Total Environment* (2021) - 135 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2021.147868
+- A protocol for screening potentially invasive non-native species using Weed Risk Assessment-type decision-support tools *The Science of The Total Environment* (2022) - 45 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2022.154966
+- Identifying invasive species threats, pathways, and impacts to improve biosecurity *Ecosphere* (2023) - 34 citations
+  DOI: https://doi.org/10.1002/ecs2.4711
+- Chapter 16 Impacts of alien invasive species on large wetlands (2022) - 29 citations
+  DOI: https://doi.org/10.1016/b978-0-12-822362-8.00018-9
+- Life history strategies differentiate established from failed non‐native freshwater fish in peninsular Florida *Diversity and Distributions* (2021) - 24 citations
+  DOI: https://doi.org/10.1111/ddi.13448
+- Unstable intraguild predation causes establishment failure of a globally invasive species *Ecology* (2021) - 16 citations
+  DOI: https://doi.org/10.1002/ecy.3411
+- Predicting successful reproduction and establishment of non-native freshwater fish in peninsular Florida using life history traits *Journal of Vertebrate Biology* (2021) - 15 citations
+  DOI: https://doi.org/10.25225/jvb.21041
+- Non-native poeciliids in hot water: the role of thermal springs in facilitating invasion of tropical species *Hydrobiologia* (2021) - 9 citations
+  DOI: https://doi.org/10.1007/s10750-021-04669-9
+- Emigration of Juvenile Tarpon Megalops atlanticus from Ephemerally Connected Coastal Ponds *Estuaries and Coasts* (2024) - 7 citations
+  DOI: https://doi.org/10.1007/s12237-024-01424-w
+- Domestication and feralization influence the distribution and phenotypes of escaped ornamental fish *Biological Invasions* (2021) - 7 citations
+  DOI: https://doi.org/10.1007/s10530-020-02415-1
+
+Research Grants (from Dimensions.ai):
+- Ecology and Management of Non-Native Aquatic Animal Species in Florida (2019-2024)
+  Funder: National Institute of Food and Agriculture
+- Ecology and Management of Non-Native Aquatic Animal Species in Florida (2014-2018)
+  Funder: National Institute of Food and Agriculture
+- EVALUATION OF THE FISH INVASIVENESS SCORING KIT (FISK) AS A SCREENING TOOL FOR NON-NATIVE FRESHWATER FISHES IN FLORIDA (2013-2018) - $59,894
+  Funder: National Institute of Food and Agriculture
+- Evaluation of the Fish Invasiveness Scoring Kit (FISK) as a Screening Tool for Non-Native Freshwater Fishes in Florida (2010-2013) - $68,548
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 3103 Ecology; 41 Environmental Sciences; 4101 Climate Change Impacts and Adaptation; 4102 Ecological Applications
+
+Key Research Concepts (from Dimensions.ai):
+non-native species; life history traits; history traits; biotic resistance; invasive non-native species; high-risk species; non-native fishes; risk of establishment; peninsular Florida; propagule pressure
+
+Top Collaborating Institutions (from Dimensions.ai):
+- United States Geological Survey
+- University of Łódź
+- Centre for Environment, Fisheries and Aquaculture Science
+- South African Institute for Aquatic Biodiversity
+- Florida Fish and Wildlife Conservation Commission
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.6/10
+Percentile: Top 27% of Water Institute faculty
+Rankings by Research Category:
+- Climate Change Impacts and Adaptation: #5 of 16
+- Ecological Applications: #9 of 32
+- Ecology: #21 of 59

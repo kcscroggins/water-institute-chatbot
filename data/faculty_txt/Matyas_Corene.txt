@@ -29,3 +29,63 @@ Dr. Matyas produces evidence on spatial rainfall structure and variability that 
 
 Keywords:
 tropical cyclones; rainfall dynamics; precipitation patterns; GIS; remote sensing; radar data; machine learning; deep learning; climate variability; ENSO; severe weather; hydrometeorology; flood risk; spatial analysis; weather forecasting; climatology
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 39
+- Total Citations: 752
+- H-Index: 17
+- Average Citations per Paper: 19.3
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.11 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Regionalization of precipitation associated with tropical cyclones using spatial metrics and satellite precipitation *GIScience & Remote Sensing* (2021) - 22 citations
+  DOI: https://doi.org/10.1080/15481603.2021.1908675
+- Simulating the Effects of Land Surface Characteristics on Planetary Boundary Layer Parameters for a Modeled Landfalling Tropical Cyclone *Atmosphere* (2022) - 9 citations
+  DOI: https://doi.org/10.3390/atmos13010138
+- Spatial Variations in Tropical Cyclone Rainfall over the Western North Pacific According to ENSO Phase *Journal of Climate* (2023) - 7 citations
+  DOI: https://doi.org/10.1175/jcli-d-22-0231.1
+- Evaluation of Experimental High-Resolution Model Forecasts of Tropical Cyclone Precipitation Using Object-Based Metrics *Weather and Forecasting* (2023) - 6 citations
+  DOI: https://doi.org/10.1175/waf-d-22-0223.1
+- Integrated Academic, Research, and Professional Experiences for 2-Year College Students Lowered Barriers in STEM Engagement: A Case Study in Geosciences *The Journal of STEM Outreach* (2022) - 6 citations
+  DOI: https://doi.org/10.15695/jstem/v5i1.03
+- Classification of tropical cyclone rain patterns using convolutional autoencoder *Scientific Reports* (2024) - 5 citations
+  DOI: https://doi.org/10.1038/s41598-023-50994-5
+- Tropical cyclones in the northern Mozambique Channel: composite intra-seasonal forcing and 2019 event *Meteorology and Atmospheric Physics* (2022) - 4 citations
+  DOI: https://doi.org/10.1007/s00703-022-00911-8
+- Geospatial Analysis of Rain Fields and Associated Environmental Conditions for Cyclones Eline and Hudah *Geomatics* (2021) - 4 citations
+  DOI: https://doi.org/10.3390/geomatics1010008
+- Assessing environmental conditions associated with spatially varying rainfall structure of North Atlantic tropical cyclones: An object‐based climatological analysis *International Journal of Climatology* (2023) - 3 citations
+  DOI: https://doi.org/10.1002/joc.8156
+- High Efficiency Weather Radar Mosaic Image Generation Framework (2021) - 3 citations
+  DOI: https://doi.org/10.1109/igarss47720.2021.9554081
+
+Research Grants (from Dimensions.ai):
+- Collaborative Research: GP-EXTRA: Geoscience Engagement and Outreach (GEO) - High-Impact Integrated Academic and Professional Experiences (2015-2019) - $156,667
+  Funder: Directorate for Geosciences
+- MRI: Development of a Versatile, Self-Configuring Turbulent Flow Condition System for a Shared-Use Hybrid Low-Speed Wind Tunnel (2014-2019) - $921,370
+  Funder: Directorate for Engineering
+- SGER: Crop and Forest Losses Due to Hurricane Dean (2007-2008) - $9,000
+  Funder: Directorate for Social, Behavioral & Economic Sciences
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3701 Atmospheric Sciences; 3708 Oceanography; 3702 Climate Change Science; 3901 Curriculum and Pedagogy
+
+Key Research Concepts (from Dimensions.ai):
+tropical cyclones; North Atlantic tropical cyclones; Atlantic tropical cyclones; tropical cyclone precipitation; rainfall patterns; North Atlantic; hazard mitigation; rain rate; land surface; planetary boundary layer parameters
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Virginia Polytechnic Institute and State University
+- Santa Fe College
+- Orlando Science Center
+- Atlantic Oceanographic and Meteorological Laboratory
+- University of Arizona
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.3/10
+Percentile: Top 35% of Water Institute faculty
+Rankings by Research Category:
+- Climate Change Science: #1 of 5
+- Curriculum and Pedagogy: #2 of 5
+- Oceanography: #3 of 8

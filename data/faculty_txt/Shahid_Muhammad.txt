@@ -18,3 +18,55 @@ Dr. Shahid investigates stress tolerance and physiology of fruit crops including
 
 Keywords:
 Abiotic stress tolerance; citrus physiology; cold hardiness; crop diversification; plant biochemistry; horticultural science; extension education; sustainable agriculture.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 72
+- Total Citations: 1603
+- H-Index: 19
+- Average Citations per Paper: 22.3
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 11.34 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Biochar improves soil physical characteristics and strengthens root architecture in Muscadine grape (Vitis rotundifolia L.) *Chemical and Biological Technologies in Agriculture* (2021) - 95 citations
+  DOI: https://doi.org/10.1186/s40538-020-00204-5
+- Interaction between bacterial endophytes and host plants *Frontiers in Plant Science* (2023) - 67 citations
+  DOI: https://doi.org/10.3389/fpls.2022.1092105
+- Physiological, biochemical, and molecular responses of fruit trees to root zone hypoxia *Environmental and Experimental Botany* (2023) - 57 citations
+  DOI: https://doi.org/10.1016/j.envexpbot.2022.105179
+- Microbial Exudates as Biostimulants: Role in Plant Growth Promotion and Stress Mitigation *Journal of Xenobiotics* (2023) - 55 citations
+  DOI: https://doi.org/10.3390/jox13040037
+- Influence of environmental factors on seed germination and seedling characteristics of perennial ryegrass (Lolium perenne L.) *Scientific Reports* (2022) - 54 citations
+  DOI: https://doi.org/10.1038/s41598-022-13416-6
+- Citrus Canker Pathogen, Its Mechanism of Infection, Eradication, and Impacts *Plants* (2022) - 53 citations
+  DOI: https://doi.org/10.3390/plants12010123
+- Pros and Cons of Biochar to Soil Potentially Toxic Element Mobilization and Phytoavailability: Environmental Implications *Earth Systems and Environment* (2022) - 47 citations
+  DOI: https://doi.org/10.1007/s41748-022-00336-8
+- γ Aminobutyric Acid (GABA): A Key Player in Alleviating Abiotic Stress Resistance in Horticultural Crops: Current Insights and Future Directions *Horticulturae* (2023) - 46 citations
+  DOI: https://doi.org/10.3390/horticulturae9060647
+- A comparative study of plant growth promoting rhizobacteria (PGPR) and sowing methods on nutrient availability in wheat and rhizosphere soil under salinity stress *Rhizosphere* (2022) - 43 citations
+  DOI: https://doi.org/10.1016/j.rhisph.2022.100571
+- Silicon Alleviate Hypoxia Stress by Improving Enzymatic and Non-enzymatic Antioxidants and Regulating Nutrient Uptake in Muscadine Grape (Muscadinia rotundifolia Michx.) *Frontiers in Plant Science* (2021) - 38 citations
+  DOI: https://doi.org/10.3389/fpls.2020.618873
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 31 Biological Sciences; 3004 Crop and Pasture Production; 3108 Plant Biology; 3008 Horticultural Production
+
+Key Research Concepts (from Dimensions.ai):
+antioxidant activity; hypoxia stress; abscisic acid; citrus canker; root zone application; abiotic stresses; in silico analysis; water holding capacity; soil water holding capacity; soil bulk density
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of the Punjab
+- Zhongkai University of Agriculture and Engineering
+- University of Sargodha
+- Nanjing Agricultural University
+- University of Agriculture Faisalabad
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.8/10
+Percentile: Top 23% of Water Institute faculty
+Rankings by Research Category:
+- Horticultural Production: #3 of 13
+- Plant Biology: #4 of 18
+- Crop and Pasture Production: #17 of 41

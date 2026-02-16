@@ -27,3 +27,65 @@ Dr. Qiu's research informs land-use and conservation decisions by quantifying ec
 
 Keywords:
 landscape ecology; land-use change; ecosystem services; sustainability; coupled human-natural systems; spatial modeling; GIS; conservation; environmental planning; scenario analysis; trade-off analysis; decision support; regional planning
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 71
+- Total Citations: 1482
+- H-Index: 23
+- Average Citations per Paper: 20.9
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 9.25 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Assessing coupling interactions in a safe and just operating space for regional sustainability *Nature Communications* (2023) - 117 citations
+  DOI: https://doi.org/10.1038/s41467-023-37073-z
+- Mapping ecosystem service supply and demand dynamics under rapid urban expansion: A case study in the Yangtze River Delta of China *Ecosystem Services* (2022) - 76 citations
+  DOI: https://doi.org/10.1016/j.ecoser.2022.101448
+- Supply and demand dynamics of hydrologic ecosystem services in the rapidly urbanizing Taihu Lake Basin of China *Applied Geography* (2023) - 41 citations
+  DOI: https://doi.org/10.1016/j.apgeog.2022.102853
+- Land-use intensity mediates ecosystem service tradeoffs across regional social-ecological systems *Ecosystems and People* (2021) - 37 citations
+  DOI: https://doi.org/10.1080/26395916.2021.1925743
+- Scale up urban agriculture to leverage transformative food systems change, advance social–ecological resilience and improve sustainability *Nature Food* (2024) - 34 citations
+  DOI: https://doi.org/10.1038/s43016-023-00902-x
+- Key questions for understanding drivers of biodiversity-ecosystem service relationships across spatial scales *Landscape Ecology* (2024) - 28 citations
+  DOI: https://doi.org/10.1007/s10980-024-01842-y
+- Integrating sustainability indicators and governance structures via clustering analysis and multicriteria decision making for an urban agriculture network *Ecological Indicators* (2022) - 28 citations
+  DOI: https://doi.org/10.1016/j.ecolind.2022.109237
+- Importance of plant diversity and structure for urban garden pest resistance *Landscape and Urban Planning* (2021) - 25 citations
+  DOI: https://doi.org/10.1016/j.landurbplan.2021.104211
+- Grassland intensification effects cascade to alter multifunctionality of wetlands within metaecosystems *Nature Communications* (2023) - 24 citations
+  DOI: https://doi.org/10.1038/s41467-023-44104-2
+- Integrating water quantity- and quality-related ecosystem services into water scarcity assessment: A multi-scenario analysis in the Taihu Basin of China *Applied Geography* (2023) - 21 citations
+  DOI: https://doi.org/10.1016/j.apgeog.2023.103101
+
+Research Grants (from Dimensions.ai):
+- Trait-based Assessments of Interactive Climate Change and Land Management Effects on Soil Greenhouse Gas Fluxes in Subtropical Grasslands (2023-2026) - $649,934
+  Funder: National Institute of Food and Agriculture
+- From drought to deluge: Sustaining multiple ecosystem services of subtropical grasslands under altered precipitation regimes (2021-2026) - $500,000
+  Funder: National Institute of Food and Agriculture
+- Sustaining forest ecosystem services in southeastern United States in a rapidly changing environment (2017-2022)
+  Funder: National Institute of Food and Agriculture
+- Sustaining ecosystem services, biodiversity and human well-being in changing landscapes (2017-2022)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 4104 Environmental Management; 4102 Ecological Applications; 31 Biological Sciences; 37 Earth Sciences
+
+Key Research Concepts (from Dimensions.ai):
+ecosystem services; land-use intensification; Sustainable Development Goals; urban expansion; land-use intensity; urban agriculture; land-use; urban sustainability; regional sustainability; human well-being
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Beijing Normal University
+- Nanjing Agricultural University
+- University of Central Florida
+- Archbold Biological Station
+- State Key Laboratory of Earth Surface Processes and Resource Ecology
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.0/10
+Percentile: Top 18% of Water Institute faculty
+Rankings by Research Category:
+- Ecological Applications: #6 of 32
+- Environmental Management: #8 of 46
+- Earth Sciences: #21 of 70

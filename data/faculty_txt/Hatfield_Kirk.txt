@@ -26,3 +26,58 @@ Water & Policy Relevance:
 
 Keywords:
 Hydrogeology; groundwater modeling; contaminant transport; nutrient transport; aquifers; groundwater-surface water interactions; subsurface hydrology; springs; water quality; numerical modeling; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 68
+- Total Citations: 1663
+- H-Index: 21
+- Average Citations per Paper: 24.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 0.87 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Data driven deep learning method for quantifying groundwater flux in deep fractured aquifers with the fractured rock passive flux meter *Advances in Water Resources* (2025) - 1 citations
+  DOI: https://doi.org/10.1016/j.advwatres.2025.105058
+- Measurement of groundwater and contaminant fluxes using a combined system of fractured rock passive flux meter and multiport sampler *The Science of The Total Environment* (2025) - 1 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2025.179709
+- GIS‐based multi-criteria decision analysis for landfill allocation in a tropical metropolitan region *Environmental Earth Sciences* (2024) - 1 citations
+  DOI: https://doi.org/10.1007/s12665-023-11407-y
+
+Research Grants (from Dimensions.ai):
+- Demonstration and Validation of a Fractured Rock Passive Flux Meter (2008-present)
+  Funder: Office of the Secretary of Defense
+- Novel Sensor for the In Situ Measurement of Uranium Fluxes (2008-2012) - $1,140,181
+  Funder: Office of Biological and Environmental Research
+- U.S.-Brazil Collaboration: Investigation of Subsurface Contaminant Mass Flows (2008-2011) - $19,800
+  Funder: Office of the Director
+- US-Egypt Cooperative Research: Exploratory Study of Sediment Deposition and Sand Dune Encroachment in the Lake Nasser Reservoir Using Remote Sensing Techniques (2001-2005) - $30,000
+  Funder: Office of the Director
+- An In Situ Tracer Method for Establishing the Presence and Predicting the Activity of Heavy Metal-Reducing Microbes in the Subsurface (1997-2000) - $790,550
+  Funder: Office of Biological and Environmental Research
+
+Patents (from Dimensions.ai):
+- Sediment bed passive flux meter (SBPFM) (2015) - 4 citations
+- Sediment Bed Passive Flux Meter (SBPFM) (2015)
+- HUMIC DERIVATIVES METHODS OF PREPARATION AND USE (2006) - 5 citations
+- Device and method for measuring fluid fluxes, solute fluxes and fracture parameters in fracture flow systems (2006) - 36 citations
+- Humic Derivatives Methods of Preparation and Use (2006) - 11 citations
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3707 Hydrology; 3705 Geology; 41 Environmental Sciences; 3704 Geoinformatics
+
+Key Research Concepts (from Dimensions.ai):
+passive flux meter; groundwater flux; fractured aquifers; deep fractured aquifer; movement of groundwater; measurement of groundwater; contaminant flux; fractured rock aquifers; natural flow conditions; geographic information system
+
+Top Collaborating Institutions (from Dimensions.ai):
+- United Arab Emirates University
+- Federal University of Bahia
+- University of Guelph
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.6/10
+Percentile: Top 27% of Water Institute faculty
+Rankings by Research Category:
+- Geoinformatics: #4 of 7
+- Geology: #5 of 11
+- Hydrology: #6 of 18

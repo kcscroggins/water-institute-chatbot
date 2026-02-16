@@ -1,0 +1,78 @@
+Name: Mark Brown
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: mtb@ufl.edu
+Website: http://www.ees.ufl.edu/homepp/brown/
+Google Scholar: https://scholar.google.com/citations?user=CjqsDiYAAAAJ
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 133
+- Total Citations: 6283
+- H-Index: 40
+- Average Citations per Paper: 47.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.67 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Frequency drift in MR spectroscopy at 3T *NeuroImage* (2021) - 48 citations
+  DOI: https://doi.org/10.1016/j.neuroimage.2021.118430
+- Renewable energy in fisheries and aquaculture: Case studies from the United States *Journal of Cleaner Production* (2022) - 37 citations
+  DOI: https://doi.org/10.1016/j.jclepro.2022.134153
+- Aquatic food loss and waste rate in the United States is half of earlier estimates *Nature Food* (2023) - 31 citations
+  DOI: https://doi.org/10.1038/s43016-023-00881-z
+- Estimating the Value of Global Ecosystem Structure and Productivity: A Geographic Information System and Emergy Based Approach *Ecological Modelling* (2021) - 16 citations
+  DOI: https://doi.org/10.1016/j.ecolmodel.2020.109307
+- Quantifying the environmental support to wild catch Alaskan sockeye salmon and farmed Norwegian Atlantic Salmon: An emergy approach *Journal of Cleaner Production* (2022) - 14 citations
+  DOI: https://doi.org/10.1016/j.jclepro.2022.133379
+- Energy constrains to increasing complexity in the biosphere *The Innovation* (2021) - 14 citations
+  DOI: https://doi.org/10.1016/j.xinn.2021.100169
+- Fisheries and aquaculture by-products: Case studies in Norway, United States, and Vietnam *Marine Policy* (2024) - 9 citations
+  DOI: https://doi.org/10.1016/j.marpol.2024.106276
+- Analysis of energy and water use in USA farmed catfish: Toward a more resilient and sustainable production system *Journal of Cleaner Production* (2022) - 9 citations
+  DOI: https://doi.org/10.1016/j.jclepro.2022.134796
+- Bronchoalveolar lavage profiles in uncontrolled wheezy children compared by asthma predictive index *Pediatric Pulmonology* (2021) - 8 citations
+  DOI: https://doi.org/10.1002/ppul.25716
+- Application of the food-energy-water nexus to six seafood supply chains: hearing from wild and farmed seafood supply chain actors in the United States, Norway, and Vietnam *Frontiers in Sustainable Food Systems* (2024) - 7 citations
+  DOI: https://doi.org/10.3389/fsufs.2023.1269026
+
+Research Grants (from Dimensions.ai):
+- Establishment of Ecotourism Management Plan for the Albanian Coastal Wetlands (2013-2013)
+  Funder: Council for International Exchange of Scholars
+- Scientific Collaboration and Curriculum Development in Energy and Resource Management, Environmental Policy and Sustainable Development (2011-2011)
+  Funder: Council for International Exchange of Scholars
+- Assessing Visitor Use Impact in Botany Bay Plantation WMA Using an Adaptive Management Framework (2009-2011) - $40,000
+  Funder: National Oceanic and Atmospheric Administration
+- Dissertation Research: Capitalizing on Existing Landscape Features for Sustainable Wastewater Management in the Andean Amazon of Peru (2006-2007) - $14,315
+  Funder: Office of the Director
+- IGERT Program in Adaptive Management (2005-2013) - $3,166,104
+  Funder: Directorate for STEM Education
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 40 Engineering; 33 Built Environment and Design; 4104 Environmental Management; 32 Biomedical and Clinical Sciences
+
+Key Research Concepts (from Dimensions.ai):
+aquatic foods; food system sustainability; aquaculture sector; asthma predictive index; inhaled corticosteroids; bronchoalveolar lavage; retrospective analysis; frequency drift; simulated spectra; field-frequency lock
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Johns Hopkins University
+- State Key Laboratory of Environment Simulation and Pollution Control
+- Towson University
+- Kennedy Krieger Institute
+- University of Stavanger

@@ -1,0 +1,60 @@
+Name: Elizabeth Screaton
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: screaton@ufl.edu
+Website: https://people.clas.ufl.edu/screaton/
+Google Scholar: https://scholar.google.com/citations?user=27D2zzgAAAAJ&hl=en
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 40
+- Total Citations: 1950
+- H-Index: 21
+- Average Citations per Paper: 48.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 4.35 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Do the Mann-Kendall test and Theil-Sen slope fail to inform trend significance and magnitude in hydrology? *Hydrological Sciences Journal* (2023) - 24 citations
+  DOI: https://doi.org/10.1080/02626667.2023.2212166
+- Effect of Mississippi River discharge and local hydrological variables on salinity of nearby estuaries using a machine learning algorithm *Estuarine Coastal and Shelf Science* (2021) - 15 citations
+  DOI: https://doi.org/10.1016/j.ecss.2021.107628
+- A Simple Relation to Constrain Groundwater Models Using Surface Deformation *Ground Water* (2021) - 5 citations
+  DOI: https://doi.org/10.1111/gwat.13148
+
+Research Grants (from Dimensions.ai):
+- Reversals of karst springs: Implications for water budgets, water quality, and speleogenesis (2009-2013) - $384,989
+  Funder: Directorate for Geosciences
+- Energetics and Stability of Geologically-Confined Water (2008-2014) - $273,766
+  Funder: Directorate for Geosciences
+- Collaborative Research: Laboratory Investigations of Fault Zone Mechanical Behavior and Fluid Overpressure (EOR for IODP NanTroSEIZE Expeditions 314, 315, and 316) (2008-2010) - $47,671
+  Funder: Directorate for Geosciences
+- Collaborative Research: Numerical modeling of fluid flow and transport during out of sequence thrusting and underplating: Application to the NanTroSEIZE investigation area (2007-2011) - $122,446
+  Funder: Directorate for Geosciences
+- Collaborative Research: Development of a Long-term Hydrologic Observatory Aabove the Seismogenic Zone Offshore the Kii Peninsula, Japan (2006-2012) - $38,681
+  Funder: Directorate for Geosciences
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3701 Atmospheric Sciences; 3707 Hydrology; 41 Environmental Sciences; 3705 Geology
+
+Key Research Concepts (from Dimensions.ai):
+MK test; Mann-Kendall; Theil-Sen; average window size; Mann–Kendall (MK) test; Mississippi River discharge; northern Gulf; water salinity; northern Gulf of Mexico; river discharge
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Colorado Boulder

@@ -1,0 +1,78 @@
+Name: Christine Angelini
+Role: Assistant Professor
+Academic Unit: 
+Office: 
+Phone: 
+Email: christine.angelini@essie.ufl.edu
+Website: http://www.angeliniecologylab.com/
+Google Scholar: https://scholar.google.com/citations?user=TQDW3hsAAAAJ&hl=en
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 103
+- Total Citations: 3265
+- H-Index: 32
+- Average Citations per Paper: 31.7
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 12.76 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Recovering wetland biogeomorphic feedbacks to restore the world’s biotic carbon hotspots *Science* (2022) - 331 citations
+  DOI: https://doi.org/10.1126/science.abn1479
+- Heterogeneity within and among co-occurring foundation species increases biodiversity *Nature Communications* (2022) - 86 citations
+  DOI: https://doi.org/10.1038/s41467-022-28194-y
+- Nitrogen-enriched discharges from a highly managed watershed intensify red tide (Karenia brevis) blooms in southwest Florida *The Science of The Total Environment* (2022) - 68 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2022.154149
+- Identifying critical source areas of non-point source pollution to enhance water quality: Integrated SWAT modeling and multi-variable statistical analysis to reveal key variables and thresholds *Water Research* (2024) - 53 citations
+  DOI: https://doi.org/10.1016/j.watres.2024.121286
+- Governance and the mangrove commons: Advancing the cross-scale, nested framework for the global conservation and wise use of mangroves *Journal of Environmental Management* (2022) - 42 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2022.114823
+- Life cycle informed restoration: Engineering settlement substrate material characteristics and structural complexity for reef formation *Journal of Applied Ecology* (2021) - 39 citations
+  DOI: https://doi.org/10.1111/1365-2664.13968
+- Harnessing ecological theory to enhance ecosystem restoration *Current Biology* (2024) - 35 citations
+  DOI: https://doi.org/10.1016/j.cub.2024.03.043
+- Top ten priorities for global saltmarsh restoration, conservation and ecosystem service research *The Science of The Total Environment* (2023) - 34 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2023.165544
+- Top-predator recovery abates geomorphic decline of a coastal ecosystem *Nature* (2024) - 33 citations
+  DOI: https://doi.org/10.1038/s41586-023-06959-9
+- Initial estuarine response to inorganic nutrient inputs from a legacy mining facility adjacent to Tampa Bay, Florida *Marine Pollution Bulletin* (2022) - 33 citations
+  DOI: https://doi.org/10.1016/j.marpolbul.2022.113598
+
+Research Grants (from Dimensions.ai):
+- Beach Nourishment Effects on Endangered Sea Turtle Nesting Across Large Spatiotemporal Scales (2025-2025)
+  Funder: Council for International Exchange of Scholars
+- Characterizing variation in local water quality and how it influences the relationship between ribbed mussel (Geukensia demissa) suspension-feeding behavior and phytoplankton community structure (2020-2022) - $115,999
+  Funder: National Oceanic and Atmospheric Administration
+- Planning Grant: Engineering Research Center for Intelligent Sensing, Mapping, and Forecasting of Water Quality for Sustainable Coastal Ecosystems (iCoast) (2019-2021) - $100,000
+  Funder: Directorate for Engineering
+- A Seawater System for Enhancing Nature Coast Biological Station's Research and Education Programs (2018-2021) - $238,987
+  Funder: Directorate for Biological Sciences
+- CAREER: Accelerating natural self-organization and restoring coastal ecosystem services with reef-mimicking substrate arrays (2017-2023) - $543,129
+  Funder: Directorate for Engineering
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 31 Biological Sciences; 3103 Ecology; 4101 Climate Change Impacts and Adaptation; 4102 Ecological Applications
+
+Key Research Concepts (from Dimensions.ai):
+habitat modifiers; top-down effects; salt marshes; carbon hotspots; ecosystem organic carbon; carbon sequestration rate; seagrass meadows; sequestration rate; habitat heterogeneity; amount of habitat
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Duke University
+- Utrecht University
+- Radboud University Nijmegen
+- Royal Netherlands Institute for Sea Research
+- University of Groningen

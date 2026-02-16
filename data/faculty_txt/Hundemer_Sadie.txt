@@ -23,3 +23,53 @@ Awards:
 
 Keywords:
 Communication theory; partisanship management; scientist ethics; trust in higher education; stakeholder collaboration; natural resources communication; water sustainability; climate change communication.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 19
+- Total Citations: 34
+- H-Index: 3
+- Average Citations per Paper: 1.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 4.12 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- 2020 to 2040: Visions for the future of environmental education *Applied Environmental Education & Communication* (2021) - 10 citations
+  DOI: https://doi.org/10.1080/1533015x.2021.2015484
+- The water science communication problem: Water knowledge and the acceptance or rejection of water science *Journal of Hydrology* (2022) - 8 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2021.127230
+- Building bipartisan support for pro-environmental water policy in a competitive communication environment: The effect of competing moral frames and political communicators *Journal of Hydrology* (2023) - 3 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2023.130379
+- Valuing the Upper Floridan Aquifer: Exploring public preferences for ecosystem service values and problem framing to support aquifer conservation *Journal of Environmental Management* (2025) - 1 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2025.128026
+- Driving Change: Persuading Roadway Users to Support Pollinator‐Friendly Roadsides Through Strategic Environmental Communication *Biological Diversity* (2025) - 1 citations
+  DOI: https://doi.org/10.1002/bod2.70010
+- Revisiting the Deficit Model: The Effect of Water Science Knowledge on Policy Perceptions *Society & Natural Resources* (2025) - 1 citations
+  DOI: https://doi.org/10.1080/08941920.2025.2466167
+- Recommendations and Best Practices for Youth Environmental Education Programs: AEC835/WC497, 1/2026 *EDIS* (2026)
+  DOI: https://doi.org/10.32473/edis-wc497-2026
+- Increasing Irrigation Restriction Compliance With Water Conservation Messages of Varying Complexity *AWWA Water Science* (2025)
+  DOI: https://doi.org/10.1002/aws2.70030
+- Drivers of planned compliance with irrigation restrictions among residents in a rapidly urbanizing region *Urban Water Journal* (2025)
+  DOI: https://doi.org/10.1080/1573062x.2025.2476554
+- Residents’ Perceived Outcomes of Irrigation Restriction Compliance: A Guide for Florida’s Water Conservation Professionals: AEC806/WC467, 8/2024 *EDIS* (2024)
+  DOI: https://doi.org/10.32473/edis-wc467-2024
+
+Research Categories (from Dimensions.ai):
+38 Economics; 3801 Applied Economics; 44 Human Society; 3707 Hydrology; 37 Earth Sciences
+
+Key Research Concepts (from Dimensions.ai):
+irrigation restrictions; environmental education; water policy; policy preferences; Floridan aquifer; aquifer region; water science; agricultural producers; presence of Environmental Education; pre-K-12
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Oregon State University
+- Florida Museum of Natural History
+- American Farmland Trust
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.3/10
+Percentile: Top 82% of Water Institute faculty
+Rankings by Research Category:
+- Applied Economics: #11 of 12
+- Hydrology: #16 of 18
+- Human Society: #22 of 27

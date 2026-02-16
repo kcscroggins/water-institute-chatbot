@@ -1,0 +1,50 @@
+Name: John Thomas
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: thomas@ufl.edu
+Website: http://soils.ifas.ufl.edu/people/emeritus-faculty/john-e-thomas/
+Google Scholar: 
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 34
+- Total Citations: 1285
+- H-Index: 17
+- Average Citations per Paper: 37.8
+- Open Access Publications: 100.0%
+
+Recent Publications (from Dimensions.ai):
+- «Me Gritaron Negra»: Surgimiento y desarrollo del Movimiento de Mujeres Afrodescendientes en el Perú (1980-2015) *Investigaciones Sociales* (2021) - 2 citations
+  DOI: https://doi.org/10.15381/is.v0i44.19567
+
+Research Grants (from Dimensions.ai):
+- Multi-center Epilepsy Data Platform: Improving Outcomes by Deep Phenotyping (2024-2025) - $50,000
+  Funder: American Epilepsy Society
+- Multi-state investigation into odor abatement and reduced application rates of a carbonated fumigant, dimethyl disulfide (2011-2015) - $272,226
+  Funder: National Institute of Food and Agriculture
+- Multi-State evaluation of carbonated fumigants and low permeable tarps to reduce application rate, increase efficacy, and minimize emissions (2010-2015) - $565,000
+  Funder: National Institute of Food and Agriculture
+- AGROCHEMICAL IMPACTS ON HUMAN AND ENVIRONMENTAL HEALTH: MECHANISMS AND MITIGATION (2010-2015)
+  Funder: National Institute of Food and Agriculture
+- Bioremediation of DDE, DDD, and DDT in Soil from Lake Apopka North Shore Restoration Area (2008-2013)
+  Funder: National Institute of Food and Agriculture
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Chicago
+- University of South Florida

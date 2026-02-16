@@ -27,3 +27,40 @@ Water & Policy Relevance:
 
 Keywords:
 Landscape architecture; regional planning; spatial analysis; GIS; decision support; climate resilience; green infrastructure; nature-based solutions; environmental visualization; water management; land-use planning; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 1
+- Total Citations: 8
+- H-Index: 1
+- Average Citations per Paper: 8.0
+- Open Access Publications: 100.0%
+
+Recent Publications (from Dimensions.ai):
+- Integrating Urban Digital Twin with Cloud-Based Geospatial Dashboard for Coastal Resilience Planning: A Case Study in Florida *Journal of Planning Education and Research* (2025) - 8 citations
+  DOI: https://doi.org/10.1177/0739456x251316185
+
+Research Grants (from Dimensions.ai):
+- The Heat + Affordable Housing Network: Exploring Landscapes of Thermal Inequity in the Southeastern U.S. (2021-2022) - $100,000
+  Funder: National Oceanic and Atmospheric Administration
+- SCC-PG: Flood Hazard Management & Practitioner Information Network for Florida Coastal Communities (2020-2021) - $150,000
+  Funder: Directorate for Computer & Information Science & Engineering
+
+Research Categories (from Dimensions.ai):
+3901 Curriculum and Pedagogy; 39 Education; 33 Built Environment and Design; 3304 Urban and Regional Planning
+
+Key Research Concepts (from Dimensions.ai):
+flood risk; climate-induced floods; temporal scales; adaptation measures; coastal communities
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Cambridge
+- Texas A&M University
+- University of Twente
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.1/10
+Percentile: Top 97% of Water Institute faculty
+Rankings by Research Category:
+- Urban and Regional Planning: #3 of 3
+- Curriculum and Pedagogy: #5 of 5
+- Education: #9 of 9

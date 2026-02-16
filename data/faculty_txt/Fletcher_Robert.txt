@@ -33,3 +33,67 @@ Water & Policy Relevance:
 
 Keywords:
 Landscape ecology; habitat connectivity; conservation planning; spatial modeling; ecosystem services; biodiversity; habitat fragmentation; land use; watershed planning; nutrient retention; water quality; conservation science; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 138
+- Total Citations: 5706
+- H-Index: 39
+- Average Citations per Paper: 41.3
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 7.29 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Toward conciliation in the habitat fragmentation and biodiversity debate *Landscape Ecology* (2023) - 67 citations
+  DOI: https://doi.org/10.1007/s10980-023-01708-9
+- Addressing the problem of scale that emerges with habitat fragmentation *Global Ecology and Biogeography* (2023) - 49 citations
+  DOI: https://doi.org/10.1111/geb.13658
+- Landscape experiments unlock relationships among habitat loss, fragmentation, and patch‐size effects *Ecology* (2023) - 38 citations
+  DOI: https://doi.org/10.1002/ecy.4037
+- Mapping the connectivity–conflict interface to inform conservation *Proceedings of the National Academy of Sciences of the United States of America* (2022) - 30 citations
+  DOI: https://doi.org/10.1073/pnas.2211482119
+- A well-connected Earth: The science and conservation of organismal movement *Science* (2025) - 26 citations
+  DOI: https://doi.org/10.1126/science.adn2225
+- Advances and challenges in ecological connectivity science *Ecology and Evolution* (2024) - 26 citations
+  DOI: https://doi.org/10.1002/ece3.70231
+- The Prominent Role of the Matrix in Ecology, Evolution, and Conservation *Annual Review of Ecology Evolution and Systematics* (2024) - 25 citations
+  DOI: https://doi.org/10.1146/annurev-ecolsys-102722-025653
+- Thresholds for adding degraded tropical forest to the conservation estate *Nature* (2024) - 24 citations
+  DOI: https://doi.org/10.1038/s41586-024-07657-w
+- Ecological and evolutionary consequences of temporal variation in dispersal *Ecography* (2023) - 24 citations
+  DOI: https://doi.org/10.1111/ecog.06699
+- The demographic contributions of connectivity versus local dynamics to population growth of an endangered bird *Journal of Animal Ecology* (2021) - 24 citations
+  DOI: https://doi.org/10.1111/1365-2656.13387
+
+Research Grants (from Dimensions.ai):
+- IRES Track I: understanding the global problem of defaunation through field experiments in southern Africa (2020-2024) - $299,472
+  Funder: Office of the Director
+- Engaging Private Landowners in Bioenergy Production: Finding Solutions that Promote Sustainable Agroecosystems while Enhancing Biodiversity and Ecosystem Services (2017-2022) - $500,000
+  Funder: National Institute of Food and Agriculture
+- The effect of lands surrounding fragmented landscapes: theory development and novel experimental tests (2017-2023) - $548,058
+  Funder: Directorate for Biological Sciences
+- Landscape change and the conservation and management of wildlife (2016-2021)
+  Funder: National Institute of Food and Agriculture
+- IRES: Changing Landscapes, Biodiversity, and Ecosystem Function in an African Global Biodiversity Hotspot in Swaziland (2015-2019) - $250,000
+  Funder: Office of the Director
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 41 Environmental Sciences; 3103 Ecology; 4102 Ecological Applications; 4101 Climate Change Impacts and Adaptation
+
+Key Research Concepts (from Dimensions.ai):
+habitat fragmentation; animal movement; conservation; ecology; biodiversity debate; debates; habitat; conciliation; effects of habitat fragmentation; multiple habitat patches
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Imperial College London
+- University of Cambridge
+- University of Kent
+- Oregon State University
+- Universiti of Malaysia Sabah
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 3.3/10
+Percentile: Top 7% of Water Institute faculty
+Rankings by Research Category:
+- Climate Change Impacts and Adaptation: #2 of 16
+- Ecology: #4 of 59
+- Ecological Applications: #4 of 32

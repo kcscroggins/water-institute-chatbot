@@ -21,3 +21,57 @@ Notable Work:
 
 Keywords:
 Hydrologic modeling; water quality; groundwater resources; climate impacts on water; stochastic modeling; data assimilation; Suwannee River; nitrate leaching; ecosystem indicators.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 44
+- Total Citations: 1345
+- H-Index: 21
+- Average Citations per Paper: 30.6
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.37 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- The Florida Water and Climate Alliance (FloridaWCA): Developing a Stakeholder–Scientist Partnership to Create Actionable Science in Climate Adaptation and Water Resource Management *Bulletin of the American Meteorological Society* (2021) - 12 citations
+  DOI: https://doi.org/10.1175/bams-d-19-0302.1
+- Farm-scale economic and environmental tradeoffs of land use and land management decisions *Agricultural Water Management* (2024) - 5 citations
+  DOI: https://doi.org/10.1016/j.agwat.2024.108925
+- Groundwater impacts of adding carrot to corn-peanut rotations in North Florida *Agricultural Water Management* (2024) - 3 citations
+  DOI: https://doi.org/10.1016/j.agwat.2024.108713
+- Carbonates in the Critical Zone *ESSOAr* (2022)
+  DOI: https://doi.org/10.1002/essoar.10510968.2
+- Carbonates in the Critical Zone *ESSOAr* (2022)
+  DOI: https://doi.org/10.1002/essoar.10510968.1
+
+Research Grants (from Dimensions.ai):
+- Agricultural Water Security through Sustainable Use of the Floridan Aquifer: An Integrated Assessment of Economic and Environmental Impacts (2017-2024) - $4,918,922
+  Funder: National Institute of Food and Agriculture
+- Use of seasonal climate forecasts to minimize short-term operational risks for water supply and ecosystem restoration (2012-2014) - $149,517
+  Funder: National Oceanic and Atmospheric Administration
+- Collaborative Development of Public Water Supply Utility Relevant Climate Information for Improved Operations and Planning (2011-2014) - $300,058
+  Funder: National Oceanic and Atmospheric Administration
+- U.S.-Costa Rican Workshop: Interdisciplinary workgroup on water sustainability in the Tempisque Basin; Palo Verde NP, Costa Rica, April 2012 (2011-2013) - $30,246
+  Funder: Office of the Director
+- Collaborative Research: High Resolution Sensor Networks for Quantifying and Predicting Surface-Groundwater Mixing and Nutrient Delivery in the Santa Fe River, Florida. (2009-2012) - $456,782
+  Funder: Directorate for Geosciences
+
+Research Categories (from Dimensions.ai):
+3002 Agriculture, Land and Farm Management; 30 Agricultural, Veterinary and Food Sciences; 3004 Crop and Pasture Production; 37 Earth Sciences; 3701 Atmospheric Sciences
+
+Key Research Concepts (from Dimensions.ai):
+criticism; critical zone; zone; carbon; resource management; organization's history; water resources management; organizational processes; state of Florida; land management decisions
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Natural Resources Conservation Service
+- University of Arkansas at Fayetteville
+- Temple University
+- The Pennsylvania State University
+- Oregon State University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.9/10
+Percentile: Top 21% of Water Institute faculty
+Rankings by Research Category:
+- Atmospheric Sciences: #3 of 17
+- Agriculture, Land and Farm Management: #8 of 24
+- Crop and Pasture Production: #15 of 41

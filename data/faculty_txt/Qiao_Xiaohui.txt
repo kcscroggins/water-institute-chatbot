@@ -16,3 +16,43 @@ Dr. Qiao concentrates on leveraging interdisciplinary technologies (GIS, data sc
 
 Keywords:
 Geospatial computing; web services and applications; environmental informatics; cyberinfrastructure development; disaster analysis; data visualization; hydroinformatics.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 4
+- Total Citations: 30
+- H-Index: 3
+- Average Citations per Paper: 7.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 4.2 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Toward Interoperable Multi-hazard Modeling: A Disaster Management System for Disaster Model Service Chain *International Journal of Disaster Risk Science* (2022) - 15 citations
+  DOI: https://doi.org/10.1007/s13753-022-00450-1
+- Construction and spatio-temporal derivation of hazardous chemical leakage disaster chain *International Journal of Image and Data Fusion* (2021) - 12 citations
+  DOI: https://doi.org/10.1080/19479832.2021.1958929
+- Pandemic Produce: Impacts of COVID-19 on Florida’s Fruit and Vegetable Industries *Journal of Agricultural & Food Industrial Organization* (2023) - 3 citations
+  DOI: https://doi.org/10.1515/jafio-2022-0025
+- Identifying community practices in marine benthic data usage in Florida *Ocean & Coastal Management* (2024)
+  DOI: https://doi.org/10.1016/j.ocecoaman.2024.107429
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3704 Geoinformatics; 38 Economics; 3801 Applied Economics; 41 Environmental Sciences
+
+Key Research Concepts (from Dimensions.ai):
+disaster chain; disaster system theory; multi-hazard modeling; Open Geospatial Consortium standards; disaster management system; safety of people's lives; efficiency of emergency response; hazard-affected bodies; vegetable industry; spring harvest season
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Tsinghua University
+- Shenzhen International Graduate School of Tsinghua University
+- Wuhan University
+- University of Minnesota Twin Cities
+- Florida Gulf Coast University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.3/10
+Percentile: Top 82% of Water Institute faculty
+Rankings by Research Category:
+- Geoinformatics: #7 of 7
+- Applied Economics: #9 of 12
+- Economics: #20 of 24

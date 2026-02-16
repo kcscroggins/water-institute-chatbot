@@ -27,3 +27,55 @@ Policy Relevance:
 
 Keywords:
 Agriculture; natural resource management; water conservation; soil conservation; BMPs; best management practices; nutrient management; irrigation efficiency; producer education; technical assistance; environmental stewardship; Extension; IFAS; conservation policy; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 43
+- Total Citations: 353
+- H-Index: 10
+- Average Citations per Paper: 8.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.11 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- The Use of Non-Plastic Materials for Oyster Reef and Shoreline Restoration: Understanding What Is Needed and Where the Field Is Headed *Sustainability* (2022) - 28 citations
+  DOI: https://doi.org/10.3390/su14138055
+- Seagrass Abundance Predicts Surficial Soil Organic Carbon Stocks Across the Range of Thalassia testudinum in the Western North Atlantic *Estuaries and Coasts* (2023) - 18 citations
+  DOI: https://doi.org/10.1007/s12237-023-01210-0
+- Herbivore effects increase with latitude across the extent of a foundational seagrass *Nature Ecology & Evolution* (2024) - 16 citations
+  DOI: https://doi.org/10.1038/s41559-024-02336-5
+- Using Citizen Science to Track Population Trends in the American Horseshoe Crab (Limulus polyphemus) in Florida *Citizen Science Theory and Practice* (2021) - 15 citations
+  DOI: https://doi.org/10.5334/cstp.385
+- Variation in Seagrass-Associated Macroinvertebrate Communities Along the Gulf Coast of Peninsular Florida: An Exploration of Patterns and Ecological Consequences *Frontiers in Marine Science* (2021) - 15 citations
+  DOI: https://doi.org/10.3389/fmars.2021.596966
+- Climate Effects on Belowground Tea Litter Decomposition Depend on Ecosystem and Organic Matter Types in Global Wetlands *Environmental Science and Technology* (2024) - 10 citations
+  DOI: https://doi.org/10.1021/acs.est.4c02116
+- Performance Assessment of Three Living Shorelines in Cedar Key, Florida, USA *Estuaries and Coasts* (2024) - 7 citations
+  DOI: https://doi.org/10.1007/s12237-024-01440-w
+- Perceived effectiveness drives shoreline decision-making for Florida's waterfront property owners *Ocean & Coastal Management* (2024) - 5 citations
+  DOI: https://doi.org/10.1016/j.ocecoaman.2024.107353
+- Living Shoreline Monitoring—How do I evaluate the environmental benefits of my living shoreline? SS694/SL481, 1/2021 *EDIS* (2021) - 4 citations
+  DOI: https://doi.org/10.32473/edis-ss694-2021
+- Intertidal Soundscapes of Hardened and Living Shorelines: A Case Study of Habitat Enhancement *Aquatic Conservation Marine and Freshwater Ecosystems* (2024) - 3 citations
+  DOI: https://doi.org/10.1002/aqc.4118
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 31 Biological Sciences; 3103 Ecology; 4101 Climate Change Impacts and Adaptation; 4104 Environmental Management
+
+Key Research Concepts (from Dimensions.ai):
+living shorelines; oyster reefs; horseshoe crabs; armored shorelines; Cedar Key; Department of Soil; body size; non-plastic materials; shoreline restoration; habitat restoration projects
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Smithsonian Marine Station
+- Florida International University
+- Institute of Food and Agricultural Sciences
+- Dauphin Island Sea Lab
+- Texas A&M University at Galveston
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.8/10
+Percentile: Top 57% of Water Institute faculty
+Rankings by Research Category:
+- Climate Change Impacts and Adaptation: #15 of 16
+- Environmental Management: #29 of 46
+- Ecology: #44 of 59

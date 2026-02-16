@@ -19,3 +19,61 @@ Notable Projects:
 
 Keywords:
 Remote sensing; machine learning; geospatial artificial intelligence; citizen science; GIS analysis; macrosystems ecology; land cover change; environmental monitoring; fire regimes.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 26
+- Total Citations: 379
+- H-Index: 11
+- Average Citations per Paper: 14.6
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.48 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Harnessing the NEON data revolution to advance open environmental science with a diverse and data‐capable community *Ecosphere* (2021) - 28 citations
+  DOI: https://doi.org/10.1002/ecs2.3833
+- Remote Sensing and GIS-Based Suitability Mapping of Termite Habitat in the African Savanna: A Case Study of the Lowveld in Kruger National Park *Land* (2022) - 18 citations
+  DOI: https://doi.org/10.3390/land11060803
+- Expanding NEON biodiversity surveys with new instrumentation and machine learning approaches *Ecosphere* (2021) - 11 citations
+  DOI: https://doi.org/10.1002/ecs2.3795
+- Mapping regional forest management units: a road-based framework in Southeastern Coastal Plain and Piedmont *Forest Ecosystems* (2021) - 3 citations
+  DOI: https://doi.org/10.1186/s40663-021-00289-w
+- Editorial: Satellite remote sensing for hydrological and water resource management in coastal zones *Frontiers in Environmental Science* (2025) - 1 citations
+  DOI: https://doi.org/10.3389/fenvs.2025.1730256
+- Land Cover and Land Use Change Impacts on Temperature Extremes in China from 1982 to 2013 *Springer Remote Sensing/Photogrammetry* (2025) - 1 citations
+  DOI: https://doi.org/10.1007/978-3-031-98048-0_12
+- A Deep-Learning Workflow for CORONA-Based Historical Land Use Classifications *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (2025) - 1 citations
+  DOI: https://doi.org/10.1109/jstars.2025.3582789
+- Impact of Grazing Duration and Environment on Soil Carbon in Reclaimed Uranium Mines Tailings: A Region Specific Study *Land Degradation and Development* (2025) - 1 citations
+  DOI: https://doi.org/10.1002/ldr.5647
+- Crowdsourcing geographic information for terrorism-related disaster awareness and mitigation: perspectives and challenges *Geo-spatial Information Science* (2025) - 1 citations
+  DOI: https://doi.org/10.1080/10095020.2024.2442088
+- Classification and clustering analysis of standing dead trees and associated park asset wildfire vulnerability in Yellowstone National Park *Forest Ecosystems* (2025) - 1 citations
+  DOI: https://doi.org/10.1016/j.fecs.2024.100284
+
+Research Grants (from Dimensions.ai):
+- Forecasting Mosquito-Borne Disease Risk in a Changing Climate: Integrating GLOBE Citizen Science and NASA Earth System Modeling (2025-2027)
+  Funder: National Aeronautics and Space Administration
+- Evaluating Long-term Impacts of Land-use Transformation on Fire Regimes: A Comprehensive 60-Year Analysis Utilizing Declassified Image, GEDI, and GLOBE Observer over Western U.S. Forest (2024-2027)
+  Funder: National Aeronautics and Space Administration
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 37 Earth Sciences; 4013 Geomatic Engineering; 40 Engineering; 4104 Environmental Management
+
+Key Research Concepts (from Dimensions.ai):
+National Park; machine learning; NEON data; drivers of biodiversity; human-environmental systems; ecological communities; ecological measures; South Africa's Kruger National Park; Kruger National Park; land-cover change
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Colorado Boulder
+- University of Wyoming
+- National Ecological Observatory Network
+- University of Arizona
+- University of Arkansas at Fayetteville
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.8/10
+Percentile: Top 57% of Water Institute faculty
+Rankings by Research Category:
+- Geomatic Engineering: #5 of 9
+- Environmental Management: #28 of 46
+- Engineering: #34 of 53

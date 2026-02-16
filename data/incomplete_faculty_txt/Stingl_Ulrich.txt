@@ -1,0 +1,62 @@
+Name: Ulrich Stingl
+Role: Assistant Professor
+Academic Unit: 
+Office: 
+Phone: 
+Email: ustingl@ufl.edu
+Website: https://flrec.ifas.ufl.edu/faculty/dr-ulrich-stingl/
+Google Scholar: https://scholar.google.com/citations?user=mXjQ2N8AAAAJ&hl=en
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 27
+- Total Citations: 640
+- H-Index: 12
+- Average Citations per Paper: 23.7
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 1.59 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Composition of Prokaryotic and Eukaryotic Microbial Communities in Waters around the Florida Reef Tract *Microorganisms* (2021) - 12 citations
+  DOI: https://doi.org/10.3390/microorganisms9061120
+- Fungal endophytes from Thalassia testudinum show bioactivity against the seagrass pathogen, Labyrinthula spp. *Frontiers in Marine Science* (2024) - 5 citations
+  DOI: https://doi.org/10.3389/fmars.2024.1359610
+- Microbiomes of Thalassia testudinum throughout the Atlantic Ocean, Caribbean Sea, and Gulf of Mexico are influenced by site and region while maintaining a core microbiome *Frontiers in Microbiology* (2024) - 3 citations
+  DOI: https://doi.org/10.3389/fmicb.2024.1357797
+- Management practices alter endophytic diazotrophic communities in CitraBlue St. Augustinegrass *Crop Science* (2024) - 1 citations
+  DOI: https://doi.org/10.1002/csc2.21372
+
+Research Grants (from Dimensions.ai):
+- (MC) Microbial biodiversity of freshwater environments in forests in Florida and bioprospecting of novel microorganisms for natural product discovery (2018-2023)
+  Funder: National Institute of Food and Agriculture
+- Adaptation of aquatic microbial populations to environmental change (2017-2022)
+  Funder: National Institute of Food and Agriculture
+- Cultivation of novel marine bacteria of the SAR11 cluster by high throughput cultivation techniques and eluidation of their adaptations to the environment by comparative genome analysis (2005-2007)
+  Funder: Deutsche Forschungsgemeinschaft
+
+Research Categories (from Dimensions.ai):
+3107 Microbiology; 31 Biological Sciences; 3103 Ecology; 30 Agricultural, Veterinary and Food Sciences; 3004 Crop and Pasture Production
+
+Key Research Concepts (from Dimensions.ai):
+Florida Reef Tract; reef tract; community structure; abundance of copiotrophic bacteria; higher abundance; fungal endophytes; disc diffusion assay; Thalassia testudinum; diffusion assay; Illumina amplicon sequencing
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Florida International University
+- Smithsonian Marine Station
+- Dauphin Island Sea Lab
+- Institute of the Environment, Florida International University, Miami, FL 33199, USA;, abstenj@fiu.edu, (M.A.);, bboyer@fiu.edu, (B.B.);, bricenoh@fiu.edu, (H.B.)
+- International Field Studies, Inc., Andros, Bahamas

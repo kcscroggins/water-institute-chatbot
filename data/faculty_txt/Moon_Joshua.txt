@@ -17,3 +17,45 @@ Notable Projects:
 
 Keywords:
 Polymer synthesis and characterization; membrane separations technology; gas and vapor transport; water purification systems; facilitated transport membranes; sustainable separation processes.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 2
+- Total Citations: 4
+- H-Index: 1
+- Average Citations per Paper: 2.0
+- Open Access Publications: 100.0%
+
+Recent Publications (from Dimensions.ai):
+- CO2-selective transport in PEGDA facilitated transport membranes post-functionalized using click chemistry *Journal of Membrane Science* (2025) - 3 citations
+  DOI: https://doi.org/10.1016/j.memsci.2025.123825
+- Solution‐Like Water Transport Across Molecular to Macroscopic Length Scales in Crosslinked Poly(Ethylene Glycol Diacrylate) Networks With Tailored Sidechains *Journal of Polymer Science* (2025) - 1 citations
+  DOI: https://doi.org/10.1002/pol.20250191
+
+Research Grants (from Dimensions.ai):
+- CAREER: Engineering high performance gas separation membranes through versatile control of polymer structure and dynamics (2025-2030) - $599,999
+  Funder: Directorate for Engineering
+- Rational Design of Polymer Ionic Liquid Membranes through Uncovering Fundamental Gas Transport Mechanisms (2024-2027) - $601,752
+  Funder: Directorate for Engineering
+- Engineering molecularly precise, sub-nanometer gas transport pathways in robust macrocycle membranes (2024-2027) - $469,833
+  Funder: Directorate for Engineering
+
+Research Categories (from Dimensions.ai):
+34 Chemical Sciences; 3402 Inorganic Chemistry; 3403 Macromolecular and Materials Chemistry; 40 Engineering
+
+Key Research Concepts (from Dimensions.ai):
+click chemistry; Lewis base ligands; ligand grafting density; base ligand; Lewis basicity; PEG diacrylate; Overhauser dynamic nuclear polarization; network chemistry; pulsed field gradient; poly(ethylene glycol diacrylate
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of California, Santa Barbara
+- Columbia University
+- The University of Texas at Austin
+- Northwestern University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.2/10
+Percentile: Top 89% of Water Institute faculty
+Rankings by Research Category:
+- Inorganic Chemistry: #1 of 1
+- Macromolecular and Materials Chemistry: #3 of 4
+- Chemical Sciences: #7 of 10

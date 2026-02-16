@@ -28,3 +28,63 @@ Dr. Ogram provides mechanistic evidence on microbial drivers of carbon transform
 
 Keywords:
 environmental microbiology; soil microbiology; anaerobic processes; methanogenesis; methanotrophy; carbon cycling; methane dynamics; mercury methylation; microbial ecology; biogeochemistry; wetlands; sediments; contaminated sites; Everglades; greenhouse gas emissions; microbial community structure; molecular ecology
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 64
+- Total Citations: 1996
+- H-Index: 25
+- Average Citations per Paper: 31.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.37 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Spatiotemporal variations and relationships of phosphorus, phosphomonoesterases, and bacterial communities in sediments from two Chilean rivers *The Science of The Total Environment* (2021) - 36 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2021.145782
+- Campylobacterota dominate the microbial communities in a tropical karst subterranean estuary, with implications for cycling and export of nitrogen to coastal waters *Environmental Microbiology* (2021) - 30 citations
+  DOI: https://doi.org/10.1111/1462-2920.15746
+- Spatiotemporal distributions and relationships of phosphorus content, phosphomonoesterase activity, and bacterial phosphomonoesterase genes in sediments from a eutrophic brackish water lake in Chile *Journal of Environmental Management* (2022) - 18 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2022.115906
+- Azithromycin and Ciprofloxacin Can Promote Antibiotic Resistance in Biosolids and Biosolids-Amended Soils *Applied and Environmental Microbiology* (2021) - 17 citations
+  DOI: https://doi.org/10.1128/aem.00373-21
+- Short-term perennial peanut integration into bahiagrass system influence on soil microbial-mediated nitrogen cycling activities and microbial co-occurrence networks *European Journal of Soil Biology* (2023) - 11 citations
+  DOI: https://doi.org/10.1016/j.ejsobi.2023.103566
+- Living mulches present tradeoffs between soil nutrient cycling and competition during establishment of tea in an organic production system *Applied Soil Ecology* (2024) - 7 citations
+  DOI: https://doi.org/10.1016/j.apsoil.2024.105350
+- Structure and Functional Properties of Bacterial Communities in Surface Sediments of the Recently Declared Nutrient-Saturated Lake Villarrica in Southern Chile *Microbial Ecology* (2023) - 6 citations
+  DOI: https://doi.org/10.1007/s00248-023-02173-2
+- Enhancing Biological Nitrogen Fixation to Improve Soil Nutrient Status *EDIS* (2023) - 4 citations
+  DOI: https://doi.org/10.32473/edis-ss714-2023
+- Phosphorus Dynamics in High-Legacy Soils: Acid Phosphatase Activity, Extraction Techniques and Isotherm in Florida Potato Fields *Agriculture* (2025)
+  DOI: https://doi.org/10.3390/agriculture15192048
+
+Research Grants (from Dimensions.ai):
+- Mycoremediation Activities of Lentinus Tigrinus on Pentachlorophenol Contaminated Sawdust and Cereal- based Substrate Formulation (2016-2016)
+  Funder: Council for International Exchange of Scholars
+- Coastal SEES (Track 1): Planning for hydrologic and ecological impacts of sea level rise on sustainability of coastal water resources (2013-2016) - $441,125
+  Funder: Directorate for Geosciences
+- Collaborative Research: Shifting pathways toward methane in nutrient impacted tropical and sub-tropical wetlands (2009-2014) - $769,985
+  Funder: Directorate for Biological Sciences
+- Linkages Between Microbial Diversity and Processes Along Nutrient Gradients in Wetlands (2000-2006) - $846,796
+  Funder: Directorate for Biological Sciences
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 3107 Microbiology; 30 Agricultural, Veterinary and Food Sciences; 3103 Ecology; 3004 Crop and Pasture Production
+
+Key Research Concepts (from Dimensions.ai):
+bacterial communities; ecosystem service providers; relationships of bacterial communities; abundant bacterial taxa; Chilean rivers; subterranean estuary; biogeochemical reactions; nitrate concentrations; karst subterranean estuaries; near-coastal waters
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of La Frontera
+- University of Delaware
+- Beijing Normal University
+- University of Minnesota Twin Cities
+- Temuco Catholic University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.0/10
+Percentile: Top 18% of Water Institute faculty
+Rankings by Research Category:
+- Microbiology: #4 of 20
+- Ecology: #13 of 59
+- Crop and Pasture Production: #14 of 41

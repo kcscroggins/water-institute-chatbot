@@ -26,3 +26,45 @@ Wright's work supports public health and food policy by ensuring that evidence-b
 
 Keywords:
 food safety; food science; human nutrition; food handling; food quality; consumer education; nutrition education; UF/IFAS Extension; Florida; public health; food systems; training; certification
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 39
+- Total Citations: 1447
+- H-Index: 23
+- Average Citations per Paper: 37.1
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 12.11 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Baseline Features and Reasons for Nonparticipation in the Colonoscopy Versus Fecal Immunochemical Test in Reducing Mortality From Colorectal Cancer (CONFIRM) Study, a Colorectal Cancer Screening Trial *JAMA Network Open* (2023) - 24 citations
+  DOI: https://doi.org/10.1001/jamanetworkopen.2023.21730
+- Chapter 7 Vibrios (2021)
+  DOI: https://doi.org/10.1016/b978-0-12-819519-2.00030-x
+
+Research Grants (from Dimensions.ai):
+- Monitoring and Mitigations to Improve Safety of Agricultural Water (2019-2023)
+  Funder: National Institute of Food and Agriculture
+- Post harvest treatment of Live Oysters and Investigation of Therapeutic Potential of Biological Controls (2007-2012) - $372,096
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+32 Biomedical and Clinical Sciences; 3202 Clinical Sciences; 4206 Public Health; 42 Health Sciences; 31 Biological Sciences
+
+Key Research Concepts (from Dimensions.ai):
+fecal immunochemical test; immunochemical test; cross-sectional analysis; colorectal cancer; colorectal cancer screening trial; V. vulnificus; V. parahaemolyticus; V. cholerae; postharvest processing; virulent subpopulation
+
+Top Collaborating Institutions (from Dimensions.ai):
+- for the CONFIRM Study Group
+- VA Puget Sound Health Care System
+- VA Connecticut Healthcare System
+- White River Junction VA Medical Center
+- University of Washington
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.0/10
+Percentile: Top 18% of Water Institute faculty
+Rankings by Research Category:
+- Public Health: #1 of 4
+- Health Sciences: #2 of 7
+- Clinical Sciences: #4 of 7

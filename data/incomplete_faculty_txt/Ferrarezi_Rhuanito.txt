@@ -1,0 +1,74 @@
+Name: Rhuanito Ferrarezi
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: rferrarezi@ufl.edu
+Website: https://irrec.ifas.ufl.edu/faculty-members-/ferrarezi/
+Google Scholar: https://scholar.google.com.br/citations?user=3wcbBVQAAAAJ&hl=pt-BR
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 36
+- Total Citations: 335
+- H-Index: 12
+- Average Citations per Paper: 9.3
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.21 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Sap Analysis: A Powerful Tool for Monitoring Plant Nutrition *Horticulturae* (2021) - 31 citations
+  DOI: https://doi.org/10.3390/horticulturae7110426
+- Use of Thermal Imaging to Assess Water Status in Citrus Plants in Greenhouses *Horticulturae* (2021) - 30 citations
+  DOI: https://doi.org/10.3390/horticulturae7080249
+- Horticultural Performance of Greenhouse Cherry Tomatoes Irrigated Automatically Based on Soil Moisture Sensor Readings *Water* (2021) - 16 citations
+  DOI: https://doi.org/10.3390/w13192662
+- Smart System for Automated Irrigation Using Internet of Things Devices *HortTechnology* (2021) - 14 citations
+  DOI: https://doi.org/10.21273/horttech04860-21
+- Magnesium fertilization has a greater impact on soil and leaf nutrient concentrations than nitrogen or calcium fertilization in Florida orange production *Nutrient Cycling in Agroecosystems* (2022) - 12 citations
+  DOI: https://doi.org/10.1007/s10705-021-10182-1
+- Low-cost open-source platform for irrigation automation *Computers and Electronics in Agriculture* (2021) - 12 citations
+  DOI: https://doi.org/10.1016/j.compag.2021.106481
+- Field Evaluation of Chemotherapy on HLB-Affected Citrus Trees With Emphasis on Fruit Yield and Quality *Frontiers in Plant Science* (2021) - 11 citations
+  DOI: https://doi.org/10.3389/fpls.2021.611287
+- Management of Citrus Tree Canopies for Fresh-Fruit Production *EDIS* (2021) - 4 citations
+  DOI: https://doi.org/10.32473/edis-ss698-2021
+- 2021–2022 Florida Citrus Production Guide: Citrus Under Protective Screen (CUPS) Production Systems: Chapter 22, CMG19/HS1304, rev. 4/2021 *EDIS* (2021) - 2 citations
+  DOI: https://doi.org/10.32473/edis-hs1304-2021
+- 2021–2022 Florida Citrus Production Guide: Nutrition Management for Citrus Trees: CMG13/CG091, rev. 4/2021 *EDIS* (2021) - 2 citations
+  DOI: https://doi.org/10.32473/edis-cg091-2021
+
+Research Grants (from Dimensions.ai):
+- Microirrigation: A Sustainable Technology for Crop Intensification and Improved Crop Productivity (2019-2024)
+  Funder: National Institute of Food and Agriculture
+- Scaling Microirrigation Technologies to Address the Global Water Challenge (2018-2019)
+  Funder: National Institute of Food and Agriculture
+- Improving grapefruit production in the Indian River through horticultural practices (2017-2022)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 46 Information and Computing Sciences; 3004 Crop and Pasture Production; 3008 Horticultural Production; 31 Biological Sciences
+
+Key Research Concepts (from Dimensions.ai):
+Florida; citrus trees; production guide; sap analysis; use efficiency; citrus production; water use efficiency; fruit yield; volumetric water content; HLB-affected citrus trees
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Instituto Federal Goiano
+- U.S. Horticultural Research Laboratory
+- University of Georgia
+- State University of Campinas
+- The Pennsylvania State University

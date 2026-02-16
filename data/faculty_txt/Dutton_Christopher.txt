@@ -13,3 +13,59 @@ The Dutton Lab uses microbiomes to understand ecosystem, animal, and human wellb
 
 Keywords:
 Microbiome research; ecology and conservation; ecosystem health; animal welfare; human health applications; open-source technologies; field sampling methods.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 16
+- Total Citations: 429
+- H-Index: 10
+- Average Citations per Paper: 26.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 10.48 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Impacts of large herbivores on terrestrial ecosystems *Current Biology* (2023) - 163 citations
+  DOI: https://doi.org/10.1016/j.cub.2023.04.024
+- Extent, patterns, and drivers of hypoxia in the world's streams and rivers *Limnology and Oceanography Letters* (2022) - 65 citations
+  DOI: https://doi.org/10.1002/lol2.10297
+- The meta-gut: community coalescence of animal gut and environmental microbiomes *Scientific Reports* (2021) - 36 citations
+  DOI: https://doi.org/10.1038/s41598-021-02349-1
+- Epigenetic signatures of intergenerational exposure to violence in three generations of Syrian refugees *Scientific Reports* (2025) - 27 citations
+  DOI: https://doi.org/10.1038/s41598-025-89818-z
+- Animal legacies lost and found in river ecosystems *Environmental Research Letters* (2021) - 14 citations
+  DOI: https://doi.org/10.1088/1748-9326/ac2cb0
+- Maternal Psychosocial Stress Is Associated with Reduced Diversity in the Early Infant Gut Microbiome *Microorganisms* (2023) - 13 citations
+  DOI: https://doi.org/10.3390/microorganisms11040975
+- Fecal steroids as a potential tool for conservation paleobiology in East Africa *Biodiversity and Conservation* (2021) - 12 citations
+  DOI: https://doi.org/10.1007/s10531-021-02328-y
+- Temporal resource partitioning of wildebeest carcasses by scavengers after riverine mass mortality events *Ecosphere* (2021) - 10 citations
+  DOI: https://doi.org/10.1002/ecs2.3326
+- Integrating the Bright and Dark Sides of Aquatic Resource Subsidies—A Synthesis *Ecology Letters* (2025) - 7 citations
+  DOI: https://doi.org/10.1111/ele.70109
+- Short-term study fails to capture negative impacts of livestock intensification on wildlife *Proceedings of the National Academy of Sciences of the United States of America* (2025) - 4 citations
+  DOI: https://doi.org/10.1073/pnas.2502418122
+
+Research Grants (from Dimensions.ai):
+- EAGER: Meta-gut Dynamics Influence Aquatic Ecosystem Processes (2021-2025) - $299,629
+  Funder: Directorate for Biological Sciences
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 3103 Ecology; 41 Environmental Sciences; 4101 Climate Change Impacts and Adaptation; 3107 Microbiology
+
+Key Research Concepts (from Dimensions.ai):
+gut microbiome; community coalescence; microbial communities; water microbial communities; large herbivores; ecological impacts; top-down control; ecosystem impacts; abundance of small animals; duration of hypoxic events
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Yale University
+- Cary Institute of Ecosystem Studies
+- Michigan State University
+- University of Groningen
+- Swiss Federal Institute of Aquatic Science and Technology
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.1/10
+Percentile: Top 46% of Water Institute faculty
+Rankings by Research Category:
+- Climate Change Impacts and Adaptation: #7 of 16
+- Microbiology: #12 of 20
+- Ecology: #29 of 59

@@ -1,0 +1,76 @@
+Name: Denis Valle
+Role: Assistant Professor
+Academic Unit: 
+Office: 
+Phone: 
+Email: drvalle@ufl.edu
+Website: http://denisvalle.weebly.com
+Google Scholar: https://scholar.google.com/citations?user=UvjweBMAAAAJ&hl=en
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 82
+- Total Citations: 1323
+- H-Index: 23
+- Average Citations per Paper: 16.1
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 6.44 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Large scale multi-layer fuel load characterization in tropical savanna using GEDI spaceborne lidar data *Remote Sensing of Environment* (2022) - 63 citations
+  DOI: https://doi.org/10.1016/j.rse.2021.112764
+- Net loss of biomass predicted for tropical biomes in a changing climate *Nature Climate Change* (2023) - 46 citations
+  DOI: https://doi.org/10.1038/s41558-023-01600-z
+- Predict or describe? How learning analytics dashboard design influences motivation and statistics anxiety in an online statistics course *Educational technology research and development* (2021) - 42 citations
+  DOI: https://doi.org/10.1007/s11423-021-09998-z
+- The influence of task-value scaffolding in a predictive learning analytics dashboard on learners' statistics anxiety, motivation, and performance *Computers & Education* (2021) - 38 citations
+  DOI: https://doi.org/10.1016/j.compedu.2021.104288
+- Impacts of rural to urban migration, urbanization, and generational change on consumption of wild animals in the Amazon *Conservation Biology* (2021) - 37 citations
+  DOI: https://doi.org/10.1111/cobi.13663
+- A new index to quantify longitudinal river fragmentation: Conservation and management implications *Ecological Indicators* (2022) - 33 citations
+  DOI: https://doi.org/10.1016/j.ecolind.2022.108680
+- Quantifying uncertainty in land-use land-cover classification using conformal statistics *Remote Sensing of Environment* (2023) - 32 citations
+  DOI: https://doi.org/10.1016/j.rse.2023.113682
+- Activity modulation and selection for forests help giant anteaters to cope with temperature changes *Animal Behaviour* (2023) - 19 citations
+  DOI: https://doi.org/10.1016/j.anbehav.2023.04.008
+- Identifying latent behavioural states in animal movement with M4, a nonparametric Bayesian method *Methods in Ecology and Evolution* (2021) - 17 citations
+  DOI: https://doi.org/10.1111/2041-210x.13745
+- Guiding placement of health facilities using multiple malaria criteria and an interactive tool *Malaria Journal* (2021) - 14 citations
+  DOI: https://doi.org/10.1186/s12936-021-03991-w
+
+Research Grants (from Dimensions.ai):
+- CAREER: Next generation mixed membership models for highly multivariate biodiversity data (2021-2026) - $681,656
+  Funder: Directorate for Biological Sciences
+- (MC) Next generation models for reliable inference and prediction for highly multivariate biodiversity data (2020-2025)
+  Funder: National Institute of Food and Agriculture
+- Assessing spatial and temporal patterns in forest composition of Eastern U.S. forests using a novel probabilistic multivariate statistical method (2015-2020)
+  Funder: National Institute of Food and Agriculture
+- An integrative approach to quantifying the response of ecological assemblages to anthropogenic stressors (2015-2020) - $896,107
+  Funder: Directorate for Biological Sciences
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 3103 Ecology; 41 Environmental Sciences; 37 Earth Sciences; 39 Education
+
+Key Research Concepts (from Dimensions.ai):
+statistics anxiety; urban areas; giant anteater; habitat selection; latent behavioral states; fire-prone regions; fuel loads; tropical savannas; Global Ecosystem Dynamics Investigation; woody fuels
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Princeton University
+- Federal University of Amazonas
+- Instituto de Conservação de Animais Silvestres
+- Federal University of São João del-Rei
+- Federal University of Mato Grosso do Sul

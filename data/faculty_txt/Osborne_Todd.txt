@@ -27,3 +27,66 @@ Dr. Osborne's research informs decisions about sustainable nutrient management a
 
 Keywords:
 soil biogeochemistry; carbon cycling; nitrogen cycling; soil organic matter; nutrient management; greenhouse gas emissions; agroecosystems; soil health; agricultural soils; land management; carbon sequestration; nutrient-use efficiency; sustainable agriculture; cropping systems; Florida agriculture
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 79
+- Total Citations: 1745
+- H-Index: 23
+- Average Citations per Paper: 22.1
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 5.13 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Nitrogen addition alters composition, diversity, and functioning of microbial communities in mangrove soils: An incubation experiment *Soil Biology and Biochemistry* (2021) - 71 citations
+  DOI: https://doi.org/10.1016/j.soilbio.2020.108076
+- Inadvertent human genomic bycatch and intentional capture raise beneficial applications and ethical concerns with environmental DNA *Nature Ecology & Evolution* (2023) - 53 citations
+  DOI: https://doi.org/10.1038/s41559-023-02056-2
+- Governance and the mangrove commons: Advancing the cross-scale, nested framework for the global conservation and wise use of mangroves *Journal of Environmental Management* (2022) - 42 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2022.114823
+- Long‐term accumulation of macro‐ and secondary elements in subtropical treatment wetlands *Ecosphere* (2021) - 26 citations
+  DOI: https://doi.org/10.1002/ecs2.3787
+- Aquatic Vegetation, an Understudied Depot for PFAS *Journal of the American Society for Mass Spectrometry* (2023) - 22 citations
+  DOI: https://doi.org/10.1021/jasms.3c00018
+- Molecular testing devices for on-site detection of E. coli in water samples *Scientific Reports* (2023) - 21 citations
+  DOI: https://doi.org/10.1038/s41598-023-31208-4
+- Increased levels of perfluorooctanesulfonic acid (PFOS) during Hurricane Dorian on the east coast of Florida *Environmental Research* (2022) - 19 citations
+  DOI: https://doi.org/10.1016/j.envres.2021.112635
+- Blue Carbon Soil Stock Development and Estimates Within Northern Florida Wetlands *Frontiers in Earth Science* (2021) - 18 citations
+  DOI: https://doi.org/10.3389/feart.2021.552721
+- Contrasting responses of DOM leachates to photodegradation observed in plant species collected along an estuarine salinity gradient *Biogeochemistry* (2021) - 16 citations
+  DOI: https://doi.org/10.1007/s10533-021-00756-0
+- PFAS surveillance in abiotic matrices within vital aquatic habitats throughout Florida *Marine Pollution Bulletin* (2023) - 15 citations
+  DOI: https://doi.org/10.1016/j.marpolbul.2023.115011
+
+Research Grants (from Dimensions.ai):
+- Research Infrastructure: Environmental controlled recirculating seawater system for advanced marine science experimentation (2025-2027) - $774,759
+  Funder: Directorate for Biological Sciences
+- Carbon Biogeochemistry in a Changing Environment (2016-2020)
+  Funder: National Institute of Food and Agriculture
+- ENHANCING FLORIDA HARD CLAM PRODUCTION THROUGH BROODSTOCK DEVELOPMENT, IMPROVED HARVEST PRACTICES AND SPECIES DIVERSIFICATION (2013-2017) - $379,837
+  Funder: National Institute of Food and Agriculture
+
+Patents (from Dimensions.ai):
+- PORTABLE DEVICES AND METHODS FOR IN SITU NUCLEIC ACID DETECTION IN WATER SAMPLES (2023)
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 31 Biological Sciences; 37 Earth Sciences; 3103 Ecology; 4105 Pollution and Contamination
+
+Key Research Concepts (from Dimensions.ai):
+polyfluoroalkyl substances; nitrogen addition; Stormwater Treatment Areas; surface water; organic matter; ecosystem metabolism; microbial communities; microbial biomass; microbial respiration; nutrient cycling
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Florida Department of Environmental Protection
+- University of Manchester
+- South Florida Water Management District
+- Florida Fish and Wildlife Conservation Commission
+- Guana Tolomato Matanzas National Estuarine Research Reserve, Ponte Vedra Beach, FL 32082, USA;, nikki.dix@dep.state.fl.us, (N.D.);, shannon.dunnigan@dep.state.fl.us, (S.D.)
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.9/10
+Percentile: Top 21% of Water Institute faculty
+Rankings by Research Category:
+- Pollution and Contamination: #6 of 13
+- Ecology: #16 of 59
+- Earth Sciences: #22 of 70

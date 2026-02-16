@@ -23,3 +23,61 @@ Teaching:
 
 Keywords:
 Microbial ecology; bioinformatics; seagrass ecosystems; coral reef conservation; microbiome research; wetlands and aquatic ecosystems; waterborne pathogens.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 37
+- Total Citations: 1288
+- H-Index: 16
+- Average Citations per Paper: 34.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 6.77 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Insights into the Cultured Bacterial Fraction of Corals *mSystems* (2021) - 92 citations
+  DOI: https://doi.org/10.1128/msystems.01249-20
+- Chemical and genomic characterization of a potential probiotic treatment for stony coral tissue loss disease *Communications Biology* (2023) - 79 citations
+  DOI: https://doi.org/10.1038/s42003-023-04590-y
+- A meta-analysis of the stony coral tissue loss disease microbiome finds key bacteria in unaffected and lesion tissue in diseased colonies *ISME Communications* (2023) - 68 citations
+  DOI: https://doi.org/10.1038/s43705-023-00220-0
+- Metabolomics Approaches to Dereplicate Natural Products from Coral-Derived Bioactive Bacteria *Journal of Natural Products* (2022) - 21 citations
+  DOI: https://doi.org/10.1021/acs.jnatprod.1c01110
+- Lactobacillus johnsonii N6.2 and Blueberry Phytophenols Affect Lipidome and Gut Microbiota Composition of Rats Under High-Fat Diet *Frontiers in Nutrition* (2021) - 17 citations
+  DOI: https://doi.org/10.3389/fnut.2021.757256
+- Mixtures of genotypes increase disease resistance in a coral nursery *Scientific Reports* (2022) - 16 citations
+  DOI: https://doi.org/10.1038/s41598-022-23457-6
+- Short-term prescribed fire-induced changes in soil microbial communities and nutrients in native rangelands of Florida *Applied Soil Ecology* (2023) - 15 citations
+  DOI: https://doi.org/10.1016/j.apsoil.2023.104914
+- Shifts in the coral microbiome in response to in situ experimental deoxygenation *Applied and Environmental Microbiology* (2023) - 13 citations
+  DOI: https://doi.org/10.1128/aem.00577-23
+- Cryptic Diversity of Black Band Disease Cyanobacteria in Siderastrea siderea Corals Revealed by Chemical Ecology and Comparative Genome-Resolved Metagenomics *Marine Drugs* (2023) - 12 citations
+  DOI: https://doi.org/10.3390/md21020076
+- Concordance of microbial and visual health indicators of white-band disease in nursery reared Caribbean coral Acropora cervicornis *PeerJ* (2023) - 11 citations
+  DOI: https://doi.org/10.7717/peerj.15170
+
+Research Grants (from Dimensions.ai):
+- Collaborative Research: Biodiversity and resilience of corals and their microbiomes in response to ocean deoxygenation (2021-2025) - $873,302
+  Funder: Directorate for Geosciences
+- Microbial interactions in host-associated communities (2015-2018)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 3103 Ecology; 41 Environmental Sciences; 4104 Environmental Management; 3107 Microbiology
+
+Key Research Concepts (from Dimensions.ai):
+stony coral tissue loss disease; tissue loss disease; coral species; coral microbiome; coral reefs; coral holobiont; coral compartments; alpha diversity; microbial composition; reef-building corals
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Smithsonian Marine Station
+- University of Miami
+- United States Geological Survey
+- Institute of Food and Agricultural Sciences
+- The Pennsylvania State University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.4/10
+Percentile: Top 33% of Water Institute faculty
+Rankings by Research Category:
+- Microbiology: #8 of 20
+- Environmental Management: #13 of 46
+- Ecology: #22 of 59

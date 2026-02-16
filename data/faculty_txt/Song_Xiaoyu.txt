@@ -27,3 +27,61 @@ Dr. Song's research enhances predictive capabilities for soil and infrastructure
 
 Keywords:
 geomechanics; computational modeling; numerical simulation; porous media; unsaturated soils; strain localization; periporomechanics; multiphysics; multiscale modeling; high-performance computing; slope stability; geohazards; soil mechanics; infrastructure resilience; ESSIE
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 65
+- Total Citations: 1423
+- H-Index: 24
+- Average Citations per Paper: 21.9
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 5.46 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- A computational periporomechanics model for localized failure in unsaturated porous media *Computer Methods in Applied Mechanics and Engineering* (2021) - 50 citations
+  DOI: https://doi.org/10.1016/j.cma.2021.113932
+- Computational multiphase periporomechanics for unguided cracking in unsaturated porous media *International Journal for Numerical Methods in Engineering* (2022) - 43 citations
+  DOI: https://doi.org/10.1002/nme.6961
+- A stabilized computational nonlocal poromechanics model for dynamic analysis of saturated porous media *International Journal for Numerical Methods in Engineering* (2021) - 43 citations
+  DOI: https://doi.org/10.1002/nme.6762
+- Computational coupled large‐deformation periporomechanics for dynamic failure and fracturing in variably saturated porous media *International Journal for Numerical Methods in Engineering* (2022) - 40 citations
+  DOI: https://doi.org/10.1002/nme.7109
+- An anisotropic elastoplastic Cosserat continuum model for shear failure in stratified geomaterials *Engineering Geology* (2021) - 39 citations
+  DOI: https://doi.org/10.1016/j.enggeo.2021.106304
+- Determination of clay-water contact angle via molecular dynamics and deep-learning enhanced methods *Acta Geotechnica* (2021) - 38 citations
+  DOI: https://doi.org/10.1007/s11440-021-01238-1
+- Updated Lagrangian unsaturated periporomechanics for extreme large deformation in unsaturated porous media *Computer Methods in Applied Mechanics and Engineering* (2022) - 34 citations
+  DOI: https://doi.org/10.1016/j.cma.2022.115511
+- Nonequilibrium molecular dynamics (NEMD) modeling of nanoscale hydrodynamics of clay‐water system at elevated temperature *International Journal for Numerical and Analytical Methods in Geomechanics* (2022) - 27 citations
+  DOI: https://doi.org/10.1002/nag.3325
+- Computational Cosserat periporomechanics for strain localization and cracking in deformable porous media *International Journal of Solids and Structures* (2024) - 21 citations
+  DOI: https://doi.org/10.1016/j.ijsolstr.2023.112593
+- Computational multiphase micro‐periporomechanics for dynamic shear banding and fracturing of unsaturated porous media *International Journal for Numerical Methods in Engineering* (2024) - 20 citations
+  DOI: https://doi.org/10.1002/nme.7418
+
+Research Grants (from Dimensions.ai):
+- CAREER: A Non-local Mathematical and Computational Paradigm for Failure in Unsaturated Soils: Integrated Research and Education through High Performance Computing (2020-2026) - $516,000
+  Funder: Directorate for Engineering
+- Molecular Dynamics Modeling of a Partially Saturated Clay-Water System (2017-2021) - $86,825
+  Funder: Directorate for Engineering
+
+Research Categories (from Dimensions.ai):
+40 Engineering; 4019 Resources Engineering and Extractive Metallurgy; 4005 Civil Engineering; 49 Mathematical Sciences; 4016 Materials Engineering
+
+Key Research Concepts (from Dimensions.ai):
+porous media; unsaturated fluid flow; strength anisotropy; effective force state concept; nonlocal formulation; elevated temperatures; shear bands; strain localization; progressive failure process; strain softening
+
+Top Collaborating Institutions (from Dimensions.ai):
+- State Key Laboratory of Coastal and Offshore Engineering
+- Dalian University of Technology
+- Tongji University
+- China Resources Co Ltd
+- CCCC First Harbour Consultants Co., Ltd., Tianjin, 300220, China
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.9/10
+Percentile: Top 21% of Water Institute faculty
+Rankings by Research Category:
+- Materials Engineering: #1 of 3
+- Civil Engineering: #1 of 4
+- Resources Engineering and Extractive Metallurgy: #1 of 1

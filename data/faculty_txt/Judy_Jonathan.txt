@@ -30,3 +30,55 @@ Answers the question: "What controls chemical mobility in soils and waters?" and
 
 Keywords:
 soil chemistry; water chemistry; contaminant fate; contaminant transport; PFAS; nanomaterials; metals; phosphorus; chemical speciation; adsorption; desorption; environmental risk; biosolids; water treatment residuals
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 27
+- Total Citations: 1327
+- H-Index: 11
+- Average Citations per Paper: 49.1
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.47 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Copper stress alleviation in corn (Zea mays L.): Comparative efficiency of carbon nanotubes and carbon nanoparticles *NanoImpact* (2022) - 30 citations
+  DOI: https://doi.org/10.1016/j.impact.2022.100381
+- PFAS release from wastewater residuals as a function of composition and production practices *Environmental Pollution* (2023) - 22 citations
+  DOI: https://doi.org/10.1016/j.envpol.2023.121167
+- Transport and retention of polymeric and other engineered nanoparticles in porous media *NanoImpact* (2021) - 13 citations
+  DOI: https://doi.org/10.1016/j.impact.2021.100361
+- Trophic transfer of PFAS from tomato (Solanum lycopersicum) to tobacco hornworm (Manduca sexta) caterpillars *Environmental Pollution* (2022) - 11 citations
+  DOI: https://doi.org/10.1016/j.envpol.2022.119814
+- Mineralogy of particulate inputs and P-speciation and mineralogy of recently accreted soils within Everglades stormwater treatment wetlands *The Science of The Total Environment* (2021) - 8 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2021.146740
+- Per‐ and polyfluoroalkyl substances in water treatment residuals: Occurrence and desorption *Journal of Environmental Quality* (2023) - 7 citations
+  DOI: https://doi.org/10.1002/jeq2.20520
+- Effects of drinking water treatment residual amendments to biosolids on plant uptake of per‐ and polyfluoroalkyl substances *Journal of Environmental Quality* (2023) - 6 citations
+  DOI: https://doi.org/10.1002/jeq2.20511
+- Ultrafine (<0.45 μm) particulate SRP fluxes entering and leaving Everglades Stormwater Treatment Areas as a function of STA management and performance *Ecological Engineering* (2023) - 6 citations
+  DOI: https://doi.org/10.1016/j.ecoleng.2023.107043
+- Correlating soil nutrient test lead with bioaccessible lead in highly-contaminated soils receiving lead-immobilizing amendments *The Science of The Total Environment* (2021) - 6 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2021.150658
+- Subsurface phosphorus fluxes in a well‐drained forest soil are small and dominated by particulates *Soil Science Society of America Journal* (2021) - 3 citations
+  DOI: https://doi.org/10.1002/saj2.20258
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 4105 Pollution and Contamination; 30 Agricultural, Veterinary and Food Sciences; 40 Engineering; 4011 Environmental Engineering
+
+Key Research Concepts (from Dimensions.ai):
+drinking water treatment residuals; polyfluoroalkyl substances; Stormwater Treatment Areas; organic matter; submerged aquatic vegetation; emergent aquatic vegetation; aquatic vegetation; water treatment residuals; treatment residuals; plant uptake
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Purdue University West Lafayette
+- Institute of Food and Agricultural Sciences
+- Kansas State University
+- North Carolina State University
+- University of Costa Rica
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.9/10
+Percentile: Top 54% of Water Institute faculty
+Rankings by Research Category:
+- Environmental Engineering: #3 of 6
+- Pollution and Contamination: #9 of 13
+- Engineering: #33 of 53

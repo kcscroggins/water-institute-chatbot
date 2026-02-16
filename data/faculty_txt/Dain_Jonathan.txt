@@ -31,3 +31,42 @@ Water & Policy Relevance:
 
 Keywords:
 Forest conservation; social science; human dimensions; landowner decision-making; forest policy; governance; BMP adoption; private land conservation; institutional design; ecosystem services; carbon storage; riparian buffers; conservation programs; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 4
+- Total Citations: 111
+- H-Index: 4
+- Average Citations per Paper: 27.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.47 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Overcoming gender-related challenges and supporting women in conservation in Latin America *Biological Conservation* (2024) - 5 citations
+  DOI: https://doi.org/10.1016/j.biocon.2024.110625
+
+Research Grants (from Dimensions.ai):
+- Common Sense but not Common Practice; Conflict Management, Participatory Planning and Social Learning for Ecologists in Mexico (2010-2011)
+  Funder: Council for International Exchange of Scholars
+- QnD – Designing a Participatory Scenario Modeling Tool to Integrate Technology, Ecology, and Sociology in Guatemala’s Maya Biosphere Reserve and Beyond (2006-2007) - $10,000
+  Funder: Environmental Protection Agency
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 4104 Environmental Management
+
+Key Research Concepts (from Dimensions.ai):
+Latin America; local actors’ agency ; gender-related challenges; knowledge co-production; bottom-up development
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Austral University of Chile
+- Wildlife Conservation Society Chile
+- National Scientific and Technical Research Council
+- Universidad Católica de Salta
+- Escuela Politécnica del Ejército
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.3/10
+Percentile: Top 82% of Water Institute faculty
+Rankings by Research Category:
+- Environmental Management: #38 of 46
+- Environmental Sciences: #118 of 135

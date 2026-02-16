@@ -27,3 +27,42 @@ Dr. de Rooij's work supports evidence-based water resource management by improvi
 
 Keywords:
 hydrology; groundwater; surface water; coupled flow; transport modeling; numerical methods; karst aquifers; conduit networks; watershed modeling; Silver Springs; Florida hydrology; finite element; particle tracking; water resources; solute transport
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 11
+- Total Citations: 163
+- H-Index: 7
+- Average Citations per Paper: 14.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 6.73 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Probabilistic estimation of tunnel inflow from a karstic conduit network *Engineering Geology* (2023) - 15 citations
+  DOI: https://doi.org/10.1016/j.enggeo.2022.106950
+- Technical note: Finite element formulations to map discrete fracture elements in three-dimensional groundwater models *Hydrology and Earth System Sciences* (2025)
+  DOI: https://doi.org/10.5194/hess-29-2697-2025
+- Technical note: Finite element formulations to map discrete fracture elements in three-dimensional groundwater models *EGUsphere* (2024)
+  DOI: https://doi.org/10.5194/hess-2024-289
+- Probabilistic Estimation of Tunnel Inflow from a Karstic Conduit Network *SSRN Electronic Journal* (2022)
+  DOI: https://doi.org/10.2139/ssrn.4064476
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3705 Geology; 40 Engineering; 3707 Hydrology; 4005 Civil Engineering
+
+Key Research Concepts (from Dimensions.ai):
+conduit network geometry; matrix permeability values; karst conduits; groundwater model; finite element groundwater model; three-dimensional groundwater model; hydraulic conductivity tensor; fracture elements; water inflow; karstic conduit networks
+
+Top Collaborating Institutions (from Dimensions.ai):
+- affiliation not provided to SSRN
+- University of Neuchâtel
+- National Cooperative for the Disposal of Radioactive Waste (Switzerland)
+- University of Oslo
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.7/10
+Percentile: Top 62% of Water Institute faculty
+Rankings by Research Category:
+- Civil Engineering: #3 of 4
+- Geology: #9 of 11
+- Hydrology: #9 of 18

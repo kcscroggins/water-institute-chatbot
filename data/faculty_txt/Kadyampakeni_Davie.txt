@@ -27,4 +27,56 @@ Selected Expertise & Themes:
 - Application of remote/automated sensing and decision‐support tools for irrigation  
 
 Keywords:  
-Water-use efficiency; precision irrigation; citrus production; nutrient management; drainage and surface/ground water interactions; soil–water science; ecosystem water budgets; water‐quality conservation; horticultural water management; decision-support tools.  
+Water-use efficiency; precision irrigation; citrus production; nutrient management; drainage and surface/ground water interactions; soil–water science; ecosystem water budgets; water‐quality conservation; horticultural water management; decision-support tools.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 80
+- Total Citations: 610
+- H-Index: 14
+- Average Citations per Paper: 7.6
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.69 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Are macronutrients and micronutrients therapeutic for restoring performance of trees affected by citrus greening? A discussion of current practices and future research opportunities *Journal of Plant Nutrition* (2021) - 29 citations
+  DOI: https://doi.org/10.1080/01904167.2021.1927079
+- Micronutrients Improve Growth and Development of HLB-Affected Citrus Trees in Florida *Plants* (2022) - 16 citations
+  DOI: https://doi.org/10.3390/plants12010073
+- The Effect of Foliar and Ground-Applied Essential Nutrients on Huanglongbing-Affected Mature Citrus Trees *Plants* (2021) - 15 citations
+  DOI: https://doi.org/10.3390/plants10050925
+- Impact of Cover Cropping on Temporal Nutrient Distribution and Availability in the Soil *Horticulturae* (2023) - 14 citations
+  DOI: https://doi.org/10.3390/horticulturae9101160
+- Integrated Water, Nutrient, and Pesticide Management of Huanglongbing-Affected Sweet Oranges on Florida Sandy Soils—A Review *Plants* (2022) - 12 citations
+  DOI: https://doi.org/10.3390/plants11141850
+- Magnesium fertilization has a greater impact on soil and leaf nutrient concentrations than nitrogen or calcium fertilization in Florida orange production *Nutrient Cycling in Agroecosystems* (2022) - 12 citations
+  DOI: https://doi.org/10.1007/s10705-021-10182-1
+- Mitigating abiotic stress in citrus: the role of silicon for enhanced productivity and quality *Plant Stress* (2025) - 11 citations
+  DOI: https://doi.org/10.1016/j.stress.2025.100837
+- Effects of Iron Rates on Growth and Development of Young Huanglongbing-affected Citrus Trees in Florida *HortScience* (2022) - 10 citations
+  DOI: https://doi.org/10.21273/hortsci16548-22
+- Variable Manganese Rates Influence the Performance of Huanglongbing-affected Citrus Trees in Florida *HortScience* (2022) - 9 citations
+  DOI: https://doi.org/10.21273/hortsci16337-21
+- Spatial and Temporal Nutrient Dynamics and Water Management of Huanglongbing-Affected Mature Citrus Trees on Florida Sandy Soils *Sustainability* (2022) - 8 citations
+  DOI: https://doi.org/10.3390/su14127134
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3004 Crop and Pasture Production; 31 Biological Sciences; 3108 Plant Biology; 3002 Agriculture, Land and Farm Management
+
+Key Research Concepts (from Dimensions.ai):
+citrus trees; HLB-affected citrus trees; citrus tree growth; soil depth; leaf nutrient concentrations; sandy soil; soil application; citrus production; nutrient concentrations; HLB-affected trees
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Institute of Food and Agricultural Sciences
+- Agricultural Research Service - Pacific West Area
+- International Fertilizer Development Center (IFDC), Tamale, Ghana
+- Citrus Research and Education Center, 700 Experiment Station Road, Lake Alfred, FL 33850, USA
+- Sand County Foundation
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.0/10
+Percentile: Top 49% of Water Institute faculty
+Rankings by Research Category:
+- Plant Biology: #9 of 18
+- Agriculture, Land and Farm Management: #16 of 24
+- Crop and Pasture Production: #29 of 41

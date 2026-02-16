@@ -28,3 +28,67 @@ Dr. Valle-Levinson's work provides essential physical insights into how coastal 
 
 Keywords:
 coastal hydrodynamics; physical oceanography; estuarine circulation; tidal flows; subtidal flows; sea-level variability; numerical modeling; ADCP; water exchange; Gulf of Mexico; Atlantic coast; sediment transport; nutrient transport; bathymetry; climate variability; coastal engineering
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 158
+- Total Citations: 3102
+- H-Index: 29
+- Average Citations per Paper: 19.6
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.75 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Natural and anthropogenic effects on microplastic distribution in a hypersaline lagoon *The Science of The Total Environment* (2021) - 49 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2021.145803
+- Transport Processes in the Gulf of Mexico Along the River-Estuary-Shelf-Ocean Continuum: a Review of Research from the Gulf of Mexico Research Initiative *Estuaries and Coasts* (2021) - 30 citations
+  DOI: https://doi.org/10.1007/s12237-021-01005-1
+- Intraseasonal variation in southeast Pacific blue whale acoustic presence, zooplankton backscatter, and oceanographic variables on a feeding ground in Northern Chilean Patagonia *Progress In Oceanography* (2021) - 19 citations
+  DOI: https://doi.org/10.1016/j.pocean.2021.102709
+- Saltwater intrusion in estuaries with different dynamic depths *Regional Studies in Marine Science* (2022) - 17 citations
+  DOI: https://doi.org/10.1016/j.rsma.2022.102186
+- Dynamics-based classification of semienclosed basins *Regional Studies in Marine Science* (2021) - 17 citations
+  DOI: https://doi.org/10.1016/j.rsma.2021.101866
+- Astronomic link to anomalously high mean sea level in the northern Adriatic Sea *Estuarine Coastal and Shelf Science* (2021) - 17 citations
+  DOI: https://doi.org/10.1016/j.ecss.2021.107418
+- Influence of river discharge on tidal and subtidal flows in a microtidal estuary: Implication on velocity asymmetries *Advances in Water Resources* (2023) - 15 citations
+  DOI: https://doi.org/10.1016/j.advwatres.2023.104446
+- Flows, Transport, and Effective Drag in Intertidal Salt Marsh Creeks *Journal of Geophysical Research - Oceans* (2021) - 14 citations
+  DOI: https://doi.org/10.1029/2021jc017357
+- Compound Flooding in a Subtropical Estuary Caused by Hurricane Irma 2017 *Geophysical Research Letters* (2022) - 13 citations
+  DOI: https://doi.org/10.1029/2022gl099360
+- Longitudinal and lateral circulation and tidal impacts in salt-plug estuaries *Frontiers in Marine Science* (2023) - 10 citations
+  DOI: https://doi.org/10.3389/fmars.2023.1152625
+
+Research Grants (from Dimensions.ai):
+- Fortnightly switching of residual flow drivers in estuaries (2022-2025) - $266,863
+  Funder: Fundação para a Ciência e Tecnologia
+- Turbulent Vertical Mixing and the Formation of Oil Particle Aggregates: LES, Measurements and Modeling (2018-present)
+  Funder: Gulf of Mexico Research Initiative
+- Collaborative Research: Evaluating how abalone populations in the California Current are structured by the interplay of large-scale oceanographic forcing and nearshore variability (2017-2022) - $149,561
+  Funder: Directorate for Geosciences
+- Consortium for Advanced Research on Transport of Hydrocarbon in the Environment II (CARTHE II) (2015-present)
+  Funder: Gulf of Mexico Research Initiative
+- Semidiurnal Perturbations to Storm Surges on the U.S. Eastern Seaboard (2013-2018) - $403,326
+  Funder: Directorate for Geosciences
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3708 Oceanography; 41 Environmental Sciences; 3707 Hydrology; 3709 Physical Geography and Environmental Geoscience
+
+Key Research Concepts (from Dimensions.ai):
+river discharge; spring tides; coastal lagoons; Gulf of Mexico; wind stress; saltwater intrusion; water level; residual circulation; salt plugs; tidal flow
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Concepción
+- Helmholtz-Zentrum Hereon GmbH
+- Louisiana State University
+- Stanford University
+- University of Miami
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.2/10
+Percentile: Top 15% of Water Institute faculty
+Rankings by Research Category:
+- Oceanography: #1 of 8
+- Physical Geography and Environmental Geoscience: #2 of 11
+- Hydrology: #5 of 18

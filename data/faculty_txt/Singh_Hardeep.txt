@@ -27,3 +27,55 @@ Dr. Singh's research supports evidence-based nutrient management and cropping sy
 
 Keywords:
 agronomy; cropping systems; nutrient management; nitrogen; cover crops; weed management; peanut; cotton; corn; soybean; hemp; Florida Panhandle; nutrient loss mitigation; sustainable agriculture; fertilizer efficiency; row crops; WFREC
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 65
+- Total Citations: 297
+- H-Index: 8
+- Average Citations per Paper: 4.6
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.89 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Smart fertilizer technologies: An environmental impact assessment for sustainable agriculture *Smart Agricultural Technology* (2024) - 35 citations
+  DOI: https://doi.org/10.1016/j.atech.2024.100504
+- Effects of Elevated Water Temperature on Growth of Basil Using Nutrient Film Technique *HortScience* (2022) - 23 citations
+  DOI: https://doi.org/10.21273/hortsci16690-22
+- Bacterial biostimulants for climate smart agriculture practices: Mode of action, effect on plant growth and roadmap for commercial products *Journal of Sustainable Agriculture and Environment* (2023) - 22 citations
+  DOI: https://doi.org/10.1002/sae2.12085
+- Water storage and use efficiencies of rainfed winter wheat-summer green manure systems of the US Southern Great Plains *European Journal of Agronomy* (2023) - 19 citations
+  DOI: https://doi.org/10.1016/j.eja.2023.126818
+- A systematic review of chemical weed management in peanut (Arachis hypogaea) in the United States: challenges and opportunities *Weed Science* (2023) - 9 citations
+  DOI: https://doi.org/10.1017/wsc.2023.71
+- Competing with the competitors in an endless competition: a systematic review of nonchemical weed management research in peanut (Arachis hypogea) in the United States *Weed Science* (2023) - 9 citations
+  DOI: https://doi.org/10.1017/wsc.2023.32
+- Drone and handheld sensors for hemp: Evaluating NDVI and NDRE in relation to nitrogen application and crop yield *Agrosystems Geosciences & Environment* (2025) - 7 citations
+  DOI: https://doi.org/10.1002/agg2.70075
+- Optimizing Nutrient Delivery in Agronomic Crops: A Review of Enhanced Efficiency Fertilizers *Journal of Plant Nutrition and Soil Science* (2025) - 5 citations
+  DOI: https://doi.org/10.1002/jpln.12010
+- Estimating cotton biomass and nitrogen content using high-resolution satellite and UAV data fusion with machine learning *Smart Agricultural Technology* (2025) - 4 citations
+  DOI: https://doi.org/10.1016/j.atech.2025.101191
+- Optimizing nitrogen rates for rainfed cotton on sandy loam soils of Florida *Agronomy Journal* (2025) - 4 citations
+  DOI: https://doi.org/10.1002/agj2.70046
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3004 Crop and Pasture Production; 3002 Agriculture, Land and Farm Management; 31 Biological Sciences; 41 Environmental Sciences
+
+Key Research Concepts (from Dimensions.ai):
+Agronomy Department; sustainable agriculture; nutrient use efficiency; shoot dry weight; plant growth; winter wheat; weed management; N rate; plant height; colored shade nets
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Oklahoma State University
+- Institute of Food and Agricultural Sciences
+- UF/IFAS West Florida Research and Education Center, Jay, Florida, USA
+- Kansas State University
+- Agricultural Research Service - Plains Area
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.7/10
+Percentile: Top 62% of Water Institute faculty
+Rankings by Research Category:
+- Agriculture, Land and Farm Management: #18 of 24
+- Crop and Pasture Production: #34 of 41
+- Agricultural, Veterinary and Food Sciences: #69 of 99

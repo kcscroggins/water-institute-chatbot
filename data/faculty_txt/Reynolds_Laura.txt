@@ -29,3 +29,59 @@ Dr. Reynolds's work supports evidence-based coastal restoration and conservation
 
 Keywords:
 coastal ecology; marine ecology; seagrass; submerged aquatic vegetation; SAV; restoration ecology; ecosystem services; population genetics; coastal habitats; estuaries; blue carbon; climate change; habitat restoration; marine plants; biodiversity
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 53
+- Total Citations: 435
+- H-Index: 12
+- Average Citations per Paper: 8.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 5.92 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- A quantitative inventory of global soniferous fish diversity *Reviews in Fish Biology and Fisheries* (2022) - 96 citations
+  DOI: https://doi.org/10.1007/s11160-022-09702-1
+- FishSounds Version 1.0: A website for the compilation of fish sound production information and recordings *Ecological Informatics* (2023) - 37 citations
+  DOI: https://doi.org/10.1016/j.ecoinf.2022.101953
+- Worldwide Soundscapes: A Synthesis of Passive Acoustic Monitoring Across Realms *Global Ecology and Biogeography* (2025) - 24 citations
+  DOI: https://doi.org/10.1111/geb.70021
+- Global inventory of species categorized by known underwater sonifery *Scientific Data* (2023) - 23 citations
+  DOI: https://doi.org/10.1038/s41597-023-02745-4
+- Seagrass meadow stability and composition influence carbon storage *Landscape Ecology* (2023) - 23 citations
+  DOI: https://doi.org/10.1007/s10980-023-01700-3
+- Worldwide Soundscapes: a synthesis of passive acoustic monitoring across realms *bioRxiv* (2024) - 21 citations
+  DOI: https://doi.org/10.1101/2024.04.10.588860
+- Seagrass Abundance Predicts Surficial Soil Organic Carbon Stocks Across the Range of Thalassia testudinum in the Western North Atlantic *Estuaries and Coasts* (2023) - 18 citations
+  DOI: https://doi.org/10.1007/s12237-023-01210-0
+- Herbivore effects increase with latitude across the extent of a foundational seagrass *Nature Ecology & Evolution* (2024) - 16 citations
+  DOI: https://doi.org/10.1038/s41559-024-02336-5
+- How Does Mangrove Expansion Affect Structure and Function of Adjacent Seagrass Meadows? *Estuaries and Coasts* (2021) - 16 citations
+  DOI: https://doi.org/10.1007/s12237-020-00879-x
+- Variation in Seagrass-Associated Macroinvertebrate Communities Along the Gulf Coast of Peninsular Florida: An Exploration of Patterns and Ecological Consequences *Frontiers in Marine Science* (2021) - 15 citations
+  DOI: https://doi.org/10.3389/fmars.2021.596966
+
+Research Grants (from Dimensions.ai):
+- A Seawater System for Enhancing Nature Coast Biological Station's Research and Education Programs (2018-2021) - $238,987
+  Funder: Directorate for Biological Sciences
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 3103 Ecology; 41 Environmental Sciences; 4101 Climate Change Impacts and Adaptation; 4102 Ecological Applications
+
+Key Research Concepts (from Dimensions.ai):
+fish species; seagrass meadows; fish diversity; ecological importance; passive acoustic monitoring; acoustic monitoring; biodiversity monitoring; submerged aquatic vegetation; plant traits; taxonomic prevalence
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Federal University of Rio Grande do Norte
+- Smithsonian Marine Station
+- University of Victoria
+- Institute of Food and Agricultural Sciences
+- Florida International University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.0/10
+Percentile: Top 49% of Water Institute faculty
+Rankings by Research Category:
+- Climate Change Impacts and Adaptation: #11 of 16
+- Ecological Applications: #14 of 32
+- Ecology: #36 of 59

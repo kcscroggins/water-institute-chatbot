@@ -25,3 +25,62 @@ Water & Policy Relevance:
 
 Keywords:
 Chemistry; analytical chemistry; reaction mechanisms; molecular transformations; environmental chemistry; pollutant fate; chemical kinetics; measurement science; nutrient chemistry; model validation; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 31
+- Total Citations: 756
+- H-Index: 11
+- Average Citations per Paper: 24.4
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 10.69 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Aligned macrocycle pores in ultrathin films for accurate molecular sieving *Nature* (2022) - 289 citations
+  DOI: https://doi.org/10.1038/s41586-022-05032-1
+- A few-layer covalent network of fullerenes *Nature* (2023) - 234 citations
+  DOI: https://doi.org/10.1038/s41586-022-05401-w
+- Intrinsically thermally conductive polymers *Materials Horizons* (2024) - 35 citations
+  DOI: https://doi.org/10.1039/d3mh01796f
+- Selective Electrochemical Modification and Degradation of Polymers *Angewandte Chemie International Edition* (2024) - 27 citations
+  DOI: https://doi.org/10.1002/anie.202403026
+- Layered 3D Covalent Organic Framework Films Based on Carbon–Carbon Bonds *Journal of the American Chemical Society* (2023) - 23 citations
+  DOI: https://doi.org/10.1021/jacs.3c06621
+- Electroactive Ionic Polymer of Intrinsic Microporosity for High‐Performance Capacitive Energy Storage *Advanced Materials* (2024) - 17 citations
+  DOI: https://doi.org/10.1002/adma.202405924
+- Coaxially Conductive Organic Wires Through Self-Assembly *Journal of the American Chemical Society* (2023) - 17 citations
+  DOI: https://doi.org/10.1021/jacs.2c12437
+- Electrochemical Postpolymerization Modification and Deconstruction of Macromolecules *ACS Macro Letters* (2024) - 15 citations
+  DOI: https://doi.org/10.1021/acsmacrolett.4c00507
+- Redox-Selective Macromolecular Electrolysis for Sequential Functionalization and Deconstruction *Journal of the American Chemical Society* (2025) - 12 citations
+  DOI: https://doi.org/10.1021/jacs.4c16333
+- Taming Two‐Dimensional Polymerization by a Machine‐Learning Discovered Crystallization Model *Angewandte Chemie International Edition* (2024) - 12 citations
+  DOI: https://doi.org/10.1002/anie.202408937
+
+Research Grants (from Dimensions.ai):
+- Engineering molecularly precise, sub-nanometer gas transport pathways in robust macrocycle membranes (2024-2027) - $469,833
+  Funder: Directorate for Engineering
+
+Patents (from Dimensions.ai):
+- 3D PRINTING FROM GAS PHASE MONOMERS (2023)
+
+Research Categories (from Dimensions.ai):
+34 Chemical Sciences; 3403 Macromolecular and Materials Chemistry; 40 Engineering; 4016 Materials Engineering; 3406 Physical Chemistry
+
+Key Research Concepts (from Dimensions.ai):
+covalent organic frameworks; two-dimensional polymer; two-dimensional covalent organic frameworks; organic frameworks; polymers of intrinsic microporosity; intrinsic microporosity; postpolymerization modification; polymer membranes; state-of-the-art membranes; functionalized macrocycles
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Columbia University
+- Northwestern University
+- Shanghai University
+- Carnegie Mellon University
+- University of Michigan-Ann Arbor
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.2/10
+Percentile: Top 40% of Water Institute faculty
+Rankings by Research Category:
+- Macromolecular and Materials Chemistry: #1 of 4
+- Physical Chemistry: #1 of 2
+- Materials Engineering: #2 of 3

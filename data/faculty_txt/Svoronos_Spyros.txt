@@ -29,3 +29,38 @@ Dr. Svoronos's work advances the analytical and control frameworks needed to ope
 
 Keywords:
 process control; systems engineering; chemical engineering; dynamic modeling; optimization; process monitoring; fault detection; nonlinear systems; data analytics; simulation; industrial processes; treatment systems; control theory
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 41
+- Total Citations: 924
+- H-Index: 15
+- Average Citations per Paper: 22.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 0.91 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Continuous Synthesis of Precision Gold Nanoparticles Using a Flow Reactor *KONA Powder and Particle Journal* (2022) - 9 citations
+  DOI: https://doi.org/10.14356/kona.2022011
+- Development of Inexpensive, Automatic, Real-Time Measurement System for On-Line Methane Content and Biogas Flowrate *Waste and Biomass Valorization* (2022) - 5 citations
+  DOI: https://doi.org/10.1007/s12649-022-01835-5
+- Effects of fluid film properties on fouling in biphasic flow systems *Chemical Engineering Science* (2022) - 4 citations
+  DOI: https://doi.org/10.1016/j.ces.2021.117293
+
+Research Grants (from Dimensions.ai):
+- PFI:AIR-TT: Scalable Hydrothermal Flow Manufacturing of High Value-Added Precision Nanoparticles (2016-2019) - $210,881
+  Funder: Directorate for Technology, Innovation and Partnerships
+
+Research Categories (from Dimensions.ai):
+40 Engineering; 4004 Chemical Engineering; 31 Biological Sciences; 32 Biomedical and Clinical Sciences; 3106 Industrial Biotechnology
+
+Key Research Concepts (from Dimensions.ai):
+biphasic flow system; reactor fouling; large-scale access; gold nanoparticles; synthesis of gold nanoparticles; methane composition; anaerobic digestion; methane content; control of anaerobic digesters; biogas flow rate
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.1/10
+Percentile: Top 46% of Water Institute faculty
+Rankings by Research Category:
+- Industrial Biotechnology: #1 of 1
+- Chemical Engineering: #3 of 6
+- Biomedical and Clinical Sciences: #14 of 30

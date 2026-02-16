@@ -28,3 +28,51 @@ Dr. Swain's work advances understanding of immune mechanisms and supports develo
 
 Keywords:
 immunology; vaccine development; aquaculture; fish health; Edwardsiella piscicida; host-pathogen interactions; innate immunity; adaptive immunity; recombinant vaccines; molecular immunology; pathogen recognition; veterinary medicine; infectious disease; aquatic animals
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 7
+- Total Citations: 111
+- H-Index: 6
+- Average Citations per Paper: 15.9
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 7.89 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Advancements in Fish Vaccination: Current Innovations and Future Horizons in Aquaculture Health Management *Applied Sciences* (2024) - 33 citations
+  DOI: https://doi.org/10.3390/app14135672
+- Advances and Challenges in Aeromonas hydrophila Vaccine Development: Immunological Insights and Future Perspectives *Vaccines* (2025) - 20 citations
+  DOI: https://doi.org/10.3390/vaccines13020202
+- Recombinant Attenuated Edwardsiella piscicida Vaccine Displaying Regulated Lysis to Confer Biological Containment and Protect Catfish against Edwardsiellosis *Vaccines* (2023) - 13 citations
+  DOI: https://doi.org/10.3390/vaccines11091470
+- Virulence, immunogenicity and live vaccine potential of aroA and phoP mutants of Edwardsiella piscicida in zebrafish *Microbial Pathogenesis* (2021) - 11 citations
+  DOI: https://doi.org/10.1016/j.micpath.2021.105355
+- Construction and Evaluation of Recombinant Attenuated Edwardsiella piscicida Vaccine (RAEV) Vector System Encoding Ichthyophthirius multifiliis (Ich) Antigen IAG52B *Frontiers in Immunology* (2022) - 8 citations
+  DOI: https://doi.org/10.3389/fimmu.2021.802760
+- NOD-like receptors in fish: evolution, structure, immune signaling, and targeting for aquaculture vaccine adjuvants *Frontiers in Immunology* (2025) - 2 citations
+  DOI: https://doi.org/10.3389/fimmu.2025.1665071
+
+Research Grants (from Dimensions.ai):
+- Self-Destructing Edwardsiella Piscicida: DNA Vaccine And Antigen Delivery Vector System To Prevent Tilapia Lake Virus (TiLV) Infection (2022-2025) - $298,068
+  Funder: National Institute of Food and Agriculture
+
+Patents (from Dimensions.ai):
+- COMPOSITIONS, KITS, METHODS, AND METHODS OF ADMINISTRATION RELATING TO EDWARDSIELLA PISCICIDA VACCINE AND/OR ANTIGEN DELIVERY VECTOR SYSTEMS (2023)
+- COMPOSITIONS, KITS, METHODS, AND METHODS OF ADMINISTRATION RELATING TO EDWARDSIELLA PISCICIDA VACCINE AND/OR ANTIGEN DELIVERY VECTOR SYSTEMS (2023)
+- ICHTHYOPHTHIRIUS MULTIFILIIS VACCINE SYSTEM (2019) - 1 citations
+- ICHTHYOPHTHIRIUS MULTIFILIIS VACCINE SYSTEM (2019) - 1 citations
+- Ichthyophthirius multifiliis vaccine system (2019)
+
+Research Categories (from Dimensions.ai):
+32 Biomedical and Clinical Sciences; 31 Biological Sciences; 3207 Medical Microbiology; 3101 Biochemistry and Cell Biology; 30 Agricultural, Veterinary and Food Sciences
+
+Key Research Concepts (from Dimensions.ai):
+aquaculture health management; cell wall; IL-6</i>; motile Aeromonas septicemia; infectious salmon anaemia; high-quality animal protein; tilapia lake virus; pathogen diversity; plant-based extracts; host-pathogen interactions
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.7/10
+Percentile: Top 62% of Water Institute faculty
+Rankings by Research Category:
+- Medical Microbiology: #3 of 4
+- Biochemistry and Cell Biology: #4 of 5
+- Biomedical and Clinical Sciences: #18 of 30

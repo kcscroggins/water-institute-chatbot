@@ -1,0 +1,70 @@
+Name: George Hochmuth
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: hoch@ufl.edu
+Website: http://soils.ifas.ufl.edu/people/emeritus-faculty/george-j-hochmuth/
+Google Scholar: https://scholar.google.com/citations?user=M_mbbvEAAAAJ&hl=en
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 143
+- Total Citations: 1091
+- H-Index: 18
+- Average Citations per Paper: 7.6
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.96 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Recovery efficiency of applied and residual nitrogen fertilizer in tomatoes grown on sandy soils using the 15N technique *Scientia Horticulturae* (2021) - 20 citations
+  DOI: https://doi.org/10.1016/j.scienta.2020.109861
+- UF/IFAS Standardized Nutrient Recommendations for Vegetable Crop Production in Florida: CIR1152/CV002, rev. 12/2021 *EDIS* (2022) - 14 citations
+  DOI: https://doi.org/10.32473/edis-cv002-2021
+- Chapter 2. Fertilizer Management for Vegetable Production in Florida: CV296, rev. 4/2021 *EDIS* (2021) - 14 citations
+  DOI: https://doi.org/10.32473/edis-cv296-2021
+- Plant Petiole Sap-Testing for Vegetable Crops: CV004/CIR1144, rev. 5/2022 *EDIS* (2022) - 10 citations
+  DOI: https://doi.org/10.32473/edis-cv004-2022
+- Chapter 2. Fertilizer Management for Vegetable Production in Florida: VPH ch. 2, CV296, rev. 6/2023 *EDIS* (2023) - 8 citations
+  DOI: https://doi.org/10.32473/edis-cv296-2023
+- Fertilization of Strawberries in Florida *EDIS* (2023) - 6 citations
+  DOI: https://doi.org/10.32473/edis-cv003-2023
+- Chapter 2. Fertilizer Management for Vegetable Production in Florida: VPH ch. 2, CV296, rev. 5/2022 *EDIS* (2022) - 4 citations
+  DOI: https://doi.org/10.32473/edis-cv296-2022
+- Comparing Boron Soil Testing Methods for Coastal Plain Sandy Soils *Communications in Soil Science and Plant Analysis* (2022) - 4 citations
+  DOI: https://doi.org/10.1080/00103624.2022.2046041
+- Nitrogen Use Efficiency and Yield Levels Using Soluble and Controlled-release Urea Formulations in Tomato Production *HortScience* (2024) - 3 citations
+  DOI: https://doi.org/10.21273/hortsci17679-23
+- Peanut responds to K fertilization but not to K timing on low‐K sandy soils *Agronomy Journal* (2025) - 1 citations
+  DOI: https://doi.org/10.1002/agj2.70022
+
+Research Grants (from Dimensions.ai):
+- Urine Source Separation and Treatment: Nutrient Recovery using Low-Cost Materials (2012-2013) - $15,000
+  Funder: Environmental Protection Agency
+- INFECTION PROCESSES ASSOCIATED WITH CITRUS CANKER AND CITRUS GREENING. (2011-2013) - $1,078,324
+  Funder: National Institute of Food and Agriculture
+- TROPICAL AND SUBTROPICAL RESEARCH/T STAR, HI, FL, PR AT THE UNIVERSITY OF FLORIDA. (2010-2012) - $3,193,107
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3002 Agriculture, Land and Farm Management; 3004 Crop and Pasture Production; 48 Law and Legal Studies; 35 Commerce, Management, Tourism and Services
+
+Key Research Concepts (from Dimensions.ai):
+fertility management; vegetable production; N rate; Chapter 2; chapter; vegetation; sandy soil; fertilizer recommendations; vegetable crops; controlled-release urea
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Institute of Food and Agricultural Sciences

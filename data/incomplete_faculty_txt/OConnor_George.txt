@@ -1,0 +1,52 @@
+Name: George O'Connor
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: gao@ufl.edu
+Website: http://soils.ifas.ufl.edu/people/faculty/george-oconnor/
+Google Scholar: 
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 47
+- Total Citations: 1207
+- H-Index: 23
+- Average Citations per Paper: 25.7
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.28 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Biochar type and application methods affected nitrogen and phosphorus leaching from a sandy soil amended with inorganic fertilizers and biosolids *Agrosystems Geosciences & Environment* (2022) - 13 citations
+  DOI: https://doi.org/10.1002/agg2.20236
+- Assessing the impacts of biochar and fertilizer management strategies on N and P balances in subtropical pastures *Geoderma* (2021) - 8 citations
+  DOI: https://doi.org/10.1016/j.geoderma.2021.115038
+
+Research Grants (from Dimensions.ai):
+- Beneficial Reuse of Residuals and Reclaimed Water: Impact on Soil Ecosystem and Human Health (formerly W2170) (2014-2019)
+  Funder: National Institute of Food and Agriculture
+- Soil-Based Use of Residuals, Wastewater and Reclaimed Water (2009-2014)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+4104 Environmental Management; 41 Environmental Sciences; 30 Agricultural, Veterinary and Food Sciences; 3002 Agriculture, Land and Farm Management; 3004 Crop and Pasture Production
+
+Key Research Concepts (from Dimensions.ai):
+inorganic fertilizers; biochar materials; biochar types; risk of N; sandy soil; nutrient management strategies; soil N; soil test P levels; management strategies
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Jiangsu University

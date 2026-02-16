@@ -1,0 +1,62 @@
+Name: Nathan Reaver
+Role: Research Assistant Scientist
+Academic Unit: 
+Office: 
+Phone: 
+Email: nreaver@ufl.edu
+Website: 
+Google Scholar: https://scholar.google.com/citations?user=0wR5hUwAAAAJ&hl=en&oi=sra
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 10
+- Total Citations: 164
+- H-Index: 7
+- Average Citations per Paper: 16.4
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 5.51 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Theoretical and empirical evidence against the Budyko catchment trajectory conjecture *Hydrology and Earth System Sciences* (2022) - 50 citations
+  DOI: https://doi.org/10.5194/hess-26-1507-2022
+- Improving the representation of forests in hydrological models *The Science of The Total Environment* (2021) - 45 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2021.151425
+- Adsorption Kinetics of Glycated Hemoglobin on Aptamer Microarrays with Antifouling Surface Modification *Langmuir* (2021) - 20 citations
+  DOI: https://doi.org/10.1021/acs.langmuir.1c00446
+- Integrating Remote Sensing with Ground-based Observations to Quantify the Effects of an Extreme Freeze Event on Black Mangroves (Avicennia germinans) at the Landscape Scale *Ecosystems* (2023) - 13 citations
+  DOI: https://doi.org/10.1007/s10021-023-00871-z
+- Temperature Thresholds for Leaf Damage from Two Extreme Freeze Events (2018 and 2021) Near the Northern Range Limit of Black Mangroves (Avicennia germinans) in Southeastern North America *Estuaries and Coasts* (2023) - 8 citations
+  DOI: https://doi.org/10.1007/s12237-023-01279-7
+- Climatic Asynchrony and Hydrologic Inefficiency Explain the Global Pattern of Water Availability *Geophysical Research Letters* (2022) - 7 citations
+  DOI: https://doi.org/10.1029/2022gl101214
+- Quantifying uncertainty in coastal salinity regime for biological application using quantile regression *Ecosphere* (2023) - 6 citations
+  DOI: https://doi.org/10.1002/ecs2.4488
+- Stakeholder-Informed Environmental-Economic Tradeoffs at the Farm and Forest Scale *SSRN Electronic Journal* (2025)
+  DOI: https://doi.org/10.2139/ssrn.5527371
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3707 Hydrology; 3701 Atmospheric Sciences; 30 Agricultural, Veterinary and Food Sciences; 31 Biological Sciences
+
+Key Research Concepts (from Dimensions.ai):
+black mangrove; Avicennia germinans; Budyko equation; individual catchments; Budyko framework; Budyko curve; potential evapotranspiration; leaf area index; groundwater dynamics; watershed model
+
+Top Collaborating Institutions (from Dimensions.ai):
+- United States Geological Survey
+- Texas A&M University – Corpus Christi
+- The University of Texas at Austin
+- The University of Texas Rio Grande Valley
+- University of Toledo

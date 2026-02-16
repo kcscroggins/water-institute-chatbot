@@ -32,3 +32,47 @@ Water & Policy Relevance:
 
 Keywords:
 Human geography; political ecology; environmental governance; land use; sustainability transitions; policy implementation; spatial inequality; power; equity; land-use decision-making; environmental justice; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 12
+- Total Citations: 496
+- H-Index: 7
+- Average Citations per Paper: 41.3
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.38 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Decision support tools, systems and indices for sustainable coastal planning and management: A review *Ocean & Coastal Management* (2021) - 54 citations
+  DOI: https://doi.org/10.1016/j.ocecoaman.2021.105813
+- Decreasing water resources in Southeastern U.S. as observed by the GRACE satellites *Water Policy* (2021) - 14 citations
+  DOI: https://doi.org/10.2166/wp.2021.039
+- Drought to Flood to Drought: A Review of Definitions of Precipitation Whiplash Events, What Causes Them and Their Impacts Over the Continental United States *International Journal of Climatology* (2025) - 5 citations
+  DOI: https://doi.org/10.1002/joc.8850
+- Wildfires in the Arctic and tropical biomes: what is the relative role of climate? *Natural Hazards* (2022) - 5 citations
+  DOI: https://doi.org/10.1007/s11069-022-05452-2
+- Transforming abandoned mines into solar farms: a pathway to renewable energy development and sustainable land use *Environmental Research Energy* (2025) - 4 citations
+  DOI: https://doi.org/10.1088/2753-3751/adb6a3
+- Drought Vulnerability in South America *Water* (2025) - 1 citations
+  DOI: https://doi.org/10.3390/w17152332
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 41 Environmental Sciences; 44 Human Society; 3701 Atmospheric Sciences; 38 Economics
+
+Key Research Concepts (from Dimensions.ai):
+decision support system; artificial neural network; geographic information system; multi-criteria decision analysis; decision support tool; GRACE satellites; water quantity; terrestrial water storage; movement of water; NCA-LDAS
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Alabama
+- Tallinn University of Technology
+- Embry–Riddle Aeronautical University
+- James Cook University
+- Estonian Academy of Sciences
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.6/10
+Percentile: Top 67% of Water Institute faculty
+Rankings by Research Category:
+- Economics: #11 of 24
+- Atmospheric Sciences: #12 of 17
+- Human Society: #16 of 27

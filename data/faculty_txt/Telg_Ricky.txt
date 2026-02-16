@@ -22,3 +22,59 @@ Recognition:
 
 Keywords:
 Multimedia and instructional media development; digital media production; media relations; distance education design; agricultural communication systems.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 111
+- Total Citations: 93
+- H-Index: 5
+- Average Citations per Paper: 0.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.77 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Bytes and bites: Consumer perceptions toward the power of artificial intelligence for foodborne risk mitigation through traceable food *Current Research in Food Science* (2025) - 2 citations
+  DOI: https://doi.org/10.1016/j.crfs.2025.101119
+- Resisting coloniality in agriculture: A decolonial analysis of Florida’s agricultural migrant workers’ experiences *Agriculture and Human Values* (2024) - 2 citations
+  DOI: https://doi.org/10.1007/s10460-024-10578-z
+- Clickbait: AEC792/WC453, 3/2024 *EDIS* (2024) - 2 citations
+  DOI: https://doi.org/10.32473/edis-wc453-2024
+- Marvelous metrics: A quantitative content analysis to establish social media benchmarks for Florida fruit and vegetable farms on Facebook *Advancements in Agricultural Development* (2023) - 2 citations
+  DOI: https://doi.org/10.37433/aad.v4i2.295
+- Public Opinion in a Pandemic: Four Surveys Conducted with Americans throughout the COVID-19 Pandemic *Proceedings of the International Crisis and Risk Communication Conference* (2022) - 2 citations
+  DOI: https://doi.org/10.30658/icrcc.2022.11
+- Disentangling public perceptions to pave the way for pollinator-friendly roadsides *Frontiers in Conservation Science* (2025) - 1 citations
+  DOI: https://doi.org/10.3389/fcosc.2025.1693314
+- Shifting Focus: Collecting Focus Group Data Online: WC413/AEC752, 3/2022 *EDIS* (2022) - 1 citations
+  DOI: https://doi.org/10.32473/edis-wc413-2022
+- News Releases and Public Service Announcements *EDIS* (2021) - 1 citations
+  DOI: https://doi.org/10.32473/edis-wc113-2021
+- News Writing for Print *EDIS* (2021) - 1 citations
+  DOI: https://doi.org/10.32473/edis-wc191-2021
+- Video Production: Getting Started *EDIS* (2021) - 1 citations
+  DOI: https://doi.org/10.32473/edis-wc123-2021
+
+Research Grants (from Dimensions.ai):
+- Zika Information and Preparedness Campaign (2016-2020) - $149,397
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+36 Creative Arts and Writing; 4701 Communication and Media Studies; 47 Language, Communication and Culture; 3602 Creative and Professional Writing; 30 Agricultural, Veterinary and Food Sciences
+
+Key Research Concepts (from Dimensions.ai):
+Department of Agricultural Education; Education and Communication; national public opinion survey; public opinion surveys; video production; video editing; production practices; H5N1 subtype; subtypes of influenza A virus; H5N1 subtype of influenza A virus
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Oregon State University
+- Tulane University
+- Southern Hill Farms, Florida, USA
+- Florida Museum of Natural History
+- Oklahoma State University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.4/10
+Percentile: Top 76% of Water Institute faculty
+Rankings by Research Category:
+- Creative Arts and Writing: #1 of 3
+- Communication and Media Studies: #1 of 3
+- Language, Communication and Culture: #1 of 3

@@ -1,0 +1,65 @@
+Name: Charles Barrett
+Role: Regional Specialized Agent
+Academic Unit: 
+Office: 
+Phone: 
+Email: cebarrett@ufl.edu
+Website: https://svaec.ifas.ufl.edu/contact-us/faculty-directory/charles-barrett-faculty-profile-page/
+Google Scholar: 
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 19
+- Total Citations: 148
+- H-Index: 6
+- Average Citations per Paper: 7.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 1.27 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Peanut disease epidemiology under dynamic microclimate conditions and management practices in North Florida. *Plant Disease* (2021) - 8 citations
+  DOI: https://doi.org/10.1094/pdis-11-20-2390-re
+- Carrot (Daucus carota) Production in the Sandy Soils of North Florida: Nitrogen Fertilization Guidelines : AE588/AE588, 7/2023 *EDIS* (2023) - 6 citations
+  DOI: https://doi.org/10.32473/edis-ae588-2023
+- Chapter 3. Principles and Practices of Irrigation Management for Vegetables: CV297, 5/2021 *EDIS* (2021) - 6 citations
+  DOI: https://doi.org/10.32473/edis-cv297-2021
+- Methods to Quantify In-Field Nutrient Leaching: AE581/AE581, 12/2022 *EDIS* (2023) - 4 citations
+  DOI: https://doi.org/10.32473/edis-ae581-2022
+- Choosing Nitrogen Application Rate Recommendation Given Florida’s Regulatory Water Policy *HortScience* (2022) - 4 citations
+  DOI: https://doi.org/10.21273/hortsci16656-22
+- Evaluation of Florida-grown Barley for Brewing Applications: Yield, Fermentability, and Volatile Compounds *Journal of the American Society of Brewing Chemists* (2024) - 3 citations
+  DOI: https://doi.org/10.1080/03610470.2023.2294660
+- A Practical Guide for Peach Irrigation Scheduling in Florida: HS1413, 5/2021 *EDIS* (2021) - 3 citations
+  DOI: https://doi.org/10.32473/edis-hs1413-2021
+- Nitrogen Fertilization Guidelines for Bare-Ground and Plastic Mulch Cabbage Production in Florida: HS1428, 12/2021 *EDIS* (2021) - 2 citations
+  DOI: https://doi.org/10.32473/edis-hs1428-2021
+- Exploring Opportunities for Malting Barley Production in Florida: HS1420, 9/2021 *EDIS* (2021) - 1 citations
+  DOI: https://doi.org/10.32473/edis-hs1420-2021
+- The Basics of Agricultural BMPs in Northern Florida and Southwestern Georgia: FOR368/FR437, 6/2021 *EDIS* (2021) - 1 citations
+  DOI: https://doi.org/10.32473/edis-fr437-2021
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3002 Agriculture, Land and Farm Management; 3004 Crop and Pasture Production; 31 Biological Sciences; 48 Law and Legal Studies
+
+Key Research Concepts (from Dimensions.ai):
+management practices; fertilizer best management practices; Department of Agriculture; cabbage production; stem rot; leaf spot; low-input; stem rot incidence; sandy soil; north Florida
+
+Top Collaborating Institutions (from Dimensions.ai):
+- United States Department of Agriculture
+- Southwest Florida Research
+- Auburn University
+- Sugarcane Technology Center

@@ -27,3 +27,55 @@ Dr. Reinhardt Adams's research supports evidence-based horticultural practices b
 
 Keywords:
 environmental horticulture; plant physiology; stress tolerance; abiotic stress; water stress; temperature stress; plant performance; ornamental plants; landscape management; nursery production; greenhouse production; sustainable horticulture; plant resilience
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 30
+- Total Citations: 953
+- H-Index: 11
+- Average Citations per Paper: 31.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.27 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Progress on Mechanisms and Impacts of Wetland Plant Invasions: A Twenty-Year Retrospective Analysis and Priorities for the Next Twenty *Critical Reviews in Plant Sciences* (2023) - 20 citations
+  DOI: https://doi.org/10.1080/07352689.2023.2233232
+- Do common assumptions about the wetland seed bank following invasive plant removal hold true? Divergent outcomes following multi‐year Phragmites australis management *Applied Vegetation Science* (2021) - 18 citations
+  DOI: https://doi.org/10.1111/avsc.12626
+- We Can Better Manage Ecosystems by Connecting Solutions to Constraints: Learning from Wetland Plant Invasions *Frontiers in Environmental Science* (2021) - 18 citations
+  DOI: https://doi.org/10.3389/fenvs.2021.715350
+- Submerged Aquatic Vegetation Patch Size Affects Fish Communities in a Turbid-Algal Lake *Frontiers in Conservation Science* (2021) - 13 citations
+  DOI: https://doi.org/10.3389/fcosc.2021.657691
+- Submerged Aquatic Vegetation Species and Populations Within Species Respond Differently to Environmental Stressors Common in Restorations *Environmental Management* (2021) - 6 citations
+  DOI: https://doi.org/10.1007/s00267-021-01517-3
+- Seed bank and germination ecology of sub-tropical Vallisneria americana *Aquatic Botany* (2024) - 3 citations
+  DOI: https://doi.org/10.1016/j.aquabot.2023.103721
+- Submerged aquatic vegetation habitat use of age-0 Florida bass Micropterus floridanus *Environmental Biology of Fishes* (2021) - 3 citations
+  DOI: https://doi.org/10.1007/s10641-021-01126-3
+- Sediment stability is optimized by manipulating planting design during coastal marsh establishment *Scientific Reports* (2025) - 2 citations
+  DOI: https://doi.org/10.1038/s41598-025-04281-0
+- Intraspecific variation in Potamogeton illinoensis life history and seed germination has implications for restoration in eutrophic lakes *Hydrobiologia* (2022) - 2 citations
+  DOI: https://doi.org/10.1007/s10750-022-04947-0
+- Testing seed mixtures featuring ruderal grasses in restoration of pine savannas in the southeastern, United States *Restoration Ecology* (2025) - 1 citations
+  DOI: https://doi.org/10.1111/rec.70136
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 3103 Ecology; 41 Environmental Sciences; 4102 Ecological Applications; 4104 Environmental Management
+
+Key Research Concepts (from Dimensions.ai):
+submerged aquatic vegetation; plant invasions; invasive plant management; creek system; marsh loss; spatial patterns; invasive wetland plant; wetland invaders; invasion success; invasive plants
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Institute of Food and Agricultural Sciences
+- Utah State University
+- The Ohio State University
+- University of Minnesota Twin Cities
+- St. Johns River Water Management District, 32177, Palatka, FL, USA
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.9/10
+Percentile: Top 54% of Water Institute faculty
+Rankings by Research Category:
+- Ecological Applications: #18 of 32
+- Environmental Management: #25 of 46
+- Ecology: #42 of 59

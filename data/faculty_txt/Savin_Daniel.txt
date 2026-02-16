@@ -28,3 +28,65 @@ Dr. Savin's research advances understanding of polymer structure-property relati
 
 Keywords:
 polymer chemistry; materials science; block copolymers; self-assembly; nanostructures; polymer characterization; functional materials; nanocomposites; amphiphilic polymers; rheology; remediation; soft matter; structure-property relationships
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 35
+- Total Citations: 1215
+- H-Index: 15
+- Average Citations per Paper: 34.7
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 0.82 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Allomelanin: A Biopolymer of Intrinsic Microporosity *Journal of the American Chemical Society* (2021) - 70 citations
+  DOI: https://doi.org/10.1021/jacs.1c00748
+- Mediating covalent crosslinking of single-chain nanoparticles through solvophobicity in organic solvents *Polymer Chemistry* (2021) - 13 citations
+  DOI: https://doi.org/10.1039/d1py00780g
+- Atomic‐Scale View of Protein‐PEG Interactions that Redirect the Thermal Unfolding Pathway of PEGylated Human Galectin‐3 *Angewandte Chemie International Edition* (2022) - 7 citations
+  DOI: https://doi.org/10.1002/anie.202203784
+- Entrepreneurship in Polymer Chemistry *ACS Macro Letters* (2021) - 5 citations
+  DOI: https://doi.org/10.1021/acsmacrolett.1c00303
+- Synthesis of poly(caprolactone)- block -poly[oligo(ethylene glycol)methyl methacrylate] amphiphilic grafted nanoparticles (AGNs) as improved oil dispersants *Polymer Chemistry* (2021) - 4 citations
+  DOI: https://doi.org/10.1039/d1py00418b
+- Solution size variation of linear and dendritic bis-MPA analogs using DOSY- 1 H NMR *Polymer Chemistry* (2021) - 4 citations
+  DOI: https://doi.org/10.1039/d0py01070g
+- Happy centennial to the American Chemical Society's “Polymeric Materials: Science and Engineering” Division! *Polymer* (2024) - 3 citations
+  DOI: https://doi.org/10.1016/j.polymer.2024.126694
+- Sweet corn phytoglycogen dendrimers as a lyoprotectant for dry‐state protein storage *Journal of Biomedical Materials Research Part A* (2024) - 2 citations
+  DOI: https://doi.org/10.1002/jbm.a.37761
+- Atomic‐Scale View of Protein‐PEG Interactions that Redirect the Thermal Unfolding Pathway of PEGylated Human Galectin‐3 *Angewandte Chemie* (2022)
+  DOI: https://doi.org/10.1002/ange.202203784
+- Recyclable & Highly-Porous Organo-Aerogel Adsorbents from Biowaste for Organic Contaminants’ Removal *SSRN Electronic Journal* (2021)
+  DOI: https://doi.org/10.2139/ssrn.3994611
+
+Research Grants (from Dimensions.ai):
+- Thermodynamics and Chain Dynamics in Spin-labeled Peptide Block Copolymer Assemblies (2020-2025) - $599,999
+  Funder: Directorate for Mathematical & Physical Sciences
+- Building a Platform of Impact-Energy Absorbing Materials: How Molecular Manipulations Translate into Macroscopic Properties (2018-2023) - $348,536
+  Funder: Directorate for Mathematical & Physical Sciences
+- Designing Nanoparticle-based Dispersants with Improved Efficiency and Biocompatibility (2018-present)
+  Funder: Gulf of Mexico Research Initiative
+- Smart gate membranes for highly selective removal of carbon dioxide from combustion gases (2017-2019) - $175,000
+  Funder: Directorate for Mathematical & Physical Sciences
+
+Research Categories (from Dimensions.ai):
+34 Chemical Sciences; 3403 Macromolecular and Materials Chemistry; 3406 Physical Chemistry; 3101 Biochemistry and Cell Biology; 31 Biological Sciences
+
+Key Research Concepts (from Dimensions.ai):
+human galectin-3; protein-PEG interactions; thermal unfolding behavior; galectin-3; intrinsic microporosity; small-angle X-ray scattering; oxidative polymerization; nerve agent simulant; X-ray scattering; single-chain nanoparticles
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Northwestern University
+- Department of Chemistry
+- Tulane University
+- Gainesville
+- George & Josephine Butler Polymer Research Laboratory
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.1/10
+Percentile: Top 46% of Water Institute faculty
+Rankings by Research Category:
+- Macromolecular and Materials Chemistry: #2 of 4
+- Physical Chemistry: #2 of 2
+- Biochemistry and Cell Biology: #2 of 5

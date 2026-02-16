@@ -40,3 +40,41 @@ Service:
 
 Keywords:
 Water Institute affiliate; environmental law; water law; coastal law; marine law; conservation; biological diversity; international environmental law; Latin America; Caribbean; Florida Sea Grant; sea turtle habitat; beach access; climate resiliency; Outstanding Florida Water; Everglades; sustainable development
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 11
+- Total Citations: 47
+- H-Index: 4
+- Average Citations per Paper: 4.3
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 1.49 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- 3 Ramsar at the national level: Application and incorporation into domestic law (2023) - 1 citations
+  DOI: https://doi.org/10.1016/b978-0-12-817803-4.00001-2
+- Recreational Fishing Effort and How Management Actions Can Affect It—Part 2: Literature and a Case Study. : FA259 7/2023 *EDIS* (2023)
+  DOI: https://doi.org/10.32473/edis-fa259-2023
+- Recreational fishing effort and how management actions can affect it—Part 1: Theory: FA257, 4/2023 *EDIS* (2023)
+  DOI: https://doi.org/10.32473/edis-fa257-2023
+
+Research Categories (from Dimensions.ai):
+4803 International and Comparative Law; 48 Law and Legal Studies; 4104 Environmental Management; 41 Environmental Sciences; 4802 Environmental and Resources Law
+
+Key Research Concepts (from Dimensions.ai):
+fishing effort; management actions; recreational fishing effort; domestic legal regime; domestic law; international law; legal regime; Ramsar Convention; management decisions; fisheries theory
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Diponegoro University
+- Charles Sturt University
+- Federation University
+- Institute for Water Education, IHE Delft, Delft, Netherlands Institute for Water Education, IHE Delft, Delft, Netherlands
+- Ramsar Culture Network, Hexham, United Kingdom
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.3/10
+Percentile: Top 82% of Water Institute faculty
+Rankings by Research Category:
+- Environmental and Resources Law: #1 of 2
+- International and Comparative Law: #2 of 2
+- Law and Legal Studies: #4 of 5

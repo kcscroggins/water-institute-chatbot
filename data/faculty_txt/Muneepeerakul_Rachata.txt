@@ -29,3 +29,67 @@ Dr. Muneepeerakul produces theoretical and computational frameworks that deepen 
 
 Keywords:
 complex systems; coupled human-natural systems; dynamical systems; network theory; stochastic processes; ecological modeling; spatial ecology; biodiversity; watershed resilience; socio-ecological systems; environmental change; human adaptation; migration; system resilience; water resources
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 35
+- Total Citations: 472
+- H-Index: 13
+- Average Citations per Paper: 13.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.96 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- On capturing human agency and methodological interdisciplinarity in socio-hydrology research *Hydrological Sciences Journal* (2022) - 27 citations
+  DOI: https://doi.org/10.1080/02626667.2022.2114836
+- Efficiency-fairness trade-offs in evacuation management of urban floods: The effects of the shelter capacity and zone prioritization *PLOS ONE* (2021) - 17 citations
+  DOI: https://doi.org/10.1371/journal.pone.0253395
+- Triad Analysis of Global Energy Trade Networks and Implications for Energy Trade Stability *Energies* (2022) - 12 citations
+  DOI: https://doi.org/10.3390/en15103673
+- Intra-group decision-making in agent-based models *Scientific Reports* (2021) - 9 citations
+  DOI: https://doi.org/10.1038/s41598-021-96661-5
+- Emergent network patterns of internal displacement in Somalia driven by natural disasters and conflicts *Global Environmental Change* (2024) - 8 citations
+  DOI: https://doi.org/10.1016/j.gloenvcha.2023.102793
+- Migration and livelihood constellations: Assessing common themes in the face of environmental change in Somalia and among Agro‐Pastoral peoples *International Migration* (2023) - 4 citations
+  DOI: https://doi.org/10.1111/imig.13122
+- Resilience of a Complex Watershed under Water Variability: A Modeling Study *Sustainability* (2022) - 4 citations
+  DOI: https://doi.org/10.3390/su14041948
+- On coupled dynamics and regime shifts in coupled human–water systems *Hydrological Sciences Journal* (2021) - 4 citations
+  DOI: https://doi.org/10.1080/02626667.2021.1883192
+- Modeling Resilience and Sustainability of Water-Subsidized Systems: An Example from Northwest Costa Rica *Sustainability* (2021) - 4 citations
+  DOI: https://doi.org/10.3390/su13042013
+- Exploration of underlying patterns among conflict, socioeconomic and political factors *PLOS ONE* (2024) - 2 citations
+  DOI: https://doi.org/10.1371/journal.pone.0304580
+
+Research Grants (from Dimensions.ai):
+- Understanding coupled natural-human systems through mathematical modeling (2019-2023)
+  Funder: National Institute of Food and Agriculture
+- Towards a Multi-Scale Theory on Coupled Human Mobility and Environmental Change (2018-2024) - $5,135,704
+  Funder: United States Department of the Army
+
+Patents (from Dimensions.ai):
+- MARKET COMPLETING PRODUCTION AND FINANCIAL STRATEGIES (2018)
+- MARKET COMPLETING PRODUCTION AND FINANCIAL STRATEGIES (2018) - 2 citations
+- CROP INDICATOR DETERMINATION USING MULTIPLE RAINFALL INDEX ANALYSIS (2017)
+- CROP INDICATOR DETERMINATION USING MULTIPLE RAINFALL INDEX ANALYSIS (2017) - 1 citations
+
+Research Categories (from Dimensions.ai):
+44 Human Society; 37 Earth Sciences; 3707 Hydrology; 51 Physical Sciences; 4404 Development Studies
+
+Key Research Concepts (from Dimensions.ai):
+complex socio-hydrologic systems; investing countries; target countries; human decision making; socio-hydrology; human agency; social sciences; human–water relations; management of urban flooding; urban flood management
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Purdue University West Lafayette
+- Arizona State University
+- Princeton University
+- East Carolina University
+- Columbia University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.3/10
+Percentile: Top 35% of Water Institute faculty
+Rankings by Research Category:
+- Development Studies: #2 of 6
+- Physical Sciences: #3 of 5
+- Human Society: #5 of 27

@@ -27,3 +27,48 @@ Dr. Pullammanappallil's research supports decisions about sustainable waste mana
 
 Keywords:
 biological engineering; anaerobic digestion; biogas; organic waste; waste treatment; resource recovery; agricultural waste; municipal waste; environmental biotechnology; renewable energy; waste-to-energy; process modeling; system optimization; circular economy
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 43
+- Total Citations: 4724
+- H-Index: 21
+- Average Citations per Paper: 109.9
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 0.65 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Efficacy evaluation of an air-assisted electrostatic disinfection device for the effective disinfection and sanitization against the spread of pathogenic infections *Journal of Electrostatics* (2023) - 8 citations
+  DOI: https://doi.org/10.1016/j.elstat.2023.103807
+- Development of Inexpensive, Automatic, Real-Time Measurement System for On-Line Methane Content and Biogas Flowrate *Waste and Biomass Valorization* (2022) - 5 citations
+  DOI: https://doi.org/10.1007/s12649-022-01835-5
+- Techno-economic and Life Cycle Assessments of Microbial Process in Renewable Energy Production *Clean Energy Production Technologies* (2022)
+  DOI: https://doi.org/10.1007/978-981-16-3852-7_14
+
+Patents (from Dimensions.ai):
+- RECOVERY OF NUTRIENTS FROM WATER AND WASTEWATER BY PRECIPITATION AS STRUVITE (2015) - 12 citations
+- SYSTEM FOR ANAEROBIC DIGESTION OF SOLID AND SOLUBLE ORGANIC WASTES, BY-PRODUCTS AND RESIDUES (2013) - 2 citations
+- System for anaerobic digestion of solid and soluble organic wastes, by-products and residues (2013) - 2 citations
+- SYSTEM FOR ANAEROBIC DIGESTION OF SOLID AND SOLUBLE ORGANIC WASTES, BY-PRODUCTS AND RESIDUES (2013) - 6 citations
+- SYSTEM FOR ANAEROBIC DIGESTION OF SOLID AND SOLUBLE ORGANIC WASTES, BY-PRODUCTS AND RESIDUES (2013)
+
+Research Categories (from Dimensions.ai):
+40 Engineering; 4004 Chemical Engineering; 41 Environmental Sciences; 31 Biological Sciences; 4104 Environmental Management
+
+Key Research Concepts (from Dimensions.ai):
+efficacy evaluation; sodium hypochlorite concentration; sodium hypochlorite; off-target losses; liquid flowrate; methane composition; anaerobic digestion; methane content; control of anaerobic digesters; biogas flow rate
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Central Scientific Instruments Organisation
+- Academy of Scientific and Innovative Research
+- Brunel University London
+- North Dakota State University
+- Instituto Politécnico de Leiria
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.8/10
+Percentile: Top 23% of Water Institute faculty
+Rankings by Research Category:
+- Chemical Engineering: #1 of 6
+- Environmental Management: #11 of 46
+- Engineering: #14 of 53

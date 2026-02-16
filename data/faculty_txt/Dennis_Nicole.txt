@@ -32,3 +32,49 @@ Water & Policy Relevance:
 
 Keywords:
 Environmental health; cyanotoxins; harmful algal blooms; HABs; microcystins; human exposure; water quality; public health; eutrophication; drinking water; recreational water; risk assessment; climate-health; epidemiology; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 7
+- Total Citations: 26
+- H-Index: 2
+- Average Citations per Paper: 3.7
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 7.9 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Advancing noise management in aviation: Strategic approaches for preventing noise-induced hearing loss *Journal of Environmental Management* (2024) - 16 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2024.121413
+- Neonicotinoid pesticides in African agriculture: What do we know and what should be the focus for future research? *Chemosphere* (2025) - 7 citations
+  DOI: https://doi.org/10.1016/j.chemosphere.2024.144057
+- Multi- and Transgenerational Histological and Transcriptomic Outcomes of Developmental TCDD Exposure in Zebrafish (Danio rerio) Ovary *International Journal of Molecular Sciences* (2025) - 1 citations
+  DOI: https://doi.org/10.3390/ijms26146839
+- Investigation of organic contaminants in field-cultivated vegetables receiving recycled water and biosolids applications *Environment International* (2025) - 1 citations
+  DOI: https://doi.org/10.1016/j.envint.2025.109546
+- Maternal transfer and sex-differences in brain bioaccumulation for Northern bobwhite quail (Colinus virginianus) exposed to per- and poly-fluoroalkyl substances *Ecotoxicology and Environmental Safety* (2024) - 1 citations
+  DOI: https://doi.org/10.1016/j.ecoenv.2024.117399
+- Sublethal juvenile dioxin (TCDD) exposure alters sperm motility and whole-body vitellogenin parameters in adult male zebrafish (Danio rerio) *Aquatic Toxicology* (2025)
+  DOI: https://doi.org/10.1016/j.aquatox.2025.107496
+- Chorioallantoic membrane of northern bobwhite (Colinus virginianus) as a nonlethal method for evaluating forever chemical exposure to avian offspring. *Environmental Toxicology and Chemistry* (2025)
+  DOI: https://doi.org/10.1093/etojnl/vgaf152
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 4105 Pollution and Contamination; 31 Biological Sciences; 32 Biomedical and Clinical Sciences; 3202 Clinical Sciences
+
+Key Research Concepts (from Dimensions.ai):
+poly-fluoroalkyl substances; perfluorooctane sulfonic acid; noise-induced hearing loss; auditory health; hearing loss; hearing conservation strategies; exposure to high-level noise; effects of neonicotinoid pesticides; neonicotinoid pesticides; pest management strategies
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Texas Tech University
+- University of California, Riverside
+- University of Port Harcourt
+- Durban University of Technology
+- Wayne State University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.4/10
+Percentile: Top 76% of Water Institute faculty
+Rankings by Research Category:
+- Clinical Sciences: #7 of 7
+- Pollution and Contamination: #11 of 13
+- Biomedical and Clinical Sciences: #22 of 30

@@ -22,3 +22,55 @@ Notable Work:
 
 Keywords:
 Geodesy; remote sensing; satellite gravimetry; landslide detection; tsunami hazards; coseismic deformation; InSAR; machine learning for geosciences.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 6
+- Total Citations: 34
+- H-Index: 3
+- Average Citations per Paper: 5.7
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 8.29 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Applications of ArcticDEM for measuring volcanic dynamics, landslides, retrogressive thaw slumps, snowdrifts, and vegetation heights *Science of Remote Sensing* (2024) - 16 citations
+  DOI: https://doi.org/10.1016/j.srs.2024.100130
+- Using river hypsometry to improve remote sensing of river discharge *Remote Sensing of Environment* (2024) - 7 citations
+  DOI: https://doi.org/10.1016/j.rse.2024.114455
+- Volumetric quantifications and dynamics of areas undergoing retrogressive thaw slumping in the Northern Hemisphere *Nature Communications* (2025) - 6 citations
+  DOI: https://doi.org/10.1038/s41467-025-62017-0
+- A global high resolution coastline database from satellite imagery *Scientific Data* (2025) - 3 citations
+  DOI: https://doi.org/10.1038/s41597-025-05180-9
+- Landslides in Greenland from ArcticDEM time series analysis *Landslides* (2025) - 2 citations
+  DOI: https://doi.org/10.1007/s10346-025-02500-3
+- Coseismic Vertical Displacement for a Shallow Thrust Earthquake From EarthDEM Data *Geophysical Research Letters* (2025)
+  DOI: https://doi.org/10.1029/2025gl118029
+
+Research Grants (from Dimensions.ai):
+- CAIG: ECHO: Environmental Context-aware geoHazard mOnitoring AI for Sinkhole Precursor Detection (2025-2028) - $490,382
+  Funder: Directorate for Geosciences
+- Quantifying Arctic Mass Wasting Using ArcticDEM (2023-2026)
+  Funder: National Aeronautics and Space Administration
+- Detecting and deciphering precursory landslide activity in the thawing mountains of Western North America (2023-2026)
+  Funder: National Aeronautics and Space Administration
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3705 Geology; 4013 Geomatic Engineering; 40 Engineering; 46 Information and Computing Sciences
+
+Key Research Concepts (from Dimensions.ai):
+digital elevation model; retrogressive thaw slumps; thaw slumps; lava flows; volume of lava flows; hypsometric curve; river discharge; remote sensing; discharge estimation; measurements of river discharge
+
+Top Collaborating Institutions (from Dimensions.ai):
+- The Ohio State University
+- Government of Northwest Territories
+- Ground Truth Alaska, Seldovia, AK, USA
+- Michigan State University
+- Woodwell Climate Research Center
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.5/10
+Percentile: Top 72% of Water Institute faculty
+Rankings by Research Category:
+- Geomatic Engineering: #9 of 9
+- Geology: #10 of 11
+- Information and Computing Sciences: #16 of 20

@@ -29,3 +29,59 @@ Wen's work informs land-use planning and environmental policy by revealing how s
 
 Keywords:
 land use; land-cover change; human-environment geography; GIS; remote sensing; spatial analysis; environmental governance; urbanization; landscape transformation; sustainability; development geography; environmental policy; land-use modeling
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 31
+- Total Citations: 142
+- H-Index: 6
+- Average Citations per Paper: 4.6
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.41 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Evaluation of GPM IMERG and its constellations in extreme events over the conterminous united states *Journal of Hydrology* (2022) - 50 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2021.127357
+- How has the latest IMERG V07 improved the precipitation estimates and hydrologic utility over CONUS against IMERG V06? *Journal of Hydrology* (2024) - 19 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2024.132257
+- Introducing Flashiness‐Intensity‐Duration‐Frequency (F‐IDF): A New Metric to Quantify Flash Flood Intensity *Geophysical Research Letters* (2023) - 13 citations
+  DOI: https://doi.org/10.1029/2023gl104992
+- Joint Collaboration on Comparing NOAA’s Ground-Based Weather Radar and NASA–JAXA’s Spaceborne Radar *Bulletin of the American Meteorological Society* (2023) - 13 citations
+  DOI: https://doi.org/10.1175/bams-d-22-0127.1
+- Can re-infiltration process be ignored for flood inundation mapping and prediction during extreme storms? A case study in Texas Gulf Coast region *Environmental Modelling & Software* (2022) - 10 citations
+  DOI: https://doi.org/10.1016/j.envsoft.2022.105450
+- Cross-Examining Precipitation Products by Rain Gauge, Remote Sensing, and WRF Simulations over a South American Region across the Pacific Coast and Andes *Atmosphere* (2022) - 9 citations
+  DOI: https://doi.org/10.3390/atmos13101666
+- Runoff evolution responses to climate change: A case study in the headwater area of Yellow River, China *Journal of Environmental Management* (2025) - 4 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2025.125512
+- Evaluation of IMERG climate trends over land in the TRMM and GPM eras *Environmental Research Letters* (2024) - 4 citations
+  DOI: https://doi.org/10.1088/1748-9326/ad984e
+- Detecting the Vertical Structure of Extreme Precipitation in the Headwater Area of Yellow River Using the Dual‐Frequency Precipitation Radar Onboard the Global Precipitation Measurement Mission *International Journal of Climatology* (2024) - 4 citations
+  DOI: https://doi.org/10.1002/joc.8675
+- A decadal review of the CREST model family: Developments, applications, and outlook *Journal of Hydrology X* (2023) - 4 citations
+  DOI: https://doi.org/10.1016/j.hydroa.2023.100159
+
+Research Grants (from Dimensions.ai):
+- Collaborative Research: CAIG: Reliable Generative Downscaling for Geoscience Data (2025-2028) - $353,178
+  Funder: Directorate for Geosciences
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3701 Atmospheric Sciences; 3707 Hydrology; 4013 Geomatic Engineering; 40 Engineering
+
+Key Research Concepts (from Dimensions.ai):
+precipitation estimates; flash floods; flood intensity; headwater areas; climate change; Global Precipitation Measurement; dual-frequency precipitation radar; Atmospheric Infrared Sounder; passive microwave; Final Run
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Oklahoma
+- Hohai University
+- National Severe Storms Laboratory
+- Stanford University
+- National University of Saint Augustine
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.5/10
+Percentile: Top 72% of Water Institute faculty
+Rankings by Research Category:
+- Geomatic Engineering: #7 of 9
+- Atmospheric Sciences: #13 of 17
+- Hydrology: #13 of 18

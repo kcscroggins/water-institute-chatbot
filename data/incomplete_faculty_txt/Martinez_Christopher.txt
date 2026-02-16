@@ -1,0 +1,78 @@
+Name: Christopher Martinez
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: chrisjm@ufl.edu
+Website: http://www.abe.ufl.edu/Martinez
+Google Scholar: https://scholar.google.com/citations?user=nFXWzWwAAAAJ&hl=en
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 43
+- Total Citations: 1082
+- H-Index: 20
+- Average Citations per Paper: 25.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 5.25 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Investigation of satellite-related precipitation products for modeling of rainfed wheat production systems *Agricultural Water Management* (2021) - 29 citations
+  DOI: https://doi.org/10.1016/j.agwat.2021.107222
+- Evaluation of TerraClimate gridded data across diverse climates in Iran *Earth Science Informatics* (2023) - 27 citations
+  DOI: https://doi.org/10.1007/s12145-023-00967-z
+- Assessment of nine gridded temperature data for modeling of wheat production systems *Computers and Electronics in Agriculture* (2022) - 27 citations
+  DOI: https://doi.org/10.1016/j.compag.2022.107189
+- Climate change impacts on water quantity and quality of a watershed-lake system using a spatially integrated modeling framework in the Kissimmee River – Lake Okeechobee system *Journal of Hydrology Regional Studies* (2023) - 20 citations
+  DOI: https://doi.org/10.1016/j.ejrh.2023.101408
+- Evaluation of multiple gridded solar radiation data for crop modeling *European Journal of Agronomy* (2022) - 18 citations
+  DOI: https://doi.org/10.1016/j.eja.2021.126419
+- Evaluation of MSWX gridded data for modeling of wheat performance across Iran *European Journal of Agronomy* (2023) - 8 citations
+  DOI: https://doi.org/10.1016/j.eja.2023.126769
+- Evaluation of CRU-JRA gridded meteorological dataset for modeling of wheat production systems in Iran *International Journal of Biometeorology* (2024) - 6 citations
+  DOI: https://doi.org/10.1007/s00484-024-02659-9
+- Artificial Intelligence (AI) for Crop Yield Forecasting: AE571/AE571, 4/2022 *EDIS* (2022) - 6 citations
+  DOI: https://doi.org/10.32473/edis-ae571-2022
+- Navigating farming-BMP-policy interplay through a dynamical model *Ecological Economics* (2023) - 1 citations
+  DOI: https://doi.org/10.1016/j.ecolecon.2022.107667
+- Accounting for Climate Change in Rainfall Intensity-Duration-Frequency (IDF) Curves for Stormwater Management: AE596, 1/2024 *EDIS* (2024)
+  DOI: https://doi.org/10.32473/edis-ae596-2024
+
+Research Grants (from Dimensions.ai):
+- Integrating NASA Earth Systems Data into Decision-Making Tools of Member Utilities of the Florida Water and Climate Alliance (2019-2023)
+  Funder: National Aeronautics and Space Administration
+- WSC-Category 2 Collaborative: Robust decision-making for South Florida water resources by ecosystem service valuation, hydro-economic optimization, and conflict resolution modeling (2013-2018) - $43,447
+  Funder: Directorate for Geosciences
+- Needs, Uses, Perceptions, and Attitudes towards Weather and Climate ForecastInformation by Water Resource Managers in the Southeastern United States (2010-2013) - $299,837
+  Funder: National Oceanic and Atmospheric Administration
+- Evaluation and Implementation of Multi-scale Water Conservation and Protection Strategies (2008-2013)
+  Funder: National Institute of Food and Agriculture
+- Use of Intra-seasonal and Seasonal Forecasts to Reduce Risk in Regional Public Water Supply Management (2008-2011) - $297,924
+  Funder: National Oceanic and Atmospheric Administration
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3004 Crop and Pasture Production; 37 Earth Sciences; 3002 Agriculture, Land and Farm Management; 3701 Atmospheric Sciences
+
+Key Research Concepts (from Dimensions.ai):
+Nash–Sutcliffe efficiency; cropping system model; solar radiation; crop simulation models; wheat production systems; climate change; gridded precipitation products; precipitation records; precipitation products; climate data
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Ferdowsi University of Mashhad
+- Aarhus University
+- Institute of Food and Agricultural Sciences
+- University of Tehran
+- McGill University

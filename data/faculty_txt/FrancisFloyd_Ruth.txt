@@ -33,3 +33,61 @@ Water & Policy Relevance:
 
 Keywords:
 Aquatic animal health; fish health; aquaculture; water quality; ammonia toxicity; nitrite toxicity; fish pathology; disease diagnostics; Extension veterinarian; nutrient thresholds; aquatic systems; SRAC; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 73
+- Total Citations: 597
+- H-Index: 14
+- Average Citations per Paper: 8.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 4.19 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- A scuticociliate causes mass mortality of Diadema antillarum in the Caribbean Sea *Science Advances* (2023) - 51 citations
+  DOI: https://doi.org/10.1126/sciadv.adg3200
+- Ammonia in Aquatic Systems: FA-16/FA031, 06/2022 *EDIS* (2022) - 25 citations
+  DOI: https://doi.org/10.32473/edis-fa031-2022
+- Diet composition of the African manatee: Spatial and temporal variation within the Sanaga River Watershed, Cameroon *Ecology and Evolution* (2021) - 14 citations
+  DOI: https://doi.org/10.1002/ece3.8254
+- Vibrio harveyi in a Caribbean spiny lobster (Panulirus argus) with hepatopancreas necrosis *Veterinary Pathology* (2023) - 6 citations
+  DOI: https://doi.org/10.1177/03009858231164754
+- African manatee (Trichechus senegalensis) habitat suitability at Lake Ossa, Cameroon, using trophic state models and predictions of submerged aquatic vegetation *Ecology and Evolution* (2021) - 4 citations
+  DOI: https://doi.org/10.1002/ece3.8202
+- Diagnosis of piscine francisellosis in Largemouth Bass from a public display exhibit in north‐central Florida, USA *Journal of Aquatic Animal Health* (2023) - 2 citations
+  DOI: https://doi.org/10.1002/aah.10197
+- Current Aquaculture of the Eastern Oyster Crassostrea virginica and Its Potential for Innovative Technology in Florida: FA265, 8/2024 *EDIS* (2024) - 1 citations
+  DOI: https://doi.org/10.32473/edis-fa265-2024
+- Recommendations and Action Plans to Improve Ex Situ Nutrition and Health of Marine Teleosts *Journal of Aquatic Animal Health* (2022) - 1 citations
+  DOI: https://doi.org/10.1002/aah.10150
+- Amonio en sistemas acuáticos: FA16S/FA264, 7/2024 *EDIS* (2025)
+  DOI: https://doi.org/10.32473/edis-fa264-2024
+- Retrospective comparison of thyroid hormones in Steller sea lions Eumetopias jubatus under professional care with and without thyroid disease. *Diseases of Aquatic Organisms* (2024)
+  DOI: https://doi.org/10.3354/dao03816
+
+Research Grants (from Dimensions.ai):
+- RAPID: Mass Mortality of the Keystone Herbivore Diadema antillarum Underway around the Caribbean Sea (2022-2026) - $199,928
+  Funder: Directorate for Geosciences
+- Comprehensive Aquaculture Veterinary Medicine Training for Veterinarians in Rural America (2017-2022) - $225,643
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 31 Biological Sciences; 3005 Fisheries Sciences; 3103 Ecology; 41 Environmental Sciences
+
+Key Research Concepts (from Dimensions.ai):
+African manatees; Caribbean spiny lobster; spiny lobster; Vibrio harveyi</i> ; mass mortality events; mass mortality; mortality events; field-collected specimens; Diadema antillarum; primary waste product
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Institute of Food and Agricultural Sciences
+- University of the Virgin Islands
+- Cornell University
+- United States Geological Survey
+- African Marine Mammal Conservation Organization, Edea, Cameroon
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.1/10
+Percentile: Top 46% of Water Institute faculty
+Rankings by Research Category:
+- Fisheries Sciences: #7 of 12
+- Ecology: #30 of 59
+- Agricultural, Veterinary and Food Sciences: #46 of 99

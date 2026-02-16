@@ -28,3 +28,51 @@ Wang's work advances sustainable vegetable production by translating soil scienc
 
 Keywords:
 vegetable production; extension; soil management; nutrient stewardship; Miami-Dade County; South Florida; Homestead; calcareous soils; Mehlich-3; disease management; pest management; specialty crops; subtropical agriculture; fertilization; irrigation
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 54
+- Total Citations: 480
+- H-Index: 8
+- Average Citations per Paper: 8.9
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 0.57 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Chapter 10. Minor Vegetable Crop Production: VPH ch. 10, CV294, rev. 6/2023 *EDIS* (2023) - 2 citations
+  DOI: https://doi.org/10.32473/edis-cv294-2023
+- Chapter 15. Root Crop Production in Florida: HS965/CV300, rev. 4/2021 *EDIS* (2021) - 2 citations
+  DOI: https://doi.org/10.32473/edis-cv300-2021
+- Chapter 15. Root Crop Production in Florida: VPH ch. 15, CV300/HS965, rev. 6/2023 *EDIS* (2023) - 1 citations
+  DOI: https://doi.org/10.32473/edis-cv300-2023
+- Chapter 7. Cucurbit Production: VPH ch. 7, CV123/HS725, rev. 6/2023 *EDIS* (2023) - 1 citations
+  DOI: https://doi.org/10.32473/edis-cv123-2023
+- Chapter 5. Ethnic Vegetable Production: VPH ch. 5, CV301, rev. 5/2022 *EDIS* (2022) - 1 citations
+  DOI: https://doi.org/10.32473/edis-cv301-2022
+- Chapter 7. Cucurbit Production: VPH ch. 7, CV123/HS725, rev. 6/2022 *EDIS* (2022) - 1 citations
+  DOI: https://doi.org/10.32473/edis-cv123-2022
+- Chapter 6. Cole Crop Production: VPH ch. 6, CV122/HS724, rev. 6/2022 *EDIS* (2022) - 1 citations
+  DOI: https://doi.org/10.32473/edis-cv122-2022
+- Chapter 5. Ethnic Vegetable Production: CV301, rev. 4/2021 *EDIS* (2021) - 1 citations
+  DOI: https://doi.org/10.32473/edis-cv301-2021
+- Chapter 10. Minor Vegetable Crop Production: CV294, rev. 4/2021 *EDIS* (2021) - 1 citations
+  DOI: https://doi.org/10.32473/edis-cv294-2021
+- Chapter 6. Cole Crop Production: HS724/CV122, rev. 4/2021 *EDIS* (2021) - 1 citations
+  DOI: https://doi.org/10.32473/edis-cv122-2021
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3008 Horticultural Production; 51 Physical Sciences; 48 Law and Legal Studies; 3004 Crop and Pasture Production
+
+Key Research Concepts (from Dimensions.ai):
+vegetation; Handbook; chapter; crop production; root; production; Florida; Chapter 5; Chapter 6; Chapter 7
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Atlanta Botanical Gardens
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.6/10
+Percentile: Top 67% of Water Institute faculty
+Rankings by Research Category:
+- Law and Legal Studies: #2 of 5
+- Physical Sciences: #5 of 5
+- Horticultural Production: #10 of 13

@@ -26,3 +26,55 @@ Dr. Serra's work informs policies and interventions that strengthen agricultural
 
 Keywords:
 development economics; African studies; agricultural policy; political economy; gender; intersectionality; Sahel; West Africa; climate resilience; rural livelihoods; livestock policy; social capital; institutional analysis; value chains; food security
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 17
+- Total Citations: 263
+- H-Index: 9
+- Average Citations per Paper: 15.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 7.73 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- A systematic review of economic assessments for brucellosis control interventions in livestock populations *Preventive Veterinary Medicine* (2023) - 29 citations
+  DOI: https://doi.org/10.1016/j.prevetmed.2023.105878
+- Gender and intersectional analysis of livestock vaccine value chains in Kaffrine, Senegal *PLOS ONE* (2021) - 29 citations
+  DOI: https://doi.org/10.1371/journal.pone.0252045
+- Household decision-making, women's empowerment, and increasing egg consumption in children under five in rural Burkina Faso: Observations from a cluster randomized controlled trial *Frontiers in Sustainable Food Systems* (2022) - 15 citations
+  DOI: https://doi.org/10.3389/fsufs.2022.1034618
+- Beyond the Gender of the Livestock Holder: Learnings from Intersectional Analyses of PPR Vaccine Value Chains in Nepal, Senegal, and Uganda *Animals* (2022) - 15 citations
+  DOI: https://doi.org/10.3390/ani12030241
+- Promoting Gender Equity in Livelihoods Projects: Practitioners’ Perspectives Through the Lens of a Socio-ecological Model *Progress in Development Studies* (2022) - 7 citations
+  DOI: https://doi.org/10.1177/14649934221129427
+- Toward a gender transformative change perspective for smallholder agricultural commercialization: building consensus among experts *Gender Technology and Development* (2024) - 2 citations
+  DOI: https://doi.org/10.1080/09718524.2024.2416355
+- Artisanal billfish fisheries: gender roles, challenges, and opportunities *Frontiers in Marine Science* (2025) - 1 citations
+  DOI: https://doi.org/10.3389/fmars.2025.1658666
+- Intersectionality matters: An analysis of women’s empowerment among livestock holders in Nepal, Senegal and Uganda *World Development* (2025) - 1 citations
+  DOI: https://doi.org/10.1016/j.worlddev.2025.107000
+- Agricultural Policies and Development in the Sahel (2021) - 1 citations
+  DOI: https://doi.org/10.1093/oxfordhb/9780198816959.013.19
+- Overcoming barriers to gender transformative smallholder agricultural commercialization: a Delphi consensus study *The Journal of Agricultural Education and Extension* (2025)
+  DOI: https://doi.org/10.1080/1389224x.2025.2573496
+
+Research Categories (from Dimensions.ai):
+44 Human Society; 30 Agricultural, Veterinary and Food Sciences; 4404 Development Studies; 3009 Veterinary Sciences; 3003 Animal Production
+
+Key Research Concepts (from Dimensions.ai):
+vaccine value chain; women's empowerment; gender transformative approaches; agricultural commercialization; smallholder agricultural systems; systematic review; control interventions; baseline prevalence; intervention scenarios; Preferred Reporting Items
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Catholic Relief Services
+- University of Nariño
+- Université du Sine Saloum El-Hâdj Ibrahima NIASS
+- University of Maryland, College Park
+- International Institute of Tropical Agriculture
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.9/10
+Percentile: Top 54% of Water Institute faculty
+Rankings by Research Category:
+- Veterinary Sciences: #2 of 5
+- Development Studies: #3 of 6
+- Animal Production: #3 of 4

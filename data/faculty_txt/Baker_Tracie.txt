@@ -23,3 +23,61 @@ Notable Achievements:
 
 Keywords:
 Environmental toxicology; endocrine disrupting compounds; aquatic toxicology; One Health; PFAS; microplastics; transgenerational effects; Everglades water quality.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 25
+- Total Citations: 256
+- H-Index: 8
+- Average Citations per Paper: 10.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 4.6 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Pain, Analgesic Use, and Patient Satisfaction With Spinal Versus General Anesthesia for Hip Fracture Surgery : A Randomized Clinical Trial. *Annals of Internal Medicine* (2022) - 56 citations
+  DOI: https://doi.org/10.7326/m22-0320
+- Multi- and Transgenerational Effects of Developmental Exposure to Environmental Levels of PFAS and PFAS Mixture in Zebrafish (Danio rerio) *Toxics* (2022) - 50 citations
+  DOI: https://doi.org/10.3390/toxics10060334
+- Nonlethal detection of PFAS bioaccumulation and biomagnification within fishes in an urban- and wastewater-dominant Great Lakes watershed *Environmental Pollution* (2023) - 35 citations
+  DOI: https://doi.org/10.1016/j.envpol.2023.121123
+- Insight into 2,3,7,8-tetrachlorodibenzo-p-dioxin-induced disruption of zebrafish spermatogenesis via single cell RNA-seq *PNAS Nexus* (2022) - 19 citations
+  DOI: https://doi.org/10.1093/pnasnexus/pgac060
+- Evaluating Phenotypic and Transcriptomic Responses Induced by Low-Level VOCs in Zebrafish: Benzene as an Example *Toxics* (2022) - 15 citations
+  DOI: https://doi.org/10.3390/toxics10070351
+- Developmental Phenotypic and Transcriptomic Effects of Exposure to Nanomolar Levels of 4-Nonylphenol, Triclosan, and Triclocarban in Zebrafish (Danio rerio) *Toxics* (2022) - 14 citations
+  DOI: https://doi.org/10.3390/toxics10020053
+- Toxicity of microplastic fibers containing azobenzene disperse dyes to human lung epithelial cells cultured at an air-liquid interface *Journal of Hazardous Materials* (2024) - 11 citations
+  DOI: https://doi.org/10.1016/j.jhazmat.2024.136280
+- Identification and quantification of novel per- and polyfluoroalkyl substances (PFAS) contamination in a Great Lakes urban-dominated watershed *The Science of The Total Environment* (2024) - 11 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2024.173325
+- Comparative Toxicotranscriptomics of Single Cell RNA-Seq and Conventional RNA-Seq in TCDD-Exposed Testicular Tissue *Frontiers in Toxicology* (2022) - 8 citations
+  DOI: https://doi.org/10.3389/ftox.2022.821116
+- Adult-Onset Transcriptomic Effects of Developmental Exposure to Benzene in Zebrafish (Danio rerio): Evaluating a Volatile Organic Compound of Concern *International Journal of Molecular Sciences* (2023) - 7 citations
+  DOI: https://doi.org/10.3390/ijms242216212
+
+Research Grants (from Dimensions.ai):
+- Transcriptomic and epigenetic mechanisms of lead (Pb)-induced neurobehavioral disease in aged populations and subsequent generations (2023-2027) - $1,339,211
+  Funder: National Institute of Environmental Health Sciences
+- Genetic and epigenetic mechanisms of infertility caused by endocrine disrupting chemicals (2019-2026) - $2,136,830
+  Funder: National Institute of Environmental Health Sciences
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 4105 Pollution and Contamination; 32 Biomedical and Clinical Sciences; 31 Biological Sciences; 3101 Biochemistry and Cell Biology
+
+Key Research Concepts (from Dimensions.ai):
+polyfluoroalkyl substances; volatile organic compounds; RNA-seq; anthropogenic volatile organic compounds; scRNA-seq; TCDD exposure; developmental TCDD exposure; prescription analgesic use; hip fracture surgery; analgesic use
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Wayne State University
+- University of Pennsylvania
+- Institute of Environmental Health Sciences, Wayne State University, Detroit, MI 48202, USA;, jessica.montrief@wayne.edu, (J.P.);, alexhaim@wayne.edu, (A.S.H.);, cakemann14@gmail.com, (C.A.);, jshields@wayne.edu, (J.N.S.);, chiachenwu@ufl.edu, (C.-C.W.);, danielle.meyer@ufl.edu, (D.N.M.);, bridgetbaker@ufl.edu, (B.B.B.)
+- Department of Pharmacology, Wayne State University, Detroit, MI 48202, USA;, alexhaim@wayne.edu, (A.H.);, chiachenwu@ufl.edu, (C.-C.W.);, gi2263@wayne.edu, (C.A.);, danielle.meyer@ufl.edu, (D.N.M.)
+- Institute of Environmental Health Sciences, Wayne State University, Detroit, MI 48202, USA;, gg8277@wayne.edu, (M.C.);, mohammed.abdi@wayne.edu, (M.A.);, aichakhalaf@wayne.edu, (A.K.);, destinyjohnson@wayne.edu, (D.J.)
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.9/10
+Percentile: Top 54% of Water Institute faculty
+Rankings by Research Category:
+- Biochemistry and Cell Biology: #3 of 5
+- Pollution and Contamination: #8 of 13
+- Biomedical and Clinical Sciences: #17 of 30

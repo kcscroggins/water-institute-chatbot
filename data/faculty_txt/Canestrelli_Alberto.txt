@@ -20,3 +20,63 @@ Notable Achievements:
 
 Keywords:
 Coastal hydrodynamics; salt marsh morphodynamics; storm surge forecasting; estuarine modeling; beach recovery; sea-level rise; nutrient dispersal; tidal creeks.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 22
+- Total Citations: 413
+- H-Index: 9
+- Average Citations per Paper: 18.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.82 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Estimating Ground Elevation and Vegetation Characteristics in Coastal Salt Marshes Using UAV-Based LiDAR and Digital Aerial Photogrammetry *Remote Sensing* (2021) - 35 citations
+  DOI: https://doi.org/10.3390/rs13224506
+- Faunal engineering stimulates landscape-scale accretion in southeastern US salt marshes *Nature Communications* (2023) - 23 citations
+  DOI: https://doi.org/10.1038/s41467-023-36444-w
+- Estimating Ground Elevation in Coastal Dunes from High-Resolution UAV-LIDAR Point Clouds and Photogrammetry *Remote Sensing* (2022) - 15 citations
+  DOI: https://doi.org/10.3390/rs15010226
+- Occurrence of Fibropapillomatosis in Green Turtles (Chelonia mydas) in Relation to Environmental Changes in Coastal Ecosystems in Texas and Florida: A Retrospective Study *Animals* (2022) - 15 citations
+  DOI: https://doi.org/10.3390/ani12101236
+- On the predictive skill of morphodynamic models for onshore sandbar migration *Earth Surface Processes and Landforms* (2021) - 12 citations
+  DOI: https://doi.org/10.1002/esp.5079
+- Swimming kinematics of rainbow trout behind a 3×5 cylinder array: a computationally driven experimental approach to understanding fish locomotion *Journal of Experimental Biology* (2024) - 7 citations
+  DOI: https://doi.org/10.1242/jeb.247873
+- Managing dyke retreat: Importance of century‐scale channel network evolution on storm surge modification over salt marshes under rising sea levels *Earth Surface Processes and Landforms* (2022) - 6 citations
+  DOI: https://doi.org/10.1002/esp.5521
+- Numerical modeling of the influence of tides on cross-shore sediment dynamics of dissipative beaches under moderate wave conditions *Continental Shelf Research* (2021) - 5 citations
+  DOI: https://doi.org/10.1016/j.csr.2021.104381
+- Bank erosion drastically reduces oyster reef filtration services in estuarine environments *Scientific Reports* (2024) - 4 citations
+  DOI: https://doi.org/10.1038/s41598-024-66670-1
+- Estimating mussel mound distribution and geometric properties in coastal salt marshes by using UAV-Lidar point clouds *The Science of The Total Environment* (2023) - 4 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2023.163707
+
+Research Grants (from Dimensions.ai):
+- CAREER: Understanding the role of ribbed mussels on salt marsh sedimentation by a combination of field work and numerical modeling (2025-2030) - $596,956
+  Funder: Directorate for Geosciences
+- Elements: A GeoAI Toolset for Identifying Locations and Drivers of Pond Collapse in Salt Marshes from High-Resolution Earth Imagery (2024-2027) - $599,999
+  Funder: Directorate for Computer & Information Science & Engineering
+- Schooling through Vortex Streets; A Biological and Computational Approach to Understanding Collective Behavior in Wild Fish (2021-2025) - $540,000
+  Funder: Directorate for Mathematical & Physical Sciences
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3709 Physical Geography and Environmental Geoscience; 40 Engineering; 4013 Geomatic Engineering; 31 Biological Sciences
+
+Key Research Concepts (from Dimensions.ai):
+salt marshes; ground elevation; coastal ecosystems; cylinder array; turbulent kinetic energy; vortex street; rainbow trout; sea level rise; oyster reefs; Guana–Tolomato–Matanzas Estuary
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Yale University
+- Utrecht University
+- Boston University
+- University of Tennessee Knoxville
+- University of Padua
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.8/10
+Percentile: Top 57% of Water Institute faculty
+Rankings by Research Category:
+- Geomatic Engineering: #6 of 9
+- Physical Geography and Environmental Geoscience: #9 of 11
+- Engineering: #35 of 53

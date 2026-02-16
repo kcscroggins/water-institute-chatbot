@@ -25,3 +25,22 @@ Dr. Thomas's role supports environmental and Earth-system decision-making indire
 
 Keywords:
 geoscience education; geology; Earth materials; minerals; rocks; surface processes; geomorphology; natural hazards; geologic risk; undergraduate education; curriculum development; Florida geology; Earth systems; teaching
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 7
+- Total Citations: 253
+- H-Index: 6
+- Average Citations per Paper: 36.1
+
+Research Grants (from Dimensions.ai):
+- Collaborative Research: High Resolution Sensor Networks for Quantifying and Predicting Surface-Groundwater Mixing and Nutrient Delivery in the Santa Fe River, Florida. (2009-2012) - $456,782
+  Funder: Directorate for Geosciences
+- Collaborative Research: Controls on Delivery and Fate of Water, Nitrogen and Calcium in a Spring-Fed Karst River (2009-2013) - $325,668
+  Funder: Directorate for Geosciences
+- Development of an Inexpensive, Submersible, Automatic Water Sampler (2000-2003) - $48,227
+  Funder: Directorate for Geosciences
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.6/10
+Percentile: Top 67% of Water Institute faculty

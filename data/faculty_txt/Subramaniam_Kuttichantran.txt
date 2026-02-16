@@ -11,3 +11,63 @@ Dr. Subramaniam is an affiliate faculty member of the UF Water Institute, contri
 
 Keywords:
 Water Institute affiliate; Veterinary Medicine.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 121
+- Total Citations: 2155
+- H-Index: 18
+- Average Citations per Paper: 17.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.54 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Genotypic Characterization of Infectious Spleen and Kidney Necrosis Virus (ISKNV) in Southeast Asian Aquaculture *Transboundary and Emerging Diseases* (2023) - 22 citations
+  DOI: https://doi.org/10.1155/2023/6643006
+- Novel Lethal Clostridial Infection in Florida Manatees (Trichechus manatus latirostris): Cause of the 2013 Unusual Mortality Event in the Indian River Lagoon *Frontiers in Marine Science* (2022) - 18 citations
+  DOI: https://doi.org/10.3389/fmars.2022.841857
+- Novel cetacean morbillivirus in a rare Fraser’s dolphin (Lagenodelphis hosei) stranding from Maui, Hawai‘i *Scientific Reports* (2021) - 18 citations
+  DOI: https://doi.org/10.1038/s41598-021-94460-6
+- Isolation, Identification and Characterization of a Novel Megalocytivirus from Cultured Tilapia (Oreochromis spp.) from Southern California, USA *Animals* (2021) - 17 citations
+  DOI: https://doi.org/10.3390/ani11123524
+- Longitudinal analysis of pinnipeds in the northwest Atlantic provides insights on endemic circulation of phocine distemper virus *Proceedings of the Royal Society B* (2021) - 16 citations
+  DOI: https://doi.org/10.1098/rspb.2021.1841
+- A novel group of negative-sense RNA viruses associated with epizootics in managed and free-ranging freshwater turtles in Florida, USA *PLOS Pathogens* (2022) - 15 citations
+  DOI: https://doi.org/10.1371/journal.ppat.1010258
+- Partial validation of a TaqMan quantitative polymerase chain reaction for the detection of the three genotypes of Infectious spleen and kidney necrosis virus *PLOS ONE* (2023) - 11 citations
+  DOI: https://doi.org/10.1371/journal.pone.0281292
+- Earliest detection to date of SARS-CoV-2 in Florida: Identification together with influenza virus on the main entry door of a university building, February 2020 *PLOS ONE* (2021) - 11 citations
+  DOI: https://doi.org/10.1371/journal.pone.0245352
+- Toxicity Risks Associated With the Beta‐Blocker Metoprolol in Marine and Freshwater Organisms: A Review *Environmental Toxicology and Chemistry* (2024) - 10 citations
+  DOI: https://doi.org/10.1002/etc.5981
+- Complete genome sequences of infectious spleen and kidney necrosis virus isolated from farmed albino rainbow sharks Epalzeorhynchos frenatum in the United States *Virus Genes* (2021) - 10 citations
+  DOI: https://doi.org/10.1007/s11262-021-01857-6
+
+Research Grants (from Dimensions.ai):
+- RAPID: Effects of the 2023-24 El Nino on Fish Disease and Population Dynamics in the Galapagos Islands (2024-2025) - $200,000
+  Funder: Directorate for Geosciences
+- One-pot RT-LAMP CRISPR/Cas12b platform for rapid detection of tilapia lake virus (2023-2025) - $150,000
+  Funder: National Institute of Food and Agriculture
+- International Travel Proposal: Funding to support travel and attendance at the 4th Intl. Symposium on Ranaviruses - Budapest, Hungary. (2017-2018) - $15,000
+  Funder: Directorate for Biological Sciences
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 30 Agricultural, Veterinary and Food Sciences; 3105 Genetics; 3009 Veterinary Sciences; 3005 Fisheries Sciences
+
+Key Research Concepts (from Dimensions.ai):
+infectious spleen; genome sequence; kidney necrosis virus; SARS-CoV-2; complete genome sequence; Tiger frog virus; frog virus; coding sequence; white-tailed deer; farmed white-tailed deer
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Florida Fish and Wildlife Conservation Commission
+- University of Georgia
+- Michigan State University
+- National Oceanic and Atmospheric Administration
+- The University of Texas at Austin
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.5/10
+Percentile: Top 29% of Water Institute faculty
+Rankings by Research Category:
+- Veterinary Sciences: #1 of 5
+- Fisheries Sciences: #5 of 12
+- Genetics: #5 of 8

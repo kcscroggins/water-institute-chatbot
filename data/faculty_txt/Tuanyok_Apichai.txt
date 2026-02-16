@@ -29,3 +29,55 @@ Dr. Tuanyok's work informs environmental surveillance, biosecurity, and public h
 
 Keywords:
 medical microbiology; Burkholderia pseudomallei; melioidosis; glanders; bacterial genomics; phylogeography; environmental pathogens; soil pathogens; waterborne pathogens; horizontal gene transfer; virulence; biosecurity; public health; veterinary medicine; Southeast Asia
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 53
+- Total Citations: 857
+- H-Index: 15
+- Average Citations per Paper: 16.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.75 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Evidence of a Sjögren's disease-like phenotype following COVID-1 19 in mice and human *JCI Insight* (2023) - 16 citations
+  DOI: https://doi.org/10.1172/jci.insight.166540
+- Both Feline Coronavirus Serotypes 1 and 2 Infected Domestic Cats Develop Cross-Reactive Antibodies to SARS-CoV-2 Receptor Binding Domain: Its Implication to Pan-CoV Vaccine Development *Viruses* (2023) - 14 citations
+  DOI: https://doi.org/10.3390/v15040914
+- Under-Reporting Cases and Deaths from Melioidosis: A Retrospective Finding in Songkhla and Phatthalung Province of Southern Thailand, 2014–2020 *Tropical Medicine and Infectious Disease* (2023) - 11 citations
+  DOI: https://doi.org/10.3390/tropicalmed8050286
+- Evidence of a Sjögren’s disease-like phenotype following COVID-19 *medRxiv* (2022) - 9 citations
+  DOI: https://doi.org/10.1101/2022.10.20.22281265
+- Isolation of Burkholderia pseudomallei from a goat in New Caledonia: implications for animal and human health monitoring and serological tool comparison *BMC Veterinary Research* (2024) - 7 citations
+  DOI: https://doi.org/10.1186/s12917-024-03957-5
+- Phylogeographic characterization of Burkholderia pseudomallei isolated from Bangladesh *PLOS Neglected Tropical Diseases* (2023) - 6 citations
+  DOI: https://doi.org/10.1371/journal.pntd.0011823
+- Ruminal Lipid A Analysis by Matrix-Assisted Laser Desorption/Ionization Time-of-Flight Mass Spectrometry *Polysaccharides* (2021) - 6 citations
+  DOI: https://doi.org/10.3390/polysaccharides2040049
+- Exploring Burkholderia pseudomallei-specific bacteriophages: overcoming O-antigen specificity and adaptive mutation in phage tail fiber *Frontiers in Bacteriology* (2024) - 4 citations
+  DOI: https://doi.org/10.3389/fbrio.2024.1433593
+- A comprehensive study of prophage islands in Burkholderia pseudomallei complex *Frontiers in Bacteriology* (2024) - 4 citations
+  DOI: https://doi.org/10.3389/fbrio.2024.1339809
+- Effects of ruminal lipopolysaccharides on growth and fermentation end products of pure cultured bacteria *Scientific Reports* (2022) - 4 citations
+  DOI: https://doi.org/10.1038/s41598-022-20073-2
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 32 Biomedical and Clinical Sciences; 3107 Microbiology; 3202 Clinical Sciences; 30 Agricultural, Veterinary and Food Sciences
+
+Key Research Concepts (from Dimensions.ai):
+Burkholderia pseudomallei; causative agent of melioidosis; convalescent COVID-19 patients; COVID-19 patients; lymphocytic infiltration; multi-sequence alignment analysis; cross-reactivity; laboratory cats; B. pseudomallei; repeat sequences
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Hokkaido University
+- Prince of Songkla University
+- National Institute of Dental and Craniofacial Research
+- Walailak University
+- French Agency for Food, Environmental and Occupational Health & Safety
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.1/10
+Percentile: Top 46% of Water Institute faculty
+Rankings by Research Category:
+- Clinical Sciences: #5 of 7
+- Microbiology: #14 of 20
+- Biomedical and Clinical Sciences: #15 of 30

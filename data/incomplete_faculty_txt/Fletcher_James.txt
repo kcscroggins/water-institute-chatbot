@@ -1,0 +1,49 @@
+Name: James Fletcher
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: jhfr@ufl.edu
+Website: https://mrec.ifas.ufl.edu/main-menu/directory/faculty-directory/fletcher/
+Google Scholar: 
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 20
+- Total Citations: 98
+- H-Index: 4
+- Average Citations per Paper: 4.9
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 0.26 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Raised Pavement Marker Assessments Using Mobile Retroreflectivity Unit Technology *Transportation Research Record Journal of the Transportation Research Board* (2022) - 1 citations
+  DOI: https://doi.org/10.1177/03611981221095086
+- Applications of Unmanned Aerial Systems in Agricultural Operation Management: Part III: Best Practices for Efficient Aerial Surveying *EDIS* (2021)
+  DOI: https://doi.org/10.32473/edis-ae553-2021
+- Applications of Unmanned Aerial Systems in Agricultural Operation Management: Part II: Platforms and Payloads *EDIS* (2021)
+  DOI: https://doi.org/10.32473/edis-ae552-2021
+
+Research Categories (from Dimensions.ai):
+46 Information and Computing Sciences; 4602 Artificial Intelligence; 4005 Civil Engineering; 40 Engineering
+
+Key Research Concepts (from Dimensions.ai):
+unmanned aerial systems; agricultural operations management; aerial systems; application of unmanned aerial systems; pavement markings; lane miles; retroreflectivity data; retroreflectivity measurements; R-L; agricultural domain
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of North Florida
+- Florida Department of Transportation

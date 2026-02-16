@@ -32,3 +32,61 @@ Water & Policy Relevance:
 
 Keywords:
 Nematology; plant-parasitic nematodes; root-knot nematode; sting nematode; soil health; IPM; cover crops; soil fumigation; strawberry; vegetables; specialty crops; GCREC; nutrient efficiency; soil biology; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 120
+- Total Citations: 773
+- H-Index: 16
+- Average Citations per Paper: 6.4
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.48 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- The taxonomic status of Aphelenchoides besseyi Christie, 1942 (Nematoda: Aphelenchoididae) populations from the southeastern USA, and description of Aphelenchoides pseudobesseyi sp. n. *Nematology* (2021) - 33 citations
+  DOI: https://doi.org/10.1163/15685411-bja10048
+- Integrated nematode management and crop health: future challenges and opportunities. (2021) - 22 citations
+  DOI: https://doi.org/10.1079/9781789247541.0001
+- Volatile compounds as potential bio-fumigants against plant-parasitic nematodes – a mini review *Journal of Nematology* (2021) - 21 citations
+  DOI: https://doi.org/10.21307/jofnem-2021-014
+- Host suitability of summer cover crops to Meloidogyne arenaria, M. enterolobii, M. incognita and M. javanica *Nematology* (2022) - 19 citations
+  DOI: https://doi.org/10.1163/15685411-bja10122
+- The combination of Bacillus amyloliquefaciens and Purpureocillium lilacinum in the control of Meloidogyne enterolobii *Biological Control* (2024) - 16 citations
+  DOI: https://doi.org/10.1016/j.biocontrol.2023.105438
+- Supplemental Fumigant Placement Improves Root Knot and Fusarium Wilt Management for Tomatoes Produced on a Raised-Bed Plasticulture System in Florida's Myakka Fine Sand. *Plant Disease* (2022) - 14 citations
+  DOI: https://doi.org/10.1094/pdis-03-21-0543-re
+- Interaction Studies between Meloidogyne javanica and Fusarium oxysporum f. sp. lycopersici (Fol) Race 3 on Different Isolines of Tomato cv. Tasti Lee *Journal of Nematology* (2022) - 13 citations
+  DOI: https://doi.org/10.2478/jofnem-2022-0018
+- Chapter 16. Strawberry Production: VPH ch. 16, CV134/HS736, rev. 6/2023 *EDIS* (2023) - 8 citations
+  DOI: https://doi.org/10.32473/edis-cv134-2023
+- Chapter 10 Nematode problems in tomato, okra, and other common vegetables, and their sustainable management (2023) - 8 citations
+  DOI: https://doi.org/10.1016/b978-0-323-91226-6.00013-4
+- Susceptibility and host potential of six cucurbit crops to Meloidogyne enterolobii, M. floridensis, M. hapla, M. incognita and M. javanica *Nematology* (2022) - 8 citations
+  DOI: https://doi.org/10.1163/15685411-bja10195
+
+Research Grants (from Dimensions.ai):
+- In the home stretch: implementation and grower adoption of non-fumigant nematicides in plasticulture (2019-2023) - $234,495
+  Funder: National Institute of Food and Agriculture
+- Integrated Nematode Management for Florida Agriculture (2016-2021)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 30 Agricultural, Veterinary and Food Sciences; 3108 Plant Biology; 3008 Horticultural Production; 3109 Zoology
+
+Key Research Concepts (from Dimensions.ai):
+root-knot nematode; vegetation; RKN species; Handbook; chapter; plant-parasitic nematodes; nematode management; management; A. oryzae; taxonomic status
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Federal University of Lavras
+- Florida Department of Agriculture and Consumer Services
+- University of Bonn
+- Wageningen University & Research
+- Auburn University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.2/10
+Percentile: Top 40% of Water Institute faculty
+Rankings by Research Category:
+- Zoology: #3 of 5
+- Horticultural Production: #6 of 13
+- Plant Biology: #8 of 18

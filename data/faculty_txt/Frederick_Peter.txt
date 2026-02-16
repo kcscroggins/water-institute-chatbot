@@ -26,3 +26,59 @@ Water & Policy Relevance:
 
 Keywords:
 Wildlife ecology; wading birds; bioindicators; ecotoxicology; mercury contamination; nutrient enrichment; Everglades; wetland ecosystems; ecosystem health; contaminants; restoration ecology; food webs; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 107
+- Total Citations: 2762
+- H-Index: 29
+- Average Citations per Paper: 25.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 1.99 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- A general deep learning model for bird detection in high‐resolution airborne imagery *Ecological Applications* (2022) - 65 citations
+  DOI: https://doi.org/10.1002/eap.2694
+- Modeling structural mechanics of oyster reef self-organization including environmental constraints and community interactions *Ecological Modelling* (2021) - 17 citations
+  DOI: https://doi.org/10.1016/j.ecolmodel.2020.109389
+- Drone lidar-derived surface complexity metrics as indicators of intertidal oyster reef condition *Ecological Indicators* (2023) - 15 citations
+  DOI: https://doi.org/10.1016/j.ecolind.2023.110190
+- Accounting for food availability reveals contaminant-induced breeding impairment, food-modulated contaminant effects, and endpoint-specificity of exposure indicators in free ranging avian populations *The Science of The Total Environment* (2021) - 10 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2021.148322
+- Structured Decision Making to Prioritize Regional Bird Monitoring Needs *Interfaces* (2023) - 7 citations
+  DOI: https://doi.org/10.1287/inte.2022.1154
+- Short‐term economic impacts of ecological restoration in estuarine and coastal environments: a case study of Lone Cabbage Reef *Restoration Ecology* (2021) - 7 citations
+  DOI: https://doi.org/10.1111/rec.13462
+- Quantifying uncertainty in coastal salinity regime for biological application using quantile regression *Ecosphere* (2023) - 6 citations
+  DOI: https://doi.org/10.1002/ecs2.4488
+- Timing and magnitude of net methylmercury effects on waterbird reproductive output are dependent on food availability *The Science of The Total Environment* (2022) - 6 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2022.159706
+- Near real‐time monitoring of wading birds using uncrewed aircraft systems and computer vision *Remote Sensing in Ecology and Conservation* (2024) - 5 citations
+  DOI: https://doi.org/10.1002/rse2.421
+- A general deep learning model for bird detection in high resolution airborne imagery *bioRxiv* (2021) - 4 citations
+  DOI: https://doi.org/10.1101/2021.08.05.455311
+
+Research Grants (from Dimensions.ai):
+- Ecology, management and restoration of wetland habitats and waterbird populations. (2016-2021)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 31 Biological Sciences; 3103 Ecology; 3109 Zoology; 4104 Environmental Management
+
+Key Research Concepts (from Dimensions.ai):
+nest success; computer vision; human-labeled training data; deep neural networks; deep learning models; computing infrastructure; size structure; food availability; Hg exposure; computer vision models
+
+Top Collaborating Institutions (from Dimensions.ai):
+- United States Geological Survey
+- The Nature Conservancy
+- University of Oxford
+- North Carolina State University
+- University of New Mexico
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.1/10
+Percentile: Top 16% of Water Institute faculty
+Rankings by Research Category:
+- Zoology: #1 of 5
+- Environmental Management: #5 of 46
+- Ecology: #10 of 59

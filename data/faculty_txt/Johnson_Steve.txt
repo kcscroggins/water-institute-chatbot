@@ -31,3 +31,55 @@ Answers the question: "Which vertebrate species trends indicate ecosystem change
 
 Keywords:
 amphibian ecology; reptile conservation; vertebrate ecology; natural history; invasive species; wildlife management; wetland indicators; longleaf pine ecosystems; Florida wildlife; Extension education; habitat conservation
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 87
+- Total Citations: 701
+- H-Index: 13
+- Average Citations per Paper: 8.1
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 1.44 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Rat Lungworm (Angiostrongylus cantonensis) in the Invasive Cuban Treefrog (Osteopilus septentrionalis) in Central Florida, USA *Journal of Wildlife Diseases* (2022) - 13 citations
+  DOI: https://doi.org/10.7589/jwd-d-21-00140
+- Diet of the Invasive Argentine Black and White Tegu in Central Florida *Southeastern Naturalist* (2021) - 12 citations
+  DOI: https://doi.org/10.1656/058.020.0210
+- Effects of semi-constant temperature on embryonic and hatchling phenotypes of six-tubercled Amazon River turtles, Podocnemis sextuberculata *Journal of Thermal Biology* (2022) - 4 citations
+  DOI: https://doi.org/10.1016/j.jtherbio.2022.103292
+- Variation in Relative Abundance, Population Structure, and Body Size of the Suwannee Alligator Snapping Turtle (Macrochelys suwanniensis) in the Suwannee River *Southeastern Naturalist* (2023) - 3 citations
+  DOI: https://doi.org/10.1656/058.022.0sp1216
+- Experimental evaluation of how biological invasions and climate change interact to alter the vertical assembly of an amphibian community *Journal of Animal Ecology* (2023) - 3 citations
+  DOI: https://doi.org/10.1111/1365-2656.13899
+- Effects of Translocation on Gopher Frog Survival and Movement *Herpetologica* (2022) - 3 citations
+  DOI: https://doi.org/10.1655/herpetologica-d-20-00061
+- The Cuban Treefrog (Osteopilus septentrionalis) in Florida: WEC218/UW259, 2/2023 *EDIS* (2023) - 2 citations
+  DOI: https://doi.org/10.32473/edis-uw259-2023
+- Florida's Nonnative Herpetofauna: Veiled Chameleon (Chamaeleo calyptratus), Oustalet’s Chameleon (Furcifer oustaleti), and Panther Chameleon (Furcifer pardalis): WEC456/UW501, 12/2022 *EDIS* (2022) - 2 citations
+  DOI: https://doi.org/10.32473/edis-uw501-2022
+- Population Size and Structure of the Ornate Diamondback Terrapin (Malaclemys terrapin macrospilota) on Small Gulf Coast Islands in Florida *Chelonian Conservation and Biology* (2021) - 2 citations
+  DOI: https://doi.org/10.2744/ccb-1485.1
+- Pterygodermatites (Mesopectines) whartoni (Nematoda: Rictulariidae) encysted larvae in invasive Cuban treefrogs (Osteopilus septentrionalis) from Florida, United States *Frontiers in Veterinary Science* (2024) - 1 citations
+  DOI: https://doi.org/10.3389/fvets.2024.1353975
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 41 Environmental Sciences; 3103 Ecology; 4102 Ecological Applications; 4104 Environmental Management
+
+Key Research Concepts (from Dimensions.ai):
+Cuban treefrogs; Osteopilus septentrionalis; invasive Cuban treefrogs; non-native species; native species; reptiles; Florida; stormwater sewer system; levels of impervious surface; geographic range
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Florida Fish and Wildlife Conservation Commission
+- Stetson University
+- United States Department of Agriculture
+- University of Tampa
+- Instituto de Desenvolvimento Sustentável Mamirauá
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.9/10
+Percentile: Top 54% of Water Institute faculty
+Rankings by Research Category:
+- Ecological Applications: #17 of 32
+- Environmental Management: #24 of 46
+- Ecology: #41 of 59

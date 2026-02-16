@@ -1,0 +1,50 @@
+Name: Joseph Delfino
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: delfino@ufl.edu
+Website: https://www.ees.essie.ufl.edu/homepp/delfino/narr.htm
+Google Scholar: https://scholar.google.com/citations?user=PMBaKoAAAAAJ&hl=en
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 37
+- Total Citations: 912
+- H-Index: 19
+- Average Citations per Paper: 24.6
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.42 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Mussels drive polychlorinated biphenyl (PCB) biomagnification in a coastal food web *Scientific Reports* (2021) - 19 citations
+  DOI: https://doi.org/10.1038/s41598-021-88684-9
+
+Research Grants (from Dimensions.ai):
+- Collaborative Research: High Resolution Sensor Networks for Quantifying and Predicting Surface-Groundwater Mixing and Nutrient Delivery in the Santa Fe River, Florida. (2009-2012) - $456,782
+  Funder: Directorate for Geosciences
+- Design and demonstration of a distributed sensor array for predicting water flow and nitrate flux in the Santa Fe Basin (2006-2009) - $359,960
+  Funder: Directorate for Geosciences
+
+Research Categories (from Dimensions.ai):
+4102 Ecological Applications; 41 Environmental Sciences; 4105 Pollution and Contamination
+
+Key Research Concepts (from Dimensions.ai):
+polychlorinated biphenyls; non-trophic interactions; coastal food webs; food webs; PCB bioavailability
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Yale University

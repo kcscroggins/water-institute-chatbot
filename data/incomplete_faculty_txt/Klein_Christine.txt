@@ -1,0 +1,66 @@
+Name: Christine Klein
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: kleinc@law.ufl.edu
+Website: http://www.law.ufl.edu/faculty/christine-a-klein
+Google Scholar: 
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 41
+- Total Citations: 6287
+- H-Index: 16
+- Average Citations per Paper: 153.3
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 11.52 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Parkinson's disease *The Lancet* (2021) - 3264 citations
+  DOI: https://doi.org/10.1016/s0140-6736(21)00218-x
+- A Statement of the MDS on Biological Definition, Staging, and Classification of Parkinson's Disease *Movement Disorders* (2023) - 80 citations
+  DOI: https://doi.org/10.1002/mds.29683
+- Genomewide Association Studies of LRRK2 Modifiers of Parkinson's Disease *Annals of Neurology* (2021) - 50 citations
+  DOI: https://doi.org/10.1002/ana.26094
+- Embracing Monogenic Parkinson's Disease: The MJFF Global Genetic PD Cohort *Movement Disorders* (2023) - 46 citations
+  DOI: https://doi.org/10.1002/mds.29288
+- Clinical Features and Evolution of Blepharospasm: A Multicenter International Cohort and Systematic Literature Review *Dystonia* (2022) - 40 citations
+  DOI: https://doi.org/10.3389/dyst.2022.10359
+- Different pieces of the same puzzle: a multifaceted perspective on the complex biological basis of Parkinson’s disease *npj Parkinson's Disease* (2023) - 38 citations
+  DOI: https://doi.org/10.1038/s41531-023-00535-8
+- The commercial genetic testing landscape for Parkinson's disease *Parkinsonism & Related Disorders* (2021) - 29 citations
+  DOI: https://doi.org/10.1016/j.parkreldis.2021.10.001
+- Neuronal alpha-Synuclein Disease integrated staging system performance in PPMI, PASADENA, and SPARK baseline cohorts *npj Parkinson's Disease* (2024) - 27 citations
+  DOI: https://doi.org/10.1038/s41531-024-00789-w
+- Current Guidelines for Classifying and Diagnosing Cervical Dystonia: Empirical Evidence and Recommendations *Movement Disorders Clinical Practice* (2021) - 27 citations
+  DOI: https://doi.org/10.1002/mdc3.13376
+- Interaction of Mitochondrial Polygenic Score and Lifestyle Factors in LRRK2 p.Gly2019Ser Parkinsonism *Movement Disorders* (2023) - 19 citations
+  DOI: https://doi.org/10.1002/mds.29563
+
+Research Categories (from Dimensions.ai):
+32 Biomedical and Clinical Sciences; 3202 Clinical Sciences; 3209 Neurosciences; 42 Health Sciences; 31 Biological Sciences
+
+Key Research Concepts (from Dimensions.ai):
+Parkinson's disease; cervical dystonia; soda consumption; polygenic scores; risk factor questionnaire; genome-wide association studies; association studies; exome sequencing; genetic landscape; large-scale exome sequencing
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Lübeck
+- Emory University
+- National Institutes of Health
+- University Hospital Schleswig-Holstein
+- Washington University in St. Louis

@@ -30,3 +30,51 @@ Dr. Oh develops treatment technologies and process-level understanding that enab
 
 Keywords:
 environmental engineering; water treatment; wastewater treatment; electrochemical treatment; adsorption; membrane separation; contaminant removal; physicochemical processes; resource recovery; nutrient removal; water quality; treatment design; reaction-transport modeling; emerging contaminants; infrastructure
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 6
+- Total Citations: 54
+- H-Index: 4
+- Average Citations per Paper: 9.0
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.83 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Application of neighborhood-scale wastewater-based epidemiology in low COVID-19 incidence situations *The Science of The Total Environment* (2022) - 25 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2022.158448
+- Portable, single nucleotide polymorphism-specific duplex assay for virus surveillance in wastewater *The Science of The Total Environment* (2023) - 15 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2023.168701
+- Improved performance of nucleic acid-based assays for genetically diverse norovirus surveillance *Applied and Environmental Microbiology* (2023) - 5 citations
+  DOI: https://doi.org/10.1128/aem.00331-23
+- Building Environmental and Sociological Predictive Intelligence to Understand the Seasonal Threat of SARS-CoV-2 in Human Populations *American Journal of Tropical Medicine and Hygiene* (2024) - 4 citations
+  DOI: https://doi.org/10.4269/ajtmh.23-0077
+- Effective Removal of Enteric Viruses by Moringa oleifera Seed Extract Functionalized Cotton Filter *ACS ES&T Water* (2024) - 3 citations
+  DOI: https://doi.org/10.1021/acsestwater.4c00194
+- Application of neighborhood-scale wastewater-based epidemiology in low COVID-19 incidence situations *medRxiv* (2022) - 2 citations
+  DOI: https://doi.org/10.1101/2022.06.07.22276055
+
+Research Grants (from Dimensions.ai):
+- RAPID: Impact of Back-to-Back Major Hurricanes on Antibiotic Resistance Gene Transfer to Autochthonous Bacteria in Estuarine and Coastal Water Systems (2025-2026) - $98,944
+  Funder: Directorate for Engineering
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 42 Health Sciences; 4202 Epidemiology; 32 Biomedical and Clinical Sciences; 3108 Plant Biology
+
+Key Research Concepts (from Dimensions.ai):
+N gene fragment; mottle virus; incidence rate; public health measures; SARS-CoV-2; pepper mild mottle virus; single nucleotide polymorphisms; duplex assay; archaeon Pyrococcus furiosus; fluorescence signal
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Illinois at Urbana-Champaign
+- University of Maryland, College Park
+- University of Maryland Institute for Advanced Computer Studies
+- The University of Texas at Austin
+- Illinois Department of Public Health
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.4/10
+Percentile: Top 76% of Water Institute faculty
+Rankings by Research Category:
+- Epidemiology: #2 of 2
+- Health Sciences: #6 of 7
+- Plant Biology: #16 of 18

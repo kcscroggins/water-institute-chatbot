@@ -1,0 +1,78 @@
+Name: Sixue Chen
+Role: Professor and Director of Proteomics
+Academic Unit: 
+Office: 
+Phone: 
+Email: schen@ufl.edu
+Website: https://people.clas.ufl.edu/schen/
+Google Scholar: https://urldefense.proofpoint.com/v2/url?u=https-3A__scholar.google.com_citations-3Fuser-3DJDfyI-5F8AAAAJ-26hl-3Den&d=DwQCaQ&c=sJ6xIWYx-zLMB3EPkvcnVg&r=EiDoKgBSZvggVZPdR_ZlpQ&m=Sn5r82MtAnqLX0wKspxMCrNy2d7ICCerxDgRtGrBHy0&s=Xgbv4hanpQE4AW63e65sPKifSdkSGqrsHLOX7QKG4d0&e=
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 246
+- Total Citations: 10380
+- H-Index: 56
+- Average Citations per Paper: 42.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 7.08 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- The Arabidopsis MIK2 receptor elicits immunity by sensing a conserved signature from phytocytokines and microbes *Nature Communications* (2021) - 136 citations
+  DOI: https://doi.org/10.1038/s41467-021-25580-w
+- Glucose-driven TOR–FIE–PRC2 signalling controls plant development *Nature* (2022) - 106 citations
+  DOI: https://doi.org/10.1038/s41586-022-05171-5
+- Advances in Plant Metabolomics and Its Applications in Stress and Single-Cell Biology *International Journal of Molecular Sciences* (2022) - 78 citations
+  DOI: https://doi.org/10.3390/ijms23136985
+- Functional Characterization of a Sugar Beet BvbHLH93 Transcription Factor in Salt Stress Tolerance *International Journal of Molecular Sciences* (2021) - 61 citations
+  DOI: https://doi.org/10.3390/ijms22073669
+- Roles of E3 Ubiquitin Ligases in Plant Responses to Abiotic Stresses *International Journal of Molecular Sciences* (2022) - 50 citations
+  DOI: https://doi.org/10.3390/ijms23042308
+- N-hydroxypipecolic acid triggers systemic acquired resistance through extracellular NAD(P) *Nature Communications* (2023) - 35 citations
+  DOI: https://doi.org/10.1038/s41467-023-42629-0
+- Three-in-One Simultaneous Extraction of Proteins, Metabolites and Lipids for Multi-Omics *Frontiers in Genetics* (2021) - 35 citations
+  DOI: https://doi.org/10.3389/fgene.2021.635971
+- PRP4KA phosphorylates SERRATE for degradation via 20S proteasome to fine-tune miRNA production in Arabidopsis *Science Advances* (2022) - 31 citations
+  DOI: https://doi.org/10.1126/sciadv.abm8435
+- Integrative omic analysis reveals the improvement of alkaloid accumulation by ultraviolet-B radiation and its upstream regulation in Catharanthus roseus *Industrial Crops and Products* (2021) - 28 citations
+  DOI: https://doi.org/10.1016/j.indcrop.2021.113448
+- Integrative Proteomic and Phosphoproteomic Analyses of Pattern- and Effector-Triggered Immunity in Tomato *Frontiers in Plant Science* (2021) - 26 citations
+  DOI: https://doi.org/10.3389/fpls.2021.768693
+
+Research Grants (from Dimensions.ai):
+- Metabolomics of stomatal immunity in the disease triangle (2020-2023) - $424,998
+  Funder: National Institute of Food and Agriculture
+- Metabolomics of stomatal immunity in the disease triangle (2020-2023) - $425,000
+  Funder: Directorate for Biological Sciences
+- Novel and potent compounds that promote axon growth (2019-2024) - $643,000
+  Funder: Craig H Neilsen Foundation
+- Deciphering the guard cell metabolome in plant pathogen defense (2018-2020) - $91,288
+  Funder: Directorate for Biological Sciences
+- Identification Genes of Resistance to Verticillium Dahliae Pathogen and Fiber Development in Cotton Chromosome Substitution Lines (2017-2018)
+  Funder: Council for International Exchange of Scholars
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 3108 Plant Biology; 3101 Biochemistry and Cell Biology; 30 Agricultural, Veterinary and Food Sciences; 32 Biomedical and Clinical Sciences
+
+Key Research Concepts (from Dimensions.ai):
+abiotic stresses; post-translational modifications; extracellular leucine-rich repeat domain; BOTRYTIS-INDUCED KINASE 1; sessile plants; plant receptors; Fusarium spp; FERTILIZATION-INDEPENDENT ENDOSPERM; polycomb repressive complex 2; dynamic translocation
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Heilongjiang University
+- Texas A&M University
+- Northeast Forestry University
+- Shanghai Jiao Tong University
+- Zhejiang University

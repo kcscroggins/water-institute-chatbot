@@ -29,3 +29,37 @@ Dr. Mazyck produces applied research that informs environmental technology deplo
 
 Keywords:
 water treatment; wastewater treatment; activated carbon; photocatalysis; photocatalytic oxidation; TiO2; titanium dioxide; adsorption; contaminant removal; environmental nanotechnology; composite materials; air purification; mercury removal; VOC removal; sorbent materials; environmental remediation; water quality
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 47
+- Total Citations: 1029
+- H-Index: 17
+- Average Citations per Paper: 21.9
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 0.68 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Impact of Inherent Magnesium in Biochar for Phosphate Removal from Reclaimed Water Streams *Journal of Environmental Engineering* (2021) - 7 citations
+  DOI: https://doi.org/10.1061/(asce)ee.1943-7870.0001946
+
+Research Grants (from Dimensions.ai):
+- Magnetically Agitated Photocatalytic Reactor for Water Recovery (2002-2005)
+  Funder: National Aeronautics and Space Administration
+
+Research Categories (from Dimensions.ai):
+4004 Chemical Engineering; 40 Engineering; 4011 Environmental Engineering
+
+Key Research Concepts (from Dimensions.ai):
+phosphate removal; porosity of biochar; removal of phosphate; sugar beet pellets; biochar performance
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Engineer, Progressive Water Resources, 6561 Palmer Park Circle Suite D, Sarasota, FL 34238. Email:, ssuau@prowatersource.com
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.2/10
+Percentile: Top 40% of Water Institute faculty
+Rankings by Research Category:
+- Environmental Engineering: #1 of 6
+- Chemical Engineering: #2 of 6
+- Engineering: #24 of 53

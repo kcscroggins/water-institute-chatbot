@@ -1,0 +1,66 @@
+Name: Xiang Bi
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: xiangbi@ufl.edu
+Website: http://fred.ifas.ufl.edu/faculty/xiangbi/
+Google Scholar: https://scholar.google.com/citations?user=OxpIuvsAAAAJ&hl=en
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 36
+- Total Citations: 313
+- H-Index: 11
+- Average Citations per Paper: 8.7
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 1.79 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- The economic value of freshwater fisheries in Florida: An application of the travel cost method for black crappie fishing trips *Fisheries Research* (2021) - 20 citations
+  DOI: https://doi.org/10.1016/j.fishres.2020.105754
+- Integrating policy to achieve a harmonized sustainability model: A multidisciplinary synthesis and conceptual framework *Journal of Environmental Management* (2022) - 9 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2022.115314
+- Food outlet choice patterns of alternative food system consumers *International Food and Agribusiness Management Review* (2023) - 2 citations
+  DOI: https://doi.org/10.22434/ifamr2022.0095
+- Reassessing environmental justice through pollution substitution *Journal of Environmental Planning and Management* (2022) - 1 citations
+  DOI: https://doi.org/10.1080/09640568.2021.1969898
+- Valuing Florida Water Resources: Summary by Regions: FE1100, 9/2021 *EDIS* (2021)
+  DOI: https://doi.org/10.32473/edis-fe1100-2021
+- Valuing Florida Water Resources: Ecosystem services that we do not notice, but still value: FE1096, 9/2021 *EDIS* (2021)
+  DOI: https://doi.org/10.32473/edis-fe1096-2021
+
+Research Grants (from Dimensions.ai):
+- Costs and Benefits of Natural Resources on Public and Private Lands: Management, Economic Valuation, and Integrated Decision-Making (2017-2022)
+  Funder: National Institute of Food and Agriculture
+- Benefits and Costs of Natural Resources Policies Affecting Ecosystem Services on Public and Private Lands (2015-2017)
+  Funder: National Institute of Food and Agriculture
+- THE EFFECTS OF ENVIRONMENTAL POLICIES: IMPLICATIONS FOR PRODUCERS, CONSUMERS AND ENVIRONMENTAL QUALITY (2014-2019)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 4104 Environmental Management; 38 Economics; 3801 Applied Economics; 35 Commerce, Management, Tourism and Services
+
+Key Research Concepts (from Dimensions.ai):
+economic value; water resources; economic value of goods; value of goods; fishing trips; annual CS; travel cost method; effective management of recreational fisheries; management of recreational fisheries; environmental sustainability
+
+Top Collaborating Institutions (from Dimensions.ai):
+- United States Government Accountability Office
+- Florida Fish and Wildlife Conservation Commission
+- Center for Economics, Government Accountability Office, Washington, DC, 20548, USA. Electronic address: bix@gao.gov.
+- Colorado State University Fort Collins
+- Korea Energy Economics Institute

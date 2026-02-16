@@ -32,3 +32,67 @@ Water & Policy Relevance:
 
 Keywords:
 Environmental horticulture; floriculture; greenhouse production; nursery crops; irrigation management; fertigation; nutrient efficiency; leaching reduction; container production; substrate chemistry; BMPs; runoff prevention; water quality; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 60
+- Total Citations: 11827
+- H-Index: 18
+- Average Citations per Paper: 197.1
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 31.88 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Guidelines for the use and interpretation of assays for monitoring autophagy (4th edition)1 *Autophagy* (2021) - 2416 citations
+  DOI: https://doi.org/10.1080/15548627.2020.1797280
+- Relevance of Molecular Groups in Children with Newly Diagnosed Atypical Teratoid Rhabdoid Tumor: Results from Prospective St. Jude Multi-institutional Trials *Clinical Cancer Research* (2021) - 65 citations
+  DOI: https://doi.org/10.1158/1078-0432.ccr-20-4731
+- Accuracy of central neuro-imaging review of DIPG compared with histopathology in the International DIPG Registry *Neuro-Oncology* (2021) - 17 citations
+  DOI: https://doi.org/10.1093/neuonc/noab245
+- Effect of container size, substrate composition, and genotype on growth and fruit quality of young southern highbush blueberry in a container-based intensive production system *Scientia Horticulturae* (2022) - 14 citations
+  DOI: https://doi.org/10.1016/j.scienta.2022.111149
+- Effect of Photoperiod, Propagative Material, and Production Period on Greenhouse-grown Ginger and Turmeric Plants *HortScience* (2021) - 14 citations
+  DOI: https://doi.org/10.21273/hortsci16025-21
+- Macronutrient Solubility in Response to the pH of Soilless Container Substrates *Journal of Soil Science and Plant Nutrition* (2025) - 9 citations
+  DOI: https://doi.org/10.1007/s42729-025-02331-0
+- Container substrate components are a potential source of micronutrients for plant growth *Journal of Plant Nutrition* (2023) - 5 citations
+  DOI: https://doi.org/10.1080/01904167.2023.2217223
+- pH buffering of nutrient solutions with differing water quality in small-scale hydroponic systems *Journal of Plant Nutrition* (2022) - 4 citations
+  DOI: https://doi.org/10.1080/01904167.2022.2072739
+- Paclobutrazol Residues in Recirculated Water in Commercial Greenhouses *HortTechnology* (2024) - 3 citations
+  DOI: https://doi.org/10.21273/horttech05367-23
+- Ginger, Galangal, and Turmeric Production in Florida: ENH1374/EP638, 8/2023 *EDIS* (2023) - 2 citations
+  DOI: https://doi.org/10.32473/edis-ep638-2023
+
+Research Grants (from Dimensions.ai):
+- Water Management and Quality for Specialty Crop Production and Health (2020-2025)
+  Funder: National Institute of Food and Agriculture
+- Technologies for controlled environment specialty crop production (2019-2024)
+  Funder: National Institute of Food and Agriculture
+- Planning to Explore the Opportunities and Limits of Indoor Young-Plant Production (2019-2023) - $50,000
+  Funder: National Institute of Food and Agriculture
+- Water Management and Quality for Ornamental Crop Production and Health (2016-2020)
+  Funder: National Institute of Food and Agriculture
+- Increasing efficiency and adoption of best management practices in floriculture crop production (2014-2019)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3004 Crop and Pasture Production; 3002 Agriculture, Land and Farm Management; 31 Biological Sciences; 32 Biomedical and Clinical Sciences
+
+Key Research Concepts (from Dimensions.ai):
+peat-based substrates; nutrient solution; soilless substrates; fresh produce markets; produce market; potential market; autophagy-related genes; sets of rules; autophagic process; autophagic response
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Michigan-Ann Arbor
+- Sapienza University of Rome
+- St. Jude Children's Research Hospital
+- Zhejiang University
+- Chinese University of Hong Kong
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 3.4/10
+Percentile: Top 6% of Water Institute faculty
+Rankings by Research Category:
+- Agriculture, Land and Farm Management: #2 of 24
+- Biomedical and Clinical Sciences: #5 of 30
+- Crop and Pasture Production: #5 of 41

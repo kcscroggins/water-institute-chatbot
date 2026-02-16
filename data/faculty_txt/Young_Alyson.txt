@@ -28,3 +28,46 @@ Young's research informs environmental and resource policy by highlighting how g
 
 Keywords:
 anthropology; cultural anthropology; environmental anthropology; human-environment interactions; livelihoods; resource access; environmental governance; sustainability; adaptation; ethnography; community-based research; social dimensions; policy impacts
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 11
+- Total Citations: 203
+- H-Index: 7
+- Average Citations per Paper: 18.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 1.53 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Perceptions and Knowledge About the MenB Vaccine Among Parents of High School Students *Journal of Community Health* (2021) - 12 citations
+  DOI: https://doi.org/10.1007/s10900-020-00954-1
+- Anemia and intestinal parasites in farmers and family members and sheep in two agro-ecological zones in Senegal *One Health* (2021) - 3 citations
+  DOI: https://doi.org/10.1016/j.onehlt.2021.100260
+- North-Central Florida Clinicians' Human Papillomavirus Vaccine Recommendation Priorities and Practices for 11- to 12-Year-Olds: A Discrete Choice Experiment *Journal of Adolescent Health* (2023) - 2 citations
+  DOI: https://doi.org/10.1016/j.jadohealth.2023.02.006
+- Burden of anemia and intestinal parasites in farmers and family members and owned livestock in two geographic locations in Senegal before and during the rainy seasons *One Health* (2022) - 2 citations
+  DOI: https://doi.org/10.1016/j.onehlt.2022.100415
+
+Research Grants (from Dimensions.ai):
+- Epigenetic alterations and stress among new mothers and neonates in the Democratic Republic of Congo: A biocultural investigation of the intergenerational effects of war (2012-2016) - $353,328
+  Funder: Directorate for Social, Behavioral & Economic Sciences
+
+Research Categories (from Dimensions.ai):
+32 Biomedical and Clinical Sciences; 42 Health Sciences; 4202 Epidemiology; 4206 Public Health; 44 Human Society
+
+Key Research Concepts (from Dimensions.ai):
+MenB vaccine; physician recommendation; MenB vaccination coverage; confirmatory studies; health care provider recommendation; prevalence of anemia; agro-ecological zones; odds of anemia; low packed cell volume; risk of anemia
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Institut Sénégalais de Recherches Agricoles
+- Ministeré de la Santé et de l'action Sociale, Dakar, Senegal
+- Emory University
+- Avnee Foundation, Gainesville, FL, USA
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.5/10
+Percentile: Top 72% of Water Institute faculty
+Rankings by Research Category:
+- Epidemiology: #1 of 2
+- Public Health: #4 of 4
+- Health Sciences: #5 of 7

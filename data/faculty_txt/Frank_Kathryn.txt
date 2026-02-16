@@ -34,3 +34,46 @@ Water & Policy Relevance:
 
 Keywords:
 Urban design; climate resilience; green infrastructure; landscape planning; stormwater management; urban sustainability; nature-based solutions; runoff reduction; flood resilience; climate adaptation; urban planning; nutrient runoff; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 19
+- Total Citations: 265
+- H-Index: 10
+- Average Citations per Paper: 13.9
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 1.6 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Bringing Rurality Back to Planning Culture *Journal of Planning Education and Research* (2021) - 11 citations
+  DOI: https://doi.org/10.1177/0739456x211048933
+- What Happened to Rural Community and Regional Development? The Evolution of a Planning Idea *Journal of Planning History* (2024) - 1 citations
+  DOI: https://doi.org/10.1177/15385132241266622
+- TVA and the Grass Roots at 75: The Legacy of a Planning Classic *Journal of Planning Literature* (2023) - 1 citations
+  DOI: https://doi.org/10.1177/08854122231187573
+- Reviving the Cultural Dimension of Rural Regional Planning: Lessons from Howard W. Odum and the Cultural Regionalists *Planning Theory & Practice* (2022) - 1 citations
+  DOI: https://doi.org/10.1080/14649357.2022.2141844
+- What Can Rural Planning Learn from Community Development? Some Lessons Moving Forward *Journal of the American Planning Association* (2025)
+  DOI: https://doi.org/10.1080/01944363.2025.2541013
+- Mark Scott, John Sturzaker, Nick Gallent, Gavin Parker, Amy Burnett and Ian Mell (eds), Rural Planning Futures: Principles, Policy and Practice in the UK and Ireland *Town Planning Review* (2025)
+  DOI: https://doi.org/10.3828/tpr.2025.24
+- Historic Town-Gown Partnerships: Planning, Race, and Power *Journal of Planning History* (2024)
+  DOI: https://doi.org/10.1177/15385132241265981
+
+Research Categories (from Dimensions.ai):
+33 Built Environment and Design; 3304 Urban and Regional Planning; 4303 Historical Studies; 43 History, Heritage and Archaeology; 3901 Curriculum and Pedagogy
+
+Key Research Concepts (from Dimensions.ai):
+rural planning; urban bias; planning culture; planning scholarship; rural areas; regional development planning; rural places; reformist approach; Great Recession; co-option
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Oregon
+- University of Toronto
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.7/10
+Percentile: Top 62% of Water Institute faculty
+Rankings by Research Category:
+- Urban and Regional Planning: #1 of 3
+- Historical Studies: #2 of 5
+- History, Heritage and Archaeology: #2 of 4

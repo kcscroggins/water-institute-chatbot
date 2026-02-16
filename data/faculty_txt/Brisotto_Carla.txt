@@ -25,3 +25,42 @@ Water & Policy Relevance:
 
 Keywords:
 FIBER; built environment resilience; climate adaptation; infrastructure resilience; disaster resilience; coastal resilience; urban resilience; interdisciplinary coordination; research administration; partnerships; strategic planning; climate policy; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 6
+- Total Citations: 7
+- H-Index: 1
+- Average Citations per Paper: 1.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 0.71 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Rethinking the Urban–Rural Relationships and Productive Urban Landscapes *Cities and Nature* (2022) - 2 citations
+  DOI: https://doi.org/10.1007/978-3-030-90445-6_1
+- Community perception and stewardship of public coastal infrastructure in Cedar Key, Florida *Frontiers in Marine Science* (2025) - 1 citations
+  DOI: https://doi.org/10.3389/fmars.2025.1639887
+- Disasters “Through the looking glass” *Disaster Prevention and Management An International Journal* (2023) - 1 citations
+  DOI: https://doi.org/10.1108/dpm-06-2023-0134
+- Farming the Contemporary City: Lessons of Polycentrism, Innovation, and Value-Making from the Past (2022) - 1 citations
+  DOI: https://doi.org/10.1007/978-3-030-85847-6_12
+- Thinking Utopia: A Resilient Approach to Productive Landscapes by Yona Friedman *Cities and Nature* (2022) - 1 citations
+  DOI: https://doi.org/10.1007/978-3-030-90445-6_15
+
+Research Categories (from Dimensions.ai):
+44 Human Society; 4406 Human Geography; 4410 Sociology; 3708 Oceanography; 31 Biological Sciences
+
+Key Research Concepts (from Dimensions.ai):
+productive urban landscapes; urban landscape; food security; food systems; urban-rural relationship; coastal infrastructure; Cedar Key; community stewardship; habitat degradation; public perception
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Institute of Food and Agricultural Sciences
+- Politecnico di Milano
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.1/10
+Percentile: Top 97% of Water Institute faculty
+Rankings by Research Category:
+- Sociology: #3 of 4
+- Human Geography: #4 of 6
+- Oceanography: #8 of 8

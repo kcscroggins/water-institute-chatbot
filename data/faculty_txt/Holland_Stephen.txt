@@ -26,3 +26,39 @@ Water & Policy Relevance:
 
 Keywords:
 Tourism; outdoor recreation; nature-based tourism; park management; visitor behavior; natural resource valuation; sustainable tourism; environmental quality; recreation economics; protected areas; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 44
+- Total Citations: 1993
+- H-Index: 23
+- Average Citations per Paper: 45.3
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 28.5 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- EXCESS workshop: Descriptions of rising low-energy spectra *SciPost Physics Proceedings* (2022) - 80 citations
+  DOI: https://doi.org/10.21468/scipostphysproc.9.001
+- The role of place attachment in recreation experience and outcome preferences among forest bathers *Journal of Outdoor Recreation and Tourism* (2021) - 46 citations
+  DOI: https://doi.org/10.1016/j.jort.2021.100410
+
+Research Categories (from Dimensions.ai):
+5106 Nuclear and Plasma Physics; 51 Physical Sciences; 3508 Tourism; 35 Commerce, Management, Tourism and Services
+
+Key Research Concepts (from Dimensions.ai):
+low-energy spectrum; spectra; excess; workshop; well-being outcomes; well-being benefits; outcomes-focused; mindful walking; South Korea
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Paris-Saclay
+- Claude Bernard Lyon 1 University
+- Grenoble Alpes University
+- Queen's University
+- Max Planck Institute for Physics
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.7/10
+Percentile: Top 9% of Water Institute faculty
+Rankings by Research Category:
+- Commerce, Management, Tourism and Services: #1 of 13
+- Tourism: #1 of 3
+- Nuclear and Plasma Physics: #1 of 1

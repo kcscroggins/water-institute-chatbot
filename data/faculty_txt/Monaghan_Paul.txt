@@ -28,3 +28,61 @@ Dr. Monaghan produces empirical evidence on how environmental and agricultural i
 
 Keywords:
 agricultural communication; environmental communication; science communication; risk communication; public perception; message framing; audience segmentation; trust in science; stakeholder engagement; survey research; Extension; policy communication; behavior change; water quality communication
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 52
+- Total Citations: 396
+- H-Index: 11
+- Average Citations per Paper: 7.6
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.45 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- A roadmap for the functional annotation of protein families: a community perspective *Database* (2022) - 58 citations
+  DOI: https://doi.org/10.1093/database/baac062
+- Risk factors associated with indicators of dehydration among migrant farmworkers *Environmental Research* (2024) - 8 citations
+  DOI: https://doi.org/10.1016/j.envres.2024.118633
+- Seeds, soil and social connections: growing community in community gardens *SN Social Sciences* (2021) - 4 citations
+  DOI: https://doi.org/10.1007/s43545-021-00249-9
+- Exploring the adoption of a cooperating teacher preparation program in agricultural education *Advancements in Agricultural Development* (2024) - 1 citations
+  DOI: https://doi.org/10.37433/aad.v5i4.505
+- Frequently Asked Questions about Stormwater Wet Ponds: AEC807/WC468, 8/2024 *EDIS* (2024) - 1 citations
+  DOI: https://doi.org/10.32473/edis-wc468-2024
+- Social Vulnerabilities Among Hired Migrant and Seasonal Farmworkers During COVID-19: The Need for Employment-Based Indicators *Journal of Agromedicine* (2024) - 1 citations
+  DOI: https://doi.org/10.1080/1059924x.2024.2388869
+- Developing Successful Extension Tree Stewardship Programs: AEC827/WC489, 8/2025 *EDIS* (2025)
+  DOI: https://doi.org/10.32473/edis-wc489-2025
+- “Can you just tell me-is it safe or not?” key challenges and lessons from communicators about red tide in Florida *Journal of Environmental Management* (2025)
+  DOI: https://doi.org/10.1016/j.jenvman.2025.126835
+- Ripple Effects Mapping for Extension Program Evaluation: AEC820/WC482, 4/2025 *EDIS* (2025)
+  DOI: https://doi.org/10.32473/edis-wc482-2025
+- Dissemination of Heat Safety Practices Among Florida Farmworker Crews *Journal of Occupational and Environmental Medicine* (2025)
+  DOI: https://doi.org/10.1097/jom.0000000000003421
+
+Research Grants (from Dimensions.ai):
+- DISES: Valuing and managing engineered ecosystems: Primary and secondary services provided by stormwater ponds in urban landscapes (2023-2027) - $1,599,994
+  Funder: Directorate for Biological Sciences
+- Evaluating Approaches to Landscape Sustainability Using Community Based Social Marketing (2011-2015)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+42 Health Sciences; 4206 Public Health; 35 Commerce, Management, Tourism and Services; 31 Biological Sciences; 39 Education
+
+Key Research Concepts (from Dimensions.ai):
+extension agents; heat-related illness; low-income households; utility expenses; energy use; Department of Agricultural Education; accurate functional annotation; functional annotation; protein family; genome biology
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Illinois at Chicago
+- New England Biolabs Foundation
+- Lawrence Berkeley National Laboratory
+- National Center for Biotechnology Information
+- Farmworker Association of Florida
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.9/10
+Percentile: Top 54% of Water Institute faculty
+Rankings by Research Category:
+- Education: #3 of 9
+- Public Health: #3 of 4
+- Health Sciences: #4 of 7

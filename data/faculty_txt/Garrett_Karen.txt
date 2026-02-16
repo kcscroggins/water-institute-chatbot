@@ -26,3 +26,55 @@ Water & Policy Relevance:
 
 Keywords:
 Plant pathology; disease epidemiology; climate-disease interactions; landscape ecology; risk modeling; agroecosystem resilience; crop disease; climate adaptation; pathogen dynamics; agricultural systems; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 72
+- Total Citations: 2365
+- H-Index: 23
+- Average Citations per Paper: 32.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 14.2 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- The persistent threat of emerging plant disease pandemics to global food security *Proceedings of the National Academy of Sciences of the United States of America* (2021) - 705 citations
+  DOI: https://doi.org/10.1073/pnas.2022239118
+- The Role of Plant-Associated Bacteria, Fungi, and Viruses in Drought Stress Mitigation *Frontiers in Microbiology* (2021) - 163 citations
+  DOI: https://doi.org/10.3389/fmicb.2021.743512
+- The Use of Synthetic Microbial Communities to Improve Plant Health. *Phytopathology* (2023) - 84 citations
+  DOI: https://doi.org/10.1094/phyto-01-23-0016-ia
+- Climate Change and Pathways Used by Pests as Challenges to Plant Health in Agriculture and Forestry *Sustainability* (2022) - 76 citations
+  DOI: https://doi.org/10.3390/su141912421
+- “Breaking through the 40% adoption ceiling: Mind the seed system gaps.” A perspective on seed systems research for development in One CGIAR *Outlook on Agriculture* (2021) - 56 citations
+  DOI: https://doi.org/10.1177/0030727021989346
+- Assessing Changes and Associations in the Xanthomonas perforans Population Across Florida Commercial Tomato Fields Via a Statewide Survey. *Phytopathology* (2021) - 40 citations
+  DOI: https://doi.org/10.1094/phyto-09-20-0402-r
+- An integrated seed health strategy and phytosanitary risk assessment: Potato in the Republic of Georgia *Agricultural Systems* (2021) - 26 citations
+  DOI: https://doi.org/10.1016/j.agsy.2021.103144
+- Disaster Plant Pathology: Smart Solutions for Threats to Global Plant Health from Natural and Human-Driven Disasters. *Phytopathology* (2024) - 25 citations
+  DOI: https://doi.org/10.1094/phyto-03-24-0079-fi
+- Impact network analysis and the ina r package: Decision support for regional management interventions *Methods in Ecology and Evolution* (2021) - 23 citations
+  DOI: https://doi.org/10.1111/2041-210x.13655
+- Variety and on-farm seed management practices affect potato seed degeneration in the tropical highlands of Ecuador *Agricultural Systems* (2022) - 21 citations
+  DOI: https://doi.org/10.1016/j.agsy.2022.103387
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 30 Agricultural, Veterinary and Food Sciences; 3107 Microbiology; 3004 Crop and Pasture Production; 3108 Plant Biology
+
+Key Research Concepts (from Dimensions.ai):
+plant health; seed systems; global food security; plant diseases; banana seed systems; food security; nutritious food supply; pathogenic lineages; plant disease outbreaks; plant-associated bacteria
+
+Top Collaborating Institutions (from Dimensions.ai):
+- International Potato Center
+- Institute of Food and Agricultural Sciences
+- Wageningen University & Research
+- CGIAR Research Program on Roots Tubers and Bananas, Lima, Peru
+- International Institute of Tropical Agriculture
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.2/10
+Percentile: Top 15% of Water Institute faculty
+Rankings by Research Category:
+- Microbiology: #2 of 20
+- Plant Biology: #3 of 18
+- Crop and Pasture Production: #9 of 41

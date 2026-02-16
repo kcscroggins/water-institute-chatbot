@@ -35,3 +35,61 @@ Professional Service:
 
 Keywords:
 Remote sensing; geospatial analysis; GIS; UAS/drone imagery; LiDAR; hyperspectral imaging; wetland classification; precision agriculture; soil and water quality modeling; ecosystem monitoring; deep learning; CNN; image classification; submerged aquatic vegetation; avocado disease detection.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 65
+- Total Citations: 2312
+- H-Index: 27
+- Average Citations per Paper: 35.6
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 5.51 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Remote Sensing and Machine Learning in Crop Phenotyping and Management, with an Emphasis on Applications in Strawberry Farming *Remote Sensing* (2021) - 104 citations
+  DOI: https://doi.org/10.3390/rs13030531
+- Prediction of Strawberry Dry Biomass from UAV Multispectral Imagery Using Multiple Machine Learning Methods *Remote Sensing* (2022) - 47 citations
+  DOI: https://doi.org/10.3390/rs14184511
+- Deep and Machine Learning Image Classification of Coastal Wetlands Using Unpiloted Aircraft System Multispectral Images and Lidar Datasets *Remote Sensing* (2022) - 44 citations
+  DOI: https://doi.org/10.3390/rs14163937
+- Deep Learning for Strawberry Canopy Delineation and Biomass Prediction from High-Resolution Images *Plant Phenomics* (2022) - 43 citations
+  DOI: https://doi.org/10.34133/2022/9850486
+- Carbon and nitrogen pools and mobile fractions in surface soils across a mangrove saltmarsh ecotone *The Science of The Total Environment* (2021) - 20 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2021.149328
+- Accuracy Assessment of Low-Cost Lidar Scanners: An Analysis of the Velodyne HDL–32E and Livox Mid–40’s Temporal Stability *Remote Sensing* (2022) - 18 citations
+  DOI: https://doi.org/10.3390/rs14174220
+- Automated High-Resolution Bathymetry from Sentinel-1 SAR Images in Deeper Nearshore Coastal Waters in Eastern Florida *Remote Sensing* (2023) - 16 citations
+  DOI: https://doi.org/10.3390/rs16010001
+- Deep Learning Classification of High-Resolution Drone Images Using the ArcGIS Pro Software: FOR374/FR444, 10/2021 *EDIS* (2021) - 16 citations
+  DOI: https://doi.org/10.32473/edis-fr444-2021
+- Object-Detection from Multi-View remote sensing Images: A case study of fruit and flower detection and counting on a central Florida strawberry farm *International Journal of Applied Earth Observation and Geoinformation* (2023) - 15 citations
+  DOI: https://doi.org/10.1016/j.jag.2023.103457
+- Improving Strawberry Yield Prediction by Integrating Ground-Based Canopy Images in Modeling Approaches *ISPRS International Journal of Geo-Information* (2021) - 15 citations
+  DOI: https://doi.org/10.3390/ijgi10040239
+
+Research Grants (from Dimensions.ai):
+- Blended Learning in a Geographically Distributed Education System for Geomatics Students (2021-2027) - $973,925
+  Funder: Directorate for STEM Education
+- Using Ground-based Spectral Measurements for Vegetation Characterization (2008-2013)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+40 Engineering; 4013 Geomatic Engineering; 37 Earth Sciences; 3704 Geoinformatics; 31 Biological Sciences
+
+Key Research Concepts (from Dimensions.ai):
+unmanned aerial vehicles; ArcGIS Pro software; remote sensing data; vegetation index; strawberry farms; high-throughput phenotyping technologies; measurement of plant characteristics; fruit quality; fruit maturation; multivariate adaptive regression splines
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of South Florida
+- Beijing Forestry University
+- University of Agriculture Faisalabad
+- Michigan Technological University
+- School of Forest, Fisheries, and Geomatics Sciences, Gainesville, FL 32603, USA
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.2/10
+Percentile: Top 15% of Water Institute faculty
+Rankings by Research Category:
+- Geomatic Engineering: #1 of 9
+- Geoinformatics: #2 of 7
+- Engineering: #10 of 53

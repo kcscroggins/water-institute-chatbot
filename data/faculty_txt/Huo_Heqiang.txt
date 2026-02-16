@@ -26,3 +26,64 @@ Water & Policy Relevance:
 
 Keywords:
 Crop nutrition; water management; specialty crops; nutrient-use efficiency; applied agronomy; production systems; irrigation; fertilizer management; BMPs; Mid-Florida REC; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 63
+- Total Citations: 1440
+- H-Index: 19
+- Average Citations per Paper: 22.9
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 7.31 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Application of developmental regulators to improve in planta or in vitro transformation in plants *Plant Biotechnology Journal* (2022) - 112 citations
+  DOI: https://doi.org/10.1111/pbi.13837
+- Effects of Maternal Environment on Seed Germination and Seedling Vigor of Petunia × hybrida under Different Abiotic Stresses *Plants* (2021) - 30 citations
+  DOI: https://doi.org/10.3390/plants10030581
+- Editing the CsDMR6 gene in citrus results in resistance to the bacterial disease citrus canker *Horticulture Research* (2022) - 29 citations
+  DOI: https://doi.org/10.1093/hr/uhac082
+- Eco-friendly managements and molecular mechanisms for improving postharvest quality and extending shelf life of kiwifruit: A review *International Journal of Biological Macromolecules* (2023) - 24 citations
+  DOI: https://doi.org/10.1016/j.ijbiomac.2023.128450
+- Postharvest treatment with Bacillus velezensis LX mitigates disease incidence and alters the microbiome on kiwifruit surface *Postharvest Biology and Technology* (2024) - 22 citations
+  DOI: https://doi.org/10.1016/j.postharvbio.2024.112843
+- Gap-free genome assemblies of two Pyrus bretschneideri cultivars and GWAS analyses identify a CCCH zinc finger protein as a key regulator of stone cell formation in pear fruit *Plant Communications* (2024) - 19 citations
+  DOI: https://doi.org/10.1016/j.xplc.2024.101238
+- Effect of explant type, culture medium, and BAP concentration on in vitro shoot development in highbush blueberry (Vaccinium corymbosum L.) cultivars *In Vitro Cellular & Developmental Biology - Plant* (2022) - 19 citations
+  DOI: https://doi.org/10.1007/s11627-022-10299-0
+- Improvement of crop production in controlled environment agriculture through breeding *Frontiers in Plant Science* (2025) - 15 citations
+  DOI: https://doi.org/10.3389/fpls.2024.1524601
+- Genetic mapping reveals complex architecture and candidate genes involved in common bean response to Meloidogyne incognita infection *The Plant Genome* (2021) - 15 citations
+  DOI: https://doi.org/10.1002/tpg2.20161
+- A Biomimetic Nanoparticle for pDNA Delivery and Expression in Plant Cells in a pH-Dependent Manner *ACS Agricultural Science & Technology* (2023) - 10 citations
+  DOI: https://doi.org/10.1021/acsagscitech.3c00068
+
+Research Grants (from Dimensions.ai):
+- Effects of Active Oxygen on the Germination of Leymus chinensis Seeds and Its Mechanism (2018-2020) - $36,728
+  Funder: National Natural Science Foundation of China
+
+Patents (from Dimensions.ai):
+- T-DNA Free Gene Editing through Transient Suppressing POLQ in Plants (2023)
+- IMPROVED GENETIC TRANSFORMATION BY IMPROVING DE-NOVO SHOOT REGENERATION IN ADULT PLANTS AND DURING IN-VITRO TISSUE CULTURE (2022) - 1 citations
+- IMPROVED GENETIC TRANSFORMATION BY IMPROVING DE-NOVO SHOOT REGENERATION IN ADULT PLANTS AND DURING IN-VITRO TISSUE CULTURE (2022) - 1 citations
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 31 Biological Sciences; 3108 Plant Biology; 3004 Crop and Pasture Production; 3008 Horticultural Production
+
+Key Research Concepts (from Dimensions.ai):
+shoot regeneration; abscisic acid; flowering time; planta transformation; regeneration of transformed shoots; transformation efficiency; plant genetic transformation; seedling vigor; mother plant; seed germination
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Jiangxi Academy of Sciences
+- Anhui Agricultural University
+- Shandong Agricultural University
+- Guangdong Academy of Agricultural Sciences
+- South China Agricultural University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.6/10
+Percentile: Top 27% of Water Institute faculty
+Rankings by Research Category:
+- Horticultural Production: #4 of 13
+- Plant Biology: #6 of 18
+- Crop and Pasture Production: #22 of 41

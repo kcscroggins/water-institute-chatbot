@@ -23,3 +23,67 @@ Notable Positions:
 
 Keywords:
 STEM education; cyberlearning; curriculum development; educational technology design; science teaching and learning; inclusive education; inquiry-based instruction.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 58
+- Total Citations: 856
+- H-Index: 15
+- Average Citations per Paper: 14.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 6.82 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- The varied experience of undergraduate students learning chemistry in virtual reality laboratories *Computers & Education* (2021) - 73 citations
+  DOI: https://doi.org/10.1016/j.compedu.2021.104320
+- Virtual Telepresence for the Future of ROV Teleoperations: Opportunities and Challenges (2022) - 23 citations
+  DOI: https://doi.org/10.5957/tos-2022-015
+- Computational Thinking Integration into Pre-Service Science Teacher Education: A Systematic Review *Journal of Science Teacher Education* (2024) - 14 citations
+  DOI: https://doi.org/10.1080/1046560x.2024.2390758
+- Artificial Intelligence in Science Education Research: Current States and Challenges *Journal of Science Education and Technology* (2025) - 8 citations
+  DOI: https://doi.org/10.1007/s10956-025-10239-8
+- The varied experience of undergraduate students during the transition to mandatory online chem lab during the initial lockdown of the COVID-19 pandemic *Disciplinary and Interdisciplinary Science Education Research* (2022) - 8 citations
+  DOI: https://doi.org/10.1186/s43031-022-00055-0
+- Promoting Inclusive Visits to a Natural History Museum with a Pre-Visit VR Tour for Autistic Families *Research in Science Education* (2024) - 6 citations
+  DOI: https://doi.org/10.1007/s11165-024-10207-z
+- Social Paleontology on Twitter: A Case Study of Topic Archetypes, Network Composition, and Structure *Social Media + Society* (2022) - 6 citations
+  DOI: https://doi.org/10.1177/20563051221080475
+- The use of educational technology in inquiry-based elementary science education: a systematic review *International Journal of Science Education* (2023) - 5 citations
+  DOI: https://doi.org/10.1080/09500693.2023.2284689
+- A systematic review of the use of virtual reality in formal, informal, and non-formal learning environments for individuals with autism *Interactive Learning Environments* (2024) - 4 citations
+  DOI: https://doi.org/10.1080/10494820.2024.2405702
+- A structural model of student experiences in a career‐forward chemistry laboratory curriculum *Journal of Research in Science Teaching* (2023) - 3 citations
+  DOI: https://doi.org/10.1002/tea.21860
+
+Research Grants (from Dimensions.ai):
+- Equity-Focused, Evidence-Based Proactive Advising in Mechanical and Aerospace Engineering (2023-2026) - $398,172
+  Funder: Directorate for STEM Education
+- Collaborative Research: Research Initiation: Factors Affecting Latina Engineering Student Decisions to Enter Graduate School or Engineering Career Pathways (2023-2025) - $149,989
+  Funder: Directorate for Engineering
+- FW-HTF-R/Collaborative Research: Human-Robot Sensory Transfer for Worker Productivity, Training, and Quality of Life in Remote Undersea Inspection and Construction Tasks (2021-2026) - $1,473,425
+  Funder: Directorate for Engineering
+- ChANgE Chem Lab: Cognitive Apprenticeship for Engineers in Chem Lab (2016-2021) - $599,333
+  Funder: Directorate for STEM Education
+- Full-scale Development: FOSSIL--Fostering Opportunities for Synergistic STEM with Informal Learners (2013-2019) - $2,127,912
+  Funder: Directorate for STEM Education
+
+Research Categories (from Dimensions.ai):
+39 Education; 3901 Curriculum and Pedagogy; 3903 Education Systems; 40 Engineering; 4010 Engineering Practice and Education
+
+Key Research Concepts (from Dimensions.ai):
+general chemistry laboratory; VR-Lab; remotely operated vehicle; science education; online communities; social network analysis; URM students; engineering majors; task value beliefs; motivational beliefs
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Tennessee Knoxville
+- University of Georgia
+- American Bureau of Shipping
+- University of Hawaiʻi at Mānoa
+- Utah State University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.5/10
+Percentile: Top 29% of Water Institute faculty
+Rankings by Research Category:
+- Curriculum and Pedagogy: #1 of 5
+- Education Systems: #1 of 3
+- Engineering Practice and Education: #1 of 1

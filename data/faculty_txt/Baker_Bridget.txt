@@ -50,3 +50,55 @@ Representative Expertise & Themes:
 
 Keywords:  
 Aquatic animal health; wildlife disease ecology; marine mammals; One Health; aquatic toxicology; PFAS contamination; stranded animal response; fish pathology; sea turtle health; environmental health surveillance; conservation medicine.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 10
+- Total Citations: 76
+- H-Index: 5
+- Average Citations per Paper: 7.6
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.42 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Nonlethal detection of PFAS bioaccumulation and biomagnification within fishes in an urban- and wastewater-dominant Great Lakes watershed *Environmental Pollution* (2023) - 35 citations
+  DOI: https://doi.org/10.1016/j.envpol.2023.121123
+- Developmental Phenotypic and Transcriptomic Effects of Exposure to Nanomolar Levels of 4-Nonylphenol, Triclosan, and Triclocarban in Zebrafish (Danio rerio) *Toxics* (2022) - 14 citations
+  DOI: https://doi.org/10.3390/toxics10020053
+- Identification and quantification of novel per- and polyfluoroalkyl substances (PFAS) contamination in a Great Lakes urban-dominated watershed *The Science of The Total Environment* (2024) - 11 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2024.173325
+- Adult-Onset Transcriptomic Effects of Developmental Exposure to Benzene in Zebrafish (Danio rerio): Evaluating a Volatile Organic Compound of Concern *International Journal of Molecular Sciences* (2023) - 7 citations
+  DOI: https://doi.org/10.3390/ijms242216212
+- Phenotypic and transcriptomic effects of developmental exposure to nanomolar levels of pesticides in zebrafish *Environmental Advances* (2022) - 5 citations
+  DOI: https://doi.org/10.1016/j.envadv.2021.100151
+- Facts about Wildlife Diseases: Highly Pathogenic Avian Influenza (HPAI): WEC457/UW502, 2/2023 *EDIS* (2023) - 2 citations
+  DOI: https://doi.org/10.32473/edis-uw502-2023
+- Developmental exposure to 1,4-dioxane, a volatile organic compound of emerging concern, induces immediate phenotypic, transcriptomic, and adult-onset neurodevelopmental effects *Toxicological Sciences* (2025) - 1 citations
+  DOI: https://doi.org/10.1093/toxsci/kfaf063
+- Facts about Wildlife Diseases: Chronic Wasting Disease (CWD): WEC471/UW529, 2/2025 *EDIS* (2025) - 1 citations
+  DOI: https://doi.org/10.32473/edis-uw529-2025
+- Developmental exposure to ethylbenzene: Elucidating the effects of volatile organic compounds on phenotypic and transcriptomic endpoints using zebrafish (Danio rerio) *Journal of Hazardous Materials* (2025)
+  DOI: https://doi.org/10.1016/j.jhazmat.2025.140620
+- Datos sobre las enfermedades de la fauna salvaje: Caquexia Crónica (CWD) : WEC471S/UW540 8/2025 *EDIS* (2025)
+  DOI: https://doi.org/10.32473/edis-uw540-2025
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 4105 Pollution and Contamination; 30 Agricultural, Veterinary and Food Sciences; 32 Biomedical and Clinical Sciences; 3005 Fisheries Sciences
+
+Key Research Concepts (from Dimensions.ai):
+volatile organic compounds; polyfluoroalkyl substances; volatile organic compound exposure; organic compounds; human health impacts; food webs; protein-rich tissues; regulation of PFAS; levels of 4-nonylphenol; exposure to 4-nonylphenol
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Wayne State University
+- Institute of Environmental Health Sciences, Wayne State University, Detroit, MI 48202, USA;, jessica.montrief@wayne.edu, (J.P.);, alexhaim@wayne.edu, (A.S.H.);, cakemann14@gmail.com, (C.A.);, jshields@wayne.edu, (J.N.S.);, chiachenwu@ufl.edu, (C.-C.W.);, danielle.meyer@ufl.edu, (D.N.M.);, bridgetbaker@ufl.edu, (B.B.B.)
+- National Yang Ming Chiao Tung University
+- University of Wisconsin-Madison
+- Institute of Food and Agricultural Sciences
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.4/10
+Percentile: Top 76% of Water Institute faculty
+Rankings by Research Category:
+- Pollution and Contamination: #12 of 13
+- Fisheries Sciences: #12 of 12
+- Biomedical and Clinical Sciences: #24 of 30

@@ -19,3 +19,55 @@ Notable Publications:
 
 Keywords:
 Soil physics; remote sensing; soil moisture monitoring; hydraulic properties characterization; environmental modeling; data fusion techniques; climate and water cycle processes.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 11
+- Total Citations: 94
+- H-Index: 4
+- Average Citations per Paper: 8.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 5.35 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Short- and mid-term forecasts of actual evapotranspiration with deep learning *Journal of Hydrology* (2022) - 65 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2022.128078
+- The Feasibility of Remotely Sensed Near-Infrared Reflectance for Soil Moisture Estimation for Agricultural Water Management *Remote Sensing* (2023) - 7 citations
+  DOI: https://doi.org/10.3390/rs15112736
+- An improved van Genuchten soil water characteristic model to account for surface adsorptive forces *Journal of Hydrology* (2025) - 6 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2025.133692
+- Surface and Subsurface Soil Moisture Estimation Using Fusion of SMAP, NLDAS-2, and SOLUS100 Data with Deep Learning *Remote Sensing* (2025) - 4 citations
+  DOI: https://doi.org/10.3390/rs17040659
+- Estimating soil hydraulic properties from oven-dry to full saturation using shortwave infrared imaging and inverse modeling *Journal of Hydrology* (2024) - 4 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2024.131132
+- Proximal sensing of soil moisture (2023) - 3 citations
+  DOI: https://doi.org/10.1016/b978-0-12-822974-3.00157-9
+- Deep Learning-Based Short- and Mid-Term Surface and Subsurface Soil Moisture Projections from Remote Sensing and Digital Soil Maps *Remote Sensing* (2025) - 2 citations
+  DOI: https://doi.org/10.3390/rs17183219
+- Emerging issues and research opportunities in vadose zone processes *Vadose Zone Journal* (2025) - 2 citations
+  DOI: https://doi.org/10.1002/vzj2.70030
+- AutoRA: an innovative algorithm for automatic delineation of reference areas in support of smart soil sampling and digital soil twins *Frontiers in Soil Science* (2025) - 1 citations
+  DOI: https://doi.org/10.3389/fsoil.2025.1557566
+- Field evaluation of the SoilVUE10 time domain reflectometry soil moisture profiling sensor under different installation methods *Vadose Zone Journal* (2025)
+  DOI: https://doi.org/10.1002/vzj2.70060
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 41 Environmental Sciences; 4106 Soil Sciences; 3707 Hydrology; 4013 Geomatic Engineering
+
+Key Research Concepts (from Dimensions.ai):
+Moderate Resolution Imaging Spectroradiometer; Soil Moisture Active Passive; digital soil mapping; soil moisture; reference area; Nash–Sutcliffe efficiency; impacts of climate change; actual evapotranspiration; ground measurements; ground soil moisture measurements
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Universidade Federal Rural do Rio de Janeiro
+- University of Arizona
+- Utah State University
+- California Natural Resources Agency
+- Washington State University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.5/10
+Percentile: Top 72% of Water Institute faculty
+Rankings by Research Category:
+- Geomatic Engineering: #8 of 9
+- Soil Sciences: #11 of 14
+- Hydrology: #15 of 18

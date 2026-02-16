@@ -15,3 +15,61 @@ Teaching:
 
 Keywords:
 Landscape biogeochemistry; global biogeochemical cycles; terrestrial nutrient dynamics; land carbon sequestration; climate change modeling; nitrogen cycling; prescribed fire effects; Earth system models.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 38
+- Total Citations: 866
+- H-Index: 15
+- Average Citations per Paper: 22.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.83 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Empirical and Earth system model estimates of boreal nitrogen fixation often differ: A pathway toward reconciliation *Global Change Biology* (2021) - 20 citations
+  DOI: https://doi.org/10.1111/gcb.15836
+- Soil carbon characterization in a subtropical drained peatland *Geoderma* (2021) - 20 citations
+  DOI: https://doi.org/10.1016/j.geoderma.2020.114758
+- Short-term prescribed fire-induced changes in soil microbial communities and nutrients in native rangelands of Florida *Applied Soil Ecology* (2023) - 15 citations
+  DOI: https://doi.org/10.1016/j.apsoil.2023.104914
+- Theoretical insights from upscaling Michaelis–Menten microbial dynamics in biogeochemical models: a dimensionless approach *Biogeosciences* (2021) - 13 citations
+  DOI: https://doi.org/10.5194/bg-18-5669-2021
+- Water management effect on soil oxidation, greenhouse gas emissions, and nitrogen leaching in drained peat soils *Soil Science Society of America Journal* (2021) - 12 citations
+  DOI: https://doi.org/10.1002/saj2.20247
+- Hyperspectral signals in the soil: Plant–soil hydraulic connection and disequilibrium as mechanisms of drought tolerance and rapid recovery *Plant Cell & Environment* (2024) - 6 citations
+  DOI: https://doi.org/10.1111/pce.15011
+- HyperPRI: A dataset of hyperspectral images for underground plant root study *Computers and Electronics in Agriculture* (2024) - 5 citations
+  DOI: https://doi.org/10.1016/j.compag.2024.109307
+- Effects of increasing complexity in biogeochemistry and hydrology on variability of total phosphorus concentration in models of a low flow subtropical wetland *Ecological Engineering* (2024) - 3 citations
+  DOI: https://doi.org/10.1016/j.ecoleng.2023.107131
+- HyperPRI: A Dataset of Hyperspectral Images for Underground Plant Root Study *bioRxiv* (2023) - 1 citations
+  DOI: https://doi.org/10.1101/2023.09.29.559614
+- Assessing the risk perception of soil degradation using a college student sample *Soil Security* (2023) - 1 citations
+  DOI: https://doi.org/10.1016/j.soisec.2022.100083
+
+Research Grants (from Dimensions.ai):
+- Climate sensitivity of microbial processes and their implication for carbon sequestration and greenhouse gas fluxes in subtropical pastures (2016-2021) - $710,000
+  Funder: National Institute of Food and Agriculture
+- Modeling Coupled Biogeochemistry under Global Environmental Change (2012-2017)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 31 Biological Sciences; 30 Agricultural, Veterinary and Food Sciences; 3103 Ecology; 4106 Soil Sciences
+
+Key Research Concepts (from Dimensions.ai):
+Everglades Agricultural Area; soil microbial communities; native rangeland; decomposition of soil organic matter; patterns of CO2 efflux; contemporary biogeochemical models; agents of decomposition; plant roots; sweet corn; crop plants
+
+Top Collaborating Institutions (from Dimensions.ai):
+- affiliation not provided to SSRN
+- Institute of Food and Agricultural Sciences
+- Swedish University of Agricultural Sciences
+- Texas AM Agrilife Research and Extension Center, Amarillo, TX, United States of America
+- Saint Johns River Water Management District, Palatka, FL, 32177, USA
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.2/10
+Percentile: Top 40% of Water Institute faculty
+Rankings by Research Category:
+- Soil Sciences: #7 of 14
+- Ecology: #28 of 59
+- Agricultural, Veterinary and Food Sciences: #44 of 99

@@ -28,3 +28,55 @@ Dr. Reisinger's work informs freshwater conservation and invasive species manage
 
 Keywords:
 freshwater ecology; community ecology; benthic invertebrates; invasive species; biodiversity; aquatic ecosystems; lakes; rivers; streams; environmental gradients; community structure; trophic interactions; conservation; ecosystem management
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 19
+- Total Citations: 215
+- H-Index: 8
+- Average Citations per Paper: 11.3
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.68 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Identifying invasive species threats, pathways, and impacts to improve biosecurity *Ecosphere* (2023) - 34 citations
+  DOI: https://doi.org/10.1002/ecs2.4711
+- Exposure to a common antidepressant alters crayfish behavior and has potential subsequent ecosystem impacts *Ecosphere* (2021) - 33 citations
+  DOI: https://doi.org/10.1002/ecs2.3527
+- Revising the Freshwater Thelohania to Astathelohania gen. et comb. nov., and Description of Two New Species *Microorganisms* (2022) - 16 citations
+  DOI: https://doi.org/10.3390/microorganisms10030636
+- Alternosema astaquatica n. sp. (Microsporidia: Enterocytozoonida), a systemic parasite of the crayfish Faxonius virilis *Journal of Invertebrate Pathology* (2023) - 10 citations
+  DOI: https://doi.org/10.1016/j.jip.2023.107948
+- The plot thickens: Ovipleistophora diplostomuri infects two additional species of Florida crayfish *Journal of Invertebrate Pathology* (2022) - 10 citations
+  DOI: https://doi.org/10.1016/j.jip.2022.107766
+- Microsporidia and invertebrate hosts: genome-informed taxonomy surrounding a new lineage of crayfish-infecting Nosema spp. (Nosematida) *Fungal Diversity* (2024) - 8 citations
+  DOI: https://doi.org/10.1007/s13225-024-00543-w
+- Cambaraspora faxoni n. sp. (Microsporidia: Glugeida) from native and invasive crayfish in the USA and a novel host of Cambaraspora floridanus *Journal of Invertebrate Pathology* (2023) - 8 citations
+  DOI: https://doi.org/10.1016/j.jip.2023.107949
+- Metabolic rates of a widely distributed crayfish shift along a latitudinal gradient *Hydrobiologia* (2022) - 6 citations
+  DOI: https://doi.org/10.1007/s10750-022-04961-2
+- North American crayfish harbour diverse members of the Nudiviridae *Virology* (2024) - 5 citations
+  DOI: https://doi.org/10.1016/j.virol.2024.110183
+- Intraspecific variation in crayfish behavioral traits affects leaf litter breakdown in streams *Oecologia* (2024) - 4 citations
+  DOI: https://doi.org/10.1007/s00442-024-05593-0
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 3103 Ecology; 41 Environmental Sciences; 3107 Microbiology; 4102 Ecological Applications
+
+Key Research Concepts (from Dimensions.ai):
+ecosystem function; Faxonius virilis; imperiled species; species replacement; native species; competitive interactions; local extirpation; high-risk taxa; invasive species threats; invasive species management
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Teesside University
+- United States Geological Survey
+- The Ohio State University
+- San Marcos Aquatic Resources Center, US Fish and Wildlife Service, San Marcos, Texas, USA
+- Florida Fish and Wildlife Conservation Commission
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.7/10
+Percentile: Top 62% of Water Institute faculty
+Rankings by Research Category:
+- Microbiology: #16 of 20
+- Ecological Applications: #22 of 32
+- Ecology: #46 of 59

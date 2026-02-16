@@ -37,3 +37,43 @@ Answers the question: "How can everyday landscape decisions be guided so that so
 
 Keywords:
 Florida-Friendly Landscaping; FFL; sustainable landscaping; water conservation; nutrient runoff; urban landscapes; best management practices; BMPs; irrigation; fertilizer management; nonpoint source pollution; Extension outreach; soil health; stormwater; landscape design
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 15
+- Total Citations: 260
+- H-Index: 3
+- Average Citations per Paper: 17.3
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 0.44 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- What is Florida-Friendly Landscaping™? EP607/ENH1343, 7/2021 *EDIS* (2021) - 1 citations
+  DOI: https://doi.org/10.32473/edis-ep607-2021
+- Alpinia zerumbet 'Variegata': Variegated Shell Ginger, Variegated Shellflower: FPS036/FP036, 11/2025 *EDIS* (2026)
+  DOI: https://doi.org/10.32473/edis-fp036-1999
+- Guidelines for Hiring a Florida-Friendly Landscape Professional: ENH1350/EP614, 2/2022 *EDIS* (2022)
+  DOI: https://doi.org/10.32473/edis-ep614-2022
+- Synthetic Turfgrass and the Nine Principles of Florida-Friendly Landscaping™: ENH1348/EP612, 12/2021 *EDIS* (2021)
+  DOI: https://doi.org/10.32473/edis-ep612-2021
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 41 Environmental Sciences; 33 Built Environment and Design; 3301 Architecture; 3103 Ecology
+
+Key Research Concepts (from Dimensions.ai):
+landscape; landscape design; selection practices; Horticulture Department; design; accent plants; variegated foliage; mass planting; shell ginger; plants
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Florida Department of Environmental Protection
+- Florida Nursery, Growers & Lanscape Association
+- Alachua County, Fla
+- St. Johns River Water Management District
+- Turfgrass Producers of Florida
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.2/10
+Percentile: Top 89% of Water Institute faculty
+Rankings by Research Category:
+- Architecture: #1 of 2
+- Built Environment and Design: #8 of 12
+- Ecology: #53 of 59

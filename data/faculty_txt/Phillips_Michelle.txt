@@ -27,3 +27,43 @@ Dr. Phillips's work helps decision-makers understand which policies work, why th
 
 Keywords:
 economics; environmental economics; resource economics; development economics; applied microeconomics; policy evaluation; causal inference; econometrics; incentives; institutions; public goods; governance; impact assessment
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 14
+- Total Citations: 96
+- H-Index: 6
+- Average Citations per Paper: 6.9
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.25 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Sensitivity assessment of metafrontier data envelopment analysis for soil carbon sequestration efficiency *Ecological Indicators* (2021) - 13 citations
+  DOI: https://doi.org/10.1016/j.ecolind.2021.107602
+- Holistic aboveground ecological productivity efficiency modeling using data envelopment analysis in the southeastern U.S *The Science of The Total Environment* (2022) - 6 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2022.153802
+- Emergence of the Pedo-Econometric Approach *Frontiers in Soil Science* (2021) - 2 citations
+  DOI: https://doi.org/10.3389/fsoil.2021.656591
+- Technical efficiency of the urban gas industry in china *Environmental Science and Pollution Research* (2023)
+  DOI: https://doi.org/10.1007/s11356-023-29524-3
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 38 Economics; 4106 Soil Sciences; 4102 Ecological Applications; 4104 Environmental Management
+
+Key Research Concepts (from Dimensions.ai):
+carbon sequestration function; soil available water capacity; soil organic carbon concentration; sequestration function; LULC types; returns-to-scale; aboveground net primary production; Data Envelopment Analysis; DEA settings; efficiency scores
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Minnesota Twin Cities
+- Shenzhen University
+- Oregon State University
+- University of Georgia
+- Corteva Agriscience LLC
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.5/10
+Percentile: Top 72% of Water Institute faculty
+Rankings by Research Category:
+- Soil Sciences: #12 of 14
+- Economics: #16 of 24
+- Ecological Applications: #25 of 32

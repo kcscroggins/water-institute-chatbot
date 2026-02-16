@@ -27,3 +27,74 @@ Research producer (fundamental and applied atmospheric science). Generates quant
 
 Keywords:
 atmospheric chemistry; aerosol science; secondary organic aerosol; SOA formation; multiphase reactions; photochemical smog; air quality modeling; particulate matter; PM2.5; nutrient deposition; nitrogen deposition; climate forcing; environmental health
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 62
+- Total Citations: 1525
+- H-Index: 20
+- Average Citations per Paper: 24.6
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.68 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Simulation of Monoterpene SOA Formation by Multiphase Reactions Using Explicit Mechanisms *ACS Earth and Space Chemistry* (2021) - 28 citations
+  DOI: https://doi.org/10.1021/acsearthspacechem.1c00056
+- Secondary organic aerosol formation via multiphase reaction of hydrocarbons in urban atmospheres using CAMx integrated with the UNIPAR model *Atmospheric Chemistry and Physics* (2022) - 23 citations
+  DOI: https://doi.org/10.5194/acp-22-9083-2022
+- Characterization of Atmospheric Processes of Brevetoxins in Sea Spray Aerosols from Red Tide Events *Environmental Science and Technology* (2022) - 20 citations
+  DOI: https://doi.org/10.1021/acs.est.1c05740
+- Modeling daytime and nighttime secondary organic aerosol formation via multiphase reactions of biogenic hydrocarbons *Atmospheric Chemistry and Physics* (2023) - 19 citations
+  DOI: https://doi.org/10.5194/acp-23-1209-2023
+- Prediction of secondary organic aerosol from the multiphase reaction of gasoline vapor by using volatility–reactivity base lumping *Atmospheric Chemistry and Physics* (2022) - 15 citations
+  DOI: https://doi.org/10.5194/acp-22-625-2022
+- Prediction of Phase State of Secondary Organic Aerosol Internally Mixed with Aqueous Inorganic Salts *The Journal of Physical Chemistry A* (2021) - 15 citations
+  DOI: https://doi.org/10.1021/acs.jpca.1c06773
+- Suppression of the phenolic SOA formation in the presence of electrolytic inorganic seed *The Science of The Total Environment* (2022) - 12 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2022.158082
+- CAMx–UNIPAR simulation of secondary organic aerosol mass formed from multiphase reactions of hydrocarbons under the Central Valley urban atmospheres of California *Atmospheric Chemistry and Physics* (2024) - 11 citations
+  DOI: https://doi.org/10.5194/acp-24-487-2024
+- Modeling the influence of chain length on secondary organic aerosol (SOA) formation via multiphase reactions of alkanes *Atmospheric Chemistry and Physics* (2023) - 11 citations
+  DOI: https://doi.org/10.5194/acp-23-1661-2023
+- Modeling the influence of carbon branching structure on secondary organic aerosol formation via multiphase reactions of alkanes *Atmospheric Chemistry and Physics* (2024) - 6 citations
+  DOI: https://doi.org/10.5194/acp-24-5585-2024
+
+Research Grants (from Dimensions.ai):
+- Emerging impact on airway health by airborne red tide toxins following major hurricanes Helene and Milton at the Gulf coast (2025-2027) - $416,924
+  Funder: National Institute of Environmental Health Sciences
+- Atmospheric Process of Microcystins in Airborne Cyanobacterial Aerosol (2021-2025) - $330,000
+  Funder: Directorate for Engineering
+- Prediction of Organic-Vapor Wall Deposition Using a Qualitative Structure Activity Relationship and its Application to the Secondary Organic Aerosol (SOA) Model (2019-2023) - $582,147
+  Funder: Directorate for Geosciences
+- Improving Nitrogen Predictions by Updating Tropospheric Kinetics (INPUT-K) (2016-2018) - $163,219
+  Funder: Directorate for Geosciences
+- Understanding of Particulate Matter in Ulaanbaatar's Atmosphere: Characterization and Chemical and Physical Aerosol Properties (2015-2015)
+  Funder: Council for International Exchange of Scholars
+
+Patents (from Dimensions.ai):
+- FILTERS, FILTER SYSTEMS, AND METHODS OF USE (2021)
+- FILTERS, FILTER SYSTEMS, AND METHODS OF USE (2021) - 1 citations
+- Filters, filter systems, and methods of use (2021)
+- METHOD AND APPARATUS FOR DETECTING COMPOSITION OF AIRBORNE PARTICLES (2020)
+- METHOD AND APPARATUS FOR DETECTING COMPOSITION OF AIRBORNE PARTICLES (2020) - 1 citations
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3701 Atmospheric Sciences; 40 Engineering; 4002 Automotive Engineering; 41 Environmental Sciences
+
+Key Research Concepts (from Dimensions.ai):
+secondary organic aerosol; Unified Partitioning Aerosol Phase Reaction; secondary organic aerosol formation; UNIPAR model; secondary organic aerosol mass; SOA mass; organic aerosol; Unified Partitioning-Aerosol phase Reaction; atmospheric oxidation; model simulations
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Mote Marine Laboratory
+- Ajou University
+- National Institute of Environmental Research
+- Bay Area Air Quality Management District
+- Shahid Beheshti University of Medical Sciences
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.6/10
+Percentile: Top 27% of Water Institute faculty
+Rankings by Research Category:
+- Automotive Engineering: #1 of 1
+- Atmospheric Sciences: #4 of 17
+- Engineering: #17 of 53

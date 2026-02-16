@@ -27,3 +27,67 @@ Dr. McDaniel produces fundamental genomic and evolutionary insights that illumin
 
 Keywords:
 evolutionary genetics; genomics; population genomics; bryophytes; mosses; Ceratodon purpureus; Physcomitrella patens; dioecy; sex chromosomes; nitrogen fixation; moss-microbe symbiosis; Arctic ecosystems; boreal ecosystems; microbial communities; genetic variation; community genomics
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 68
+- Total Citations: 2450
+- H-Index: 25
+- Average Citations per Paper: 36.0
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 7.49 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Gene-rich UV sex chromosomes harbor conserved regulators of sexual development *Science Advances* (2021) - 103 citations
+  DOI: https://doi.org/10.1126/sciadv.abh2488
+- Comprehensive phylogenomic time tree of bryophytes reveals deep relationships and uncovers gene incongruences in the last 500 million years of diversification *American Journal of Botany* (2023) - 89 citations
+  DOI: https://doi.org/10.1002/ajb2.16249
+- A target enrichment probe set for resolving the flagellate land plant tree of life *Applications in Plant Sciences* (2021) - 81 citations
+  DOI: https://doi.org/10.1002/aps3.11406
+- The bacterial communities of Alaskan mosses and their contributions to N2-fixation *Microbiome* (2021) - 69 citations
+  DOI: https://doi.org/10.1186/s40168-021-01001-4
+- Bryophytes are not early diverging land plants *New Phytologist* (2021) - 34 citations
+  DOI: https://doi.org/10.1111/nph.17241
+- Unveiling the nature of a miniature world: a horizon scan of fundamental questions in bryology *Journal of Bryology* (2022) - 25 citations
+  DOI: https://doi.org/10.1080/03736687.2022.2054615
+- Microarthropod contributions to fitness variation in the common moss Ceratodon purpureus *Proceedings of the Royal Society B* (2021) - 19 citations
+  DOI: https://doi.org/10.1098/rspb.2021.0119
+- Molecular basis of intraspecific differentiation for heavy metal tolerance in the copper moss Scopelophila cataractae *Environmental and Experimental Botany* (2022) - 18 citations
+  DOI: https://doi.org/10.1016/j.envexpbot.2022.104970
+- An NGS-Based Phylogeny of Orthotricheae (Orthotrichaceae, Bryophyta) With the Proposal of the New Genus Rehubryum From Zealandia *Frontiers in Plant Science* (2022) - 16 citations
+  DOI: https://doi.org/10.3389/fpls.2022.882960
+- The genetic architecture of sexual dimorphism in the moss Ceratodon purpureus *Proceedings of the Royal Society B* (2021) - 15 citations
+  DOI: https://doi.org/10.1098/rspb.2020.2908
+
+Research Grants (from Dimensions.ai):
+- From Antarctica to Space: Molecular Response and Physiological Adaptation of Moss to Simulated Deep Space Cosmic Ionizing Radiation and Spaceflight Microgravity (2021-2025)
+  Funder: National Aeronautics and Space Administration
+- DISSERTATION RESEARCH: The role of volatile organic compounds in antagonistic selection in the moss Ceratodon purpureus (2017-2020) - $19,727
+  Funder: Directorate for Biological Sciences
+- Collaborative Research: Building a Comprehensive Evolutionary History of Flagellate Plants (2016-2021) - $2,275,080
+  Funder: Directorate for Biological Sciences
+- Dimensions: Collaborative Research: Community genomic drivers of moss microbiome assembly and function in rapidly changing Alaskan ecosystems (2015-2023) - $1,015,698
+  Funder: Directorate for Biological Sciences
+- EAGER: The evolutionary consequences of subtle biases in the outcome of meiosis (2015-2018) - $169,500
+  Funder: Directorate for Biological Sciences
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 3105 Genetics; 3104 Evolutionary Biology; 3103 Ecology; 30 Agricultural, Veterinary and Food Sciences
+
+Key Research Concepts (from Dimensions.ai):
+UV sex chromosomes; sex chromosomes; tree of life; genetic variation; heavy metal tolerance; metal tolerance; levels of heavy metals; gene content; regulation of sexual development; chromosome-scale reference genome
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Autonomous University of Madrid
+- Portland State University
+- HudsonAlpha Institute for Biotechnology
+- Joint Genome Institute
+- University of Toronto
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.3/10
+Percentile: Top 12% of Water Institute faculty
+Rankings by Research Category:
+- Evolutionary Biology: #1 of 3
+- Genetics: #2 of 8
+- Ecology: #9 of 59

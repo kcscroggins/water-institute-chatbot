@@ -1,0 +1,78 @@
+Name: Diane Rowland
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: dlrowland@ufl.edu
+Website: http://agronomy.ifas.ufl.edu/faculty/diane-rowland/
+Google Scholar: 
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 102
+- Total Citations: 1480
+- H-Index: 23
+- Average Citations per Paper: 14.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.47 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Entrepreneurial Talent Building for 21st Century Agricultural Innovation *ACS Nano* (2021) - 32 citations
+  DOI: https://doi.org/10.1021/acsnano.1c05980
+- Citrus photosynthesis and morphology acclimate to phloem‐affecting huanglongbing disease at the leaf and shoot levels *Physiologia Plantarum* (2022) - 17 citations
+  DOI: https://doi.org/10.1111/ppl.13662
+- Impact of seed maturity on season-long physiological performance and offspring seed quality in peanut (Arachis hypogaea L.) *Field Crops Research* (2022) - 15 citations
+  DOI: https://doi.org/10.1016/j.fcr.2022.108674
+- Soil bacterial community response to rhizoma peanut incorporation into Florida pastures *Journal of Environmental Quality* (2022) - 15 citations
+  DOI: https://doi.org/10.1002/jeq2.20307
+- Melatonin seed priming improves early establishment and water stress tolerance of peanut *Plant Physiology and Biochemistry* (2024) - 12 citations
+  DOI: https://doi.org/10.1016/j.plaphy.2024.108664
+- Impact of Early Potato Desiccation Method on Crop Growth, Skinning Injury, and Storage Quality Maintenance *American Journal of Potato Research* (2021) - 10 citations
+  DOI: https://doi.org/10.1007/s12230-021-09836-1
+- The plasticity of early root development in Sesamum indicum L. as influenced by genotype, water, and nutrient availability *Rhizosphere* (2022) - 9 citations
+  DOI: https://doi.org/10.1016/j.rhisph.2021.100457
+- Managing water table depth thresholds for potato subirrigation *Agricultural Water Management* (2022) - 7 citations
+  DOI: https://doi.org/10.1016/j.agwat.2021.107236
+- Spatial and Texture Analysis of Root System distribution with Earth mover’s Distance (STARSEED) *Plant Methods* (2023) - 6 citations
+  DOI: https://doi.org/10.1186/s13007-022-00974-z
+- Soil water depletion of peanut subspecies as influenced by water‐use traits and soil water availability *Journal of Agronomy and Crop Science* (2021) - 6 citations
+  DOI: https://doi.org/10.1111/jac.12554
+
+Research Grants (from Dimensions.ai):
+- Utilizing physiological agroecology to increase stress resilience in Florida cropping systems. (2021-2026)
+  Funder: National Institute of Food and Agriculture
+- Water conservation in Florida crop production through the use of physiological approaches in agronomic, breeding, and cropping system solutions. (2015-2020)
+  Funder: National Institute of Food and Agriculture
+- Supporting the new southeastern sesame industry through development of efficient water and nutrient strategies (2015-2017) - $149,580
+  Funder: National Institute of Food and Agriculture
+- A systems approach to improving abiotic stress tolerance in peanut (2013-2018) - $500,000
+  Funder: National Institute of Food and Agriculture
+- Interdisciplinary training in agroecology: enhancing a broader training in agricultural science through traditional and web based curricula (2013-2018) - $246,000
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3004 Crop and Pasture Production; 3002 Agriculture, Land and Farm Management; 31 Biological Sciences; 3108 Plant Biology
+
+Key Research Concepts (from Dimensions.ai):
+root system architecture; soil moisture levels; root system architecture development; root architecture; mature seeds; non-primed plants; quality maintenance; root system distribution; water stress; agricultural innovations
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Institute of Food and Agricultural Sciences
+- University of Maine
+- Mississippi State University
+- Nanyang Technological University
+- University of Cyprus

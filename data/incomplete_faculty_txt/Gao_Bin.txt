@@ -1,0 +1,84 @@
+Name: Bin Gao
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: bg55@ufl.edu
+Website: https://abe.ufl.edu/faculty/bingao/
+Google Scholar: https://scholar.google.com/citations?user=enSDeE8AAAAJ&hl=en
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 421
+- Total Citations: 57889
+- H-Index: 123
+- Average Citations per Paper: 137.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 30.66 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Adsorption of emerging contaminants from water and wastewater by modified biochar: A review *Environmental Pollution* (2021) - 718 citations
+  DOI: https://doi.org/10.1016/j.envpol.2021.116448
+- Waste-derived biochar for water pollution control and sustainable development *Nature Reviews Earth & Environment* (2022) - 565 citations
+  DOI: https://doi.org/10.1038/s43017-022-00306-8
+- ZnO/biochar nanocomposites via solvent free ball milling for enhanced adsorption and photocatalytic degradation of methylene blue *Journal of Hazardous Materials* (2021) - 296 citations
+  DOI: https://doi.org/10.1016/j.jhazmat.2021.125511
+- MIL series of metal organic frameworks (MOFs) as novel adsorbents for heavy metals in water: A review *Journal of Hazardous Materials* (2022) - 249 citations
+  DOI: https://doi.org/10.1016/j.jhazmat.2022.128271
+- Ball milling biochar iron oxide composites for the removal of chromium (Cr(VI)) from water: Performance and mechanisms *Journal of Hazardous Materials* (2021) - 238 citations
+  DOI: https://doi.org/10.1016/j.jhazmat.2021.125252
+- Facile ball-milling synthesis of CeO2/g-C3N4 Z-scheme heterojunction for synergistic adsorption and photodegradation of methylene blue: Characteristics, kinetics, models, and mechanisms *Chemical Engineering Journal* (2021) - 235 citations
+  DOI: https://doi.org/10.1016/j.cej.2020.127719
+- Degradation of organic pollutants from water by biochar-assisted advanced oxidation processes: Mechanisms and applications *Journal of Hazardous Materials* (2022) - 203 citations
+  DOI: https://doi.org/10.1016/j.jhazmat.2022.130075
+- Engineered biochar for environmental decontamination in aquatic and soil systems: a review *Carbon Research* (2022) - 192 citations
+  DOI: https://doi.org/10.1007/s44246-022-00005-5
+- Mechanisms and adsorption capacities of hydrogen peroxide modified ball milled biochar for the removal of methylene blue from aqueous solutions *Bioresource Technology* (2021) - 163 citations
+  DOI: https://doi.org/10.1016/j.biortech.2021.125432
+- Straw and wood based biochar for CO2 capture: Adsorption performance and governing mechanisms *Separation and Purification Technology* (2022) - 161 citations
+  DOI: https://doi.org/10.1016/j.seppur.2022.120592
+
+Research Grants (from Dimensions.ai):
+- Collaborative Research on Biochar-Based Adsorbents (2024-2024)
+  Funder: Council for International Exchange of Scholars
+- Characterization and Optimization of Fruit and Vegetable Waste Based Biochar to Restore Soil Health. (2015-2016)
+  Funder: Council for International Exchange of Scholars
+- Effect of Physicochemical Properties on Nanoparticle Fate and Transport in Unsaturated Porous Media (2012-2016) - $330,000
+  Funder: Directorate for Mathematical & Physical Sciences
+- CAREER: An Integrated Research and Education Program to Improve Environmental Sustainability with Biochar Technology (2011-2016) - $407,910
+  Funder: Directorate for Engineering
+- MANAGEMENT STRATEGIES FOR CATEGORY I INVASIVE WEEDS IN FLORIDA: POTENTIAL FOR CARBON SEQUESTRATION AND BIOENERGY (2008-2011) - $119,653
+  Funder: National Institute of Food and Agriculture
+
+Patents (from Dimensions.ai):
+- SLOW-RELEASE FERTILIZER COMPOSITIONS WITH GRAPHENE OXIDE FILMS AND METHODS OF MAKING SLOW-RELEASE FERTILIZER COMPOSITIONS (2014) - 26 citations
+- BIOCHAR/METAL COMPOSITES, METHODS OF MAKING BIOCHAR/METAL COMPOSITES, AND METHODS OF REMOVING CONTAMINANTS FROM WATER (2013) - 71 citations
+- BIOLOGICALLY ACTIVATED BIOCHAR, METHODS OF MAKING BIOLOGICALLY ACTIVATED BIOCHAR, AND METHODS OF REMOVING CONTAMINANTS FROM WATER (2011) - 8 citations
+- BIOLOGICALLY ACTIVATED BIOCHAR, METHODS OF MAKING BIOLOGICALLY ACTIVATED BIOCHAR, AND METHODS OF REMOVING CONTAMINANTS FROM WATER (2011) - 117 citations
+
+Research Categories (from Dimensions.ai):
+40 Engineering; 41 Environmental Sciences; 4004 Chemical Engineering; 4105 Pollution and Contamination; 34 Chemical Sciences
+
+Key Research Concepts (from Dimensions.ai):
+wastewater treatment; g-C3N4; methylene blue; adsorption capacity; Emerging contaminants; removal of emergent contaminants; biochar modification methods; high-efficiency adsorbents; emergent contaminant removal; hydraulic conductivity
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Nanjing University
+- Guizhou University
+- Hong Kong Polytechnic University
+- Nanchang Hangkong University
+- Foshan University

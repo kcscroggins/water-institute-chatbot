@@ -17,3 +17,59 @@ Extension Activities:
 
 Keywords:
 Turfgrass science; water conservation; drought management; salinity tolerance; effluent irrigation; St. Augustinegrass; bermudagrass; best management practices; Florida lawns.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 51
+- Total Citations: 185
+- H-Index: 8
+- Average Citations per Paper: 3.6
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 1.57 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Tall Fescue (Schedonorus arundinaceus (Schreb.) Dumort.) Turfgrass Cultivars Performance under Reduced N Fertilization *Agronomy* (2021) - 12 citations
+  DOI: https://doi.org/10.3390/agronomy11020193
+- How to Properly Read Your Irrigation Water Analysis for Turf and Landscape: ENH1352/EP616, 12/2021 *EDIS* (2021) - 11 citations
+  DOI: https://doi.org/10.32473/edis-ep616-2021
+- St. Augustinegrass for Florida Lawns: ENH5/LH010, rev. 8/2021 *EDIS* (2021) - 11 citations
+  DOI: https://doi.org/10.32473/edis-lh010-2021
+- The Lack of Knowledge on the Microbiome of Golf Turfgrasses Impedes the Development of Successful Microbial Products *Agronomy* (2021) - 8 citations
+  DOI: https://doi.org/10.3390/agronomy12010071
+- Nitrogen requirements for deficit‐irrigated bermudagrass (Cynodon spp.) fairways in South Florida *Journal of Agronomy and Crop Science* (2021) - 7 citations
+  DOI: https://doi.org/10.1111/jac.12558
+- Response of Twenty Tall Fescue (Schedonorus arundinaceus (Schreb.) Dumort.) Cultivars to Low Mowing Height *Agronomy* (2021) - 7 citations
+  DOI: https://doi.org/10.3390/agronomy11050943
+- Urban Landscapes: Turfgrass Benefits *Grasses* (2025) - 6 citations
+  DOI: https://doi.org/10.3390/grasses4010003
+- Methiozolin rate and application frequency influence goosegrass (Eleusine indica) and smooth crabgrass (Digitaria ischaemum) control in turf *Weed Technology* (2024) - 5 citations
+  DOI: https://doi.org/10.1017/wet.2024.5
+- Simulation-based nozzle density optimization for maximized efficacy of a machine vision–based weed control system for applications in turfgrass settings *Weed Technology* (2024) - 4 citations
+  DOI: https://doi.org/10.1017/wet.2024.7
+- Effects of fungicides on creeping bentgrass health and rooting characteristics under abiotic stress *International Turfgrass Society Research Journal* (2021) - 4 citations
+  DOI: https://doi.org/10.1002/its2.11
+
+Research Grants (from Dimensions.ai):
+- Environmentally Compatible Management Strategies for Turfgrass in Florida (2020-2025)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3004 Crop and Pasture Production; 3001 Agricultural Biotechnology; 3002 Agriculture, Land and Farm Management; 31 Biological Sciences
+
+Key Research Concepts (from Dimensions.ai):
+dark green color index; St. Augustinegrass; percent green cover; turfgrass quality; tall fescue; N rate; tank mix; St. Augustinegrass cultivars; hybrid bermudagrass; N fertilizer input
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of California, Riverside
+- University of Padua
+- University of Kentucky
+- Virginia Polytechnic Institute and State University
+- Auburn University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.6/10
+Percentile: Top 67% of Water Institute faculty
+Rankings by Research Category:
+- Agricultural Biotechnology: #1 of 2
+- Agriculture, Land and Farm Management: #20 of 24
+- Crop and Pasture Production: #37 of 41

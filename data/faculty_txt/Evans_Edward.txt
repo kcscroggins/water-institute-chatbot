@@ -31,3 +31,43 @@ Water & Policy Relevance:
 
 Keywords:
 Agricultural economics; specialty crops; tropical agriculture; farm profitability; risk management; BMP adoption; policy analysis; technology adoption; South Florida; cost-benefit analysis; grower decisions; nutrient management economics; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 96
+- Total Citations: 578
+- H-Index: 13
+- Average Citations per Paper: 6.0
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 4.57 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Saltwater Intrusion and Flooding: Risks to South Florida’s Agriculture and Potential Management Practices: AE572/AE572, 5/2022 *EDIS* (2022) - 13 citations
+  DOI: https://doi.org/10.32473/edis-ae572-2022
+- Consumer Preferences for Green Skin Avocados in the US Market: The Role of Experienced Quality Attributes, Credence Attributes, and Demographic Factors *Journal of Agricultural & Food Industrial Organization* (2021) - 13 citations
+  DOI: https://doi.org/10.1515/jafio-2020-0006
+- Estimación de costos para la producción de guayaba rosada (Psidium guajava L.) en el sur de Florida: FE1113, 2/2022 *EDIS* (2022)
+  DOI: https://doi.org/10.32473/edis-fe1113-2022
+- An Introduction to Florida commodity enterprise budgets: An Extension tool to improve farm financial planning: FE1109, 12/2021 *EDIS* (2022)
+  DOI: https://doi.org/10.32473/edis-fe1109-2021
+
+Research Grants (from Dimensions.ai):
+- RAISE: Safeguarding U.S. Coastal Groundwater Supplies from Flooding and Saltwater Intrusion (2025-2028) - $999,721
+  Funder: Directorate for Geosciences
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 4106 Soil Sciences; 38 Economics; 3801 Applied Economics; 30 Agricultural, Veterinary and Food Sciences
+
+Key Research Concepts (from Dimensions.ai):
+saltwater intrusion; negative impact of soil salinity; health of agricultural soils; impact of soil salinity; management practices; credence attributes; consumer preferences; higher fat content; non-Hispanic consumers; quality attributes
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Military University Nueva Granada
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.1/10
+Percentile: Top 46% of Water Institute faculty
+Rankings by Research Category:
+- Applied Economics: #3 of 12
+- Economics: #7 of 24
+- Soil Sciences: #9 of 14

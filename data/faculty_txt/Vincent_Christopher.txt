@@ -29,3 +29,53 @@ Dr. Vincent's work informs sustainable crop management and adaptation strategies
 
 Keywords:
 citrus; plant physiology; ecophysiology; photosynthesis; carbohydrate allocation; huanglongbing; citrus greening; stress biology; water relations; particle films; perennial crops; Florida citrus; source-sink dynamics; horticultural sciences; crop management
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 14
+- Total Citations: 383
+- H-Index: 11
+- Average Citations per Paper: 27.4
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 6.99 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Application of silicon nanoparticles enhances oxidative stress tolerance in salt stressed ‘Valencia’ sweet orange plants *Scientia Horticulturae* (2022) - 65 citations
+  DOI: https://doi.org/10.1016/j.scienta.2021.110856
+- Heat shock protein and aquaporin expression enhance water conserving behavior of citrus under water deficits and high temperature conditions *Environmental and Experimental Botany* (2021) - 65 citations
+  DOI: https://doi.org/10.1016/j.envexpbot.2020.104270
+- The response of salt-stressed Valencia sweet orange (Citrus sinensis) to salicylic acid and methyl jasmonate treatments *Plant Physiology Reports* (2021) - 35 citations
+  DOI: https://doi.org/10.1007/s40502-020-00563-z
+- Systemic Uptake of Oxytetracycline and Streptomycin in Huanglongbing-Affected Citrus Groves after Foliar Application and Trunk Injection *Antibiotics* (2022) - 31 citations
+  DOI: https://doi.org/10.3390/antibiotics11081092
+- White and red-dyed kaolin particle films reduce Asian citrus psyllid populations, delay huanglongbing infection, and increase citrus growth *Crop Protection* (2021) - 17 citations
+  DOI: https://doi.org/10.1016/j.cropro.2021.105792
+- Physiological Responses and Gene Expression Patterns in Open-Pollinated Seedlings of a Pummelo-Mandarin Hybrid Rootstock Exposed to Salt Stress and Huanglongbing *Plants* (2021) - 13 citations
+  DOI: https://doi.org/10.3390/plants10071439
+- Spectral light distribution affects photosynthesis, leaf reflective indices, antioxidant activity and growth of Vanilla planifolia *Plant Physiology and Biochemistry* (2022) - 11 citations
+  DOI: https://doi.org/10.1016/j.plaphy.2022.04.020
+- Photoselective particle films influence physiology and growth of citrus *Scientia Horticulturae* (2023) - 4 citations
+  DOI: https://doi.org/10.1016/j.scienta.2023.111973
+- Red and White Kaolin Particle Films Enhance Growth and Yield of HLB-infected Sweet Orange Trees *HortScience* (2025) - 1 citations
+  DOI: https://doi.org/10.21273/hortsci18367-24
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 31 Biological Sciences; 3108 Plant Biology; 3004 Crop and Pasture Production; 3008 Horticultural Production
+
+Key Research Concepts (from Dimensions.ai):
+kaolin particle film; particle film; sweet orange plants; Valencia sweet orange; sweet orange; stressed plants; exogenous Si application; Savage citrange; water deficit; sour orange
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Mansoura University
+- University of Agriculture Faisalabad
+- Islamia University of Bahawalpur
+- Department of Plant Breeding and Genetics, Muhammad Nawaz Sharif University of Agriculture, Multan, Pakistan
+- Nanjing Agricultural University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.0/10
+Percentile: Top 49% of Water Institute faculty
+Rankings by Research Category:
+- Horticultural Production: #8 of 13
+- Plant Biology: #11 of 18
+- Crop and Pasture Production: #31 of 41

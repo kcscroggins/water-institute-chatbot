@@ -29,3 +29,38 @@ Answers the question: "Are producers implementing practices that align with nutr
 
 Keywords:
 livestock Extension; beef cattle; forage management; pasture systems; natural resources; Suwannee County; 4-H; youth agriculture; grazing management; soil health; nutrient management; producer education
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 3
+- Total Citations: 52
+- H-Index: 2
+- Average Citations per Paper: 17.3
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 27.9 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Maternal and Newborn Hospital Outcomes of Perinatal SARS-CoV-2 Infection: A National Registry. (2023) - 38 citations
+  DOI: https://doi.org/10.1542/peds.2022-059595
+- Disaster Assistance for Agriculture in Florida following Hurricane Idalia: FE1147, 6/2024 *EDIS* (2024)
+  DOI: https://doi.org/10.32473/edis-fe1147-2024
+
+Research Categories (from Dimensions.ai):
+3215 Reproductive Medicine; 32 Biomedical and Clinical Sciences; 46 Information and Computing Sciences; 4407 Policy and Administration; 4610 Library and Information Studies
+
+Key Research Concepts (from Dimensions.ai):
+SARS-CoV-2 infection; SARS-CoV-2; perinatal SARS-CoV-2 infection; pregnant persons; national registry; agricultural producers; nongovernmental organizations; disaster assistance; state agencies; extension agents
+
+Top Collaborating Institutions (from Dimensions.ai):
+- bDivision of Neonatology
+- Centers for Disease Control and Prevention
+- Children's Hospital of Philadelphia
+- University of Pennsylvania
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.2/10
+Percentile: Top 40% of Water Institute faculty
+Rankings by Research Category:
+- Reproductive Medicine: #1 of 1
+- Policy and Administration: #1 of 4
+- Library and Information Studies: #1 of 2

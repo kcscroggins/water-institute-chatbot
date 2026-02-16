@@ -34,3 +34,33 @@ Dr. Moore produces place-based education and stewardship frameworks that empower
 
 Keywords:
 Sea Grant; coastal resiliency; watershed management; water quality; living shorelines; marine stewardship; citizen science; harmful algal blooms; HABs; coastal hazards; marine geochemistry; carbonate sediments; Gulf of Mexico; Pasco County; Extension; community education
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 1
+- Total Citations: 4
+- H-Index: 1
+- Average Citations per Paper: 4.0
+- Open Access Publications: 100.0%
+
+Recent Publications (from Dimensions.ai):
+- Dual clumped isotopes reveal an out-of-equilibrium state in shallow-water carbonate sediments on Great Bahama Bank *Earth and Planetary Science Letters* (2025) - 4 citations
+  DOI: https://doi.org/10.1016/j.epsl.2025.119322
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3709 Physical Geography and Environmental Geoscience; 3703 Geochemistry; 3705 Geology
+
+Key Research Concepts (from Dimensions.ai):
+Great Bahama Bank; geochemical signatures; carbonate sediments; Bahama Bank; shallow-water carbonate sediments
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Miami
+- China University of Petroleum, East China
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.1/10
+Percentile: Top 97% of Water Institute faculty
+Rankings by Research Category:
+- Geochemistry: #3 of 3
+- Physical Geography and Environmental Geoscience: #11 of 11
+- Geology: #11 of 11

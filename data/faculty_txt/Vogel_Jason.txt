@@ -28,3 +28,55 @@ Dr. Vogel's research informs forest management and conservation policy by clarif
 
 Keywords:
 forest ecology; nutrient cycling; carbon cycling; biogeochemistry; forest structure; silviculture; longleaf pine; Southern U.S. forests; forest resilience; disturbance; climate change; forest management; ecosystem services; nitrogen dynamics
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 43
+- Total Citations: 2462
+- H-Index: 20
+- Average Citations per Paper: 57.3
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 5.25 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Termite sensitivity to temperature affects global wood decay rates *Science* (2022) - 109 citations
+  DOI: https://doi.org/10.1126/science.abo3856
+- Tundra Underlain By Thawing Permafrost Persistently Emits Carbon to the Atmosphere Over 15 Years of Measurements *Journal of Geophysical Research Biogeosciences* (2021) - 40 citations
+  DOI: https://doi.org/10.1029/2020jg006044
+- treetop: A Shiny‐based application and R package for extracting forest information from LiDAR data for ecologists and conservationists *Methods in Ecology and Evolution* (2022) - 37 citations
+  DOI: https://doi.org/10.1111/2041-210x.13830
+- The effects of nutrient limitations on microbial respiration and organic matter decomposition in a Florida Spodosol as influenced by historical forest management practices *Forest Ecology and Management* (2021) - 26 citations
+  DOI: https://doi.org/10.1016/j.foreco.2020.118592
+- Long-term effects of catastrophic wind on southern US coastal forests: Lessons from a major hurricane *PLOS ONE* (2021) - 24 citations
+  DOI: https://doi.org/10.1371/journal.pone.0243362
+- Regional Assessment of Carbon Pool Response to Intensive Silvicultural Practices in Loblolly Pine Plantations *Forests* (2021) - 18 citations
+  DOI: https://doi.org/10.3390/f13010036
+- Burning trees in frozen soil: Simulating fire, vegetation, soil, and hydrology in the boreal forests of Alaska *Ecological Modelling* (2023) - 8 citations
+  DOI: https://doi.org/10.1016/j.ecolmodel.2023.110367
+- Longleaf pine seedling growth and survival: Effects of season and intensity of simulated prescribed burning *Forest Ecology and Management* (2021) - 5 citations
+  DOI: https://doi.org/10.1016/j.foreco.2021.119719
+- Converting plantations to uneven-aged stands: Effects of harvest type, group opening size, orientation, and canopy position on residual tree development *Trees Forests and People* (2022) - 4 citations
+  DOI: https://doi.org/10.1016/j.tfp.2022.100342
+- Shortened Fire Intervals Stimulate Carbon Losses from Heterotrophic Respiration and Reduce Understorey Plant Productivity in Boreal Forests *Ecosystems* (2022) - 4 citations
+  DOI: https://doi.org/10.1007/s10021-022-00761-w
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 30 Agricultural, Veterinary and Food Sciences; 3007 Forestry Sciences; 31 Biological Sciences; 4102 Ecological Applications
+
+Key Research Concepts (from Dimensions.ai):
+soil temperature; wood decay rates; tropical seasonal forest; global carbon stores; climate change effects; seasonal forest; gross primary production; tundra ecosystems; climate change; years of measurements
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Northern Arizona University
+- Federal University of Lavras
+- Leipzig University
+- James Cook University
+- German Center for Integrative Biodiversity Research
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.7/10
+Percentile: Top 24% of Water Institute faculty
+Rankings by Research Category:
+- Forestry Sciences: #4 of 8
+- Ecological Applications: #8 of 32
+- Agricultural, Veterinary and Food Sciences: #29 of 99

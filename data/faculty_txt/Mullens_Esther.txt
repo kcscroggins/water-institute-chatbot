@@ -29,3 +29,47 @@ Dr. Mullens produces mechanistic evidence on atmospheric drivers of precipitatio
 
 Keywords:
 climatology; precipitation; extreme rainfall; drought; synoptic meteorology; climate variability; climate change; flood hazards; heavy precipitation; winter storms; climate dynamics; water resources; National Climate Assessment; hydrologic extremes; transportation hazards
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 7
+- Total Citations: 20
+- H-Index: 2
+- Average Citations per Paper: 2.9
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 1.2 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Meteorological cause and characteristics of widespread heavy precipitation in the Texas Gulf watershed 2003–2018 *International Journal of Climatology* (2021) - 7 citations
+  DOI: https://doi.org/10.1002/joc.7046
+- Temporal and Spatial Analysis of Freezing Rain Regimes over Eastern North America *Journal of Applied Meteorology and Climatology* (2025) - 1 citations
+  DOI: https://doi.org/10.1175/jamc-d-24-0173.1
+- What Does a Modern Atmospheric Dynamics Course Look Like? *Bulletin of the American Meteorological Society* (2025) - 1 citations
+  DOI: https://doi.org/10.1175/bams-d-24-0231.1
+- A Weather Regime‐Based Analysis of Freezing Rain Trends in a Warmer Climate for Eastern North America *International Journal of Climatology* (2025)
+  DOI: https://doi.org/10.1002/joc.70233
+- A Climatology of Atmospheric River Severity Using an Adjusted IVT Scaling across U.S. Subdomains *Journal of Climate* (2025)
+  DOI: https://doi.org/10.1175/jcli-d-24-0539.1
+- The Role of Natural Climate Variability in Freezing Rain Occurrence across Central and Eastern North America *Journal of Climate* (2025)
+  DOI: https://doi.org/10.1175/jcli-d-25-0141.1
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3701 Atmospheric Sciences; 3702 Climate Change Science; 3709 Physical Geography and Environmental Geoscience; 3708 Oceanography
+
+Key Research Concepts (from Dimensions.ai):
+eastern North America; freezing rain; widespread heavy precipitation; meteorological causes; heavy precipitation; frontal systems; pluvial years; freezing rain events; rain events; North America
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Illinois at Urbana-Champaign
+- University of Massachusetts Lowell
+- University of North Carolina at Charlotte
+- University of Northern Colorado
+- Georgia Institute of Technology
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.2/10
+Percentile: Top 89% of Water Institute faculty
+Rankings by Research Category:
+- Climate Change Science: #5 of 5
+- Oceanography: #6 of 8
+- Physical Geography and Environmental Geoscience: #10 of 11

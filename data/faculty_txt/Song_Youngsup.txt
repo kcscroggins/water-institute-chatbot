@@ -27,3 +27,41 @@ Dr. Song's research develops innovative thermal transport and materials strategi
 
 Keywords:
 thermal-fluid science; heat transfer; phase change; boiling; multiphase processes; interfacial phenomena; surface engineering; thermal management; electronics cooling; thermal energy storage; flow batteries; advanced materials; mechanical engineering; energy systems
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 3
+- Total Citations: 8
+- H-Index: 2
+- Average Citations per Paper: 2.7
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.35 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Interactive Haptic System with Multimodal Tactile Sensing and Hydraulic Feedback for Realistic Human–Machine Interaction *Advanced Intelligent Systems* (2024) - 5 citations
+  DOI: https://doi.org/10.1002/aisy.202400578
+- Advanced Thermal Interface Materials: Insights into Low‐Temperature Sintering and High Thermal Conductivity of MgO *Advanced Materials* (2025) - 3 citations
+  DOI: https://doi.org/10.1002/adma.202510237
+- Simultaneous Heat and Electricity Storage in a Flow Battery System *ACS Omega* (2025)
+  DOI: https://doi.org/10.1021/acsomega.5c04280
+
+Research Categories (from Dimensions.ai):
+40 Engineering; 4016 Materials Engineering; 34 Chemical Sciences; 46 Information and Computing Sciences; 4009 Electronics, Sensors and Digital Hardware
+
+Key Research Concepts (from Dimensions.ai):
+robot hand; haptic system; haptic experience; tactile sensing; immersive haptic experience; high thermal conductivity; low-temperature sintering; thermal conductivity; effective thermal management; low thermal conductivity
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Korea Institute of Materials Science
+- Seoul National University of Science and Technology
+- Lawrence Berkeley National Laboratory
+- Kumoh National Institute of Technology
+- Pohang University of Science and Technology
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.2/10
+Percentile: Top 89% of Water Institute faculty
+Rankings by Research Category:
+- Electronics, Sensors and Digital Hardware: #2 of 2
+- Materials Engineering: #3 of 3
+- Chemical Sciences: #9 of 10

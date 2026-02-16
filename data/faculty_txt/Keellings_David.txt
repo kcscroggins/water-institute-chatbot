@@ -30,3 +30,59 @@ Answers the question: "How will extreme precipitation and climate variability in
 
 Keywords:
 climate extremes; tropical cyclones; rainfall hazards; heat waves; climate risk; disaster climatology; flooding; social vulnerability; southeastern United States; Caribbean; climate adaptation; hazard mapping
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 23
+- Total Citations: 1105
+- H-Index: 13
+- Average Citations per Paper: 48.0
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 4.83 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- The Disproportionate Impact of COVID-19 among Undocumented Immigrants and Racial Minorities in the US *International Journal of Environmental Research and Public Health* (2021) - 33 citations
+  DOI: https://doi.org/10.3390/ijerph182312708
+- Human Activity Coupled With Climate Change Strengthens the Role of Lakes as an Active Pipe of Dissolved Organic Matter *Earth's Future* (2023) - 26 citations
+  DOI: https://doi.org/10.1029/2022ef003412
+- Delineating and characterizing changes in heat wave events across the United States climate regions *Climatic Change* (2023) - 20 citations
+  DOI: https://doi.org/10.1007/s10584-022-03476-y
+- Climate change and the dynamics of age-related malaria incidence in Southern Africa *Environmental Research* (2021) - 19 citations
+  DOI: https://doi.org/10.1016/j.envres.2021.111017
+- Application of Machine Learning Classifiers for Mode Choice Modeling for Movement-Challenged Persons *Future Transportation* (2022) - 15 citations
+  DOI: https://doi.org/10.3390/futuretransp2020018
+- It's getting hot in here: Spatial impact of humidity on heat wave severity in the U.S. *The Science of The Total Environment* (2025) - 9 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2025.178397
+- Spatial and Temporal Variability of Extreme Precipitation Events in the Southeastern United States *Atmosphere* (2023) - 7 citations
+  DOI: https://doi.org/10.3390/atmos14081301
+- A Climate Extremes Resilience Index for the Conterminous United States *Weather Climate and Society* (2024) - 6 citations
+  DOI: https://doi.org/10.1175/wcas-d-23-0008.1
+- A Bayesian spatiotemporal approach to modelling arboviral diseases in Mexico *Transactions of the Royal Society of Tropical Medicine and Hygiene* (2023) - 5 citations
+  DOI: https://doi.org/10.1093/trstmh/trad064
+- Wildfires in the Arctic and tropical biomes: what is the relative role of climate? *Natural Hazards* (2022) - 5 citations
+  DOI: https://doi.org/10.1007/s11069-022-05452-2
+
+Research Grants (from Dimensions.ai):
+- A Spatiotemporal Investigation of Heat Wave Dynamics (2021-2023) - $340,528
+  Funder: Directorate for Social, Behavioral & Economic Sciences
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3701 Atmospheric Sciences; 3704 Geoinformatics; 3702 Climate Change Science; 31 Biological Sciences
+
+Key Research Concepts (from Dimensions.ai):
+heat waves; North American Regional Reanalysis; disproportionate impact; minority communities; spatial resolution model; Regional Reanalysis; Chromophoric Dissolved Organic Matter; dissolved organic matter; lake DOM; within-lake processes
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Alabama
+- State Key Laboratory of Lake Science and Environment
+- Nanjing Institute of Geography and Limnology
+- Michigan State University
+- University of Chinese Academy of Sciences
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.1/10
+Percentile: Top 46% of Water Institute faculty
+Rankings by Research Category:
+- Climate Change Science: #3 of 5
+- Geoinformatics: #5 of 7
+- Atmospheric Sciences: #8 of 17

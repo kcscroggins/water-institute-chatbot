@@ -29,3 +29,59 @@ Dr. McCleery produces ecological evidence that informs biodiversity conservation
 
 Keywords:
 wildlife ecology; conservation biology; land-use change; habitat fragmentation; invasive species; endangered species; small mammals; mesopredators; Burmese pythons; Everglades; Key Largo woodrat; marsh rabbit; prescribed fire; longleaf pine; habitat selection; remote sensing; biodiversity; ecosystem management
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 116
+- Total Citations: 2212
+- H-Index: 26
+- Average Citations per Paper: 19.1
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.38 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Fear of large carnivores is tied to ungulate habitat use: evidence from a bifactorial experiment *Scientific Reports* (2021) - 30 citations
+  DOI: https://doi.org/10.1038/s41598-021-92469-5
+- Poaching is directly and indirectly driving the decline of South Africa's large population of white rhinos *Animal Conservation* (2021) - 28 citations
+  DOI: https://doi.org/10.1111/acv.12720
+- Invasive Burmese pythons alter host use and virus infection in the vector of a zoonotic virus *Communications Biology* (2021) - 26 citations
+  DOI: https://doi.org/10.1038/s42003-021-02347-z
+- Ultraviolet Biofluorescence in Pocket Gophers *The American Midland Naturalist* (2021) - 11 citations
+  DOI: https://doi.org/10.1674/0003-0031-186.1.150
+- Climate change decouples dominant tree species in African savannas *Scientific Reports* (2023) - 10 citations
+  DOI: https://doi.org/10.1038/s41598-023-34550-9
+- Metagenomic Analysis Reveals Previously Undescribed Bat Coronavirus Strains in Eswatini *EcoHealth* (2021) - 10 citations
+  DOI: https://doi.org/10.1007/s10393-021-01567-3
+- Prey species increase activity in refugia free of terrestrial predators *Oecologia* (2023) - 8 citations
+  DOI: https://doi.org/10.1007/s00442-023-05350-9
+- Determining habitat requirements for the southeastern pocket gopher (Geomys pinetis) at multiple scales *Journal of Mammalogy* (2022) - 8 citations
+  DOI: https://doi.org/10.1093/jmammal/gyab144
+- White rhinos and other herbivores decrease visitations and increase vigilance in response to human vocalizations *Journal of Mammalogy* (2022) - 7 citations
+  DOI: https://doi.org/10.1093/jmammal/gyac083
+- Climate change likely to increase co-occurrence of island endemic and invasive wildlife *Climate Change Ecology* (2023) - 7 citations
+  DOI: https://doi.org/10.1016/j.ecochg.2022.100061
+
+Research Grants (from Dimensions.ai):
+- IRES Track I: understanding the global problem of defaunation through field experiments in southern Africa (2020-2024) - $299,472
+  Funder: Office of the Director
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 3103 Ecology; 41 Environmental Sciences; 4102 Ecological Applications; 4104 Environmental Management
+
+Key Research Concepts (from Dimensions.ai):
+white rhinos; pocket gophers; climate change; fox squirrels; ecosystem services; ungulate habitat use; control sites; large carnivores; habitat use; bi-factorial experiment
+
+Top Collaborating Institutions (from Dimensions.ai):
+- The Jones Center at Ichauway
+- University of Eswatini
+- University of Pretoria
+- University of Georgia
+- University of Copenhagen
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.9/10
+Percentile: Top 21% of Water Institute faculty
+Rankings by Research Category:
+- Ecological Applications: #7 of 32
+- Environmental Management: #9 of 46
+- Ecology: #14 of 59

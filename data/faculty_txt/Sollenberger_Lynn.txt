@@ -27,3 +27,63 @@ Dr. Sollenberger's research and extension leadership provide evidence-based fram
 
 Keywords:
 forage; grassland ecology; grazing management; forage quality; pasture systems; warm-season grasses; bahiagrass; limpograss; grass-legume mixtures; rhizoma peanut; livestock production; nutrient cycling; beef cattle; dairy; bioenergy crops; Professor Emeritus
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 186
+- Total Citations: 3134
+- H-Index: 29
+- Average Citations per Paper: 16.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.51 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Nutrient excretion from cattle grazing nitrogen‐fertilized grass or grass–legume pastures *Agronomy Journal* (2021) - 31 citations
+  DOI: https://doi.org/10.1002/agj2.20675
+- Water footprint, herbage, and livestock responses for nitrogen‐fertilized grass and grass–legume grazing systems *Crop Science* (2021) - 28 citations
+  DOI: https://doi.org/10.1002/csc2.20568
+- Herbage accumulation and tillering dynamics of ‘Zuri’ guineagrass under rotational stocking *Crop Science* (2021) - 15 citations
+  DOI: https://doi.org/10.1002/csc2.20536
+- Soil carbon and nitrogen stocks in nitrogen-fertilized grass and legume-grass forage systems *Nutrient Cycling in Agroecosystems* (2022) - 13 citations
+  DOI: https://doi.org/10.1007/s10705-021-10188-9
+- Inclusion of a tannin-rich legume in the diet of beef steers reduces greenhouse gas emissions from their excreta *Scientific Reports* (2022) - 11 citations
+  DOI: https://doi.org/10.1038/s41598-022-18523-y
+- Shade and nitrogen fertilization affect forage accumulation and nutritive value of C4 grasses differing in growth habit *Crop Science* (2021) - 11 citations
+  DOI: https://doi.org/10.1002/csc2.20617
+- Methane emissions and δ13C composition from beef steers consuming increasing proportions of sericea lespedeza hay on bermudagrass hay diets *Journal of Animal Science* (2021) - 11 citations
+  DOI: https://doi.org/10.1093/jas/skab224
+- Forage legume responses to climate change factors *Crop Science* (2024) - 8 citations
+  DOI: https://doi.org/10.1002/csc2.21304
+- Managing a mixed sward to maintain species and functional diversity *European Journal of Agronomy* (2023) - 8 citations
+  DOI: https://doi.org/10.1016/j.eja.2023.126883
+- Legume proportion affects bahiagrass–rhizoma peanut mixture production and nutritive value and legume composition of cattle diets *Applied Animal Science* (2022) - 8 citations
+  DOI: https://doi.org/10.15232/aas.2022-02297
+
+Research Grants (from Dimensions.ai):
+- DISPLACING IMPORTED PETROLEUM WITH RENEWABLES (2011-2013) - $135,507
+  Funder: National Institute of Food and Agriculture
+- EVALUATION OF THE POTENTIAL INVASIVENESS OF MULATO GRASS (2008-2011) - $112,931
+  Funder: National Institute of Food and Agriculture
+- Management to Minimize Nutrient Loss and Enhance Recycling in Grazed Swards (2002-2003)
+  Funder: Council for International Exchange of Scholars
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3004 Crop and Pasture Production; 3002 Agriculture, Land and Farm Management; 3003 Animal Production; 3007 Forestry Sciences
+
+Key Research Concepts (from Dimensions.ai):
+forage accumulation; grazing systems; herbage accumulation; nutritional value; rhizoma peanut; year‐round forage systems; legume–grass mixtures; forage systems; beef steers; inclusion of SL
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Universidade do Estado de Santa Catarina
+- University of the Republic
+- Clemson University
+- University of Georgia
+- U.S. Dairy Forage Research Center
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.2/10
+Percentile: Top 15% of Water Institute faculty
+Rankings by Research Category:
+- Animal Production: #1 of 4
+- Forestry Sciences: #2 of 8
+- Agriculture, Land and Farm Management: #6 of 24

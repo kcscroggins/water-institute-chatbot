@@ -27,3 +27,59 @@ Dr. Pearson's work informs best management practices and industry guidance aimed
 
 Keywords:
 environmental horticulture; plant nutrition; fertilization; substrates; container production; nursery management; greenhouse production; ornamental plants; sustainable production; nutrient efficiency; irrigation; best management practices; Florida horticulture
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 45
+- Total Citations: 448
+- H-Index: 13
+- Average Citations per Paper: 10.0
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.47 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Plant growth and phytoactive alkaloid synthesis in kratom [Mitragyna speciosa (Korth.)] in response to varying radiance *PLOS ONE* (2022) - 25 citations
+  DOI: https://doi.org/10.1371/journal.pone.0259326
+- Variations in mitragynine content in the naturally growing Kratom (Mitragyna speciosa) population of Thailand *Frontiers in Plant Science* (2022) - 24 citations
+  DOI: https://doi.org/10.3389/fpls.2022.1028547
+- The effect of CO2 concentration on yeast fermentation: rates, metabolic products, and yeast stress indicators *Journal of Industrial Microbiology & Biotechnology* (2023) - 22 citations
+  DOI: https://doi.org/10.1093/jimb/kuad001
+- Exploring native Scutellaria species provides insight into differential accumulation of flavones with medicinal properties *Scientific Reports* (2022) - 19 citations
+  DOI: https://doi.org/10.1038/s41598-022-17586-1
+- Variation in Hydric Response of Two Industrial Hemp Varieties (Cannabis sativa) to Induced Water Stress *Horticulturae* (2023) - 14 citations
+  DOI: https://doi.org/10.3390/horticulturae9040431
+- Impact of Blue Light on Plant Growth, Flowering and Accumulation of Medicinal Flavones in Scutellaria baicalensis and S. lateriflora *Horticulturae* (2022) - 9 citations
+  DOI: https://doi.org/10.3390/horticulturae8121141
+- Influence of Ethanol Concentration on the Extraction of Cannabinoid and Volatile Compounds for Dry-Hemped Beer *Beverages* (2024) - 3 citations
+  DOI: https://doi.org/10.3390/beverages10030065
+- Ginger, Galangal, and Turmeric Production in Florida: ENH1374/EP638, 8/2023 *EDIS* (2023) - 2 citations
+  DOI: https://doi.org/10.32473/edis-ep638-2023
+- Chapter 1 Botany, geographical distribution, and phytochemistry of Mitragyna speciosa (Korth.) and related species (2026) - 1 citations
+  DOI: https://doi.org/10.1016/b978-0-443-27412-1.00002-x
+- Patients’ Perceptions of Cannabis Contamination in Florida’s Medical Program *Medical Cannabis and Cannabinoids* (2024) - 1 citations
+  DOI: https://doi.org/10.1159/000542929
+
+Research Grants (from Dimensions.ai):
+- Commercial Production Techniques for Ethnobotanical Plant Species (2016-2021)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 30 Agricultural, Veterinary and Food Sciences; 3103 Ecology; 3108 Plant Biology; 3004 Crop and Pasture Production
+
+Key Research Concepts (from Dimensions.ai):
+leaf dry mass; plant growth; dry mass; medical cannabis patients; rooting hormone; fresh produce markets; produce market; potential market; average leaf size; leaf size of plants
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Institute of Food and Agricultural Sciences
+- Oregon State University
+- Kasetsart University
+- Purdue University West Lafayette
+- Pinney Associates (United States)
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.0/10
+Percentile: Top 49% of Water Institute faculty
+Rankings by Research Category:
+- Plant Biology: #12 of 18
+- Crop and Pasture Production: #32 of 41
+- Ecology: #37 of 59

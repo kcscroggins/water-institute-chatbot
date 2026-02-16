@@ -1,0 +1,81 @@
+Name: Tara Sabo-Attwood
+Role: Associate Professor and Chair
+Academic Unit: 
+Office: 
+Phone: 
+Email: sabo@phhp.ufl.edu
+Website: https://egh.phhp.ufl.edu/profile/sabo-attwood-tara/
+Google Scholar: 
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 75
+- Total Citations: 1553
+- H-Index: 23
+- Average Citations per Paper: 20.7
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.99 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- A multistate assessment of population normalization factors for wastewater-based epidemiology of COVID-19 *PLOS ONE* (2023) - 44 citations
+  DOI: https://doi.org/10.1371/journal.pone.0284370
+- One Health *Current Biology* (2024) - 29 citations
+  DOI: https://doi.org/10.1016/j.cub.2024.04.025
+- A Narrative Review of Occupational Air Pollution and Respiratory Health in Farmworkers *International Journal of Environmental Research and Public Health* (2021) - 28 citations
+  DOI: https://doi.org/10.3390/ijerph18084097
+- Wastewater surveillance for SARS-CoV-2 in a small coastal community: Effects of tourism on viral presence and variant identification among low prevalence populations *Environmental Research* (2021) - 22 citations
+  DOI: https://doi.org/10.1016/j.envres.2021.112496
+- Nano‐scale applications in aquaculture: Opportunities for improved production and disease control *Journal of Fish Diseases* (2021) - 19 citations
+  DOI: https://doi.org/10.1111/jfd.13332
+- Toxicity of microplastic fibers containing azobenzene disperse dyes to human lung epithelial cells cultured at an air-liquid interface *Journal of Hazardous Materials* (2024) - 11 citations
+  DOI: https://doi.org/10.1016/j.jhazmat.2024.136280
+- Prenatal Exposure to Ambient PM2.5 and Early Childhood Growth Impairment Risk in East Africa *Toxics* (2022) - 11 citations
+  DOI: https://doi.org/10.3390/toxics10110705
+- Earliest detection to date of SARS-CoV-2 in Florida: Identification together with influenza virus on the main entry door of a university building, February 2020 *PLOS ONE* (2021) - 11 citations
+  DOI: https://doi.org/10.1371/journal.pone.0245352
+- Retrospective Analysis of Wastewater-Based Epidemiology of SARS-CoV‑2 in Residences on a Large College Campus: Relationships between Wastewater Outcomes and COVID-19 Cases across Two Semesters with Different COVID-19 Mitigation Policies *ACS ES&T Water* (2022) - 10 citations
+  DOI: https://doi.org/10.1021/acsestwater.2c00275
+- A Social Vulnerability Index for Air Pollution and Its Spatially Varying Relationship to PM2.5 in Uganda *Atmosphere* (2022) - 10 citations
+  DOI: https://doi.org/10.3390/atmos13081169
+
+Research Grants (from Dimensions.ai):
+- Assessing the Pulmonary Toxicity of Microplastic Fibers Complexed with Azo Dyes (2022-2024) - $416,453
+  Funder: National Institute of Environmental Health Sciences
+- RAPID: Collaborative Research: Transforming passive protective face masks toward active capture and inactivation of coronavirus with nano-assisted surfactant modification (2020-2022) - $109,100
+  Funder: Directorate for Engineering
+- National Drug Early Warning System Coordinating Center (NDEWS) (2020-2030) - $5,323,137
+  Funder: National Institute on Drug Abuse
+- Planning Grant: Engineering Research Center for Intelligent Sensing, Mapping, and Forecasting of Water Quality for Sustainable Coastal Ecosystems (iCoast) (2019-2021) - $100,000
+  Funder: Directorate for Engineering
+- Understanding how interaction of single-walled carbon nanotubes with biological interfaces in the gastrointestinal system may alter chemical bioavailability (2016-2021) - $299,999
+  Funder: Directorate for Engineering
+
+Patents (from Dimensions.ai):
+- Detecting hormonally active compounds (2003) - 3 citations
+
+Research Categories (from Dimensions.ai):
+32 Biomedical and Clinical Sciences; 41 Environmental Sciences; 34 Chemical Sciences; 42 Health Sciences; 3202 Clinical Sciences
+
+Key Research Concepts (from Dimensions.ai):
+wastewater-based epidemiology; air pollution; reverse transcription quantitative polymerase chain reaction; real-time reverse transcription quantitative polymerase chain reaction; human fecal indicators; wastewater concentration; health concepts; health; colleagues; interdisciplinary framework
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Aerosol Dynamics Inc
+- University of Miami
+- Florida Department of Health
+- 711th Human Performance Wing
+- Swedish University of Agricultural Sciences

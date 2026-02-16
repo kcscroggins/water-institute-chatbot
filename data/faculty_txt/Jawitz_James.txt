@@ -27,4 +27,64 @@ Representative Themes & Expertise:
 - Field and analytical work on nutrient loads, man-made disturbances and restoration  
 
 Keywords:  
-Landscape hydrology; water sustainability; watershed modelling; wetland ecology; contaminant transport; aquifer remediation; biogeochemistry; nutrient loading; natural and managed water systems; ecosystem services.  
+Landscape hydrology; water sustainability; watershed modelling; wetland ecology; contaminant transport; aquifer remediation; biogeochemistry; nutrient loading; natural and managed water systems; ecosystem services.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 115
+- Total Citations: 4706
+- H-Index: 36
+- Average Citations per Paper: 40.9
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.92 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Theoretical and empirical evidence against the Budyko catchment trajectory conjecture *Hydrology and Earth System Sciences* (2022) - 50 citations
+  DOI: https://doi.org/10.5194/hess-26-1507-2022
+- Why wastewater treatment fails to protect stream ecosystems in Europe *Water Research* (2022) - 48 citations
+  DOI: https://doi.org/10.1016/j.watres.2022.118382
+- Divergence Between Long‐Term and Event‐Scale Nitrate Export Patterns *Geophysical Research Letters* (2024) - 13 citations
+  DOI: https://doi.org/10.1029/2024gl108437
+- Drivers of multi-decadal nitrate regime shifts in a large European catchment *Environmental Research Letters* (2022) - 13 citations
+  DOI: https://doi.org/10.1088/1748-9326/ac6f6a
+- Coherence of global hydroclimate classification systems *Hydrology and Earth System Sciences* (2021) - 8 citations
+  DOI: https://doi.org/10.5194/hess-25-6173-2021
+- Climatic Asynchrony and Hydrologic Inefficiency Explain the Global Pattern of Water Availability *Geophysical Research Letters* (2022) - 7 citations
+  DOI: https://doi.org/10.1029/2022gl101214
+- Nitrate attenuation potential in karst conduits and aquifer matrix *Journal of Hydrology* (2023) - 4 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2023.129896
+- From Iron Curtain to green belt: shift from heterotrophic to autotrophic nitrogen retention in the Elbe River over 35 years of passive restoration *Biogeosciences* (2024) - 3 citations
+  DOI: https://doi.org/10.5194/bg-21-3537-2024
+- Spatial and Temporal Variability of River Water Quality *Hydrological Processes* (2025) - 2 citations
+  DOI: https://doi.org/10.1002/hyp.70154
+- Energy inputs imprint seasonality and fractal structure on river metabolic regimes *Limnology and Oceanography Letters* (2024) - 2 citations
+  DOI: https://doi.org/10.1002/lol2.10416
+
+Research Grants (from Dimensions.ai):
+- Dominant controls on catchment water quality dynamics: A Germany-wide analysis using data-driven models (2018-2023)
+  Funder: Deutsche Forschungsgemeinschaft
+- A Sustainable Approach to Preserve the Choctawhatchee Coastal Dune Lakes of Florida (2007-2008) - $9,941
+  Funder: Environmental Protection Agency
+- Social Network Analysis of the Collaborative Interaction of Scientists in Academic and Non-academic Settings (2007-2010) - $355,993
+  Funder: Directorate for Social, Behavioral & Economic Sciences
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3707 Hydrology; 3701 Atmospheric Sciences; 31 Biological Sciences; 3103 Ecology
+
+Key Research Concepts (from Dimensions.ai):
+gross primary production; Elbe River; DIN retention; pollution pressure; spatiotemporal variability; ecosystem respiration; Budyko equation; individual catchments; Budyko framework; Budyko curve
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Helmholtz Centre for Environmental Research
+- Federal University of Bahia
+- Pukyong National University
+- University of Duisburg-Essen
+- University of Freiburg
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.8/10
+Percentile: Top 8% of Water Institute faculty
+Rankings by Research Category:
+- Atmospheric Sciences: #2 of 17
+- Hydrology: #2 of 18
+- Ecology: #7 of 59

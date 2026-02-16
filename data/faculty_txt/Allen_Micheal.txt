@@ -34,3 +34,55 @@ Teaching:
 
 Keywords:
 Fish population dynamics; fisheries management; freshwater fisheries; coastal fisheries; aquatic ecology; sustainable harvest; fishing mortality; invasive species; habitat ecology; species interactions; Nature Coast; Gulf of Mexico; fisheries conservation; population modeling.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 95
+- Total Citations: 2572
+- H-Index: 30
+- Average Citations per Paper: 27.1
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 6.49 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- The impacts of mangrove range expansion on wetland ecosystem services in the southeastern United States: Current understanding, knowledge gaps, and emerging research needs *Global Change Biology* (2022) - 90 citations
+  DOI: https://doi.org/10.1111/gcb.16111
+- Challenges and opportunities for sustainable development and management of marine recreational and sport fisheries in the Western Indian Ocean *Marine Policy* (2021) - 32 citations
+  DOI: https://doi.org/10.1016/j.marpol.2020.104351
+- Cascading effects of climate change on recreational marine flats fishes and fisheries *Environmental Biology of Fishes* (2022) - 26 citations
+  DOI: https://doi.org/10.1007/s10641-022-01333-6
+- The bioeconomic paradox of market-based invasive species harvest: a case study of the commercial lionfish fishery *Biological Invasions* (2023) - 15 citations
+  DOI: https://doi.org/10.1007/s10530-023-02998-5
+- The U.S. Inland Creel and Angler Survey Catalog (CreelCat): Development, Applications, and Opportunities *Fisheries* (2021) - 13 citations
+  DOI: https://doi.org/10.1002/fsh.10671
+- Density- and size-dependent mechanisms modulate the outcome of stocking in a naturally recruiting freshwater piscivore (northern pike, Esox lucius): A replicated whole-lake experiment *Fisheries Research* (2023) - 9 citations
+  DOI: https://doi.org/10.1016/j.fishres.2023.106799
+- Ecology for Understanding Recreational Fishers and Fisheries *Fish & Fisheries Series* (2025) - 5 citations
+  DOI: https://doi.org/10.1007/978-3-031-99739-6_4
+- Testing a Bite‐Shortened Hook to Minimize Fish Handling in a Recreational Fishery *Fisheries* (2021) - 5 citations
+  DOI: https://doi.org/10.1002/fsh.10608
+- Live-imaging sonar use in Texas crappie fisheries: Examining population-level responses due to potential increases in exploitation *Fisheries* (2025) - 2 citations
+  DOI: https://doi.org/10.1093/fshmag/vuae015
+- Recreational fishing effort and how management actions can affect it—Part 1: Theory: FA257, 4/2023 *EDIS* (2023)
+  DOI: https://doi.org/10.32473/edis-fa257-2023
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 3005 Fisheries Sciences; 4104 Environmental Management; 41 Environmental Sciences; 31 Biological Sciences
+
+Key Research Concepts (from Dimensions.ai):
+recreational fisheries; effects of climate change; climate change; cascading effects; cascading effects of climate change; mangrove range expansion; wetland ecosystem services; mangrove expansion; ecosystem services; salt marshes
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Massachusetts Amherst
+- Bonefish and Tarpon Trust
+- United States Geological Survey
+- Florida International University
+- Northeastern University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.4/10
+Percentile: Top 11% of Water Institute faculty
+Rankings by Research Category:
+- Fisheries Sciences: #2 of 12
+- Environmental Management: #3 of 46
+- Agricultural, Veterinary and Food Sciences: #12 of 99

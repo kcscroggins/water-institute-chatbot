@@ -37,3 +37,59 @@ Policy Relevance:
 
 Keywords:
 Agricultural water management; nutrient management; nitrogen; phosphorus; BMPs; best management practices; stormwater; permeable pavement; watershed modeling; SWAT; water quality; runoff; leaching; springs protection; BMAPs; TMDL; agricultural engineering; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 44
+- Total Citations: 808
+- H-Index: 14
+- Average Citations per Paper: 18.4
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.01 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Constructed Wetlands for Water Quality Improvement: A Synthesis on Nutrient Reduction from Agricultural Effluents *Journal of the ASABE* (2021) - 33 citations
+  DOI: https://doi.org/10.13031/trans.13976
+- Mud in the city: Effects of freshwater salinization on inland urban wetland nitrogen and phosphorus availability and export *Limnology and Oceanography Letters* (2022) - 23 citations
+  DOI: https://doi.org/10.1002/lol2.10273
+- Internal nitrogen dynamics in stormwater pond sediments are influenced by pond age and inorganic nitrogen availability *Biogeochemistry* (2021) - 19 citations
+  DOI: https://doi.org/10.1007/s10533-021-00843-2
+- Leaching of select per-/poly-fluoroalkyl substances, pharmaceuticals, and hormones through soils amended with composted biosolids *Journal of Environmental Management* (2023) - 17 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2023.118185
+- HUM: A review of hydrochemical analysis using ultraviolet-visible absorption spectroscopy and machine learning *The Science of The Total Environment* (2023) - 15 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2023.165826
+- Are stormwater detention ponds protecting urban aquatic ecosystems? a case study using depressional wetlands *Urban Ecosystems* (2022) - 9 citations
+  DOI: https://doi.org/10.1007/s11252-022-01208-9
+- GatorByte – An Internet of Things-Based Low-Cost, Compact, and Real-Time Water Resource Monitoring Buoy *HardwareX* (2023) - 8 citations
+  DOI: https://doi.org/10.1016/j.ohx.2023.e00427
+- Stormwater ponds: Unaccounted environmental challenges of a widely-adopted best management practice in urban landscapes *Journal of Environmental Management* (2025) - 5 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2025.124170
+- GatorByte: A Water-Quality Mapping Buoy for Locating Watershed Pollution Sources (2022) - 4 citations
+  DOI: https://doi.org/10.1109/sensors52175.2022.9967172
+- Design, Construction, and Installation of a Drainage Lysimeter for Use on Sandy, Well-Drained Soils under Turfgrass *EDIS* (2021) - 4 citations
+  DOI: https://doi.org/10.32473/edis-ae554-2021
+
+Research Grants (from Dimensions.ai):
+- RAISE: Safeguarding U.S. Coastal Groundwater Supplies from Flooding and Saltwater Intrusion (2025-2028) - $999,721
+  Funder: Directorate for Geosciences
+
+Research Categories (from Dimensions.ai):
+40 Engineering; 41 Environmental Sciences; 4011 Environmental Engineering; 37 Earth Sciences; 4104 Environmental Management
+
+Key Research Concepts (from Dimensions.ai):
+stormwater ponds; water quality protection; stormwater runoff; low-cost sensors; on-field diagnostics; resource monitoring system; fecal indicator bacteria; stormwater control measures; agricultural effluents; Constructed wetlands
+
+Top Collaborating Institutions (from Dimensions.ai):
+- East Carolina University
+- Auburn University
+- The Ohio State University
+- Institute of Food and Agricultural Sciences
+- Georgia College & State University
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.1/10
+Percentile: Top 46% of Water Institute faculty
+Rankings by Research Category:
+- Environmental Engineering: #2 of 6
+- Environmental Management: #22 of 46
+- Engineering: #27 of 53

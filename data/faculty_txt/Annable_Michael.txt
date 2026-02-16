@@ -43,3 +43,51 @@ Patents:
 
 Keywords:
 Water Institute affiliate; environmental engineering; hydrology; water quality; subsurface remediation; contaminant transport; passive flux meters; porous media; groundwater; NAPL; aquifer remediation; wetlands hydrology; water resources; biochar; VOC removal
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 101
+- Total Citations: 3080
+- H-Index: 31
+- Average Citations per Paper: 30.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 1.4 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Analysis of Facilitated Air Intrusion during Surfactant-enhanced Air Sparging Using Surface Tension-reducing Chemicals: Surfactants and Alcohols *Soil and Sediment Contamination An International Journal* (2021) - 6 citations
+  DOI: https://doi.org/10.1080/15320383.2021.1913574
+- Nitrate attenuation potential in karst conduits and aquifer matrix *Journal of Hydrology* (2023) - 4 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2023.129896
+- Aquifer remediation using surfactant-enhanced gas sparging applied to target the contaminant source *Journal of Contaminant Hydrology* (2022) - 4 citations
+  DOI: https://doi.org/10.1016/j.jconhyd.2022.104002
+- Per- and polyfluoroalkyl substances (PFAS) mass flux and mass balance at an aqueous film-forming foam release site in semiarid eastern New Mexico, USA *Journal of Contaminant Hydrology* (2025) - 3 citations
+  DOI: https://doi.org/10.1016/j.jconhyd.2025.104550
+- Temporary hydraulic barriers using organic gel for enhanced aquifer remediation during groundwater flushing: Bench-scale experiments *Journal of Contaminant Hydrology* (2023) - 3 citations
+  DOI: https://doi.org/10.1016/j.jconhyd.2023.104143
+- Rainfall-Runoff Time Lags from Saltwater Interface Interactions in Atlantic Coastal Plain Basins *Water* (2022)
+  DOI: https://doi.org/10.3390/w15010142
+
+Research Grants (from Dimensions.ai):
+- U.S.-Brazil Collaboration: Investigation of Subsurface Contaminant Mass Flows (2008-2011) - $19,800
+  Funder: Office of the Director
+
+Research Categories (from Dimensions.ai):
+3707 Hydrology; 37 Earth Sciences; 41 Environmental Sciences; 3705 Geology; 4106 Soil Sciences
+
+Key Research Concepts (from Dimensions.ai):
+air sparging; groundwater flow; surfactant-enhanced air sparging; sand-packed columns; air intrusion; air saturation; push-pull tracer tests; karst aquifers; short residence time; residence time
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Hallym University
+- Pukyong National University
+- United States Geological Survey
+- Enviroflux, 1140 NW 8th Ave, Gainesville, Florida 32601, USA.
+- Federal University of Bahia
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.3/10
+Percentile: Top 12% of Water Institute faculty
+Rankings by Research Category:
+- Soil Sciences: #2 of 14
+- Geology: #3 of 11
+- Hydrology: #4 of 18

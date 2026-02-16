@@ -26,3 +26,20 @@ Water & Policy Relevance:
 
 Keywords:
 Operations research; optimization; stochastic modeling; decision analysis; resource allocation; risk management; uncertainty; systems engineering; infrastructure optimization; environmental decision-making; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 6
+- Total Citations: 56
+- H-Index: 5
+- Average Citations per Paper: 9.3
+
+Research Grants (from Dimensions.ai):
+- Smart Markets for Black-box Capacity Allocation (2016-2018) - $242,562
+  Funder: Directorate for Engineering
+- Mechanism Design for Complex Systems: A Black-box Model Approach (2015-2019) - $453,876
+  Funder: United States Department of the Air Force
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.5/10
+Percentile: Top 72% of Water Institute faculty

@@ -32,3 +32,61 @@ Water & Policy Relevance:
 
 Keywords:
 Ecosystem modeling; Ecopath with Ecosim; quantitative fisheries; food-web dynamics; Gulf of Mexico; West Florida Shelf; marine ecology; fisheries management; trophic interactions; red tide; climate change; decision support; NOAA; Nature Coast Biological Station; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 33
+- Total Citations: 693
+- H-Index: 15
+- Average Citations per Paper: 21.0
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 6.74 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Combining Ecosystem and Single-Species Modeling to Provide Ecosystem-Based Fisheries Management Advice Within Current Management Systems *Frontiers in Marine Science* (2021) - 120 citations
+  DOI: https://doi.org/10.3389/fmars.2020.607831
+- Making spatial-temporal marine ecosystem modelling better – A perspective *Environmental Modelling & Software* (2021) - 53 citations
+  DOI: https://doi.org/10.1016/j.envsoft.2021.105209
+- Increasing the uptake of multispecies models in fisheries management *ICES Journal of Marine Science* (2023) - 45 citations
+  DOI: https://doi.org/10.1093/icesjms/fsad001
+- A Synthesis of Deepwater Horizon Impacts on Coastal and Nearshore Living Marine Resources *Frontiers in Marine Science* (2021) - 27 citations
+  DOI: https://doi.org/10.3389/fmars.2020.594862
+- Calibrating ecosystem models to support ecosystem-based management of marine systems *ICES Journal of Marine Science* (2024) - 24 citations
+  DOI: https://doi.org/10.1093/icesjms/fsad213
+- 5.7 Advances in spatial‐temporal coastal and marine ecosystem modeling using Ecospace (2024) - 18 citations
+  DOI: https://doi.org/10.1016/b978-0-323-90798-9.00035-4
+- Evaluating red tide effects on the West Florida Shelf using a spatiotemporal ecosystem modeling framework *Scientific Reports* (2023) - 16 citations
+  DOI: https://doi.org/10.1038/s41598-023-29327-z
+- The bioeconomic paradox of market-based invasive species harvest: a case study of the commercial lionfish fishery *Biological Invasions* (2023) - 15 citations
+  DOI: https://doi.org/10.1007/s10530-023-02998-5
+- Evidence of population-level impacts and resiliency for Gulf of Mexico shelf taxa following the Deepwater Horizon oil spill *Frontiers in Marine Science* (2023) - 8 citations
+  DOI: https://doi.org/10.3389/fmars.2023.1198163
+- Systematic evaluation of a spatially explicit ecosystem model to inform area-based management in the deep-sea *Ocean & Coastal Management* (2023) - 6 citations
+  DOI: https://doi.org/10.1016/j.ocecoaman.2023.106807
+
+Research Grants (from Dimensions.ai):
+- Applied fisheries and ecosystem modeling for managing marine resources in a changing environment (2020-2025)
+  Funder: National Institute of Food and Agriculture
+- Ecosystem Modeling to Improve Fisheries Management in the Gulf of Mexico (2017-2022) - $851,838
+  Funder: National Oceanic and Atmospheric Administration
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 4104 Environmental Management; 31 Biological Sciences; 3103 Ecology; 4101 Climate Change Impacts and Adaptation
+
+Key Research Concepts (from Dimensions.ai):
+fisheries management; ecosystem-based fisheries management; marine ecosystem model; ecosystem model; artificial reefs; Before-After-Control-Impact; single-species model; ecological reference points; target F; ecosystem-based
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Southeast Fisheries Science Center
+- National Marine Fisheries Service
+- Ecopath International Initiative
+- University of South Florida St. Petersburg
+- University of the Azores
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.3/10
+Percentile: Top 35% of Water Institute faculty
+Rankings by Research Category:
+- Climate Change Impacts and Adaptation: #6 of 16
+- Environmental Management: #19 of 46
+- Ecology: #24 of 59

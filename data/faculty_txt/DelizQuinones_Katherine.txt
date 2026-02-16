@@ -30,4 +30,50 @@ Representative Themes & Expertise:
 - Community engagement research (CEnR) and sustainability  
 
 Keywords:  
-Contaminant fate-transport; pathogen exposure; water systems engineering; ecological engineering; remediation; PFAS; antibiotic resistance; environmental microbiomes; community resilience; built-natural systems integration.  
+Contaminant fate-transport; pathogen exposure; water systems engineering; ecological engineering; remediation; PFAS; antibiotic resistance; environmental microbiomes; community resilience; built-natural systems integration.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 7
+- Total Citations: 120
+- H-Index: 6
+- Average Citations per Paper: 17.1
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 4.74 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Assessment of per- and polyfluoroalkyl substances (PFAS) in the Indian River Lagoon and Atlantic coast of Brevard County, FL, reveals distinct spatial clusters *Chemosphere* (2022) - 34 citations
+  DOI: https://doi.org/10.1016/j.chemosphere.2022.134478
+- Insights into solid phase denitrification in wastewater tertiary treatment: the role of solid carbon source in carbon biodegradation and heterotrophic denitrification *Bioresource Technology* (2023) - 22 citations
+  DOI: https://doi.org/10.1016/j.biortech.2023.128838
+- Trees, trash, and hurricanes: The case study of Puerto Rico and vegetative disaster debris management after Hurricanes Irma and Maria *International Journal of Disaster Risk Reduction* (2022) - 9 citations
+  DOI: https://doi.org/10.1016/j.ijdrr.2022.103298
+- Swimming with PFAS in public and private pools *Chemosphere* (2022) - 8 citations
+  DOI: https://doi.org/10.1016/j.chemosphere.2022.136765
+- Systems Thinking and Solid Waste Management in Puerto Rico: Feedback Loops over Time *Sustainability* (2023) - 6 citations
+  DOI: https://doi.org/10.3390/su15054648
+- Quantitative and Spatial Assessment of Per- and Polyfluoroalkyl Substances (Pfas) in the Indian River Lagoon and Atlantic Coast of Brevard County, Fl *SSRN Electronic Journal* (2022)
+  DOI: https://doi.org/10.2139/ssrn.4031401
+
+Research Grants (from Dimensions.ai):
+- Building Resilience to PFAS Exposure on Vulnerable Coastal Communities Prone to Extreme Weather Floods: Brevard County FL as a Case Study (2020-2023) - $798,193
+  Funder: Environmental Protection Agency
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 4105 Pollution and Contamination; 4407 Policy and Administration; 44 Human Society; 30 Agricultural, Veterinary and Food Sciences
+
+Key Research Concepts (from Dimensions.ai):
+polyfluoroalkyl substances; Indian River Lagoon; Brevard County; aqueous film-forming foams; PFAS profiles; solid carbon source; synthetic biodegradable polymers; wastewater tertiary treatment; shorter HRT; heterotrophic denitrification
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Chongqing University
+- State University of New York College of Environmental Science and Forestry
+- BERG LLC
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.6/10
+Percentile: Top 67% of Water Institute faculty
+Rankings by Research Category:
+- Policy and Administration: #4 of 4
+- Pollution and Contamination: #10 of 13
+- Human Society: #15 of 27

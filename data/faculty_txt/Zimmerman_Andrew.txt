@@ -28,3 +28,67 @@ Zimmerman's research informs climate and land-management policy by clarifying th
 
 Keywords:
 environmental geochemistry; isotope geochemistry; carbon cycling; organic matter; soil carbon; sediment biogeochemistry; carbon storage; climate feedbacks; land-water interface; stable isotopes; carbon persistence; Earth system science
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 130
+- Total Citations: 21793
+- H-Index: 64
+- Average Citations per Paper: 167.6
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 9.48 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Mechanisms and adsorption capacities of hydrogen peroxide modified ball milled biochar for the removal of methylene blue from aqueous solutions *Bioresource Technology* (2021) - 163 citations
+  DOI: https://doi.org/10.1016/j.biortech.2021.125432
+- Sewage sludge biochars as effective PFAS-sorbents *Journal of Hazardous Materials* (2022) - 96 citations
+  DOI: https://doi.org/10.1016/j.jhazmat.2022.130449
+- Hydrothermal carbonization of distillers grains with clay minerals for enhanced adsorption of phosphate and methylene blue *Bioresource Technology* (2021) - 85 citations
+  DOI: https://doi.org/10.1016/j.biortech.2021.125725
+- Microwave biochars produced with activated carbon catalyst: Characterization and sorption of volatile organic compounds (VOCs) *The Science of The Total Environment* (2022) - 76 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2022.153996
+- Microwave-assisted pyrolysis derived biochar for volatile organic compounds treatment: Characteristics and adsorption performance *Bioresource Technology* (2022) - 69 citations
+  DOI: https://doi.org/10.1016/j.biortech.2022.127274
+- Fixed bed column performance of Al-modified biochar for the removal of sulfamethoxazole and sulfapyridine antibiotics from wastewater *Chemosphere* (2022) - 57 citations
+  DOI: https://doi.org/10.1016/j.chemosphere.2022.135475
+- Synthesis of hickory biochar via one-step acidic ball milling: Characteristics and titan yellow adsorption *Journal of Cleaner Production* (2022) - 44 citations
+  DOI: https://doi.org/10.1016/j.jclepro.2022.130575
+- Applications, impacts, and management of biochar persistent free radicals: A review *Environmental Pollution* (2023) - 43 citations
+  DOI: https://doi.org/10.1016/j.envpol.2023.121543
+- P-enriched hydrochar for soil remediation: Synthesis, characterization, and lead stabilization *The Science of The Total Environment* (2021) - 34 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2021.146983
+- Characteristics and aqueous dye removal ability of novel biosorbents derived from acidic and alkaline one-step ball milling of hickory wood *Chemosphere* (2022) - 30 citations
+  DOI: https://doi.org/10.1016/j.chemosphere.2022.136610
+
+Research Grants (from Dimensions.ai):
+- Collaborative Research: Exploring the dynamic interaction between pyrogenic carbon and extracellular enzymes and its impacts on organic matter cycling in fire-impacted environments (2021-2026) - $128,542
+  Funder: Directorate for Geosciences
+- Detection of dissolved pyrogenic carbon export following the Southern California fires of 2017 (2018-2022) - $38,651
+  Funder: Directorate for Geosciences
+- Collaborative Research: Dissolved pyrogenic organic matter dynamics in the environment (2015-2020) - $171,916
+  Funder: Directorate for Geosciences
+- Biodegradation of the Deepwater Horizon Oil in Florida Marsh Ecosystems and Exploration of Novel Passive Remediation Strategies (2010-present)
+  Funder: Gulf of Mexico Research Initiative
+- Collaborative Research: Pre-Columbian Human Impacts on Amazonian Ecosystems (2008-2011) - $50,001
+  Funder: Directorate for Biological Sciences
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 4104 Environmental Management; 40 Engineering; 30 Agricultural, Veterinary and Food Sciences; 31 Biological Sciences
+
+Key Research Concepts (from Dimensions.ai):
+adsorption capacity; intraparticle diffusion kinetic models; methyl violet; oxygen-containing functional groups; methylene blue; ball milled biochar; co-hydrothermal carbonization; total pore volume; diffusion kinetic models; persistent free radicals
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Changchun University
+- Shandong Agricultural University
+- Jilin University
+- Xuzhou University of Technology
+- State Key Laboratory of Inorganic Synthesis and Preparative Chemistry
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 6.4/10
+Percentile: Top 0% of Water Institute faculty
+Rankings by Research Category:
+- Agricultural, Veterinary and Food Sciences: #1 of 99
+- Engineering: #1 of 53
+- Environmental Sciences: #1 of 135

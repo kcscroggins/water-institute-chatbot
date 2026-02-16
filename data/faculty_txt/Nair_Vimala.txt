@@ -32,3 +32,51 @@ Dr. Nair produces mechanistic and applied science on nutrient fate and transport
 
 Keywords:
 phosphorus; phosphorus cycling; nutrient transport; environmental soil chemistry; soil carbon; carbon sequestration; biochar; agroforestry; phosphorus saturation; risk assessment; legacy phosphorus; wetlands; Everglades; water quality; groundwater; nutrient management; SSSA Fellow; ASA Fellow
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 63
+- Total Citations: 4021
+- H-Index: 29
+- Average Citations per Paper: 63.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 16.66 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- An Introduction to Agroforestry, Four Decades of Scientific Developments (2021) - 352 citations
+  DOI: https://doi.org/10.1007/978-3-030-75358-0
+- Soil carbon stock and stability under Eucalyptus-based silvopasture and other land-use systems in the Cerrado biodiversity hotspot *Journal of Environmental Management* (2021) - 37 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2021.113676
+- Site-Specific Mehlich 3-P Recommendations for Florida’s Sandy Soils *Communications in Soil Science and Plant Analysis* (2024) - 5 citations
+  DOI: https://doi.org/10.1080/00103624.2024.2433151
+- The dynamics, analysis, and sustainable management of phosphorus in muck soils: a review *Frontiers in Environmental Science* (2025) - 1 citations
+  DOI: https://doi.org/10.3389/fenvs.2025.1703620
+- Sources of soil organic carbon under Eucalyptus silvopastures and other land-use systems in Brazilian Oxisols *Geoderma Regional* (2025) - 1 citations
+  DOI: https://doi.org/10.1016/j.geodrs.2024.e00907
+- Tug of war between source and sink dynamics, evaluating soil phosphorus storage in a subtropical treatment wetland. *Research Square* (2024) - 1 citations
+  DOI: https://doi.org/10.21203/rs.3.rs-4258923/v1
+- Bioavailable phosphorus across Florida’s diverse soil orders: implications for crop productivity and environmental protection *Frontiers in Environmental Science* (2026)
+  DOI: https://doi.org/10.3389/fenvs.2026.1748291
+- Seal Tightly and Store in a Cool Dry Place: Exploring Soil Phosphorus Storage in a Subtropical Treatment Wetland. *Research Square* (2021)
+  DOI: https://doi.org/10.21203/rs.3.rs-824704/v1
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 30 Agricultural, Veterinary and Food Sciences; 4104 Environmental Management; 3002 Agriculture, Land and Farm Management; 3004 Crop and Pasture Production
+
+Key Research Concepts (from Dimensions.ai):
+land-use systems; silvopastoral systems; native forest; soil P storage capacity; Stormwater Treatment Areas; Everglades Stormwater Treatment Areas; soil depth; soil quality improvement; production of food; decades of scientific development
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Federal University of Lavras
+- Arunachal University of Studies, Namsai, Arunachal Pradesh, India
+- Embrapa Goat and Sheep, Estrada Sobral/Groaíras, Km 04, Sobral, CE, 62010-970, Brazil. Electronic address: rafael.tonucci@embrapa.br.
+- University of California, Davis
+- Embrapa Goat and Sheep, Estrada Sobral/Groaíras, km 04, Sobral, CE 62010-970, Brazil
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 2.8/10
+Percentile: Top 8% of Water Institute faculty
+Rankings by Research Category:
+- Environmental Management: #2 of 46
+- Agriculture, Land and Farm Management: #3 of 24
+- Crop and Pasture Production: #6 of 41

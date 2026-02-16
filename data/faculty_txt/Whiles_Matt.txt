@@ -27,3 +27,55 @@ Representative Themes & Expertise:
 
 Keywords:  
 Freshwater ecology; streams; aquatic insects; ecosystem function; amphibian decline; headwater systems; nutrient cycling; energy flow; land use change; aquatic habitat restoration.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 42
+- Total Citations: 228
+- H-Index: 7
+- Average Citations per Paper: 5.4
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.85 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Global patterns of allochthony in stream–riparian meta‐ecosystems *Ecology Letters* (2024) - 17 citations
+  DOI: https://doi.org/10.1111/ele.14401
+- Reciprocal subsidies between temporary ponds and riparian forests *Limnology and Oceanography* (2021) - 16 citations
+  DOI: https://doi.org/10.1002/lno.11868
+- The Music of Rivers: The Mathematics of Waves Reveals Global Structure and Drivers of Streamflow Regime *Water Resources Research* (2023) - 13 citations
+  DOI: https://doi.org/10.1029/2023wr034484
+- Incorporating the riverscape into models of river–floodplain function *Frontiers in Freshwater Science* (2023) - 5 citations
+  DOI: https://doi.org/10.3389/ffwsc.2023.1265423
+- The Roles of Diet and Habitat Use in Pesticide Bioaccumulation by Juvenile Chinook Salmon: Insights from Stable Isotopes and Fatty Acid Biomarkers *Archives of Environmental Contamination and Toxicology* (2024) - 3 citations
+  DOI: https://doi.org/10.1007/s00244-024-01060-2
+- Spatiotemporal assessment of pathogenic Leptospira in subtropical coastal watersheds *Journal of Water and Health* (2024) - 1 citations
+  DOI: https://doi.org/10.2166/wh.2024.038
+- The Music of Rivers: How the Mathematics of Waves Reveals Global Drivers of Streamflow Regime *ESSOAr* (2021) - 1 citations
+  DOI: https://doi.org/10.1002/essoar.10507854.1
+- Seasonal differences in nutrient uptake dynamics in coastal spring-fed ecosystems: the potential effects of Florida manatees and humans *Aquatic Sciences* (2025)
+  DOI: https://doi.org/10.1007/s00027-025-01221-y
+- Precipitation regime drives key alterations in subtropical stream fish community assembly and functional trait distribution across a major rainfall gradient *Journal of Freshwater Ecology* (2025)
+  DOI: https://doi.org/10.1080/02705060.2025.2486262
+- Drought‐Induced Decreases in Abundance of Emergent Midge Subsidies Are Offset by Increased Body Size in a Prairie Stream *Freshwater Biology* (2025)
+  DOI: https://doi.org/10.1111/fwb.70011
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 3103 Ecology; 41 Environmental Sciences; 37 Earth Sciences; 3707 Hydrology
+
+Key Research Concepts (from Dimensions.ai):
+streamflow regime; aquatic insect emergence; fecal indicator bacteria; Pensacola bay system; Bay system; aquatic ecosystem types; meta-ecosystems; aquatic invertebrates; human modification; consumer allochthony
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Southern Illinois University Carbondale
+- Brigham Young University
+- The Pennsylvania State University
+- Georgia College & State University
+- Texas A&M University – Corpus Christi
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.6/10
+Percentile: Top 67% of Water Institute faculty
+Rankings by Research Category:
+- Hydrology: #11 of 18
+- Ecology: #50 of 59
+- Earth Sciences: #55 of 70

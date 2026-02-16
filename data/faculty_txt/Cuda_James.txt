@@ -32,3 +32,61 @@ Water & Policy Relevance:
 
 Keywords:
 Biological control; invasive plants; entomology; weed biocontrol; tropical soda apple; Brazilian peppertree; host specificity; insect herbivores; ecosystem restoration; watershed restoration; nature-based solutions; integrated pest management; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 79
+- Total Citations: 533
+- H-Index: 10
+- Average Citations per Paper: 6.7
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 0.65 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Scaling up experimental stress responses of grass invasion to predictions of continental‐level range suitability *Ecology* (2021) - 9 citations
+  DOI: https://doi.org/10.1002/ecy.3417
+- Standardized invasive species terminology for effective education of Floridians: FOR730/FR439, 8/2021 *EDIS* (2021) - 5 citations
+  DOI: https://doi.org/10.32473/edis-fr439-2021
+- Methionine as an Effective Mosquito Larvicide in Natural Water Sources *Florida Entomologist* (2021) - 5 citations
+  DOI: https://doi.org/10.1653/024.103.00410
+- Direct toxicity and emigration: evaluation of herbicide interactions with a biological control agent for Brazilian peppertree (Schinus terebinthifolia) *BioControl* (2023) - 2 citations
+  DOI: https://doi.org/10.1007/s10526-023-10216-3
+- Investigating the potential for plant-mediated interactions between two biological control agents for Brazilian peppertree *Biocontrol Science and Technology* (2022) - 1 citations
+  DOI: https://doi.org/10.1080/09583157.2022.2045473
+- Biological Control of Weeds: Is it Safe? ENY2072/IN1342, 12/2021 *EDIS* (2021) - 1 citations
+  DOI: https://doi.org/10.32473/edis-in1342-2021
+- Novel effective mosquito larvicide DL-methionine: Lack of toxicity to non-target aquatic organisms *Ecotoxicology and Environmental Safety* (2021) - 1 citations
+  DOI: https://doi.org/10.1016/j.ecoenv.2021.112013
+
+Research Grants (from Dimensions.ai):
+- Biological Control of Arthropod Pests and Weeds (2018-2023)
+  Funder: National Institute of Food and Agriculture
+- Assessing Impacts of a Leaflet Galling Psyllid on Growth of Brazilian Peppertree, Schinus Terebinthifolia, in its Native Range (2015-2016)
+  Funder: Council for International Exchange of Scholars
+- Biological Control of Arthropod Pests and Weeds (2014-2017)
+  Funder: National Institute of Food and Agriculture
+- Sustainable Approach for Integrated Management of Herbicide Resistant Hydrilla in the U.S. (2010-2015) - $512,379
+  Funder: National Institute of Food and Agriculture
+- Biological Control of Arthropod Pests and Weeds (2007-2012)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 31 Biological Sciences; 4102 Ecological Applications; 4103 Environmental Biotechnology; 4101 Climate Change Impacts and Adaptation
+
+Key Research Concepts (from Dimensions.ai):
+invasive species; P. ichini; Brazilian peppertree; invasive plants; biological control agents; species distribution models; biological invasions; microcosm experiment; distribution model; impacts of invasive species
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of California, Davis
+- Oklahoma State University
+- Nanjing Forestry University
+- Yangzhou University
+- Northwest Institute of Eco-Environment and Resources
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.7/10
+Percentile: Top 62% of Water Institute faculty
+Rankings by Research Category:
+- Environmental Biotechnology: #1 of 1
+- Climate Change Impacts and Adaptation: #16 of 16
+- Ecological Applications: #23 of 32

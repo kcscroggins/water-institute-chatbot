@@ -29,3 +29,36 @@ Water & Policy Relevance:
 
 Keywords:
 Extension; agricultural education; natural resources; BMP implementation; producer training; technical assistance; stakeholder engagement; practice adoption; nutrient management; soil health; compliance; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 4
+- Total Citations: 3
+- H-Index: 1
+- Average Citations per Paper: 0.8
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.86 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Efficient Irrigation for Florida-Friendly Edible Landscapes: ENH1353/EP617, 2/2022 *EDIS* (2022) - 2 citations
+  DOI: https://doi.org/10.32473/edis-ep617-2022
+- Watermelon Planting Decisions with Multiple Risks: A Simulation Analysis *HortTechnology* (2022) - 1 citations
+  DOI: https://doi.org/10.21273/horttech05006-21
+- Watermelon Production Budget for North Florida: FE1104, 12/2021 *EDIS* (2021)
+  DOI: https://doi.org/10.32473/edis-fe1104-2021
+- Finding the Correct Pesticide Applicator License in Florida: PI292, 8/2021 *EDIS* (2021)
+  DOI: https://doi.org/10.32473/edis-pi292-2021
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 4303 Historical Studies; 43 History, Heritage and Archaeology; 30 Agricultural, Veterinary and Food Sciences; 3108 Plant Biology
+
+Key Research Concepts (from Dimensions.ai):
+edible landscape; cropping systems; irrigation system; efficient irrigation; conserving water; risk-return tradeoff; economic returns; potential economic returns; planting dates; Fusarium wilt
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.2/10
+Percentile: Top 89% of Water Institute faculty
+Rankings by Research Category:
+- History, Heritage and Archaeology: #4 of 4
+- Historical Studies: #5 of 5
+- Plant Biology: #18 of 18

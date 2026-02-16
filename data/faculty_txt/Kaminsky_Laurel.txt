@@ -29,3 +29,45 @@ Answers the question: "Where do we find credible, comprehensive environmental sc
 
 Keywords:
 environmental sciences librarian; information curation; biodiversity data; digitization; natural history collections; research support; scientific literature; metadata; taxonomy; lichens; scholarly communication
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 6
+- Total Citations: 12
+- H-Index: 2
+- Average Citations per Paper: 2.0
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 0.66 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Think globally, barcode locally: nine years of macrofungi sampling reveals extensive biodiversity at the ordway-swisher biological station, a subtropical site in Florida *Fungal Biology* (2025) - 2 citations
+  DOI: https://doi.org/10.1016/j.funbio.2025.101643
+- Assessment of Macrolichen Diversity at Ordway-Swisher Biological Station in Northern Florida Contributes to the Scientific Mission of NEON *Castanea* (2024) - 1 citations
+  DOI: https://doi.org/10.2179/0008-7475.89.1.1
+- A digitization workflow of dry-pinned collections of Lepidoptera *ZooKeys* (2025)
+  DOI: https://doi.org/10.3897/zookeys.1264.134756
+- More exceptions than rules: Variable effects of ectomycorrhizal fungi on leaf litter decomposition in temperate pine forests *Journal of Ecology* (2025)
+  DOI: https://doi.org/10.1111/1365-2745.70197
+- Cortinarius watsoneae, a new species of Agaricomycetes (Cortinariaceae) from the Gulf States *Journal of the Botanical Research Institute of Texas* (2023)
+  DOI: https://doi.org/10.17348/jbrit.v17.i1.1294
+
+Research Categories (from Dimensions.ai):
+31 Biological Sciences; 3103 Ecology; 3107 Microbiology; 3109 Zoology; 3104 Evolutionary Biology
+
+Key Research Concepts (from Dimensions.ai):
+National Ecological Observatory Network; fungal diversity; macrofungi species; Biological Station; symbiotic ectomycorrhizal fungi; National Ecological Observatory Network sites; macrolichen diversity; organismal groups; species-rich taxonomic group; collection of Lepidoptera
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Minnesota Twin Cities
+- University of Oregon
+- University of Tennessee Knoxville
+- Stanford University
+- University of Wisconsin-Madison
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.1/10
+Percentile: Top 97% of Water Institute faculty
+Rankings by Research Category:
+- Evolutionary Biology: #3 of 3
+- Zoology: #5 of 5
+- Microbiology: #19 of 20

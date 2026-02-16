@@ -1,0 +1,48 @@
+Name: Craig Stanley
+Role: 
+Academic Unit: 
+Office: 
+Phone: 
+Email: cdstan@ufl.edu
+Website: http://gcrec.ifas.ufl.edu/faculty/dr-craig-stanley/
+Google Scholar: https://scholar.google.com/citations?user=9HR965sAAAAJ&hl=en
+
+Subject Areas:
+
+
+Research Focus:
+
+
+Professional Bio:
+
+
+Education:
+
+
+Keywords:
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 16
+- Total Citations: 195
+- H-Index: 6
+- Average Citations per Paper: 12.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 26.04 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Neuronal alpha-Synuclein Disease integrated staging system performance in PPMI, PASADENA, and SPARK baseline cohorts *npj Parkinson's Disease* (2024) - 27 citations
+  DOI: https://doi.org/10.1038/s41531-024-00789-w
+
+Research Categories (from Dimensions.ai):
+32 Biomedical and Clinical Sciences; 3202 Clinical Sciences
+
+Key Research Concepts (from Dimensions.ai):
+stage 2B; Integrated Staging System; clinically meaningful outcomes; degree of functional impairment; staging system
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of California, San Francisco
+- Michael J. Fox Foundation
+- Indiana University Indianapolis
+- Toronto Western Hospital
+- Institute for Neurodegenerative Disorders

@@ -34,3 +34,61 @@ Research Metrics:
 
 Keywords:
 Precision agriculture; artificial intelligence; machine learning; UAV; drones; remote sensing; agricultural robotics; automation; smart sprayers; machine vision; disease detection; weed management; citrus; specialty crops; sensor technology; variable rate application; digital agriculture.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 125
+- Total Citations: 4431
+- H-Index: 35
+- Average Citations per Paper: 35.4
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 26.29 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Diagnosis of grape leaf diseases using automatic K-means clustering and machine learning *Smart Agricultural Technology* (2023) - 220 citations
+  DOI: https://doi.org/10.1016/j.atech.2022.100081
+- Strawberry Maturity Classification from UAV and Near-Ground Imaging Using Deep Learning *Smart Agricultural Technology* (2021) - 105 citations
+  DOI: https://doi.org/10.1016/j.atech.2021.100001
+- Precision agriculture in the United States: A comprehensive meta-review inspiring further research, innovation, and adoption *Computers and Electronics in Agriculture* (2024) - 100 citations
+  DOI: https://doi.org/10.1016/j.compag.2024.108993
+- Detection of citrus black spot disease and ripeness level in orange fruit using learning-to-augment incorporated deep networks *Ecological Informatics* (2022) - 73 citations
+  DOI: https://doi.org/10.1016/j.ecoinf.2022.101829
+- Feature engineering to identify plant diseases using image processing and artificial intelligence: A comprehensive review *Smart Agricultural Technology* (2024) - 66 citations
+  DOI: https://doi.org/10.1016/j.atech.2024.100480
+- Determining leaf nutrient concentrations in citrus trees using UAV imagery and machine learning *Precision Agriculture* (2021) - 66 citations
+  DOI: https://doi.org/10.1007/s11119-021-09864-1
+- Smart spraying technologies for precision weed management: A review *Smart Agricultural Technology* (2023) - 65 citations
+  DOI: https://doi.org/10.1016/j.atech.2023.100337
+- Grading and fraud detection of saffron via learning-to-augment incorporated Inception-v4 CNN *Food Control* (2023) - 63 citations
+  DOI: https://doi.org/10.1016/j.foodcont.2022.109554
+- Smart tree crop sprayer utilizing sensor fusion and artificial intelligence *Computers and Electronics in Agriculture* (2021) - 63 citations
+  DOI: https://doi.org/10.1016/j.compag.2021.106556
+- Unmanned aerial vehicle (UAV) imaging and machine learning applications for plant phenotyping *Computers and Electronics in Agriculture* (2023) - 62 citations
+  DOI: https://doi.org/10.1016/j.compag.2023.108064
+
+Research Grants (from Dimensions.ai):
+- CPS: Medium: Connected Federated Farms: Privacy-Preserving Cyber Infrastructure for Collaborative Smart Farming (2023-2026) - $1,188,351
+  Funder: Directorate for Computer & Information Science & Engineering
+- Steam-generated Supplementary Heat Thermotherapy as an Immediate Treatment for Prolonging Productivity of HLB-infected Citrus Trees (2015-2019) - $3,495,832
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+30 Agricultural, Veterinary and Food Sciences; 46 Information and Computing Sciences; 3004 Crop and Pasture Production; 4605 Data Management and Data Science; 3008 Horticultural Production
+
+Key Research Concepts (from Dimensions.ai):
+unmanned aerial vehicles; support vector machine; artificial intelligence; convolutional neural network; machine vision; Tropical Research and Education Center; crop yield; machine learning; remote sensing; gray level co-occurrence matrix
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Tarbiat Modares University
+- Gorgan University of Agricultural Sciences and Natural Resources
+- Louisiana State University
+- São Paulo State University
+- Institute of Food and Agricultural Sciences
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 3.9/10
+Percentile: Top 5% of Water Institute faculty
+Rankings by Research Category:
+- Horticultural Production: #1 of 13
+- Data Management and Data Science: #1 of 1
+- Crop and Pasture Production: #2 of 41

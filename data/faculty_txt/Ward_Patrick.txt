@@ -17,3 +17,47 @@ Patrick Ward specializes in sustainable development with emphasis on agriculture
 
 Keywords:
 Agricultural economics and policy; international development; environmental resource management; financial services and insurance; climate-adaptive agriculture; rural mechanization; water management.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 7
+- Total Citations: 435
+- H-Index: 2
+- Average Citations per Paper: 62.1
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.98 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Intrahousehold preference heterogeneity and demand for labor‐saving agricultural technology *American Journal of Agricultural Economics* (2023) - 11 citations
+  DOI: https://doi.org/10.1111/ajae.12430
+- Confidence and information usage: Evidence from soil testing in India *American Journal of Agricultural Economics* (2025) - 2 citations
+  DOI: https://doi.org/10.1111/ajae.12513
+- Evaluating the Gendered Credit Constraints and Uptake of an Insurance-Linked Credit Product Among Smallholder Farmers in Kenya *The Journal of Development Studies* (2024) - 2 citations
+  DOI: https://doi.org/10.1080/00220388.2024.2404573
+- Subjective Well-Being, Willingness to Accept COVID Policies, and Vulnerability: Evidence from China *Chinese Economy* (2024) - 1 citations
+  DOI: https://doi.org/10.1080/10971475.2024.2340930
+- Do grassroots interventions relax behavioural constraints and improve adoption of nutrition‐sensitive food production systems? *Australian Journal of Agricultural and Resource Economics* (2023) - 1 citations
+  DOI: https://doi.org/10.1111/1467-8489.12535
+- Cooperation and the management of local common resources in remote rural communities *Environment and Development Economics* (2025)
+  DOI: https://doi.org/10.1017/s1355770x25100181
+
+Research Categories (from Dimensions.ai):
+38 Economics; 3801 Applied Economics; 4404 Development Studies; 44 Human Society; 3502 Banking, Finance and Investment
+
+Key Research Concepts (from Dimensions.ai):
+preference heterogeneity; adoption decisions; mechanical rice transplanter; individuals' observed characteristics; agricultural production decisions; farmers' fertilizer use; fertilizer recommendations; soil tests; fertilizer use; optimal fertilizer application rates
+
+Top Collaborating Institutions (from Dimensions.ai):
+- International Food Policy Research Institute
+- Tel Aviv University
+- Purdue University West Lafayette
+- University of California, Davis
+- Joint Initiative of Latin American Experimental Economics (JILAEE), Chicago, Illinois, USA
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.3/10
+Percentile: Top 82% of Water Institute faculty
+Rankings by Research Category:
+- Banking, Finance and Investment: #2 of 2
+- Development Studies: #5 of 6
+- Applied Economics: #10 of 12

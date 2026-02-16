@@ -27,3 +27,59 @@ Water & Policy Relevance:
 
 Keywords:
 Sedimentology; stratigraphy; coastal processes; nearshore geology; sediment transport; fluvial systems; deltaic systems; geomorphology; landscape evolution; coastal morphology; sediment budgets; coastal restoration; Water Institute affiliate
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 47
+- Total Citations: 1159
+- H-Index: 19
+- Average Citations per Paper: 24.7
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.03 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Challenges and opportunities for sustaining coastal wetlands and oyster reefs in the southeastern United States *Journal of Environmental Management* (2021) - 17 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2021.113178
+- Estimate of decadal‐scale riverbed deformation and bed‐load sediment transport during flood events in the lowermost Mississippi River *Earth Surface Processes and Landforms* (2022) - 10 citations
+  DOI: https://doi.org/10.1002/esp.5316
+- Pregnancy risk in beef and dairy cows after supplementing semen with transforming growth factor beta-1 at the time of artificial insemination *Journal of Animal Science* (2024) - 4 citations
+  DOI: https://doi.org/10.1093/jas/skae169
+- Palmetto Ware Pottery of the Lucayan Islands: Reverse Engineering a Novel Pottery Type *The Journal of Island and Coastal Archaeology* (2025) - 2 citations
+  DOI: https://doi.org/10.1080/15564894.2025.2528212
+- Grain size matters: late Quaternary dynamics of a sediment-routing system in Canterbury Basin, South Island, New Zealand *Journal of Sedimentary Research* (2025)
+  DOI: https://doi.org/10.2110/jsr.2024.048
+- Wind, Water Level, and Fluid Mud Thresholds in Lake Apopka, Florida *Journal of Marine Science and Engineering* (2024)
+  DOI: https://doi.org/10.3390/jmse13010038
+
+Research Grants (from Dimensions.ai):
+- Collaborative Research: Sediment and Stability: Quantifying the Effect of Moraine Building on Greenland Tidewater Glaciers (2024-2026) - $133,492
+  Funder: Directorate for Geosciences
+- Collaborative Research: Linking climate-driven changes in erosion to tectonic processes along the southern Alaska Margin (2014-2017) - $55,852
+  Funder: Directorate for Geosciences
+- Collaborative Research: Expedition 317 Objective Research - Linking Sediment Provenance to Supply and Lithofacies Formation on the Canterbury Margin (2011-2014) - $122,315
+  Funder: Directorate for Geosciences
+- Energetics and Stability of Geologically-Confined Water (2008-2014) - $273,766
+  Funder: Directorate for Geosciences
+- Acquisition of an X-ray Diffractometer for Mineralogical and Sedimentological Studies (2008-2010) - $167,485
+  Funder: Directorate for Geosciences
+
+Research Categories (from Dimensions.ai):
+3709 Physical Geography and Environmental Geoscience; 37 Earth Sciences; 3705 Geology; 41 Environmental Sciences; 4104 Environmental Management
+
+Key Research Concepts (from Dimensions.ai):
+oyster reefs; coastal wetlands; shoreline hardening; estuarine health; local threats; lowermost Mississippi River; bed load sediment; digital elevation model; riverbed deformation; flood events
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Colorado State University Fort Collins
+- Kansas State University
+- California State University, Northridge
+- Mississippi State University
+- Guana Tolomato Matanzas National Estuarine Research Reserve, Ponte Vedra, FL, USA.
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 1.4/10
+Percentile: Top 33% of Water Institute faculty
+Rankings by Research Category:
+- Physical Geography and Environmental Geoscience: #6 of 11
+- Geology: #7 of 11
+- Environmental Management: #17 of 46

@@ -16,3 +16,59 @@ Dr. Guzman's research addresses gaps in irrigation technology adoption, nutrient
 
 Keywords:
 Smart irrigation; decision support systems; machine learning for groundwater forecasting; precision irrigation; nutrient management; Floridian aquifer; IrrigMonitor; water conservation.
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 31
+- Total Citations: 265
+- H-Index: 9
+- Average Citations per Paper: 8.5
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.3 (1.0 = field average)
+
+Recent Publications (from Dimensions.ai):
+- Two-step hybrid model for monthly runoff prediction utilizing integrated machine learning algorithms and dual signal decompositions *Ecological Informatics* (2024) - 16 citations
+  DOI: https://doi.org/10.1016/j.ecoinf.2024.102914
+- Adaptive and predictive decision support system for irrigation scheduling: An approach integrating humans in the control loop *Computers and Electronics in Agriculture* (2024) - 16 citations
+  DOI: https://doi.org/10.1016/j.compag.2024.108640
+- Identifying the dynamic evolution and feedback process of water resources nexus system considering socioeconomic development, ecological protection, and food security: A practical tool for sustainable water use *Hydrology and Earth System Sciences* (2021) - 16 citations
+  DOI: https://doi.org/10.5194/hess-25-6495-2021
+- Using singular spectrum analysis and empirical mode decomposition to enhance the accuracy of a machine learning-based soil moisture forecasting algorithm *Computers and Electronics in Agriculture* (2024) - 11 citations
+  DOI: https://doi.org/10.1016/j.compag.2024.109200
+- Perspective: Phosphorus monitoring must be rooted in sustainability frameworks spanning material scale to human scale *Water Research X* (2023) - 10 citations
+  DOI: https://doi.org/10.1016/j.wroa.2023.100168
+- Evapotranspiration Rates of Three Sweet Corn Cultivars under Different Irrigation Levels *HortTechnology* (2023) - 10 citations
+  DOI: https://doi.org/10.21273/horttech05114-22
+- Assessing capacitance soil moisture sensor probes’ ability to sense nitrogen, phosphorus, and potassium using volumetric ion content *Frontiers in Agronomy* (2024) - 6 citations
+  DOI: https://doi.org/10.3389/fagro.2024.1346946
+- Baseflow estimation based on a self-adaptive non-linear reservoir algorithm in a rainy watershed of eastern China *Journal of Environmental Management* (2023) - 6 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2023.117379
+- Identification of the Meteorological Variables Influencing Evapotranspiration Variability Over Florida *Environmental Modeling & Assessment* (2022) - 6 citations
+  DOI: https://doi.org/10.1007/s10666-022-09828-3
+- Artificial Intelligence (AI) for Crop Yield Forecasting: AE571/AE571, 4/2022 *EDIS* (2022) - 6 citations
+  DOI: https://doi.org/10.32473/edis-ae571-2022
+
+Research Grants (from Dimensions.ai):
+- Using Smart Water Management in Specialty Crops: Sensors, Models and Systems for a Sustainable Agricultural Production (2019-2024)
+  Funder: National Institute of Food and Agriculture
+
+Research Categories (from Dimensions.ai):
+41 Environmental Sciences; 46 Information and Computing Sciences; 37 Earth Sciences; 30 Agricultural, Veterinary and Food Sciences; 40 Engineering
+
+Key Research Concepts (from Dimensions.ai):
+irrigation management; Department of Agriculture; citrus trees; irrigation; Florida; EDI; soil moisture sensors; moisture sensor; Yellow River Basin; sub-basins
+
+Top Collaborating Institutions (from Dimensions.ai):
+- North Carolina State University
+- Hohai University
+- Science and Technologies for Phosphorus Sustainability (STEPS) Center, United States
+- Science and Technologies for Phosphorus Sustainability Center, North Carolina State University, Raleigh, NC 27695, USA;, avdevine@ncsu.edu, (A.V.D.);, maude_cuchiara@ncsu.edu, (M.C.);, nnelson4@ncsu.edu, (N.G.N.);, ross_sozzani@ncsu.edu, (R.S.)
+- University of Illinois at Urbana-Champaign
+
+--- Research Impact Rankings (Updated: 2026-02-13) ---
+Research Impact Score: 0.7/10
+Percentile: Top 62% of Water Institute faculty
+Rankings by Research Category:
+- Information and Computing Sciences: #15 of 20
+- Engineering: #39 of 53
+- Earth Sciences: #52 of 70
