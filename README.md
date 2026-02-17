@@ -8,9 +8,41 @@ A RAG-powered chatbot that answers questions about the UF Water Institute, inclu
 - **Backend API**: https://water-institute-chatbot.onrender.com
 - **GitHub Repository**: https://github.com/kcscroggins/water-institute-chatbot
 
-## Recent Updates (January 2026)
+## Recent Updates
 
-### Faculty Profile Enrichment (January 23, 2026)
+### Faculty Rankings Feature (February 2026)
+
+Added research impact rankings for Water Institute faculty based on Dimensions.ai metrics.
+
+**New Features:**
+- ✅ `backend/rank_faculty.py` - Computes composite Research Impact Scores (0-10 scale)
+- ✅ `frontend/rankings.html` - Interactive rankings page
+- ✅ Researcher rankings data integrated into chatbot knowledge base
+
+**Score Components:**
+- H-Index (40%): Career publication impact
+- Field Citation Ratio (30%): Impact relative to field average
+- Total Citations (20%): Raw citation count
+- Grant Funding (10%): Research funding success
+
+**Usage:**
+```bash
+cd backend
+python rank_faculty.py              # Rank all faculty
+python rank_faculty.py --dry-run    # Preview without saving
+python rank_faculty.py --name "Matt Cohen"  # Show specific faculty ranking
+```
+
+**Top Researchers (by Research Impact Score):**
+1. Andrew Zimmerman (6.4/10) - Environmental Sciences
+2. David Kaplan (6.0/10) - Astronomical Sciences
+3. Gerrit Hoogenboom (5.2/10) - Agricultural Sciences
+4. Nancy Denslow (4.8/10) - Biological/Environmental Sciences
+5. Christopher McCarty (4.7/10) - Human Society/Psychology
+
+---
+
+### Faculty Profile Enrichment (January 2026)
 
 Enriched faculty profiles with detailed research information, publications, education, and awards.
 
@@ -83,13 +115,14 @@ keyword1; keyword2; keyword3; ...
 ```
 
 **Current Statistics:**
-- **Total Faculty Files**: 369
+- **Total Faculty Files**: 369 (in `faculty_txt/`)
 - **Enriched Profiles**: 369 (71 automated + 298 manual)
 - **With Google Scholar/Website**: 97+ (URLs added during enrichment)
-- **Awaiting Enrichment**: 0 (complete!)
+- **Needing Enrichment**: 15 (tracked in `faculty_needing_enrichment/`)
+- **Incomplete Profiles**: 84 (in `incomplete_faculty_txt/` for future addition)
+- **Ranked Faculty**: 50+ (with Dimensions research metrics)
 
-**Enrichment Complete!**
-- All 369 faculty profiles have been enriched
+**To Update Production:**
 - Run `python ingest_faculty.py` to re-ingest all profiles
 - Redeploy to Render to update production (auto-deploys on push to main)
 
@@ -216,6 +249,12 @@ Then visit `http://localhost:3000`
 - "What are the main research areas of the Water Institute?"
 - "What partnerships does the Water Institute have?"
 
+### Rankings Questions:
+- "Who are the top researchers at the Water Institute?"
+- "What is Andrew Zimmerman's research impact score?"
+- "Which faculty have the highest h-index?"
+- "Who are the top environmental sciences researchers?"
+
 ## Production Deployment
 
 This project is currently deployed using:
@@ -276,7 +315,7 @@ Add this iframe code to your WordPress page (in "Code" or "HTML" mode):
 - **Frontend**: Vanilla HTML/CSS/JS (no dependencies)
 - **AI Model**: GPT-4o via UF Navigator API (adjustable in `main.py`)
 - **Vector DB**: ChromaDB (persistent storage in `chroma/db/`)
-- **Data**: Faculty profiles (369) + General institute info (6 topics)
+- **Data**: Faculty profiles (369) + General institute info (9 topics including rankings)
 - **Hosting**: Render.com (backend) + GitHub Pages (frontend)
 
 ## Data Structure
@@ -296,14 +335,25 @@ data/
 │   ├── programs.txt                    # WIGF, HSAC, travel awards
 │   ├── facilities.txt                  # Office location, lab access, field sites
 │   ├── partnerships.txt                # UF collaborations, stakeholders
-│   └── contact.txt                     # Address, phone, director info
+│   ├── contact.txt                     # Address, phone, director info
+│   ├── researcher_rankings_overall.txt # Top 50 researchers by impact score
+│   ├── researcher_rankings_extended.txt # Full rankings with details
+│   └── top_researchers.txt             # Summary of top researchers
 │
-└── faculty_needing_enrichment.csv      # Tracking file for enrichment progress
+├── faculty_needing_enrichment/         # Faculty profiles still needing enrichment (15 files)
+│   └── ...
+│
+├── incomplete_faculty_txt/             # Incomplete profiles for future work (84 files)
+│   └── ...
+│
+├── rankings.json                       # Faculty rankings data (structured)
+└── faculty_needing_dimensions_review.txt # Faculty needing Dimensions data review
 ```
 
 **Faculty Profile Types:**
 - **Enriched profiles (369)**: Full research descriptions, publications, education, policy relevance, keywords
-- **Awaiting enrichment (0)**: All faculty profiles have been enriched!
+- **Needing enrichment (15)**: Profiles in `faculty_needing_enrichment/` awaiting completion
+- **Incomplete profiles (84)**: Profiles in `incomplete_faculty_txt/` for future addition
 
 **How It Works:**
 1. Both folders are ingested into a single ChromaDB collection
