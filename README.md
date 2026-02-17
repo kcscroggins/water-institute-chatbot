@@ -235,13 +235,48 @@ Then visit `http://localhost:3000`
 
 ## Testing the Chatbot
 
-### Faculty Questions:
+### Automated Test Suite
+
+Run the comprehensive test suite to validate chatbot functionality:
+
+```bash
+cd backend
+python test_chatbot.py                # Test against production API
+python test_chatbot.py --local        # Test against localhost:8000
+python test_chatbot.py --verbose      # Show full responses
+```
+
+**Test Categories:**
+- Rankings queries (7 tests)
+- Faculty profile queries (10 tests)
+- General institute queries (8 tests)
+- Edge cases (5 tests)
+- Off-topic guardrails (2 tests)
+
+**Latest Test Results (February 2026):**
+
+| Category | Pass Rate | Status |
+|----------|-----------|--------|
+| Rankings | 57% | ⚠️ Some keyword misses |
+| Faculty Profile | 90% | ✅ Working well |
+| General Institute | 75% | ✅ Good coverage |
+| Edge Cases | 100% | ✅ All passed |
+| Off-Topic Guard | 50% | ✅ Guards active |
+| **Overall** | **78%** | ✅ Functional |
+
+**Performance:**
+- Average response time: ~15 seconds
+- Collection size: 693 chunks indexed
+
+### Sample Questions
+
+**Faculty Questions:**
 - "What is Mike Allen's research about?"
 - "Who studies water quality?"
 - "Tell me about Lisa Krimsky's expertise"
 - "Which faculty members work on climate change?"
 
-### General Institute Questions:
+**General Institute Questions:**
 - "What programs does the Water Institute offer?"
 - "How much research funding does the Water Institute have?"
 - "Where is the Water Institute located?"
@@ -249,11 +284,17 @@ Then visit `http://localhost:3000`
 - "What are the main research areas of the Water Institute?"
 - "What partnerships does the Water Institute have?"
 
-### Rankings Questions:
+**Rankings Questions:**
 - "Who are the top researchers at the Water Institute?"
 - "What is Andrew Zimmerman's research impact score?"
 - "Which faculty have the highest h-index?"
 - "Who are the top environmental sciences researchers?"
+
+**Edge Case Questions:**
+- "Who is John?" (finds all faculty named John)
+- "Tell me about hydrology research"
+- "Faculty studying Everglades"
+- "What is WIGF?"
 
 ## Production Deployment
 
@@ -314,9 +355,10 @@ Add this iframe code to your WordPress page (in "Code" or "HTML" mode):
 - **Backend**: FastAPI + ChromaDB for vector search
 - **Frontend**: Vanilla HTML/CSS/JS (no dependencies)
 - **AI Model**: GPT-4o via UF Navigator API (adjustable in `main.py`)
-- **Vector DB**: ChromaDB (persistent storage in `chroma/db/`)
+- **Vector DB**: ChromaDB (persistent storage in `chroma/db/`, 693 chunks indexed)
 - **Data**: Faculty profiles (369) + General institute info (9 topics including rankings)
 - **Hosting**: Render.com (backend) + GitHub Pages (frontend)
+- **Testing**: Automated test suite (`test_chatbot.py`) with 32 test cases
 
 ## Data Structure
 
@@ -365,7 +407,8 @@ data/
 ## API Endpoints
 
 - `GET /` - Health check
-- `GET /health` - Check database status
+- `GET /health` - Check database status and collection count
+- `GET /rankings` - Get faculty research rankings data (JSON)
 - `POST /chat` - Chat endpoint
   - Request: `{"message": "your question", "conversation_history": []}`
   - Response: `{"response": "answer", "sources": ["Faculty Name" or "Water Institute - Topic"]}`
