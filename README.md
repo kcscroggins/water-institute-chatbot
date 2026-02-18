@@ -39,8 +39,16 @@ Added research impact rankings for Water Institute faculty based on Dimensions.a
 - ✅ `backend/rank_faculty.py` - Computes composite Research Impact Scores (0-10 scale)
 - ✅ `frontend/rankings.html` - Interactive rankings page
 - ✅ Researcher rankings data integrated into chatbot knowledge base
+- ✅ Top researcher responses include Website and Google Scholar links
+- ✅ Rankings files include faculty URLs for direct access
 
-**Score Components:**
+**Chatbot Behavior:**
+- When users ask for top researchers in a field, the chatbot shows **3 researchers** with their expertise and links
+- Research Impact Scores are used internally for ranking but **not shown to users**
+- Each researcher entry includes Website and/or Google Scholar links (if available)
+- After showing 3 researchers, the chatbot asks: "Would you like to see more researchers in this area?"
+
+**Score Components (internal use):**
 - H-Index (40%): Career publication impact
 - Field Citation Ratio (30%): Impact relative to field average
 - Total Citations (20%): Raw citation count
@@ -54,12 +62,12 @@ python rank_faculty.py --dry-run    # Preview without saving
 python rank_faculty.py --name "Matt Cohen"  # Show specific faculty ranking
 ```
 
-**Top Researchers (by Research Impact Score):**
-1. Andrew Zimmerman (6.4/10) - Environmental Sciences
-2. David Kaplan (6.0/10) - Astronomical Sciences
-3. Gerrit Hoogenboom (5.2/10) - Agricultural Sciences
-4. Nancy Denslow (4.8/10) - Biological/Environmental Sciences
-5. Christopher McCarty (4.7/10) - Human Society/Psychology
+**Top Researchers:**
+1. Andrew Zimmerman - Environmental Sciences
+2. David Kaplan - Watershed Ecology
+3. Gerrit Hoogenboom - Agricultural Sciences
+4. Nancy Denslow - Biological/Environmental Sciences
+5. Christopher McCarty - Human Society/Psychology
 
 ---
 
@@ -308,9 +316,9 @@ python test_chatbot.py --verbose      # Show full responses
 
 **Rankings Questions:**
 - "Who are the top researchers at the Water Institute?"
-- "What is Andrew Zimmerman's research impact score?"
-- "Which faculty have the highest h-index?"
+- "Who are the top PFAS researchers?"
 - "Who are the top environmental sciences researchers?"
+- "Show me more researchers in hydrology"
 
 **Edge Case Questions:**
 - "Who is John?" (finds all faculty named John)
