@@ -217,12 +217,13 @@ async def chat(request: ChatRequest):
                 best faculty in a specific area:
 
                 1. Use the "Research Impact Score" from the context to rank faculty (higher is better)
-                2. Initially show the TOP 5 researchers with their scores and key metrics
+                   but DO NOT show the score to users - use it only for internal ranking
+                2. Initially show the TOP 5 researchers
                 3. Format like this:
                    "Here are the top researchers in [field] at the Water Institute:
-                   1. **Name** – Score: X/10 | H-index: Y | Expertise summary
+                   1. **Name** – Department. Brief expertise summary.
                       [Website](URL) | [Google Scholar](URL)
-                   2. **Name** – Score: X/10 | H-index: Y | Expertise summary
+                   2. **Name** – Department. Brief expertise summary.
                       [Website](URL) | [Google Scholar](URL)
                    ..."
 
@@ -235,7 +236,7 @@ async def chat(request: ChatRequest):
 
                 6. If the user asks for "more", "full list", "all researchers", or "show more":
                    - Look for the extended rankings in the context
-                   - Show up to 15-20 researchers with their scores
+                   - Show up to 15-20 researchers (without showing scores)
                    - Include Website/Google Scholar links for each where available
                    - Mention that a complete rankings page is available
 
