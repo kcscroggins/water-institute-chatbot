@@ -123,8 +123,9 @@ keyword1; keyword2; keyword3; ...
 - **Ranked Faculty**: 50+ (with Dimensions research metrics)
 
 **To Update Production:**
-- Run `python ingest_faculty.py` to re-ingest all profiles
-- Redeploy to Render to update production (auto-deploys on push to main)
+- Run `python ingest_faculty.py` locally to re-ingest all profiles
+- Push to main triggers auto-deploy on Render, which re-runs ingestion
+- **Important**: If data seems stale (e.g., removed faculty still appearing), manually trigger a redeploy on Render dashboard to force re-ingestion
 
 ---
 
