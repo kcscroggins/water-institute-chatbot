@@ -2,6 +2,8 @@ Name: Carla Brisotto
 Role: Associate Director, Florida Institute for Built Environment Resilience (FIBER); Affiliate Faculty, UF Water Institute
 Academic Unit: Florida Institute for Built Environment Resilience (FIBER)
 Email: c.brisotto@ufl.edu
+Website: https://dcp.ufl.edu/faculties/carla-brisotto/
+Google Scholar: https://scholar.google.com/citations?user=PKlu9VMAAAAJ&hl=en
 
 Subject Areas:
 Built Environment Resilience, Climate Adaptation, Infrastructure Systems, Interdisciplinary Research Coordination, Disaster Resilience

@@ -2,6 +2,8 @@ Name: Stephanie Bohlman
 Role: Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: School of Forest, Fisheries & Geomatics Sciences
 Email: sbohlman@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=98qh6UgAAAAJ&hl=en
+Website: https://ffgs.ifas.ufl.edu/faculty/bohlman-stephanie/
 
 Subject Areas:
 Forest Ecology, Remote Sensing, Climate-Vegetation Interactions, Carbon Dynamics, Disturbance Ecology, LiDAR

@@ -2,6 +2,7 @@ Name: Jehangir "Jango" Bhadha
 Role: Associate Professor & Extension Specialist; Affiliate Faculty, UF Water Institute
 Academic Unit: Everglades Research and Education Center (EREC), UF/IFAS
 Email: jango@ufl.edu
+Website: https://soils.ifas.ufl.edu/people/faculty/jehangir-bhadha/
 
 Subject Areas:
 Soil Chemistry, Phosphorus Management, Nutrient Cycling, Water Quality, Agricultural BMPs, Everglades Restoration

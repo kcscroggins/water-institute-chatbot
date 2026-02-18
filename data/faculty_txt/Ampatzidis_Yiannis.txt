@@ -2,6 +2,8 @@ Name: Yiannis Ampatzidis
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Department of Agricultural and Biological Engineering; UF/IFAS Southwest Florida Research and Education Center
 Email: i.ampatzidis@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=xV6D73wAAAAJ&hl=en
+Website: https://abe.ufl.edu/people/faculty/yiannis-ampatzidis/
 
 Subject Areas:
 Precision agriculture, Artificial intelligence, Machine learning, UAV/drone technology, Agricultural robotics
