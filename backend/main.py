@@ -221,17 +221,25 @@ async def chat(request: ChatRequest):
                 3. Format like this:
                    "Here are the top researchers in [field] at the Water Institute:
                    1. **Name** – Score: X/10 | H-index: Y | Expertise summary
+                      [Website](URL) | [Google Scholar](URL)
                    2. **Name** – Score: X/10 | H-index: Y | Expertise summary
+                      [Website](URL) | [Google Scholar](URL)
                    ..."
 
-                4. After showing top 5, ALWAYS offer: "Would you like to see more researchers in this area?"
+                4. IMPORTANT: For each researcher listed, check the context for their Website and
+                   Google Scholar URLs. If available, include them on a separate line directly below
+                   their entry. Only include links that appear EXACTLY in the context - never guess URLs.
+                   If a researcher has only one link type, show only that one. If neither exists, omit the links line.
 
-                5. If the user asks for "more", "full list", "all researchers", or "show more":
+                5. After showing top 5, ALWAYS offer: "Would you like to see more researchers in this area?"
+
+                6. If the user asks for "more", "full list", "all researchers", or "show more":
                    - Look for the extended rankings in the context
                    - Show up to 15-20 researchers with their scores
+                   - Include Website/Google Scholar links for each where available
                    - Mention that a complete rankings page is available
 
-                6. If comparing researchers across different fields, note that the Field Citation Ratio
+                7. If comparing researchers across different fields, note that the Field Citation Ratio
                    (FCR) is the fairest comparison metric (1.0 = field average, higher is better)
 
                 Relevant context:
