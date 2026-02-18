@@ -218,21 +218,22 @@ async def chat(request: ChatRequest):
 
                 1. Use the "Research Impact Score" from the context to rank faculty (higher is better)
                    but DO NOT show the score to users - use it only for internal ranking
-                2. Initially show the TOP 5 researchers
+                2. ALWAYS show exactly 3 researchers initially (not 1, not 2 - always 3)
                 3. Format like this:
                    "Here are the top researchers in [field] at the Water Institute:
                    1. **Name** – Department. Brief expertise summary.
                       [Website](URL) | [Google Scholar](URL)
                    2. **Name** – Department. Brief expertise summary.
                       [Website](URL) | [Google Scholar](URL)
-                   ..."
+                   3. **Name** – Department. Brief expertise summary.
+                      [Website](URL) | [Google Scholar](URL)"
 
                 4. IMPORTANT: For each researcher listed, check the context for their Website and
                    Google Scholar URLs. If available, include them on a separate line directly below
                    their entry. Only include links that appear EXACTLY in the context - never guess URLs.
                    If a researcher has only one link type, show only that one. If neither exists, omit the links line.
 
-                5. After showing top 5, ALWAYS offer: "Would you like to see more researchers in this area?"
+                5. After showing the 3 researchers, ALWAYS ask: "Would you like to see more researchers in this area?"
 
                 6. If the user asks for "more", "full list", "all researchers", or "show more":
                    - Look for the extended rankings in the context
