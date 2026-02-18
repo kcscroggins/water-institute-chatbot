@@ -42,7 +42,9 @@ def extract_metrics(file_path: Path) -> dict:
         "open_access_percentage": None,
         "grant_funding": 0,
         "research_categories": [],
-        "has_dimensions_data": False
+        "has_dimensions_data": False,
+        "website": None,
+        "google_scholar": None
     }
 
     # Extract name
@@ -51,6 +53,20 @@ def extract_metrics(file_path: Path) -> dict:
         metrics["name"] = name_match.group(1).strip()
     else:
         metrics["name"] = file_path.stem.replace("_", " ")
+
+    # Extract Website URL
+    website_match = re.search(r"^Website:\s*(.+?)$", content, re.MULTILINE)
+    if website_match:
+        url = website_match.group(1).strip()
+        # Ensure URL has protocol
+        if url and not url.startswith("http"):
+            url = "https://" + url
+        metrics["website"] = url
+
+    # Extract Google Scholar URL
+    gs_match = re.search(r"^Google Scholar:\s*(.+?)$", content, re.MULTILINE)
+    if gs_match:
+        metrics["google_scholar"] = gs_match.group(1).strip()
 
     # Check if file has Dimensions data
     if "--- Enriched Data (Updated:" not in content:
@@ -295,7 +311,9 @@ def generate_top_researchers_summary(faculty_metrics: list, category_rankings_ra
                     "name": fm["name"],
                     "score": fm["composite_score"],
                     "h_index": fm.get("h_index"),
-                    "fcr": fm.get("field_citation_ratio")
+                    "fcr": fm.get("field_citation_ratio"),
+                    "website": fm.get("website"),
+                    "google_scholar": fm.get("google_scholar")
                 })
 
     # Sort categories by number of faculty (most populated first)
@@ -318,6 +336,15 @@ def generate_top_researchers_summary(faculty_metrics: list, category_rankings_ra
             fcr_str = f" | FCR: {f['fcr']:.1f}x" if f.get('fcr') else ""
             h_str = f" | H-index: {f['h_index']}" if f.get('h_index') else ""
             lines.append(f"{i}. {f['name']} (Score: {f['score']}/10{h_str}{fcr_str})")
+
+            # Add Website and Google Scholar links
+            links = []
+            if f.get("website"):
+                links.append(f"Website: {f['website']}")
+            if f.get("google_scholar"):
+                links.append(f"Google Scholar: {f['google_scholar']}")
+            if links:
+                lines.append(f"   {' | '.join(links)}")
 
         if len(sorted_faculty) > 5:
             lines.append(f"   ... and {len(sorted_faculty) - 5} more researchers")
@@ -363,7 +390,9 @@ def generate_extended_rankings(faculty_metrics: list) -> str:
                     "h_index": fm.get("h_index"),
                     "fcr": fm.get("field_citation_ratio"),
                     "total_citations": fm.get("total_citations"),
-                    "total_publications": fm.get("total_publications")
+                    "total_publications": fm.get("total_publications"),
+                    "website": fm.get("website"),
+                    "google_scholar": fm.get("google_scholar")
                 })
 
     sorted_categories = sorted(category_faculty.items(),
@@ -392,6 +421,15 @@ def generate_extended_rankings(faculty_metrics: list) -> str:
             detail_str = " | ".join(details) if details else ""
             lines.append(f"{i}. {f['name']}")
             lines.append(f"   Score: {f['score']}/10 | {detail_str}")
+
+            # Add Website and Google Scholar links
+            links = []
+            if f.get("website"):
+                links.append(f"Website: {f['website']}")
+            if f.get("google_scholar"):
+                links.append(f"Google Scholar: {f['google_scholar']}")
+            if links:
+                lines.append(f"   {' | '.join(links)}")
 
         if len(sorted_faculty) > 20:
             lines.append(f"\n   [{len(sorted_faculty) - 20} additional researchers not shown]")
@@ -425,7 +463,9 @@ def generate_rankings_json(faculty_metrics: list) -> dict:
             "h_index": f.get("h_index"),
             "fcr": f.get("field_citation_ratio"),
             "citations": f.get("total_citations"),
-            "publications": f.get("total_publications")
+            "publications": f.get("total_publications"),
+            "website": f.get("website"),
+            "google_scholar": f.get("google_scholar")
         })
 
     # Group by category
@@ -445,7 +485,9 @@ def generate_rankings_json(faculty_metrics: list) -> dict:
                     "score": fm["composite_score"],
                     "h_index": fm.get("h_index"),
                     "fcr": fm.get("field_citation_ratio"),
-                    "citations": fm.get("total_citations")
+                    "citations": fm.get("total_citations"),
+                    "website": fm.get("website"),
+                    "google_scholar": fm.get("google_scholar")
                 })
 
     # Sort each category and keep top 20
@@ -499,6 +541,15 @@ def generate_overall_rankings(faculty_metrics: list) -> str:
         cats = ", ".join(f.get("research_categories", [])[:2]) or "N/A"
         lines.append(f"{i}. {f['name']} - Score: {f['composite_score']}/10")
         lines.append(f"   H-index: {f.get('h_index', 'N/A')} | FCR: {f.get('field_citation_ratio', 'N/A')} | Categories: {cats[:50]}")
+
+        # Add Website and Google Scholar links
+        links = []
+        if f.get("website"):
+            links.append(f"Website: {f['website']}")
+        if f.get("google_scholar"):
+            links.append(f"Google Scholar: {f['google_scholar']}")
+        if links:
+            lines.append(f"   {' | '.join(links)}")
         lines.append("")
 
     return "\n".join(lines)

@@ -47,6 +47,6 @@ Dimensions Research Metrics (via Dimensions.ai):
 - H-Index: 3
 - Average Citations per Paper: 4.0
 
---- Research Impact Rankings (Updated: 2026-02-13) ---
+--- Research Impact Rankings (Updated: 2026-02-18) ---
 Research Impact Score: 0.3/10
 Percentile: Top 82% of Water Institute faculty

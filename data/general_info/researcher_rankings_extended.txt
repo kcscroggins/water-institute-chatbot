@@ -1,4 +1,4 @@
-Extended Researcher Rankings by Category (Updated: 2026-02-13)
+Extended Researcher Rankings by Category (Updated: 2026-02-18)
 ============================================================
 
 Complete rankings of UF Water Institute researchers by research category.
@@ -11,34 +11,44 @@ Total researchers: 135
 
 1. Andrew Zimmerman
    Score: 6.4/10 | H-index: 64 | FCR: 9.5x | Citations: 21,793
+   Google Scholar: https://scholar.google.com/citations?user=pRh2pjMAAAAJ&hl=en
 2. David Kaplan
    Score: 6.0/10 | H-index: 38 | FCR: 79.1x | Citations: 6,902
+   Website: https://www.watershedecology.org/  (Watershed Ecology Lab)  [oai_citation:0‡watershedecology.org](https://www.watershedecology.org/?utm_source=chatgpt.com) | Google Scholar: https://scholar.google.com/citations?user=KDAxey0AAAAJ&hl=en
 3. Nancy Denslow
    Score: 4.8/10 | H-index: 55 | FCR: 9.5x | Citations: 10,465
 4. Frank Asche
    Score: 4.6/10 | H-index: 43 | FCR: 33.8x | Citations: 6,777
+   Website: https://ffgs.ifas.ufl.edu/faculty/asche-frank/ | Google Scholar: https://scholar.google.com/citations?user=hF8FTTIAAAAJ&hl=en
 5. Jane Southworth
    Score: 4.5/10 | H-index: 33 | FCR: 52.2x | Citations: 4,253
+   Google Scholar: https://scholar.google.com/citations?user=L7iAPHcAAAAJ&hl=en
 6. Sabine Grunwald
    Score: 4.4/10 | H-index: 34 | FCR: 24.5x | Citations: 4,105
+   Website: http://ufgrunwald.com/ | Google Scholar: https://scholar.google.com/citations?user=XnTnqZ8AAAAJ&hl=en
 7. Christopher Martyniuk
    Score: 4.3/10 | H-index: 49 | FCR: 12.6x | Citations: 7,890
 8. Eben Broadbent
    Score: 3.9/10 | H-index: 37 | FCR: 29.6x | Citations: 4,890
 9. Sadie J. Ryan
    Score: 3.8/10 | H-index: 42 | FCR: 12.6x | Citations: 7,899
+   Google Scholar: https://scholar.google.com/citations?user=pPLqtm0AAAAJ&hl=en
 10. John Bowden
    Score: 3.3/10 | H-index: 39 | FCR: 10.3x | Citations: 4,739
+   Website: https://www.vetmed.ufl.edu/about-the-college/directories/faculty/john-bowden/ | Google Scholar: https://www.researchgate.net/profile/John_Bowden2
 11. Robert Fletcher
    Score: 3.3/10 | H-index: 39 | FCR: 7.3x | Citations: 5,706
 12. Brett R. Scheffers
    Score: 2.9/10 | H-index: 27 | FCR: 19.3x | Citations: 4,793
+   Google Scholar: https://scholar.google.com/citations?user=4HfsgFUAAAAJ&hl=en
 13. Vimala D. Nair
    Score: 2.8/10 | H-index: 29 | FCR: 16.7x | Citations: 4,021
+   Google Scholar: https://scholar.google.com/citations?user=_xgUqpEAAAAJ&hl=en
 14. Stephanie Bohlman
    Score: 2.7/10 | H-index: 30 | FCR: 7.6x | Citations: 4,640
 15. Rafael Munoz-Carpena
    Score: 2.5/10 | H-index: 30 | FCR: 3.8x | Citations: 4,500
+   Google Scholar: https://scholar.google.com/citations?user=8-GYxFAAAAAJ&hl=en
 16. Zhenli He
    Score: 2.4/10 | H-index: 30 | FCR: 6.2x | Citations: 3,317
 17. Micheal S. Allen
@@ -47,8 +57,10 @@ Total researchers: 135
    Score: 2.4/10 | H-index: 21 | FCR: 2.0x | Citations: 1,259
 19. Michael D. Annable
    Score: 2.3/10 | H-index: 31 | FCR: 1.4x | Citations: 3,080
+   Website: https://faculty.eng.ufl.edu/michael-annable/ | Google Scholar: https://scholar.google.com/citations?user=t8-AZaEAAAAJ&hl=en
 20. Margaret O. James
    Score: 2.3/10 | H-index: 31 | FCR: 1.6x | Citations: 3,421
+   Google Scholar: https://scholar.google.com/citations?user=6edliokAAAAJ&hl=en
 
    [115 additional researchers not shown]
 
@@ -59,14 +71,17 @@ Total researchers: 118
 
 1. Andrew Zimmerman
    Score: 6.4/10 | H-index: 64 | FCR: 9.5x | Citations: 21,793
+   Google Scholar: https://scholar.google.com/citations?user=pRh2pjMAAAAJ&hl=en
 2. David Kaplan
    Score: 6.0/10 | H-index: 38 | FCR: 79.1x | Citations: 6,902
+   Website: https://www.watershedecology.org/  (Watershed Ecology Lab)  [oai_citation:0‡watershedecology.org](https://www.watershedecology.org/?utm_source=chatgpt.com) | Google Scholar: https://scholar.google.com/citations?user=KDAxey0AAAAJ&hl=en
 3. Nancy Denslow
    Score: 4.8/10 | H-index: 55 | FCR: 9.5x | Citations: 10,465
 4. Mark Brenner
    Score: 4.6/10 | H-index: 53 | FCR: 9.3x | Citations: 10,492
 5. Eric W. Triplett
    Score: 4.4/10 | H-index: 41 | FCR: 7.4x | Citations: 9,709
+   Google Scholar: https://scholar.google.com/citations?user=0UTNJyYAAAAJ&hl=en
 6. Christopher Martyniuk
    Score: 4.3/10 | H-index: 49 | FCR: 12.6x | Citations: 7,890
 7. Eben Broadbent
@@ -75,6 +90,7 @@ Total researchers: 118
    Score: 3.9/10 | H-index: 18 | FCR: 63.9x | Citations: 2,340
 9. Sadie J. Ryan
    Score: 3.8/10 | H-index: 42 | FCR: 12.6x | Citations: 7,899
+   Google Scholar: https://scholar.google.com/citations?user=pPLqtm0AAAAJ&hl=en
 10. Jianjun Chen
    Score: 3.6/10 | H-index: 41 | FCR: 7.8x | Citations: 8,392
 11. Paul Fisher
@@ -83,16 +99,20 @@ Total researchers: 118
    Score: 3.3/10 | H-index: 39 | FCR: 7.3x | Citations: 5,706
 13. Matthew J. Cohen
    Score: 3.0/10 | H-index: 36 | FCR: 7.5x | Citations: 4,392
+   Website: https://ffgs.ifas.ufl.edu/faculty/cohen-matthew/ | Google Scholar: https://scholar.google.com/citations?user=cFbUqrEAAAAJ&hl=en
 14. Brett R. Scheffers
    Score: 2.9/10 | H-index: 27 | FCR: 19.3x | Citations: 4,793
+   Google Scholar: https://scholar.google.com/citations?user=4HfsgFUAAAAJ&hl=en
 15. James W. Jawitz
    Score: 2.8/10 | H-index: 36 | FCR: 3.9x | Citations: 4,706
+   Website: https://www.landscapehydrology.org/what-we-do/ | Google Scholar: https://scholar.google.com/citations?user=nW8_WI0AAAAJ&hl=en
 16. Stephanie Bohlman
    Score: 2.7/10 | H-index: 30 | FCR: 7.6x | Citations: 4,640
 17. Micheal S. Allen
    Score: 2.4/10 | H-index: 30 | FCR: 6.5x | Citations: 2,572
 18. Stuart McDaniel
    Score: 2.3/10 | H-index: 25 | FCR: 7.5x | Citations: 2,450
+   Google Scholar: https://scholar.google.com/citations?user=i9vUs3oAAAAJ&hl=en
 19. Amr Abd-Elrahman
    Score: 2.2/10 | H-index: 27 | FCR: 5.5x | Citations: 2,312
 20. Karen Garrett
@@ -107,10 +127,12 @@ Total researchers: 99
 
 1. Andrew Zimmerman
    Score: 6.4/10 | H-index: 64 | FCR: 9.5x | Citations: 21,793
+   Google Scholar: https://scholar.google.com/citations?user=pRh2pjMAAAAJ&hl=en
 2. Gerrit Hoogenboom
    Score: 5.2/10 | H-index: 52 | FCR: 25.5x | Citations: 9,777
 3. Frank Asche
    Score: 4.6/10 | H-index: 43 | FCR: 33.8x | Citations: 6,777
+   Website: https://ffgs.ifas.ufl.edu/faculty/asche-frank/ | Google Scholar: https://scholar.google.com/citations?user=hF8FTTIAAAAJ&hl=en
 4. Yiannis Ampatzidis
    Score: 3.9/10 | H-index: 35 | FCR: 26.3x | Citations: 4,431
 5. Aditya Singh
@@ -121,10 +143,13 @@ Total researchers: 99
    Score: 3.4/10 | H-index: 18 | FCR: 31.9x | Citations: 11,827
 8. Vimala D. Nair
    Score: 2.8/10 | H-index: 29 | FCR: 16.7x | Citations: 4,021
+   Google Scholar: https://scholar.google.com/citations?user=_xgUqpEAAAAJ&hl=en
 9. Kati W. Migliaccio
    Score: 2.6/10 | H-index: 17 | FCR: 33.0x | Citations: 2,500
+   Google Scholar: https://scholar.google.com/citations?user=pEd15xAAAAAJ&hl=en
 10. Rafael Munoz-Carpena
    Score: 2.5/10 | H-index: 30 | FCR: 3.8x | Citations: 4,500
+   Google Scholar: https://scholar.google.com/citations?user=8-GYxFAAAAAJ&hl=en
 11. Zhenli He
    Score: 2.4/10 | H-index: 30 | FCR: 6.2x | Citations: 3,317
 12. Micheal S. Allen
@@ -133,18 +158,22 @@ Total researchers: 99
    Score: 2.4/10 | H-index: 21 | FCR: 2.0x | Citations: 1,259
 14. Lincoln Zotarelli
    Score: 2.3/10 | H-index: 28 | FCR: 9.2x | Citations: 2,674
+   Google Scholar: https://scholar.google.com/citations?user=bUU6zcwAAAAJ&hl=en
 15. Stuart McDaniel
    Score: 2.3/10 | H-index: 25 | FCR: 7.5x | Citations: 2,450
+   Google Scholar: https://scholar.google.com/citations?user=i9vUs3oAAAAJ&hl=en
 16. Karen Garrett
    Score: 2.2/10 | H-index: 23 | FCR: 14.2x | Citations: 2,365
 17. Lynn E. Sollenberger
    Score: 2.2/10 | H-index: 29 | FCR: 3.5x | Citations: 3,134
+   Google Scholar: https://scholar.google.com/citations?user=k5xt4gsAAAAJ&hl=en
 18. James L. Anderson
    Score: 2.1/10 | H-index: 22 | FCR: 12.7x | Citations: 2,239
 19. Michael Dukes
    Score: 2.0/10 | H-index: 24 | FCR: 7.4x | Citations: 2,758
 20. Arnold W. Schumann
    Score: 2.0/10 | H-index: 26 | FCR: 6.8x | Citations: 1,745
+   Google Scholar: https://scholar.google.com/citations?user=_fTO3fEAAAAJ&hl=en
 
    [79 additional researchers not shown]
 
@@ -155,44 +184,57 @@ Total researchers: 70
 
 1. David Kaplan
    Score: 6.0/10 | H-index: 38 | FCR: 79.1x | Citations: 6,902
+   Website: https://www.watershedecology.org/  (Watershed Ecology Lab)  [oai_citation:0‡watershedecology.org](https://www.watershedecology.org/?utm_source=chatgpt.com) | Google Scholar: https://scholar.google.com/citations?user=KDAxey0AAAAJ&hl=en
 2. Gerrit Hoogenboom
    Score: 5.2/10 | H-index: 52 | FCR: 25.5x | Citations: 9,777
 3. Mark Brenner
    Score: 4.6/10 | H-index: 53 | FCR: 9.3x | Citations: 10,492
 4. Jane Southworth
    Score: 4.5/10 | H-index: 33 | FCR: 52.2x | Citations: 4,253
+   Google Scholar: https://scholar.google.com/citations?user=L7iAPHcAAAAJ&hl=en
 5. Sabine Grunwald
    Score: 4.4/10 | H-index: 34 | FCR: 24.5x | Citations: 4,105
+   Website: http://ufgrunwald.com/ | Google Scholar: https://scholar.google.com/citations?user=XnTnqZ8AAAAJ&hl=en
 6. Eben Broadbent
    Score: 3.9/10 | H-index: 37 | FCR: 29.6x | Citations: 4,890
 7. Aditya Singh
    Score: 3.9/10 | H-index: 18 | FCR: 63.9x | Citations: 2,340
 8. Matthew J. Cohen
    Score: 3.0/10 | H-index: 36 | FCR: 7.5x | Citations: 4,392
+   Website: https://ffgs.ifas.ufl.edu/faculty/cohen-matthew/ | Google Scholar: https://scholar.google.com/citations?user=cFbUqrEAAAAJ&hl=en
 9. James W. Jawitz
    Score: 2.8/10 | H-index: 36 | FCR: 3.9x | Citations: 4,706
+   Website: https://www.landscapehydrology.org/what-we-do/ | Google Scholar: https://scholar.google.com/citations?user=nW8_WI0AAAAJ&hl=en
 10. Stephanie Bohlman
    Score: 2.7/10 | H-index: 30 | FCR: 7.6x | Citations: 4,640
 11. Kati W. Migliaccio
    Score: 2.6/10 | H-index: 17 | FCR: 33.0x | Citations: 2,500
+   Google Scholar: https://scholar.google.com/citations?user=pEd15xAAAAAJ&hl=en
 12. Michael R. Perfit
    Score: 2.5/10 | H-index: 31 | FCR: 2.0x | Citations: 3,404
+   Google Scholar: https://scholar.google.com/citations?user=zxwOA0QAAAAJ&hl=en
 13. Rafael Munoz-Carpena
    Score: 2.5/10 | H-index: 30 | FCR: 3.8x | Citations: 4,500
+   Google Scholar: https://scholar.google.com/citations?user=8-GYxFAAAAAJ&hl=en
 14. Lincoln Zotarelli
    Score: 2.3/10 | H-index: 28 | FCR: 9.2x | Citations: 2,674
+   Google Scholar: https://scholar.google.com/citations?user=bUU6zcwAAAAJ&hl=en
 15. Michael D. Annable
    Score: 2.3/10 | H-index: 31 | FCR: 1.4x | Citations: 3,080
+   Website: https://faculty.eng.ufl.edu/michael-annable/ | Google Scholar: https://scholar.google.com/citations?user=t8-AZaEAAAAJ&hl=en
 16. Amr Abd-Elrahman
    Score: 2.2/10 | H-index: 27 | FCR: 5.5x | Citations: 2,312
 17. Arnoldo Valle-Levinson
    Score: 2.2/10 | H-index: 29 | FCR: 2.8x | Citations: 3,102
+   Google Scholar: https://scholar.google.com/citations?user=2lZZB4oAAAAJ&hl=en
 18. Paul A. Mueller
    Score: 2.1/10 | H-index: 27 | FCR: 3.2x | Citations: 2,541
+   Google Scholar: https://scholar.google.com/citations?user=xLOZ0JwAAAAJ&hl=en
 19. Edward J. Phlips
    Score: 2.1/10 | H-index: 27 | FCR: 4.9x | Citations: 2,161
 20. Arnold W. Schumann
    Score: 2.0/10 | H-index: 26 | FCR: 6.8x | Citations: 1,745
+   Google Scholar: https://scholar.google.com/citations?user=_fTO3fEAAAAJ&hl=en
 
    [50 additional researchers not shown]
 
@@ -207,18 +249,23 @@ Total researchers: 59
    Score: 3.9/10 | H-index: 37 | FCR: 29.6x | Citations: 4,890
 3. Sadie J. Ryan
    Score: 3.8/10 | H-index: 42 | FCR: 12.6x | Citations: 7,899
+   Google Scholar: https://scholar.google.com/citations?user=pPLqtm0AAAAJ&hl=en
 4. Robert Fletcher
    Score: 3.3/10 | H-index: 39 | FCR: 7.3x | Citations: 5,706
 5. Matthew J. Cohen
    Score: 3.0/10 | H-index: 36 | FCR: 7.5x | Citations: 4,392
+   Website: https://ffgs.ifas.ufl.edu/faculty/cohen-matthew/ | Google Scholar: https://scholar.google.com/citations?user=cFbUqrEAAAAJ&hl=en
 6. Brett R. Scheffers
    Score: 2.9/10 | H-index: 27 | FCR: 19.3x | Citations: 4,793
+   Google Scholar: https://scholar.google.com/citations?user=4HfsgFUAAAAJ&hl=en
 7. James W. Jawitz
    Score: 2.8/10 | H-index: 36 | FCR: 3.9x | Citations: 4,706
+   Website: https://www.landscapehydrology.org/what-we-do/ | Google Scholar: https://scholar.google.com/citations?user=nW8_WI0AAAAJ&hl=en
 8. Stephanie Bohlman
    Score: 2.7/10 | H-index: 30 | FCR: 7.6x | Citations: 4,640
 9. Stuart McDaniel
    Score: 2.3/10 | H-index: 25 | FCR: 7.5x | Citations: 2,450
+   Google Scholar: https://scholar.google.com/citations?user=i9vUs3oAAAAJ&hl=en
 10. Peter Frederick
    Score: 2.1/10 | H-index: 29 | FCR: 2.0x | Citations: 2,762
 11. Andrew H. Altieri
@@ -229,18 +276,22 @@ Total researchers: 59
    Score: 2.0/10 | H-index: 25 | FCR: 3.4x | Citations: 1,996
 14. Robert A. McCleery
    Score: 1.9/10 | H-index: 26 | FCR: 2.4x | Citations: 2,212
+   Google Scholar: https://scholar.google.com/citations?user=j-fqNBIAAAAJ&hl=en
 15. Angélica Maria Almeyda Zambrano
    Score: 1.9/10 | H-index: 17 | FCR: 17.7x | Citations: 1,765
 16. Todd Osborne
    Score: 1.9/10 | H-index: 23 | FCR: 5.1x | Citations: 1,745
+   Google Scholar: https://scholar.google.com/citations?user=Fc2jwNAAAAAJ&hl=en
 17. James Gillooly
    Score: 1.9/10 | H-index: 25 | FCR: 1.8x | Citations: 3,180
 18. Donald Behringer
    Score: 1.7/10 | H-index: 22 | FCR: 3.8x | Citations: 1,370
+   Website: https://behringerlab.com
 19. Patrick Inglett
    Score: 1.6/10 | H-index: 23 | FCR: 2.0x | Citations: 1,253
 20. Lawrence M. Page
    Score: 1.6/10 | H-index: 7 | FCR: 2.9x | Citations: 368
+   Google Scholar: https://scholar.google.com/citations?user=NcHyNFMAAAAJ&hl=en
 
    [39 additional researchers not shown]
 
@@ -251,44 +302,58 @@ Total researchers: 53
 
 1. Andrew Zimmerman
    Score: 6.4/10 | H-index: 64 | FCR: 9.5x | Citations: 21,793
+   Google Scholar: https://scholar.google.com/citations?user=pRh2pjMAAAAJ&hl=en
 2. Jane Southworth
    Score: 4.5/10 | H-index: 33 | FCR: 52.2x | Citations: 4,253
+   Google Scholar: https://scholar.google.com/citations?user=L7iAPHcAAAAJ&hl=en
 3. Sabine Grunwald
    Score: 4.4/10 | H-index: 34 | FCR: 24.5x | Citations: 4,105
+   Website: http://ufgrunwald.com/ | Google Scholar: https://scholar.google.com/citations?user=XnTnqZ8AAAAJ&hl=en
 4. Jianjun Chen
    Score: 3.6/10 | H-index: 41 | FCR: 7.8x | Citations: 8,392
 5. Stephanie Bohlman
    Score: 2.7/10 | H-index: 30 | FCR: 7.6x | Citations: 4,640
 6. Kati W. Migliaccio
    Score: 2.6/10 | H-index: 17 | FCR: 33.0x | Citations: 2,500
+   Google Scholar: https://scholar.google.com/citations?user=pEd15xAAAAAJ&hl=en
 7. Rafael Munoz-Carpena
    Score: 2.5/10 | H-index: 30 | FCR: 3.8x | Citations: 4,500
+   Google Scholar: https://scholar.google.com/citations?user=8-GYxFAAAAAJ&hl=en
 8. Zhenli He
    Score: 2.4/10 | H-index: 30 | FCR: 6.2x | Citations: 3,317
 9. Lincoln Zotarelli
    Score: 2.3/10 | H-index: 28 | FCR: 9.2x | Citations: 2,674
+   Google Scholar: https://scholar.google.com/citations?user=bUU6zcwAAAAJ&hl=en
 10. Amr Abd-Elrahman
    Score: 2.2/10 | H-index: 27 | FCR: 5.5x | Citations: 2,312
 11. Michael Dukes
    Score: 2.0/10 | H-index: 24 | FCR: 7.4x | Citations: 2,758
 12. Arnold W. Schumann
    Score: 2.0/10 | H-index: 26 | FCR: 6.8x | Citations: 1,745
+   Google Scholar: https://scholar.google.com/citations?user=_fTO3fEAAAAJ&hl=en
 13. Xiaoyu Song
    Score: 1.9/10 | H-index: 24 | FCR: 5.5x | Citations: 1,423
+   Google Scholar: https://scholar.google.com/citations?user=aksOfrcAAAAJ&hl=en
 14. Pratap Pullammanappallil
    Score: 1.8/10 | H-index: 21 | FCR: 0.7x | Citations: 4,724
+   Google Scholar: https://scholar.google.com/citations?user=IjteorwAAAAJ&hl=en
 15. Jean-Claude Bonzongo
    Score: 1.8/10 | H-index: 22 | FCR: 3.5x | Citations: 2,483
 16. Jasmeet Judge
    Score: 1.6/10 | H-index: 20 | FCR: 5.2x | Citations: 1,531
+   Google Scholar: https://scholar.google.com/citations?user=NKQ2xvcAAAAJ&hl=en
 17. Myoseon Jang
    Score: 1.6/10 | H-index: 20 | FCR: 2.7x | Citations: 1,525
+   Google Scholar: https://scholar.google.com/citations?user=RUjvSQ8AAAAJ&hl=en
 18. Kent Crippen
    Score: 1.5/10 | H-index: 15 | FCR: 6.8x | Citations: 856
+   Website: https://education.ufl.edu/faculty/crippen-kent/ | Google Scholar: https://scholar.google.com/citations?user=urfikjEAAAAJ&hl=en
 19. Robert J. Ries
    Score: 1.4/10 | H-index: 17 | FCR: 6.3x | Citations: 1,547
+   Google Scholar: https://scholar.google.com/citations?user=_V1fQrMAAAAJ&hl=en
 20. Xiao Yu
    Score: 1.3/10 | H-index: 15 | FCR: 4.7x | Citations: 739
+   Website: https://faculty.eng.ufl.edu/environmental-fluid-dynamics-laboratory/ | Google Scholar: https://scholar.google.com/citations?user=Of57liMAAAAJ&hl=en
 
    [33 additional researchers not shown]
 
@@ -299,8 +364,10 @@ Total researchers: 46
 
 1. Andrew Zimmerman
    Score: 6.4/10 | H-index: 64 | FCR: 9.5x | Citations: 21,793
+   Google Scholar: https://scholar.google.com/citations?user=pRh2pjMAAAAJ&hl=en
 2. Vimala D. Nair
    Score: 2.8/10 | H-index: 29 | FCR: 16.7x | Citations: 4,021
+   Google Scholar: https://scholar.google.com/citations?user=_xgUqpEAAAAJ&hl=en
 3. Micheal S. Allen
    Score: 2.4/10 | H-index: 30 | FCR: 6.5x | Citations: 2,572
 4. Damian C. Adams
@@ -313,30 +380,38 @@ Total researchers: 46
    Score: 2.1/10 | H-index: 25 | FCR: 9.0x | Citations: 2,051
 8. Jiangxiao Qiu
    Score: 2.0/10 | H-index: 23 | FCR: 9.2x | Citations: 1,482
+   Google Scholar: https://scholar.google.com/citations?user=Z6BZSX0AAAAJ&hl=en
 9. Robert A. McCleery
    Score: 1.9/10 | H-index: 26 | FCR: 2.4x | Citations: 2,212
+   Google Scholar: https://scholar.google.com/citations?user=j-fqNBIAAAAJ&hl=en
 10. Thomas Anderson
    Score: 1.9/10 | H-index: 5 | FCR: 40.2x | Citations: 179
+   Website: https://www.thomas-anderson-jr.com/ | Google Scholar: https://scholar.google.com/citations?user=JvWciIIAAAAJ&hl=en
 11. Pratap Pullammanappallil
    Score: 1.8/10 | H-index: 21 | FCR: 0.7x | Citations: 4,724
+   Google Scholar: https://scholar.google.com/citations?user=IjteorwAAAAJ&hl=en
 12. Jean-Claude Bonzongo
    Score: 1.8/10 | H-index: 22 | FCR: 3.5x | Citations: 2,483
 13. Julie Meyer
    Score: 1.4/10 | H-index: 16 | FCR: 6.8x | Citations: 1,288
+   Website: https://soils.ifas.ufl.edu/people/faculty/julie-l-meyer/ | Google Scholar: https://scholar.google.com/citations?hl=en&user=VlEuNbQAAAAJ&view_op=list_works&sortby=pubdate
 14. Andrés Susaeta
    Score: 1.4/10 | H-index: 19 | FCR: 3.1x | Citations: 970
 15. Robert J. Ries
    Score: 1.4/10 | H-index: 17 | FCR: 6.3x | Citations: 1,547
+   Google Scholar: https://scholar.google.com/citations?user=_V1fQrMAAAAJ&hl=en
 16. Gregory Kiker
    Score: 1.4/10 | H-index: 16 | FCR: 4.3x | Citations: 921
 17. John Jaeger
    Score: 1.4/10 | H-index: 19 | FCR: 3.0x | Citations: 1,159
+   Google Scholar: https://scholar.google.com/citations?user=b_CJnfcAAAAJ&hl=en
 18. Mark Clark
    Score: 1.3/10 | H-index: 17 | FCR: 3.0x | Citations: 975
 19. David Chagaris
    Score: 1.3/10 | H-index: 15 | FCR: 6.7x | Citations: 693
 20. Laura A. Warner
    Score: 1.1/10 | H-index: 14 | FCR: 3.8x | Citations: 577
+   Website: https://aec.ifas.ufl.edu/directory/faculty/laura-warner/ | Google Scholar: https://scholar.google.com/citations?user=-i98En8AAAAJ&hl=en
 
    [26 additional researchers not shown]
 
@@ -357,32 +432,41 @@ Total researchers: 41
    Score: 3.4/10 | H-index: 18 | FCR: 31.9x | Citations: 11,827
 6. Vimala D. Nair
    Score: 2.8/10 | H-index: 29 | FCR: 16.7x | Citations: 4,021
+   Google Scholar: https://scholar.google.com/citations?user=_xgUqpEAAAAJ&hl=en
 7. Zhenli He
    Score: 2.4/10 | H-index: 30 | FCR: 6.2x | Citations: 3,317
 8. Lincoln Zotarelli
    Score: 2.3/10 | H-index: 28 | FCR: 9.2x | Citations: 2,674
+   Google Scholar: https://scholar.google.com/citations?user=bUU6zcwAAAAJ&hl=en
 9. Karen Garrett
    Score: 2.2/10 | H-index: 23 | FCR: 14.2x | Citations: 2,365
 10. Lynn E. Sollenberger
    Score: 2.2/10 | H-index: 29 | FCR: 3.5x | Citations: 3,134
+   Google Scholar: https://scholar.google.com/citations?user=k5xt4gsAAAAJ&hl=en
 11. Michael Dukes
    Score: 2.0/10 | H-index: 24 | FCR: 7.4x | Citations: 2,758
 12. Arnold W. Schumann
    Score: 2.0/10 | H-index: 26 | FCR: 6.8x | Citations: 1,745
+   Google Scholar: https://scholar.google.com/citations?user=_fTO3fEAAAAJ&hl=en
 13. Alan L. Wright
    Score: 2.0/10 | H-index: 27 | FCR: 2.5x | Citations: 2,253
+   Google Scholar: https://scholar.google.com/citations?user=qejMU1IAAAAJ&hl=en
 14. Andrew Ogram
    Score: 2.0/10 | H-index: 25 | FCR: 3.4x | Citations: 1,996
 15. Wendy Graham
    Score: 1.9/10 | H-index: 21 | FCR: 2.4x | Citations: 1,345
+   Google Scholar: https://scholar.google.com/citations?user=uqVzdCMAAAAJ&hl=en
 16. Clyde Fraisse
    Score: 1.9/10 | H-index: 21 | FCR: 3.7x | Citations: 1,761
 17. Muhammad Shahid
    Score: 1.8/10 | H-index: 19 | FCR: 11.3x | Citations: 1,603
+   Website: https://nfrec.ifas.ufl.edu/faculty-directory/muhammad-shahid/ | Google Scholar: https://scholar.google.com/citations?hl=en&user=P73T2vIAAAAJ&sortby=pubdate&view_op=list_works&gmla=AJsN-F7hN_sUzN_N_9CX-dJPCTcNr2y3Y58_ckHCpLzIr4o_B2V_vBOCiIo2QdWBr-1EwZFXJmXRPgD-j4v6-pnRq4uQKABktRCiAxpZzKiyAy5etL0cUlg
 18. Kelly T. Morgan
    Score: 1.8/10 | H-index: 22 | FCR: 7.4x | Citations: 1,531
+   Google Scholar: https://scholar.google.com/citations?user=RzuvjQEAAAAJ&hl=en
 19. Shouan Zhang
    Score: 1.7/10 | H-index: 22 | FCR: 3.9x | Citations: 1,476
+   Google Scholar: https://scholar.google.com/citations?user=xNpKEfAAAAAJ&hl=en
 20. Patrick Inglett
    Score: 1.6/10 | H-index: 23 | FCR: 2.0x | Citations: 1,253
 
@@ -395,6 +479,7 @@ Total researchers: 32
 
 1. Jane Southworth
    Score: 4.5/10 | H-index: 33 | FCR: 52.2x | Citations: 4,253
+   Google Scholar: https://scholar.google.com/citations?user=L7iAPHcAAAAJ&hl=en
 2. Christopher Martyniuk
    Score: 4.3/10 | H-index: 49 | FCR: 12.6x | Citations: 7,890
 3. Eben Broadbent
@@ -403,12 +488,16 @@ Total researchers: 32
    Score: 3.3/10 | H-index: 39 | FCR: 7.3x | Citations: 5,706
 5. Brett R. Scheffers
    Score: 2.9/10 | H-index: 27 | FCR: 19.3x | Citations: 4,793
+   Google Scholar: https://scholar.google.com/citations?user=4HfsgFUAAAAJ&hl=en
 6. Jiangxiao Qiu
    Score: 2.0/10 | H-index: 23 | FCR: 9.2x | Citations: 1,482
+   Google Scholar: https://scholar.google.com/citations?user=Z6BZSX0AAAAJ&hl=en
 7. Robert A. McCleery
    Score: 1.9/10 | H-index: 26 | FCR: 2.4x | Citations: 2,212
+   Google Scholar: https://scholar.google.com/citations?user=j-fqNBIAAAAJ&hl=en
 8. Jason G. Vogel
    Score: 1.7/10 | H-index: 20 | FCR: 5.2x | Citations: 2,462
+   Google Scholar: https://scholar.google.com/citations?user=Uj_Ksi8AAAAJ&hl=en
 9. Jeffrey Hill
    Score: 1.6/10 | H-index: 20 | FCR: 5.1x | Citations: 1,309
 10. Andrés Susaeta
@@ -417,22 +506,29 @@ Total researchers: 32
    Score: 1.3/10 | H-index: 17 | FCR: 3.0x | Citations: 975
 12. Grenville Barnes
    Score: 1.1/10 | H-index: 15 | FCR: 2.5x | Citations: 665
+   Google Scholar: https://scholar.google.com/citations?user=VY9l2mYAAAAJ
 13. Mysha Clarke
    Score: 1.0/10 | H-index: 9 | FCR: 10.2x | Citations: 313
+   Website: https://myshaclarke.weebly.com/ | Google Scholar: https://scholar.google.com/citations?user=SG7ECDEAAAAJ&hl=en
 14. Laura K. Reynolds
    Score: 1.0/10 | H-index: 12 | FCR: 5.9x | Citations: 435
+   Website: https://lkreynolds.com | Google Scholar: https://scholar.google.com/citations?user=AVsjjogAAAAJ&hl=en
 15. Raelene Crandall
    Score: 0.9/10 | H-index: 10 | FCR: 2.1x | Citations: 906
 16. Quenton Tuckett
    Score: 0.9/10 | H-index: 11 | FCR: 5.1x | Citations: 430
+   Website: https://tal.ifas.ufl.edu/people/faculty/quenton-tuckett/ | Google Scholar: https://scholar.google.com/citations?user=tnIx2ecAAAAJ&hl=en&oi=ao
 17. Steve A. Johnson
    Score: 0.9/10 | H-index: 13 | FCR: 1.4x | Citations: 701
+   Google Scholar: https://scholar.google.com/citations?user=vz29hAgAAAAJ&hl=en
 18. Carrie Reinhardt Adams
    Score: 0.9/10 | H-index: 11 | FCR: 2.3x | Citations: 953
+   Google Scholar: https://scholar.google.com/citations?user=F4KwxR8AAAAJ&hl=en
 19. Basil Iannone
    Score: 0.9/10 | H-index: 12 | FCR: 3.2x | Citations: 504
 20. Michael G. Andreu
    Score: 0.8/10 | H-index: 10 | FCR: 2.7x | Citations: 313
+   Website: https://ffgs.ifas.ufl.edu/faculty/andreu-michael/ | Google Scholar: https://scholar.google.com/citations?user=w7WPj08AAAAJ&hl=en
 
    [12 additional researchers not shown]
 
@@ -445,20 +541,26 @@ Total researchers: 30
    Score: 4.8/10 | H-index: 55 | FCR: 9.5x | Citations: 10,465
 2. Eric W. Triplett
    Score: 4.4/10 | H-index: 41 | FCR: 7.4x | Citations: 9,709
+   Google Scholar: https://scholar.google.com/citations?user=0UTNJyYAAAAJ&hl=en
 3. Christopher Martyniuk
    Score: 4.3/10 | H-index: 49 | FCR: 12.6x | Citations: 7,890
 4. Sadie J. Ryan
    Score: 3.8/10 | H-index: 42 | FCR: 12.6x | Citations: 7,899
+   Google Scholar: https://scholar.google.com/citations?user=pPLqtm0AAAAJ&hl=en
 5. Paul Fisher
    Score: 3.4/10 | H-index: 18 | FCR: 31.9x | Citations: 11,827
 6. John Bowden
    Score: 3.3/10 | H-index: 39 | FCR: 10.3x | Citations: 4,739
+   Website: https://www.vetmed.ufl.edu/about-the-college/directories/faculty/john-bowden/ | Google Scholar: https://www.researchgate.net/profile/John_Bowden2
 7. Jie Xu
    Score: 2.5/10 | H-index: 17 | FCR: 27.0x | Citations: 2,589
+   Website: https://jiexu.ece.ufl.edu | Google Scholar: https://scholar.google.com/citations?user=07kG-YsAAAAJ&hl=en
 8. Margaret O. James
    Score: 2.3/10 | H-index: 31 | FCR: 1.6x | Citations: 3,421
+   Google Scholar: https://scholar.google.com/citations?user=6edliokAAAAJ&hl=en
 9. Benjamin Anderson
    Score: 2.2/10 | H-index: 22 | FCR: 18.0x | Citations: 1,734
+   Website: https://egh.phhp.ufl.edu/profile/anderson-benjamin/ | Google Scholar: https://scholar.google.com/citations?user=xoWW4OEAAAAJ&hl=en
 10. Anita Wright
    Score: 2.0/10 | H-index: 23 | FCR: 12.1x | Citations: 1,447
 11. Joseph Bisesi
@@ -469,18 +571,25 @@ Total researchers: 30
    Score: 1.2/10 | H-index: 14 | FCR: 5.6x | Citations: 780
 14. Spyros A. Svoronos
    Score: 1.1/10 | H-index: 15 | FCR: 0.9x | Citations: 924
+   Google Scholar: https://scholar.google.com/citations?user=G_rkhUoAAAAJ&hl=en
 15. Apichai Tuanyok
    Score: 1.1/10 | H-index: 15 | FCR: 2.8x | Citations: 857
+   Google Scholar: https://scholar.google.com/citations?user=6_XwgfAAAAAJ&hl=en
 16. Kevin Bardosh
    Score: 1.1/10 | H-index: 13 | FCR: 4.7x | Citations: 865
+   Google Scholar: https://scholar.google.com/citations?hl=en&user=JjEgJcIAAAAJ
 17. Tracie Baker
    Score: 0.9/10 | H-index: 8 | FCR: 4.6x | Citations: 256
+   Website: https://www.bakerWATERlab.com
 18. Banikalyan Swain
    Score: 0.7/10 | H-index: 6 | FCR: 7.9x | Citations: 111
+   Google Scholar: https://scholar.google.com/citations?user=Y5qmLAwAAAAJ&hl=en
 19. Sarah Doore
    Score: 0.5/10 | H-index: 4 | FCR: 3.0x | Citations: 54
+   Website: https://microcell.ufl.edu/people/faculty-directory/doore/ | Google Scholar: https://scholar.google.com/citations?user=nDh7StQAAAAJ&hl=en
 20. Alyson Young
    Score: 0.5/10 | H-index: 7 | FCR: 1.5x | Citations: 203
+   Google Scholar: https://scholar.google.com/citations?user=lmhjfGMAAAAJ&hl=en
 
    [10 additional researchers not shown]
 
@@ -491,44 +600,60 @@ Total researchers: 27
 
 1. Christopher McCarty
    Score: 4.7/10 | H-index: 30 | FCR: 63.6x | Citations: 3,659
+   Google Scholar: https://scholar.google.com/citations?user=jMqJzYAAAAAJ&hl=en
 2. Frank Asche
    Score: 4.6/10 | H-index: 43 | FCR: 33.8x | Citations: 6,777
+   Website: https://ffgs.ifas.ufl.edu/faculty/asche-frank/ | Google Scholar: https://scholar.google.com/citations?user=hF8FTTIAAAAJ&hl=en
 3. Jason von Meding
    Score: 1.5/10 | H-index: 16 | FCR: 10.5x | Citations: 959
+   Website: https://dcp.ufl.edu/faculties/von-meding-jason/ | Google Scholar: https://scholar.google.com/citations?user=KgFrydsAAAAJ&hl=en
 4. Gregory Kiker
    Score: 1.4/10 | H-index: 16 | FCR: 4.3x | Citations: 921
 5. Rachata Muneepeerakul
    Score: 1.3/10 | H-index: 13 | FCR: 3.0x | Citations: 472
+   Google Scholar: https://scholar.google.com/citations?user=H1OAQgUAAAAJ&hl=en
 6. Marit Østebø
    Score: 1.2/10 | H-index: 6 | FCR: 21.6x | Citations: 113
+   Google Scholar: https://scholar.google.com/citations?user=aE1tqXgAAAAJ&hl=no
 7. Tracy Irani
    Score: 1.2/10 | H-index: 10 | FCR: 2.1x | Citations: 422
 8. Laura A. Warner
    Score: 1.1/10 | H-index: 14 | FCR: 3.8x | Citations: 577
+   Website: https://aec.ifas.ufl.edu/directory/faculty/laura-warner/ | Google Scholar: https://scholar.google.com/citations?user=-i98En8AAAAJ&hl=en
 9. Mysha Clarke
    Score: 1.0/10 | H-index: 9 | FCR: 10.2x | Citations: 313
+   Website: https://myshaclarke.weebly.com/ | Google Scholar: https://scholar.google.com/citations?user=SG7ECDEAAAAJ&hl=en
 10. Renata Serra
    Score: 0.9/10 | H-index: 9 | FCR: 7.7x | Citations: 263
 11. Catherine M. Tucker
    Score: 0.9/10 | H-index: 8 | FCR: 10.1x | Citations: 375
+   Google Scholar: https://scholar.google.com/citations?user=0MV-RawAAAAJ&hl=en
 12. Kevin Ash
    Score: 0.9/10 | H-index: 10 | FCR: 5.4x | Citations: 397
+   Google Scholar: https://scholar.google.com/citations?user=RlDYgpkAAAAJ&hl=en
 13. Mark Jamison
    Score: 0.8/10 | H-index: 10 | FCR: 1.2x | Citations: 414
+   Website: https://www.purc.ufl.edu/
 14. Johanna Engström
    Score: 0.6/10 | H-index: 7 | FCR: 3.4x | Citations: 496
+   Google Scholar: https://scholar.google.com/citations?user=JtyX6GAAAAAJ
 15. Katherine Deliz Quiñones
    Score: 0.6/10 | H-index: 6 | FCR: 4.7x | Citations: 120
+   Website: https://essie.ufl.edu/people/name/katherine-deliz-quinones/ | Google Scholar: https://scholar.google.com/citations?user=t8vTtBQAAAAJ&hl=en
 16. Johanna Engström
    Score: 0.6/10 | H-index: 7 | FCR: 3.4x | Citations: 496
+   Website: https://geog.ufl.edu/directory/dr-johanna-engstrom/ | Google Scholar: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7jzw2RFMDWOO9GcP_shBdzPNl7ZhSPC125s4dpZRveT-W8ytgCbSnvgcxcOLTGWn0z5GSoVLYRLAJwUaerUBo2FE5K6A&user=JtyX6GAAAAAJ
 17. Jeffrey C. Johnson
    Score: 0.5/10 | H-index: 6 | FCR: 2.8x | Citations: 547
+   Google Scholar: https://scholar.google.com/citations?user=jH2otREAAAAJ&hl=en
 18. Alyson Young
    Score: 0.5/10 | H-index: 7 | FCR: 1.5x | Citations: 203
+   Google Scholar: https://scholar.google.com/citations?user=lmhjfGMAAAAJ&hl=en
 19. Sebastian Galindo
    Score: 0.4/10 | H-index: 5 | FCR: 2.5x | Citations: 94
 20. Weizhe Weng
    Score: 0.3/10 | H-index: 3 | FCR: 3.4x | Citations: 27
+   Google Scholar: https://scholar.google.com/citations?user=E75C1nQAAAAJ&hl=en
 
    [7 additional researchers not shown]
 
@@ -543,40 +668,53 @@ Total researchers: 24
    Score: 3.4/10 | H-index: 18 | FCR: 31.9x | Citations: 11,827
 3. Vimala D. Nair
    Score: 2.8/10 | H-index: 29 | FCR: 16.7x | Citations: 4,021
+   Google Scholar: https://scholar.google.com/citations?user=_xgUqpEAAAAJ&hl=en
 4. Zhenli He
    Score: 2.4/10 | H-index: 30 | FCR: 6.2x | Citations: 3,317
 5. Lincoln Zotarelli
    Score: 2.3/10 | H-index: 28 | FCR: 9.2x | Citations: 2,674
+   Google Scholar: https://scholar.google.com/citations?user=bUU6zcwAAAAJ&hl=en
 6. Lynn E. Sollenberger
    Score: 2.2/10 | H-index: 29 | FCR: 3.5x | Citations: 3,134
+   Google Scholar: https://scholar.google.com/citations?user=k5xt4gsAAAAJ&hl=en
 7. Michael Dukes
    Score: 2.0/10 | H-index: 24 | FCR: 7.4x | Citations: 2,758
 8. Wendy Graham
    Score: 1.9/10 | H-index: 21 | FCR: 2.4x | Citations: 1,345
+   Google Scholar: https://scholar.google.com/citations?user=uqVzdCMAAAAJ&hl=en
 9. Clyde Fraisse
    Score: 1.9/10 | H-index: 21 | FCR: 3.7x | Citations: 1,761
 10. Kelly T. Morgan
    Score: 1.8/10 | H-index: 22 | FCR: 7.4x | Citations: 1,531
+   Google Scholar: https://scholar.google.com/citations?user=RzuvjQEAAAAJ&hl=en
 11. Maria L. Silveira
    Score: 1.6/10 | H-index: 22 | FCR: 3.1x | Citations: 1,684
+   Google Scholar: https://scholar.google.com/citations?user=llySupIAAAAJ&hl=en
 12. Samira Daroub
    Score: 1.5/10 | H-index: 18 | FCR: 3.2x | Citations: 2,569
 13. Sudeep S. Sidhu
    Score: 1.4/10 | H-index: 5 | FCR: 27.7x | Citations: 422
+   Website: https://svaec.ifas.ufl.edu/faculty-and-staff/faculty-directory/sudeep-sidhu-faculty-profile-page/ | Google Scholar: https://scholar.google.com/citations?user=qMrZY6sAAAAJ&hl=en
 14. Haimanote Bayabil
    Score: 1.4/10 | H-index: 15 | FCR: 9.9x | Citations: 863
+   Website: https://33031 | Google Scholar: https://scholar.google.com/citations?user=fikLaCMAAAAJ&hl=en
 15. Alan Hodges
    Score: 1.2/10 | H-index: 17 | FCR: 1.7x | Citations: 1,111
 16. Davie M. Kadyampakeni
    Score: 1.0/10 | H-index: 14 | FCR: 2.7x | Citations: 610
+   Website: https://crec.ifas.ufl.edu/people/faculty/davie-kadyampakeni/ | Google Scholar: https://scholar.google.com/citations?user=_TvqRccAAAAJ&hl=en
 17. Ian M. Small
    Score: 1.0/10 | H-index: 14 | FCR: 3.2x | Citations: 573
+   Google Scholar: https://scholar.google.com/citations?user=9KuK6GkAAAAJ&hl=en
 18. Hardeep Singh
    Score: 0.7/10 | H-index: 8 | FCR: 3.9x | Citations: 297
+   Google Scholar: https://scholar.google.com/citations?user=3dTw_p8AAAAJ&hl=en
 19. Vivek Sharma
    Score: 0.6/10 | H-index: 7 | FCR: 3.8x | Citations: 198
+   Website: https://abe.ufl.edu/people/faculty/vivek-sharma/ | Google Scholar: https://scholar.google.co.kr/citations?user=VWBO2aQAAAAJ&hl=en
 20. Marco Schiavon
    Score: 0.6/10 | H-index: 8 | FCR: 1.6x | Citations: 185
+   Google Scholar: https://scholar.google.it/citations?user=rzzy_OAAAAAJ&hl=en
 
    [4 additional researchers not shown]
 
@@ -593,38 +731,52 @@ Total researchers: 24
    Score: 2.0/10 | H-index: 24 | FCR: 7.4x | Citations: 2,758
 4. Thomas Anderson
    Score: 1.9/10 | H-index: 5 | FCR: 40.2x | Citations: 179
+   Website: https://www.thomas-anderson-jr.com/ | Google Scholar: https://scholar.google.com/citations?user=JvWciIIAAAAJ&hl=en
 5. Alan Hodges
    Score: 1.2/10 | H-index: 17 | FCR: 1.7x | Citations: 1,111
 6. Laura A. Warner
    Score: 1.1/10 | H-index: 14 | FCR: 3.8x | Citations: 577
+   Website: https://aec.ifas.ufl.edu/directory/faculty/laura-warner/ | Google Scholar: https://scholar.google.com/citations?user=-i98En8AAAAJ&hl=en
 7. Edward Evans
    Score: 1.1/10 | H-index: 13 | FCR: 4.6x | Citations: 578
 8. Catherine M. Tucker
    Score: 0.9/10 | H-index: 8 | FCR: 10.1x | Citations: 375
+   Google Scholar: https://scholar.google.com/citations?user=0MV-RawAAAAJ&hl=en
 9. Mark Jamison
    Score: 0.8/10 | H-index: 10 | FCR: 1.2x | Citations: 414
+   Website: https://www.purc.ufl.edu/
 10. Johanna Engström
    Score: 0.6/10 | H-index: 7 | FCR: 3.4x | Citations: 496
+   Google Scholar: https://scholar.google.com/citations?user=JtyX6GAAAAAJ
 11. Johanna Engström
    Score: 0.6/10 | H-index: 7 | FCR: 3.4x | Citations: 496
+   Website: https://geog.ufl.edu/directory/dr-johanna-engstrom/ | Google Scholar: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7jzw2RFMDWOO9GcP_shBdzPNl7ZhSPC125s4dpZRveT-W8ytgCbSnvgcxcOLTGWn0z5GSoVLYRLAJwUaerUBo2FE5K6A&user=JtyX6GAAAAAJ
 12. Tara Wade
    Score: 0.6/10 | H-index: 6 | FCR: 4.3x | Citations: 180
+   Google Scholar: https://scholar.google.com/citations?user=FQKkcHsAAAAJ&hl=en
 13. Ignacia Mercadal
    Score: 0.5/10 | H-index: 3 | FCR: 8.4x | Citations: 59
+   Website: https://sites.google.com/site/ignaciamercadal/home | Google Scholar: https://scholar.google.com/citations?user=h21W7IgAAAAJ&hl=en
 14. Olesya Savchenko
    Score: 0.5/10 | H-index: 4 | FCR: 4.3x | Citations: 64
+   Website: https://fred.ifas.ufl.edu/faculty/Savchenko/ | Google Scholar: https://scholar.google.com/citations?user=9w9LX08AAAAJ&hl=en
 15. Christa D. Court
    Score: 0.5/10 | H-index: 7 | FCR: 2.7x | Citations: 135
+   Google Scholar: https://scholar.google.com/citations?user=Wabc0RcAAAAJ&hl=en
 16. Michelle Phillips
    Score: 0.5/10 | H-index: 6 | FCR: 2.2x | Citations: 96
+   Google Scholar: https://scholar.google.com/citations?user=kWqkZLIAAAAJ&hl=en
 17. Di Fang
    Score: 0.4/10 | H-index: 4 | FCR: 3.5x | Citations: 52
+   Website: https://sites.google.com/view/difang/home | Google Scholar: https://scholar.google.com/citations?user=Qq5DoMsAAAAJ&hl=en
 18. Young Gu Her
    Score: 0.4/10 | H-index: 4 | FCR: 1.7x | Citations: 109
 19. Weizhe Weng
    Score: 0.3/10 | H-index: 3 | FCR: 3.4x | Citations: 27
+   Google Scholar: https://scholar.google.com/citations?user=E75C1nQAAAAJ&hl=en
 20. Xiaohui Qiao
    Score: 0.3/10 | H-index: 3 | FCR: 4.2x | Citations: 30
+   Website: https://fred.ifas.ufl.edu/about/directory/xiaohui-qiao/ | Google Scholar: https://scholar.google.com/citations?user=hYqkf1MAAAAJ&hl=en
 
    [4 additional researchers not shown]
 
@@ -637,42 +789,55 @@ Total researchers: 20
    Score: 5.2/10 | H-index: 52 | FCR: 25.5x | Citations: 9,777
 2. Christopher McCarty
    Score: 4.7/10 | H-index: 30 | FCR: 63.6x | Citations: 3,659
+   Google Scholar: https://scholar.google.com/citations?user=jMqJzYAAAAAJ&hl=en
 3. Jane Southworth
    Score: 4.5/10 | H-index: 33 | FCR: 52.2x | Citations: 4,253
+   Google Scholar: https://scholar.google.com/citations?user=L7iAPHcAAAAJ&hl=en
 4. Sabine Grunwald
    Score: 4.4/10 | H-index: 34 | FCR: 24.5x | Citations: 4,105
+   Website: http://ufgrunwald.com/ | Google Scholar: https://scholar.google.com/citations?user=XnTnqZ8AAAAJ&hl=en
 5. Yiannis Ampatzidis
    Score: 3.9/10 | H-index: 35 | FCR: 26.3x | Citations: 4,431
 6. Aditya Singh
    Score: 3.9/10 | H-index: 18 | FCR: 63.9x | Citations: 2,340
 7. Jie Xu
    Score: 2.5/10 | H-index: 17 | FCR: 27.0x | Citations: 2,589
+   Website: https://jiexu.ece.ufl.edu | Google Scholar: https://scholar.google.com/citations?user=07kG-YsAAAAJ&hl=en
 8. Arnold W. Schumann
    Score: 2.0/10 | H-index: 26 | FCR: 6.8x | Citations: 1,745
+   Google Scholar: https://scholar.google.com/citations?user=_fTO3fEAAAAJ&hl=en
 9. Kelly T. Morgan
    Score: 1.8/10 | H-index: 22 | FCR: 7.4x | Citations: 1,531
+   Google Scholar: https://scholar.google.com/citations?user=RzuvjQEAAAAJ&hl=en
 10. Jason von Meding
    Score: 1.5/10 | H-index: 16 | FCR: 10.5x | Citations: 959
+   Website: https://dcp.ufl.edu/faculties/von-meding-jason/ | Google Scholar: https://scholar.google.com/citations?user=KgFrydsAAAAJ&hl=en
 11. Erin Jones
    Score: 1.2/10 | H-index: 2 | FCR: 27.9x | Citations: 52
 12. Zhe Jiang
    Score: 1.2/10 | H-index: 12 | FCR: 8.3x | Citations: 526
+   Website: https://www.jiangteam.org/ | Google Scholar: https://scholar.google.com/citations?user=R7xPuT8AAAAJ
 13. Thomas A. Obreza
    Score: 1.1/10 | H-index: 16 | FCR: 1.3x | Citations: 950
 14. Mark Jamison
    Score: 0.8/10 | H-index: 10 | FCR: 1.2x | Citations: 414
+   Website: https://www.purc.ufl.edu/
 15. Sandra Guzman
    Score: 0.7/10 | H-index: 9 | FCR: 2.3x | Citations: 265
 16. Chunli Dai
    Score: 0.5/10 | H-index: 3 | FCR: 8.3x | Citations: 34
+   Google Scholar: https://scholar.google.com/citations?user=sp37w9UAAAAJ&hl=en&authuser=1
 17. Jamie Loizzo
    Score: 0.4/10 | H-index: 4 | FCR: 2.1x | Citations: 38
+   Website: https://aec.ifas.ufl.edu/directory/faculty/jamie-loizzo/ | Google Scholar: https://scholar.google.com/citations?user=8HhiDWAAAAAJ&hl=en
 18. Youngsup Song
    Score: 0.2/10 | H-index: 2 | FCR: 2.4x | Citations: 8
+   Google Scholar: https://scholar.google.com/citations?user=Ll2Os7IAAAAJ&hl=en
 19. Yilin Zhuang
    Score: 0.2/10 | H-index: 2 | FCR: 2.4x | Citations: 14
 20. Amelia Winger-Bearskin
    Score: 0.0/10 | 
+   Website: https://www.studioamelia.com | Google Scholar: https://scholar.google.com/citations?user=SWpBU68AAAAJ&hl=en
 
 ----------------------------------------
 
@@ -681,44 +846,58 @@ Total researchers: 20
 
 1. Eric W. Triplett
    Score: 4.4/10 | H-index: 41 | FCR: 7.4x | Citations: 9,709
+   Google Scholar: https://scholar.google.com/citations?user=0UTNJyYAAAAJ&hl=en
 2. Karen Garrett
    Score: 2.2/10 | H-index: 23 | FCR: 14.2x | Citations: 2,365
 3. Benjamin Anderson
    Score: 2.2/10 | H-index: 22 | FCR: 18.0x | Citations: 1,734
+   Website: https://egh.phhp.ufl.edu/profile/anderson-benjamin/ | Google Scholar: https://scholar.google.com/citations?user=xoWW4OEAAAAJ&hl=en
 4. Andrew Ogram
    Score: 2.0/10 | H-index: 25 | FCR: 3.4x | Citations: 1,996
 5. James Gillooly
    Score: 1.9/10 | H-index: 25 | FCR: 1.8x | Citations: 3,180
 6. Donald Behringer
    Score: 1.7/10 | H-index: 22 | FCR: 3.8x | Citations: 1,370
+   Website: https://behringerlab.com
 7. Brent Christner
    Score: 1.5/10 | H-index: 17 | FCR: 5.3x | Citations: 828
 8. Julie Meyer
    Score: 1.4/10 | H-index: 16 | FCR: 6.8x | Citations: 1,288
+   Website: https://soils.ifas.ufl.edu/people/faculty/julie-l-meyer/ | Google Scholar: https://scholar.google.com/citations?hl=en&user=VlEuNbQAAAAJ&view_op=list_works&sortby=pubdate
 9. Joseph Bisesi
    Score: 1.4/10 | H-index: 19 | FCR: 3.0x | Citations: 1,068
 10. Willm Martens-Habbena
    Score: 1.2/10 | H-index: 13 | FCR: 7.0x | Citations: 748
+   Website: https://flrec.ifas.ufl.edu/faculty/dr-willm-martens-habbena/ | Google Scholar: https://scholar.google.com/citations?hl=en&user=EvDuBbAAAAAJ
 11. Mariola Edelmann
    Score: 1.2/10 | H-index: 14 | FCR: 5.6x | Citations: 780
 12. Christopher Dutton
    Score: 1.1/10 | H-index: 10 | FCR: 10.5x | Citations: 429
+   Website: https://ufduttonlab.github.io/ | Google Scholar: https://scholar.google.com/citations?user=9XVBPX0AAAAJ&hl=en
 13. Bryndan Durham
    Score: 1.1/10 | H-index: 12 | FCR: 7.5x | Citations: 617
+   Website: https://www.durham-lab.com/ | Google Scholar: https://scholar.google.com/citations?user=6BeqzK0AAAAJ&hl=en
 14. Apichai Tuanyok
    Score: 1.1/10 | H-index: 15 | FCR: 2.8x | Citations: 857
+   Google Scholar: https://scholar.google.com/citations?user=6_XwgfAAAAAJ&hl=en
 15. Amanda L. Subalusky
    Score: 1.0/10 | H-index: 9 | FCR: 11.0x | Citations: 329
+   Google Scholar: https://scholar.google.com/citations?user=qYIBCNsAAAAJ&hl=en
 16. Lindsey S. Reisinger
    Score: 0.7/10 | H-index: 8 | FCR: 3.7x | Citations: 215
+   Website: https://www.lindseyreisinger.com/ | Google Scholar: https://scholar.google.com/citations?user=NE_KckEAAAAJ&hl=en
 17. José L. Rolando
    Score: 0.6/10 | H-index: 6 | FCR: 6.3x | Citations: 285
+   Website: https://sites.google.com/view/rolandolab/ | Google Scholar: https://scholar.google.com/citations?hl=en&user=EMgjFmgAAAAJ
 18. Sarah Doore
    Score: 0.5/10 | H-index: 4 | FCR: 3.0x | Citations: 54
+   Website: https://microcell.ufl.edu/people/faculty-directory/doore/ | Google Scholar: https://scholar.google.com/citations?user=nDh7StQAAAAJ&hl=en
 19. Laurel Kaminsky
    Score: 0.1/10 | H-index: 2 | FCR: 0.7x | Citations: 12
+   Google Scholar: https://scholar.google.com/citations?user=QolkqsoAAAAJ&hl=en
 20. Matthew R. Whiles
    Score: 0.1/10 | H-index: 1 | FCR: 1.2x | Citations: 5
+   Google Scholar: https://scholar.google.com/citations?user=AnT99JsAAAAJ&hl=en
 
 ----------------------------------------
 
@@ -729,12 +908,15 @@ Total researchers: 18
    Score: 3.6/10 | H-index: 41 | FCR: 7.8x | Citations: 8,392
 2. Kati W. Migliaccio
    Score: 2.6/10 | H-index: 17 | FCR: 33.0x | Citations: 2,500
+   Google Scholar: https://scholar.google.com/citations?user=pEd15xAAAAAJ&hl=en
 3. Karen Garrett
    Score: 2.2/10 | H-index: 23 | FCR: 14.2x | Citations: 2,365
 4. Muhammad Shahid
    Score: 1.8/10 | H-index: 19 | FCR: 11.3x | Citations: 1,603
+   Website: https://nfrec.ifas.ufl.edu/faculty-directory/muhammad-shahid/ | Google Scholar: https://scholar.google.com/citations?hl=en&user=P73T2vIAAAAJ&sortby=pubdate&view_op=list_works&gmla=AJsN-F7hN_sUzN_N_9CX-dJPCTcNr2y3Y58_ckHCpLzIr4o_B2V_vBOCiIo2QdWBr-1EwZFXJmXRPgD-j4v6-pnRq4uQKABktRCiAxpZzKiyAy5etL0cUlg
 5. Shouan Zhang
    Score: 1.7/10 | H-index: 22 | FCR: 3.9x | Citations: 1,476
+   Google Scholar: https://scholar.google.com/citations?user=xNpKEfAAAAAJ&hl=en
 6. Heqiang Huo
    Score: 1.6/10 | H-index: 19 | FCR: 7.3x | Citations: 1,440
 7. Jonathan Crane
@@ -743,20 +925,27 @@ Total researchers: 18
    Score: 1.2/10 | H-index: 16 | FCR: 3.5x | Citations: 773
 9. Davie M. Kadyampakeni
    Score: 1.0/10 | H-index: 14 | FCR: 2.7x | Citations: 610
+   Website: https://crec.ifas.ufl.edu/people/faculty/davie-kadyampakeni/ | Google Scholar: https://scholar.google.com/citations?user=_TvqRccAAAAJ&hl=en
 10. Ian M. Small
    Score: 1.0/10 | H-index: 14 | FCR: 3.2x | Citations: 573
+   Google Scholar: https://scholar.google.com/citations?user=9KuK6GkAAAAJ&hl=en
 11. Christopher I. Vincent
    Score: 1.0/10 | H-index: 11 | FCR: 7.0x | Citations: 383
+   Google Scholar: https://scholar.google.com/citations?user=LjsljAYAAAAJ&hl=en
 12. Brian Pearson
    Score: 1.0/10 | H-index: 13 | FCR: 3.5x | Citations: 448
+   Google Scholar: https://scholar.google.com/citations?user=jLdV3ZsAAAAJ&hl=en
 13. Grace John
    Score: 0.9/10 | H-index: 8 | FCR: 8.4x | Citations: 453
+   Website: https://gracepjohn.org/ | Google Scholar: https://scholar.google.com/citations?user=S1FJpY8AAAAJ&hl=en&oi=ao
 14. Vivek Sharma
    Score: 0.6/10 | H-index: 7 | FCR: 3.8x | Citations: 198
+   Website: https://abe.ufl.edu/people/faculty/vivek-sharma/ | Google Scholar: https://scholar.google.co.kr/citations?user=VWBO2aQAAAAJ&hl=en
 15. Richard Beeson
    Score: 0.5/10 | H-index: 7 | FCR: 0.4x | Citations: 158
 16. Chamteut Oh
    Score: 0.4/10 | H-index: 4 | FCR: 2.8x | Citations: 54
+   Website: https://chamteutoh.com | Google Scholar: https://scholar.google.co.kr/citations?user=WA2Lib0AAAAJ&hl=en
 17. James Estrada
    Score: 0.3/10 | H-index: 3 | Citations: 85
 18. Luke Harlow
@@ -769,40 +958,55 @@ Total researchers: 18
 
 1. Matthew J. Cohen
    Score: 3.0/10 | H-index: 36 | FCR: 7.5x | Citations: 4,392
+   Website: https://ffgs.ifas.ufl.edu/faculty/cohen-matthew/ | Google Scholar: https://scholar.google.com/citations?user=cFbUqrEAAAAJ&hl=en
 2. James W. Jawitz
    Score: 2.8/10 | H-index: 36 | FCR: 3.9x | Citations: 4,706
+   Website: https://www.landscapehydrology.org/what-we-do/ | Google Scholar: https://scholar.google.com/citations?user=nW8_WI0AAAAJ&hl=en
 3. Rafael Munoz-Carpena
    Score: 2.5/10 | H-index: 30 | FCR: 3.8x | Citations: 4,500
+   Google Scholar: https://scholar.google.com/citations?user=8-GYxFAAAAAJ&hl=en
 4. Michael D. Annable
    Score: 2.3/10 | H-index: 31 | FCR: 1.4x | Citations: 3,080
+   Website: https://faculty.eng.ufl.edu/michael-annable/ | Google Scholar: https://scholar.google.com/citations?user=t8-AZaEAAAAJ&hl=en
 5. Arnoldo Valle-Levinson
    Score: 2.2/10 | H-index: 29 | FCR: 2.8x | Citations: 3,102
+   Google Scholar: https://scholar.google.com/citations?user=2lZZB4oAAAAJ&hl=en
 6. Kirk Hatfield
    Score: 1.6/10 | H-index: 21 | FCR: 0.9x | Citations: 1,663
 7. Joann Mossa
    Score: 1.4/10 | H-index: 17 | FCR: 5.6x | Citations: 1,141
+   Google Scholar: https://scholar.google.com/citations?user=PQUnq2UAAAAJ&hl=en
 8. Rachata Muneepeerakul
    Score: 1.3/10 | H-index: 13 | FCR: 3.0x | Citations: 472
+   Google Scholar: https://scholar.google.com/citations?user=H1OAQgUAAAAJ&hl=en
 9. Rob de Rooij
    Score: 0.7/10 | H-index: 7 | FCR: 6.7x | Citations: 163
 10. Golmar Golmohammadi
    Score: 0.7/10 | H-index: 7 | FCR: 6.5x | Citations: 142
 11. Matt Whiles
    Score: 0.6/10 | H-index: 7 | FCR: 3.9x | Citations: 228
+   Website: https://soils.ifas.ufl.edu/people/faculty/matt-whiles/ | Google Scholar: https://scholar.google.com/citations?hl=en&user=AnT99JsAAAAJ&gmla=AJsN-F72XRuIdEJANqxdRuXl9r0xQtgabv6tQuxzWQfCzqM-XkcqrmZuX7OpqZVJlOK5RLRdIHUmuEVHehadsqXEvBTOQdZNB5GIMKCyb5b_dFODNdxGPgE
 12. Ryan Good
    Score: 0.6/10 | H-index: 4 | FCR: 8.7x | Citations: 80
+   Website: https://snre.ifas.ufl.edu/people/faculty-staff-and-administration/good/ | Google Scholar: https://scholar.google.com/citations?user=1mDL_qsAAAAJ&hl=en
 13. Yixin Wen
    Score: 0.5/10 | H-index: 6 | FCR: 3.4x | Citations: 142
+   Google Scholar: https://scholar.google.com/citations?user=7FpIau0AAAAJ&hl=en
 14. Olesya Savchenko
    Score: 0.5/10 | H-index: 4 | FCR: 4.3x | Citations: 64
+   Website: https://fred.ifas.ufl.edu/faculty/Savchenko/ | Google Scholar: https://scholar.google.com/citations?user=9w9LX08AAAAJ&hl=en
 15. Ebrahim Babaeian
    Score: 0.5/10 | H-index: 4 | FCR: 5.3x | Citations: 94
+   Website: https://soils.ifas.ufl.edu/people/faculty/ebrahim-babaeian/ | Google Scholar: https://scholar.google.com/citations?hl=en&user=BUqGrogAAAAJ
 16. Sadie Hundemer
    Score: 0.3/10 | H-index: 3 | FCR: 4.1x | Citations: 34
+   Website: https://aec.ifas.ufl.edu/directory/faculty/sadie-hundemer/ | Google Scholar: https://scholar.google.com/citations?user=M0HUh_MAAAAJ&hl=en&oi=ao
 17. Paloma Carton de Grammont
    Score: 0.3/10 | H-index: 3 | Citations: 18
+   Website: https://waterinstitute.ufl.edu/welcome-dr-paloma-carton-de-grammont/
 18. Nasser Najibi
    Score: 0.1/10 | H-index: 1 | Citations: 1
+   Website: https://nassernajibi.com/ | Google Scholar: https://scholar.google.com/citations?user=0WHw-1MAAAAJ&hl=en
 
 ----------------------------------------
 
@@ -811,38 +1015,52 @@ Total researchers: 17
 
 1. Matthew J. Cohen
    Score: 3.0/10 | H-index: 36 | FCR: 7.5x | Citations: 4,392
+   Website: https://ffgs.ifas.ufl.edu/faculty/cohen-matthew/ | Google Scholar: https://scholar.google.com/citations?user=cFbUqrEAAAAJ&hl=en
 2. James W. Jawitz
    Score: 2.8/10 | H-index: 36 | FCR: 3.9x | Citations: 4,706
+   Website: https://www.landscapehydrology.org/what-we-do/ | Google Scholar: https://scholar.google.com/citations?user=nW8_WI0AAAAJ&hl=en
 3. Wendy Graham
    Score: 1.9/10 | H-index: 21 | FCR: 2.4x | Citations: 1,345
+   Google Scholar: https://scholar.google.com/citations?user=uqVzdCMAAAAJ&hl=en
 4. Myoseon Jang
    Score: 1.6/10 | H-index: 20 | FCR: 2.7x | Citations: 1,525
+   Google Scholar: https://scholar.google.com/citations?user=RUjvSQ8AAAAJ&hl=en
 5. Joann Mossa
    Score: 1.4/10 | H-index: 17 | FCR: 5.6x | Citations: 1,141
+   Google Scholar: https://scholar.google.com/citations?user=PQUnq2UAAAAJ&hl=en
 6. Corene J. Matyas
    Score: 1.3/10 | H-index: 17 | FCR: 2.1x | Citations: 752
+   Google Scholar: https://scholar.google.com/citations?user=ba3ddNcAAAAJ&hl=en
 7. Peter R. Waylen
    Score: 1.2/10 | H-index: 16 | FCR: 2.3x | Citations: 1,277
 8. David Keellings
    Score: 1.1/10 | H-index: 13 | FCR: 4.8x | Citations: 1,105
+   Google Scholar: https://scholar.google.com/citations?user=csl4r44AAAAJ&hl=en
 9. Kevin Ash
    Score: 0.9/10 | H-index: 10 | FCR: 5.4x | Citations: 397
+   Google Scholar: https://scholar.google.com/citations?user=RlDYgpkAAAAJ&hl=en
 10. Golmar Golmohammadi
    Score: 0.7/10 | H-index: 7 | FCR: 6.5x | Citations: 142
 11. Johanna Engström
    Score: 0.6/10 | H-index: 7 | FCR: 3.4x | Citations: 496
+   Google Scholar: https://scholar.google.com/citations?user=JtyX6GAAAAAJ
 12. Johanna Engström
    Score: 0.6/10 | H-index: 7 | FCR: 3.4x | Citations: 496
+   Website: https://geog.ufl.edu/directory/dr-johanna-engstrom/ | Google Scholar: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7jzw2RFMDWOO9GcP_shBdzPNl7ZhSPC125s4dpZRveT-W8ytgCbSnvgcxcOLTGWn0z5GSoVLYRLAJwUaerUBo2FE5K6A&user=JtyX6GAAAAAJ
 13. Yixin Wen
    Score: 0.5/10 | H-index: 6 | FCR: 3.4x | Citations: 142
+   Google Scholar: https://scholar.google.com/citations?user=7FpIau0AAAAJ&hl=en
 14. Ziwen Yu
    Score: 0.5/10 | H-index: 6 | FCR: 2.4x | Citations: 141
+   Google Scholar: https://scholar.google.com/citations?user=Xxwl5ZQAAAAJ&hl=en
 15. Young Gu Her
    Score: 0.4/10 | H-index: 4 | FCR: 1.7x | Citations: 109
 16. Esther D. Mullens
    Score: 0.2/10 | H-index: 2 | FCR: 1.2x | Citations: 20
+   Google Scholar: https://scholar.google.com/citations?user=wGZilNUAAAAJ&hl=en
 17. Nasser Najibi
    Score: 0.1/10 | H-index: 1 | Citations: 1
+   Website: https://nassernajibi.com/ | Google Scholar: https://scholar.google.com/citations?user=0WHw-1MAAAAJ&hl=en
 
 ----------------------------------------
 
@@ -851,10 +1069,12 @@ Total researchers: 16
 
 1. Sadie J. Ryan
    Score: 3.8/10 | H-index: 42 | FCR: 12.6x | Citations: 7,899
+   Google Scholar: https://scholar.google.com/citations?user=pPLqtm0AAAAJ&hl=en
 2. Robert Fletcher
    Score: 3.3/10 | H-index: 39 | FCR: 7.3x | Citations: 5,706
 3. Brett R. Scheffers
    Score: 2.9/10 | H-index: 27 | FCR: 19.3x | Citations: 4,793
+   Google Scholar: https://scholar.google.com/citations?user=4HfsgFUAAAAJ&hl=en
 4. Andrew H. Altieri
    Score: 2.1/10 | H-index: 25 | FCR: 9.0x | Citations: 2,051
 5. Jeffrey Hill
@@ -863,20 +1083,28 @@ Total researchers: 16
    Score: 1.3/10 | H-index: 15 | FCR: 6.7x | Citations: 693
 7. Christopher Dutton
    Score: 1.1/10 | H-index: 10 | FCR: 10.5x | Citations: 429
+   Website: https://ufduttonlab.github.io/ | Google Scholar: https://scholar.google.com/citations?user=9XVBPX0AAAAJ&hl=en
 8. Ashley R. Smyth
    Score: 1.1/10 | H-index: 13 | FCR: 3.6x | Citations: 703
+   Google Scholar: https://scholar.google.com/citations?user=L9wjVzIAAAAJ&hl=en
 9. Amanda L. Subalusky
    Score: 1.0/10 | H-index: 9 | FCR: 11.0x | Citations: 329
+   Google Scholar: https://scholar.google.com/citations?user=qYIBCNsAAAAJ&hl=en
 10. Elise Morrison
    Score: 1.0/10 | H-index: 11 | FCR: 4.4x | Citations: 422
+   Website: https://faculty.eng.ufl.edu/elise-morrison/ | Google Scholar: https://scholar.google.com/citations?user=r3-EWUAAAAAJ&hl=en&oi=ao
 11. Laura K. Reynolds
    Score: 1.0/10 | H-index: 12 | FCR: 5.9x | Citations: 435
+   Website: https://lkreynolds.com | Google Scholar: https://scholar.google.com/citations?user=AVsjjogAAAAJ&hl=en
 12. Grace John
    Score: 0.9/10 | H-index: 8 | FCR: 8.4x | Citations: 453
+   Website: https://gracepjohn.org/ | Google Scholar: https://scholar.google.com/citations?user=S1FJpY8AAAAJ&hl=en&oi=ao
 13. Catherine M. Tucker
    Score: 0.9/10 | H-index: 8 | FCR: 10.1x | Citations: 375
+   Google Scholar: https://scholar.google.com/citations?user=0MV-RawAAAAJ&hl=en
 14. Quenton Tuckett
    Score: 0.9/10 | H-index: 11 | FCR: 5.1x | Citations: 430
+   Website: https://tal.ifas.ufl.edu/people/faculty/quenton-tuckett/ | Google Scholar: https://scholar.google.com/citations?user=tnIx2ecAAAAJ&hl=en&oi=ao
 15. Savanna Barry
    Score: 0.8/10 | H-index: 10 | FCR: 3.1x | Citations: 353
 16. James Cuda
@@ -889,30 +1117,39 @@ Total researchers: 14
 
 1. Sabine Grunwald
    Score: 4.4/10 | H-index: 34 | FCR: 24.5x | Citations: 4,105
+   Website: http://ufgrunwald.com/ | Google Scholar: https://scholar.google.com/citations?user=XnTnqZ8AAAAJ&hl=en
 2. Michael D. Annable
    Score: 2.3/10 | H-index: 31 | FCR: 1.4x | Citations: 3,080
+   Website: https://faculty.eng.ufl.edu/michael-annable/ | Google Scholar: https://scholar.google.com/citations?user=t8-AZaEAAAAJ&hl=en
 3. Alan L. Wright
    Score: 2.0/10 | H-index: 27 | FCR: 2.5x | Citations: 2,253
+   Google Scholar: https://scholar.google.com/citations?user=qejMU1IAAAAJ&hl=en
 4. Samira Daroub
    Score: 1.5/10 | H-index: 18 | FCR: 3.2x | Citations: 2,569
 5. Sudeep S. Sidhu
    Score: 1.4/10 | H-index: 5 | FCR: 27.7x | Citations: 422
+   Website: https://svaec.ifas.ufl.edu/faculty-and-staff/faculty-directory/sudeep-sidhu-faculty-profile-page/ | Google Scholar: https://scholar.google.com/citations?user=qMrZY6sAAAAJ&hl=en
 6. Scot E. Smith
    Score: 1.2/10 | H-index: 16 | FCR: 2.3x | Citations: 810
 7. Stefan Gerber
    Score: 1.2/10 | H-index: 15 | FCR: 2.8x | Citations: 866
+   Google Scholar: https://scholar.google.com/citations?user=B3NekLEAAAAJ&hl=en
 8. Tracy Irani
    Score: 1.2/10 | H-index: 10 | FCR: 2.1x | Citations: 422
 9. Edward Evans
    Score: 1.1/10 | H-index: 13 | FCR: 4.6x | Citations: 578
 10. Rao S. Mylavarapu
    Score: 0.6/10 | H-index: 8 | FCR: 2.3x | Citations: 276
+   Google Scholar: https://scholar.google.com/citations?user=xaek_mQAAAAJ&hl=en
 11. Ebrahim Babaeian
    Score: 0.5/10 | H-index: 4 | FCR: 5.3x | Citations: 94
+   Website: https://soils.ifas.ufl.edu/people/faculty/ebrahim-babaeian/ | Google Scholar: https://scholar.google.com/citations?hl=en&user=BUqGrogAAAAJ
 12. Michelle Phillips
    Score: 0.5/10 | H-index: 6 | FCR: 2.2x | Citations: 96
+   Google Scholar: https://scholar.google.com/citations?user=kWqkZLIAAAAJ&hl=en
 13. Jay Capasso
    Score: 0.3/10 | H-index: 4 | FCR: 2.1x | Citations: 126
+   Website: https://blogs.ifas.ufl.edu/columbiaco/author/jcapasso/ | Google Scholar: https://scholar.google.com/citations?user=QFYzfiEAAAAJ&hl=en
 14. Yilin Zhuang
    Score: 0.2/10 | H-index: 2 | FCR: 2.4x | Citations: 14
 
@@ -927,6 +1164,7 @@ Total researchers: 13
    Score: 1.9/10 | H-index: 21 | FCR: 3.7x | Citations: 1,761
 3. Muhammad Shahid
    Score: 1.8/10 | H-index: 19 | FCR: 11.3x | Citations: 1,603
+   Website: https://nfrec.ifas.ufl.edu/faculty-directory/muhammad-shahid/ | Google Scholar: https://scholar.google.com/citations?hl=en&user=P73T2vIAAAAJ&sortby=pubdate&view_op=list_works&gmla=AJsN-F7hN_sUzN_N_9CX-dJPCTcNr2y3Y58_ckHCpLzIr4o_B2V_vBOCiIo2QdWBr-1EwZFXJmXRPgD-j4v6-pnRq4uQKABktRCiAxpZzKiyAy5etL0cUlg
 4. Heqiang Huo
    Score: 1.6/10 | H-index: 19 | FCR: 7.3x | Citations: 1,440
 5. Jonathan Crane
@@ -935,16 +1173,20 @@ Total researchers: 13
    Score: 1.2/10 | H-index: 16 | FCR: 3.5x | Citations: 773
 7. J. Bryan Unruh
    Score: 1.1/10 | H-index: 15 | FCR: 3.6x | Citations: 781
+   Google Scholar: https://scholar.google.com/citations?user=TRN8yyEAAAAJ&hl=en
 8. Christopher I. Vincent
    Score: 1.0/10 | H-index: 11 | FCR: 7.0x | Citations: 383
+   Google Scholar: https://scholar.google.com/citations?user=LjsljAYAAAAJ&hl=en
 9. Shinsuke Agehara
    Score: 0.9/10 | H-index: 12 | FCR: 3.4x | Citations: 384
 10. Qingren Wang
    Score: 0.6/10 | H-index: 8 | FCR: 0.6x | Citations: 480
 11. Tara Wade
    Score: 0.6/10 | H-index: 6 | FCR: 4.3x | Citations: 180
+   Google Scholar: https://scholar.google.com/citations?user=FQKkcHsAAAAJ&hl=en
 12. Huiping Yang
    Score: 0.4/10 | H-index: 5 | FCR: 1.9x | Citations: 70
+   Google Scholar: https://scholar.google.com/citations?user=76RF_RQAAAAJ&hl=en
 13. Evelyn Fletcher
    Score: 0.2/10 | H-index: 2 | Citations: 37
 
@@ -959,24 +1201,32 @@ Total researchers: 13
    Score: 4.3/10 | H-index: 49 | FCR: 12.6x | Citations: 7,890
 3. John Bowden
    Score: 3.3/10 | H-index: 39 | FCR: 10.3x | Citations: 4,739
+   Website: https://www.vetmed.ufl.edu/about-the-college/directories/faculty/john-bowden/ | Google Scholar: https://www.researchgate.net/profile/John_Bowden2
 4. Margaret O. James
    Score: 2.3/10 | H-index: 31 | FCR: 1.6x | Citations: 3,421
+   Google Scholar: https://scholar.google.com/citations?user=6edliokAAAAJ&hl=en
 5. Edward J. Phlips
    Score: 2.1/10 | H-index: 27 | FCR: 4.9x | Citations: 2,161
 6. Todd Osborne
    Score: 1.9/10 | H-index: 23 | FCR: 5.1x | Citations: 1,745
+   Google Scholar: https://scholar.google.com/citations?user=Fc2jwNAAAAAJ&hl=en
 7. Jean-Claude Bonzongo
    Score: 1.8/10 | H-index: 22 | FCR: 3.5x | Citations: 2,483
 8. Tracie Baker
    Score: 0.9/10 | H-index: 8 | FCR: 4.6x | Citations: 256
+   Website: https://www.bakerWATERlab.com
 9. Jonathan D. Judy
    Score: 0.9/10 | H-index: 11 | FCR: 2.5x | Citations: 1,327
+   Google Scholar: https://scholar.google.com/citations?user=5TYew-UAAAAJ&hl=en
 10. Katherine Deliz Quiñones
    Score: 0.6/10 | H-index: 6 | FCR: 4.7x | Citations: 120
+   Website: https://essie.ufl.edu/people/name/katherine-deliz-quinones/ | Google Scholar: https://scholar.google.com/citations?user=t8vTtBQAAAAJ&hl=en
 11. Nicole Dennis
    Score: 0.4/10 | H-index: 2 | FCR: 7.9x | Citations: 26
+   Google Scholar: https://scholar.google.com/citations?hl=en&tzom=240&user=pFr16C0AAAAJ
 12. Bridget B. Baker
    Score: 0.4/10 | H-index: 5 | FCR: 3.4x | Citations: 76
+   Website: https://wec.ifas.ufl.edu/people/wec-faculty/ | Google Scholar: https://scholar.google.com/citations?user=ajVHP8MAAAAJ&hl=en
 13. Patrick C. Wilson
    Score: 0.3/10 | H-index: 4 | FCR: 1.3x | Citations: 97
 
@@ -989,28 +1239,37 @@ Total researchers: 13
    Score: 2.7/10 | H-index: 23 | FCR: 28.5x | Citations: 1,993
 2. Taylor V. Stein
    Score: 1.5/10 | H-index: 18 | FCR: 7.0x | Citations: 924
+   Google Scholar: https://scholar.google.com/citations?user=wKaGGAkAAAAJ&hl=en
 3. Zhe Jiang
    Score: 1.2/10 | H-index: 12 | FCR: 8.3x | Citations: 526
+   Website: https://www.jiangteam.org/ | Google Scholar: https://scholar.google.com/citations?user=R7xPuT8AAAAJ
 4. Tracy Irani
    Score: 1.2/10 | H-index: 10 | FCR: 2.1x | Citations: 422
 5. Laura A. Warner
    Score: 1.1/10 | H-index: 14 | FCR: 3.8x | Citations: 577
+   Website: https://aec.ifas.ufl.edu/directory/faculty/laura-warner/ | Google Scholar: https://scholar.google.com/citations?user=-i98En8AAAAJ&hl=en
 6. Thomas A. Obreza
    Score: 1.1/10 | H-index: 16 | FCR: 1.3x | Citations: 950
 7. Paul Monaghan
    Score: 0.9/10 | H-index: 11 | FCR: 3.5x | Citations: 396
+   Google Scholar: https://scholar.google.com/citations?user=ZP9qJSQAAAAJ&hl=en
 8. Cynthia S. Simmons
    Score: 0.8/10 | H-index: 8 | FCR: 7.5x | Citations: 186
+   Google Scholar: https://scholar.google.com/citations?user=qcS5yogAAAAJ&hl=en
 9. Mark Jamison
    Score: 0.8/10 | H-index: 10 | FCR: 1.2x | Citations: 414
+   Website: https://www.purc.ufl.edu/
 10. Ignacia Mercadal
    Score: 0.5/10 | H-index: 3 | FCR: 8.4x | Citations: 59
+   Website: https://sites.google.com/site/ignaciamercadal/home | Google Scholar: https://scholar.google.com/citations?user=h21W7IgAAAAJ&hl=en
 11. Christa D. Court
    Score: 0.5/10 | H-index: 7 | FCR: 2.7x | Citations: 135
+   Google Scholar: https://scholar.google.com/citations?user=Wabc0RcAAAAJ&hl=en
 12. Sebastian Galindo
    Score: 0.4/10 | H-index: 5 | FCR: 2.5x | Citations: 94
 13. Lisa Krimsky
    Score: 0.3/10 | H-index: 4 | FCR: 2.5x | Citations: 79
+   Website: https://www.flseagrant.org/fsg-directory/dr-lisa-krimsky/ | Google Scholar: https://scholar.google.com/citations?user=9Z61g2sAAAAJ&hl=en [oai_citation:0‡Google Scholar](https://scholar.google.com/citations?hl=en&user=9Z61g2sAAAAJ&utm_source=chatgpt.com)
 
 ----------------------------------------
 
@@ -1019,26 +1278,35 @@ Total researchers: 12
 
 1. Taylor V. Stein
    Score: 1.5/10 | H-index: 18 | FCR: 7.0x | Citations: 924
+   Google Scholar: https://scholar.google.com/citations?user=wKaGGAkAAAAJ&hl=en
 2. Alan Hodges
    Score: 1.2/10 | H-index: 17 | FCR: 1.7x | Citations: 1,111
 3. Edward Evans
    Score: 1.1/10 | H-index: 13 | FCR: 4.6x | Citations: 578
 4. Tara Wade
    Score: 0.6/10 | H-index: 6 | FCR: 4.3x | Citations: 180
+   Google Scholar: https://scholar.google.com/citations?user=FQKkcHsAAAAJ&hl=en
 5. Ignacia Mercadal
    Score: 0.5/10 | H-index: 3 | FCR: 8.4x | Citations: 59
+   Website: https://sites.google.com/site/ignaciamercadal/home | Google Scholar: https://scholar.google.com/citations?user=h21W7IgAAAAJ&hl=en
 6. Olesya Savchenko
    Score: 0.5/10 | H-index: 4 | FCR: 4.3x | Citations: 64
+   Website: https://fred.ifas.ufl.edu/faculty/Savchenko/ | Google Scholar: https://scholar.google.com/citations?user=9w9LX08AAAAJ&hl=en
 7. Di Fang
    Score: 0.4/10 | H-index: 4 | FCR: 3.5x | Citations: 52
+   Website: https://sites.google.com/view/difang/home | Google Scholar: https://scholar.google.com/citations?user=Qq5DoMsAAAAJ&hl=en
 8. Weizhe Weng
    Score: 0.3/10 | H-index: 3 | FCR: 3.4x | Citations: 27
+   Google Scholar: https://scholar.google.com/citations?user=E75C1nQAAAAJ&hl=en
 9. Xiaohui Qiao
    Score: 0.3/10 | H-index: 3 | FCR: 4.2x | Citations: 30
+   Website: https://fred.ifas.ufl.edu/about/directory/xiaohui-qiao/ | Google Scholar: https://scholar.google.com/citations?user=hYqkf1MAAAAJ&hl=en
 10. Patrick Ward
    Score: 0.3/10 | H-index: 2 | FCR: 3.0x | Citations: 435
+   Website: https://patrick-s-ward.com/ | Google Scholar: https://scholar.google.com/citations?hl=en&user=3XsJYXIAAAAJ
 11. Sadie Hundemer
    Score: 0.3/10 | H-index: 3 | FCR: 4.1x | Citations: 34
+   Website: https://aec.ifas.ufl.edu/directory/faculty/sadie-hundemer/ | Google Scholar: https://scholar.google.com/citations?user=M0HUh_MAAAAJ&hl=en&oi=ao
 12. Misti Sharp
    Score: 0.2/10 | H-index: 2 | FCR: 2.5x | Citations: 18
 
@@ -1049,14 +1317,18 @@ Total researchers: 12
 
 1. Robert J. Ries
    Score: 1.4/10 | H-index: 17 | FCR: 6.3x | Citations: 1,547
+   Google Scholar: https://scholar.google.com/citations?user=_V1fQrMAAAAJ&hl=en
 2. Alan Hodges
    Score: 1.2/10 | H-index: 17 | FCR: 1.7x | Citations: 1,111
 3. Sanjay Shukla
    Score: 1.0/10 | H-index: 14 | FCR: 1.1x | Citations: 651
+   Google Scholar: https://scholar.google.com/citations?user=nID94UcAAAAJ&hl=en
 4. Mysha Clarke
    Score: 1.0/10 | H-index: 9 | FCR: 10.2x | Citations: 313
+   Website: https://myshaclarke.weebly.com/ | Google Scholar: https://scholar.google.com/citations?user=SG7ECDEAAAAJ&hl=en
 5. Cynthia S. Simmons
    Score: 0.8/10 | H-index: 8 | FCR: 7.5x | Citations: 186
+   Google Scholar: https://scholar.google.com/citations?user=qcS5yogAAAAJ&hl=en
 6. Kathryn Frank
    Score: 0.7/10 | H-index: 10 | FCR: 1.6x | Citations: 265
 7. Wendy-Lin Bartels
@@ -1065,12 +1337,15 @@ Total researchers: 12
    Score: 0.2/10 | H-index: 3 | FCR: 0.4x | Citations: 260
 9. Alpa Nawre
    Score: 0.2/10 | H-index: 2 | FCR: 2.9x | Citations: 15
+   Google Scholar: https://scholar.google.com/citations?user=FJAxEZMAAAAJ&hl=en
 10. Tina McIntyre
    Score: 0.2/10 | H-index: 2 | FCR: 1.0x | Citations: 11
 11. Jeffrey Carney
    Score: 0.1/10 | H-index: 1 | Citations: 8
+   Website: https://dcp.ufl.edu/fiber/
 12. Andrea Galinski
    Score: 0.1/10 | H-index: 1 | Citations: 8
+   Website: https://experience.arcgis.com/experience/1197f939390c47989a491cc91a321b1d
 
 ----------------------------------------
 
@@ -1079,28 +1354,36 @@ Total researchers: 12
 
 1. Frank Asche
    Score: 4.6/10 | H-index: 43 | FCR: 33.8x | Citations: 6,777
+   Website: https://ffgs.ifas.ufl.edu/faculty/asche-frank/ | Google Scholar: https://scholar.google.com/citations?user=hF8FTTIAAAAJ&hl=en
 2. Micheal S. Allen
    Score: 2.4/10 | H-index: 30 | FCR: 6.5x | Citations: 2,572
 3. James L. Anderson
    Score: 2.1/10 | H-index: 22 | FCR: 12.7x | Citations: 2,239
 4. Thomas Anderson
    Score: 1.9/10 | H-index: 5 | FCR: 40.2x | Citations: 179
+   Website: https://www.thomas-anderson-jr.com/ | Google Scholar: https://scholar.google.com/citations?user=JvWciIIAAAAJ&hl=en
 5. Kuttichantran Subramaniam
    Score: 1.5/10 | H-index: 18 | FCR: 3.5x | Citations: 2,155
 6. William E. Pine
    Score: 1.2/10 | H-index: 17 | FCR: 1.9x | Citations: 999
+   Google Scholar: https://scholar.google.com/citations?user=RUX96n0AAAAJ&hl=en
 7. Ruth Francis-Floyd
    Score: 1.1/10 | H-index: 14 | FCR: 4.2x | Citations: 597
 8. Joshua T. Patterson
    Score: 1.1/10 | H-index: 14 | FCR: 4.4x | Citations: 589
+   Google Scholar: https://scholar.google.com/citations?user=qUOTz1MAAAAJ&hl=en
 9. Debra J. Murie
    Score: 0.7/10 | H-index: 10 | FCR: 2.4x | Citations: 383
+   Google Scholar: https://scholar.google.com/citations?user=OI-Jr_cAAAAJ&hl=en
 10. Roy P. E. Yanong
    Score: 0.6/10 | H-index: 8 | FCR: 2.3x | Citations: 250
+   Google Scholar: https://scholar.google.com/citations?user=OhOKVn8AAAAJ&hl=en
 11. Huiping Yang
    Score: 0.4/10 | H-index: 5 | FCR: 1.9x | Citations: 70
+   Google Scholar: https://scholar.google.com/citations?user=76RF_RQAAAAJ&hl=en
 12. Bridget B. Baker
    Score: 0.4/10 | H-index: 5 | FCR: 3.4x | Citations: 76
+   Website: https://wec.ifas.ufl.edu/people/wec-faculty/ | Google Scholar: https://scholar.google.com/citations?user=ajVHP8MAAAAJ&hl=en
 
 ----------------------------------------
 
@@ -1111,24 +1394,32 @@ Total researchers: 11
    Score: 4.6/10 | H-index: 53 | FCR: 9.3x | Citations: 10,492
 2. Arnoldo Valle-Levinson
    Score: 2.2/10 | H-index: 29 | FCR: 2.8x | Citations: 3,102
+   Google Scholar: https://scholar.google.com/citations?user=2lZZB4oAAAAJ&hl=en
 3. Brent Christner
    Score: 1.5/10 | H-index: 17 | FCR: 5.3x | Citations: 828
 4. Jason von Meding
    Score: 1.5/10 | H-index: 16 | FCR: 10.5x | Citations: 959
+   Website: https://dcp.ufl.edu/faculties/von-meding-jason/ | Google Scholar: https://scholar.google.com/citations?user=KgFrydsAAAAJ&hl=en
 5. Joann Mossa
    Score: 1.4/10 | H-index: 17 | FCR: 5.6x | Citations: 1,141
+   Google Scholar: https://scholar.google.com/citations?user=PQUnq2UAAAAJ&hl=en
 6. John Jaeger
    Score: 1.4/10 | H-index: 19 | FCR: 3.0x | Citations: 1,159
+   Google Scholar: https://scholar.google.com/citations?user=b_CJnfcAAAAJ&hl=en
 7. Xiao Yu
    Score: 1.3/10 | H-index: 15 | FCR: 4.7x | Citations: 739
+   Website: https://faculty.eng.ufl.edu/environmental-fluid-dynamics-laboratory/ | Google Scholar: https://scholar.google.com/citations?user=Of57liMAAAAJ&hl=en
 8. Peter N. Adams
    Score: 1.0/10 | H-index: 14 | FCR: 2.0x | Citations: 1,022
 9. Alberto Canestrelli
    Score: 0.8/10 | H-index: 9 | FCR: 2.8x | Citations: 413
+   Google Scholar: https://scholar.google.it/citations?user=pJLfAHoAAAAJ&hl=it
 10. Esther D. Mullens
    Score: 0.2/10 | H-index: 2 | FCR: 1.2x | Citations: 20
+   Google Scholar: https://scholar.google.com/citations?user=wGZilNUAAAAJ&hl=en
 11. Megan E. Moore
    Score: 0.1/10 | H-index: 1 | Citations: 4
+   Google Scholar: https://scholar.google.com/citations?hl=en&user=uopXfE8AAAAJ
 
 ----------------------------------------
 
@@ -1139,24 +1430,30 @@ Total researchers: 11
    Score: 4.6/10 | H-index: 53 | FCR: 9.3x | Citations: 10,492
 2. Michael R. Perfit
    Score: 2.5/10 | H-index: 31 | FCR: 2.0x | Citations: 3,404
+   Google Scholar: https://scholar.google.com/citations?user=zxwOA0QAAAAJ&hl=en
 3. Michael D. Annable
    Score: 2.3/10 | H-index: 31 | FCR: 1.4x | Citations: 3,080
+   Website: https://faculty.eng.ufl.edu/michael-annable/ | Google Scholar: https://scholar.google.com/citations?user=t8-AZaEAAAAJ&hl=en
 4. Paul A. Mueller
    Score: 2.1/10 | H-index: 27 | FCR: 3.2x | Citations: 2,541
+   Google Scholar: https://scholar.google.com/citations?user=xLOZ0JwAAAAJ&hl=en
 5. Kirk Hatfield
    Score: 1.6/10 | H-index: 21 | FCR: 0.9x | Citations: 1,663
 6. Brent Christner
    Score: 1.5/10 | H-index: 17 | FCR: 5.3x | Citations: 828
 7. John Jaeger
    Score: 1.4/10 | H-index: 19 | FCR: 3.0x | Citations: 1,159
+   Google Scholar: https://scholar.google.com/citations?user=b_CJnfcAAAAJ&hl=en
 8. Peter N. Adams
    Score: 1.0/10 | H-index: 14 | FCR: 2.0x | Citations: 1,022
 9. Rob de Rooij
    Score: 0.7/10 | H-index: 7 | FCR: 6.7x | Citations: 163
 10. Chunli Dai
    Score: 0.5/10 | H-index: 3 | FCR: 8.3x | Citations: 34
+   Google Scholar: https://scholar.google.com/citations?user=sp37w9UAAAAJ&hl=en&authuser=1
 11. Megan E. Moore
    Score: 0.1/10 | H-index: 1 | Citations: 4
+   Google Scholar: https://scholar.google.com/citations?hl=en&user=uopXfE8AAAAJ
 
 ----------------------------------------
 
@@ -1165,24 +1462,32 @@ Total researchers: 10
 
 1. John Bowden
    Score: 3.3/10 | H-index: 39 | FCR: 10.3x | Citations: 4,739
+   Website: https://www.vetmed.ufl.edu/about-the-college/directories/faculty/john-bowden/ | Google Scholar: https://www.researchgate.net/profile/John_Bowden2
 2. Margaret O. James
    Score: 2.3/10 | H-index: 31 | FCR: 1.6x | Citations: 3,421
+   Google Scholar: https://scholar.google.com/citations?user=6edliokAAAAJ&hl=en
 3. Joseph Bisesi
    Score: 1.4/10 | H-index: 19 | FCR: 3.0x | Citations: 1,068
 4. Austin Evans
    Score: 1.2/10 | H-index: 11 | FCR: 10.7x | Citations: 756
 5. Daniel A. Savin
    Score: 1.1/10 | H-index: 15 | FCR: 0.8x | Citations: 1,215
+   Website: https://savin.chem.ufl.edu/ | Google Scholar: https://scholar.google.com/citations?user=qk_phCkAAAAJ&hl=en
 6. Boce Zhang
    Score: 0.9/10 | H-index: 11 | FCR: 3.7x | Citations: 269
+   Website: https://fshn.ifas.ufl.edu/about/faculty-bio-pages/zhang/ | Google Scholar: https://scholar.google.com/citations?user=3pwXTXkAAAAJ
 7. Joshua Moon
    Score: 0.2/10 | H-index: 1 | Citations: 4
+   Website: https://www.moonresearchlab.com/ | Google Scholar: https://scholar.google.com/citations?user=P_gCHCQAAAAJ&hl=en
 8. Guilhem De Hoe
    Score: 0.2/10 | H-index: 1 | FCR: 2.8x | Citations: 9
+   Website: https://mse.ufl.edu/people/name/guilhem-de-hoe/ | Google Scholar: https://scholar.google.com/citations?user=5kXaAEMAAAAJ&hl=en
 9. Youngsup Song
    Score: 0.2/10 | H-index: 2 | FCR: 2.4x | Citations: 8
+   Google Scholar: https://scholar.google.com/citations?user=Ll2Os7IAAAAJ&hl=en
 10. Sungyoon Jung
    Score: 0.1/10 | H-index: 1 | Citations: 4
+   Google Scholar: https://scholar.google.com/citations?user=BYvpcMgAAAAJ&hl=en
 
 ----------------------------------------
 
@@ -1193,20 +1498,28 @@ Total researchers: 9
    Score: 2.2/10 | H-index: 27 | FCR: 5.5x | Citations: 2,312
 2. Jasmeet Judge
    Score: 1.6/10 | H-index: 20 | FCR: 5.2x | Citations: 1,531
+   Google Scholar: https://scholar.google.com/citations?user=NKQ2xvcAAAAJ&hl=en
 3. Benjamin Wilkinson
    Score: 1.2/10 | H-index: 15 | FCR: 4.3x | Citations: 710
+   Google Scholar: https://scholar.google.com/citations?user=iWU4I9kAAAAJ&hl=en
 4. Grenville Barnes
    Score: 1.1/10 | H-index: 15 | FCR: 2.5x | Citations: 665
+   Google Scholar: https://scholar.google.com/citations?user=VY9l2mYAAAAJ
 5. Di Yang
    Score: 0.8/10 | H-index: 11 | FCR: 2.5x | Citations: 379
+   Website: https://geodi.geog.ufl.edu/ | Google Scholar: https://scholar.google.com/citations?user=B8l_ztwAAAAJ&hl=en
 6. Alberto Canestrelli
    Score: 0.8/10 | H-index: 9 | FCR: 2.8x | Citations: 413
+   Google Scholar: https://scholar.google.it/citations?user=pJLfAHoAAAAJ&hl=it
 7. Yixin Wen
    Score: 0.5/10 | H-index: 6 | FCR: 3.4x | Citations: 142
+   Google Scholar: https://scholar.google.com/citations?user=7FpIau0AAAAJ&hl=en
 8. Ebrahim Babaeian
    Score: 0.5/10 | H-index: 4 | FCR: 5.3x | Citations: 94
+   Website: https://soils.ifas.ufl.edu/people/faculty/ebrahim-babaeian/ | Google Scholar: https://scholar.google.com/citations?hl=en&user=BUqGrogAAAAJ
 9. Chunli Dai
    Score: 0.5/10 | H-index: 3 | FCR: 8.3x | Citations: 34
+   Google Scholar: https://scholar.google.com/citations?user=sp37w9UAAAAJ&hl=en&authuser=1
 
 ----------------------------------------
 
@@ -1215,22 +1528,29 @@ Total researchers: 9
 
 1. Jasmeet Judge
    Score: 1.6/10 | H-index: 20 | FCR: 5.2x | Citations: 1,531
+   Google Scholar: https://scholar.google.com/citations?user=NKQ2xvcAAAAJ&hl=en
 2. Kent Crippen
    Score: 1.5/10 | H-index: 15 | FCR: 6.8x | Citations: 856
+   Website: https://education.ufl.edu/faculty/crippen-kent/ | Google Scholar: https://scholar.google.com/citations?user=urfikjEAAAAJ&hl=en
 3. Paul Monaghan
    Score: 0.9/10 | H-index: 11 | FCR: 3.5x | Citations: 396
+   Google Scholar: https://scholar.google.com/citations?user=ZP9qJSQAAAAJ&hl=en
 4. Ryan Good
    Score: 0.6/10 | H-index: 4 | FCR: 8.7x | Citations: 80
+   Website: https://snre.ifas.ufl.edu/people/faculty-staff-and-administration/good/ | Google Scholar: https://scholar.google.com/citations?user=1mDL_qsAAAAJ&hl=en
 5. Sebastian Galindo
    Score: 0.4/10 | H-index: 5 | FCR: 2.5x | Citations: 94
 6. Jamie Loizzo
    Score: 0.4/10 | H-index: 4 | FCR: 2.1x | Citations: 38
+   Website: https://aec.ifas.ufl.edu/directory/faculty/jamie-loizzo/ | Google Scholar: https://scholar.google.com/citations?user=8HhiDWAAAAAJ&hl=en
 7. Jeffrey Carney
    Score: 0.1/10 | H-index: 1 | Citations: 8
+   Website: https://dcp.ufl.edu/fiber/
 8. Danny Coenen
    Score: 0.1/10 | H-index: 1 | Citations: 7
 9. Andrea Galinski
    Score: 0.1/10 | H-index: 1 | Citations: 8
+   Website: https://experience.arcgis.com/experience/1197f939390c47989a491cc91a321b1d
 
 ----------------------------------------
 
@@ -1241,16 +1561,20 @@ Total researchers: 8
    Score: 2.4/10 | H-index: 21 | FCR: 2.0x | Citations: 1,259
 2. Lynn E. Sollenberger
    Score: 2.2/10 | H-index: 29 | FCR: 3.5x | Citations: 3,134
+   Google Scholar: https://scholar.google.com/citations?user=k5xt4gsAAAAJ&hl=en
 3. Angélica Maria Almeyda Zambrano
    Score: 1.9/10 | H-index: 17 | FCR: 17.7x | Citations: 1,765
 4. Jason G. Vogel
    Score: 1.7/10 | H-index: 20 | FCR: 5.2x | Citations: 2,462
+   Google Scholar: https://scholar.google.com/citations?user=Uj_Ksi8AAAAJ&hl=en
 5. Andrés Susaeta
    Score: 1.4/10 | H-index: 19 | FCR: 3.1x | Citations: 970
 6. Michael G. Andreu
    Score: 0.8/10 | H-index: 10 | FCR: 2.7x | Citations: 313
+   Website: https://ffgs.ifas.ufl.edu/faculty/andreu-michael/ | Google Scholar: https://scholar.google.com/citations?user=w7WPj08AAAAJ&hl=en
 7. Patrick J. Minogue
    Score: 0.3/10 | H-index: 5 | FCR: 0.5x | Citations: 129
+   Google Scholar: https://scholar.google.com/citations?user=1GYT2PgAAAAJ&hl=en
 8. Misti Sharp
    Score: 0.2/10 | H-index: 2 | FCR: 2.5x | Citations: 18
 
@@ -1261,18 +1585,24 @@ Total researchers: 8
 
 1. Arnoldo Valle-Levinson
    Score: 2.2/10 | H-index: 29 | FCR: 2.8x | Citations: 3,102
+   Google Scholar: https://scholar.google.com/citations?user=2lZZB4oAAAAJ&hl=en
 2. Xiao Yu
    Score: 1.3/10 | H-index: 15 | FCR: 4.7x | Citations: 739
+   Website: https://faculty.eng.ufl.edu/environmental-fluid-dynamics-laboratory/ | Google Scholar: https://scholar.google.com/citations?user=Of57liMAAAAJ&hl=en
 3. Corene J. Matyas
    Score: 1.3/10 | H-index: 17 | FCR: 2.1x | Citations: 752
+   Google Scholar: https://scholar.google.com/citations?user=ba3ddNcAAAAJ&hl=en
 4. Peter R. Waylen
    Score: 1.2/10 | H-index: 16 | FCR: 2.3x | Citations: 1,277
 5. Bryndan Durham
    Score: 1.1/10 | H-index: 12 | FCR: 7.5x | Citations: 617
+   Website: https://www.durham-lab.com/ | Google Scholar: https://scholar.google.com/citations?user=6BeqzK0AAAAJ&hl=en
 6. Esther D. Mullens
    Score: 0.2/10 | H-index: 2 | FCR: 1.2x | Citations: 20
+   Google Scholar: https://scholar.google.com/citations?user=wGZilNUAAAAJ&hl=en
 7. Nasser Najibi
    Score: 0.1/10 | H-index: 1 | Citations: 1
+   Website: https://nassernajibi.com/ | Google Scholar: https://scholar.google.com/citations?user=0WHw-1MAAAAJ&hl=en
 8. Carla Brisotto
    Score: 0.1/10 | H-index: 1 | FCR: 0.7x | Citations: 7
 
@@ -1285,18 +1615,24 @@ Total researchers: 8
    Score: 4.8/10 | H-index: 55 | FCR: 9.5x | Citations: 10,465
 2. Stuart McDaniel
    Score: 2.3/10 | H-index: 25 | FCR: 7.5x | Citations: 2,450
+   Google Scholar: https://scholar.google.com/citations?user=i9vUs3oAAAAJ&hl=en
 3. Donald Behringer
    Score: 1.7/10 | H-index: 22 | FCR: 3.8x | Citations: 1,370
+   Website: https://behringerlab.com
 4. Lawrence M. Page
    Score: 1.6/10 | H-index: 7 | FCR: 2.9x | Citations: 368
+   Google Scholar: https://scholar.google.com/citations?user=NcHyNFMAAAAJ&hl=en
 5. Kuttichantran Subramaniam
    Score: 1.5/10 | H-index: 18 | FCR: 3.5x | Citations: 2,155
 6. Willm Martens-Habbena
    Score: 1.2/10 | H-index: 13 | FCR: 7.0x | Citations: 748
+   Website: https://flrec.ifas.ufl.edu/faculty/dr-willm-martens-habbena/ | Google Scholar: https://scholar.google.com/citations?hl=en&user=EvDuBbAAAAAJ
 7. Huiping Yang
    Score: 0.4/10 | H-index: 5 | FCR: 1.9x | Citations: 70
+   Google Scholar: https://scholar.google.com/citations?user=76RF_RQAAAAJ&hl=en
 8. Elizabeth Cash
    Score: 0.1/10 | H-index: 1 | FCR: 1.1x | Citations: 5
+   Website: https://www.elizabethcash.com/ | Google Scholar: https://scholar.google.com/citations?user=WT47fVUAAAAJ&hl=en
 
 ----------------------------------------
 
@@ -1305,18 +1641,22 @@ Total researchers: 7
 
 1. Kati W. Migliaccio
    Score: 2.6/10 | H-index: 17 | FCR: 33.0x | Citations: 2,500
+   Google Scholar: https://scholar.google.com/citations?user=pEd15xAAAAAJ&hl=en
 2. Amr Abd-Elrahman
    Score: 2.2/10 | H-index: 27 | FCR: 5.5x | Citations: 2,312
 3. Jasmeet Judge
    Score: 1.6/10 | H-index: 20 | FCR: 5.2x | Citations: 1,531
+   Google Scholar: https://scholar.google.com/citations?user=NKQ2xvcAAAAJ&hl=en
 4. Kirk Hatfield
    Score: 1.6/10 | H-index: 21 | FCR: 0.9x | Citations: 1,663
 5. David Keellings
    Score: 1.1/10 | H-index: 13 | FCR: 4.8x | Citations: 1,105
+   Google Scholar: https://scholar.google.com/citations?user=csl4r44AAAAJ&hl=en
 6. Young Gu Her
    Score: 0.4/10 | H-index: 4 | FCR: 1.7x | Citations: 109
 7. Xiaohui Qiao
    Score: 0.3/10 | H-index: 3 | FCR: 4.2x | Citations: 30
+   Website: https://fred.ifas.ufl.edu/about/directory/xiaohui-qiao/ | Google Scholar: https://scholar.google.com/citations?user=hYqkf1MAAAAJ&hl=en
 
 ----------------------------------------
 
@@ -1325,18 +1665,24 @@ Total researchers: 7
 
 1. Jie Xu
    Score: 2.5/10 | H-index: 17 | FCR: 27.0x | Citations: 2,589
+   Website: https://jiexu.ece.ufl.edu | Google Scholar: https://scholar.google.com/citations?user=07kG-YsAAAAJ&hl=en
 2. Anita Wright
    Score: 2.0/10 | H-index: 23 | FCR: 12.1x | Citations: 1,447
 3. Kevin Bardosh
    Score: 1.1/10 | H-index: 13 | FCR: 4.7x | Citations: 865
+   Google Scholar: https://scholar.google.com/citations?hl=en&user=JjEgJcIAAAAJ
 4. Paul Monaghan
    Score: 0.9/10 | H-index: 11 | FCR: 3.5x | Citations: 396
+   Google Scholar: https://scholar.google.com/citations?user=ZP9qJSQAAAAJ&hl=en
 5. Alyson Young
    Score: 0.5/10 | H-index: 7 | FCR: 1.5x | Citations: 203
+   Google Scholar: https://scholar.google.com/citations?user=lmhjfGMAAAAJ&hl=en
 6. Chamteut Oh
    Score: 0.4/10 | H-index: 4 | FCR: 2.8x | Citations: 54
+   Website: https://chamteutoh.com | Google Scholar: https://scholar.google.co.kr/citations?user=WA2Lib0AAAAJ&hl=en
 7. Lisa Krimsky
    Score: 0.3/10 | H-index: 4 | FCR: 2.5x | Citations: 79
+   Website: https://www.flseagrant.org/fsg-directory/dr-lisa-krimsky/ | Google Scholar: https://scholar.google.com/citations?user=9Z61g2sAAAAJ&hl=en [oai_citation:0‡Google Scholar](https://scholar.google.com/citations?hl=en&user=9Z61g2sAAAAJ&utm_source=chatgpt.com)
 
 ----------------------------------------
 
@@ -1345,18 +1691,24 @@ Total researchers: 7
 
 1. Eric W. Triplett
    Score: 4.4/10 | H-index: 41 | FCR: 7.4x | Citations: 9,709
+   Google Scholar: https://scholar.google.com/citations?user=0UTNJyYAAAAJ&hl=en
 2. Jie Xu
    Score: 2.5/10 | H-index: 17 | FCR: 27.0x | Citations: 2,589
+   Website: https://jiexu.ece.ufl.edu | Google Scholar: https://scholar.google.com/citations?user=07kG-YsAAAAJ&hl=en
 3. Benjamin Anderson
    Score: 2.2/10 | H-index: 22 | FCR: 18.0x | Citations: 1,734
+   Website: https://egh.phhp.ufl.edu/profile/anderson-benjamin/ | Google Scholar: https://scholar.google.com/citations?user=xoWW4OEAAAAJ&hl=en
 4. Anita Wright
    Score: 2.0/10 | H-index: 23 | FCR: 12.1x | Citations: 1,447
 5. Apichai Tuanyok
    Score: 1.1/10 | H-index: 15 | FCR: 2.8x | Citations: 857
+   Google Scholar: https://scholar.google.com/citations?user=6_XwgfAAAAAJ&hl=en
 6. Kevin Bardosh
    Score: 1.1/10 | H-index: 13 | FCR: 4.7x | Citations: 865
+   Google Scholar: https://scholar.google.com/citations?hl=en&user=JjEgJcIAAAAJ
 7. Nicole Dennis
    Score: 0.4/10 | H-index: 2 | FCR: 7.9x | Citations: 26
+   Google Scholar: https://scholar.google.com/citations?hl=en&tzom=240&user=pFr16C0AAAAJ
 
 ----------------------------------------
 
@@ -1365,12 +1717,15 @@ Total researchers: 6
 
 1. David W. Mazyck
    Score: 1.2/10 | H-index: 17 | FCR: 0.7x | Citations: 1,029
+   Google Scholar: https://scholar.google.com/citations?user=tmBO-ccAAAAJ&hl=en
 2. Eban Bean
    Score: 1.1/10 | H-index: 14 | FCR: 2.0x | Citations: 808
 3. Jonathan D. Judy
    Score: 0.9/10 | H-index: 11 | FCR: 2.5x | Citations: 1,327
+   Google Scholar: https://scholar.google.com/citations?user=5TYew-UAAAAJ&hl=en
 4. Dengjun Wang
    Score: 0.6/10 | H-index: 5 | FCR: 3.6x | Citations: 258
+   Website: https://abe.ufl.edu/people/faculty/dengjun-wang/ | Google Scholar: https://scholar.google.com/citations?user=BcAVWNsAAAAJ&hl=zh-TW
 5. Michelle Atkinson
    Score: 0.1/10 | H-index: 1 | FCR: 0.2x | Citations: 3
 6. Abbey Tyrna
@@ -1383,16 +1738,21 @@ Total researchers: 6
 
 1. Frank Asche
    Score: 4.6/10 | H-index: 43 | FCR: 33.8x | Citations: 6,777
+   Website: https://ffgs.ifas.ufl.edu/faculty/asche-frank/ | Google Scholar: https://scholar.google.com/citations?user=hF8FTTIAAAAJ&hl=en
 2. Rachata Muneepeerakul
    Score: 1.3/10 | H-index: 13 | FCR: 3.0x | Citations: 472
+   Google Scholar: https://scholar.google.com/citations?user=H1OAQgUAAAAJ&hl=en
 3. Renata Serra
    Score: 0.9/10 | H-index: 9 | FCR: 7.7x | Citations: 263
 4. Anna Peterson
    Score: 0.7/10 | H-index: 5 | FCR: 9.4x | Citations: 64
+   Website: https://people.clas.ufl.edu/annap/ | Google Scholar: https://scholar.google.com/citations?hl=en&user=HXU0lTAAAAAJ&scilu=&scisig=ACUpqDcAAAAAaDhsPka-teosdFTD_wvp2hVB2S8&gmla=AH8HC4waC31DQk3fdTYu2S0rlRjmAAxAdZOVXT5VJDHt8QjOXb23VuUGN3skzatqxP-rye7gbfa97eWTM24FFHCQ7cme0Suj58ITLKMdrHU&sciund=4522176646642912841
 5. Patrick Ward
    Score: 0.3/10 | H-index: 2 | FCR: 3.0x | Citations: 435
+   Website: https://patrick-s-ward.com/ | Google Scholar: https://scholar.google.com/citations?hl=en&user=3XsJYXIAAAAJ
 6. Alpa Nawre
    Score: 0.2/10 | H-index: 2 | FCR: 2.9x | Citations: 15
+   Google Scholar: https://scholar.google.com/citations?user=FJAxEZMAAAAJ&hl=en
 
 ----------------------------------------
 
@@ -1401,10 +1761,13 @@ Total researchers: 6
 
 1. Jason von Meding
    Score: 1.5/10 | H-index: 16 | FCR: 10.5x | Citations: 959
+   Website: https://dcp.ufl.edu/faculties/von-meding-jason/ | Google Scholar: https://scholar.google.com/citations?user=KgFrydsAAAAJ&hl=en
 2. Mysha Clarke
    Score: 1.0/10 | H-index: 9 | FCR: 10.2x | Citations: 313
+   Website: https://myshaclarke.weebly.com/ | Google Scholar: https://scholar.google.com/citations?user=SG7ECDEAAAAJ&hl=en
 3. Kevin Ash
    Score: 0.9/10 | H-index: 10 | FCR: 5.4x | Citations: 397
+   Google Scholar: https://scholar.google.com/citations?user=RlDYgpkAAAAJ&hl=en
 4. Carla Brisotto
    Score: 0.1/10 | H-index: 1 | FCR: 0.7x | Citations: 7
 5. Lorna Bravo
@@ -1419,16 +1782,22 @@ Total researchers: 6
 
 1. Pratap Pullammanappallil
    Score: 1.8/10 | H-index: 21 | FCR: 0.7x | Citations: 4,724
+   Google Scholar: https://scholar.google.com/citations?user=IjteorwAAAAJ&hl=en
 2. David W. Mazyck
    Score: 1.2/10 | H-index: 17 | FCR: 0.7x | Citations: 1,029
+   Google Scholar: https://scholar.google.com/citations?user=tmBO-ccAAAAJ&hl=en
 3. Spyros A. Svoronos
    Score: 1.1/10 | H-index: 15 | FCR: 0.9x | Citations: 924
+   Google Scholar: https://scholar.google.com/citations?user=G_rkhUoAAAAJ&hl=en
 4. John J. Sansalone
    Score: 1.1/10 | H-index: 16 | FCR: 0.1x | Citations: 816
+   Website: https://faculty.eng.ufl.edu/john-sansalone/ | Google Scholar: https://scholar.google.com/citations?user=oh8zgTAAAAAJ&hl=en
 5. Dengjun Wang
    Score: 0.6/10 | H-index: 5 | FCR: 3.6x | Citations: 258
+   Website: https://abe.ufl.edu/people/faculty/dengjun-wang/ | Google Scholar: https://scholar.google.com/citations?user=BcAVWNsAAAAJ&hl=zh-TW
 6. Ahn Jaehyun
    Score: 0.4/10 | H-index: 2 | FCR: 5.0x | Citations: 27
+   Website: https://aec.ifas.ufl.edu/directory/faculty/jaehyun-ahn/ | Google Scholar: https://scholar.google.com.vn/citations?user=rPcv934AAAAJ&hl=en
 
 ----------------------------------------
 
@@ -1437,12 +1806,14 @@ Total researchers: 5
 
 1. Anna Peterson
    Score: 0.7/10 | H-index: 5 | FCR: 9.4x | Citations: 64
+   Website: https://people.clas.ufl.edu/annap/ | Google Scholar: https://scholar.google.com/citations?hl=en&user=HXU0lTAAAAAJ&scilu=&scisig=ACUpqDcAAAAAaDhsPka-teosdFTD_wvp2hVB2S8&gmla=AH8HC4waC31DQk3fdTYu2S0rlRjmAAxAdZOVXT5VJDHt8QjOXb23VuUGN3skzatqxP-rye7gbfa97eWTM24FFHCQ7cme0Suj58ITLKMdrHU&sciund=4522176646642912841
 2. Kathryn Frank
    Score: 0.7/10 | H-index: 10 | FCR: 1.6x | Citations: 265
 3. Steven Noll
    Score: 0.3/10 | H-index: 3 | Citations: 59
 4. Tiare Silvasy
    Score: 0.2/10 | H-index: 2 | FCR: 1.0x | Citations: 11
+   Website: https://sfyl.ifas.ufl.edu/orange/home-lawns-landscapes-and-gardens/florida-friendly-landscaping/
 5. Luke Harlow
    Score: 0.2/10 | H-index: 1 | FCR: 2.9x | Citations: 3
 
@@ -1459,8 +1830,10 @@ Total researchers: 5
    Score: 1.2/10 | H-index: 16 | FCR: 3.5x | Citations: 773
 4. Carissa L. Wickens
    Score: 0.4/10 | H-index: 5 | FCR: 2.3x | Citations: 90
+   Google Scholar: https://scholar.google.com/citations?user=MKhXGTEAAAAJ&hl=en
 5. Laurel Kaminsky
    Score: 0.1/10 | H-index: 2 | FCR: 0.7x | Citations: 12
+   Google Scholar: https://scholar.google.com/citations?user=QolkqsoAAAAJ&hl=en
 
 ----------------------------------------
 
@@ -1473,10 +1846,13 @@ Total researchers: 5
    Score: 0.9/10 | H-index: 9 | FCR: 7.7x | Citations: 263
 3. Roy P. E. Yanong
    Score: 0.6/10 | H-index: 8 | FCR: 2.3x | Citations: 250
+   Google Scholar: https://scholar.google.com/citations?user=OhOKVn8AAAAJ&hl=en
 4. Carissa L. Wickens
    Score: 0.4/10 | H-index: 5 | FCR: 2.3x | Citations: 90
+   Google Scholar: https://scholar.google.com/citations?user=MKhXGTEAAAAJ&hl=en
 5. Caitlin Justesen
    Score: 0.0/10 | 
+   Website: https://sfyl.ifas.ufl.edu/suwannee/
 
 ----------------------------------------
 
@@ -1489,8 +1865,10 @@ Total researchers: 5
    Score: 0.6/10 | H-index: 8 | FCR: 0.6x | Citations: 480
 3. Roy P. E. Yanong
    Score: 0.6/10 | H-index: 8 | FCR: 2.3x | Citations: 250
+   Google Scholar: https://scholar.google.com/citations?user=OhOKVn8AAAAJ&hl=en
 4. Thomas T. Ankersen
    Score: 0.3/10 | H-index: 4 | FCR: 1.5x | Citations: 47
+   Website: https://www.law.ufl.edu/faculty/thomas-t-ankersen | Google Scholar: https://scholar.google.com/citations?user=awdP4SoAAAAJ&hl=en
 5. Whitney Elmore
    Score: 0.1/10 | H-index: 1 | Citations: 1
 
@@ -1501,14 +1879,18 @@ Total researchers: 5
 
 1. Corene J. Matyas
    Score: 1.3/10 | H-index: 17 | FCR: 2.1x | Citations: 752
+   Google Scholar: https://scholar.google.com/citations?user=ba3ddNcAAAAJ&hl=en
 2. Peter R. Waylen
    Score: 1.2/10 | H-index: 16 | FCR: 2.3x | Citations: 1,277
 3. David Keellings
    Score: 1.1/10 | H-index: 13 | FCR: 4.8x | Citations: 1,105
+   Google Scholar: https://scholar.google.com/citations?user=csl4r44AAAAJ&hl=en
 4. Ziwen Yu
    Score: 0.5/10 | H-index: 6 | FCR: 2.4x | Citations: 141
+   Google Scholar: https://scholar.google.com/citations?user=Xxwl5ZQAAAAJ&hl=en
 5. Esther D. Mullens
    Score: 0.2/10 | H-index: 2 | FCR: 1.2x | Citations: 20
+   Google Scholar: https://scholar.google.com/citations?user=wGZilNUAAAAJ&hl=en
 
 ----------------------------------------
 
@@ -1519,12 +1901,16 @@ Total researchers: 5
    Score: 1.2/10 | H-index: 14 | FCR: 5.6x | Citations: 780
 2. Daniel A. Savin
    Score: 1.1/10 | H-index: 15 | FCR: 0.8x | Citations: 1,215
+   Website: https://savin.chem.ufl.edu/ | Google Scholar: https://scholar.google.com/citations?user=qk_phCkAAAAJ&hl=en
 3. Tracie Baker
    Score: 0.9/10 | H-index: 8 | FCR: 4.6x | Citations: 256
+   Website: https://www.bakerWATERlab.com
 4. Banikalyan Swain
    Score: 0.7/10 | H-index: 6 | FCR: 7.9x | Citations: 111
+   Google Scholar: https://scholar.google.com/citations?user=Y5qmLAwAAAAJ&hl=en
 5. Sarah Doore
    Score: 0.5/10 | H-index: 4 | FCR: 3.0x | Citations: 54
+   Website: https://microcell.ufl.edu/people/faculty-directory/doore/ | Google Scholar: https://scholar.google.com/citations?user=nDh7StQAAAAJ&hl=en
 
 ----------------------------------------
 
@@ -1533,12 +1919,15 @@ Total researchers: 5
 
 1. David Kaplan
    Score: 6.0/10 | H-index: 38 | FCR: 79.1x | Citations: 6,902
+   Website: https://www.watershedecology.org/  (Watershed Ecology Lab)  [oai_citation:0‡watershedecology.org](https://www.watershedecology.org/?utm_source=chatgpt.com) | Google Scholar: https://scholar.google.com/citations?user=KDAxey0AAAAJ&hl=en
 2. Stephen Holland
    Score: 2.7/10 | H-index: 23 | FCR: 28.5x | Citations: 1,993
 3. Rachata Muneepeerakul
    Score: 1.3/10 | H-index: 13 | FCR: 3.0x | Citations: 472
+   Google Scholar: https://scholar.google.com/citations?user=H1OAQgUAAAAJ&hl=en
 4. Hamed Dalir
    Score: 1.0/10 | H-index: 11 | FCR: 8.0x | Citations: 437
+   Website: https://www.dalir.ece.ufl.edu/members | Google Scholar: https://scholar.google.com/citations?user=GVkCy7wAAAAJ
 5. Qingren Wang
    Score: 0.6/10 | H-index: 8 | FCR: 0.6x | Citations: 480
 
@@ -1549,14 +1938,18 @@ Total researchers: 5
 
 1. Kent Crippen
    Score: 1.5/10 | H-index: 15 | FCR: 6.8x | Citations: 856
+   Website: https://education.ufl.edu/faculty/crippen-kent/ | Google Scholar: https://scholar.google.com/citations?user=urfikjEAAAAJ&hl=en
 2. Corene J. Matyas
    Score: 1.3/10 | H-index: 17 | FCR: 2.1x | Citations: 752
+   Google Scholar: https://scholar.google.com/citations?user=ba3ddNcAAAAJ&hl=en
 3. Kathryn Frank
    Score: 0.7/10 | H-index: 10 | FCR: 1.6x | Citations: 265
 4. Jeffrey Carney
    Score: 0.1/10 | H-index: 1 | Citations: 8
+   Website: https://dcp.ufl.edu/fiber/
 5. Andrea Galinski
    Score: 0.1/10 | H-index: 1 | Citations: 8
+   Website: https://experience.arcgis.com/experience/1197f939390c47989a491cc91a321b1d
 
 ----------------------------------------
 
@@ -1565,12 +1958,15 @@ Total researchers: 4
 
 1. Eric W. Triplett
    Score: 4.4/10 | H-index: 41 | FCR: 7.4x | Citations: 9,709
+   Google Scholar: https://scholar.google.com/citations?user=0UTNJyYAAAAJ&hl=en
 2. John Bowden
    Score: 3.3/10 | H-index: 39 | FCR: 10.3x | Citations: 4,739
+   Website: https://www.vetmed.ufl.edu/about-the-college/directories/faculty/john-bowden/ | Google Scholar: https://www.researchgate.net/profile/John_Bowden2
 3. Masanori Fujimoto
    Score: 0.2/10 | H-index: 2 | FCR: 0.4x | Citations: 63
 4. Sungyoon Jung
    Score: 0.1/10 | H-index: 1 | Citations: 4
+   Google Scholar: https://scholar.google.com/citations?user=BYvpcMgAAAAJ&hl=en
 
 ----------------------------------------
 
@@ -1579,12 +1975,16 @@ Total researchers: 4
 
 1. Christopher McCarty
    Score: 4.7/10 | H-index: 30 | FCR: 63.6x | Citations: 3,659
+   Google Scholar: https://scholar.google.com/citations?user=jMqJzYAAAAAJ&hl=en
 2. Jie Xu
    Score: 2.5/10 | H-index: 17 | FCR: 27.0x | Citations: 2,589
+   Website: https://jiexu.ece.ufl.edu | Google Scholar: https://scholar.google.com/citations?user=07kG-YsAAAAJ&hl=en
 3. Kevin Bardosh
    Score: 1.1/10 | H-index: 13 | FCR: 4.7x | Citations: 865
+   Google Scholar: https://scholar.google.com/citations?hl=en&user=JjEgJcIAAAAJ
 4. Lisa Krimsky
    Score: 0.3/10 | H-index: 4 | FCR: 2.5x | Citations: 79
+   Website: https://www.flseagrant.org/fsg-directory/dr-lisa-krimsky/ | Google Scholar: https://scholar.google.com/citations?user=9Z61g2sAAAAJ&hl=en [oai_citation:0‡Google Scholar](https://scholar.google.com/citations?hl=en&user=9Z61g2sAAAAJ&utm_source=chatgpt.com)
 
 ----------------------------------------
 
@@ -1593,6 +1993,7 @@ Total researchers: 4
 
 1. Anna Peterson
    Score: 0.7/10 | H-index: 5 | FCR: 9.4x | Citations: 64
+   Website: https://people.clas.ufl.edu/annap/ | Google Scholar: https://scholar.google.com/citations?hl=en&user=HXU0lTAAAAAJ&scilu=&scisig=ACUpqDcAAAAAaDhsPka-teosdFTD_wvp2hVB2S8&gmla=AH8HC4waC31DQk3fdTYu2S0rlRjmAAxAdZOVXT5VJDHt8QjOXb23VuUGN3skzatqxP-rye7gbfa97eWTM24FFHCQ7cme0Suj58ITLKMdrHU&sciund=4522176646642912841
 2. Kathryn Frank
    Score: 0.7/10 | H-index: 10 | FCR: 1.6x | Citations: 265
 3. Steven Noll
@@ -1609,10 +2010,13 @@ Total researchers: 4
    Score: 1.2/10 | H-index: 11 | FCR: 10.7x | Citations: 756
 2. Daniel A. Savin
    Score: 1.1/10 | H-index: 15 | FCR: 0.8x | Citations: 1,215
+   Website: https://savin.chem.ufl.edu/ | Google Scholar: https://scholar.google.com/citations?user=qk_phCkAAAAJ&hl=en
 3. Joshua Moon
    Score: 0.2/10 | H-index: 1 | Citations: 4
+   Website: https://www.moonresearchlab.com/ | Google Scholar: https://scholar.google.com/citations?user=P_gCHCQAAAAJ&hl=en
 4. Guilhem De Hoe
    Score: 0.2/10 | H-index: 1 | FCR: 2.8x | Citations: 9
+   Website: https://mse.ufl.edu/people/name/guilhem-de-hoe/ | Google Scholar: https://scholar.google.com/citations?user=5kXaAEMAAAAJ&hl=en
 
 ----------------------------------------
 
@@ -1623,10 +2027,13 @@ Total researchers: 4
    Score: 1.2/10 | H-index: 2 | FCR: 27.9x | Citations: 52
 2. Marit Østebø
    Score: 1.2/10 | H-index: 6 | FCR: 21.6x | Citations: 113
+   Google Scholar: https://scholar.google.com/citations?user=aE1tqXgAAAAJ&hl=no
 3. Mark Jamison
    Score: 0.8/10 | H-index: 10 | FCR: 1.2x | Citations: 414
+   Website: https://www.purc.ufl.edu/
 4. Katherine Deliz Quiñones
    Score: 0.6/10 | H-index: 6 | FCR: 4.7x | Citations: 120
+   Website: https://essie.ufl.edu/people/name/katherine-deliz-quinones/ | Google Scholar: https://scholar.google.com/citations?user=t8vTtBQAAAAJ&hl=en
 
 ----------------------------------------
 
@@ -1635,12 +2042,15 @@ Total researchers: 4
 
 1. Lynn E. Sollenberger
    Score: 2.2/10 | H-index: 29 | FCR: 3.5x | Citations: 3,134
+   Google Scholar: https://scholar.google.com/citations?user=k5xt4gsAAAAJ&hl=en
 2. Maria L. Silveira
    Score: 1.6/10 | H-index: 22 | FCR: 3.1x | Citations: 1,684
+   Google Scholar: https://scholar.google.com/citations?user=llySupIAAAAJ&hl=en
 3. Renata Serra
    Score: 0.9/10 | H-index: 9 | FCR: 7.7x | Citations: 263
 4. Carissa L. Wickens
    Score: 0.4/10 | H-index: 5 | FCR: 2.3x | Citations: 90
+   Google Scholar: https://scholar.google.com/citations?user=MKhXGTEAAAAJ&hl=en
 
 ----------------------------------------
 
@@ -1649,8 +2059,10 @@ Total researchers: 4
 
 1. Xiaoyu Song
    Score: 1.9/10 | H-index: 24 | FCR: 5.5x | Citations: 1,423
+   Google Scholar: https://scholar.google.com/citations?user=aksOfrcAAAAJ&hl=en
 2. John J. Sansalone
    Score: 1.1/10 | H-index: 16 | FCR: 0.1x | Citations: 816
+   Website: https://faculty.eng.ufl.edu/john-sansalone/ | Google Scholar: https://scholar.google.com/citations?user=oh8zgTAAAAAJ&hl=en
 3. Rob de Rooij
    Score: 0.7/10 | H-index: 7 | FCR: 6.7x | Citations: 163
 4. Taylor Clem
@@ -1665,10 +2077,13 @@ Total researchers: 4
    Score: 2.0/10 | H-index: 23 | FCR: 12.1x | Citations: 1,447
 2. Kevin Bardosh
    Score: 1.1/10 | H-index: 13 | FCR: 4.7x | Citations: 865
+   Google Scholar: https://scholar.google.com/citations?hl=en&user=JjEgJcIAAAAJ
 3. Paul Monaghan
    Score: 0.9/10 | H-index: 11 | FCR: 3.5x | Citations: 396
+   Google Scholar: https://scholar.google.com/citations?user=ZP9qJSQAAAAJ&hl=en
 4. Alyson Young
    Score: 0.5/10 | H-index: 7 | FCR: 1.5x | Citations: 203
+   Google Scholar: https://scholar.google.com/citations?user=lmhjfGMAAAAJ&hl=en
 
 ----------------------------------------
 
@@ -1677,6 +2092,7 @@ Total researchers: 4
 
 1. Christopher McCarty
    Score: 4.7/10 | H-index: 30 | FCR: 63.6x | Citations: 3,659
+   Google Scholar: https://scholar.google.com/citations?user=jMqJzYAAAAAJ&hl=en
 2. Hannah Wooten
    Score: 0.2/10 | H-index: 2 | FCR: 2.0x | Citations: 16
 3. Carla Brisotto
@@ -1691,12 +2107,15 @@ Total researchers: 4
 
 1. Benjamin Anderson
    Score: 2.2/10 | H-index: 22 | FCR: 18.0x | Citations: 1,734
+   Website: https://egh.phhp.ufl.edu/profile/anderson-benjamin/ | Google Scholar: https://scholar.google.com/citations?user=xoWW4OEAAAAJ&hl=en
 2. Mariola Edelmann
    Score: 1.2/10 | H-index: 14 | FCR: 5.6x | Citations: 780
 3. Banikalyan Swain
    Score: 0.7/10 | H-index: 6 | FCR: 7.9x | Citations: 111
+   Google Scholar: https://scholar.google.com/citations?user=Y5qmLAwAAAAJ&hl=en
 4. Sarah Doore
    Score: 0.5/10 | H-index: 4 | FCR: 3.0x | Citations: 54
+   Website: https://microcell.ufl.edu/people/faculty-directory/doore/ | Google Scholar: https://scholar.google.com/citations?user=nDh7StQAAAAJ&hl=en
 
 ----------------------------------------
 
@@ -1705,10 +2124,13 @@ Total researchers: 3
 
 1. Marit Østebø
    Score: 1.2/10 | H-index: 6 | FCR: 21.6x | Citations: 113
+   Google Scholar: https://scholar.google.com/citations?user=aE1tqXgAAAAJ&hl=no
 2. Catherine M. Tucker
    Score: 0.9/10 | H-index: 8 | FCR: 10.1x | Citations: 375
+   Google Scholar: https://scholar.google.com/citations?user=0MV-RawAAAAJ&hl=en
 3. Jeffrey C. Johnson
    Score: 0.5/10 | H-index: 6 | FCR: 2.8x | Citations: 547
+   Google Scholar: https://scholar.google.com/citations?user=jH2otREAAAAJ&hl=en
 
 ----------------------------------------
 
@@ -1717,10 +2139,12 @@ Total researchers: 3
 
 1. Ricky Telg
    Score: 0.4/10 | H-index: 5 | FCR: 2.8x | Citations: 93
+   Website: https://aec.ifas.ufl.edu/directory/faculty/ricky-telg/
 2. Sebastian Galindo
    Score: 0.4/10 | H-index: 5 | FCR: 2.5x | Citations: 94
 3. Amelia Winger-Bearskin
    Score: 0.0/10 | 
+   Website: https://www.studioamelia.com | Google Scholar: https://scholar.google.com/citations?user=SWpBU68AAAAJ&hl=en
 
 ----------------------------------------
 
@@ -1729,10 +2153,12 @@ Total researchers: 3
 
 1. Xiaoyu Song
    Score: 1.9/10 | H-index: 24 | FCR: 5.5x | Citations: 1,423
+   Google Scholar: https://scholar.google.com/citations?user=aksOfrcAAAAJ&hl=en
 2. Austin Evans
    Score: 1.2/10 | H-index: 11 | FCR: 10.7x | Citations: 756
 3. Youngsup Song
    Score: 0.2/10 | H-index: 2 | FCR: 2.4x | Citations: 8
+   Google Scholar: https://scholar.google.com/citations?user=Ll2Os7IAAAAJ&hl=en
 
 ----------------------------------------
 
@@ -1743,8 +2169,10 @@ Total researchers: 3
    Score: 2.7/10 | H-index: 23 | FCR: 28.5x | Citations: 1,993
 2. Taylor V. Stein
    Score: 1.5/10 | H-index: 18 | FCR: 7.0x | Citations: 924
+   Google Scholar: https://scholar.google.com/citations?user=wKaGGAkAAAAJ&hl=en
 3. Kevin Ash
    Score: 0.9/10 | H-index: 10 | FCR: 5.4x | Citations: 397
+   Google Scholar: https://scholar.google.com/citations?user=RlDYgpkAAAAJ&hl=en
 
 ----------------------------------------
 
@@ -1753,10 +2181,13 @@ Total researchers: 3
 
 1. Michael R. Perfit
    Score: 2.5/10 | H-index: 31 | FCR: 2.0x | Citations: 3,404
+   Google Scholar: https://scholar.google.com/citations?user=zxwOA0QAAAAJ&hl=en
 2. Paul A. Mueller
    Score: 2.1/10 | H-index: 27 | FCR: 3.2x | Citations: 2,541
+   Google Scholar: https://scholar.google.com/citations?user=xLOZ0JwAAAAJ&hl=en
 3. Megan E. Moore
    Score: 0.1/10 | H-index: 1 | Citations: 4
+   Google Scholar: https://scholar.google.com/citations?hl=en&user=uopXfE8AAAAJ
 
 ----------------------------------------
 
@@ -1765,10 +2196,13 @@ Total researchers: 3
 
 1. Stuart McDaniel
    Score: 2.3/10 | H-index: 25 | FCR: 7.5x | Citations: 2,450
+   Google Scholar: https://scholar.google.com/citations?user=i9vUs3oAAAAJ&hl=en
 2. Lawrence M. Page
    Score: 1.6/10 | H-index: 7 | FCR: 2.9x | Citations: 368
+   Google Scholar: https://scholar.google.com/citations?user=NcHyNFMAAAAJ&hl=en
 3. Laurel Kaminsky
    Score: 0.1/10 | H-index: 2 | FCR: 0.7x | Citations: 12
+   Google Scholar: https://scholar.google.com/citations?user=QolkqsoAAAAJ&hl=en
 
 ----------------------------------------
 
@@ -1777,10 +2211,12 @@ Total researchers: 3
 
 1. Boce Zhang
    Score: 0.9/10 | H-index: 11 | FCR: 3.7x | Citations: 269
+   Website: https://fshn.ifas.ufl.edu/about/faculty-bio-pages/zhang/ | Google Scholar: https://scholar.google.com/citations?user=3pwXTXkAAAAJ
 2. Shirley M. Baker
    Score: 0.7/10 | H-index: 9 | FCR: 2.7x | Citations: 299
 3. Ahn Jaehyun
    Score: 0.4/10 | H-index: 2 | FCR: 5.0x | Citations: 27
+   Website: https://aec.ifas.ufl.edu/directory/faculty/jaehyun-ahn/ | Google Scholar: https://scholar.google.com.vn/citations?user=rPcv934AAAAJ&hl=en
 
 ----------------------------------------
 
@@ -1791,8 +2227,10 @@ Total researchers: 3
    Score: 0.7/10 | H-index: 10 | FCR: 1.6x | Citations: 265
 2. Jeffrey Carney
    Score: 0.1/10 | H-index: 1 | Citations: 8
+   Website: https://dcp.ufl.edu/fiber/
 3. Andrea Galinski
    Score: 0.1/10 | H-index: 1 | Citations: 8
+   Website: https://experience.arcgis.com/experience/1197f939390c47989a491cc91a321b1d
 
 ----------------------------------------
 
@@ -1801,8 +2239,10 @@ Total researchers: 3
 
 1. Ricky Telg
    Score: 0.4/10 | H-index: 5 | FCR: 2.8x | Citations: 93
+   Website: https://aec.ifas.ufl.edu/directory/faculty/ricky-telg/
 2. Jamie Loizzo
    Score: 0.4/10 | H-index: 4 | FCR: 2.1x | Citations: 38
+   Website: https://aec.ifas.ufl.edu/directory/faculty/jamie-loizzo/ | Google Scholar: https://scholar.google.com/citations?user=8HhiDWAAAAAJ&hl=en
 3. Hannah Wooten
    Score: 0.2/10 | H-index: 2 | FCR: 2.0x | Citations: 16
 
@@ -1813,8 +2253,10 @@ Total researchers: 3
 
 1. Ricky Telg
    Score: 0.4/10 | H-index: 5 | FCR: 2.8x | Citations: 93
+   Website: https://aec.ifas.ufl.edu/directory/faculty/ricky-telg/
 2. Jamie Loizzo
    Score: 0.4/10 | H-index: 4 | FCR: 2.1x | Citations: 38
+   Website: https://aec.ifas.ufl.edu/directory/faculty/jamie-loizzo/ | Google Scholar: https://scholar.google.com/citations?user=8HhiDWAAAAAJ&hl=en
 3. Hannah Wooten
    Score: 0.2/10 | H-index: 2 | FCR: 2.0x | Citations: 16
 
@@ -1825,8 +2267,10 @@ Total researchers: 3
 
 1. Kent Crippen
    Score: 1.5/10 | H-index: 15 | FCR: 6.8x | Citations: 856
+   Website: https://education.ufl.edu/faculty/crippen-kent/ | Google Scholar: https://scholar.google.com/citations?user=urfikjEAAAAJ&hl=en
 2. Ryan Good
    Score: 0.6/10 | H-index: 4 | FCR: 8.7x | Citations: 80
+   Website: https://snre.ifas.ufl.edu/people/faculty-staff-and-administration/good/ | Google Scholar: https://scholar.google.com/citations?user=1mDL_qsAAAAJ&hl=en
 3. Danny Coenen
    Score: 0.1/10 | H-index: 1 | Citations: 7
 
@@ -1837,8 +2281,10 @@ Total researchers: 2
 
 1. Marco Schiavon
    Score: 0.6/10 | H-index: 8 | FCR: 1.6x | Citations: 185
+   Google Scholar: https://scholar.google.it/citations?user=rzzy_OAAAAAJ&hl=en
 2. Weizhe Weng
    Score: 0.3/10 | H-index: 3 | FCR: 3.4x | Citations: 27
+   Google Scholar: https://scholar.google.com/citations?user=E75C1nQAAAAJ&hl=en
 
 ----------------------------------------
 
@@ -1847,8 +2293,10 @@ Total researchers: 2
 
 1. Marit Østebø
    Score: 1.2/10 | H-index: 6 | FCR: 21.6x | Citations: 113
+   Google Scholar: https://scholar.google.com/citations?user=aE1tqXgAAAAJ&hl=no
 2. Anna Peterson
    Score: 0.7/10 | H-index: 5 | FCR: 9.4x | Citations: 64
+   Website: https://people.clas.ufl.edu/annap/ | Google Scholar: https://scholar.google.com/citations?hl=en&user=HXU0lTAAAAAJ&scilu=&scisig=ACUpqDcAAAAAaDhsPka-teosdFTD_wvp2hVB2S8&gmla=AH8HC4waC31DQk3fdTYu2S0rlRjmAAxAdZOVXT5VJDHt8QjOXb23VuUGN3skzatqxP-rye7gbfa97eWTM24FFHCQ7cme0Suj58ITLKMdrHU&sciund=4522176646642912841
 
 ----------------------------------------
 
@@ -1857,8 +2305,10 @@ Total researchers: 2
 
 1. Marit Østebø
    Score: 1.2/10 | H-index: 6 | FCR: 21.6x | Citations: 113
+   Google Scholar: https://scholar.google.com/citations?user=aE1tqXgAAAAJ&hl=no
 2. Anna Peterson
    Score: 0.7/10 | H-index: 5 | FCR: 9.4x | Citations: 64
+   Website: https://people.clas.ufl.edu/annap/ | Google Scholar: https://scholar.google.com/citations?hl=en&user=HXU0lTAAAAAJ&scilu=&scisig=ACUpqDcAAAAAaDhsPka-teosdFTD_wvp2hVB2S8&gmla=AH8HC4waC31DQk3fdTYu2S0rlRjmAAxAdZOVXT5VJDHt8QjOXb23VuUGN3skzatqxP-rye7gbfa97eWTM24FFHCQ7cme0Suj58ITLKMdrHU&sciund=4522176646642912841
 
 ----------------------------------------
 
@@ -1867,6 +2317,7 @@ Total researchers: 2
 
 1. Di Fang
    Score: 0.4/10 | H-index: 4 | FCR: 3.5x | Citations: 52
+   Website: https://sites.google.com/view/difang/home | Google Scholar: https://scholar.google.com/citations?user=Qq5DoMsAAAAJ&hl=en
 2. Lorna Bravo
    Score: 0.1/10 | H-index: 1 | FCR: 0.4x | Citations: 2
 
@@ -1887,8 +2338,10 @@ Total researchers: 2
 
 1. Ignacia Mercadal
    Score: 0.5/10 | H-index: 3 | FCR: 8.4x | Citations: 59
+   Website: https://sites.google.com/site/ignaciamercadal/home | Google Scholar: https://scholar.google.com/citations?user=h21W7IgAAAAJ&hl=en
 2. Patrick Ward
    Score: 0.3/10 | H-index: 2 | FCR: 3.0x | Citations: 435
+   Website: https://patrick-s-ward.com/ | Google Scholar: https://scholar.google.com/citations?hl=en&user=3XsJYXIAAAAJ
 
 ----------------------------------------
 
@@ -1897,8 +2350,10 @@ Total researchers: 2
 
 1. Taylor V. Stein
    Score: 1.5/10 | H-index: 18 | FCR: 7.0x | Citations: 924
+   Google Scholar: https://scholar.google.com/citations?user=wKaGGAkAAAAJ&hl=en
 2. Cynthia S. Simmons
    Score: 0.8/10 | H-index: 8 | FCR: 7.5x | Citations: 186
+   Google Scholar: https://scholar.google.com/citations?user=qcS5yogAAAAJ&hl=en
 
 ----------------------------------------
 
@@ -1909,6 +2364,7 @@ Total researchers: 2
    Score: 1.2/10 | H-index: 11 | FCR: 10.7x | Citations: 756
 2. Daniel A. Savin
    Score: 1.1/10 | H-index: 15 | FCR: 0.8x | Citations: 1,215
+   Website: https://savin.chem.ufl.edu/ | Google Scholar: https://scholar.google.com/citations?user=qk_phCkAAAAJ&hl=en
 
 ----------------------------------------
 
@@ -1917,8 +2373,10 @@ Total researchers: 2
 
 1. Michael R. Perfit
    Score: 2.5/10 | H-index: 31 | FCR: 2.0x | Citations: 3,404
+   Google Scholar: https://scholar.google.com/citations?user=zxwOA0QAAAAJ&hl=en
 2. Paul A. Mueller
    Score: 2.1/10 | H-index: 27 | FCR: 3.2x | Citations: 2,541
+   Google Scholar: https://scholar.google.com/citations?user=xLOZ0JwAAAAJ&hl=en
 
 ----------------------------------------
 
@@ -1927,8 +2385,10 @@ Total researchers: 2
 
 1. Alyson Young
    Score: 0.5/10 | H-index: 7 | FCR: 1.5x | Citations: 203
+   Google Scholar: https://scholar.google.com/citations?user=lmhjfGMAAAAJ&hl=en
 2. Chamteut Oh
    Score: 0.4/10 | H-index: 4 | FCR: 2.8x | Citations: 54
+   Website: https://chamteutoh.com | Google Scholar: https://scholar.google.co.kr/citations?user=WA2Lib0AAAAJ&hl=en
 
 ----------------------------------------
 
@@ -1937,8 +2397,10 @@ Total researchers: 2
 
 1. Hamed Dalir
    Score: 1.0/10 | H-index: 11 | FCR: 8.0x | Citations: 437
+   Website: https://www.dalir.ece.ufl.edu/members | Google Scholar: https://scholar.google.com/citations?user=GVkCy7wAAAAJ
 2. Youngsup Song
    Score: 0.2/10 | H-index: 2 | FCR: 2.4x | Citations: 8
+   Google Scholar: https://scholar.google.com/citations?user=Ll2Os7IAAAAJ&hl=en
 
 ----------------------------------------
 
@@ -1947,8 +2409,10 @@ Total researchers: 2
 
 1. Roy P. E. Yanong
    Score: 0.6/10 | H-index: 8 | FCR: 2.3x | Citations: 250
+   Google Scholar: https://scholar.google.com/citations?user=OhOKVn8AAAAJ&hl=en
 2. Thomas T. Ankersen
    Score: 0.3/10 | H-index: 4 | FCR: 1.5x | Citations: 47
+   Website: https://www.law.ufl.edu/faculty/thomas-t-ankersen | Google Scholar: https://scholar.google.com/citations?user=awdP4SoAAAAJ&hl=en
 
 ----------------------------------------
 
@@ -1959,6 +2423,7 @@ Total researchers: 2
    Score: 0.2/10 | H-index: 3 | FCR: 0.4x | Citations: 260
 2. Alpa Nawre
    Score: 0.2/10 | H-index: 2 | FCR: 2.9x | Citations: 15
+   Google Scholar: https://scholar.google.com/citations?user=FJAxEZMAAAAJ&hl=en
 
 ----------------------------------------
 
@@ -1967,6 +2432,7 @@ Total researchers: 2
 
 1. Thomas T. Ankersen
    Score: 0.3/10 | H-index: 4 | FCR: 1.5x | Citations: 47
+   Website: https://www.law.ufl.edu/faculty/thomas-t-ankersen | Google Scholar: https://scholar.google.com/citations?user=awdP4SoAAAAJ&hl=en
 2. Whitney Elmore
    Score: 0.1/10 | H-index: 1 | Citations: 1
 
@@ -1987,6 +2453,7 @@ Total researchers: 2
 
 1. Ryan Good
    Score: 0.6/10 | H-index: 4 | FCR: 8.7x | Citations: 80
+   Website: https://snre.ifas.ufl.edu/people/faculty-staff-and-administration/good/ | Google Scholar: https://scholar.google.com/citations?user=1mDL_qsAAAAJ&hl=en
 2. Danny Coenen
    Score: 0.1/10 | H-index: 1 | Citations: 7
 
