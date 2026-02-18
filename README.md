@@ -8,6 +8,27 @@ A RAG-powered chatbot that answers questions about the UF Water Institute, inclu
 - **Backend API**: https://water-institute-chatbot.onrender.com
 - **GitHub Repository**: https://github.com/kcscroggins/water-institute-chatbot
 
+## Pending Actions
+
+### Redeploy Needed (February 2026)
+
+Production has stale data and needs a manual redeploy on Render to re-ingest the database.
+
+**Issue:** Some removed faculty (e.g., Christine Angelini) still appear in responses, while updated profiles aren't fully indexed.
+
+**To fix:**
+1. Go to Render dashboard
+2. Find water-institute-chatbot service
+3. Click "Manual Deploy" → "Deploy latest commit"
+
+**After redeploy, these improvements will be live:**
+- Removed faculty (Angelini, etc.) will no longer appear
+- PFAS experts properly indexed: Katherine Deliz-Quiñones, John Bowden, Bridget Baker, Tracie Baker
+- All enriched faculty profiles with publications, grants, and rankings
+- 693 chunks in ChromaDB
+
+---
+
 ## Recent Updates
 
 ### Faculty Rankings Feature (February 2026)
