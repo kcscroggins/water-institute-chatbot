@@ -2,6 +2,7 @@ Name: Mark Clark
 Role: Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: Soil and Water Sciences Department, UF/IFAS
 Email: clarkmw@ufl.edu
+Website: https://soils.ifas.ufl.edu/people/faculty/mark-clark/
 
 Subject Areas:
 Soil Science, Biogeochemistry, Nutrient Cycling, Soil Organic Matter, Water Quality

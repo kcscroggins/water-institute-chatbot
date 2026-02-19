@@ -2,6 +2,7 @@ Name: Sebastian Galindo
 Role: Assistant Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: Department of Agricultural Education and Communications
 Email: sgalindo@ufl.edu
+Website: https://aec.ifas.ufl.edu/directory/faculty/sebastian-galindo/
 
 Subject Areas:
 Agricultural Communication, Environmental Communication, Risk Communication, Science Messaging, Stakeholder Engagement, Behavior Change

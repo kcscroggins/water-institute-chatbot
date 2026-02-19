@@ -2,6 +2,8 @@ Name: James L. Anderson
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Food and Resource Economics
 Email: james.anderson@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=zTfHGW4AAAAJ&hl=en
+Website: https://fred.ifas.ufl.edu/about/directory/james-anderson/
 
 Subject Areas:
 Natural resource economics, Fisheries and aquaculture economics, Seafood markets and international trade, Sustainable food systems and economic modeling

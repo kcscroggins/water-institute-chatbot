@@ -2,6 +2,8 @@ Name: Zhenli He
 Role: Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: Department of Soil and Water Sciences
 Email: zhe@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=UzmJcnYAAAAJ&hl=en
+Website: https://soils.ifas.ufl.edu/people/faculty/zhenli-he/
 
 Subject Areas:
 Soil Phosphorus Chemistry, Nutrient Management, Biosolids, Manure Management, Nutrient Runoff, Trace Elements

@@ -2,6 +2,7 @@ Name: Danny Coenen
 Role: Instructional Associate Professor; Undergraduate Coordinator; Affiliate Faculty, UF Water Institute
 Academic Unit: School of Natural Resources and Environment (SNRE)
 Email: dcoenen@ufl.edu
+Website: https://snre.ifas.ufl.edu/people/faculty-staff-and-administration/coenen/
 
 Subject Areas:
 Environmental Science Education, Climate Change, Lake Ecology, Systems Thinking, Interdisciplinary Environmental Studies

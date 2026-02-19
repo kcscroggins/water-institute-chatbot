@@ -2,6 +2,8 @@ Name: Masanori Fujimoto
 Role: Assistant Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: Department of Soil and Water Sciences
 Email: mfujimoto@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=shQkXqEAAAAJ&hl=en
+Website: https://soils.ifas.ufl.edu/people/faculty/masanori-fujimoto/
 
 Subject Areas:
 Watershed Hydrology, Nutrient Transport, Water Quality Monitoring, Hydrologic Modeling, Surface-Groundwater Interactions

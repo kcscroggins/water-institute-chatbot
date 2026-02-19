@@ -2,6 +2,8 @@ Name: Paul Fisher
 Role: Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: Department of Environmental Horticulture
 Email: pfisher@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=lsRZCgMAAAAJ&hl=en
+Website: https://hos.ifas.ufl.edu/people/on-campus-faculty/paul-fisher/
 
 Subject Areas:
 Floriculture, Greenhouse Production, Irrigation Management, Fertigation, Nutrient Efficiency, Container Production

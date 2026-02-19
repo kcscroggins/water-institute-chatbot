@@ -2,6 +2,8 @@ Name: Young Gu Her
 Role: Assistant Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: Department of Agricultural and Biological Engineering
 Email: yher@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=kfAh-o8AAAAJ&hl=en
+Website: https://abe.ufl.edu/people/faculty/young-gu-her/
 
 Subject Areas:
 Watershed Modeling, Agro-Hydrology, Nutrient Transport, Sediment Transport, Climate Scenario Analysis, Decision Support

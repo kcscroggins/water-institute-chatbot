@@ -2,6 +2,7 @@ Name: Mark Jamison
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Public Utilities Research Center (PURC)
 Email: jamisoma@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=AcrMy1kAAAAJ&hl=en
 Website: https://www.purc.ufl.edu/
 
 Subject Areas:

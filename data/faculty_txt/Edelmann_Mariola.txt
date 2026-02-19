@@ -2,6 +2,7 @@ Name: Mariola Edelmann
 Role: Associate Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: Department of Microbiology and Cell Science
 Email: medelmann@ufl.edu
+Website: https://microcell.ufl.edu/people/mariola-ferraro/
 
 Subject Areas:
 Environmental Microbiology, Aquatic Microbiology, Microbial Ecology, Biogeochemical Cycling, Anaerobic Systems

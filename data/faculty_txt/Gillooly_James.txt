@@ -2,6 +2,8 @@ Name: James Gillooly
 Role: Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: Department of Biology
 Email: gillooly@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=MOB9GoMAAAAJ&hl=en
+Website: https://waterinstitute.ufl.edu/faculty/gillooly-james/
 
 Subject Areas:
 Metabolic Theory, Ecophysiology, Bioenergetics, Scaling Laws, Temperature Dependence, Ecosystem Processes

@@ -3,6 +3,7 @@ Role: Assistant Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: Department of Geography
 Email: joem@ufl.edu
 Google Scholar: https://scholar.google.com/citations?user=JtyX6GAAAAAJ
+Website: https://waterinstitute.ufl.edu/faculty/engstrom-johanna/
 
 Subject Areas:
 Human Geography, Political Ecology, Environmental Governance, Land Use, Sustainability Transitions

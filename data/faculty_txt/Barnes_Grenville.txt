@@ -3,6 +3,7 @@ Role: Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: School of Forest, Fisheries & Geomatics Sciences
 Email: gbarnes@ufl.edu
 Google Scholar: https://scholar.google.com/citations?user=VY9l2mYAAAAJ
+Website: https://ffgs.ifas.ufl.edu/emeritus-faculty/barnes-grenville/
 
 Subject Areas:
 Land Administration, Cadastral Systems, Geographic Information Systems (GIS), Property Rights, Land Tenure Security, Participatory Mapping

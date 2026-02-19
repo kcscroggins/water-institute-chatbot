@@ -2,6 +2,7 @@ Name: David Chagaris
 Role: Research Associate Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: UF/IFAS Nature Coast Biological Station
 Email: dchagaris@ufl.edu
+Website: https://sites.google.com/ufl.edu/dchagaris-fisheries-lab/people
 
 Subject Areas:
 Quantitative Fisheries, Ecosystem Modeling, Aquatic Ecology, Food-Web Dynamics, Marine Resource Management

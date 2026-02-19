@@ -2,6 +2,7 @@ Name: Jamielyn Daugherty
 Role: Extension Agent; Affiliate Faculty, UF Water Institute
 Academic Unit: UF/IFAS Extension Lake County
 Email: jdaugherty@ufl.edu
+Website:https://waterinstitute.ufl.edu/faculty/daugherty-jamielyn/
 
 Subject Areas:
 Agricultural Extension, Natural Resources, Water Quality, Nutrient Management, Soil Health

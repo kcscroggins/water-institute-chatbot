@@ -2,6 +2,7 @@ Name: Donald Behringer
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Fisheries and Aquatic Sciences
 Email: behringer@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=sJoh2T0AAAAJ&hl=en
 Website: behringerlab.com
 
 Subject Areas:

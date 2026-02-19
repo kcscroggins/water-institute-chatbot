@@ -2,6 +2,7 @@ Name: Whitney Elmore
 Role: Extension Agent; Affiliate Faculty, UF Water Institute
 Academic Unit: UF/IFAS Extension
 Email: wcelmore@ufl.edu
+Website: https://ask.ifas.ufl.edu/experts/wcelmore
 
 Subject Areas:
 Agricultural Extension, Nutrient Stewardship, Soil Health, Water Conservation, Community Education

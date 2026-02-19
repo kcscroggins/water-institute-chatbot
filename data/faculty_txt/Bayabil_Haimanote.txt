@@ -3,7 +3,7 @@ Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Agricultural and Biological Engineering
 Email: hbayabil@ufl.edu
 Google Scholar: https://scholar.google.com/citations?user=fikLaCMAAAAJ&hl=en
-Website: 33031
+Website: https://abe.ufl.edu/people/faculty/haimanote-bayabil/
 
 Subject Areas:
 Water resources management, Precision irrigation, Saltwater intrusion, Tropical agriculture

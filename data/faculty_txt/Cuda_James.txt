@@ -2,6 +2,8 @@ Name: James Cuda
 Role: Professor Emeritus; Affiliate Faculty, UF Water Institute
 Academic Unit: Department of Entomology and Nematology, UF/IFAS
 Email: jcuda@ifas.ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=gES9tLsAAAAJ&hl=en
+Website: https://ask.ifas.ufl.edu/experts/jcuda
 
 Subject Areas:
 Biological Control, Invasive Plant Management, Entomology, Insect-Weed Interactions, Ecosystem Restoration

@@ -2,6 +2,8 @@ Name: Basil Iannone
 Role: Associate Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: School of Forest Resources and Conservation
 Email: biannone@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=v-dMslMAAAAJ&hl=en
+Website: https://clue.ifas.ufl.edu/faculty/basil-iannone/
 
 Subject Areas:
 Forest Ecology, Disturbance Ecology, Invasive Species, Long-Term Ecosystem Change, Human-Environment Interactions

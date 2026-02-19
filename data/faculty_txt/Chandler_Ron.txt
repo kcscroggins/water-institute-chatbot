@@ -2,6 +2,7 @@ Name: Ron Chandler
 Role: Associate Instructional Professor; Undergraduate Coordinator; Affiliate Faculty, UF Water Institute
 Academic Unit: Department of Psychology, College of Liberal Arts and Sciences
 Email: ronchandler@ufl.edu
+website: https://people.clas.ufl.edu/ronchandler/
 
 Subject Areas:
 Sustainability Psychology, Environmental Behavior, Human Dimensions of Conservation, Social Psychology, Human-Environment Interaction

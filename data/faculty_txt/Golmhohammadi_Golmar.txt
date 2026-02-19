@@ -2,6 +2,8 @@ Name: Golmar Golmohammadi
 Role: Assistant Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: Department of Soil and Water Sciences
 Email: g.golmohammadi@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=cpXxmlYAAAAJ&hl=en
+Website: https://soils.ifas.ufl.edu/people/faculty/golmar-golmohammadi/
 
 Subject Areas:
 Soil-Water Processes, Nutrient Transport, Hydrologic Modeling, Agro-Environmental Systems, Nutrient Fate

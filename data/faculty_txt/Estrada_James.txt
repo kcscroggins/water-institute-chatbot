@@ -2,6 +2,7 @@ Name: James Estrada
 Role: Research Scientist / Agronomist; Affiliate Faculty, UF Water Institute
 Academic Unit: Department of Agronomy
 Email: estradaj@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=YIptr8UAAAAJ&hl=en
 
 Subject Areas:
 Soil Fertility, Nutrient Management, Crop Production Systems, Nitrogen Efficiency, Agricultural BMPs

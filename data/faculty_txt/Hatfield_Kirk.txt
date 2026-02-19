@@ -2,6 +2,8 @@ Name: Kirk Hatfield
 Role: Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: Department of Civil and Coastal Engineering, ESSIE
 Email: kirk.hatfield@essie.ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=zd9CSEQAAAAJ&hl=en
+Website: https://www.eng.ufl.edu/about/contact/college-directory/name/kirk-hatfield/
 
 Subject Areas:
 Hydrogeology, Groundwater Modeling, Contaminant Transport, Nutrient Transport, Subsurface Hydrology

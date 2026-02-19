@@ -3,6 +3,7 @@ Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Soil Water and Ecosystem Sciences
 Email: sgerber@ufl.edu
 Google Scholar: https://scholar.google.com/citations?user=B3NekLEAAAAJ&hl=en
+Website: https://soils.ifas.ufl.edu/people/faculty/stefan-gerber/
 
 Subject Areas:
 Landscape biogeochemistry, Carbon cycling, Nutrient dynamics, Climate modeling

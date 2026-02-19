@@ -2,6 +2,8 @@ Name: Karen Garrett
 Role: Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: Department of Plant Pathology
 Email: karengarrett@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=8dMWriAAAAAJ&hl=en
+Website: https://plantpath.ifas.ufl.edu/people/faculty-pages/karen-garrett/
 
 Subject Areas:
 Plant Disease Epidemiology, Climate-Disease Interactions, Landscape Ecology, Risk Modeling, Agroecosystem Resilience

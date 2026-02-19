@@ -2,6 +2,8 @@ Name: Austin Evans
 Role: Assistant Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: Department of Chemistry
 Email: austinevans@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=Sfx19YQAAAAJ&hl=en
+Website: https://www.evansresearchgroup.org/austin-m-evans
 
 Subject Areas:
 Analytical Chemistry, Chemical Reaction Mechanisms, Molecular Transformations, Environmental Chemistry, Measurement Science

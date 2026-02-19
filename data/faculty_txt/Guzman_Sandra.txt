@@ -2,6 +2,8 @@ Name: Sandra Guzman
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Agricultural and Biological Engineering
 Email: sandra.guzmangut@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=EGd47J8AAAAJ&hl=en
+Website: https://abe.ufl.edu/people/faculty/sandra-guzman/
 
 Subject Areas:
 Smart irrigation, Decision support systems, Machine learning, Precision agriculture

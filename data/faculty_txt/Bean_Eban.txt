@@ -2,6 +2,8 @@ Name: Eban Bean
 Role: Associate Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: Agricultural and Biological Engineering
 Email: ezbean@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=LBmOqHMAAAAJ&hl=en
+Website: https://abe.ufl.edu/people/faculty/eban-bean/
 
 Subject Areas:
 Agricultural Water Management, Nutrient Cycling, Watershed Modeling, Stormwater BMPs, Water Quality, Permeable Pavement Systems

@@ -2,6 +2,8 @@ Name: Jianjun Chen
 Role: Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: Environmental Horticulture Department, UF/IFAS
 Email: jjchen@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=BF6rJJAAAAAJ&hl=en
+Website: https://mrec.ifas.ufl.edu/people/faculty/chen/
 
 Subject Areas:
 Environmental Horticulture, Plant Physiology, Ornamental Plant Production, Greenhouse Systems, Water Use Efficiency

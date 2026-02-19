@@ -2,6 +2,8 @@ Name: Brent Christner
 Role: Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: Department of Microbiology and Cell Science
 Email: xner@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=Hw9ffmsAAAAJ&hl=en
+Website: https://microcell.ifas.ufl.edu/people/brent-christner/
 
 Subject Areas:
 Environmental Microbiology, Cryosphere Microbiology, Atmospheric Microbiology, Ice Nucleation, Biogeochemical Cycling

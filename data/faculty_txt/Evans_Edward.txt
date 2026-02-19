@@ -2,6 +2,8 @@ Name: Edward Evans
 Role: Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: Department of Food and Resource Economics, UF/IFAS Tropical Research and Education Center (TREC)
 Email: eaevans@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=OXev9M0AAAAJ&hl=en
+Website: https://trec.ifas.ufl.edu/people/edward-gilly-evans/
 
 Subject Areas:
 Agricultural Economics, Specialty Crop Production, Farm Profitability, Risk Management, Policy Analysis, Technology Adoption

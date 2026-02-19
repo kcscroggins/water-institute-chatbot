@@ -2,6 +2,7 @@ Name: Cynthia Barnett
 Role: Environmental Journalist, Author, and Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: College of Journalism and Communications
 Email: clbarnett@jou.ufl.edu
+Website: https://www.jou.ufl.edu/staff/cynthia-barnett/
 
 Subject Areas:
 Environmental Journalism, Water Policy, Climate Change, Science Communication, Environmental Justice, Water Ethics

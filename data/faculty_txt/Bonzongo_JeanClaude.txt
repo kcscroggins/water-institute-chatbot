@@ -2,6 +2,8 @@ Name: Jean-Claude Bonzongo
 Role: Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: Environmental Engineering Sciences (ESSIE), Engineering School of Sustainable Infrastructure & Environment
 Email: bonzongo@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=kfPdK5sAAAAJ&hl=en
+Website: https://essie.ufl.edu/people/name/jean-claude-bonzongo/
 
 Subject Areas:
 Environmental Chemistry, Mercury Biogeochemistry, Trace Metal Cycling, Aquatic Biogeochemistry, Contaminant Fate and Transport

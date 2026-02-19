@@ -2,6 +2,7 @@ Name: Jeffrey Carney
 Role: Professor of Architecture; Director, Florida Institute for Built Environment Resilience (FIBER); Affiliate Faculty, UF Water Institute
 Academic Unit: School of Architecture, College of Design, Construction and Planning
 Email: j.carney@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=rfyKtWEAAAAJ&hl=en
 Website: https://dcp.ufl.edu/fiber/
 
 Subject Areas:

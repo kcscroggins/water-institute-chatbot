@@ -3,6 +3,7 @@ Role: Affiliate Faculty, UF Water Institute
 Academic Unit: School of Forest, Fisheries, and Geomatics Sciencies
 Email: chunlidai@ufl.edu
 Google Scholar: https://scholar.google.com/citations?user=sp37w9UAAAAJ&hl=en&authuser=1
+Website: https://ffgs.ifas.ufl.edu/faculty/dai-chunli-/
 
 Subject Areas:
 Geodesy, Remote sensing, Geophysics, Tsunami and landslide detection

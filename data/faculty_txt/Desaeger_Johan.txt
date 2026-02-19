@@ -2,6 +2,8 @@ Name: Johan Desaeger
 Role: Associate Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: Department of Entomology and Nematology, UF/IFAS Gulf Coast Research and Education Center (GCREC)
 Email: jad@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=NDuKPK4AAAAJ&hl=en
+Website: https://gcrec.ifas.ufl.edu/gcrec-facultystaff-directory/drjohandesaeger/
 
 Subject Areas:
 Nematology, Plant-Parasitic Nematodes, Soil Health, Integrated Pest Management, Specialty Crops

@@ -2,6 +2,8 @@ Name: Michael Dukes
 Role: Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: Agricultural and Biological Engineering
 Email: mddukes@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=5rHB538AAAAJ&hl=en
+Website: https://clue.ifas.ufl.edu/faculty/michael-dukes/
 
 Subject Areas:
 Irrigation Engineering, Water Conservation, Smart Irrigation, Evapotranspiration, Soil Moisture Sensing, Nutrient Leaching

@@ -2,6 +2,7 @@ Name: Jack Davis
 Role: Professor of History; Affiliate Faculty, UF Water Institute
 Academic Unit: Department of History
 Email: davisjac@ufl.edu
+Website: https://history.ufl.edu/directory/jack-e-davis/
 
 Subject Areas:
 Environmental History, Conservation Policy, Wetlands History, Florida History, Water Governance

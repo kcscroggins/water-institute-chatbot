@@ -2,6 +2,8 @@ Name: Patrick Inglett
 Role: Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: Department of Soil and Water Sciences
 Email: pinglett@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=0lo5o9QAAAAJ&hl=en
+Website: https://soils.ifas.ufl.edu/people/faculty/patrick-inglett/
 
 Subject Areas:
 Soil Biogeochemistry, Aquatic Biogeochemistry, Carbon Cycling, Nutrient Cycling, Microbial Ecology, Wetland Processes

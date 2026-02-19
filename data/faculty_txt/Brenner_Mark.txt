@@ -2,6 +2,8 @@ Name: Mark Brenner
 Role: Distinguished Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: Department of Geological Sciences
 Email: brenner@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=kXSd01sAAAAJ&hl=en
+Website: https://geology.ufl.edu/directory/dr-mark-brenner/
 
 Subject Areas:
 Paleolimnology, Environmental Geochemistry, Lake Sediment Records, Climate Reconstruction, Water Quality History

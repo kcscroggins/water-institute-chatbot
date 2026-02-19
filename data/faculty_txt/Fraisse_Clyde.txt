@@ -2,6 +2,8 @@ Name: Clyde Fraisse
 Role: Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: Department of Agricultural and Biological Engineering
 Email: cfraisse@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=GBQlgaAAAAAJ&hl=en
+Website: https://abe.ufl.edu/people/faculty/clyde-fraisse/
 
 Subject Areas:
 Agricultural Climatology, Seasonal Forecasting, Climate Risk, Decision Support Systems, Water Management, Climate Adaptation
