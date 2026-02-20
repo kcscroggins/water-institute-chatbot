@@ -1,0 +1,22 @@
+Name: Nicolas Fernandez
+Role: Postdoctoral Associate, UF Water Institute
+Academic Unit: UF Water Institute
+Phone: (352) 294-7747
+Email: nicolasfernandez@ufl.edu
+Website: https://waterinstitute.ufl.edu/13599-2/
+
+Subject Areas:
+Data science, Water quality, Hydrology, Environmental engineering, Water data management
+
+Education:
+- Ph.D. Environmental Engineering, Universidad de los Andes, Colombia (2023)
+- M.S. Environmental Engineering, Universidad de los Andes, Colombia (2019)
+- B.S. Chemical Engineering (2009)
+
+Research Focus:
+Dr. Fernandez is a Chemical Engineer with M.S. and Ph.D degrees in Environmental Engineering from Universidad de los Andes (Colombia). He transitioned from an extensive background in the private sector (environmental consulting, technical sales, and patents), to focus on the intersection of data science, water quality, and hydrology. Specifically, he works on researching new connections between these fields, harnessing the recent and growing availability of large datasets. He also helps stakeholders to manage their water data.
+
+During his journey in research and education, and before joining the Water Institute at the University of Florida in 2025, he occupied a Postdoctoral position at the Department of Soil Water and Ecosystem Sciences at the same University and was a visiting scholar at Michigan State University.
+
+Keywords:
+Data science; water quality; hydrology; environmental engineering; water data management; large datasets; chemical engineering; environmental consulting; Water Institute staff

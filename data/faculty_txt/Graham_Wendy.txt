@@ -1,20 +1,25 @@
-Name: Wendy Graham
-Role: Affiliate Faculty, UF Water Institute
+Name: Wendy D. Graham
+Role: Professor; Founding Director, UF Water Institute
 Academic Unit: Agricultural and Biological Engineering
 Email: wgraham@ufl.edu
 Google Scholar: https://scholar.google.com/citations?user=uqVzdCMAAAAJ&hl=en
 
 Subject Areas:
-Hydrologic modeling, Water quality, Groundwater resources, Climate impacts
+Hydrologic modeling, Water quality, Groundwater resources, Climate impacts, Ecosystem modeling
 
 Education:
-- Ph.D. Civil Engineering, Massachusetts Institute of Technology (1989)
-- B.S.E. Environmental Engineering, University of Florida (1981)
+- Ph.D. Civil Engineering, Massachusetts Institute of Technology
+- B.S. Environmental Engineering, University of Florida
+
+Current Position:
+Dr. Graham currently serves as the Division Director for the Division of Research, Innovation, Synergies, and Education (RISE) within the Directorate for Geosciences (GEO) at the National Science Foundation.
 
 Research Focus:
-Dr. Graham is the Carl S. Swisher Eminent Scholar in Water Resources and founding Director of the Water Institute. Her research focuses on coupled hydrologic-water quality-ecosystem modeling, groundwater resources evaluation and remediation, impacts of agricultural production on surface and groundwater quality, and development of hydrologic indicators of ecosystem status. She also works on climate variability impacts on water resources and stochastic modeling with data assimilation.
+Dr. Graham is a Professor in the Department of Agricultural and Biological Engineering and the founding Director of the Water Institute. She conducts research in the areas of coupled hydrologic-water quality-ecosystem modeling; water resources evaluation and remediation; evaluation of impacts of agricultural production on surface and groundwater quality; and development of hydrologic indicators of ecosystem status.
 
 Notable Work:
+- Founding Director, UF Water Institute
+- Division Director, NSF Division of Research, Innovation, Synergies, and Education (RISE)
 - Quantifying nitrate leaching to groundwater in Suwannee River Basin
 - 4,957+ citations on Google Scholar
 - Former Chair, Department of Agricultural and Biological Engineering (2003-2006)
