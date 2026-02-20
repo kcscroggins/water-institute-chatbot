@@ -2,6 +2,7 @@ Name: Lyn Gettys
 Role: Associate Professor and Extension Specialist; Affiliate Faculty, UF Water Institute
 Academic Unit: Department of Agronomy, UF/IFAS Fort Lauderdale Research and Education Center
 Email: lgettys@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=8hqDbBYAAAAJ&hl=en
 
 Subject Areas:
 Aquatic Plant Ecology, Invasive Weed Management, Wetland Plants, Native Plant Restoration, Integrated Weed Management

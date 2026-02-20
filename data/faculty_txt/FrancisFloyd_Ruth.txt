@@ -2,6 +2,7 @@ Name: Ruth Francis-Floyd
 Role: Professor and Extension Veterinarian; Affiliate Faculty, UF Water Institute
 Academic Unit: College of Veterinary Medicine
 Email: rffloyd@ufl.edu
+Website: https://www.vetmed.ufl.edu/profile/francis-floyd-ruth/
 
 Subject Areas:
 Aquatic Animal Health, Fish Pathology, Aquaculture, Water Quality Management, Disease Diagnostics, Extension Education

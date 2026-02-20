@@ -2,8 +2,8 @@ Name: Nancy Denslow
 Role: Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: Department of Physiological Sciences, College of Veterinary Medicine
 Email: ndenslow@ufl.edu
-Website: https://toxicology.vetmed.ufl.edu/people/faculty__trashed/nancy-denslow-phd/
 Google Scholar: https://scholar.google.com/citations?user=rJ--jD0AAAAJ&hl=en
+Website: https://toxicology.vetmed.ufl.edu/people/faculty__trashed/nancy-denslow-phd/
 
 Subject Areas:
 Toxicology, Toxicogenomics, Endocrine Disruption, Aquatic Organisms, Biomarkers, Contaminant Exposure

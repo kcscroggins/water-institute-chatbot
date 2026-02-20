@@ -2,7 +2,8 @@ Name: Tracie Baker
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Environmental and Global Health
 Email: tracie.baker@ufl.edu
-Website: www.bakerWATERlab.com
+Google Scholar: https://scholar.google.com/citations?user=bEuoBFEAAAAJ&hl=en
+Website: https://www.bakerwaterlab.com/
 
 Subject Areas:
 Environmental toxicology, Endocrine disrupting compounds, Aquatic toxicology, One Health

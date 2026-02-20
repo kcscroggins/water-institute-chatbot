@@ -2,6 +2,8 @@ Name: Samira Daroub
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: Soil and Water Sciences
 Email: sdaroub@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=VD-3CPgAAAAJ&hl=en
+Website: https://soils.ifas.ufl.edu/people/faculty/samira-h-daroub/
 
 Subject Areas:
 Soil and environmental chemistry, Phosphorus dynamics, Everglades restoration, Best Management Practices

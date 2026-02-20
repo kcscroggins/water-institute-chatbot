@@ -2,6 +2,8 @@ Name: Eben Broadbent
 Role: Professor; Affiliate Faculty, UF Water Institute
 Academic Unit: School of Forest, Fisheries & Geomatics Sciences
 Email: eben@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=uPkV21MAAAAJ&hl=en
+Website: https://ffgs.ifas.ufl.edu/faculty/broadbent-eben/
 
 Subject Areas:
 Forest Ecology, Remote Sensing, Land-Use Change, Forest Disturbance, Carbon Dynamics, Tropical Forests
