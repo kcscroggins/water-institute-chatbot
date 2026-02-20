@@ -26,7 +26,8 @@ ranked by their topic-specific research (grants, publications, leadership).
    Key Work: $2.1M NIEHS grants on environmental contaminants; "Transgenerational Effects of PFAS
    in Zebrafish" (50 citations); Director of WATER (Warrior Aquatic, Translational, and
    Environmental Research) Laboratory
-   Website: www.bakerWATERlab.com
+   Website: https://www.bakerwaterlab.com/
+   Google Scholar: https://scholar.google.com/citations?user=bEuoBFEAAAAJ&hl=en
 
 4. Bridget Baker - Wildlife Ecology and Conservation
    Expertise: PFAS bioaccumulation in wildlife, aquatic animal health, One Health approaches
