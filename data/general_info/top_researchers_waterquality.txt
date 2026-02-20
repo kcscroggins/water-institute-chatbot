@@ -1,0 +1,52 @@
+Top Water Quality Researchers at UF Water Institute
+===================================================
+
+These researchers are the leading experts on water quality science, nutrient
+dynamics, and water quality management at the UF Water Institute, ranked by
+their topic-specific research (grants, publications, leadership roles).
+
+---
+
+1. Matthew J. Cohen - School of Forest, Fisheries, and Geomatics Sciences
+   Expertise: Water quality in springs and rivers, nutrient contamination, biogeochemistry
+   Key Work: Water Institute Director; ranked #1 in Hydrology; research on nutrient
+   dynamics in Florida springs; global stream dissolved oxygen patterns;
+   $428K NSF grant on stream solute patterns
+   Website: https://ffgs.ifas.ufl.edu/faculty/cohen-matthew/
+   Google Scholar: https://scholar.google.com/citations?user=cFbUqrEAAAAJ&hl=en
+
+2. Nancy Denslow - Physiological Sciences
+   Expertise: Contaminant biomarkers, water quality biomonitoring, toxicogenomics
+   Key Work: Ranked #1 in Pollution and Contamination; pioneer in molecular biomonitoring
+   of water quality; develops early-warning detection methods for pollutants;
+   research on endocrine disrupting compounds in aquatic systems
+   Website: https://toxicology.vetmed.ufl.edu/people/faculty__trashed/nancy-denslow-phd/
+   Google Scholar: https://scholar.google.com/citations?user=rJ--jD0AAAAJ&hl=en
+
+3. Edward Phlips - Fisheries and Aquatic Sciences
+   Expertise: Water quality assessment, phytoplankton ecology, eutrophication
+   Key Work: Leading expert on algal indicators of water quality; research on
+   nutrient-phytoplankton relationships in Indian River Lagoon and Lake Okeechobee;
+   long-term water quality monitoring
+   ResearchGate: https://www.researchgate.net/profile/Edward-Phlips
+
+4. Rafael Munoz-Carpena - Agricultural and Biological Engineering
+   Expertise: Water quality modeling, nutrient transport, BMP effectiveness
+   Key Work: Distinguished Professor; research on Lake Okeechobee water quality;
+   developer of VFSMOD for evaluating water quality BMPs; ranked #3 in Hydrology
+   Google Scholar: https://scholar.google.com/citations?user=8-GYxFAAAAAJ&hl=en
+
+5. Mark Clark - Soil and Water Sciences
+   Expertise: Nutrient cycling, phosphorus dynamics, soil-water quality linkages
+   Key Work: Research on nutrient retention in wetlands; phosphorus in agricultural
+   ditches; EPA Methods for Evaluating Wetland Condition; BMAP nutrient strategies
+   Website: https://soils.ifas.ufl.edu/people/faculty/mark-clark/
+
+---
+
+Additional water quality researchers:
+- James Jawitz (Soil, Water and Ecosystem Sciences) - Water quality in watersheds
+- Todd Osborne (Soil and Water Sciences) - Nutrient cycling, treatment wetlands
+- Vimala Nair (Soil, Water and Ecosystem Sciences) - Phosphorus management
+- Mary Lusk (Soil and Water Sciences) - Urban water quality
+- AJ Reisinger (Soil and Water Sciences) - Stream biogeochemistry

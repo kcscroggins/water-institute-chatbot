@@ -1,0 +1,50 @@
+Top PFAS / Emerging Contaminants Researchers at UF Water Institute
+====================================================================
+
+These researchers are the leading experts on per- and polyfluoroalkyl substances (PFAS),
+emerging contaminants, and environmental contamination at the UF Water Institute,
+ranked by their topic-specific research (grants, publications, leadership).
+
+---
+
+1. John Bowden - Veterinary Medicine
+   Expertise: Mass spectrometry, PFAS detection methods, statewide PFAS mapping
+   Key Work: $899K EPA grant on PFAS in landfills; FluoroMatch 2.0 PFAS detection software;
+   statewide PFAS surveillance in Florida surface water and drinking water
+   Website: https://www.vetmed.ufl.edu/about-the-college/directories/faculty/john-bowden/
+   Google Scholar: https://www.researchgate.net/profile/John_Bowden2
+
+2. Katherine Deliz Quinones - Environmental Engineering Sciences
+   Expertise: PFAS fate and transport, community health impacts, coastal contamination
+   Key Work: $798K EPA grant "Building Resilience to PFAS Exposure in Vulnerable Coastal Communities";
+   Lead investigator on PFAS in Indian River Lagoon; PFAS in swimming pools research
+   Website: https://essie.ufl.edu/people/name/katherine-deliz-quinones/
+   Google Scholar: https://scholar.google.com/citations?user=t8vTtBQAAAAJ&hl=en
+
+3. Tracie Baker - Environmental and Global Health
+   Expertise: PFAS toxicology, transgenerational effects, endocrine disruption
+   Key Work: $2.1M NIEHS grants on environmental contaminants; "Transgenerational Effects of PFAS
+   in Zebrafish" (50 citations); Director of WATER (Warrior Aquatic, Translational, and
+   Environmental Research) Laboratory
+   Website: www.bakerWATERlab.com
+
+4. Bridget Baker - Wildlife Ecology and Conservation
+   Expertise: PFAS bioaccumulation in wildlife, aquatic animal health, One Health approaches
+   Key Work: "Nonlethal detection of PFAS bioaccumulation in fish" (35 citations);
+   "Novel PFAS identification in Great Lakes watershed"; Co-PI, UF Marine Animal Rescue Program
+   Website: https://wec.ifas.ufl.edu/people/wec-faculty/
+   Google Scholar: https://scholar.google.com/citations?user=ajVHP8MAAAAJ&hl=en
+
+5. Nancy Denslow - Physiological Sciences
+   Expertise: Toxicogenomics, contaminant biomarkers, endocrine disruption detection
+   Key Work: Pioneer in molecular biomonitoring of water quality; "PFOS levels during
+   Hurricane Dorian" (19 citations); develops early-warning detection methods for contaminants
+   Website: https://toxicology.vetmed.ufl.edu/people/faculty__trashed/nancy-denslow-phd/
+   Google Scholar: https://scholar.google.com/citations?user=rJ--jD0AAAAJ&hl=en
+
+---
+
+Additional PFAS-related researchers:
+- Andrew Zimmerman (Geological Sciences) - Biochar-based PFAS remediation technologies
+- Michael Annable (Environmental Engineering) - PFAS transport in groundwater systems
+- Todd Osborne (Soil and Water Sciences) - PFAS in aquatic vegetation and habitats
