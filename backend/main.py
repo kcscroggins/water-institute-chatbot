@@ -79,10 +79,30 @@ async def get_rankings():
 @app.post("/chat", response_model=ChatResponse)
 async def chat(request: ChatRequest):
     try:
+        # Detect follow-up responses like "yes", "sure", "more" and use previous topic
+        follow_up_phrases = {
+            "yes", "yeah", "yep", "sure", "ok", "okay", "please", "more",
+            "show more", "yes please", "show me more", "tell me more",
+            "yes i would", "yes please show me more", "go ahead"
+        }
+
+        query_for_search = request.message
+
+        # If this looks like a follow-up, use the previous user message for context
+        if request.message.lower().strip().rstrip('.!') in follow_up_phrases:
+            if request.conversation_history:
+                # Find the last substantive user message (not another follow-up)
+                for msg in reversed(request.conversation_history):
+                    if msg.get('role') == 'user':
+                        prev_msg = msg.get('content', '').lower().strip()
+                        if prev_msg not in follow_up_phrases:
+                            query_for_search = msg.get('content', request.message)
+                            break
+
         # Query ChromaDB for relevant faculty information
         results = collection.query(
-            query_texts=[request.message],
-            n_results=8  # Get top 8 most relevant chunks for better matching across 369 faculty
+            query_texts=[query_for_search],
+            n_results=12  # Increased to get more results for "show more" requests
         )
 
         # Secondary search: check if any word in the query matches a faculty name in metadata
@@ -235,11 +255,11 @@ async def chat(request: ChatRequest):
 
                 5. After showing the 3 researchers, ALWAYS ask: "Would you like to see more researchers in this area?"
 
-                6. If the user asks for "more", "full list", "all researchers", or "show more":
-                   - Look for the extended rankings in the context
-                   - Show up to 15-20 researchers (without showing scores)
+                6. If the user asks for "more", "full list", "all researchers", "show more", or says "yes":
+                   - Look for the "Additional researchers" section in the context
+                   - Show ALL remaining researchers from both the main list and the additional section
                    - Include Website/Google Scholar links for each where available
-                   - Mention that a complete rankings page is available
+                   - Format each additional researcher the same way as the initial 3
 
                 7. If comparing researchers across different fields, note that the Field Citation Ratio
                    (FCR) is the fairest comparison metric (1.0 = field average, higher is better)
