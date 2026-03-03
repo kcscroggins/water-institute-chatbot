@@ -7,7 +7,7 @@ Title: Associate Professor
 Google Scholar: https://scholar.google.com/citations?user=pRh2pjMAAAAJ&hl=en
 
 Subject Areas:
-Environmental and isotope geochemistry, Carbon cycling and organic matter dynamics, Soil and sediment biogeochemistry, Land-water carbon fluxes, Climate-carbon feedbacks
+Environmental and isotope geochemistry, Carbon cycling and organic matter dynamics, Biochar research and applications, Soil and sediment biogeochemistry, Land-water carbon fluxes, Climate-carbon feedbacks, PFAS remediation
 
 Education:
 - Ph.D. in Geochemistry/Earth Sciences
@@ -27,7 +27,7 @@ Policy Relevance:
 Zimmerman's research informs climate and land-management policy by clarifying the mechanisms that control carbon storage and exchange across terrestrial and aquatic systems. He provides mechanistic insight into carbon stabilization and loss, which is critical for predicting climate feedbacks and evaluating land-use and management strategies. His work influences understanding of soil and sediment carbon persistence, scientific basis for carbon accounting and climate models, and integration of geochemistry into ecosystem and Earth system science.
 
 Keywords:
-environmental geochemistry; isotope geochemistry; carbon cycling; organic matter; soil carbon; sediment biogeochemistry; carbon storage; climate feedbacks; land-water interface; stable isotopes; carbon persistence; Earth system science
+biochar; biochar applications; PFAS remediation; environmental geochemistry; isotope geochemistry; carbon cycling; organic matter; soil carbon; sediment biogeochemistry; carbon storage; climate feedbacks; adsorption; contaminant removal; wastewater treatment; ball milled biochar
 
 --- Enriched Data (Updated: 2026-02-13) ---
 Dimensions Research Metrics (via Dimensions.ai):

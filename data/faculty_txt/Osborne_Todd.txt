@@ -7,7 +7,7 @@ Title: Professor
 Google Scholar: https://scholar.google.com/citations?user=Fc2jwNAAAAAJ&hl=en
 
 Subject Areas:
-Soil carbon and nitrogen cycling, Soil organic matter dynamics, Nutrient management in agricultural systems, Greenhouse gas emissions from soils, Agroecosystem sustainability and soil health
+Wetland biogeochemistry, Soil carbon and nitrogen cycling, Blue carbon, Treatment wetlands, Mangrove biogeochemistry, Soil organic matter dynamics, Nutrient management, PFAS in aquatic systems
 
 Education:
 - Ph.D. Soil Science
@@ -26,7 +26,7 @@ Policy Relevance:
 Dr. Osborne's research informs decisions about sustainable nutrient management and land-use practices by quantifying how management choices affect soil carbon storage, nitrogen losses, and environmental performance. He provides process-level evidence linking agricultural management to soil carbon sequestration, nutrient efficiency, and emissions, which are central levers in sustainable agriculture and climate mitigation. His work influences land management and nutrient management practices, soil health metrics used in sustainability and climate frameworks, and provides empirical foundations for agricultural policy and best practices.
 
 Keywords:
-soil biogeochemistry; carbon cycling; nitrogen cycling; soil organic matter; nutrient management; greenhouse gas emissions; agroecosystems; soil health; agricultural soils; land management; carbon sequestration; nutrient-use efficiency; sustainable agriculture; cropping systems; Florida agriculture
+wetland biogeochemistry; wetland soils; blue carbon; treatment wetlands; mangrove biogeochemistry; Stormwater Treatment Areas; soil biogeochemistry; carbon cycling; nitrogen cycling; soil organic matter; PFAS; aquatic vegetation; nutrient management; carbon sequestration; Florida wetlands
 
 --- Enriched Data (Updated: 2026-02-13) ---
 Dimensions Research Metrics (via Dimensions.ai):

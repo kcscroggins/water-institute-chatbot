@@ -1,0 +1,122 @@
+{
+  "timestamp": "2026-03-03 11:15:01",
+  "api_url": "https://water-institute-chatbot.onrender.com",
+  "total_tests": 105,
+  "passed": 95,
+  "failed": 10,
+  "pass_rate": "90.5%",
+  "avg_response_time": "5.64s",
+  "by_category": {
+    "Faculty Profile": {
+      "passed": 25,
+      "failed": 5
+    },
+    "Rankings": {
+      "passed": 13,
+      "failed": 2
+    },
+    "Topic Expert": {
+      "passed": 19,
+      "failed": 1
+    },
+    "General Institute": {
+      "passed": 14,
+      "failed": 1
+    },
+    "Research Area": {
+      "passed": 10,
+      "failed": 0
+    },
+    "Edge Case": {
+      "passed": 9,
+      "failed": 1
+    },
+    "Off-Topic Guard": {
+      "passed": 5,
+      "failed": 0
+    }
+  },
+  "failed_tests": [
+    {
+      "category": "Faculty Profile",
+      "query": "Tell me about Zimmerman's work on biochar",
+      "missing_keywords": [
+        "Zimmerman",
+        "biochar"
+      ],
+      "forbidden_keywords": []
+    },
+    {
+      "category": "Faculty Profile",
+      "query": "Where did Matt Cohen get his PhD?",
+      "missing_keywords": [
+        "Ph.D."
+      ],
+      "forbidden_keywords": []
+    },
+    {
+      "category": "Faculty Profile",
+      "query": "Tell me about Glenn Acomb's research",
+      "missing_keywords": [
+        "green roof"
+      ],
+      "forbidden_keywords": []
+    },
+    {
+      "category": "Faculty Profile",
+      "query": "What does Tracie Baker study?",
+      "missing_keywords": [
+        "toxicology"
+      ],
+      "forbidden_keywords": []
+    },
+    {
+      "category": "Faculty Profile",
+      "query": "Tell me about Todd Osborne's research",
+      "missing_keywords": [
+        "wetland"
+      ],
+      "forbidden_keywords": []
+    },
+    {
+      "category": "Rankings",
+      "query": "Who is ranked #1 in hydrology research?",
+      "missing_keywords": [
+        "Cohen"
+      ],
+      "forbidden_keywords": []
+    },
+    {
+      "category": "Rankings",
+      "query": "Show me researchers ranked in top 10%",
+      "missing_keywords": [
+        "percentile"
+      ],
+      "forbidden_keywords": []
+    },
+    {
+      "category": "Topic Expert",
+      "query": "Who are the top PFAS researchers at the Water Institute?",
+      "missing_keywords": [
+        "Bowden"
+      ],
+      "forbidden_keywords": []
+    },
+    {
+      "category": "General Institute",
+      "query": "How many faculty are affiliated with the Water Institute?",
+      "missing_keywords": [
+        "400"
+      ],
+      "forbidden_keywords": []
+    },
+    {
+      "category": "Edge Case",
+      "query": "Tell me about hydrology",
+      "missing_keywords": [
+        "hydrology"
+      ],
+      "forbidden_keywords": []
+    }
+  ]
+}
