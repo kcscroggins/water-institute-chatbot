@@ -5,13 +5,107 @@ import chromadb
 from chromadb.config import Settings
 from openai import OpenAI
 import os
-from typing import List, Optional
+import json
+import logging
+from pathlib import Path
+from functools import lru_cache
+from typing import List, Optional, Dict, Any
 from dotenv import load_dotenv
 
 # Load environment variables
 load_dotenv(dotenv_path="../.env")
 
+# Configure logging
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+
 app = FastAPI()
+
+
+# =============================================================================
+# CACHING: Load metadata once at startup to avoid expensive repeated lookups
+# =============================================================================
+
+class MetadataCache:
+    """Cache for ChromaDB metadata and faculty JSON to avoid repeated lookups."""
+
+    def __init__(self):
+        self._all_metadata: Optional[Dict[str, Any]] = None
+        self._faculty_json: Optional[Dict[str, Any]] = None
+        self._faculty_name_index: Optional[Dict[str, str]] = None  # name -> faculty_id
+
+    def load_chromadb_metadata(self, collection) -> Dict[str, Any]:
+        """Load and cache all ChromaDB metadata. Called once at startup."""
+        if self._all_metadata is None:
+            logger.info("Loading ChromaDB metadata into cache...")
+            try:
+                self._all_metadata = collection.get(include=["documents", "metadatas"])
+                doc_count = len(self._all_metadata.get('documents', []))
+                logger.info(f"Cached {doc_count} documents from ChromaDB")
+            except Exception as e:
+                logger.error(f"Failed to load ChromaDB metadata: {e}")
+                self._all_metadata = {'documents': [], 'metadatas': []}
+        return self._all_metadata
+
+    def load_faculty_json(self) -> Dict[str, Any]:
+        """Load and cache faculty.json for structured lookups."""
+        if self._faculty_json is None:
+            faculty_json_path = Path(__file__).parent / ".." / "data" / "faculty.json"
+            if faculty_json_path.exists():
+                logger.info("Loading faculty.json into cache...")
+                try:
+                    with open(faculty_json_path, 'r', encoding='utf-8') as f:
+                        self._faculty_json = json.load(f)
+                    faculty_count = len(self._faculty_json.get('faculty', {}))
+                    logger.info(f"Cached {faculty_count} faculty records from faculty.json")
+
+                    # Build name index for fast lookups
+                    self._build_name_index()
+                except Exception as e:
+                    logger.error(f"Failed to load faculty.json: {e}")
+                    self._faculty_json = {'faculty': {}}
+            else:
+                logger.warning(f"faculty.json not found at {faculty_json_path}")
+                self._faculty_json = {'faculty': {}}
+        return self._faculty_json
+
+    def _build_name_index(self):
+        """Build index mapping name variations to faculty IDs."""
+        self._faculty_name_index = {}
+        for faculty_id, faculty in self._faculty_json.get('faculty', {}).items():
+            name = faculty.get('name', '')
+            # Index full name
+            self._faculty_name_index[name.lower()] = faculty_id
+            # Index name parts (first name, last name)
+            for part in name.split():
+                part_lower = part.lower().strip('.')
+                if len(part_lower) > 2:  # Skip initials
+                    if part_lower not in self._faculty_name_index:
+                        self._faculty_name_index[part_lower] = faculty_id
+
+    def get_faculty_by_name(self, name: str) -> Optional[Dict[str, Any]]:
+        """Look up faculty by name (full or partial)."""
+        if self._faculty_json is None:
+            self.load_faculty_json()
+
+        name_lower = name.lower().strip()
+        faculty_id = self._faculty_name_index.get(name_lower)
+        if faculty_id:
+            return self._faculty_json['faculty'].get(faculty_id)
+        return None
+
+    def refresh(self, collection):
+        """Force refresh of all caches. Call after data re-ingestion."""
+        logger.info("Refreshing metadata cache...")
+        self._all_metadata = None
+        self._faculty_json = None
+        self._faculty_name_index = None
+        self.load_chromadb_metadata(collection)
+        self.load_faculty_json()
+
+
+# Global cache instance
+metadata_cache = MetadataCache()
 
 # CORS middleware to allow WordPress to embed
 app.add_middleware(
@@ -28,6 +122,10 @@ collection = chroma_client.get_or_create_collection(
     name="faculty_data",
     metadata={"hnsw:space": "cosine"}
 )
+
+# Initialize caches at startup
+metadata_cache.load_chromadb_metadata(collection)
+metadata_cache.load_faculty_json()
 
 # OpenAI client configured for UF Navigator
 client = OpenAI(
@@ -49,7 +147,36 @@ async def root():
 
 @app.get("/health")
 async def health():
-    return {"status": "healthy", "collection_count": collection.count()}
+    """Health check endpoint with cache status."""
+    cache_status = {
+        "chromadb_cached": metadata_cache._all_metadata is not None,
+        "faculty_json_cached": metadata_cache._faculty_json is not None,
+    }
+    if metadata_cache._all_metadata:
+        cache_status["cached_docs"] = len(metadata_cache._all_metadata.get('documents', []))
+    if metadata_cache._faculty_json:
+        cache_status["cached_faculty"] = len(metadata_cache._faculty_json.get('faculty', {}))
+
+    return {
+        "status": "healthy",
+        "collection_count": collection.count(),
+        "cache": cache_status
+    }
+
+
+@app.post("/refresh-cache")
+async def refresh_cache():
+    """Refresh the metadata cache. Call after data re-ingestion."""
+    try:
+        metadata_cache.refresh(collection)
+        return {
+            "status": "success",
+            "message": "Cache refreshed",
+            "cached_docs": len(metadata_cache._all_metadata.get('documents', [])),
+            "cached_faculty": len(metadata_cache._faculty_json.get('faculty', {}))
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Cache refresh failed: {str(e)}")
 
 
 @app.get("/rankings")
@@ -118,14 +245,16 @@ async def chat(request: ChatRequest):
         name_matched_docs = []
         if query_words:
             try:
-                all_metadata = collection.get(include=["documents", "metadatas"])
+                # Use cached metadata instead of querying on every request
+                all_metadata = metadata_cache.load_chromadb_metadata(collection)
                 for doc, metadata in zip(all_metadata['documents'], all_metadata['metadatas']):
                     if metadata.get('type') == 'faculty':
                         source_name = metadata.get('source', '').lower()
                         name_parts = source_name.split()
                         if any(qw in name_parts for qw in query_words):
                             name_matched_docs.append((doc, metadata))
-            except Exception:
+            except Exception as e:
+                logger.warning(f"Name matching failed: {e}")
                 pass  # Fall back to vector search only if metadata search fails
 
         # Build context from retrieved documents
