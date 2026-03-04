@@ -31,6 +31,48 @@ Production has stale data and needs a manual redeploy on Render to re-ingest the
 
 ## Recent Updates
 
+### Structured Faculty Data & Performance Caching (March 2026)
+
+Added structured JSON database and startup caching for improved performance and future search enhancements.
+
+**New Features:**
+- ✅ `backend/generate_faculty_json.py` - Parses all faculty .txt files into structured JSON
+- ✅ `data/faculty.json` - Structured faculty database (376 faculty records)
+- ✅ `MetadataCache` class in main.py - Caches data at startup to eliminate per-request overhead
+- ✅ `/health` endpoint now shows cache status
+- ✅ `/refresh-cache` endpoint for manual cache refresh after data updates
+
+**Faculty JSON Statistics:**
+- 376 total faculty records
+- 288 with Dimensions research metrics
+- 289 with research impact rankings
+- 270 with Google Scholar URLs
+- 179 with website URLs
+- 249 with recent publications
+
+**Performance Improvement:**
+- Metadata is now loaded once at startup instead of scanning 2500+ documents per request
+- Faculty name index enables O(1) lookups by name
+
+**Usage:**
+```bash
+cd backend
+python generate_faculty_json.py              # Generate faculty.json
+python generate_faculty_json.py --dry-run    # Preview without saving
+python generate_faculty_json.py --validate   # Validate existing JSON
+```
+
+**API Endpoints:**
+```bash
+# Check cache status
+curl https://water-institute-chatbot.onrender.com/health
+
+# Refresh cache after data changes
+curl -X POST https://water-institute-chatbot.onrender.com/refresh-cache
+```
+
+---
+
 ### Faculty Rankings Feature (February 2026)
 
 Added research impact rankings for Water Institute faculty based on Dimensions.ai metrics.
@@ -419,7 +461,30 @@ data/
 │   └── ...
 │
 ├── rankings.json                       # Faculty rankings data (structured)
+├── faculty.json                        # Structured faculty database (376 records)
 └── faculty_needing_dimensions_review.txt # Faculty needing Dimensions data review
+```
+
+**faculty.json Structure:**
+```json
+{
+  "metadata": { "generated": "...", "total_faculty": 376 },
+  "faculty": {
+    "cohen_matt": {
+      "name": "Matthew J. Cohen",
+      "role": "Director, UF Water Institute",
+      "academic_unit": "School of Forest, Fisheries, and Geomatics Sciences",
+      "email": "mjc@ufl.edu",
+      "website": "https://...",
+      "google_scholar": "https://...",
+      "expertise": { "subject_areas": [...], "keywords": [...], "research_categories": [...] },
+      "metrics": { "h_index": 36, "total_citations": 4392, "field_citation_ratio": 7.45 },
+      "rankings": { "impact_score": 3.0, "percentile": 7, "by_category": {...} },
+      "recent_publications": [...],
+      "grants": [...]
+    }
+  }
+}
 ```
 
 **Faculty Profile Types:**
