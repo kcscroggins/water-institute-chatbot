@@ -8,24 +8,12 @@ A RAG-powered chatbot that answers questions about the UF Water Institute, inclu
 - **Backend API**: https://water-institute-chatbot.onrender.com
 - **GitHub Repository**: https://github.com/kcscroggins/water-institute-chatbot
 
-## Pending Actions
+## Current Status (March 2026)
 
-### Redeploy Needed (February 2026)
-
-Production has stale data and needs a manual redeploy on Render to re-ingest the database.
-
-**Issue:** Some removed faculty (e.g., Christine Angelini) still appear in responses, while updated profiles aren't fully indexed.
-
-**To fix:**
-1. Go to Render dashboard
-2. Find water-institute-chatbot service
-3. Click "Manual Deploy" → "Deploy latest commit"
-
-**After redeploy, these improvements will be live:**
-- Removed faculty (Angelini, etc.) will no longer appear
-- PFAS experts properly indexed: Katherine Deliz-Quiñones, John Bowden, Bridget Baker, Tracie Baker
-- All enriched faculty profiles with publications, grants, and rankings
-- 693 chunks in ChromaDB
+- **Test Pass Rate**: 96.9% (32 tests)
+- **ChromaDB Chunks**: 719 indexed documents
+- **Faculty Profiles**: 376 enriched profiles with caching enabled
+- **Average Response Time**: ~4 seconds
 
 ---
 
@@ -325,20 +313,21 @@ python test_chatbot.py --verbose      # Show full responses
 - Edge cases (5 tests)
 - Off-topic guardrails (2 tests)
 
-**Latest Test Results (February 2026):**
+**Latest Test Results (March 2026):**
 
 | Category | Pass Rate | Status |
 |----------|-----------|--------|
-| Rankings | 57% | ⚠️ Some keyword misses |
-| Faculty Profile | 90% | ✅ Working well |
-| General Institute | 75% | ✅ Good coverage |
+| Rankings | 86% | ✅ Working well |
+| Faculty Profile | 100% | ✅ All passed |
+| General Institute | 100% | ✅ All passed |
 | Edge Cases | 100% | ✅ All passed |
-| Off-Topic Guard | 50% | ✅ Guards active |
-| **Overall** | **78%** | ✅ Functional |
+| Off-Topic Guard | 100% | ✅ All passed |
+| **Overall** | **96.9%** | ✅ Production ready |
 
 **Performance:**
-- Average response time: ~15 seconds
-- Collection size: 693 chunks indexed
+- Average response time: ~4 seconds
+- Collection size: 719 chunks indexed
+- Faculty profiles cached: 376
 
 ### Sample Questions
 
@@ -371,8 +360,8 @@ python test_chatbot.py --verbose      # Show full responses
 ## Production Deployment
 
 This project is currently deployed using:
-- **Backend**: Render.com (Free tier)
-- **Frontend**: Netlify (Free tier)
+- **Backend**: Render.com
+- **Frontend**: GitHub Pages
 
 ### Backend Deployment (Render.com)
 
