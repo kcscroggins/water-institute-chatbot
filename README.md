@@ -73,48 +73,6 @@ curl -X POST https://water-institute-chatbot.onrender.com/refresh-cache
 
 ---
 
-### Hybrid Search & Query Classification (March 2026)
-
-Added BM25 keyword search and intelligent query classification for improved retrieval accuracy.
-
-**New Features:**
-- ✅ **BM25 Keyword Search** - Catches exact term matches that vector search might miss (e.g., "biochar", "PFAS")
-- ✅ **Query Classification** - Routes queries to optimal search strategy:
-  - `faculty_name` - Direct lookup for person queries
-  - `topic_expert` - Expert search for "who studies X" queries
-  - `ranking` - Rankings data for "top researchers" queries
-  - `general_info` - Institute information queries
-  - `research_area` - Research topic queries
-- ✅ **Hybrid Search** - Combines vector search + BM25 + structured lookups
-- ✅ **Feature Flag** - `USE_HYBRID_SEARCH` environment variable for safe rollout
-
-**Search Strategy:**
-```
-Query → Classify → Route to:
-├── Faculty Name Query  → Structured lookup (fast, exact)
-├── Topic Expert Query  → Vector + BM25 (semantic + keyword)
-├── Ranking Query       → Rankings data priority
-├── General Info Query  → Institute docs priority
-└── Research Area Query → Vector + BM25 (broad search)
-```
-
-**Configuration:**
-```bash
-# Enable/disable hybrid search (default: true)
-USE_HYBRID_SEARCH=true
-
-# Check search status
-curl https://water-institute-chatbot.onrender.com/health
-# Returns: {"search": {"hybrid_search_enabled": true, "bm25_available": true, "bm25_index_ready": true}}
-```
-
-**Performance:**
-- BM25 index built at startup (~719 documents)
-- Query classification adds <1ms overhead
-- Improved retrieval for specific technical terms
-
----
-
 ### Faculty Rankings Feature (February 2026)
 
 Added research impact rankings for Water Institute faculty based on Dimensions.ai metrics.

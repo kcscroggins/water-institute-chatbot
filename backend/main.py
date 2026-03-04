@@ -5,21 +5,12 @@ import chromadb
 from chromadb.config import Settings
 from openai import OpenAI
 import os
-import re
 import json
 import logging
 from pathlib import Path
 from functools import lru_cache
-from typing import List, Optional, Dict, Any, Tuple
+from typing import List, Optional, Dict, Any
 from dotenv import load_dotenv
-
-# BM25 for keyword search (Phase 2)
-try:
-    from rank_bm25 import BM25Okapi
-    BM25_AVAILABLE = True
-except ImportError:
-    BM25_AVAILABLE = False
-    logging.warning("rank_bm25 not installed, BM25 search disabled")
 
 # Load environment variables
 load_dotenv(dotenv_path="../.env")
@@ -116,249 +107,6 @@ class MetadataCache:
 # Global cache instance
 metadata_cache = MetadataCache()
 
-
-# =============================================================================
-# FEATURE FLAGS: Control rollout of new features
-# =============================================================================
-
-USE_HYBRID_SEARCH = os.getenv("USE_HYBRID_SEARCH", "true").lower() == "true"
-
-
-# =============================================================================
-# QUERY CLASSIFICATION: Route queries to appropriate search strategy
-# =============================================================================
-
-class QueryType:
-    FACULTY_NAME = "faculty_name"      # Looking for a specific person
-    TOPIC_EXPERT = "topic_expert"      # Looking for experts in a field
-    RANKING = "ranking"                # Asking about rankings/top researchers
-    GENERAL_INFO = "general_info"      # General institute questions
-    RESEARCH_AREA = "research_area"    # Questions about research topics
-
-
-def classify_query(query: str, faculty_json: Dict[str, Any]) -> Tuple[str, List[str]]:
-    """
-    Classify the query type and extract relevant entities.
-    Returns (query_type, extracted_entities).
-    """
-    query_lower = query.lower()
-
-    # Check for ranking queries
-    ranking_keywords = ["top", "best", "leading", "highest", "ranked", "#1", "number one",
-                        "most cited", "h-index", "impact score", "top researchers"]
-    if any(kw in query_lower for kw in ranking_keywords):
-        return QueryType.RANKING, []
-
-    # Check for topic expert queries
-    expert_keywords = ["expert", "specialist", "who studies", "who works on", "who researches",
-                       "faculty in", "researchers in", "professors who"]
-    if any(kw in query_lower for kw in expert_keywords):
-        return QueryType.TOPIC_EXPERT, []
-
-    # Check for faculty name matches
-    if faculty_json and 'faculty' in faculty_json:
-        name_index = metadata_cache._faculty_name_index or {}
-        query_words = [w.lower().strip(",.?!'\"") for w in query.split() if len(w) > 2]
-
-        matched_faculty = []
-        for word in query_words:
-            if word in name_index:
-                matched_faculty.append(name_index[word])
-
-        if matched_faculty:
-            return QueryType.FACULTY_NAME, list(set(matched_faculty))
-
-    # Check for general institute queries
-    general_keywords = ["water institute", "located", "address", "contact", "phone",
-                        "director", "mission", "programs", "facilities", "wigf", "partners"]
-    if any(kw in query_lower for kw in general_keywords):
-        return QueryType.GENERAL_INFO, []
-
-    # Default to research area query
-    return QueryType.RESEARCH_AREA, []
-
-
-# =============================================================================
-# BM25 SEARCH: Keyword-based search for exact term matching
-# =============================================================================
-
-class BM25Index:
-    """BM25 index for keyword-based search."""
-
-    def __init__(self):
-        self._index: Optional[Any] = None
-        self._corpus: List[str] = []
-        self._doc_metadata: List[Dict[str, Any]] = []
-
-    def build_index(self, documents: List[str], metadatas: List[Dict[str, Any]]):
-        """Build BM25 index from documents."""
-        if not BM25_AVAILABLE:
-            logger.warning("BM25 not available, skipping index build")
-            return
-
-        logger.info("Building BM25 index...")
-        self._corpus = documents
-        self._doc_metadata = metadatas
-
-        # Tokenize documents for BM25
-        tokenized_corpus = [doc.lower().split() for doc in documents]
-        self._index = BM25Okapi(tokenized_corpus)
-        logger.info(f"BM25 index built with {len(documents)} documents")
-
-    def search(self, query: str, top_k: int = 10) -> List[Tuple[str, Dict[str, Any], float]]:
-        """
-        Search using BM25.
-        Returns list of (document, metadata, score) tuples.
-        """
-        if self._index is None or not BM25_AVAILABLE:
-            return []
-
-        tokenized_query = query.lower().split()
-        scores = self._index.get_scores(tokenized_query)
-
-        # Get top-k results with scores above threshold
-        scored_docs = [(i, scores[i]) for i in range(len(scores)) if scores[i] > 0]
-        scored_docs.sort(key=lambda x: x[1], reverse=True)
-        top_results = scored_docs[:top_k]
-
-        results = []
-        for idx, score in top_results:
-            results.append((self._corpus[idx], self._doc_metadata[idx], score))
-
-        return results
-
-    def is_ready(self) -> bool:
-        return self._index is not None
-
-
-# Global BM25 index
-bm25_index = BM25Index()
-
-
-# =============================================================================
-# HYBRID SEARCH: Combine vector search, BM25, and structured lookups
-# =============================================================================
-
-def hybrid_search(
-    query: str,
-    collection,
-    metadata_cache: MetadataCache,
-    bm25_index: BM25Index,
-    n_results: int = 12
-) -> Tuple[List[Tuple[str, Dict[str, Any]]], str]:
-    """
-    Perform hybrid search combining multiple strategies.
-    Returns (results, query_type) where results is list of (doc, metadata) tuples.
-    """
-    faculty_json = metadata_cache.load_faculty_json()
-    query_type, entities = classify_query(query, faculty_json)
-
-    logger.info(f"Query classified as: {query_type}, entities: {entities}")
-
-    results = []
-    seen_ids = set()
-
-    def add_result(doc: str, metadata: Dict[str, Any]):
-        doc_id = f"{metadata.get('source', '')}_{metadata.get('chunk', '')}"
-        if doc_id not in seen_ids:
-            results.append((doc, metadata))
-            seen_ids.add(doc_id)
-
-    # Strategy 1: For faculty name queries, prioritize structured lookup
-    if query_type == QueryType.FACULTY_NAME and entities:
-        all_metadata = metadata_cache.load_chromadb_metadata(collection)
-        for faculty_id in entities:
-            # Find all chunks for this faculty
-            for doc, metadata in zip(all_metadata['documents'], all_metadata['metadatas']):
-                if metadata.get('type') == 'faculty':
-                    source = metadata.get('source', '').lower().replace(' ', '_')
-                    if faculty_id in source or source in faculty_id:
-                        add_result(doc, metadata)
-
-    # Strategy 2: Vector search (semantic similarity)
-    vector_results = collection.query(
-        query_texts=[query],
-        n_results=n_results
-    )
-    if vector_results['documents'] and vector_results['documents'][0]:
-        for doc, metadata in zip(vector_results['documents'][0], vector_results['metadatas'][0]):
-            add_result(doc, metadata)
-
-    # Strategy 3: BM25 keyword search (catches exact terms vector search might miss)
-    if bm25_index.is_ready():
-        bm25_results = bm25_index.search(query, top_k=8)
-        for doc, metadata, score in bm25_results:
-            # Only add high-confidence BM25 matches
-            if score > 1.0:
-                add_result(doc, metadata)
-
-    # Strategy 4: Name matching fallback (existing logic)
-    query_words = [w.lower().strip(",.?!") for w in query.split() if len(w) > 2]
-    stop_words = {"tell", "about", "what", "who", "does", "the", "this", "that", "from",
-                  "with", "have", "been", "their", "there", "which", "where", "when",
-                  "faculty", "member", "professor", "research", "work", "study", "studies",
-                  "expert", "institute", "water", "please", "help", "know", "information"}
-    query_words = [w for w in query_words if w not in stop_words]
-
-    if query_words:
-        all_metadata = metadata_cache.load_chromadb_metadata(collection)
-        for doc, metadata in zip(all_metadata['documents'], all_metadata['metadatas']):
-            if metadata.get('type') == 'faculty':
-                source_name = metadata.get('source', '').lower()
-                name_parts = source_name.split()
-                if any(qw in name_parts for qw in query_words):
-                    add_result(doc, metadata)
-
-    return results, query_type
-
-
-def legacy_search(
-    query: str,
-    collection,
-    metadata_cache: MetadataCache,
-    n_results: int = 12
-) -> List[Tuple[str, Dict[str, Any]]]:
-    """
-    Original search logic (fallback if hybrid search is disabled).
-    """
-    results = []
-    seen_ids = set()
-
-    # Vector search
-    vector_results = collection.query(
-        query_texts=[query],
-        n_results=n_results
-    )
-    if vector_results['documents'] and vector_results['documents'][0]:
-        for doc, metadata in zip(vector_results['documents'][0], vector_results['metadatas'][0]):
-            doc_id = f"{metadata.get('source', '')}_{metadata.get('chunk', '')}"
-            if doc_id not in seen_ids:
-                results.append((doc, metadata))
-                seen_ids.add(doc_id)
-
-    # Name matching
-    query_words = [w.lower().strip(",.?!") for w in query.split() if len(w) > 2]
-    stop_words = {"tell", "about", "what", "who", "does", "the", "this", "that", "from",
-                  "with", "have", "been", "their", "there", "which", "where", "when",
-                  "faculty", "member", "professor", "research", "work", "study", "studies",
-                  "expert", "institute", "water", "please", "help", "know", "information"}
-    query_words = [w for w in query_words if w not in stop_words]
-
-    if query_words:
-        all_metadata = metadata_cache.load_chromadb_metadata(collection)
-        for doc, metadata in zip(all_metadata['documents'], all_metadata['metadatas']):
-            if metadata.get('type') == 'faculty':
-                source_name = metadata.get('source', '').lower()
-                name_parts = source_name.split()
-                if any(qw in name_parts for qw in query_words):
-                    doc_id = f"{metadata.get('source', '')}_{metadata.get('chunk', '')}"
-                    if doc_id not in seen_ids:
-                        results.append((doc, metadata))
-                        seen_ids.add(doc_id)
-
-    return results
-
-
 # CORS middleware to allow WordPress to embed
 app.add_middleware(
     CORSMiddleware,
@@ -378,14 +126,6 @@ collection = chroma_client.get_or_create_collection(
 # Initialize caches at startup
 metadata_cache.load_chromadb_metadata(collection)
 metadata_cache.load_faculty_json()
-
-# Build BM25 index at startup (Phase 2)
-if USE_HYBRID_SEARCH and BM25_AVAILABLE:
-    all_data = metadata_cache.load_chromadb_metadata(collection)
-    bm25_index.build_index(all_data['documents'], all_data['metadatas'])
-    logger.info("Hybrid search enabled with BM25")
-else:
-    logger.info(f"Hybrid search: USE_HYBRID_SEARCH={USE_HYBRID_SEARCH}, BM25_AVAILABLE={BM25_AVAILABLE}")
 
 # OpenAI client configured for UF Navigator
 client = OpenAI(
@@ -407,7 +147,7 @@ async def root():
 
 @app.get("/health")
 async def health():
-    """Health check endpoint with cache and search status."""
+    """Health check endpoint with cache status."""
     cache_status = {
         "chromadb_cached": metadata_cache._all_metadata is not None,
         "faculty_json_cached": metadata_cache._faculty_json is not None,
@@ -417,37 +157,23 @@ async def health():
     if metadata_cache._faculty_json:
         cache_status["cached_faculty"] = len(metadata_cache._faculty_json.get('faculty', {}))
 
-    search_status = {
-        "hybrid_search_enabled": USE_HYBRID_SEARCH,
-        "bm25_available": BM25_AVAILABLE,
-        "bm25_index_ready": bm25_index.is_ready(),
-    }
-
     return {
         "status": "healthy",
         "collection_count": collection.count(),
-        "cache": cache_status,
-        "search": search_status
+        "cache": cache_status
     }
 
 
 @app.post("/refresh-cache")
 async def refresh_cache():
-    """Refresh the metadata cache and BM25 index. Call after data re-ingestion."""
+    """Refresh the metadata cache. Call after data re-ingestion."""
     try:
         metadata_cache.refresh(collection)
-
-        # Rebuild BM25 index
-        if USE_HYBRID_SEARCH and BM25_AVAILABLE:
-            all_data = metadata_cache.load_chromadb_metadata(collection)
-            bm25_index.build_index(all_data['documents'], all_data['metadatas'])
-
         return {
             "status": "success",
-            "message": "Cache and search index refreshed",
+            "message": "Cache refreshed",
             "cached_docs": len(metadata_cache._all_metadata.get('documents', [])),
-            "cached_faculty": len(metadata_cache._faculty_json.get('faculty', {})),
-            "bm25_ready": bm25_index.is_ready()
+            "cached_faculty": len(metadata_cache._faculty_json.get('faculty', {}))
         }
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Cache refresh failed: {str(e)}")
@@ -500,31 +226,60 @@ async def chat(request: ChatRequest):
                             query_for_search = msg.get('content', request.message)
                             break
 
-        # Perform search using hybrid or legacy strategy
-        try:
-            if USE_HYBRID_SEARCH:
-                search_results, query_type = hybrid_search(
-                    query_for_search, collection, metadata_cache, bm25_index, n_results=12
-                )
-                logger.info(f"Hybrid search returned {len(search_results)} results for query type: {query_type}")
-            else:
-                search_results = legacy_search(
-                    query_for_search, collection, metadata_cache, n_results=12
-                )
-                logger.info(f"Legacy search returned {len(search_results)} results")
-        except Exception as e:
-            logger.error(f"Search failed, falling back to legacy: {e}")
-            search_results = legacy_search(
-                query_for_search, collection, metadata_cache, n_results=12
-            )
+        # Query ChromaDB for relevant faculty information
+        results = collection.query(
+            query_texts=[query_for_search],
+            n_results=12  # Increased to get more results for "show more" requests
+        )
+
+        # Secondary search: check if any word in the query matches a faculty name in metadata
+        # This catches first-name-only or last-name-only queries that vector search may miss
+        query_words = [w.lower().strip(",.?!") for w in request.message.split() if len(w) > 2]
+        # Exclude common words that would cause false matches
+        stop_words = {"tell", "about", "what", "who", "does", "the", "this", "that", "from",
+                      "with", "have", "been", "their", "there", "which", "where", "when",
+                      "faculty", "member", "professor", "research", "work", "study", "studies",
+                      "expert", "institute", "water", "please", "help", "know", "information"}
+        query_words = [w for w in query_words if w not in stop_words]
+
+        name_matched_docs = []
+        if query_words:
+            try:
+                # Use cached metadata instead of querying on every request
+                all_metadata = metadata_cache.load_chromadb_metadata(collection)
+                for doc, metadata in zip(all_metadata['documents'], all_metadata['metadatas']):
+                    if metadata.get('type') == 'faculty':
+                        source_name = metadata.get('source', '').lower()
+                        name_parts = source_name.split()
+                        if any(qw in name_parts for qw in query_words):
+                            name_matched_docs.append((doc, metadata))
+            except Exception as e:
+                logger.warning(f"Name matching failed: {e}")
+                pass  # Fall back to vector search only if metadata search fails
 
         # Build context from retrieved documents
         context = ""
         sources = []
-        for doc, metadata in search_results:
-            context += f"\n\n{doc}"
-            if 'source' in metadata and metadata['source'] not in sources:
-                sources.append(metadata['source'])
+        seen_ids = set()
+
+        # Add vector search results first
+        if results['documents'] and results['documents'][0]:
+            for doc, metadata in zip(results['documents'][0], results['metadatas'][0]):
+                doc_id = f"{metadata.get('source', '')}_{metadata.get('chunk', '')}"
+                if doc_id not in seen_ids:
+                    context += f"\n\n{doc}"
+                    seen_ids.add(doc_id)
+                    if 'source' in metadata and metadata['source'] not in sources:
+                        sources.append(metadata['source'])
+
+        # Add name-matched results that weren't already included
+        for doc, metadata in name_matched_docs:
+            doc_id = f"{metadata.get('source', '')}_{metadata.get('chunk', '')}"
+            if doc_id not in seen_ids:
+                context += f"\n\n{doc}"
+                seen_ids.add(doc_id)
+                if 'source' in metadata and metadata['source'] not in sources:
+                    sources.append(metadata['source'])
 
         # Build conversation messages
         messages = [
