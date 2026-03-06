@@ -33,6 +33,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 4.95 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Sustainable management and valorization of antibiotic waste *Chemical Engineering Journal* (2024) - 26 citations
+  DOI: https://doi.org/10.1016/j.cej.2024.155372
+- Promoting SDGs Through Education: A Theory of Planned Behavior Analysis of Japanese and Nigerian Students' Sustainability Actions *Sustainable Development* (2025) - 3 citations
+  DOI: https://doi.org/10.1002/sd.3493
+- Revisiting Everett M. Rogers: A systematic review and random forest analysis of technology adoption in modern agriculture *Advancements in Agricultural Development* (2026) - 2 citations
+  DOI: https://doi.org/10.37433/aad.v7i2.629
+- Mapping the future of Kimchi: Omics insights, functional potential, and global standardization *Trends in Food Science & Technology* (2025) - 2 citations
+  DOI: https://doi.org/10.1016/j.tifs.2025.105358
+- Artificial intelligence‐powered plant phenomics: Progress, challenges, and opportunities *The Plant Phenome Journal* (2025) - 0 citations
+  DOI: https://doi.org/10.1002/ppj2.70060
+
 Recent Publications (from Dimensions.ai):
 - Sustainable management and valorization of antibiotic waste *Chemical Engineering Journal* (2024) - 21 citations
   DOI: https://doi.org/10.1016/j.cej.2024.155372

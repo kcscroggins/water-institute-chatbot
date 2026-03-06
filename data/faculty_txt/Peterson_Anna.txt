@@ -32,6 +32,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 9.39 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Evangelicals and Catholics in El Salvador: Evolving Religious Responses to Social Change *Journal of Church and State* (1996) - 18 citations
+  DOI: https://doi.org/10.1093/jcs/38.4.873
+- Religious Narratives and Political Protest *Journal of the American Academy of Religion* (1996) - 12 citations
+  DOI: https://doi.org/10.1093/jaarel/lxiv.1.27
+- Association of Religious End Time Beliefs with Attitudes toward Climate Change and Biodiversity Loss *Sustainability* (2023) - 11 citations
+  DOI: https://doi.org/10.3390/su15119071
+- Alternatives, traditions, and diversity in agriculture *Agriculture and Human Values* (2000) - 10 citations
+  DOI: https://doi.org/10.1023/a:1007657206667
+- Donna J. Haraway, When Species Meet *Journal of Agricultural and Environmental Ethics* (2008) - 5 citations
+  DOI: https://doi.org/10.1007/s10806-008-9108-7
+
 Recent Publications (from Dimensions.ai):
 - Association of Religious End Time Beliefs with Attitudes toward Climate Change and Biodiversity Loss *Sustainability* (2023) - 9 citations
   DOI: https://doi.org/10.3390/su15119071

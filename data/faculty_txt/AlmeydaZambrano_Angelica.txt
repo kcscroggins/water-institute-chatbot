@@ -41,6 +41,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 17.71 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Multidimensional tropical forest recovery *Science* (2021) - 396 citations
+  DOI: https://doi.org/10.1126/science.abh3629
+- The number of tree species on Earth *Proceedings of the National Academy of Sciences of the United States of America* (2022) - 208 citations
+  DOI: https://doi.org/10.1073/pnas.2115329119
+- Wet and dry tropical forests show opposite successional pathways in wood density but converge over time *Nature Ecology & Evolution* (2019) - 197 citations
+  DOI: https://doi.org/10.1038/s41559-019-0882-6
+- Measuring Individual Tree Diameter and Height Using GatorEye High-Density UAV-Lidar in an Integrated Crop-Livestock-Forest System *Remote Sensing* (2020) - 163 citations
+  DOI: https://doi.org/10.3390/rs12050863
+- Monitoring restored tropical forest diversity and structure through UAV-borne hyperspectral and lidar fusion *Remote Sensing of Environment* (2021) - 154 citations
+  DOI: https://doi.org/10.1016/j.rse.2021.112582
+
 Recent Publications (from Dimensions.ai):
 - Multidimensional tropical forest recovery *Science* (2021) - 384 citations
   DOI: https://doi.org/10.1126/science.abh3629

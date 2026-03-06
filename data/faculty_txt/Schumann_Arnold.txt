@@ -40,6 +40,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 6.85 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Deep learning for image-based weed detection in turfgrass *European Journal of Agronomy* (2019) - 209 citations
+  DOI: https://doi.org/10.1016/j.eja.2019.01.004
+- Weed Detection in Perennial Ryegrass With Deep Learning Convolutional Neural Network *Frontiers in Plant Science* (2019) - 135 citations
+  DOI: https://doi.org/10.3389/fpls.2019.01422
+- Detection of fruit maturity stage and yield estimation in wild blueberry using deep learning convolutional neural networks *Smart Agricultural Technology* (2023) - 102 citations
+  DOI: https://doi.org/10.1016/j.atech.2022.100099
+- Detection of a Potato Disease (Early Blight) Using Artificial Intelligence *Remote Sensing* (2021) - 76 citations
+  DOI: https://doi.org/10.3390/rs13030411
+- Design and Development of a Smart Variable Rate Sprayer Using Deep Learning *Remote Sensing* (2020) - 74 citations
+  DOI: https://doi.org/10.3390/rs12244091
+
 Recent Publications (from Dimensions.ai):
 - Detection of fruit maturity stage and yield estimation in wild blueberry using deep learning convolutional neural networks *Smart Agricultural Technology* (2023) - 101 citations
   DOI: https://doi.org/10.1016/j.atech.2022.100099

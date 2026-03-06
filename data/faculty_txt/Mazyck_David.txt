@@ -39,6 +39,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 0.68 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Impact of Heat Treatment and Composition of ZnO−TiO2 Nanoparticles for Photocatalytic Oxidation of an Azo Dye *Industrial & Engineering Chemistry Research* (2008) - 113 citations
+  DOI: https://doi.org/10.1021/ie071255p
+- Adsorption Enhancement Mechanisms of Silica−Titania Nanocomposites for Elemental Mercury Vapor Removal *Environmental Science and Technology* (2005) - 111 citations
+  DOI: https://doi.org/10.1021/es049202b
+- Optimization of magnetic powdered activated carbon for aqueous Hg(II) removal and magnetic recovery *Journal of Hazardous Materials* (2011) - 103 citations
+  DOI: https://doi.org/10.1016/j.jhazmat.2011.10.023
+- Magnetically Agitated Photocatalytic Reactor for Photocatalytic Oxidation of Aqueous Phase Organic Pollutants *Environmental Science and Technology* (2005) - 72 citations
+  DOI: https://doi.org/10.1021/es0508121
+- The role of surface acidity and pore size distribution in the adsorption of 2-methylisoborneol via powdered activated carbon *Carbon* (2007) - 61 citations
+  DOI: https://doi.org/10.1016/j.carbon.2006.11.009
+
 Recent Publications (from Dimensions.ai):
 - Impact of Inherent Magnesium in Biochar for Phosphate Removal from Reclaimed Water Streams *Journal of Environmental Engineering* (2021) - 7 citations
   DOI: https://doi.org/10.1061/(asce)ee.1943-7870.0001946

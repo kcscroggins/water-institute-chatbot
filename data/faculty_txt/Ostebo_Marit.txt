@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 21.62 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- The silencing of political context in health research in Ethiopia: why it should be a concern *Health Policy and Planning* (2017) - 57 citations
+  DOI: https://doi.org/10.1093/heapol/czx150
+- Health and politics in pandemic times: COVID-19 responses in Ethiopia *Health Policy and Planning* (2021) - 15 citations
+  DOI: https://doi.org/10.1093/heapol/czab091
+- Religion and the ‘Secular shadow’: responses to covid-19 in Ethiopia *Religion* (2021) - 12 citations
+  DOI: https://doi.org/10.1080/0048721x.2021.1943769
+- God’s Wrath in the Era of the Digidemic: Religious Interpretations of Covid-19 in Ethiopia *Journal of the American Academy of Religion* (2021) - 11 citations
+  DOI: https://doi.org/10.1093/jaarel/lfab099
+- Shifting meanings of gender equality in development: Perspectives from Norway and Ethiopia *Progress in Development Studies* (2015) - 8 citations
+  DOI: https://doi.org/10.1177/1464993415608081
+
 Recent Publications (from Dimensions.ai):
 - Health and politics in pandemic times: COVID-19 responses in Ethiopia *Health Policy and Planning* (2021) - 15 citations
   DOI: https://doi.org/10.1093/heapol/czab091

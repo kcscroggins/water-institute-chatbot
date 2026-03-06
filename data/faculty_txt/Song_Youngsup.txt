@@ -37,6 +37,14 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.35 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Advanced Thermal Interface Materials: Insights into Low‐Temperature Sintering and High Thermal Conductivity of MgO *Advanced Materials* (2025) - 5 citations
+  DOI: https://doi.org/10.1002/adma.202510237
+- Interactive Haptic System with Multimodal Tactile Sensing and Hydraulic Feedback for Realistic Human–Machine Interaction *Advanced Intelligent Systems* (2024) - 5 citations
+  DOI: https://doi.org/10.1002/aisy.202400578
+- Simultaneous Heat and Electricity Storage in a Flow Battery System *ACS Omega* (2025) - 0 citations
+  DOI: https://doi.org/10.1021/acsomega.5c04280
+
 Recent Publications (from Dimensions.ai):
 - Interactive Haptic System with Multimodal Tactile Sensing and Hydraulic Feedback for Realistic Human–Machine Interaction *Advanced Intelligent Systems* (2024) - 5 citations
   DOI: https://doi.org/10.1002/aisy.202400578

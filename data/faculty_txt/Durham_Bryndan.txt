@@ -44,6 +44,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 7.49 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Sulfur metabolites in the pelagic ocean *Nature Reviews Microbiology* (2019) - 176 citations
+  DOI: https://doi.org/10.1038/s41579-019-0250-1
+- Viruses affect picocyanobacterial abundance and biogeography in the North Pacific Ocean *Nature Microbiology* (2022) - 68 citations
+  DOI: https://doi.org/10.1038/s41564-022-01088-x
+- Particulate Metabolites and Transcripts Reflect Diel Oscillations of Microbial Activity in the Surface Ocean *mSystems* (2021) - 61 citations
+  DOI: https://doi.org/10.1128/msystems.00896-20
+- The dynamic trophic architecture of open-ocean protist communities revealed through machine-guided metatranscriptomics *Proceedings of the National Academy of Sciences of the United States of America* (2022) - 57 citations
+  DOI: https://doi.org/10.1073/pnas.2100916119
+- Glycine betaine uptake and metabolism in marine microbial communities *Environmental Microbiology* (2022) - 51 citations
+  DOI: https://doi.org/10.1111/1462-2920.16020
+
 Recent Publications (from Dimensions.ai):
 - Viruses affect picocyanobacterial abundance and biogeography in the North Pacific Ocean *Nature Microbiology* (2022) - 65 citations
   DOI: https://doi.org/10.1038/s41564-022-01088-x

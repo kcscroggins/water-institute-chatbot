@@ -37,6 +37,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.11 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Assessment of public awareness, acceptance and attitudes towards renewable energy in Kenya. *Scientific African* (2020) - 98 citations
+  DOI: https://doi.org/10.1016/j.sciaf.2020.e00512
+- Investigating factors affecting renewable energy consumption: A panel data analysis in Sub Saharan Africa *Environmental Challenges* (2021) - 68 citations
+  DOI: https://doi.org/10.1016/j.envc.2021.100092
+- Random preferences towards bioenergy environmental externalities: A case study of woody biomass based electricity in the Southern United States *Energy Economics* (2011) - 56 citations
+  DOI: https://doi.org/10.1016/j.eneco.2011.05.015
+- Comparison of revealed comparative advantage indexes with application to trade tendencies of cellulose production from planted forests in Brazil, Canada, China, Sweden, Finland and the United States *Forest Policy and Economics* (2018) - 52 citations
+  DOI: https://doi.org/10.1016/j.forpol.2018.09.007
+- Public preferences for renewable energy options: A choice experiment in Kenya *Energy Economics* (2021) - 45 citations
+  DOI: https://doi.org/10.1016/j.eneco.2021.105256
+
 Recent Publications (from Dimensions.ai):
 - Investigating factors affecting renewable energy consumption: A panel data analysis in Sub Saharan Africa *Environmental Challenges* (2021) - 68 citations
   DOI: https://doi.org/10.1016/j.envc.2021.100092

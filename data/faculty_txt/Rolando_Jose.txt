@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 6.32 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Key ecosystem services and ecological intensification of agriculture in the tropical high-Andean Puna as affected by land-use and climate changes *Agriculture Ecosystems & Environment* (2017) - 130 citations
+  DOI: https://doi.org/10.1016/j.agee.2016.12.010
+- Defining biological thresholds associated to plant water status for monitoring water restriction effects: Stomatal conductance and photosynthesis recovery as key indicators in potato *Agricultural Water Management* (2016) - 58 citations
+  DOI: https://doi.org/10.1016/j.agwat.2016.08.028
+- Soil organic carbon stocks and fractionation under different land uses in the Peruvian high-Andean Puna *Geoderma* (2017) - 39 citations
+  DOI: https://doi.org/10.1016/j.geoderma.2017.07.037
+- Organic carbon is mostly stored in deep soil and only affected by land use in its superficial layers: A case study *Agrosystems Geosciences & Environment* (2021) - 25 citations
+  DOI: https://doi.org/10.1002/agg2.20135
+- Land Use Effects on Soil Fertility and Nutrient Cycling in the Peruvian High‐Andean Puna Grasslands *Soil Science Society of America Journal* (2018) - 22 citations
+  DOI: https://doi.org/10.2136/sssaj2017.09.0309
+
 Recent Publications (from Dimensions.ai):
 - Organic carbon is mostly stored in deep soil and only affected by land use in its superficial layers: A case study *Agrosystems Geosciences & Environment* (2021) - 24 citations
   DOI: https://doi.org/10.1002/agg2.20135

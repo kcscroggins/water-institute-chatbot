@@ -29,6 +29,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 5.35 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Short- and mid-term forecasts of actual evapotranspiration with deep learning *Journal of Hydrology* (2022) - 67 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2022.128078
+- The Feasibility of Remotely Sensed Near-Infrared Reflectance for Soil Moisture Estimation for Agricultural Water Management *Remote Sensing* (2023) - 7 citations
+  DOI: https://doi.org/10.3390/rs15112736
+- An improved van Genuchten soil water characteristic model to account for surface adsorptive forces *Journal of Hydrology* (2025) - 6 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2025.133692
+- Surface and Subsurface Soil Moisture Estimation Using Fusion of SMAP, NLDAS-2, and SOLUS100 Data with Deep Learning *Remote Sensing* (2025) - 4 citations
+  DOI: https://doi.org/10.3390/rs17040659
+- Estimating soil hydraulic properties from oven-dry to full saturation using shortwave infrared imaging and inverse modeling *Journal of Hydrology* (2024) - 4 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2024.131132
+
 Recent Publications (from Dimensions.ai):
 - Short- and mid-term forecasts of actual evapotranspiration with deep learning *Journal of Hydrology* (2022) - 65 citations
   DOI: https://doi.org/10.1016/j.jhydrol.2022.128078

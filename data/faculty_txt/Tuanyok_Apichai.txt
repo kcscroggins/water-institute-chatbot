@@ -39,6 +39,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.75 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Global and regional dissemination and evolution of Burkholderia pseudomallei *Nature Microbiology* (2017) - 180 citations
+  DOI: https://doi.org/10.1038/nmicrobiol.2016.263
+- Two-Phase Bactericidal Mechanism of Silver Nanoparticles against Burkholderia pseudomallei *PLOS ONE* (2016) - 72 citations
+  DOI: https://doi.org/10.1371/journal.pone.0168098
+- Antibiotic Resistance Markers in Burkholderia pseudomallei Strain Bp1651 Identified by Genome Sequence Analysis *Antimicrobial Agents and Chemotherapy* (2017) - 63 citations
+  DOI: https://doi.org/10.1128/aac.00010-17
+- The Effects of Signal Erosion and Core Genome Reduction on the Identification of Diagnostic Markers *mBio* (2016) - 58 citations
+  DOI: https://doi.org/10.1128/mbio.00846-16
+- Structural diversity of Burkholderia pseudomallei lipopolysaccharides affects innate immune signaling *PLOS Neglected Tropical Diseases* (2017) - 44 citations
+  DOI: https://doi.org/10.1371/journal.pntd.0005571
+
 Recent Publications (from Dimensions.ai):
 - Evidence of a Sjögren's disease-like phenotype following COVID-1 19 in mice and human *JCI Insight* (2023) - 16 citations
   DOI: https://doi.org/10.1172/jci.insight.166540

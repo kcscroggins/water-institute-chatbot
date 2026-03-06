@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 0.82 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Catalyst-Free Vitrimers from Vinyl Polymers *Macromolecules* (2019) - 265 citations
+  DOI: https://doi.org/10.1021/acs.macromol.8b02477
+- Tuning Hydrophobicity To Program Block Copolymer Assemblies from the Inside Out *Macromolecules* (2017) - 191 citations
+  DOI: https://doi.org/10.1021/acs.macromol.6b02754
+- The Next 100 Years of Polymer Science *Macromolecular Chemistry and Physics* (2020) - 103 citations
+  DOI: https://doi.org/10.1002/macp.202000216
+- Redox-Responsive Dynamic-Covalent Assemblies: Stars and Miktoarm Stars *Macromolecules* (2013) - 96 citations
+  DOI: https://doi.org/10.1021/ma400169m
+- Hollow polymer nanocapsules: synthesis, properties, and applications *Polymer Chemistry* (2018) - 76 citations
+  DOI: https://doi.org/10.1039/c8py00142a
+
 Recent Publications (from Dimensions.ai):
 - Allomelanin: A Biopolymer of Intrinsic Microporosity *Journal of the American Chemical Society* (2021) - 70 citations
   DOI: https://doi.org/10.1021/jacs.1c00748

@@ -43,6 +43,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.66 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Towards integrated modeling of the long-term impacts of oil spills *Marine Policy* (2021) - 23 citations
+  DOI: https://doi.org/10.1016/j.marpol.2021.104554
+- Economic Contributions of the Florida Citrus Industry in 2015-16: FE1021, 7/2017 *EDIS* (2018) - 22 citations
+  DOI: https://doi.org/10.32473/edis-fe1021-2017
+- Evaluating the regional economic contributions of US aquaculture: Case study of Florida’s shellfish aquaculture industry *Aquaculture Economics & Management* (2021) - 18 citations
+  DOI: https://doi.org/10.1080/13657305.2020.1869860
+- Accounting for global value chains: rising global inequality in the wake of COVID-19? *International Review of Applied Economics* (2021) - 13 citations
+  DOI: https://doi.org/10.1080/02692171.2021.1912716
+- Impacts of COVID-19 on US agri-food supply chain businesses: Regional survey results *PLOS ONE* (2023) - 12 citations
+  DOI: https://doi.org/10.1371/journal.pone.0281930
+
 Recent Publications (from Dimensions.ai):
 - Towards integrated modeling of the long-term impacts of oil spills *Marine Policy* (2021) - 22 citations
   DOI: https://doi.org/10.1016/j.marpol.2021.104554

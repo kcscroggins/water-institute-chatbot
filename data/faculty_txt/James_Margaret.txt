@@ -37,6 +37,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 1.57 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- TRICLOSAN AS A SUBSTRATE AND INHIBITOR OF 3′-PHOSPHOADENOSINE 5′-PHOSPHOSULFATE-SULFOTRANSFERASE AND UDP-GLUCURONOSYL TRANSFERASE IN HUMAN LIVER FRACTIONS *Drug Metabolism and Disposition* (2004) - 174 citations
+  DOI: https://doi.org/10.1124/dmd.104.000273
+- Differences in the carcinogenic evaluation of glyphosate between the International Agency for Research on Cancer (IARC) and the European Food Safety Authority (EFSA) *Journal of Epidemiology & Community Health* (2016) - 173 citations
+  DOI: https://doi.org/10.1136/jech-2015-207005
+- Cytochromes P450 in crustacea1This article was invited by Guest Editors Dr John J. Stegeman and Dr David R. Livingstone to be part of a special issue of CBP on cytochrome P450 (Comp. Biochem. Physiol. 121 C, pages 1–412, 1998).1 *Comparative Biochemistry and Physiology Part C Toxicology & Pharmacology* (1998) - 133 citations
+  DOI: https://doi.org/10.1016/s0742-8413(98)10036-1
+- Inhibition of sulfotransferases by xenobiotics. *Current Drug Metabolism* (2006) - 132 citations
+  DOI: https://doi.org/10.2174/138920006774832596
+- Therapeutic applications of dichloroacetate and the role of glutathione transferase zeta-1 *Pharmacology & Therapeutics* (2016) - 124 citations
+  DOI: https://doi.org/10.1016/j.pharmthera.2016.10.018
+
 Recent Publications (from Dimensions.ai):
 - 1.21 Drug Metabolism: Phase II Enzymes (2022) - 11 citations
   DOI: https://doi.org/10.1016/b978-0-12-820472-6.00123-7

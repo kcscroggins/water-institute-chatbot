@@ -45,6 +45,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.71 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Development of ecosystem indicators for the Suwannee River estuary: Oyster reef habitat quality along a salinity gradient *Estuaries and Coasts* (2006) - 58 citations
+  DOI: https://doi.org/10.1007/bf02784985
+- Aroma Profile Characterization of Mahi‐Mahi and Tuna for Determining Spoilage Using Purge and Trap Gas Chromatography‐Mass Spectrometry *Journal of Food Science* (2019) - 42 citations
+  DOI: https://doi.org/10.1111/1750-3841.14478
+- Range-wide population structure and history of the northern quahog (Merceneria merceneria) inferred from mitochondrial DNA sequence data *ICES Journal of Marine Science* (2008) - 38 citations
+  DOI: https://doi.org/10.1093/icesjms/fsn007
+- Identifying invasive species threats, pathways, and impacts to improve biosecurity *Ecosphere* (2023) - 34 citations
+  DOI: https://doi.org/10.1002/ecs2.4711
+- GAMETOGENESIS IN THE NON-NATIVE GREEN MUSSEL, PERNA VIRIDIS, AND THE NATIVE SCORCHED MUSSEL, BRACHIDONTES EXUSTUS, IN TAMPA BAY, FLORIDA *Journal of Shellfish Research* (2005) - 28 citations
+  DOI: https://doi.org/10.2983/0730-8000(2005)24[1087:gitngm]2.0.co;2
+
 Recent Publications (from Dimensions.ai):
 - Identifying invasive species threats, pathways, and impacts to improve biosecurity *Ecosphere* (2023) - 34 citations
   DOI: https://doi.org/10.1002/ecs2.4711

@@ -48,6 +48,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.0 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- The gut microbiome and aquatic toxicology: An emerging concept for environmental health *Environmental Toxicology and Chemistry* (2018) - 140 citations
+  DOI: https://doi.org/10.1002/etc.4249
+- Regulation of endocrine systems by the microbiome: Perspectives from comparative animal models *General and Comparative Endocrinology* (2020) - 71 citations
+  DOI: https://doi.org/10.1016/j.ygcen.2020.113437
+- Evaluation of Microbiome-Host Relationships in the Zebrafish Gastrointestinal System Reveals Adaptive Immunity Is a Target of Bis(2-ethylhexyl) Phthalate (DEHP) Exposure *Environmental Science and Technology* (2020) - 70 citations
+  DOI: https://doi.org/10.1021/acs.est.0c00628
+- Antineoplastic Agents: Environmental Prevalence and Adverse Outcomes in Aquatic Organisms *Environmental Toxicology and Chemistry* (2020) - 65 citations
+  DOI: https://doi.org/10.1002/etc.4687
+- Tracking and Quantification of Single-Walled Carbon Nanotubes in Fish Using Near Infrared Fluorescence *Environmental Science and Technology* (2014) - 57 citations
+  DOI: https://doi.org/10.1021/es4046023
+
 Recent Publications (from Dimensions.ai):
 - A multistate assessment of population normalization factors for wastewater-based epidemiology of COVID-19 *PLOS ONE* (2023) - 44 citations
   DOI: https://doi.org/10.1371/journal.pone.0284370

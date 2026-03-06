@@ -30,6 +30,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.82 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Salt Marsh Dynamics in a Period of Accelerated Sea Level Rise *Journal of Geophysical Research Earth Surface* (2020) - 191 citations
+  DOI: https://doi.org/10.1029/2019jf005200
+- A new algorithm for estimating ground elevation and vegetation characteristics in coastal salt marshes from high‐resolution UAV‐based LiDAR point clouds *Earth Surface Processes and Landforms* (2020) - 37 citations
+  DOI: https://doi.org/10.1002/esp.4992
+- Estimating Ground Elevation and Vegetation Characteristics in Coastal Salt Marshes Using UAV-Based LiDAR and Digital Aerial Photogrammetry *Remote Sensing* (2021) - 35 citations
+  DOI: https://doi.org/10.3390/rs13224506
+- Tidal Flow Asymmetry and Discharge of Lateral Tributaries Drive the Evolution of a Microtidal Meander in the Venice Lagoon (Italy) *Journal of Geophysical Research Earth Surface* (2019) - 29 citations
+  DOI: https://doi.org/10.1029/2019jf005193
+- Faunal engineering stimulates landscape-scale accretion in southeastern US salt marshes *Nature Communications* (2023) - 23 citations
+  DOI: https://doi.org/10.1038/s41467-023-36444-w
+
 Recent Publications (from Dimensions.ai):
 - Estimating Ground Elevation and Vegetation Characteristics in Coastal Salt Marshes Using UAV-Based LiDAR and Digital Aerial Photogrammetry *Remote Sensing* (2021) - 35 citations
   DOI: https://doi.org/10.3390/rs13224506

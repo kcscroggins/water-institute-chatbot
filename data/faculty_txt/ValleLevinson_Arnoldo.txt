@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.75 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Density‐driven exchange flow in terms of the Kelvin and Ekman numbers *Journal of Geophysical Research* (2008) - 133 citations
+  DOI: https://doi.org/10.1029/2007jc004144
+- Compound flooding in Houston-Galveston Bay during Hurricane Harvey *The Science of The Total Environment* (2020) - 121 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2020.141272
+- Tidal effects on estuarine circulation and outflow plume in the Chesapeake Bay *Continental Shelf Research* (2007) - 117 citations
+  DOI: https://doi.org/10.1016/j.csr.2006.08.009
+- Spatial and temporal variability of sea level rise hot spots over the eastern United States *Geophysical Research Letters* (2017) - 101 citations
+  DOI: https://doi.org/10.1002/2017gl073926
+- Spatial structure of hydrography and flow in a Chilean fjord, Estuario Reloncaví *Estuaries and Coasts* (2007) - 93 citations
+  DOI: https://doi.org/10.1007/bf02782972
+
 Recent Publications (from Dimensions.ai):
 - Natural and anthropogenic effects on microplastic distribution in a hypersaline lagoon *The Science of The Total Environment* (2021) - 49 citations
   DOI: https://doi.org/10.1016/j.scitotenv.2021.145803

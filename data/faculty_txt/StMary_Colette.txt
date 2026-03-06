@@ -36,6 +36,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - H-Index: 22
 - Average Citations per Paper: 29.0
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Sexual selection for male parental care in the sand goby, Pomatoschistus minutus *Behavioral Ecology and Sociobiology* (2006) - 106 citations
+  DOI: https://doi.org/10.1007/s00265-005-0138-0
+- Agriculture Alters Gonadal Form and Function in the Toad Bufo marinus *Environmental Health Perspectives* (2008) - 98 citations
+  DOI: https://doi.org/10.1289/ehp.11536
+- Rethinking ecological inference: density dependence in reef fishes *Ecology Letters* (2002) - 80 citations
+  DOI: https://doi.org/10.1046/j.1461-0248.2002.00377.x
+- A quantitative framework to evaluate the attraction–production controversy *ICES Journal of Marine Science* (2002) - 74 citations
+  DOI: https://doi.org/10.1006/jmsc.2002.1222
+- PARENTS BENEFIT FROM EATING OFFSPRING: DENSITY‐DEPENDENT EGG SURVIVORSHIP COMPENSATES FOR FILIAL CANNIBALISM *Evolution* (2006) - 55 citations
+  DOI: https://doi.org/10.1111/j.0014-3820.2006.tb01846.x
+
 Research Grants (from Dimensions.ai):
 - The Bioscience Scholars Program: Bringing the Master's Degree Within Reach (2013-2020) - $622,619
   Funder: Directorate for STEM Education

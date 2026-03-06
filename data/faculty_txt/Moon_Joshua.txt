@@ -26,6 +26,12 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Average Citations per Paper: 2.0
 - Open Access Publications: 100.0%
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- CO2-selective transport in PEGDA facilitated transport membranes post-functionalized using click chemistry *Journal of Membrane Science* (2025) - 4 citations
+  DOI: https://doi.org/10.1016/j.memsci.2025.123825
+- Solution‐Like Water Transport Across Molecular to Macroscopic Length Scales in Crosslinked Poly(Ethylene Glycol Diacrylate) Networks With Tailored Sidechains *Journal of Polymer Science* (2025) - 1 citations
+  DOI: https://doi.org/10.1002/pol.20250191
+
 Recent Publications (from Dimensions.ai):
 - CO2-selective transport in PEGDA facilitated transport membranes post-functionalized using click chemistry *Journal of Membrane Science* (2025) - 3 citations
   DOI: https://doi.org/10.1016/j.memsci.2025.123825

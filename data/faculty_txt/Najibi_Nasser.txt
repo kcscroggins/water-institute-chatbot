@@ -22,6 +22,12 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Average Citations per Paper: 0.5
 - Open Access Publications: 100.0%
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Shifting Patterns in the Weather Regimes That Drive Regional Drought: Demonstration for South Africa *International Journal of Climatology* (2025) - 2 citations
+  DOI: https://doi.org/10.1002/joc.8866
+- Uncertainty in estimating the relative change of design floods under climate change: a stylized experiment with process-based, deep learning, and hybrid models *Journal of Hydrology* (2026) - 1 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2025.134427
+
 Recent Publications (from Dimensions.ai):
 - Shifting Patterns in the Weather Regimes That Drive Regional Drought: Demonstration for South Africa *International Journal of Climatology* (2025) - 1 citations
   DOI: https://doi.org/10.1002/joc.8866

@@ -39,6 +39,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 5.57 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Groundwater system and climate change: Present status and future considerations *Journal of Hydrology* (2020) - 272 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2020.125163
+- Sediment dynamics in the lowermost Mississippi River *Engineering Geology* (1996) - 153 citations
+  DOI: https://doi.org/10.1016/s0013-7952(96)00026-9
+- How much is enough? An integrated examination of energy security, economic growth and climate change related to hydropower expansion in Brazil *Renewable and Sustainable Energy Reviews* (2016) - 108 citations
+  DOI: https://doi.org/10.1016/j.rser.2015.09.050
+- Comparison of different spatial interpolation methods for historical hydrographic data of the lowermost Mississippi River *Annals of GIS* (2019) - 90 citations
+  DOI: https://doi.org/10.1080/19475683.2019.1588781
+- Channel planform and land cover changes on a mined river floodplain Amite River, Louisiana, USA *Applied Geography* (1997) - 56 citations
+  DOI: https://doi.org/10.1016/s0143-6228(96)00026-4
+
 Recent Publications (from Dimensions.ai):
 - Hydrological Drought Forecasting Using a Deep Transformer Model *Water* (2022) - 49 citations
   DOI: https://doi.org/10.3390/w14223611

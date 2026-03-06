@@ -37,6 +37,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.07 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Naturally confused: consumers’ perceptions of all-natural and organic pork products *Agriculture and Human Values* (2009) - 84 citations
+  DOI: https://doi.org/10.1007/s10460-009-9234-5
+- Warming up to climate change: a participatory approach to engaging with agricultural stakeholders in the Southeast US *Regional Environmental Change* (2012) - 74 citations
+  DOI: https://doi.org/10.1007/s10113-012-0371-9
+- ADVOCACY ADVERTISING FOR BIOTECHNOLOGY: The Effect of Public Accountability on Corporate Trust and Attitude Toward the Ad *Journal of Advertising* (2005) - 58 citations
+  DOI: https://doi.org/10.1080/00913367.2005.10639203
+- Why Do Cattle Ranchers Participate in Conservation Easement Agreements? Key Motivators in Decision Making *Agroecology and Sustainable Food Systems* (2014) - 33 citations
+  DOI: https://doi.org/10.1080/21683565.2013.819479
+- Extending technologies among small-scale farmers in Meru, Kenya: Ingredients for success in farmer groups *The Journal of Agricultural Education and Extension* (2004) - 23 citations
+  DOI: https://doi.org/10.1080/13892240485300101
+
 Recent Publications (from Dimensions.ai):
 - The Florida Water and Climate Alliance (FloridaWCA): Developing a Stakeholder–Scientist Partnership to Create Actionable Science in Climate Adaptation and Water Resource Management *Bulletin of the American Meteorological Society* (2021) - 12 citations
   DOI: https://doi.org/10.1175/bams-d-19-0302.1

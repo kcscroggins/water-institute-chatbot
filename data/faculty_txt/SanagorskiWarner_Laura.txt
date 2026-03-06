@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.82 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Barriers to community garden success: Demonstrating framework for expert consensus to inform policy and practice *Urban Forestry & Urban Greening* (2018) - 49 citations
+  DOI: https://doi.org/10.1016/j.ufug.2018.02.014
+- Classifying Residents who use Landscape Irrigation: Implications for Encouraging Water Conservation Behavior *Environmental Management* (2016) - 43 citations
+  DOI: https://doi.org/10.1007/s00267-016-0706-2
+- Amplifying the Theory of Planned behavior with connectedness to water to inform impactful water conservation program planning and evaluation *The Journal of Agricultural Education and Extension* (2020) - 33 citations
+  DOI: https://doi.org/10.1080/1389224x.2020.1844771
+- Diffusion of water-saving irrigation innovations in Florida’s urban residential landscapes *Urban Forestry & Urban Greening* (2020) - 30 citations
+  DOI: https://doi.org/10.1016/j.ufug.2019.126540
+- Diffusing Water Conservation and Treatment Technologies to Nursery and Greenhouse Growers *Journal of International Agricultural and Extension Education* (2017) - 24 citations
+  DOI: https://doi.org/10.5191/jiaee.2017.24110
+
 Recent Publications (from Dimensions.ai):
 - Who conserves and who approves? Predicting water conservation intentions in urban landscapes with referent groups beyond the traditional ‘important others’ *Urban Forestry & Urban Greening* (2021) - 20 citations
   DOI: https://doi.org/10.1016/j.ufug.2021.127070

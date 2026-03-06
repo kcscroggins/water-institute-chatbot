@@ -37,6 +37,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 1.71 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Conservation technology adoption decisions and the theory of planned behavior *Journal of Economic Psychology* (1995) - 218 citations
+  DOI: https://doi.org/10.1016/0167-4870(95)00031-6
+- Economic Impacts of Citrus Greening (HLB) in Florida, 2006/07–2010/11: FE903/FE903, 1/2012 *EDIS* (2012) - 102 citations
+  DOI: https://doi.org/10.32473/edis-fe903-2012
+- Potential Economic Impact of Laurel Wilt Disease on the Florida Avocado Industry *HortTechnology* (2010) - 75 citations
+  DOI: https://doi.org/10.21273/horttech.20.1.234
+- Estimating the value of ecosystem services in a mixed-use watershed: A choice experiment approach *Ecosystem Services* (2017) - 70 citations
+  DOI: https://doi.org/10.1016/j.ecoser.2016.12.015
+- Economic Impacts of the Turfgrass and Lawncare Industry in the United States: FE632/FE632, 4/2006 *EDIS* (2006) - 58 citations
+  DOI: https://doi.org/10.32473/edis-fe632-2006
+
 Recent Publications (from Dimensions.ai):
 - Exploring market choices in the US ornamental horticulture industry *Agribusiness* (2022) - 8 citations
   DOI: https://doi.org/10.1002/agr.21769

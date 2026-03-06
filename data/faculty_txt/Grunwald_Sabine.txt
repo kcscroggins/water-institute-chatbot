@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 24.53 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Artificial intelligence for geoscience: Progress, challenges, and perspectives *The Innovation* (2024) - 353 citations
+  DOI: https://doi.org/10.1016/j.xinn.2024.100691
+- Soil Security: Solving the Global Soil Crisis *Global Policy* (2013) - 314 citations
+  DOI: https://doi.org/10.1111/1758-5899.12096
+- Digital mapping of soil carbon fractions with machine learning *Geoderma* (2019) - 247 citations
+  DOI: https://doi.org/10.1016/j.geoderma.2018.12.037
+- A systematic study on the application of scatter-corrective and spectral-derivative preprocessing for multivariate prediction of soil organic carbon by Vis-NIR spectra *Geoderma* (2018) - 246 citations
+  DOI: https://doi.org/10.1016/j.geoderma.2017.11.006
+- The Brazilian Soil Spectral Library (BSSL): A general view, application and challenges *Geoderma* (2019) - 158 citations
+  DOI: https://doi.org/10.1016/j.geoderma.2019.05.043
+
 Recent Publications (from Dimensions.ai):
 - Artificial intelligence for geoscience: Progress, challenges, and perspectives *The Innovation* (2024) - 326 citations
   DOI: https://doi.org/10.1016/j.xinn.2024.100691

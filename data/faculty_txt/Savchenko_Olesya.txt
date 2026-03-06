@@ -27,6 +27,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 4.27 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Does food processing mitigate consumers’ concerns about crops grown with recycled water? *Food Policy* (2019) - 24 citations
+  DOI: https://doi.org/10.1016/j.foodpol.2019.101748
+- Is a non-representative convenience sample of adults good enough? Insights from an economic experiment *Journal of the Economic Science Association* (2023) - 23 citations
+  DOI: https://doi.org/10.1007/s40881-023-00135-5
+- Mitigating stigma associated with recycled water *American Journal of Agricultural Economics* (2021) - 10 citations
+  DOI: https://doi.org/10.1111/ajae.12256
+- Intention Versus Action: Household Adoption of Best Management Practices for Water Quality *Water Resources Research* (2022) - 5 citations
+  DOI: https://doi.org/10.1029/2021wr029684
+- Encouraging pro-environmental behavior: Do testimonials by experts work? *PLOS ONE* (2023) - 2 citations
+  DOI: https://doi.org/10.1371/journal.pone.0291612
+
 Recent Publications (from Dimensions.ai):
 - Is a non-representative convenience sample of adults good enough? Insights from an economic experiment *Journal of the Economic Science Association* (2023) - 21 citations
   DOI: https://doi.org/10.1007/s40881-023-00135-5

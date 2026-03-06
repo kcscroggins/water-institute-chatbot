@@ -37,6 +37,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 0.65 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- A review of biochar as a low-cost adsorbent for aqueous heavy metal removal *Critical Reviews in Environmental Science and Technology* (2015) - 1267 citations
+  DOI: https://doi.org/10.1080/10643389.2015.1096880
+- Removal of heavy metals from aqueous solution by biochars derived from anaerobically digested biomass *Bioresource Technology* (2012) - 727 citations
+  DOI: https://doi.org/10.1016/j.biortech.2012.01.072
+- Removal of phosphate from aqueous solution by biochar derived from anaerobically digested sugar beet tailings *Journal of Hazardous Materials* (2011) - 559 citations
+  DOI: https://doi.org/10.1016/j.jhazmat.2011.03.083
+- Biochar derived from anaerobically digested sugar beet tailings: Characterization and phosphate removal potential *Bioresource Technology* (2011) - 558 citations
+  DOI: https://doi.org/10.1016/j.biortech.2011.03.006
+- Biochar from anaerobically digested sugarcane bagasse *Bioresource Technology* (2010) - 429 citations
+  DOI: https://doi.org/10.1016/j.biortech.2010.06.088
+
 Recent Publications (from Dimensions.ai):
 - Efficacy evaluation of an air-assisted electrostatic disinfection device for the effective disinfection and sanitization against the spread of pathogenic infections *Journal of Electrostatics* (2023) - 8 citations
   DOI: https://doi.org/10.1016/j.elstat.2023.103807

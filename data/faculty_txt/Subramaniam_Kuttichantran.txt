@@ -21,6 +21,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.54 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Viable SARS-CoV-2 in the air of a hospital room with COVID-19 patients *International Journal of Infectious Diseases* (2020) - 655 citations
+  DOI: https://doi.org/10.1016/j.ijid.2020.09.025
+- ICTV Virus Taxonomy Profile: Iridoviridae *Journal of General Virology* (2017) - 242 citations
+  DOI: https://doi.org/10.1099/jgv.0.000818
+- Ranaviruses and other members of the family Iridoviridae: Their place in the virosphere *Virology* (2017) - 115 citations
+  DOI: https://doi.org/10.1016/j.virol.2017.06.007
+- Megalocytivirus infection in cultured Nile tilapia Oreochromis niloticus. *Diseases of Aquatic Organisms* (2016) - 86 citations
+  DOI: https://doi.org/10.3354/dao02985
+- A New Family of DNA Viruses Causing Disease in Crustaceans from Diverse Aquatic Biomes *mBio* (2020) - 68 citations
+  DOI: https://doi.org/10.1128/mbio.02938-19
+
 Recent Publications (from Dimensions.ai):
 - Genotypic Characterization of Infectious Spleen and Kidney Necrosis Virus (ISKNV) in Southeast Asian Aquaculture *Transboundary and Emerging Diseases* (2023) - 22 citations
   DOI: https://doi.org/10.1155/2023/6643006

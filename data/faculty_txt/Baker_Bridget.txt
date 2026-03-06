@@ -60,6 +60,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.42 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Nonlethal detection of PFAS bioaccumulation and biomagnification within fishes in an urban- and wastewater-dominant Great Lakes watershed *Environmental Pollution* (2023) - 36 citations
+  DOI: https://doi.org/10.1016/j.envpol.2023.121123
+- Identification and quantification of novel per- and polyfluoroalkyl substances (PFAS) contamination in a Great Lakes urban-dominated watershed *The Science of The Total Environment* (2024) - 15 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2024.173325
+- Developmental Phenotypic and Transcriptomic Effects of Exposure to Nanomolar Levels of 4-Nonylphenol, Triclosan, and Triclocarban in Zebrafish (Danio rerio) *Toxics* (2022) - 14 citations
+  DOI: https://doi.org/10.3390/toxics10020053
+- Adult-Onset Transcriptomic Effects of Developmental Exposure to Benzene in Zebrafish (Danio rerio): Evaluating a Volatile Organic Compound of Concern *International Journal of Molecular Sciences* (2023) - 7 citations
+  DOI: https://doi.org/10.3390/ijms242216212
+- Phenotypic and transcriptomic effects of developmental exposure to nanomolar levels of pesticides in zebrafish *Environmental Advances* (2022) - 5 citations
+  DOI: https://doi.org/10.1016/j.envadv.2021.100151
+
 Recent Publications (from Dimensions.ai):
 - Nonlethal detection of PFAS bioaccumulation and biomagnification within fishes in an urban- and wastewater-dominant Great Lakes watershed *Environmental Pollution* (2023) - 35 citations
   DOI: https://doi.org/10.1016/j.envpol.2023.121123

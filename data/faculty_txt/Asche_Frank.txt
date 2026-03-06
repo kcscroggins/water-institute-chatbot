@@ -67,6 +67,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 33.8 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- A Global Blue Revolution: Aquaculture Growth Across Regions, Species, and Countries *Reviews in Fisheries Science & Aquaculture* (2019) - 443 citations
+  DOI: https://doi.org/10.1080/23308249.2019.1678111
+- A review of global oyster aquaculture production and consumption *Marine Policy* (2020) - 281 citations
+  DOI: https://doi.org/10.1016/j.marpol.2020.103952
+- Emerging COVID-19 impacts, responses, and lessons for building resilience in the seafood system *Global Food Security* (2021) - 242 citations
+  DOI: https://doi.org/10.1016/j.gfs.2021.100494
+- The decline of mussel aquaculture in the European Union: causes, economic impacts and opportunities *Reviews in Aquaculture* (2020) - 224 citations
+  DOI: https://doi.org/10.1111/raq.12465
+- Scenarios for Global Aquaculture and Its Role in Human Nutrition *Reviews in Fisheries Science & Aquaculture* (2020) - 221 citations
+  DOI: https://doi.org/10.1080/23308249.2020.1782342
+
 Recent Publications (from Dimensions.ai):
 - Emerging COVID-19 impacts, responses, and lessons for building resilience in the seafood system *Global Food Security* (2021) - 242 citations
   DOI: https://doi.org/10.1016/j.gfs.2021.100494

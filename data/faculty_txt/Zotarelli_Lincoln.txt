@@ -40,6 +40,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 9.23 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Tomato yield, biomass accumulation, root distribution and irrigation water use efficiency on a sandy soil, as affected by nitrogen rate and irrigation scheduling *Agricultural Water Management* (2009) - 278 citations
+  DOI: https://doi.org/10.1016/j.agwat.2008.06.007
+- Microaggregate-associated carbon as a diagnostic fraction for management-induced changes in soil organic carbon in two Oxisols *Soil Biology and Biochemistry* (2007) - 214 citations
+  DOI: https://doi.org/10.1016/j.soilbio.2006.12.024
+- Tillage effect on C stocks of a clayey Oxisol under a soybean-based crop rotation in the Brazilian Cerrado region *Soil and Tillage Research* (2007) - 123 citations
+  DOI: https://doi.org/10.1016/j.still.2006.11.005
+- Step by Step Calculation of the Penman-Monteith Evapotranspiration (FAO-56 Method): AE459, 2/2010 *EDIS* (2024) - 118 citations
+  DOI: https://doi.org/10.32473/edis-ae459-2010
+- Assimilation of SMOS Soil Moisture for Quantifying Drought Impacts on Crop Yield in Agricultural Regions *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (2014) - 114 citations
+  DOI: https://doi.org/10.1109/jstars.2014.2315999
+
 Recent Publications (from Dimensions.ai):
 - Step by Step Calculation of the Penman-Monteith Evapotranspiration (FAO-56 Method): AE459, 2/2010 *EDIS* (2024) - 112 citations
   DOI: https://doi.org/10.32473/edis-ae459-2010

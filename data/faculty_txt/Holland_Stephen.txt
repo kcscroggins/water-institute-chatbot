@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 28.5 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- A Structural Model for Examining how Destination Image, Perceived Value, and Service Quality Affect Destination Loyalty: a Case Study of Orlando *International Journal of Tourism Research* (2012) - 224 citations
+  DOI: https://doi.org/10.1002/jtr.1877
+- The determinants of hospitality employees’ pro-environmental behaviors: The moderating role of generational differences *International Journal of Hospitality Management* (2016) - 167 citations
+  DOI: https://doi.org/10.1016/j.ijhm.2015.09.013
+- Local communities and protected areas: The mediating role of place attachment for pro-environmental civic engagement *Journal of Outdoor Recreation and Tourism* (2014) - 165 citations
+  DOI: https://doi.org/10.1016/j.jort.2014.01.001
+- Place attachment as a mediator of the relationship between nature-based recreation benefits and future visit intentions *Journal of Sustainable Tourism* (2012) - 131 citations
+  DOI: https://doi.org/10.1080/09669582.2011.610508
+- Structural relationships between environmental attitudes, recreation motivations, and environmentally responsible behaviors *Journal of Outdoor Recreation and Tourism* (2014) - 118 citations
+  DOI: https://doi.org/10.1016/j.jort.2014.09.010
+
 Recent Publications (from Dimensions.ai):
 - EXCESS workshop: Descriptions of rising low-energy spectra *SciPost Physics Proceedings* (2022) - 80 citations
   DOI: https://doi.org/10.21468/scipostphysproc.9.001

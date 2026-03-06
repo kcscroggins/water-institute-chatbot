@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 0.46 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Comparison of Aminocyclopyrachlor to Common Herbicides for Kudzu (Pueraria montana) Management *Invasive Plant Science and Management* (2011) - 22 citations
+  DOI: https://doi.org/10.1614/ipsm-d-11-00024.1
+- Exotic Eucalyptus plantations in the southeastern US: risk assessment, management and policy approaches *Biological Invasions* (2015) - 17 citations
+  DOI: https://doi.org/10.1007/s10530-015-0844-0
+- REMOVAL OF NITROGEN AND PHOSPHORUS BY EUCALYPTUS AND POPULUS AT A TERTIARY TREATED MUNICIPAL WASTEWATER SPRAYFIELD *International Journal of Phytoremediation* (2012) - 17 citations
+  DOI: https://doi.org/10.1080/15226514.2011.649435
+- Potential Invasiveness for Eucalyptus Species in Florida *Invasive Plant Science and Management* (2015) - 14 citations
+  DOI: https://doi.org/10.1614/ipsm-d-14-00030.1
+- Selective herbicides for establishment of Eucalyptus benthamii plantations *New Forests* (2018) - 11 citations
+  DOI: https://doi.org/10.1007/s11056-018-9637-5
+
 Recent Publications (from Dimensions.ai):
 - Eucalyptus Amplifolia and Corymbia Torelliana in the Southeastern USA: Genetic Improvement and Potential Uses *Forests* (2022) - 3 citations
   DOI: https://doi.org/10.3390/f13010075

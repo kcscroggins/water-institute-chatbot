@@ -39,6 +39,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 0.14 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Event-based size distributions of particulate matter transported during urban rainfall-runoff events *Water Research* (2008) - 124 citations
+  DOI: https://doi.org/10.1016/j.watres.2008.02.005
+- Comparison of Sorptive Filter Media for Treatment of Metals in Runoff *Journal of Environmental Engineering* (2005) - 82 citations
+  DOI: https://doi.org/10.1061/(asce)0733-9372(2005)131:8(1178)
+- Discrete Phase Model Representation of Particulate Matter (PM) for Simulating PM Separation by Hydrodynamic Unit Operations *Environmental Science and Technology* (2009) - 56 citations
+  DOI: https://doi.org/10.1021/es901527r
+- Suspended particle destabilization in retained urban stormwater as a function of coagulant dosage and redox conditions *Water Research* (2007) - 50 citations
+  DOI: https://doi.org/10.1016/j.watres.2007.08.037
+- Transport of Particulate Matter Fractions in Urban Source Area Pavement Surface Runoff *Journal of Environmental Quality* (2008) - 48 citations
+  DOI: https://doi.org/10.2134/jeq2007.0495
+
 Recent Publications (from Dimensions.ai):
 - Gravimetric and Number Distributions of Urban PM Residuals from Urban Maintenance Practices *Journal of Environmental Engineering* (2021) - 1 citations
   DOI: https://doi.org/10.1061/(asce)ee.1943-7870.0001955

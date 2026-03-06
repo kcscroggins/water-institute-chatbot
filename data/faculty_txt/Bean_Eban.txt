@@ -49,6 +49,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.01 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Field Survey of Permeable Pavement Surface Infiltration Rates *Journal of Irrigation and Drainage Engineering* (2007) - 229 citations
+  DOI: https://doi.org/10.1061/(asce)0733-9437(2007)133:3(249)
+- Evaluation of Four Permeable Pavement Sites in Eastern North Carolina for Runoff Reduction and Water Quality Impacts *Journal of Irrigation and Drainage Engineering* (2007) - 183 citations
+  DOI: https://doi.org/10.1061/(asce)0733-9437(2007)133:6(583)
+- Applications of carbonaceous adsorbents in the remediation of polycyclic aromatic hydrocarbon-contaminated sediments: A review *Journal of Cleaner Production* (2020) - 92 citations
+  DOI: https://doi.org/10.1016/j.jclepro.2020.120263
+- Stormwater ponds: An overlooked but plentiful urban designer ecosystem provides invasive plant habitat in a subtropical region (Florida, USA) *The Science of The Total Environment* (2019) - 44 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2019.135133
+- Constructed Wetlands for Water Quality Improvement: A Synthesis on Nutrient Reduction from Agricultural Effluents *Journal of the ASABE* (2021) - 34 citations
+  DOI: https://doi.org/10.13031/trans.13976
+
 Recent Publications (from Dimensions.ai):
 - Constructed Wetlands for Water Quality Improvement: A Synthesis on Nutrient Reduction from Agricultural Effluents *Journal of the ASABE* (2021) - 33 citations
   DOI: https://doi.org/10.13031/trans.13976

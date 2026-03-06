@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.92 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Nutrient loads exported from managed catchments reveal emergent biogeochemical stationarity *Geophysical Research Letters* (2010) - 408 citations
+  DOI: https://doi.org/10.1029/2010gl045168
+- Do geographically isolated wetlands influence landscape functions? *Proceedings of the National Academy of Sciences of the United States of America* (2016) - 375 citations
+  DOI: https://doi.org/10.1073/pnas.1512650113
+- Wetlands as large-scale nature-based solutions: Status and challenges for research, engineering and management *Ecological Engineering* (2017) - 303 citations
+  DOI: https://doi.org/10.1016/j.ecoleng.2017.07.012
+- Enhancing protection for vulnerable waters *Nature Geoscience* (2017) - 178 citations
+  DOI: https://doi.org/10.1038/ngeo3041
+- Field Implementation of a Winsor Type I Surfactant/Alcohol Mixture for in Situ Solubilization of a Complex LNAPL as a Single-Phase Microemulsion *Environmental Science and Technology* (1998) - 121 citations
+  DOI: https://doi.org/10.1021/es970507i
+
 Recent Publications (from Dimensions.ai):
 - Theoretical and empirical evidence against the Budyko catchment trajectory conjecture *Hydrology and Earth System Sciences* (2022) - 50 citations
   DOI: https://doi.org/10.5194/hess-26-1507-2022

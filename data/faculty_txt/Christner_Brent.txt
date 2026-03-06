@@ -48,6 +48,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 5.35 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Microbial oxidation as a methane sink beneath the West Antarctic Ice Sheet *Nature Geoscience* (2017) - 104 citations
+  DOI: https://doi.org/10.1038/ngeo2992
+- Microbial Community Structure of Subglacial Lake Whillans, West Antarctica *Frontiers in Microbiology* (2016) - 76 citations
+  DOI: https://doi.org/10.3389/fmicb.2016.01457
+- Scientific access into Mercer Subglacial Lake: scientific objectives, drilling operations and initial observations *Annals of Glaciology* (2021) - 62 citations
+  DOI: https://doi.org/10.1017/aog.2021.10
+- Wildland fire as an atmospheric source of viable microbial aerosols and biological ice nucleating particles *The ISME Journal: Multidisciplinary Journal of Microbial Ecology* (2020) - 57 citations
+  DOI: https://doi.org/10.1038/s41396-020-00788-8
+- Wildland fire smoke alters the composition, diversity, and potential atmospheric function of microbial life in the aerobiome *ISME Communications* (2022) - 52 citations
+  DOI: https://doi.org/10.1038/s43705-022-00089-5
+
 Recent Publications (from Dimensions.ai):
 - Scientific access into Mercer Subglacial Lake: scientific objectives, drilling operations and initial observations *Annals of Glaciology* (2021) - 62 citations
   DOI: https://doi.org/10.1017/aog.2021.10

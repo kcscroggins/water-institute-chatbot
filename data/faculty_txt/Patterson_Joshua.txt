@@ -37,6 +37,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 4.39 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Optimizing return‐on‐effort for coral nursery and outplanting practices to aid restoration of the Great Barrier Reef *Restoration Ecology* (2019) - 64 citations
+  DOI: https://doi.org/10.1111/rec.12916
+- Metabolomic profiles differ among unique genotypes of a threatened Caribbean coral *Scientific Reports* (2019) - 57 citations
+  DOI: https://doi.org/10.1038/s41598-019-42434-0
+- A scuticociliate causes mass mortality of Diadema antillarum in the Caribbean Sea *Science Advances* (2023) - 53 citations
+  DOI: https://doi.org/10.1126/sciadv.adg3200
+- Intraspecific variation in phenotype among nursery-reared staghorn coral Acropora cervicornis (Lamarck, 1816) *Journal of Experimental Marine Biology and Ecology* (2017) - 48 citations
+  DOI: https://doi.org/10.1016/j.jembe.2016.10.005
+- Evaluation of staghorn coral (Acropora cervicornis, Lamarck 1816) production techniques in an ocean-based nursery with consideration of coral genotype *Journal of Experimental Marine Biology and Ecology* (2017) - 38 citations
+  DOI: https://doi.org/10.1016/j.jembe.2016.11.013
+
 Recent Publications (from Dimensions.ai):
 - A scuticociliate causes mass mortality of Diadema antillarum in the Caribbean Sea *Science Advances* (2023) - 51 citations
   DOI: https://doi.org/10.1126/sciadv.adg3200

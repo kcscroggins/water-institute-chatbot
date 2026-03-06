@@ -37,6 +37,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 10.69 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Aligned macrocycle pores in ultrathin films for accurate molecular sieving *Nature* (2022) - 297 citations
+  DOI: https://doi.org/10.1038/s41586-022-05032-1
+- A few-layer covalent network of fullerenes *Nature* (2023) - 239 citations
+  DOI: https://doi.org/10.1038/s41586-022-05401-w
+- Intrinsically thermally conductive polymers *Materials Horizons* (2024) - 37 citations
+  DOI: https://doi.org/10.1039/d3mh01796f
+- Selective Electrochemical Modification and Degradation of Polymers *Angewandte Chemie International Edition* (2024) - 29 citations
+  DOI: https://doi.org/10.1002/anie.202403026
+- Layered 3D Covalent Organic Framework Films Based on Carbon–Carbon Bonds *Journal of the American Chemical Society* (2023) - 23 citations
+  DOI: https://doi.org/10.1021/jacs.3c06621
+
 Recent Publications (from Dimensions.ai):
 - Aligned macrocycle pores in ultrathin films for accurate molecular sieving *Nature* (2022) - 289 citations
   DOI: https://doi.org/10.1038/s41586-022-05032-1

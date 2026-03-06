@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 7.89 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Advancements in Fish Vaccination: Current Innovations and Future Horizons in Aquaculture Health Management *Applied Sciences* (2024) - 42 citations
+  DOI: https://doi.org/10.3390/app14135672
+- Pathogenicity and immunogenicity of Edwardsiella piscicida ferric uptake regulator (fur) mutations in zebrafish *Fish & Shellfish Immunology* (2020) - 26 citations
+  DOI: https://doi.org/10.1016/j.fsi.2020.10.029
+- Advances and Challenges in Aeromonas hydrophila Vaccine Development: Immunological Insights and Future Perspectives *Vaccines* (2025) - 22 citations
+  DOI: https://doi.org/10.3390/vaccines13020202
+- Recombinant Attenuated Edwardsiella piscicida Vaccine Displaying Regulated Lysis to Confer Biological Containment and Protect Catfish against Edwardsiellosis *Vaccines* (2023) - 14 citations
+  DOI: https://doi.org/10.3390/vaccines11091470
+- Virulence, immunogenicity and live vaccine potential of aroA and phoP mutants of Edwardsiella piscicida in zebrafish *Microbial Pathogenesis* (2021) - 13 citations
+  DOI: https://doi.org/10.1016/j.micpath.2021.105355
+
 Recent Publications (from Dimensions.ai):
 - Advancements in Fish Vaccination: Current Innovations and Future Horizons in Aquaculture Health Management *Applied Sciences* (2024) - 33 citations
   DOI: https://doi.org/10.3390/app14135672

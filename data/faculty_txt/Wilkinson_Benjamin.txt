@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 4.31 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Small Unmanned Aircraft Systems for Low‐Altitude Aerial Surveys *Journal of Wildlife Management* (2010) - 114 citations
+  DOI: https://doi.org/10.1111/j.1937-2817.2010.tb01292.x
+- Detecting successional changes in tropical forest structure using GatorEye drone‐borne lidar *Biotropica* (2020) - 53 citations
+  DOI: https://doi.org/10.1111/btp.12814
+- Deep and Machine Learning Image Classification of Coastal Wetlands Using Unpiloted Aircraft System Multispectral Images and Lidar Datasets *Remote Sensing* (2022) - 45 citations
+  DOI: https://doi.org/10.3390/rs14163937
+- Canopy tree density and species influence tree regeneration patterns and woody species diversity in a longleaf pine forest *Forest Ecology and Management* (2021) - 43 citations
+  DOI: https://doi.org/10.1016/j.foreco.2021.119082
+- Small Unmanned Aircraft Systems for Low-Altitude Aerial Surveys *Journal of Wildlife Management* (2010) - 41 citations
+  DOI: https://doi.org/10.2193/2009-425
+
 Recent Publications (from Dimensions.ai):
 - Deep and Machine Learning Image Classification of Coastal Wetlands Using Unpiloted Aircraft System Multispectral Images and Lidar Datasets *Remote Sensing* (2022) - 44 citations
   DOI: https://doi.org/10.3390/rs14163937

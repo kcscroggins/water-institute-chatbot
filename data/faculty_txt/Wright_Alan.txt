@@ -39,6 +39,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.46 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Comammox Nitrospira clade B contributes to nitrification in soil *Soil Biology and Biochemistry* (2019) - 148 citations
+  DOI: https://doi.org/10.1016/j.soilbio.2019.06.004
+- Sensitivity of Labile Soil Organic Carbon to Tillage in Wheat‐Based Cropping Systems *Soil Science Society of America Journal* (2008) - 109 citations
+  DOI: https://doi.org/10.2136/sssaj2007.0230
+- Loss‐on‐Ignition Method to Assess Soil Organic Carbon in Calcareous Everglades Wetlands *Communications in Soil Science and Plant Analysis* (2008) - 100 citations
+  DOI: https://doi.org/10.1080/00103620802432931
+- Tillage-induced changes in fungal and bacterial biomass associated with soil aggregates: A long-term field study in a subtropical rice soil in China *Applied Soil Ecology* (2011) - 83 citations
+  DOI: https://doi.org/10.1016/j.apsoil.2011.03.009
+- Stratification of nutrients in soil for different tillage regimes and cotton rotations *Soil and Tillage Research* (2007) - 74 citations
+  DOI: https://doi.org/10.1016/j.still.2007.02.005
+
 Recent Publications (from Dimensions.ai):
 - Carbon nanoparticles improve corn (Zea mays L.) growth and soil quality: Comparison of foliar spray and soil drench application *Journal of Cleaner Production* (2022) - 46 citations
   DOI: https://doi.org/10.1016/j.jclepro.2022.132630

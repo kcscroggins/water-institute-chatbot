@@ -36,6 +36,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 12.11 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Real-Time PCR Analysis of Vibrio vulnificus from Oysters *Applied and Environmental Microbiology* (2003) - 144 citations
+  DOI: https://doi.org/10.1128/aem.69.12.7137-7144.2003
+- Expression of Vibrio vulnificus Capsular Polysaccharide Inhibits Biofilm Formation *Journal of Bacteriology* (2004) - 120 citations
+  DOI: https://doi.org/10.1128/jb.186.3.889-893.2004
+- Nutritional Value and Food Safety of Bivalve Molluscan Shellfish *Journal of Shellfish Research* (2018) - 109 citations
+  DOI: https://doi.org/10.2983/035.037.0403
+- Methods for isolation and confirmation of Vibrio vulnificus from oysters and environmental sources: a review *Journal of Microbiological Methods* (2004) - 91 citations
+  DOI: https://doi.org/10.1016/j.mimet.2004.08.001
+- Identification of a Group 1-Like Capsular Polysaccharide Operon for Vibrio vulnificus *Infection and Immunity* (2001) - 85 citations
+  DOI: https://doi.org/10.1128/iai.69.11.6893-6901.2001
+
 Recent Publications (from Dimensions.ai):
 - Baseline Features and Reasons for Nonparticipation in the Colonoscopy Versus Fecal Immunochemical Test in Reducing Mortality From Colorectal Cancer (CONFIRM) Study, a Colorectal Cancer Screening Trial *JAMA Network Open* (2023) - 24 citations
   DOI: https://doi.org/10.1001/jamanetworkopen.2023.21730

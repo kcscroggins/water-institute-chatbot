@@ -39,6 +39,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 1.31 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Phosphorus Immobilization in Micropores of Drinking-Water Treatment Residuals: Implications for Long-Term Stability *Environmental Science and Technology* (2004) - 154 citations
+  DOI: https://doi.org/10.1021/es049161j
+- A review of the fate and transport of nitrogen, phosphorus, pathogens, and trace organic chemicals in septic systems *Critical Reviews in Environmental Science and Technology* (2017) - 130 citations
+  DOI: https://doi.org/10.1080/10643389.2017.1327787
+- Growth and Canopy Characteristics of Field‐Grown Tomato *Agronomy Journal* (2000) - 79 citations
+  DOI: https://doi.org/10.2134/agronj2000.921152x
+- A Comparison of In Situ Methods for Measuring Net Nitrogen Mineralization Rates of Organic Soil Amendments *Journal of Environmental Quality* (2004) - 73 citations
+  DOI: https://doi.org/10.2134/jeq2004.1098
+- Intraparticle phosphorus diffusion in a drinking water treatment residual at room temperature *Journal of Colloid and Interface Science* (2004) - 69 citations
+  DOI: https://doi.org/10.1016/j.jcis.2004.05.001
+
 Recent Publications (from Dimensions.ai):
 - 2023–2024 Florida Citrus Production Guide: Irrigation Management of Citrus Trees: CPG ch. 14, CG093/CPG12, rev. 5/2023 *EDIS* (2023) - 4 citations
   DOI: https://doi.org/10.32473/edis-cg093-2023

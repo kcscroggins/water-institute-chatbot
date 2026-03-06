@@ -46,6 +46,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 1.6 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Climate Disruption and Planning: Resistance or Retreat? *Planning Theory & Practice* (2020) - 56 citations
+  DOI: https://doi.org/10.1080/14649357.2020.1704130
+- Sea-Level Rise, Inundation, and Marsh Migration: Simulating Impacts on Developed Lands and Environmental Systems *Journal of Coastal Research* (2014) - 42 citations
+  DOI: https://doi.org/10.2112/jcoastres-d-13-00215.1
+- The Rural Planning Perspective at an Opportune Time *Journal of Planning Literature* (2014) - 39 citations
+  DOI: https://doi.org/10.1177/0885412214542050
+- Rural Planning in the Twenty-First Century: Context-Appropriate Practices in a Connected World *Journal of Planning Education and Research* (2016) - 27 citations
+  DOI: https://doi.org/10.1177/0739456x16655599
+- Comparative Rural Planning Cultures *Planning Theory & Practice* (2020) - 17 citations
+  DOI: https://doi.org/10.1080/14649357.2020.1853438
+
 Recent Publications (from Dimensions.ai):
 - Bringing Rurality Back to Planning Culture *Journal of Planning Education and Research* (2021) - 11 citations
   DOI: https://doi.org/10.1177/0739456x211048933

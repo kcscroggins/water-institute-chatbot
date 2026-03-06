@@ -40,6 +40,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.37 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Deep learning-based postharvest strawberry bruise detection under UV and incandescent light *Computers and Electronics in Agriculture* (2022) - 41 citations
+  DOI: https://doi.org/10.1016/j.compag.2022.107389
+- Hop (Humulus lupulus L.) phenology, growth, and yield under subtropical climatic conditions: Effects of cultivars and crop management *Australian Journal of Crop Science* (2021) - 23 citations
+  DOI: https://doi.org/10.21475/ajcs.21.15.05.p3192
+- White-striped plastic mulch reduces root-zone temperatures during establishment and increases early season yields of annual winter strawberry *Scientia Horticulturae* (2019) - 23 citations
+  DOI: https://doi.org/10.1016/j.scienta.2018.09.018
+- Development and improvement of the CROPGRO-Strawberry model *Scientia Horticulturae* (2022) - 22 citations
+  DOI: https://doi.org/10.1016/j.scienta.2021.110538
+- Advanced canopy size estimation in strawberry production: a machine learning approach using YOLOv11 and SAM *Computers and Electronics in Agriculture* (2025) - 20 citations
+  DOI: https://doi.org/10.1016/j.compag.2025.110501
+
 Recent Publications (from Dimensions.ai):
 - Deep learning-based postharvest strawberry bruise detection under UV and incandescent light *Computers and Electronics in Agriculture* (2022) - 39 citations
   DOI: https://doi.org/10.1016/j.compag.2022.107389

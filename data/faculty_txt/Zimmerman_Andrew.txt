@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 9.48 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- A review of biochar as a low-cost adsorbent for aqueous heavy metal removal *Critical Reviews in Environmental Science and Technology* (2015) - 1267 citations
+  DOI: https://doi.org/10.1080/10643389.2015.1096880
+- Positive and negative carbon mineralization priming effects among a variety of biochar-amended soils *Soil Biology and Biochemistry* (2011) - 1247 citations
+  DOI: https://doi.org/10.1016/j.soilbio.2011.02.005
+- Abiotic and Microbial Oxidation of Laboratory-Produced Black Carbon (Biochar) *Environmental Science and Technology* (2010) - 981 citations
+  DOI: https://doi.org/10.1021/es903140c
+- Heterogeneity of biochar properties as a function of feedstock sources and production temperatures *Journal of Hazardous Materials* (2013) - 911 citations
+  DOI: https://doi.org/10.1016/j.jhazmat.2013.04.015
+- Effect of biochar amendment on sorption and leaching of nitrate, ammonium, and phosphate in a sandy soil *Chemosphere* (2012) - 893 citations
+  DOI: https://doi.org/10.1016/j.chemosphere.2012.06.002
+
 Recent Publications (from Dimensions.ai):
 - Mechanisms and adsorption capacities of hydrogen peroxide modified ball milled biochar for the removal of methylene blue from aqueous solutions *Bioresource Technology* (2021) - 163 citations
   DOI: https://doi.org/10.1016/j.biortech.2021.125432

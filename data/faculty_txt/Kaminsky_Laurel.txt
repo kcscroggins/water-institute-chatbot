@@ -39,6 +39,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 0.66 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- A first phylogenetic assessment of Dictyonema s.lat. in southeastern North America reveals three new basidiolichens, described in honor of James D. Lawrey *Plant and Fungal Systematics* (2019) - 9 citations
+  DOI: https://doi.org/10.2478/pfs-2019-0025
+- Think globally, barcode locally: nine years of macrofungi sampling reveals extensive biodiversity at the ordway-swisher biological station, a subtropical site in Florida *Fungal Biology* (2025) - 2 citations
+  DOI: https://doi.org/10.1016/j.funbio.2025.101643
+- Assessment of Macrolichen Diversity at Ordway-Swisher Biological Station in Northern Florida Contributes to the Scientific Mission of NEON *Castanea* (2024) - 1 citations
+  DOI: https://doi.org/10.2179/0008-7475.89.1.1
+- A digitization workflow of dry-pinned collections of Lepidoptera *ZooKeys* (2025) - 0 citations
+  DOI: https://doi.org/10.3897/zookeys.1264.134756
+- More exceptions than rules: Variable effects of ectomycorrhizal fungi on leaf litter decomposition in temperate pine forests *Journal of Ecology* (2025) - 0 citations
+  DOI: https://doi.org/10.1111/1365-2745.70197
+
 Recent Publications (from Dimensions.ai):
 - Think globally, barcode locally: nine years of macrofungi sampling reveals extensive biodiversity at the ordway-swisher biological station, a subtropical site in Florida *Fungal Biology* (2025) - 2 citations
   DOI: https://doi.org/10.1016/j.funbio.2025.101643

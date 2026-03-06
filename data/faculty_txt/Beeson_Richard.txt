@@ -51,6 +51,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 0.38 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Micropropagation of blueberry ‘Bluejay’ and ‘Pink Lemonade’ through in vitro shoot culture *Scientia Horticulturae* (2017) - 49 citations
+  DOI: https://doi.org/10.1016/j.scienta.2017.08.052
+- Nursery Production Method Affects Root Growth *Journal of Environmental Horticulture* (1996) - 24 citations
+  DOI: https://doi.org/10.24266/0738-2898-14.2.88
+- Production Method Affects Tree Establishment in the Landscape *Journal of Environmental Horticulture* (1996) - 21 citations
+  DOI: https://doi.org/10.24266/0738-2898-14.2.81
+- Nutrient Leaching from Mixed‐Species Florida Residential Landscapes *Journal of Environmental Quality* (2013) - 16 citations
+  DOI: https://doi.org/10.2134/jeq2013.04.0126
+- A Nursery and Greenhouse Online Knowledge Center: Learning Opportunities for Sustainable Practice *HortTechnology* (2010) - 13 citations
+  DOI: https://doi.org/10.21273/horttech.20.3.509
+
 Recent Publications (from Dimensions.ai):
 - A Practical Guide for Peach Irrigation Scheduling in Florida: HS1413, 5/2021 *EDIS* (2021) - 3 citations
   DOI: https://doi.org/10.32473/edis-hs1413-2021

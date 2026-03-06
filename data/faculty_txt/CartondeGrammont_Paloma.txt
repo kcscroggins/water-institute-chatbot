@@ -54,6 +54,16 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Average Citations per Paper: 4.5
 - Open Access Publications: 100.0%
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- New Records of Bark and Ambrosia Beetles (Coleoptera: Scolytinae) from Cuba with Description of a New Species *Florida Entomologist* (2020) - 11 citations
+  DOI: https://doi.org/10.1653/024.102.0408
+- Peering into the Cuba phytosanitary black box: An institutional and policy analysis *PLOS ONE* (2020) - 4 citations
+  DOI: https://doi.org/10.1371/journal.pone.0239808
+- A bioeconomic model for estimating potential economic damages from a hypothetical Asian beetle introduced via future trade with Cuba *Journal of Bioeconomics* (2019) - 4 citations
+  DOI: https://doi.org/10.1007/s10818-019-09289-x
+- Stakeholder-Informed Environmental-Economic Tradeoffs at the Farm and Forest Scale *SSRN Electronic Journal* (2025) - 0 citations
+  DOI: https://doi.org/10.2139/ssrn.5527371
+
 Recent Publications (from Dimensions.ai):
 - Stakeholder-Informed Environmental-Economic Tradeoffs at the Farm and Forest Scale *SSRN Electronic Journal* (2025)
   DOI: https://doi.org/10.2139/ssrn.5527371

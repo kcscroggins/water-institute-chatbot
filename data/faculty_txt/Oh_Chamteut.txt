@@ -40,6 +40,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.83 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Application of neighborhood-scale wastewater-based epidemiology in low COVID-19 incidence situations *The Science of The Total Environment* (2022) - 25 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2022.158448
+- Portable, single nucleotide polymorphism-specific duplex assay for virus surveillance in wastewater *The Science of The Total Environment* (2023) - 15 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2023.168701
+- Improved performance of nucleic acid-based assays for genetically diverse norovirus surveillance *Applied and Environmental Microbiology* (2023) - 5 citations
+  DOI: https://doi.org/10.1128/aem.00331-23
+- Building Environmental and Sociological Predictive Intelligence to Understand the Seasonal Threat of SARS-CoV-2 in Human Populations *American Journal of Tropical Medicine and Hygiene* (2024) - 4 citations
+  DOI: https://doi.org/10.4269/ajtmh.23-0077
+- Effective Removal of Enteric Viruses by Moringa oleifera Seed Extract Functionalized Cotton Filter *ACS ES&T Water* (2024) - 3 citations
+  DOI: https://doi.org/10.1021/acsestwater.4c00194
+
 Recent Publications (from Dimensions.ai):
 - Application of neighborhood-scale wastewater-based epidemiology in low COVID-19 incidence situations *The Science of The Total Environment* (2022) - 25 citations
   DOI: https://doi.org/10.1016/j.scitotenv.2022.158448

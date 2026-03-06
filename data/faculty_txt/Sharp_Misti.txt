@@ -35,6 +35,14 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.52 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- The Impact of COVID-19 on management of non-industrial private forests in the Southeastern United States *Trees Forests and People* (2021) - 13 citations
+  DOI: https://doi.org/10.1016/j.tfp.2021.100159
+- Non-industrial private forest owners' preferences for fuel reduction cost-share programs in the southeastern U.S. *Forest Policy and Economics* (2023) - 5 citations
+  DOI: https://doi.org/10.1016/j.forpol.2023.102994
+- Attitudes about Sea Level Rise Adaptation: Comparison between Miami-Dade and the Rest of Florida: FE1084, 10/2020 *EDIS* (2020) - 0 citations
+  DOI: https://doi.org/10.32473/edis-fe1084-2020
+
 Recent Publications (from Dimensions.ai):
 - The Impact of COVID-19 on management of non-industrial private forests in the Southeastern United States *Trees Forests and People* (2021) - 13 citations
   DOI: https://doi.org/10.1016/j.tfp.2021.100159

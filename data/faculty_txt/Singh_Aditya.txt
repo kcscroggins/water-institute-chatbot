@@ -35,6 +35,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 63.9 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Global Burden of Cardiovascular Diseases and Risks, 1990-2022 *Journal of the American College of Cardiology* (2023) - 1251 citations
+  DOI: https://doi.org/10.1016/j.jacc.2023.11.007
+- Foliar functional traits from imaging spectroscopy across biomes in eastern North America *New Phytologist* (2020) - 193 citations
+  DOI: https://doi.org/10.1111/nph.16711
+- Leaf reflectance spectra capture the evolutionary history of seed plants *New Phytologist* (2020) - 125 citations
+  DOI: https://doi.org/10.1111/nph.16771
+- Mapping foliar functional traits and their uncertainties across three years in a grassland experiment *Remote Sensing of Environment* (2019) - 122 citations
+  DOI: https://doi.org/10.1016/j.rse.2018.11.016
+- A remote sensing derived data set of 100 million individual tree crowns for the National Ecological Observatory Network *eLife* (2021) - 73 citations
+  DOI: https://doi.org/10.7554/elife.62922
+
 Recent Publications (from Dimensions.ai):
 - Global Burden of Cardiovascular Diseases and Risks, 1990-2022 *Journal of the American College of Cardiology* (2023) - 1177 citations
   DOI: https://doi.org/10.1016/j.jacc.2023.11.007

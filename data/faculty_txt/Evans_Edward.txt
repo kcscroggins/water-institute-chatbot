@@ -43,6 +43,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 4.57 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Mango Production, Global Trade, Consumption Trends, and Postharvest Processing and Nutrition (2017) - 77 citations
+  DOI: https://doi.org/10.1002/9781119014362.ch1
+- Potential Economic Impact of Laurel Wilt Disease on the Florida Avocado Industry *HortTechnology* (2010) - 75 citations
+  DOI: https://doi.org/10.21273/horttech.20.1.234
+- Banana Production, Global Trade, Consumption Trends, Postharvest Handling, and Processing (2020) - 60 citations
+  DOI: https://doi.org/10.1002/9781119528265.ch1
+- Toward Fungicidal Management of Laurel Wilt of Avocado. *Plant Disease* (2011) - 54 citations
+  DOI: https://doi.org/10.1094/pdis-08-10-0595
+- The Future of Global Banana Production (2015) - 47 citations
+  DOI: https://doi.org/10.1002/9781119107781.ch06
+
 Recent Publications (from Dimensions.ai):
 - Saltwater Intrusion and Flooding: Risks to South Florida’s Agriculture and Potential Management Practices: AE572/AE572, 5/2022 *EDIS* (2022) - 13 citations
   DOI: https://doi.org/10.32473/edis-ae572-2022

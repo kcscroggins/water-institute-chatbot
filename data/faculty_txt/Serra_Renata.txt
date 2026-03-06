@@ -36,6 +36,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 7.73 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Child fostering in Africa: When labor and schooling motives may coexist *Journal of Development Economics* (2009) - 67 citations
+  DOI: https://doi.org/10.1016/j.jdeveco.2008.01.002
+- Effects of climate change and livelihood diversification on the gendered productivity gap in Northern Ghana *Climate and Development* (2019) - 39 citations
+  DOI: https://doi.org/10.1080/17565529.2019.1689093
+- A systematic review of economic assessments for brucellosis control interventions in livestock populations *Preventive Veterinary Medicine* (2023) - 29 citations
+  DOI: https://doi.org/10.1016/j.prevetmed.2023.105878
+- Gender and intersectional analysis of livestock vaccine value chains in Kaffrine, Senegal *PLOS ONE* (2021) - 29 citations
+  DOI: https://doi.org/10.1371/journal.pone.0252045
+- The Promises of a New Social Capital Agenda *The Journal of Development Studies* (2011) - 21 citations
+  DOI: https://doi.org/10.1080/00220388.2010.547938
+
 Recent Publications (from Dimensions.ai):
 - A systematic review of economic assessments for brucellosis control interventions in livestock populations *Preventive Veterinary Medicine* (2023) - 29 citations
   DOI: https://doi.org/10.1016/j.prevetmed.2023.105878

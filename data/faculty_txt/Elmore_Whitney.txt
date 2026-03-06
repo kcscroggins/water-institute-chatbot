@@ -40,6 +40,16 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Average Citations per Paper: 0.2
 - Open Access Publications: 100.0%
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Septic Systems and Springs Water Quality: An Overview for Florida: SS693/SL480, 10/2020 *EDIS* (2020) - 1 citations
+  DOI: https://doi.org/10.32473/edis-ss693-2020
+- Sandbag Disposal: Environmental and Practical Considerations After the Storm: FCS3402/FY1545, 2/2025 *EDIS* (2025) - 0 citations
+  DOI: https://doi.org/10.32473/edis-fy1545-2025
+- Xylella fastidiosa and Olive Quick Decline: Symptoms and Identification of an Insect Vectored Pathogen: ENY988/IN1165, 2/2017 *EDIS* (2020) - 0 citations
+  DOI: https://doi.org/10.32473/edis-in1165-2017
+- Landscaping on or near Septic Drain Fields: SL474/SS687, 9/2020 *EDIS* (2020) - 0 citations
+  DOI: https://doi.org/10.32473/edis-ss687-2020
+
 Recent Publications (from Dimensions.ai):
 - Sandbag Disposal: Environmental and Practical Considerations After the Storm: FCS3402/FY1545, 2/2025 *EDIS* (2025)
   DOI: https://doi.org/10.32473/edis-fy1545-2025

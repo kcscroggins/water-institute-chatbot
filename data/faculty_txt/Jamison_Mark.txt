@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 1.18 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Broadband and contributions to economic growth: Lessons from the US experience *Telecommunications Policy* (2009) - 153 citations
+  DOI: https://doi.org/10.1016/j.telpol.2009.08.008
+- Net Neutrality Policies and Regulation in the United States *Review of Network Economics* (2018) - 45 citations
+  DOI: https://doi.org/10.1515/rne-2018-0041
+- Bureaucrats as entrepreneurs: Do municipal telecommunications providers hinder private entrepreneurs? *Information Economics and Policy* (2008) - 25 citations
+  DOI: https://doi.org/10.1016/j.infoecopol.2007.10.004
+- Whose call is it? Targeting universal service programs to low-income households’ telecommunications preferences *Telecommunications Policy* (2009) - 19 citations
+  DOI: https://doi.org/10.1016/j.telpol.2008.11.006
+- Emerging Patterns in Global Telecommunications Alliances and Mergers *Industrial and Corporate Change* (1998) - 18 citations
+  DOI: https://doi.org/10.1093/icc/7.4.695
+
 Recent Publications (from Dimensions.ai):
 - Perspectives on political influences on changes in telecommunications and internet economy markets *Telecommunications Policy* (2025) - 3 citations
   DOI: https://doi.org/10.1016/j.telpol.2024.102901

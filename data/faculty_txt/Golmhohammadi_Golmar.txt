@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 6.5 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Artificial Intelligence in Hydrology: Advancements in Soil, Water Resource Management, and Sustainable Development *Sustainability* (2025) - 31 citations
+  DOI: https://doi.org/10.3390/su17052250
+- Projections of meteorological drought severity-duration variations based on CMIP6 *Scientific Reports* (2024) - 27 citations
+  DOI: https://doi.org/10.1038/s41598-024-55340-x
+- Soil temperature forecasting using a hybrid artificial neural network in Florida subtropical grazinglands agro-ecosystems *Scientific Reports* (2024) - 27 citations
+  DOI: https://doi.org/10.1038/s41598-023-48025-4
+- Compilation simulation of surface water and groundwater resources using the SWAT-MODFLOW model for a karstic basin in Iran *Hydrogeology Journal* (2023) - 20 citations
+  DOI: https://doi.org/10.1007/s10040-023-02620-x
+- Assessing Climate Change Impact on Water Balance Components Using Integrated Groundwater–Surface Water Models (Case Study: Shazand Plain, Iran) *Water* (2023) - 15 citations
+  DOI: https://doi.org/10.3390/w15040813
+
 Recent Publications (from Dimensions.ai):
 - Artificial Intelligence in Hydrology: Advancements in Soil, Water Resource Management, and Sustainable Development *Sustainability* (2025) - 27 citations
   DOI: https://doi.org/10.3390/su17052250

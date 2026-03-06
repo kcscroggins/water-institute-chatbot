@@ -34,6 +34,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 5.06 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- A global-scale screening of non-native aquatic organisms to identify potentially invasive species under current and future climate conditions *The Science of The Total Environment* (2021) - 136 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2021.147868
+- Landscape-scale survey of non-native fishes near ornamental aquaculture facilities in Florida, USA *Biological Invasions* (2016) - 32 citations
+  DOI: https://doi.org/10.1007/s10530-016-1275-2
+- Lower Lethal Temperature for Arapaima Arapaima gigas: Potential Implications for Culture and Establishment in Florida *North American Journal of Aquaculture* (2015) - 28 citations
+  DOI: https://doi.org/10.1080/15222055.2015.1066471
+- Variation in cold tolerance in escaped and farmed non-native green swordtails (Xiphophorus hellerii) revealed by laboratory trials and field introductions *Biological Invasions* (2015) - 21 citations
+  DOI: https://doi.org/10.1007/s10530-015-0988-y
+- Coastal restoration evaluated using dominant habitat characteristics and associated fish communities *PLOS ONE* (2020) - 20 citations
+  DOI: https://doi.org/10.1371/journal.pone.0240623
+
 Recent Publications (from Dimensions.ai):
 - A global-scale screening of non-native aquatic organisms to identify potentially invasive species under current and future climate conditions *The Science of The Total Environment* (2021) - 135 citations
   DOI: https://doi.org/10.1016/j.scitotenv.2021.147868

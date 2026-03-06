@@ -43,6 +43,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 6.74 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Combining Ecosystem and Single-Species Modeling to Provide Ecosystem-Based Fisheries Management Advice Within Current Management Systems *Frontiers in Marine Science* (2021) - 122 citations
+  DOI: https://doi.org/10.3389/fmars.2020.607831
+- An Ecosystem‐Based Approach to Evaluating Impacts and Management of Invasive Lionfish *Fisheries* (2017) - 56 citations
+  DOI: https://doi.org/10.1080/03632415.2017.1340273
+- Recommendations on the Use of Ecosystem Modeling for Informing Ecosystem‐Based Fisheries Management and Restoration Outcomes in the Gulf of Mexico *Marine and Coastal Fisheries* (2017) - 54 citations
+  DOI: https://doi.org/10.1080/19425120.2017.1330786
+- Making spatial-temporal marine ecosystem modelling better – A perspective *Environmental Modelling & Software* (2021) - 53 citations
+  DOI: https://doi.org/10.1016/j.envsoft.2021.105209
+- Simulating the Trophic Impacts of Fishery Policy Options on the West Florida Shelf Using Ecopath with Ecosim *Marine and Coastal Fisheries* (2015) - 48 citations
+  DOI: https://doi.org/10.1080/19425120.2014.966216
+
 Recent Publications (from Dimensions.ai):
 - Combining Ecosystem and Single-Species Modeling to Provide Ecosystem-Based Fisheries Management Advice Within Current Management Systems *Frontiers in Marine Science* (2021) - 120 citations
   DOI: https://doi.org/10.3389/fmars.2020.607831

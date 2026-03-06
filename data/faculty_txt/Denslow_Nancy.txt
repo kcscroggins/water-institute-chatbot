@@ -43,6 +43,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 9.49 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Benchmarking Organic Micropollutants in Wastewater, Recycled Water and Drinking Water with In Vitro Bioassays *Environmental Science and Technology* (2013) - 418 citations
+  DOI: https://doi.org/10.1021/es403899t
+- Comparison of Molecular and Histological Changes in Zebrafish Gills Exposed to Metallic Nanoparticles *Toxicological Sciences* (2008) - 395 citations
+  DOI: https://doi.org/10.1093/toxsci/kfn256
+- Vitellogenin as a Biomarker of Exposure for Estrogen or Estrogen Mimics *Ecotoxicology* (1999) - 249 citations
+  DOI: https://doi.org/10.1023/a:1008986522208
+- Human exposure to polycyclic aromatic hydrocarbons: Metabolomics perspective *Environment International* (2018) - 237 citations
+  DOI: https://doi.org/10.1016/j.envint.2018.07.017
+- Endocrine disrupting chemicals in fish: Developing exposure indicators and predictive models of effects based on mechanism of action *Aquatic Toxicology* (2009) - 233 citations
+  DOI: https://doi.org/10.1016/j.aquatox.2009.01.013
+
 Recent Publications (from Dimensions.ai):
 - Systematic assessment of long-read RNA-seq methods for transcript identification and quantification *Nature Methods* (2024) - 181 citations
   DOI: https://doi.org/10.1038/s41592-024-02298-3

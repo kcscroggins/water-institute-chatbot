@@ -45,6 +45,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.51 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Effects of particle composition and species on toxicity of metallic nanomaterials in aquatic organisms *Environmental Toxicology and Chemistry* (2008) - 836 citations
+  DOI: https://doi.org/10.1897/08-002.1
+- Dispersion and Toxicity of Selected Manufactured Nanomaterials in Natural River Water Samples: Effects of Water Chemical Composition *Environmental Science and Technology* (2009) - 258 citations
+  DOI: https://doi.org/10.1021/es803315v
+- Mercury Biogeochemistry in the Idrija River, Slovenia, from above the Mine into the Gulf of Trieste *Environmental Research* (2000) - 183 citations
+  DOI: https://doi.org/10.1006/enrs.2000.4052
+- Aluminum drinking water treatment residuals (Al-WTRs) as sorbent for mercury: Implications for soil remediation *Journal of Hazardous Materials* (2008) - 126 citations
+  DOI: https://doi.org/10.1016/j.jhazmat.2008.07.121
+- Children's exposure to environmental lead: A review of potential sources, blood levels, and methods used to reduce exposure *Environmental Research* (2021) - 77 citations
+  DOI: https://doi.org/10.1016/j.envres.2021.112025
+
 Recent Publications (from Dimensions.ai):
 - Children's exposure to environmental lead: A review of potential sources, blood levels, and methods used to reduce exposure *Environmental Research* (2021) - 76 citations
   DOI: https://doi.org/10.1016/j.envres.2021.112025

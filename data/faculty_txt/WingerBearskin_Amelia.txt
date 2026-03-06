@@ -38,6 +38,10 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Average Citations per Paper: 0.0
 - Open Access Publications: 100.0%
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Covid Reflections: AR in Public Health Communications (2022) - 0 citations
+  DOI: https://doi.org/10.1145/3562939.3565666
+
 Recent Publications (from Dimensions.ai):
 - Covid Reflections: AR in Public Health Communications (2022)
   DOI: https://doi.org/10.1145/3562939.3565666

@@ -36,6 +36,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 1.99 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Altered pairing behaviour and reproductive success in white ibises exposed to environmentally relevant concentrations of methylmercury *Proceedings of the Royal Society B* (2010) - 167 citations
+  DOI: https://doi.org/10.1098/rspb.2010.2189
+- Restoring the eastern oyster: how much progress has been made in 53 years? *Frontiers in Ecology and the Environment* (2018) - 163 citations
+  DOI: https://doi.org/10.1002/fee.1935
+- The White Ibis and Wood Stork as indicators for restoration of the everglades ecosystem *Ecological Indicators* (2009) - 135 citations
+  DOI: https://doi.org/10.1016/j.ecolind.2008.10.012
+- METHYLMERCURY ACCUMULATION IN TISSUES AND ITS EFFECTS ON GROWTH AND APPETITE IN CAPTIVE GREAT EGRETS *Journal of Wildlife Diseases* (2000) - 134 citations
+  DOI: https://doi.org/10.7589/0090-3558-36.3.411
+- HISTOLOGIC, NEUROLOGIC, AND IMMUNOLOGIC EFFECTS OF METHYLMERCURY IN CAPTIVE GREAT EGRETS *Journal of Wildlife Diseases* (2000) - 113 citations
+  DOI: https://doi.org/10.7589/0090-3558-36.3.423
+
 Recent Publications (from Dimensions.ai):
 - A general deep learning model for bird detection in high‐resolution airborne imagery *Ecological Applications* (2022) - 65 citations
   DOI: https://doi.org/10.1002/eap.2694

@@ -47,6 +47,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 6.49 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Effects of cryptic mortality and the hidden costs of using length limits in fishery management *Fish and Fisheries* (2007) - 210 citations
+  DOI: https://doi.org/10.1111/j.1467-2679.2007.00247.x
+- Rethinking length‐based fisheries regulations: the value of protecting old and large fish with harvest slots *Fish and Fisheries* (2013) - 171 citations
+  DOI: https://doi.org/10.1111/faf.12053
+- The impacts of mangrove range expansion on wetland ecosystem services in the southeastern United States: Current understanding, knowledge gaps, and emerging research needs *Global Change Biology* (2022) - 95 citations
+  DOI: https://doi.org/10.1111/gcb.16111
+- Understanding and Managing Social–Ecological Feedbacks in Spatially Structured Recreational Fisheries: The Overlooked Behavioral Dimension *Fisheries* (2016) - 87 citations
+  DOI: https://doi.org/10.1080/03632415.2016.1207632
+- Preparing for a changing future in recreational fisheries: 100 research questions for global consideration emerging from a horizon scan *Reviews in Fish Biology and Fisheries* (2020) - 83 citations
+  DOI: https://doi.org/10.1007/s11160-020-09595-y
+
 Recent Publications (from Dimensions.ai):
 - The impacts of mangrove range expansion on wetland ecosystem services in the southeastern United States: Current understanding, knowledge gaps, and emerging research needs *Global Change Biology* (2022) - 90 citations
   DOI: https://doi.org/10.1111/gcb.16111

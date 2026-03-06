@@ -35,6 +35,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Average Citations per Paper: 3.5
 - Open Access Publications: 100.0%
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Southern Strategies for Handling the Black Feeble-minded: From Social Control to Profound Indifference *Journal of Policy History* (1991) - 30 citations
+  DOI: https://doi.org/10.1017/s0898030600004826
+- The Public Face of Southern Institutions for the "Feeble-Minded" *The Public Historian* (2005) - 17 citations
+  DOI: https://doi.org/10.1525/tph.2005.27.2.25
+- Susan Burch. Signs of Resistance: American Deaf Cultural History, 1900 to World War II. (The History of Disability Series.) New York: New York University Press. 2002. Pp. ix, 230. $38.00 *The American Historical Review* (2003) - 3 citations
+  DOI: https://doi.org/10.1086/ahr/108.3.853
+- Institutions for People with Disabilities in North America (2018) - 2 citations
+  DOI: https://doi.org/10.1093/oxfordhb/9780190234959.013.0019
+- The Struggle for Black Freedom in Miami: Civil Rights and America's Tourist Paradise, 18961968 by Chanelle N. Rose *Journal of History* (2016) - 2 citations
+  DOI: https://doi.org/10.3138/cjh.ach.51.3.rev32
+
 Recent Publications (from Dimensions.ai):
 - Peculiar Places: A Queer Crip History of White Rural Nonconformity *Agricultural History* (2022)
   DOI: https://doi.org/10.1215/00021482-10009991

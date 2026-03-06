@@ -39,6 +39,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.3 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- A systematic review of equine personality *Applied Animal Behaviour Science* (2020) - 32 citations
+  DOI: https://doi.org/10.1016/j.applanim.2020.105076
+- A Survey of Horse Selection, Longevity, and Retirement in Equine-Assisted Services in the United States *Animals* (2021) - 20 citations
+  DOI: https://doi.org/10.3390/ani11082333
+- Technical note: ShinyAnimalCV: open-source cloud-based web application for object detection, segmentation, and three-dimensional visualization of animals using computer vision *Journal of Animal Science* (2023) - 10 citations
+  DOI: https://doi.org/10.1093/jas/skad416
+- Digestibility and nitrogen and water balance in horses fed rhizoma peanut hay *Journal of Animal Science* (2021) - 6 citations
+  DOI: https://doi.org/10.1093/jas/skab284
+- Characterization of Forage Utilization and Pasture Management Practices on Florida Horse Operations *Journal of Equine Veterinary Science* (2020) - 6 citations
+  DOI: https://doi.org/10.1016/j.jevs.2020.103253
+
 Recent Publications (from Dimensions.ai):
 - A Survey of Horse Selection, Longevity, and Retirement in Equine-Assisted Services in the United States *Animals* (2021) - 20 citations
   DOI: https://doi.org/10.3390/ani11082333

@@ -39,6 +39,14 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 27.9 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Maternal and Newborn Hospital Outcomes of Perinatal SARS-CoV-2 Infection: A National Registry. (2023) - 38 citations
+  DOI: https://doi.org/10.1542/peds.2022-059595
+- Electrical activation in silicon-on-insulator after low energy boron implantation *Journal of Applied Physics* (2004) - 14 citations
+  DOI: https://doi.org/10.1063/1.1769095
+- Disaster Assistance for Agriculture in Florida following Hurricane Idalia: FE1147, 6/2024 *EDIS* (2024) - 0 citations
+  DOI: https://doi.org/10.32473/edis-fe1147-2024
+
 Recent Publications (from Dimensions.ai):
 - Maternal and Newborn Hospital Outcomes of Perinatal SARS-CoV-2 Infection: A National Registry. (2023) - 38 citations
   DOI: https://doi.org/10.1542/peds.2022-059595

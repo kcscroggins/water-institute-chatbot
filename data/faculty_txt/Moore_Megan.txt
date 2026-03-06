@@ -43,6 +43,10 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Average Citations per Paper: 4.0
 - Open Access Publications: 100.0%
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Dual clumped isotopes reveal an out-of-equilibrium state in shallow-water carbonate sediments on Great Bahama Bank *Earth and Planetary Science Letters* (2025) - 4 citations
+  DOI: https://doi.org/10.1016/j.epsl.2025.119322
+
 Recent Publications (from Dimensions.ai):
 - Dual clumped isotopes reveal an out-of-equilibrium state in shallow-water carbonate sediments on Great Bahama Bank *Earth and Planetary Science Letters* (2025) - 4 citations
   DOI: https://doi.org/10.1016/j.epsl.2025.119322

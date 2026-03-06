@@ -39,6 +39,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.35 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Density‐Dependent Habitat Selection And Performance By A Large Mobile Reef Fish *Ecological Applications* (2006) - 93 citations
+  DOI: https://doi.org/10.1890/1051-0761(2006)016[0731:dhsapb]2.0.co;2
+- Comparative age and growth of Nile tilapia (Oreochromis niloticus L.) in lakes Nabugabo and Wamala, Uganda *Hydrobiologia* (2007) - 52 citations
+  DOI: https://doi.org/10.1007/s10750-007-0746-y
+- Spatial predictions of blue shark (Prionace glauca) catch rate and catch probability of juveniles in the Southwest Atlantic *ICES Journal of Marine Science* (2011) - 46 citations
+  DOI: https://doi.org/10.1093/icesjms/fsr047
+- Catch rates and size composition of blue sharks (Prionace glauca) caught by the Brazilian pelagic longline fleet in the southwestern Atlantic Ocean *Aquatic Living Resources* (2010) - 37 citations
+  DOI: https://doi.org/10.1051/alr/2011005
+- Age and growth of three endemic threatened guitarfishes Pseudobatos horkelii, P. percellens and Zapteryx brevirostris in the western South Atlantic Ocean *Journal of Fish Biology* (2019) - 25 citations
+  DOI: https://doi.org/10.1111/jfb.14123
+
 Recent Publications (from Dimensions.ai):
 - Age and Growth of Yellowfin Tuna in the U.S. Gulf of Mexico and Western Atlantic *Marine and Coastal Fisheries* (2021) - 19 citations
   DOI: https://doi.org/10.1002/mcf2.10158

@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 12.58 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Global expansion and redistribution of Aedes-borne virus transmission risk with climate change *PLOS Neglected Tropical Diseases* (2019) - 910 citations
+  DOI: https://doi.org/10.1371/journal.pntd.0007213
+- Detecting the impact of temperature on transmission of Zika, dengue, and chikungunya using mechanistic models *PLOS Neglected Tropical Diseases* (2017) - 671 citations
+  DOI: https://doi.org/10.1371/journal.pntd.0005568
+- Thermal biology of mosquito‐borne disease *Ecology Letters* (2019) - 643 citations
+  DOI: https://doi.org/10.1111/ele.13335
+- Climate change could shift disease burden from malaria to arboviruses in Africa *The Lancet Planetary Health* (2020) - 327 citations
+  DOI: https://doi.org/10.1016/s2542-5196(20)30178-9
+- Temperature drives Zika virus transmission: evidence from empirical and mathematical models *Proceedings of the Royal Society B* (2018) - 242 citations
+  DOI: https://doi.org/10.1098/rspb.2018.0795
+
 Recent Publications (from Dimensions.ai):
 - Climate predicts geographic and temporal variation in mosquito-borne disease dynamics on two continents *Nature Communications* (2021) - 120 citations
   DOI: https://doi.org/10.1038/s41467-021-21496-7

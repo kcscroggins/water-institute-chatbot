@@ -41,6 +41,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 9.32 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Possible role of climate in the collapse of Classic Maya civilization *Nature* (1995) - 788 citations
+  DOI: https://doi.org/10.1038/375391a0
+- Solar Forcing of Drought Frequency in the Maya Lowlands *Science* (2001) - 492 citations
+  DOI: https://doi.org/10.1126/science.1057759
+- Climate Variability on the Yucatan Peninsula (Mexico) during the Past 3500 Years, and Implications for Maya Cultural Evolution *Quaternary Research* (1996) - 387 citations
+  DOI: https://doi.org/10.1006/qres.1996.0042
+- Reconstruction of Caribbean climate change over the past 10,500 years *Nature* (1991) - 342 citations
+  DOI: https://doi.org/10.1038/352790a0
+- Climate Variation and the Rise and Fall of an Andean Civilization *Quaternary Research* (1997) - 311 citations
+  DOI: https://doi.org/10.1006/qres.1997.1882
+
 Recent Publications (from Dimensions.ai):
 - Drought-Induced Civil Conflict Among the Ancient Maya *Nature Communications* (2022) - 47 citations
   DOI: https://doi.org/10.1038/s41467-022-31522-x

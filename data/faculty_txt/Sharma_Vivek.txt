@@ -32,6 +32,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.84 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Utilizing Machine Learning Framework to Evaluate the Effect of Climate Change on Maize and Soybean Yield *Computers and Electronics in Agriculture* (2024) - 33 citations
+  DOI: https://doi.org/10.1016/j.compag.2024.108982
+- Acute Renal Allograft Rejection: Diagnostic Significance of Focal Peritubular Capillary C4d *Transplantation* (2008) - 29 citations
+  DOI: https://doi.org/10.1097/tp.0b013e3181669194
+- Data-Driven Models for Canopy Temperature-Based Irrigation Scheduling *Journal of the ASABE* (2020) - 28 citations
+  DOI: https://doi.org/10.13031/trans.13901
+- Dry Bean [Phaseolus vulgaris L.] Growth and Yield Response to Variable Irrigation in the Arid to Semi-Arid Climate *Sustainability* (2020) - 28 citations
+  DOI: https://doi.org/10.3390/su12093851
+- A new calibration method for charm jet identification validated with proton-proton collision events at √s = 13 TeV *Journal of Instrumentation* (2022) - 14 citations
+  DOI: https://doi.org/10.1088/1748-0221/17/03/p03014
+
 Recent Publications (from Dimensions.ai):
 - Utilizing Machine Learning Framework to Evaluate the Effect of Climate Change on Maize and Soybean Yield *Computers and Electronics in Agriculture* (2024) - 31 citations
   DOI: https://doi.org/10.1016/j.compag.2024.108982

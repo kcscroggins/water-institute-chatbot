@@ -43,6 +43,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 7.29 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Is habitat fragmentation good for biodiversity? *Biological Conservation* (2018) - 627 citations
+  DOI: https://doi.org/10.1016/j.biocon.2018.07.022
+- A practical guide for combining data to model species distributions *Ecology* (2019) - 265 citations
+  DOI: https://doi.org/10.1002/ecy.2710
+- Occupancy estimation and the closure assumption *Journal of Applied Ecology* (2009) - 263 citations
+  DOI: https://doi.org/10.1111/j.1365-2664.2009.01734.x
+- Extinction filters mediate the global effects of habitat fragmentation on animals *Science* (2019) - 242 citations
+  DOI: https://doi.org/10.1126/science.aax9387
+- Spatial Ecology and Conservation Modeling, Applications with R (2018) - 219 citations
+  DOI: https://doi.org/10.1007/978-3-030-01989-1
+
 Recent Publications (from Dimensions.ai):
 - Toward conciliation in the habitat fragmentation and biodiversity debate *Landscape Ecology* (2023) - 67 citations
   DOI: https://doi.org/10.1007/s10980-023-01708-9

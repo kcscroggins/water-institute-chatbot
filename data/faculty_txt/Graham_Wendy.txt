@@ -36,6 +36,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.37 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Influence of likelihood function choice for estimating crop model parameters using the generalized likelihood uncertainty estimation method *Agricultural Systems* (2010) - 212 citations
+  DOI: https://doi.org/10.1016/j.agsy.2010.01.006
+- Partitioning Tracers for Measuring Residual NAPL: Field-Scale Test Results *Journal of Environmental Engineering* (1998) - 120 citations
+  DOI: https://doi.org/10.1061/(asce)0733-9372(1998)124:6(498)
+- Performance of the SUBSTOR-potato model across contrasting growing conditions *Field Crops Research* (2017) - 97 citations
+  DOI: https://doi.org/10.1016/j.fcr.2016.04.012
+- Bi-decadal groundwater level trends in a semi-arid south indian region: Declines, causes and management *Journal of Hydrology Regional Studies* (2016) - 73 citations
+  DOI: https://doi.org/10.1016/j.ejrh.2016.09.005
+- From rainfall to spring discharge: Coupling conduit flow, subsurface matrix flow and surface flow in karst systems using a discrete–continuum model *Advances in Water Resources* (2013) - 64 citations
+  DOI: https://doi.org/10.1016/j.advwatres.2013.08.009
+
 Recent Publications (from Dimensions.ai):
 - The Florida Water and Climate Alliance (FloridaWCA): Developing a Stakeholder–Scientist Partnership to Create Actionable Science in Climate Adaptation and Water Resource Management *Bulletin of the American Meteorological Society* (2021) - 12 citations
   DOI: https://doi.org/10.1175/bams-d-19-0302.1

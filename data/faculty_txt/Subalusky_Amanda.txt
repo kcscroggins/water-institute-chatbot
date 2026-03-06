@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 11.0 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Impacts of large herbivores on terrestrial ecosystems *Current Biology* (2023) - 176 citations
+  DOI: https://doi.org/10.1016/j.cub.2023.04.024
+- The meta-gut: community coalescence of animal gut and environmental microbiomes *Scientific Reports* (2021) - 36 citations
+  DOI: https://doi.org/10.1038/s41598-021-02349-1
+- Hippopotamus are distinct from domestic livestock in their resource subsidies to and effects on aquatic ecosystems *Proceedings of the Royal Society B* (2020) - 34 citations
+  DOI: https://doi.org/10.1098/rspb.2019.3000
+- Alternative Biogeochemical States of River Pools Mediated by Hippo Use and Flow Variability *Ecosystems* (2020) - 20 citations
+  DOI: https://doi.org/10.1007/s10021-020-00518-3
+- A River of Bones: Wildebeest Skeletons Leave a Legacy of Mass Mortality in the Mara River, Kenya *Frontiers in Ecology and Evolution* (2020) - 18 citations
+  DOI: https://doi.org/10.3389/fevo.2020.00031
+
 Recent Publications (from Dimensions.ai):
 - Impacts of large herbivores on terrestrial ecosystems *Current Biology* (2023) - 163 citations
   DOI: https://doi.org/10.1016/j.cub.2023.04.024

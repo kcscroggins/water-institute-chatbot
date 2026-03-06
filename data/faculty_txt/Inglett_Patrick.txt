@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.05 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Stable isotope (δ13C and δ15N) values of sediment organic matter in subtropical lakes of different trophic status *Journal of Paleolimnology* (2012) - 116 citations
+  DOI: https://doi.org/10.1007/s10933-012-9593-6
+- Phosphorus Transformations during Decomposition of Wetland Macrophytes *Environmental Science and Technology* (2010) - 79 citations
+  DOI: https://doi.org/10.1021/es102460h
+- Organic nitrogen in residential stormwater runoff: Implications for stormwater management in urban watersheds *The Science of The Total Environment* (2019) - 62 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2019.135962
+- Carbon quality and nutrient status drive the temperature sensitivity of organic matter decomposition in subtropical peat soils *Biogeochemistry* (2016) - 52 citations
+  DOI: https://doi.org/10.1007/s10533-016-0267-8
+- Rate of warming affects temperature sensitivity of anaerobic peat decomposition and greenhouse gas production *Global Change Biology* (2017) - 50 citations
+  DOI: https://doi.org/10.1111/gcb.13839
+
 Recent Publications (from Dimensions.ai):
 - Seasonality drives microbiome composition and nitrogen cycling in soil below biocrusts *Soil Biology and Biochemistry* (2022) - 25 citations
   DOI: https://doi.org/10.1016/j.soilbio.2022.108551

@@ -43,6 +43,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.38 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Fatal landslides in Europe *Landslides* (2016) - 361 citations
+  DOI: https://doi.org/10.1007/s10346-016-0689-3
+- Decision support tools, systems and indices for sustainable coastal planning and management: A review *Ocean & Coastal Management* (2021) - 55 citations
+  DOI: https://doi.org/10.1016/j.ocecoaman.2021.105813
+- Drivers of long-term precipitation and runoff variability in the southeastern USA *Theoretical and Applied Climatology* (2017) - 20 citations
+  DOI: https://doi.org/10.1007/s00704-016-2030-4
+- Spatiotemporal changes in the size and shape of heat waves over North America *Climatic Change* (2018) - 15 citations
+  DOI: https://doi.org/10.1007/s10584-018-2140-3
+- Decreasing water resources in Southeastern U.S. as observed by the GRACE satellites *Water Policy* (2021) - 14 citations
+  DOI: https://doi.org/10.2166/wp.2021.039
+
 Recent Publications (from Dimensions.ai):
 - Decision support tools, systems and indices for sustainable coastal planning and management: A review *Ocean & Coastal Management* (2021) - 54 citations
   DOI: https://doi.org/10.1016/j.ocecoaman.2021.105813

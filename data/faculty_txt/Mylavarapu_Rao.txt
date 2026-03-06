@@ -41,6 +41,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.3 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- REFLECTANCE SPECTROSCOPY FOR ROUTINE AGRONOMIC SOIL ANALYSES *Soil Science* (2007) - 48 citations
+  DOI: https://doi.org/10.1097/ss.0b013e31804fa202
+- Analytical expressions for drainable and fillable porosity of phreatic aquifers under vertical fluxes from evapotranspiration and recharge *Water Resources Research* (2012) - 47 citations
+  DOI: https://doi.org/10.1029/2012wr012043
+- Distribution and Fractionation of Phosphorus, Cadmium, Nickel, and Lead in Calcareous Soils Amended with Composts *Journal of Environmental Science and Health Part B* (2004) - 33 citations
+  DOI: https://doi.org/10.1081/pfc-120027450
+- Soil Enzyme Activities and Organic Matter Composition Affected by 26 Years of Continuous Cropping *Pedosphere* (2016) - 27 citations
+  DOI: https://doi.org/10.1016/s1002-0160(15)60070-4
+- Apparent Recovery and Efficiency of Nitrogen Fertilization in Tomato Grown on Sandy Soils *HortTechnology* (2020) - 24 citations
+  DOI: https://doi.org/10.21273/horttech04480-19
+
 Recent Publications (from Dimensions.ai):
 - Recovery efficiency of applied and residual nitrogen fertilizer in tomatoes grown on sandy soils using the 15N technique *Scientia Horticulturae* (2021) - 20 citations
   DOI: https://doi.org/10.1016/j.scienta.2020.109861

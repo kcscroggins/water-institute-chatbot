@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.28 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Pharmacokinetic Studies of Florfenicol in Koi Carp and Threespot Gourami Trichogaster trichopterus after Oral and Intramuscular Treatment *Journal of Aquatic Animal Health* (2005) - 73 citations
+  DOI: https://doi.org/10.1577/h03-065.1
+- Reproductive biology of invasive lionfish (Pterois spp.) *Frontiers in Marine Science* (2015) - 62 citations
+  DOI: https://doi.org/10.3389/fmars.2015.00007
+- New disease records for hatchery-reared sturgeon. II. Phaeohyphomycosis due to Veronaea botryosa. *Diseases of Aquatic Organisms* (2014) - 23 citations
+  DOI: https://doi.org/10.3354/dao02755
+- Spawning, Embryology, and Larval Development of the Milletseed Butterflyfish Chaetodon miliaris in the Laboratory *North American Journal of Aquaculture* (2017) - 21 citations
+  DOI: https://doi.org/10.1080/15222055.2017.1302025
+- Carp Edema Virus Disease (CEVD) / Koi Sleepy Disease (KSD): FA189/FA189, 10/2015 *EDIS* (2015) - 11 citations
+  DOI: https://doi.org/10.32473/edis-fa189-2015
+
 Recent Publications (from Dimensions.ai):
 - Reference Intervals for Blood Analytes of Adult Aquarium‐Housed Russian Sturgeon Acipenser gueldenstaedtii *Journal of Aquatic Animal Health* (2021) - 9 citations
   DOI: https://doi.org/10.1002/aah.10116

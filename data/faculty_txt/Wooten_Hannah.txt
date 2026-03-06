@@ -36,6 +36,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.01 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Social and Community Benefits and Limitations of Urban Agriculture: FCS3378/FY1517, 1/2023 *EDIS* (2023) - 8 citations
+  DOI: https://doi.org/10.32473/edis-fy1517-2023
+- Common Media Used in Hydroponics: EP623/ENH1359, 8/2022 *EDIS* (2022) - 3 citations
+  DOI: https://doi.org/10.32473/edis-ep623-2022
+- "Set It and Forget It" Hydroponic Lettuce: HS1488, 1/2025 *EDIS* (2025) - 1 citations
+  DOI: https://doi.org/10.32473/edis-hs1488-2025
+- Beneficios socio-comunitarios y limitaciones de la agricultura urbana: FCS3378-Span/FY1530, 10/2023 *EDIS* (2023) - 1 citations
+  DOI: https://doi.org/10.32473/edis-fy1530-2023
+- Introducing Agroecology: SS-AGR-476/AG472, 6/2023 *EDIS* (2023) - 1 citations
+  DOI: https://doi.org/10.32473/edis-ag472-2023
+
 Recent Publications (from Dimensions.ai):
 - Social and Community Benefits and Limitations of Urban Agriculture: FCS3378/FY1517, 1/2023 *EDIS* (2023) - 8 citations
   DOI: https://doi.org/10.32473/edis-fy1517-2023

@@ -37,6 +37,19 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 5.46 (1.0 = field average)
 
+
+Top Cited Papers (All Time, from Dimensions.ai):
+- Using cluster analysis for understanding spatial and temporal patterns and controlling factors of groundwater geochemistry in a regional aquifer *Journal of Hydrology* (2020) - 86 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2020.124594
+- On the peridynamic effective force state and multiphase constitutive correspondence principle *Journal of the Mechanics and Physics of Solids* (2020) - 66 citations
+  DOI: https://doi.org/10.1016/j.jmps.2020.104161
+- A peridynamics model for strain localization analysis of geomaterials *International Journal for Numerical and Analytical Methods in Geomechanics* (2018) - 65 citations
+  DOI: https://doi.org/10.1002/nag.2854
+- Measurement of Restitution and Friction Coefficients for Granular Particles and Discrete Element Simulation for the Tests of Glass Beads *Materials* (2019) - 62 citations
+  DOI: https://doi.org/10.3390/ma12193170
+- On the soil water characteristic curves of poorly graded granular materials in aqueous polymer solutions *Acta Geotechnica* (2017) - 61 citations
+  DOI: https://doi.org/10.1007/s11440-017-0568-7
+
 Recent Publications (from Dimensions.ai):
 - A computational periporomechanics model for localized failure in unsaturated porous media *Computer Methods in Applied Mechanics and Engineering* (2021) - 50 citations
   DOI: https://doi.org/10.1016/j.cma.2021.113932

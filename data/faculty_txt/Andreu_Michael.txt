@@ -46,6 +46,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.72 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Microclimate patterns on the leeside of single-row tree windbreaks during different weather conditions in Florida farms: implications for improved crop production *Agroforestry Systems* (2010) - 41 citations
+  DOI: https://doi.org/10.1007/s10457-010-9280-4
+- A community-based urban forest inventory using online mapping services and consumer-grade digital images *International Journal of Applied Earth Observation and Geoinformation* (2010) - 29 citations
+  DOI: https://doi.org/10.1016/j.jag.2010.03.003
+- Bio-methanol: How energy choices in the western United States can help mitigate global climate change *Renewable Energy* (2009) - 29 citations
+  DOI: https://doi.org/10.1016/j.renene.2008.03.010
+- Effects of reproduction methods and overstory species composition on understory light availability in longleaf pine–slash pine ecosystems *Forest Ecology and Management* (2012) - 27 citations
+  DOI: https://doi.org/10.1016/j.foreco.2012.07.023
+- Municipal response to state legislation limiting local oversight of private urban tree removal in Florida *Land Use Policy* (2021) - 24 citations
+  DOI: https://doi.org/10.1016/j.landusepol.2021.105398
+
 Recent Publications (from Dimensions.ai):
 - Municipal response to state legislation limiting local oversight of private urban tree removal in Florida *Land Use Policy* (2021) - 24 citations
   DOI: https://doi.org/10.1016/j.landusepol.2021.105398

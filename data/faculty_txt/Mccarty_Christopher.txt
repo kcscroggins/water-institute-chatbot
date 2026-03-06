@@ -39,6 +39,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 63.59 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Developing a model for AI Across the curriculum: Transforming the higher education landscape via innovation in AI literacy *Computers and Education Artificial Intelligence* (2023) - 496 citations
+  DOI: https://doi.org/10.1016/j.caeai.2023.100127
+- Comparing Two Methods for Estimating Network Size *Human Organization* (2001) - 286 citations
+  DOI: https://doi.org/10.17730/humo.60.1.efx5t9gjtgmga73y
+- Longitudinal analysis of personal networks. The case of Argentinean migrants in Spain *Social Networks* (2010) - 221 citations
+  DOI: https://doi.org/10.1016/j.socnet.2009.05.001
+- Estimating the size of personal networks *Social Networks* (1990) - 196 citations
+  DOI: https://doi.org/10.1016/0378-8733(90)90012-x
+- Comparing four different methods for measuring personal social networks *Social Networks* (1990) - 193 citations
+  DOI: https://doi.org/10.1016/0378-8733(90)90005-t
+
 Recent Publications (from Dimensions.ai):
 - Developing a model for AI Across the curriculum: Transforming the higher education landscape via innovation in AI literacy *Computers and Education Artificial Intelligence* (2023) - 469 citations
   DOI: https://doi.org/10.1016/j.caeai.2023.100127

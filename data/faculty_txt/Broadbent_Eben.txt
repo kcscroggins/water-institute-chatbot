@@ -50,6 +50,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 29.56 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Global restoration opportunities in tropical rainforest landscapes *Science Advances* (2019) - 423 citations
+  DOI: https://doi.org/10.1126/sciadv.aav3223
+- Multidimensional tropical forest recovery *Science* (2021) - 396 citations
+  DOI: https://doi.org/10.1126/science.abh3629
+- Integrated global assessment of the natural forest carbon potential *Nature* (2023) - 360 citations
+  DOI: https://doi.org/10.1038/s41586-023-06723-z
+- Strategic approaches to restoring ecosystems can triple conservation gains and halve costs *Nature Ecology & Evolution* (2018) - 289 citations
+  DOI: https://doi.org/10.1038/s41559-018-0743-8
+- The number of tree species on Earth *Proceedings of the National Academy of Sciences of the United States of America* (2022) - 208 citations
+  DOI: https://doi.org/10.1073/pnas.2115329119
+
 Recent Publications (from Dimensions.ai):
 - Multidimensional tropical forest recovery *Science* (2021) - 384 citations
   DOI: https://doi.org/10.1126/science.abh3629

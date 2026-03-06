@@ -33,6 +33,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 4.12 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- 2020 to 2040: Visions for the future of environmental education *Applied Environmental Education & Communication* (2021) - 11 citations
+  DOI: https://doi.org/10.1080/1533015x.2021.2015484
+- A Co-orientation Analysis of Producers’ and Environmentalists’ Mental Models of Water Issues: Opportunities for Improved Communication and Collaboration *Environmental Communication* (2020) - 10 citations
+  DOI: https://doi.org/10.1080/17524032.2020.1828128
+- The water science communication problem: Water knowledge and the acceptance or rejection of water science *Journal of Hydrology* (2022) - 8 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2021.127230
+- Building bipartisan support for pro-environmental water policy in a competitive communication environment: The effect of competing moral frames and political communicators *Journal of Hydrology* (2023) - 4 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2023.130379
+- Revisiting the Deficit Model: The Effect of Water Science Knowledge on Policy Perceptions *Society & Natural Resources* (2025) - 2 citations
+  DOI: https://doi.org/10.1080/08941920.2025.2466167
+
 Recent Publications (from Dimensions.ai):
 - 2020 to 2040: Visions for the future of environmental education *Applied Environmental Education & Communication* (2021) - 10 citations
   DOI: https://doi.org/10.1080/1533015x.2021.2015484

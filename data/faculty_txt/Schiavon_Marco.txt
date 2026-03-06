@@ -27,6 +27,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 1.57 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Irrigation scheduling technologies reduce water use and maintain turfgrass quality *Agronomy Journal* (2020) - 25 citations
+  DOI: https://doi.org/10.1002/agj2.20246
+- Drought avoidance of warm‐season turfgrasses affected by irrigation system, soil surfactant revolution, and plant growth regulator trinexapac‐ethyl *Crop Science* (2020) - 19 citations
+  DOI: https://doi.org/10.1002/csc2.20063
+- How to Properly Read Your Irrigation Water Analysis for Turf and Landscape: ENH1352/EP616, 12/2021 *EDIS* (2021) - 13 citations
+  DOI: https://doi.org/10.32473/edis-ep616-2021
+- Identification of wetting agents for water conservation on deficit‐irrigated hybrid bermudagrass fairways *Agronomy Journal* (2020) - 13 citations
+  DOI: https://doi.org/10.1002/agj2.20450
+- Tall Fescue (Schedonorus arundinaceus (Schreb.) Dumort.) Turfgrass Cultivars Performance under Reduced N Fertilization *Agronomy* (2021) - 12 citations
+  DOI: https://doi.org/10.3390/agronomy11020193
+
 Recent Publications (from Dimensions.ai):
 - Tall Fescue (Schedonorus arundinaceus (Schreb.) Dumort.) Turfgrass Cultivars Performance under Reduced N Fertilization *Agronomy* (2021) - 12 citations
   DOI: https://doi.org/10.3390/agronomy11020193

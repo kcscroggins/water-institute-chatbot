@@ -42,6 +42,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 16.66 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Agroforestry as a strategy for carbon sequestration *Journal of Plant Nutrition and Soil Science* (2009) - 889 citations
+  DOI: https://doi.org/10.1002/jpln.200800030
+- Chapter Five Carbon Sequestration in Agroforestry Systems *Advances in Agronomy* (2010) - 515 citations
+  DOI: https://doi.org/10.1016/s0065-2113(10)08005-3
+- An Introduction to Agroforestry, Four Decades of Scientific Developments (2021) - 394 citations
+  DOI: https://doi.org/10.1007/978-3-030-75358-0
+- Soil carbon sequestration in tropical agroforestry systems: a feasibility appraisal *Environmental Science & Policy* (2009) - 228 citations
+  DOI: https://doi.org/10.1016/j.envsci.2009.01.010
+- Reductions in water, soil and nutrient losses and pesticide pollution in agroforestry practices: a review of evidence and processes *Plant and Soil* (2019) - 164 citations
+  DOI: https://doi.org/10.1007/s11104-019-04377-3
+
 Recent Publications (from Dimensions.ai):
 - An Introduction to Agroforestry, Four Decades of Scientific Developments (2021) - 352 citations
   DOI: https://doi.org/10.1007/978-3-030-75358-0

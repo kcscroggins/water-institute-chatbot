@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.69 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Effect of Irrigation Pattern and Timing on Root Density of Young Citrus Trees Infected with Huanglongbing Disease *HortTechnology* (2014) - 54 citations
+  DOI: https://doi.org/10.21273/horttech.24.2.209
+- Effect of Essential Nutrients on Roots Growth and Lifespan of Huanglongbing Affected Citrus Trees *Plants* (2020) - 47 citations
+  DOI: https://doi.org/10.3390/plants9040483
+- Chapter 15 Soil and nutrition interactions (2020) - 39 citations
+  DOI: https://doi.org/10.1016/b978-0-12-812163-4.00015-2
+- Nutrient Management Options for Florida Citrus: A Review of NPK Application and Analytical Methods *Journal of Plant Nutrition* (2015) - 35 citations
+  DOI: https://doi.org/10.1080/01904167.2014.934470
+- The Effect of Huanglongbing on Young Citrus Tree Water Use *HortTechnology* (2017) - 33 citations
+  DOI: https://doi.org/10.21273/horttech03830-17
+
 Recent Publications (from Dimensions.ai):
 - Are macronutrients and micronutrients therapeutic for restoring performance of trees affected by citrus greening? A discussion of current practices and future research opportunities *Journal of Plant Nutrition* (2021) - 29 citations
   DOI: https://doi.org/10.1080/01904167.2021.1927079

@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.37 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Phylogeny of sulfate-reducing bacteria1 *FEMS Microbiology Ecology* (2000) - 177 citations
+  DOI: https://doi.org/10.1111/j.1574-6941.2000.tb00665.x
+- Distributions, abundances and activities of microbes associated with the nitrogen cycle in riparian and stream sediments of a river tributary *Water Research* (2016) - 168 citations
+  DOI: https://doi.org/10.1016/j.watres.2016.09.048
+- Effect of phosphorus addition on total and alkaline phosphomonoesterase-harboring bacterial populations in ryegrass rhizosphere microsites *Biology and Fertility of Soils* (2016) - 108 citations
+  DOI: https://doi.org/10.1007/s00374-016-1137-1
+- Composition and Function of Sulfate-Reducing Prokaryotes in Eutrophic and Pristine Areas of the Florida Everglades *Applied and Environmental Microbiology* (2002) - 107 citations
+  DOI: https://doi.org/10.1128/aem.68.12.6129-6137.2002
+- Syntrophs Dominate Sequences Associated with the Mercury Methylation-Related Gene hgcA in the Water Conservation Areas of the Florida Everglades *Applied and Environmental Microbiology* (2014) - 99 citations
+  DOI: https://doi.org/10.1128/aem.01666-14
+
 Recent Publications (from Dimensions.ai):
 - Spatiotemporal variations and relationships of phosphorus, phosphomonoesterases, and bacterial communities in sediments from two Chilean rivers *The Science of The Total Environment* (2021) - 36 citations
   DOI: https://doi.org/10.1016/j.scitotenv.2021.145782

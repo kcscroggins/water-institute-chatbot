@@ -33,6 +33,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.48 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Diverse perennial circular forage systems are needed to foster resilience, ecosystem services, and socioeconomic benefits in agricultural landscapes *Grassland Research* (2022) - 18 citations
+  DOI: https://doi.org/10.1002/glr2.12020
+- Sustainability information, taste perception and willingness to pay: The case of bird-friendly coffee *Food Quality and Preference* (2024) - 13 citations
+  DOI: https://doi.org/10.1016/j.foodqual.2024.105124
+- Assessing consumers’ valuation for Front-of-Package ‘Health’ labeling under FDA guidelines *Food Policy* (2025) - 9 citations
+  DOI: https://doi.org/10.1016/j.foodpol.2025.102804
+- Consumers' valuation for a novel food waste reducing technology: The case of natural coating *Journal of the Agricultural and Applied Economics Association* (2023) - 9 citations
+  DOI: https://doi.org/10.1002/jaa2.47
+- Public acceptance of beef carbon tax earmarks *Food Policy* (2024) - 5 citations
+  DOI: https://doi.org/10.1016/j.foodpol.2024.102733
+
 Recent Publications (from Dimensions.ai):
 - Diverse perennial circular forage systems are needed to foster resilience, ecosystem services, and socioeconomic benefits in agricultural landscapes *Grassland Research* (2022) - 17 citations
   DOI: https://doi.org/10.1002/glr2.12020

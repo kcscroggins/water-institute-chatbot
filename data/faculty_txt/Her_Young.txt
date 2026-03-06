@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 1.72 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Environmental variables influencing phytoplankton communities in hydrologically connected aquatic habitats in the Lake Xingkai basin *Ecological Indicators* (2018) - 64 citations
+  DOI: https://doi.org/10.1016/j.ecolind.2018.03.085
+- Mapping the US Census Data Using the TIGER/Line Shapefiles *EDIS* (2021) - 12 citations
+  DOI: https://doi.org/10.32473/edis-ae557-2021
+- What Does Florida Weather during the Past 20 Years Look Like? Florida Weather Represented by the Florida Automated Weather Network (FAWN): AE537, 1/2020 *EDIS* (2020) - 6 citations
+  DOI: https://doi.org/10.32473/edis-ae537-2020
+- A simulation model for estimating root zone saturation indices of agricultural crops in a shallow aquifer and canal system *Agricultural Water Management* (2019) - 5 citations
+  DOI: https://doi.org/10.1016/j.agwat.2019.03.044
+- Florida Rainfall Data Sources and Types: AE517/AE517, 1/2017 *EDIS* (2017) - 4 citations
+  DOI: https://doi.org/10.32473/edis-ae517-2017
+
 Recent Publications (from Dimensions.ai):
 - Mapping the US Census Data Using the TIGER/Line Shapefiles *EDIS* (2021) - 12 citations
   DOI: https://doi.org/10.32473/edis-ae557-2021

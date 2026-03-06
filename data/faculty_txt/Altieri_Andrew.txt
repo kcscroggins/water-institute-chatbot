@@ -47,6 +47,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 9.01 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Oxygen: the universal currency on coral reefs *Coral Reefs* (2019) - 155 citations
+  DOI: https://doi.org/10.1007/s00338-019-01765-0
+- Facilitation cascade drives positive relationship between native biodiversity and invasion success *Ecology* (2010) - 137 citations
+  DOI: https://doi.org/10.1890/09-1301.1
+- Whole-Community Facilitation Regulates Biodiversity on Patagonian Rocky Shores *PLOS ONE* (2011) - 121 citations
+  DOI: https://doi.org/10.1371/journal.pone.0024502
+- Secondary foundation species enhance biodiversity *Nature Ecology & Evolution* (2018) - 118 citations
+  DOI: https://doi.org/10.1038/s41559-018-0487-5
+- Environmental DNA survey captures patterns of fish and invertebrate diversity across a tropical seascape *Scientific Reports* (2020) - 117 citations
+  DOI: https://doi.org/10.1038/s41598-020-63565-9
+
 Recent Publications (from Dimensions.ai):
 - Herbivory limits success of vegetation restoration globally *Science* (2023) - 97 citations
   DOI: https://doi.org/10.1126/science.add2814

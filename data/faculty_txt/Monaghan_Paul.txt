@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.45 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- A roadmap for the functional annotation of protein families: a community perspective *Database* (2022) - 62 citations
+  DOI: https://doi.org/10.1093/database/baac062
+- Barriers to community garden success: Demonstrating framework for expert consensus to inform policy and practice *Urban Forestry & Urban Greening* (2018) - 49 citations
+  DOI: https://doi.org/10.1016/j.ufug.2018.02.014
+- Adoption of Safety Eyewear Among Citrus Harvesters in Rural Florida *Journal of Immigrant and Minority Health* (2011) - 32 citations
+  DOI: https://doi.org/10.1007/s10903-011-9484-3
+- Florida Farmworkers’ Perceptions and Lay Knowledge of Occupational Pesticides *Journal of Community Health* (2007) - 31 citations
+  DOI: https://doi.org/10.1007/s10900-006-9040-6
+- Landscaping practices, community perceptions, and social indicators for stormwater nonpoint source pollution management *Sustainable Cities and Society* (2016) - 30 citations
+  DOI: https://doi.org/10.1016/j.scs.2016.08.017
+
 Recent Publications (from Dimensions.ai):
 - A roadmap for the functional annotation of protein families: a community perspective *Database* (2022) - 58 citations
   DOI: https://doi.org/10.1093/database/baac062

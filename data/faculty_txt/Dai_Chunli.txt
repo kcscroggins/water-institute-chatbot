@@ -33,6 +33,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 8.29 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Applications of ArcticDEM for measuring volcanic dynamics, landslides, retrogressive thaw slumps, snowdrifts, and vegetation heights *Science of Remote Sensing* (2024) - 17 citations
+  DOI: https://doi.org/10.1016/j.srs.2024.100130
+- Volumetric quantifications and dynamics of areas undergoing retrogressive thaw slumping in the Northern Hemisphere *Nature Communications* (2025) - 7 citations
+  DOI: https://doi.org/10.1038/s41467-025-62017-0
+- Using river hypsometry to improve remote sensing of river discharge *Remote Sensing of Environment* (2024) - 7 citations
+  DOI: https://doi.org/10.1016/j.rse.2024.114455
+- A global high resolution coastline database from satellite imagery *Scientific Data* (2025) - 3 citations
+  DOI: https://doi.org/10.1038/s41597-025-05180-9
+- Landslides in Greenland from ArcticDEM time series analysis *Landslides* (2025) - 2 citations
+  DOI: https://doi.org/10.1007/s10346-025-02500-3
+
 Recent Publications (from Dimensions.ai):
 - Applications of ArcticDEM for measuring volcanic dynamics, landslides, retrogressive thaw slumps, snowdrifts, and vegetation heights *Science of Remote Sensing* (2024) - 16 citations
   DOI: https://doi.org/10.1016/j.srs.2024.100130

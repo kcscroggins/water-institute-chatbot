@@ -39,6 +39,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.96 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Strategic behaviors and governance challenges in social‐ecological systems *Earth's Future* (2017) - 53 citations
+  DOI: https://doi.org/10.1002/2017ef000562
+- Network analysis of regional livestock trade in West Africa *PLOS ONE* (2020) - 51 citations
+  DOI: https://doi.org/10.1371/journal.pone.0232681
+- Constrained pathways to a creative urban economy *Urban Studies* (2016) - 44 citations
+  DOI: https://doi.org/10.1177/0042098015616892
+- Effect of infrastructure design on commons dilemmas in social−ecological system dynamics *Proceedings of the National Academy of Sciences of the United States of America* (2015) - 41 citations
+  DOI: https://doi.org/10.1073/pnas.1410688112
+- The emergence and resilience of self-organized governance in coupled infrastructure systems *Proceedings of the National Academy of Sciences of the United States of America* (2020) - 29 citations
+  DOI: https://doi.org/10.1073/pnas.1916169117
+
 Recent Publications (from Dimensions.ai):
 - On capturing human agency and methodological interdisciplinarity in socio-hydrology research *Hydrological Sciences Journal* (2022) - 27 citations
   DOI: https://doi.org/10.1080/02626667.2022.2114836

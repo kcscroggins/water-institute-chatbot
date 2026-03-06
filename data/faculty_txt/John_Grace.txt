@@ -23,6 +23,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 8.45 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Taking the pulse of Earth's tropical forests using networks of highly distributed plots *Biological Conservation* (2021) - 167 citations
+  DOI: https://doi.org/10.1016/j.biocon.2020.108849
+- Global transpiration data from sap flow measurements: the SAPFLUXNET database *Earth System Science Data* (2021) - 150 citations
+  DOI: https://doi.org/10.5194/essd-13-2607-2021
+- Acute Akathisia Associated With Quetiapine Use *Journal of the Academy of Consultation-Liaison Psychiatry* (2005) - 30 citations
+  DOI: https://doi.org/10.1176/appi.psy.46.4.291
+- Global transpiration data from sap flow measurements: the SAPFLUXNET database *EGUsphere* (2020) - 29 citations
+  DOI: https://doi.org/10.5194/essd-2020-227
+- Thresholds for persistent leaf photochemical damage predict plant drought resilience in a tropical rainforest *New Phytologist* (2023) - 16 citations
+  DOI: https://doi.org/10.1111/nph.18973
+
 Recent Publications (from Dimensions.ai):
 - Taking the pulse of Earth's tropical forests using networks of highly distributed plots *Biological Conservation* (2021) - 165 citations
   DOI: https://doi.org/10.1016/j.biocon.2020.108849

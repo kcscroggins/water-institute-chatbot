@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.38 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Quantifying co‐benefits of water quality policies: An integrated assessment model of land and nitrogen management *American Journal of Agricultural Economics* (2023) - 9 citations
+  DOI: https://doi.org/10.1111/ajae.12423
+- Short-Term Exposure to Air Pollution and Cognitive Performance: New Evidence from China’s College English Test *Environmental and Resource Economics* (2023) - 9 citations
+  DOI: https://doi.org/10.1007/s10640-023-00765-7
+- COVID-19 and visitation to Central Park, New York City *PLOS ONE* (2023) - 5 citations
+  DOI: https://doi.org/10.1371/journal.pone.0290713
+- Examining Implicit Price Variation for Lake Water Quality *Water Economics and Policy* (2022) - 3 citations
+  DOI: https://doi.org/10.1142/s2382624x22400057
+- An Introduction to Economic Analysis of Pest Management: A Case Study of Nematode Management: FE1161, 12/2024 *EDIS* (2025) - 1 citations
+  DOI: https://doi.org/10.32473/edis-fe1161-2024
+
 Recent Publications (from Dimensions.ai):
 - Quantifying co‐benefits of water quality policies: An integrated assessment model of land and nitrogen management *American Journal of Agricultural Economics* (2023) - 9 citations
   DOI: https://doi.org/10.1111/ajae.12423

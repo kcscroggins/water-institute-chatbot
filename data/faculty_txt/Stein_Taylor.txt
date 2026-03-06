@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 6.95 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Place attachment as a mediator of the relationship between nature-based recreation benefits and future visit intentions *Journal of Sustainable Tourism* (2012) - 131 citations
+  DOI: https://doi.org/10.1080/09669582.2011.610508
+- Structural relationships between environmental attitudes, recreation motivations, and environmentally responsible behaviors *Journal of Outdoor Recreation and Tourism* (2014) - 118 citations
+  DOI: https://doi.org/10.1016/j.jort.2014.09.010
+- Modeling social and land-use/land-cover change data to assess drivers of smallholder deforestation in Belize *Applied Geography* (2010) - 103 citations
+  DOI: https://doi.org/10.1016/j.apgeog.2009.10.001
+- Achieving Bat Conservation Through Tourism *Journal of Ecotourism* (2004) - 60 citations
+  DOI: https://doi.org/10.1080/14664200508668432
+- The role of place attachment in recreation experience and outcome preferences among forest bathers *Journal of Outdoor Recreation and Tourism* (2021) - 47 citations
+  DOI: https://doi.org/10.1016/j.jort.2021.100410
+
 Recent Publications (from Dimensions.ai):
 - The role of place attachment in recreation experience and outcome preferences among forest bathers *Journal of Outdoor Recreation and Tourism* (2021) - 46 citations
   DOI: https://doi.org/10.1016/j.jort.2021.100410

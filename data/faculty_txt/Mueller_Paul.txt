@@ -39,6 +39,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.17 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Variation in the strontium isotopic composition of seawater (8 Ma to present) : Implications for chemical weathering rates and dissolved fluxes to the oceans *Chemical Geology* (1990) - 318 citations
+  DOI: https://doi.org/10.1016/0168-9622(90)90011-z
+- Variations in the strontium isotopic composition of seawater during the Neogene *Geology* (1991) - 257 citations
+  DOI: https://doi.org/10.1130/0091-7613(1991)019<0024:vitsic>2.3.co;2
+- Strontium isotope stratigraphy and geochemistry of the late Neogene ocean *Earth and Planetary Science Letters* (1989) - 194 citations
+  DOI: https://doi.org/10.1016/0012-821x(89)90044-7
+- Paleoproterozoic crust within the Great Falls tectonic zone: Implications for the assembly of southern Laurentia *Geology* (2002) - 100 citations
+  DOI: https://doi.org/10.1130/0091-7613(2002)030<0127:pcwtgf>2.0.co;2
+- Origin and age of the Mediterranean Messinian evaporites: implications from Sr isotopes *Earth and Planetary Science Letters* (1991) - 92 citations
+  DOI: https://doi.org/10.1016/0012-821x(91)90039-k
+
 Recent Publications (from Dimensions.ai):
 - Crustal genesis and evolution of the Archean Wyoming Province: Continental growth through vertical magmatic and horizontal tectonic processes (2023) - 15 citations
   DOI: https://doi.org/10.1130/2022.1220(01)

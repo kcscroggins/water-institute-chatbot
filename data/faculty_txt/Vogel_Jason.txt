@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 5.25 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- The effect of permafrost thaw on old carbon release and net carbon exchange from tundra *Nature* (2009) - 1051 citations
+  DOI: https://doi.org/10.1038/nature08031
+- Plant Species Composition and Productivity following Permafrost Thaw and Thermokarst in Alaskan Tundra *Ecosystems* (2007) - 243 citations
+  DOI: https://doi.org/10.1007/s10021-007-9024-0
+- Recovery of Aboveground Plant Biomass and Productivity After Fire in Mesic and Dry Black Spruce Forests of Interior Alaska *Ecosystems* (2008) - 129 citations
+  DOI: https://doi.org/10.1007/s10021-007-9117-9
+- Termite sensitivity to temperature affects global wood decay rates *Science* (2022) - 114 citations
+  DOI: https://doi.org/10.1126/science.abo3856
+- Twenty-Five Years of Intensive Forest Management with Southern Pines: Important Lessons Learned *Journal of Forestry* (2010) - 109 citations
+  DOI: https://doi.org/10.1093/jof/108.7.338
+
 Recent Publications (from Dimensions.ai):
 - Termite sensitivity to temperature affects global wood decay rates *Science* (2022) - 109 citations
   DOI: https://doi.org/10.1126/science.abo3856

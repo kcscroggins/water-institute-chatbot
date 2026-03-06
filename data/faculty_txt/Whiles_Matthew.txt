@@ -39,6 +39,12 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 1.22 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Environmental risk assessment for fecal contamination sources in urban and peri-urban estuaries, in Escambia and Santa Rosa counties, FL, USA *Environmental Monitoring and Assessment* (2023) - 5 citations
+  DOI: https://doi.org/10.1007/s10661-023-11478-1
+- Biovolume of Naidinae and Pristininae (Clitellata: Oligochaeta) in neotropical environments *Biologia* (2022) - 0 citations
+  DOI: https://doi.org/10.1007/s11756-022-01304-3
+
 Recent Publications (from Dimensions.ai):
 - Environmental risk assessment for fecal contamination sources in urban and peri-urban estuaries, in Escambia and Santa Rosa counties, FL, USA *Environmental Monitoring and Assessment* (2023) - 5 citations
   DOI: https://doi.org/10.1007/s10661-023-11478-1

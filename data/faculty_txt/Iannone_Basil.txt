@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.17 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Global data on earthworm abundance, biomass, diversity and corresponding environmental properties *Scientific Data* (2021) - 65 citations
+  DOI: https://doi.org/10.1038/s41597-021-00912-z
+- Landscape correlates of forest plant invasions: A high‐resolution analysis across the eastern United States *Diversity and Distributions* (2017) - 60 citations
+  DOI: https://doi.org/10.1111/ddi.12680
+- Quantum GIS (QGIS): An introduction to a free alternative to more costly GIS platforms: FOR359/FR428, 2/2020 *EDIS* (2020) - 58 citations
+  DOI: https://doi.org/10.32473/edis-fr428-2020
+- Predicting invasiveness of exotic woody species using a traits‐based framework *Ecology* (2019) - 55 citations
+  DOI: https://doi.org/10.1002/ecy.2797
+- Stormwater ponds: An overlooked but plentiful urban designer ecosystem provides invasive plant habitat in a subtropical region (Florida, USA) *The Science of The Total Environment* (2019) - 44 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2019.135133
+
 Recent Publications (from Dimensions.ai):
 - Global data on earthworm abundance, biomass, diversity and corresponding environmental properties *Scientific Data* (2021) - 64 citations
   DOI: https://doi.org/10.1038/s41597-021-00912-z

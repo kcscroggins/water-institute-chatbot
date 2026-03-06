@@ -37,6 +37,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.68 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Differential toxicities of fine particulate matters from various sources *Scientific Reports* (2018) - 369 citations
+  DOI: https://doi.org/10.1038/s41598-018-35398-0
+- Light absorption coefficient measurement of SOA using a UV–Visible spectrometer connected with an integrating sphere *Atmospheric Environment* (2011) - 115 citations
+  DOI: https://doi.org/10.1016/j.atmosenv.2011.04.082
+- Oxidative potential of secondary organic aerosols produced from photooxidation of different hydrocarbons using outdoor chamber under ambient sunlight *Atmospheric Environment* (2016) - 76 citations
+  DOI: https://doi.org/10.1016/j.atmosenv.2016.02.016
+- An SOA Model for Toluene Oxidation in the Presence of Inorganic Aerosols *Environmental Science and Technology* (2009) - 72 citations
+  DOI: https://doi.org/10.1021/es901682r
+- Dynamic Oxidative Potential of Atmospheric Organic Aerosol under Ambient Sunlight *Environmental Science and Technology* (2018) - 66 citations
+  DOI: https://doi.org/10.1021/acs.est.8b00148
+
 Recent Publications (from Dimensions.ai):
 - Simulation of Monoterpene SOA Formation by Multiphase Reactions Using Explicit Mechanisms *ACS Earth and Space Chemistry* (2021) - 28 citations
   DOI: https://doi.org/10.1021/acsearthspacechem.1c00056

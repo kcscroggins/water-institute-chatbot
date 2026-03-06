@@ -40,6 +40,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 4.83 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- The human cost of global warming: Deadly landslides and their triggers (1995–2014) *The Science of The Total Environment* (2019) - 417 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2019.03.415
+- Fatal landslides in Europe *Landslides* (2016) - 361 citations
+  DOI: https://doi.org/10.1007/s10346-016-0689-3
+- Increased risk of heat waves in Florida: Characterizing changes in bivariate heat wave risk using extreme value analysis *Applied Geography* (2014) - 69 citations
+  DOI: https://doi.org/10.1016/j.apgeog.2013.11.008
+- Investigating teleconnection drivers of bivariate heat waves in Florida using extreme value analysis *Climate Dynamics* (2014) - 40 citations
+  DOI: https://doi.org/10.1007/s00382-014-2345-8
+- The Disproportionate Impact of COVID-19 among Undocumented Immigrants and Racial Minorities in the US *International Journal of Environmental Research and Public Health* (2021) - 33 citations
+  DOI: https://doi.org/10.3390/ijerph182312708
+
 Recent Publications (from Dimensions.ai):
 - The Disproportionate Impact of COVID-19 among Undocumented Immigrants and Racial Minorities in the US *International Journal of Environmental Research and Public Health* (2021) - 33 citations
   DOI: https://doi.org/10.3390/ijerph182312708

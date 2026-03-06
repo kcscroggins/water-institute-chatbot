@@ -39,6 +39,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.41 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Evaluation of GPM IMERG and its constellations in extreme events over the conterminous united states *Journal of Hydrology* (2022) - 54 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2021.127357
+- How has the latest IMERG V07 improved the precipitation estimates and hydrologic utility over CONUS against IMERG V06? *Journal of Hydrology* (2024) - 25 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2024.132257
+- Introducing Flashiness‐Intensity‐Duration‐Frequency (F‐IDF): A New Metric to Quantify Flash Flood Intensity *Geophysical Research Letters* (2023) - 13 citations
+  DOI: https://doi.org/10.1029/2023gl104992
+- Joint Collaboration on Comparing NOAA’s Ground-Based Weather Radar and NASA–JAXA’s Spaceborne Radar *Bulletin of the American Meteorological Society* (2023) - 13 citations
+  DOI: https://doi.org/10.1175/bams-d-22-0127.1
+- Can re-infiltration process be ignored for flood inundation mapping and prediction during extreme storms? A case study in Texas Gulf Coast region *Environmental Modelling & Software* (2022) - 10 citations
+  DOI: https://doi.org/10.1016/j.envsoft.2022.105450
+
 Recent Publications (from Dimensions.ai):
 - Evaluation of GPM IMERG and its constellations in extreme events over the conterminous united states *Journal of Hydrology* (2022) - 50 citations
   DOI: https://doi.org/10.1016/j.jhydrol.2021.127357

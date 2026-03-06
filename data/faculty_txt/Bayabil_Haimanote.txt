@@ -31,6 +31,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 9.93 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Emerging Contaminants in Soil and Water *Frontiers in Environmental Science* (2022) - 122 citations
+  DOI: https://doi.org/10.3389/fenvs.2022.873499
+- Unmanned aerial vehicle (UAV) imaging and machine learning applications for plant phenotyping *Computers and Electronics in Agriculture* (2023) - 65 citations
+  DOI: https://doi.org/10.1016/j.compag.2023.108064
+- Polyethyleneimine-modified biochar for enhanced phosphate adsorption *Environmental Science and Pollution Research* (2019) - 59 citations
+  DOI: https://doi.org/10.1007/s11356-019-07053-2
+- Improving soil moisture prediction with deep learning and machine learning models *Computers and Electronics in Agriculture* (2024) - 56 citations
+  DOI: https://doi.org/10.1016/j.compag.2024.109414
+- Impacts of Surface Water Quality in the Awash River Basin, Ethiopia: A Systematic Review *Frontiers in Water* (2022) - 51 citations
+  DOI: https://doi.org/10.3389/frwa.2021.790900
+
 Recent Publications (from Dimensions.ai):
 - Emerging Contaminants in Soil and Water *Frontiers in Environmental Science* (2022) - 116 citations
   DOI: https://doi.org/10.3389/fenvs.2022.873499

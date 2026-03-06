@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 25.47 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Climate impacts on global agriculture emerge earlier in new generation of climate and crop models *Nature Food* (2021) - 842 citations
+  DOI: https://doi.org/10.1038/s43016-021-00400-y
+- Similar estimates of temperature impacts on global wheat yield by three independent methods *Nature Climate Change* (2016) - 482 citations
+  DOI: https://doi.org/10.1038/nclimate3115
+- Climate change impact and adaptation for wheat protein *Global Change Biology* (2018) - 477 citations
+  DOI: https://doi.org/10.1111/gcb.14481
+- The uncertainty of crop yield projections is reduced by improved temperature response functions *Nature Plants* (2017) - 317 citations
+  DOI: https://doi.org/10.1038/nplants.2017.102
+- Multi-model projections of future climate and climate change impacts uncertainty assessment for cotton production in Pakistan *Agricultural and Forest Meteorology* (2018) - 235 citations
+  DOI: https://doi.org/10.1016/j.agrformet.2018.02.008
+
 Recent Publications (from Dimensions.ai):
 - Climate impacts on global agriculture emerge earlier in new generation of climate and crop models *Nature Food* (2021) - 820 citations
   DOI: https://doi.org/10.1038/s43016-021-00400-y

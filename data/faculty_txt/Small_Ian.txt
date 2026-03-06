@@ -37,6 +37,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.21 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Brassica carinata: Biology and agronomy as a biofuel crop *GCB Bioenergy* (2021) - 66 citations
+  DOI: https://doi.org/10.1111/gcbb.12804
+- Brassica carinata genotypes demonstrate potential as a winter biofuel crop in South East United States *Industrial Crops and Products* (2020) - 56 citations
+  DOI: https://doi.org/10.1016/j.indcrop.2020.112353
+- Risk Management Strategies using Precision Agriculture Technology to Manage Potato Late Blight *Agronomy Journal* (2017) - 47 citations
+  DOI: https://doi.org/10.2134/agronj2016.07.0418
+- Peanut Yield Loss in the Presence of Defoliation Caused by Late or Early Leaf Spot. *Plant Disease* (2020) - 42 citations
+  DOI: https://doi.org/10.1094/pdis-11-19-2286-re
+- Development of a high-throughput plant disease symptom severity assessment tool using machine learning image analysis and integrated geolocation *Computers and Electronics in Agriculture* (2021) - 40 citations
+  DOI: https://doi.org/10.1016/j.compag.2021.106089
+
 Recent Publications (from Dimensions.ai):
 - Brassica carinata: Biology and agronomy as a biofuel crop *GCB Bioenergy* (2021) - 66 citations
   DOI: https://doi.org/10.1111/gcbb.12804

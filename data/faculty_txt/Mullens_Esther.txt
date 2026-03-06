@@ -39,6 +39,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 1.2 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Quantitative scenarios for future hydrologic extremes in the U.S. Southern Great Plains *International Journal of Climatology* (2019) - 11 citations
+  DOI: https://doi.org/10.1002/joc.5979
+- Meteorological cause and characteristics of widespread heavy precipitation in the Texas Gulf watershed 2003–2018 *International Journal of Climatology* (2021) - 7 citations
+  DOI: https://doi.org/10.1002/joc.7046
+- Temporal and Spatial Analysis of Freezing Rain Regimes over Eastern North America *Journal of Applied Meteorology and Climatology* (2025) - 1 citations
+  DOI: https://doi.org/10.1175/jamc-d-24-0173.1
+- What Does a Modern Atmospheric Dynamics Course Look Like? *Bulletin of the American Meteorological Society* (2025) - 1 citations
+  DOI: https://doi.org/10.1175/bams-d-24-0231.1
+- A Weather Regime‐Based Analysis of Freezing Rain Trends in a Warmer Climate for Eastern North America *International Journal of Climatology* (2025) - 0 citations
+  DOI: https://doi.org/10.1002/joc.70233
+
 Recent Publications (from Dimensions.ai):
 - Meteorological cause and characteristics of widespread heavy precipitation in the Texas Gulf watershed 2003–2018 *International Journal of Climatology* (2021) - 7 citations
   DOI: https://doi.org/10.1002/joc.7046

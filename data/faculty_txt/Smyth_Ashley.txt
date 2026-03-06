@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.56 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Are coastal habitats important nurseries? A meta‐analysis *Conservation Letters* (2019) - 287 citations
+  DOI: https://doi.org/10.1111/conl.12645
+- Calcification-driven CO2 emissions exceed “Blue Carbon” sequestration in a carbonate seagrass meadow *Science Advances* (2021) - 74 citations
+  DOI: https://doi.org/10.1126/sciadv.abj1372
+- Saltwater Intrusion Modifies Microbial Community Structure and Decreases Denitrification in Tidal Freshwater Marshes *Ecosystems* (2018) - 73 citations
+  DOI: https://doi.org/10.1007/s10021-018-0312-7
+- Differential Effects of Bivalves on Sediment Nitrogen Cycling in a Shallow Coastal Bay *Estuaries and Coasts* (2017) - 35 citations
+  DOI: https://doi.org/10.1007/s12237-017-0344-9
+- Wind induced algal migration manipulates sediment denitrification N-loss patterns in shallow Taihu Lake, China *Water Research* (2021) - 30 citations
+  DOI: https://doi.org/10.1016/j.watres.2021.117887
+
 Recent Publications (from Dimensions.ai):
 - Calcification-driven CO2 emissions exceed “Blue Carbon” sequestration in a carbonate seagrass meadow *Science Advances* (2021) - 73 citations
   DOI: https://doi.org/10.1126/sciadv.abj1372

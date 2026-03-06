@@ -26,6 +26,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.83 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Complex response of the forest nitrogen cycle to climate change *Proceedings of the National Academy of Sciences of the United States of America* (2012) - 141 citations
+  DOI: https://doi.org/10.1073/pnas.1121448109
+- Large losses of inorganic nitrogen from tropical rainforests suggest a lack of nitrogen limitation *Ecology Letters* (2011) - 115 citations
+  DOI: https://doi.org/10.1111/j.1461-0248.2011.01701.x
+- Thermal acclimation of leaf respiration of tropical trees and lianas: response to experimental canopy warming, and consequences for tropical forest carbon balance *Global Change Biology* (2014) - 106 citations
+  DOI: https://doi.org/10.1111/gcb.12563
+- Evaluating the drought response of CMIP5 models using global gross primary productivity, leaf area, precipitation, and soil moisture data *Global Biogeochemical Cycles* (2016) - 77 citations
+  DOI: https://doi.org/10.1002/2016gb005480
+- Rate of warming affects temperature sensitivity of anaerobic peat decomposition and greenhouse gas production *Global Change Biology* (2017) - 50 citations
+  DOI: https://doi.org/10.1111/gcb.13839
+
 Recent Publications (from Dimensions.ai):
 - Empirical and Earth system model estimates of boreal nitrogen fixation often differ: A pathway toward reconciliation *Global Change Biology* (2021) - 20 citations
   DOI: https://doi.org/10.1111/gcb.15836

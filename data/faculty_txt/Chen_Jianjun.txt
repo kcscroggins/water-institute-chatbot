@@ -51,6 +51,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 7.83 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Biochar technology in wastewater treatment: A critical review *Chemosphere* (2020) - 814 citations
+  DOI: https://doi.org/10.1016/j.chemosphere.2020.126539
+- Small-Molecule Targeting of Oncogenic FTO Demethylase in Acute Myeloid Leukemia *Cancer Cell* (2019) - 805 citations
+  DOI: https://doi.org/10.1016/j.ccell.2019.03.006
+- Engineered Biochar Reclaiming Phosphate from Aqueous Solutions: Mechanisms and Potential Application as a Slow-Release Fertilizer *Environmental Science and Technology* (2013) - 741 citations
+  DOI: https://doi.org/10.1021/es4012977
+- Biochar amendment improves crop production in problem soils: A review *Journal of Environmental Management* (2018) - 613 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2018.10.117
+- Alginate-based composites for environmental applications: a critical review *Critical Reviews in Environmental Science and Technology* (2018) - 434 citations
+  DOI: https://doi.org/10.1080/10643389.2018.1547621
+
 Recent Publications (from Dimensions.ai):
 - Application of developmental regulators to improve in planta or in vitro transformation in plants *Plant Biotechnology Journal* (2022) - 112 citations
   DOI: https://doi.org/10.1111/pbi.13837

@@ -37,6 +37,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.07 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Grassland Management Affects Delivery of Regulating and Supporting Ecosystem Services *Crop Science* (2019) - 173 citations
+  DOI: https://doi.org/10.2135/cropsci2018.09.0594
+- Manuresheds: Advancing nutrient recycling in US agriculture *Agricultural Systems* (2020) - 132 citations
+  DOI: https://doi.org/10.1016/j.agsy.2020.102813
+- Short-term effects of grazing intensity and nitrogen fertilization on soil organic carbon pools under perennial grass pastures in the southeastern USA *Soil Biology and Biochemistry* (2013) - 67 citations
+  DOI: https://doi.org/10.1016/j.soilbio.2012.11.003
+- Assessing the sensitivity and repeatability of permanganate oxidizable carbon as a soil health metric: An interlab comparison across soils *Geoderma* (2020) - 50 citations
+  DOI: https://doi.org/10.1016/j.geoderma.2020.114235
+- Nitrogen Fertilization and Proportion of Legume Affect Litter Decomposition and Nutrient Return in Grass Pastures *Crop Science* (2018) - 47 citations
+  DOI: https://doi.org/10.2135/cropsci2018.01.0028
+
 Recent Publications (from Dimensions.ai):
 - A framework for sustainable management of ecosystem services and disservices in perennial grassland agroecosystems *Ecosphere* (2021) - 32 citations
   DOI: https://doi.org/10.1002/ecs2.3837

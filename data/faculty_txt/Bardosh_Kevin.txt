@@ -43,6 +43,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 4.72 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Community-Centered Responses to Ebola in Urban Liberia: The View from Below *PLOS Neglected Tropical Diseases* (2015) - 234 citations
+  DOI: https://doi.org/10.1371/journal.pntd.0003706
+- A planetary vision for one health *BMJ Global Health* (2018) - 116 citations
+  DOI: https://doi.org/10.1136/bmjgh-2018-001137
+- Addressing vulnerability, building resilience: community-based adaptation to vector-borne diseases in the context of global change *Infectious Diseases of Poverty* (2017) - 113 citations
+  DOI: https://doi.org/10.1186/s40249-017-0375-2
+- Achieving “Total Sanitation” in Rural African Geographies: Poverty, Participation and Pit Latrines in Eastern Zambia *Geoforum* (2015) - 56 citations
+  DOI: https://doi.org/10.1016/j.geoforum.2015.09.004
+- Engaging research with policy and action: what are the challenges of responding to zoonotic disease in Africa? *Philosophical Transactions of the Royal Society B Biological Sciences* (2017) - 49 citations
+  DOI: https://doi.org/10.1098/rstb.2016.0172
+
 Recent Publications (from Dimensions.ai):
 - Campylobacter Colonization, Environmental Enteric Dysfunction, Stunting, and Associated Risk Factors Among Young Children in Rural Ethiopia: A Cross-Sectional Study From the Campylobacter Genomics and Environmental Enteric Dysfunction (CAGED) Project *Frontiers in Public Health* (2021) - 44 citations
   DOI: https://doi.org/10.3389/fpubh.2020.615793

@@ -46,6 +46,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 26.29 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Development and evaluation of a low-cost and smart technology for precision weed management utilizing artificial intelligence *Computers and Electronics in Agriculture* (2019) - 409 citations
+  DOI: https://doi.org/10.1016/j.compag.2018.12.048
+- UAV-Based High Throughput Phenotyping in Citrus Utilizing Multispectral Imaging and Artificial Intelligence *Remote Sensing* (2019) - 244 citations
+  DOI: https://doi.org/10.3390/rs11040410
+- UAV-Based Remote Sensing Technique to Detect Citrus Canker Disease Utilizing Hyperspectral Imaging and Machine Learning *Remote Sensing* (2019) - 234 citations
+  DOI: https://doi.org/10.3390/rs11111373
+- Diagnosis of grape leaf diseases using automatic K-means clustering and machine learning *Smart Agricultural Technology* (2023) - 230 citations
+  DOI: https://doi.org/10.1016/j.atech.2022.100081
+- Detection of target spot and bacterial spot diseases in tomato using UAV-based and benchtop-based hyperspectral imaging techniques *Precision Agriculture* (2019) - 206 citations
+  DOI: https://doi.org/10.1007/s11119-019-09703-4
+
 Recent Publications (from Dimensions.ai):
 - Diagnosis of grape leaf diseases using automatic K-means clustering and machine learning *Smart Agricultural Technology* (2023) - 220 citations
   DOI: https://doi.org/10.1016/j.atech.2022.100081

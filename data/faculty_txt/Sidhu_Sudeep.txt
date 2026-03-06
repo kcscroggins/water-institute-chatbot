@@ -39,6 +39,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 27.73 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- An evaluation of carbon indicators of soil health in long-term agricultural experiments *Soil Biology and Biochemistry* (2022) - 196 citations
+  DOI: https://doi.org/10.1016/j.soilbio.2022.108708
+- Evaluation of aggregate stability methods for soil health *Geoderma* (2022) - 108 citations
+  DOI: https://doi.org/10.1016/j.geoderma.2022.116156
+- Selecting soil hydraulic properties as indicators of soil health: Measurement response to management and site characteristics *Soil Science Society of America Journal* (2022) - 59 citations
+  DOI: https://doi.org/10.1002/saj2.20428
+- Linking soil microbial community structure to potential carbon mineralization: A continental scale assessment of reduced tillage *Soil Biology and Biochemistry* (2022) - 36 citations
+  DOI: https://doi.org/10.1016/j.soilbio.2022.108618
+- An evaluation of nitrogen indicators for soil health in long‐term agricultural experiments *Soil Science Society of America Journal* (2023) - 32 citations
+  DOI: https://doi.org/10.1002/saj2.20558
+
 Recent Publications (from Dimensions.ai):
 - An evaluation of carbon indicators of soil health in long-term agricultural experiments *Soil Biology and Biochemistry* (2022) - 194 citations
   DOI: https://doi.org/10.1016/j.soilbio.2022.108708

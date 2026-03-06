@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.65 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Factors affecting seed germination of tropical signalgrass (Urochloa subquadripara) *Weed Science* (2004) - 44 citations
+  DOI: https://doi.org/10.1614/ws-03-121r1
+- Nitrate Leaching and Turf Quality in Established ‘Floratam’ St. Augustinegrass and ‘Empire’ Zoysiagrass *Journal of Environmental Quality* (2012) - 30 citations
+  DOI: https://doi.org/10.2134/jeq2011.0183
+- Potential Unintended Consequences Associated with Urban Fertilizer Bans in Florida—A Scientific Review *HortTechnology* (2012) - 29 citations
+  DOI: https://doi.org/10.21273/horttech.22.5.600
+- Physiological Responses to Soil Drying by Warm‐Season Turfgrass Species *Crop Science* (2017) - 29 citations
+  DOI: https://doi.org/10.2135/cropsci2016.05.0316
+- Water use and management practices on U.S. golf courses *Crop, Forage & Turfgrass Management* (2022) - 28 citations
+  DOI: https://doi.org/10.1002/cft2.20182
+
 Recent Publications (from Dimensions.ai):
 - Water use and management practices on U.S. golf courses *Crop, Forage & Turfgrass Management* (2022) - 28 citations
   DOI: https://doi.org/10.1002/cft2.20182

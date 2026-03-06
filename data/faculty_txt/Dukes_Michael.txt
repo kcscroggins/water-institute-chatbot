@@ -44,6 +44,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 7.43 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Tomato yield, biomass accumulation, root distribution and irrigation water use efficiency on a sandy soil, as affected by nitrogen rate and irrigation scheduling *Agricultural Water Management* (2009) - 278 citations
+  DOI: https://doi.org/10.1016/j.agwat.2008.06.007
+- Influence of likelihood function choice for estimating crop model parameters using the generalized likelihood uncertainty estimation method *Agricultural Systems* (2010) - 212 citations
+  DOI: https://doi.org/10.1016/j.agsy.2010.01.006
+- Evaluating nutrient impacts in urban watersheds: Challenges and research opportunities *Environmental Pollution* (2012) - 183 citations
+  DOI: https://doi.org/10.1016/j.envpol.2012.10.004
+- Step by Step Calculation of the Penman-Monteith Evapotranspiration (FAO-56 Method): AE459, 2/2010 *EDIS* (2024) - 118 citations
+  DOI: https://doi.org/10.32473/edis-ae459-2010
+- Residential Irrigation Water Use in Central Florida *Journal of Irrigation and Drainage Engineering* (2007) - 117 citations
+  DOI: https://doi.org/10.1061/(asce)0733-9437(2007)133:5(427)
+
 Recent Publications (from Dimensions.ai):
 - Step by Step Calculation of the Penman-Monteith Evapotranspiration (FAO-56 Method): AE459, 2/2010 *EDIS* (2024) - 112 citations
   DOI: https://doi.org/10.32473/edis-ae459-2010

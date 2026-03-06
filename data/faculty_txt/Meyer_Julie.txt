@@ -33,6 +33,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 6.77 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Microbial Community Shifts Associated With the Ongoing Stony Coral Tissue Loss Disease Outbreak on the Florida Reef Tract *Frontiers in Microbiology* (2019) - 190 citations
+  DOI: https://doi.org/10.3389/fmicb.2019.02244
+- Pathogenesis of a Tissue Loss Disease Affecting Multiple Species of Corals Along the Florida Reef Tract *Frontiers in Marine Science* (2019) - 158 citations
+  DOI: https://doi.org/10.3389/fmars.2019.00678
+- Lactobacillus johnsonii N6.2 Modulates the Host Immune Responses: A Double-Blind, Randomized Trial in Healthy Adults *Frontiers in Immunology* (2017) - 98 citations
+  DOI: https://doi.org/10.3389/fimmu.2017.00655
+- Insights into the Cultured Bacterial Fraction of Corals *mSystems* (2021) - 94 citations
+  DOI: https://doi.org/10.1128/msystems.01249-20
+- Disease Diagnostics and Potential Coinfections by Vibrio coralliilyticus During an Ongoing Coral Disease Outbreak in Florida *Frontiers in Microbiology* (2020) - 94 citations
+  DOI: https://doi.org/10.3389/fmicb.2020.569354
+
 Recent Publications (from Dimensions.ai):
 - Insights into the Cultured Bacterial Fraction of Corals *mSystems* (2021) - 92 citations
   DOI: https://doi.org/10.1128/msystems.01249-20

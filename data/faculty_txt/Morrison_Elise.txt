@@ -30,6 +30,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 4.37 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Methanogens Are Major Contributors to Nitrogen Fixation in Soils of the Florida Everglades *Applied and Environmental Microbiology* (2018) - 80 citations
+  DOI: https://doi.org/10.1128/aem.02222-17
+- Sea-level rise and the emergence of a keystone grazer alter the geomorphic evolution and ecology of southeast US salt marshes *Proceedings of the National Academy of Sciences of the United States of America* (2020) - 70 citations
+  DOI: https://doi.org/10.1073/pnas.1917869117
+- What global biogeochemical consequences will marine animal–sediment interactions have during climate change? *Elementa: Science of the Anthropocene* (2021) - 46 citations
+  DOI: https://doi.org/10.1525/elementa.2020.00180
+- Initial estuarine response to inorganic nutrient inputs from a legacy mining facility adjacent to Tampa Bay, Florida *Marine Pollution Bulletin* (2022) - 35 citations
+  DOI: https://doi.org/10.1016/j.marpolbul.2022.113598
+- Marine microbial community responses related to wetland carbon mobilization in the coastal zone *Limnology and Oceanography Letters* (2018) - 34 citations
+  DOI: https://doi.org/10.1002/lol2.10101
+
 Recent Publications (from Dimensions.ai):
 - What global biogeochemical consequences will marine animal–sediment interactions have during climate change? *Elementa: Science of the Anthropocene* (2021) - 44 citations
   DOI: https://doi.org/10.1525/elementa.2020.00180

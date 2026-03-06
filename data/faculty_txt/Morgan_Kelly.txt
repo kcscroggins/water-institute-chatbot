@@ -40,6 +40,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 7.37 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Step by Step Calculation of the Penman-Monteith Evapotranspiration (FAO-56 Method): AE459, 2/2010 *EDIS* (2024) - 118 citations
+  DOI: https://doi.org/10.32473/edis-ae459-2010
+- Use of Irrigation Technologies for Vegetable Crops in Florida *HortTechnology* (2010) - 90 citations
+  DOI: https://doi.org/10.21273/horttech.20.1.133
+- Release Mechanisms for Slow- and Controlled-release Fertilizers and Strategies for Their Use in Vegetable Production *HortTechnology* (2009) - 74 citations
+  DOI: https://doi.org/10.21273/hortsci.19.1.10
+- Optimizing nitrogen fertilizer rates and time of application for potatoes under seepage irrigation *Field Crops Research* (2018) - 55 citations
+  DOI: https://doi.org/10.1016/j.fcr.2017.10.004
+- Effect of Irrigation Pattern and Timing on Root Density of Young Citrus Trees Infected with Huanglongbing Disease *HortTechnology* (2014) - 54 citations
+  DOI: https://doi.org/10.21273/horttech.24.2.209
+
 Recent Publications (from Dimensions.ai):
 - Step by Step Calculation of the Penman-Monteith Evapotranspiration (FAO-56 Method): AE459, 2/2010 *EDIS* (2024) - 112 citations
   DOI: https://doi.org/10.32473/edis-ae459-2010

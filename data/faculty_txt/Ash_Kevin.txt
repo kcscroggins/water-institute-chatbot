@@ -32,6 +32,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 5.44 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- The influences of ENSO and the subtropical Indian Ocean Dipole on tropical cyclone trajectories in the southwestern Indian Ocean *International Journal of Climatology* (2010) - 71 citations
+  DOI: https://doi.org/10.1002/joc.2249
+- Does tourism matter in measuring community resilience? *Annals of Tourism Research* (2021) - 70 citations
+  DOI: https://doi.org/10.1016/j.annals.2021.103222
+- A Quantitative Framework for Analyzing Spatial Dynamics of Flood Events: A Case Study of Super Cyclone Amphan *Remote Sensing* (2020) - 44 citations
+  DOI: https://doi.org/10.3390/rs12203454
+- Tourism and economic resilience *Annals of Tourism Research* (2021) - 43 citations
+  DOI: https://doi.org/10.1016/j.annals.2020.103024
+- Mobile home resident evacuation vulnerability and emergency medical service access during tornado events in the Southeast United States *International Journal of Disaster Risk Reduction* (2019) - 41 citations
+  DOI: https://doi.org/10.1016/j.ijdrr.2019.101210
+
 Recent Publications (from Dimensions.ai):
 - Does tourism matter in measuring community resilience? *Annals of Tourism Research* (2021) - 69 citations
   DOI: https://doi.org/10.1016/j.annals.2021.103222

@@ -36,6 +36,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 7.45 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Tree planting by small producers in the tropics: A comparative study of Brazil and Panama *Agroforestry Systems* (2002) - 56 citations
+  DOI: https://doi.org/10.1023/a:1021377231402
+- Smallholders, Agrarian Reform, and Globalization in the Brazilian Amazon: Cattle versus the Environment *Land* (2016) - 30 citations
+  DOI: https://doi.org/10.3390/land5030024
+- Non-Timber Forest Products and the Cosmetic Industry: An Econometric Assessment of Contributions to Income in the Brazilian Amazon *Land* (2021) - 29 citations
+  DOI: https://doi.org/10.3390/land10060588
+- The changing dynamics of land conflict in the Brazilian Amazon: The rural-urban complex and its environmental implications *Urban Ecosystems* (2002) - 28 citations
+  DOI: https://doi.org/10.1023/a:1025918730400
+- Post-NAFTA Changes in Peasant Land Use—The Case of the Pátzcuaro Lake Watershed Region in the Central-West México *Land* (2020) - 12 citations
+  DOI: https://doi.org/10.3390/land9030075
+
 Recent Publications (from Dimensions.ai):
 - Non-Timber Forest Products and the Cosmetic Industry: An Econometric Assessment of Contributions to Income in the Brazilian Amazon *Land* (2021) - 29 citations
   DOI: https://doi.org/10.3390/land10060588

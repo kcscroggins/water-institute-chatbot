@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 1.94 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Production and Performance of Triploid Oysters for Aquaculture: FA208, 7/2018 *EDIS* (2018) - 21 citations
+  DOI: https://doi.org/10.32473/edis-fa208-2018
+- Molluscan Shellfish Aquaculture and Production: FA191/FA191, 1/2016 *EDIS* (2016) - 20 citations
+  DOI: https://doi.org/10.32473/edis-fa191-2016
+- Tetraploid Induction and Establishment of Breeding Stocks for All-Triploid Seed Production: FA215, 5/2019 *EDIS* (2019) - 11 citations
+  DOI: https://doi.org/10.32473/edis-fa215-2019
+- Development and validation of a 66K SNP array for the hard clam (Mercenaria mercenaria) *BMC Genomics* (2024) - 7 citations
+  DOI: https://doi.org/10.1186/s12864-024-10756-7
+- Concepts, History, Principles, and Application of Germplasm Cryopreservation Technology: FA223, 4/2020 *EDIS* (2020) - 6 citations
+  DOI: https://doi.org/10.32473/edis-fa223-2020
+
 Recent Publications (from Dimensions.ai):
 - Development and validation of a 66K SNP array for the hard clam (Mercenaria mercenaria) *BMC Genomics* (2024) - 6 citations
   DOI: https://doi.org/10.1186/s12864-024-10756-7

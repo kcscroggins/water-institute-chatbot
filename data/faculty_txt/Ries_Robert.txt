@@ -37,6 +37,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 6.29 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- The embodied energy and environmental emissions of construction projects in China: An economic input–output LCA model *Energy Policy* (2010) - 192 citations
+  DOI: https://doi.org/10.1016/j.enpol.2010.06.030
+- Life-cycle comparison of greenhouse gas emissions and water consumption for coal and shale gas fired power generation in China *Energy* (2015) - 144 citations
+  DOI: https://doi.org/10.1016/j.energy.2015.04.034
+- Storm Water Runoff Mitigation Using a Green Roof *Environmental Engineering Science* (2009) - 137 citations
+  DOI: https://doi.org/10.1089/ees.2007.0186
+- Estimating Construction Project Environmental Effects Using an Input-Output-Based Hybrid Life-Cycle Assessment Model *Journal of Infrastructure Systems* (2008) - 136 citations
+  DOI: https://doi.org/10.1061/(asce)1076-0342(2008)14:4(327)
+- Life-Cycle Assessment Modeling of Construction Processes for Buildings *Journal of Infrastructure Systems* (2009) - 135 citations
+  DOI: https://doi.org/10.1061/(asce)is.1943-555x.0000022
+
 Recent Publications (from Dimensions.ai):
 - Monte Carlo parameters in modeling service life: Influence on life-cycle assessment *Journal of Building Engineering* (2021) - 33 citations
   DOI: https://doi.org/10.1016/j.jobe.2021.103232

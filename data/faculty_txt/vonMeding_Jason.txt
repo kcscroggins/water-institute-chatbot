@@ -39,6 +39,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 10.53 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- A Dilemma of Language: “Natural Disasters” in Academic Literature *International Journal of Disaster Risk Science* (2019) - 220 citations
+  DOI: https://doi.org/10.1007/s13753-019-00232-2
+- Flood risk assessment using deep learning integrated with multi-criteria decision analysis *Knowledge-Based Systems* (2021) - 149 citations
+  DOI: https://doi.org/10.1016/j.knosys.2021.106899
+- Can deep learning algorithms outperform benchmark machine learning algorithms in flood susceptibility modeling? *Journal of Hydrology* (2021) - 126 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2020.125615
+- Framework of Spatial Flood Risk Assessment for a Case Study in Quang Binh Province, Vietnam *Sustainability* (2020) - 47 citations
+  DOI: https://doi.org/10.3390/su12073058
+- What We Measure Matters: The Case of the Missing Development Data in Sendai Framework for Disaster Risk Reduction Monitoring *International Journal of Disaster Risk Science* (2021) - 42 citations
+  DOI: https://doi.org/10.1007/s13753-021-00382-2
+
 Recent Publications (from Dimensions.ai):
 - Flood risk assessment using deep learning integrated with multi-criteria decision analysis *Knowledge-Based Systems* (2021) - 143 citations
   DOI: https://doi.org/10.1016/j.knosys.2021.106899

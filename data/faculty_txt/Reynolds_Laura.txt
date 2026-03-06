@@ -39,6 +39,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 5.92 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- A quantitative inventory of global soniferous fish diversity *Reviews in Fish Biology and Fisheries* (2022) - 98 citations
+  DOI: https://doi.org/10.1007/s11160-022-09702-1
+- FishSounds Version 1.0: A website for the compilation of fish sound production information and recordings *Ecological Informatics* (2023) - 38 citations
+  DOI: https://doi.org/10.1016/j.ecoinf.2022.101953
+- Worldwide Soundscapes: A Synthesis of Passive Acoustic Monitoring Across Realms *Global Ecology and Biogeography* (2025) - 32 citations
+  DOI: https://doi.org/10.1111/geb.70021
+- Global inventory of species categorized by known underwater sonifery *Scientific Data* (2023) - 24 citations
+  DOI: https://doi.org/10.1038/s41597-023-02745-4
+- Seagrass meadow stability and composition influence carbon storage *Landscape Ecology* (2023) - 23 citations
+  DOI: https://doi.org/10.1007/s10980-023-01700-3
+
 Recent Publications (from Dimensions.ai):
 - A quantitative inventory of global soniferous fish diversity *Reviews in Fish Biology and Fisheries* (2022) - 96 citations
   DOI: https://doi.org/10.1007/s11160-022-09702-1

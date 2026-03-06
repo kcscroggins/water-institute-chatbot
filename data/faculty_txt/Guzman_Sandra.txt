@@ -28,6 +28,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.3 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Evaluation of Seasonally Classified Inputs for the Prediction of Daily Groundwater Levels: NARX Networks Vs Support Vector Machines *Environmental Modeling & Assessment* (2018) - 91 citations
+  DOI: https://doi.org/10.1007/s10666-018-9639-x
+- Selection of Effective GCM Bias Correction Methods and Evaluation of Hydrological Response under Future Climate Scenarios *Climate* (2020) - 34 citations
+  DOI: https://doi.org/10.3390/cli8100108
+- A Hybrid Data-Driven Machine Learning Technique for Evapotranspiration Modeling in Various Climates *Atmosphere* (2019) - 26 citations
+  DOI: https://doi.org/10.3390/atmos10060311
+- Two-step hybrid model for monthly runoff prediction utilizing integrated machine learning algorithms and dual signal decompositions *Ecological Informatics* (2024) - 19 citations
+  DOI: https://doi.org/10.1016/j.ecoinf.2024.102914
+- Adaptive and predictive decision support system for irrigation scheduling: An approach integrating humans in the control loop *Computers and Electronics in Agriculture* (2024) - 19 citations
+  DOI: https://doi.org/10.1016/j.compag.2024.108640
+
 Recent Publications (from Dimensions.ai):
 - Two-step hybrid model for monthly runoff prediction utilizing integrated machine learning algorithms and dual signal decompositions *Ecological Informatics* (2024) - 16 citations
   DOI: https://doi.org/10.1016/j.ecoinf.2024.102914

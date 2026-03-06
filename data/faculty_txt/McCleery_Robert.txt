@@ -39,6 +39,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.38 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- A practical guide for combining data to model species distributions *Ecology* (2019) - 265 citations
+  DOI: https://doi.org/10.1002/ecy.2710
+- Land-cover change within and around protected areas in a biodiversity hotspot *Journal of Land Use Science* (2015) - 99 citations
+  DOI: https://doi.org/10.1080/1747423x.2015.1086905
+- Marsh rabbit mortalities tie pythons to the precipitous decline of mammals in the Everglades *Proceedings of the Royal Society B* (2015) - 88 citations
+  DOI: https://doi.org/10.1098/rspb.2015.0120
+- Shrub encroachment and vertebrate diversity: A global meta‐analysis *Global Ecology and Biogeography* (2017) - 86 citations
+  DOI: https://doi.org/10.1111/geb.12675
+- Defaunation and fragmentation erode small mammal diversity dimensions in tropical forests *Ecography* (2018) - 77 citations
+  DOI: https://doi.org/10.1111/ecog.03504
+
 Recent Publications (from Dimensions.ai):
 - Fear of large carnivores is tied to ungulate habitat use: evidence from a bifactorial experiment *Scientific Reports* (2021) - 30 citations
   DOI: https://doi.org/10.1038/s41598-021-92469-5

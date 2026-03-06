@@ -34,6 +34,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 4.6 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Pain, Analgesic Use, and Patient Satisfaction With Spinal Versus General Anesthesia for Hip Fracture Surgery : A Randomized Clinical Trial. *Annals of Internal Medicine* (2022) - 58 citations
+  DOI: https://doi.org/10.7326/m22-0320
+- Multi- and Transgenerational Effects of Developmental Exposure to Environmental Levels of PFAS and PFAS Mixture in Zebrafish (Danio rerio) *Toxics* (2022) - 52 citations
+  DOI: https://doi.org/10.3390/toxics10060334
+- Nonlethal detection of PFAS bioaccumulation and biomagnification within fishes in an urban- and wastewater-dominant Great Lakes watershed *Environmental Pollution* (2023) - 36 citations
+  DOI: https://doi.org/10.1016/j.envpol.2023.121123
+- Insight into 2,3,7,8-tetrachlorodibenzo-p-dioxin-induced disruption of zebrafish spermatogenesis via single cell RNA-seq *PNAS Nexus* (2022) - 19 citations
+  DOI: https://doi.org/10.1093/pnasnexus/pgac060
+- Identification and quantification of novel per- and polyfluoroalkyl substances (PFAS) contamination in a Great Lakes urban-dominated watershed *The Science of The Total Environment* (2024) - 15 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2024.173325
+
 Recent Publications (from Dimensions.ai):
 - Pain, Analgesic Use, and Patient Satisfaction With Spinal Versus General Anesthesia for Hip Fracture Surgery : A Randomized Clinical Trial. *Annals of Internal Medicine* (2022) - 56 citations
   DOI: https://doi.org/10.7326/m22-0320

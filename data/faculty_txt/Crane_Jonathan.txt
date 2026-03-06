@@ -47,6 +47,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 4.27 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Potential Economic Impact of Laurel Wilt Disease on the Florida Avocado Industry *HortTechnology* (2010) - 75 citations
+  DOI: https://doi.org/10.21273/horttech.20.1.234
+- Plant response to evapotranspiration and soil water sensor irrigation scheduling methods for papaya production in south Florida *Agricultural Water Management* (2010) - 70 citations
+  DOI: https://doi.org/10.1016/j.agwat.2010.04.012
+- Influence of Flooding on Net CO 2 Assimilation, Growth and Stem Anatomy of Annona Species *Annals of Botany* (1999) - 67 citations
+  DOI: https://doi.org/10.1006/anbo.1999.0977
+- Relationship between Sensory Attributes and Chemical Composition of Different Mango Cultivars *Journal of Agricultural and Food Chemistry* (2019) - 60 citations
+  DOI: https://doi.org/10.1021/acs.jafc.9b01018
+- Characterization of key aroma-active compounds in lychee (Litchi chinensis Sonn.) *Journal of Food and Drug Analysis* (2017) - 51 citations
+  DOI: https://doi.org/10.1016/j.jfda.2017.07.013
+
 Recent Publications (from Dimensions.ai):
 - Pathway-Based Metabolomics Analysis Reveals Biosynthesis of Key Flavor Compounds in Mango *Journal of Agricultural and Food Chemistry* (2021) - 23 citations
   DOI: https://doi.org/10.1021/acs.jafc.1c06008

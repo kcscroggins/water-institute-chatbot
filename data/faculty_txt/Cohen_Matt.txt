@@ -63,6 +63,20 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 7.45 (1.0 = field average)
 
+
+
+Top Cited Papers (All Time, from Dimensions.ai):
+- Do geographically isolated wetlands influence landscape functions? *Proceedings of the National Academy of Sciences of the United States of America* (2016) - 375 citations
+  DOI: https://doi.org/10.1073/pnas.1512650113
+- Sensors in the Stream: The High-Frequency Wave of the Present *Environmental Science and Technology* (2016) - 315 citations
+  DOI: https://doi.org/10.1021/acs.est.6b02155
+- Wetlands as large-scale nature-based solutions: Status and challenges for research, engineering and management *Ecological Engineering* (2017) - 303 citations
+  DOI: https://doi.org/10.1016/j.ecoleng.2017.07.012
+- Enhancing protection for vulnerable waters *Nature Geoscience* (2017) - 178 citations
+  DOI: https://doi.org/10.1038/ngeo3041
+- Global carbon dioxide efflux from rivers enhanced by high nocturnal emissions *Nature Geoscience* (2021) - 169 citations
+  DOI: https://doi.org/10.1038/s41561-021-00722-3
+
 Recent Publications (from Dimensions.ai):
 - Global carbon dioxide efflux from rivers enhanced by high nocturnal emissions *Nature Geoscience* (2021) - 167 citations
   DOI: https://doi.org/10.1038/s41561-021-00722-3

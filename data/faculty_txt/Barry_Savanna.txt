@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.11 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Coping with the Lionfish Invasion: Can Targeted Removals Yield Beneficial Effects? *Reviews in Fisheries Science* (2012) - 129 citations
+  DOI: https://doi.org/10.1080/10641262.2012.700655
+- The Use of Non-Plastic Materials for Oyster Reef and Shoreline Restoration: Understanding What Is Needed and Where the Field Is Headed *Sustainability* (2022) - 29 citations
+  DOI: https://doi.org/10.3390/su14138055
+- Production and carbonate dynamics of Halimeda incrassata (Ellis) Lamouroux altered by Thalassia testudinum Banks and Soland ex König *Journal of Experimental Marine Biology and Ecology* (2013) - 28 citations
+  DOI: https://doi.org/10.1016/j.jembe.2013.03.012
+- Characterizing blue carbon stocks in Thalassia testudinum meadows subjected to different phosphorus supplies: A lignin biomarker approach *Limnology and Oceanography* (2018) - 25 citations
+  DOI: https://doi.org/10.1002/lno.10965
+- Seagrass Abundance Predicts Surficial Soil Organic Carbon Stocks Across the Range of Thalassia testudinum in the Western North Atlantic *Estuaries and Coasts* (2023) - 18 citations
+  DOI: https://doi.org/10.1007/s12237-023-01210-0
+
 Recent Publications (from Dimensions.ai):
 - The Use of Non-Plastic Materials for Oyster Reef and Shoreline Restoration: Understanding What Is Needed and Where the Field Is Headed *Sustainability* (2022) - 28 citations
   DOI: https://doi.org/10.3390/su14138055

@@ -43,6 +43,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.54 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Roads as Drivers of Change: Trajectories across the Tri‑National Frontier in MAP, the Southwestern Amazon *Remote Sensing* (2011) - 113 citations
+  DOI: https://doi.org/10.3390/rs3051047
+- The evolution and resilience of community-based land tenure in rural Mexico *Land Use Policy* (2009) - 85 citations
+  DOI: https://doi.org/10.1016/j.landusepol.2008.05.007
+- The conceptual evolution and practice of community-based natural resource management in southern Africa: past, present and future *Environmental Conservation* (2010) - 65 citations
+  DOI: https://doi.org/10.1017/s0376892910000512
+- Trans-boundary infrastructure and land cover change: Highway paving and community-level deforestation in a tri-national frontier in the Amazon *Land Use Policy* (2013) - 59 citations
+  DOI: https://doi.org/10.1016/j.landusepol.2013.01.009
+- Social Geomatics: Participatory Forest Mapping to Mediate Resource Conflict in the Bolivian Amazon *Human Ecology* (2010) - 47 citations
+  DOI: https://doi.org/10.1007/s10745-009-9296-4
+
 Recent Publications (from Dimensions.ai):
 - Harnessing the NEON data revolution to advance open environmental science with a diverse and data‐capable community *Ecosphere* (2021) - 28 citations
   DOI: https://doi.org/10.1002/ecs2.3833

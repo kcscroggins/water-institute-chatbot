@@ -53,6 +53,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 1.4 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Biochar for volatile organic compound (VOC) removal: Sorption performance and governing mechanisms *Bioresource Technology* (2017) - 262 citations
+  DOI: https://doi.org/10.1016/j.biortech.2017.09.025
+- Field Implementation of a Winsor Type I Surfactant/Alcohol Mixture for in Situ Solubilization of a Complex LNAPL as a Single-Phase Microemulsion *Environmental Science and Technology* (1998) - 121 citations
+  DOI: https://doi.org/10.1021/es970507i
+- Partitioning Tracers for Measuring Residual NAPL: Field-Scale Test Results *Journal of Environmental Engineering* (1998) - 120 citations
+  DOI: https://doi.org/10.1061/(asce)0733-9372(1998)124:6(498)
+- In-Situ Alcohol Flushing of a DNAPL Source Zone at a Dry Cleaner Site *Environmental Science and Technology* (2000) - 113 citations
+  DOI: https://doi.org/10.1021/es9913737
+- DNAPL source depletion: Linking architecture and flux response *Journal of Contaminant Hydrology* (2006) - 111 citations
+  DOI: https://doi.org/10.1016/j.jconhyd.2006.01.002
+
 Recent Publications (from Dimensions.ai):
 - Analysis of Facilitated Air Intrusion during Surfactant-enhanced Air Sparging Using Surface Tension-reducing Chemicals: Surfactants and Alcohols *Soil and Sediment Contamination An International Journal* (2021) - 6 citations
   DOI: https://doi.org/10.1080/15320383.2021.1913574

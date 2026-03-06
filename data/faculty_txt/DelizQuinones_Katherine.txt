@@ -41,6 +41,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 4.74 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Insights into the mechanisms of mercury sorption onto aluminum based drinking water treatment residuals *Journal of Hazardous Materials* (2016) - 41 citations
+  DOI: https://doi.org/10.1016/j.jhazmat.2016.01.001
+- Assessment of per- and polyfluoroalkyl substances (PFAS) in the Indian River Lagoon and Atlantic coast of Brevard County, FL, reveals distinct spatial clusters *Chemosphere* (2022) - 36 citations
+  DOI: https://doi.org/10.1016/j.chemosphere.2022.134478
+- Insights into solid phase denitrification in wastewater tertiary treatment: the role of solid carbon source in carbon biodegradation and heterotrophic denitrification *Bioresource Technology* (2023) - 23 citations
+  DOI: https://doi.org/10.1016/j.biortech.2023.128838
+- Trees, trash, and hurricanes: The case study of Puerto Rico and vegetative disaster debris management after Hurricanes Irma and Maria *International Journal of Disaster Risk Reduction* (2022) - 9 citations
+  DOI: https://doi.org/10.1016/j.ijdrr.2022.103298
+- Swimming with PFAS in public and private pools *Chemosphere* (2022) - 8 citations
+  DOI: https://doi.org/10.1016/j.chemosphere.2022.136765
+
 Recent Publications (from Dimensions.ai):
 - Assessment of per- and polyfluoroalkyl substances (PFAS) in the Indian River Lagoon and Atlantic coast of Brevard County, FL, reveals distinct spatial clusters *Chemosphere* (2022) - 34 citations
   DOI: https://doi.org/10.1016/j.chemosphere.2022.134478

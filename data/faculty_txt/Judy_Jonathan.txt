@@ -40,6 +40,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.47 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Nanomaterials in the environment: Behavior, fate, bioavailability, and effects—An updated review *Environmental Toxicology and Chemistry* (2018) - 632 citations
+  DOI: https://doi.org/10.1002/etc.4147
+- Microplastics in municipal mixed-waste organic outputs induce minimal short to long-term toxicity in key terrestrial biota *Environmental Pollution* (2019) - 278 citations
+  DOI: https://doi.org/10.1016/j.envpol.2019.05.027
+- Nano-enabled agriculture: from nanoparticles to smart nanodelivery systems *Environmental Chemistry* (2020) - 124 citations
+  DOI: https://doi.org/10.1071/en19254
+- Plant and Microbial Responses to Repeated Cu(OH)2 Nanopesticide Exposures Under Different Fertilization Levels in an Agro-Ecosystem *Frontiers in Microbiology* (2018) - 65 citations
+  DOI: https://doi.org/10.3389/fmicb.2018.01769
+- Incorporating Transgenerational Epigenetic Inheritance into Ecological Risk Assessment Frameworks *Environmental Science and Technology* (2017) - 56 citations
+  DOI: https://doi.org/10.1021/acs.est.7b01094
+
 Recent Publications (from Dimensions.ai):
 - Copper stress alleviation in corn (Zea mays L.): Comparative efficiency of carbon nanotubes and carbon nanoparticles *NanoImpact* (2022) - 30 citations
   DOI: https://doi.org/10.1016/j.impact.2022.100381

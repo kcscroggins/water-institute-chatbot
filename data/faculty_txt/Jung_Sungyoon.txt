@@ -24,6 +24,14 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Average Citations per Paper: 2.0
 - Open Access Publications: 100.0%
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Development of Standardized Methods to Extract and Digest Microplastics in Environmental Samples *Analytical Chemistry* (2025) - 4 citations
+  DOI: https://doi.org/10.1021/acs.analchem.5c00419
+- Large-Language-Model-Assisted Microbial Source Tracking Reveals Mechanisms of Tropical Cyclone Impacts on Microbial Water Quality in Coastal Environments *Research Square* (2026) - 0 citations
+  DOI: https://doi.org/10.21203/rs.3.rs-8765875/v1
+- Optimization of a Sequential Method for Microplastic Extraction from Environmental Samples *Water, Air, & Soil Pollution* (2025) - 0 citations
+  DOI: https://doi.org/10.1007/s11270-025-08879-y
+
 Recent Publications (from Dimensions.ai):
 - Development of Standardized Methods to Extract and Digest Microplastics in Environmental Samples *Analytical Chemistry* (2025) - 4 citations
   DOI: https://doi.org/10.1021/acs.analchem.5c00419

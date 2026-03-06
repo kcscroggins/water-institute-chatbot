@@ -36,6 +36,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 7.31 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Physiological and Transcriptome Analyses Reveal Short-Term Responses and Formation of Memory Under Drought Stress in Rice *Frontiers in Genetics* (2019) - 197 citations
+  DOI: https://doi.org/10.3389/fgene.2019.00055
+- Using CRISPR/Cas9 genome editing system to create MaGA20ox2 gene‐modified semi‐dwarf banana *Plant Biotechnology Journal* (2019) - 142 citations
+  DOI: https://doi.org/10.1111/pbi.13216
+- High-Resolution Analysis of the Efficiency, Heritability, and Editing Outcomes of CRISPR/Cas9-Induced Modifications of NCED4 in Lettuce (Lactuca sativa) *G3: Genes, Genomes, Genetics* (2018) - 140 citations
+  DOI: https://doi.org/10.1534/g3.117.300396
+- Water-Soluble Carbon Nanoparticles Improve Seed Germination and Post-Germination Growth of Lettuce under Salinity Stress *Agronomy* (2020) - 132 citations
+  DOI: https://doi.org/10.3390/agronomy10081192
+- Application of developmental regulators to improve in planta or in vitro transformation in plants *Plant Biotechnology Journal* (2022) - 120 citations
+  DOI: https://doi.org/10.1111/pbi.13837
+
 Recent Publications (from Dimensions.ai):
 - Application of developmental regulators to improve in planta or in vitro transformation in plants *Plant Biotechnology Journal* (2022) - 112 citations
   DOI: https://doi.org/10.1111/pbi.13837

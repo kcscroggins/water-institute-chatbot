@@ -37,6 +37,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.03 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Quaternary tectonic response to intensified glacial erosion in an orogenic wedge *Nature Geoscience* (2008) - 137 citations
+  DOI: https://doi.org/10.1038/ngeo334
+- Mid-Pleistocene climate transition drives net mass loss from rapidly uplifting St. Elias Mountains, Alaska *Proceedings of the National Academy of Sciences of the United States of America* (2015) - 86 citations
+  DOI: https://doi.org/10.1073/pnas.1512549112
+- The role of the cryosphere in source-to-sink systems *Earth-Science Reviews* (2016) - 71 citations
+  DOI: https://doi.org/10.1016/j.earscirev.2015.09.011
+- Recent shifts in coastline change and shoreline stabilization linked to storm climate change *Earth Surface Processes and Landforms* (2014) - 62 citations
+  DOI: https://doi.org/10.1002/esp.3650
+- Thermal and chemical evidence for rapid water exchange across the sediment‐water interface by bioirrigation in the Indian River Lagoon, Florida *Limnology and Oceanography* (2006) - 62 citations
+  DOI: https://doi.org/10.4319/lo.2006.51.3.1332
+
 Recent Publications (from Dimensions.ai):
 - Challenges and opportunities for sustaining coastal wetlands and oyster reefs in the southeastern United States *Journal of Environmental Management* (2021) - 17 citations
   DOI: https://doi.org/10.1016/j.jenvman.2021.113178

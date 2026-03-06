@@ -36,6 +36,16 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 0.62 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- A comparative study of the secondary benefits of stormwater ponds in economically distinct neighborhoods of Tampa, Florida USA *Discover Water* (2024) - 3 citations
+  DOI: https://doi.org/10.1007/s43832-024-00144-3
+- Spatial Considerations Needed when Balancing Land Conservation and Development: FOR380/FR451, 3/2022 *EDIS* (2022) - 1 citations
+  DOI: https://doi.org/10.32473/edis-fr451-2022
+- Large-Language-Model-Assisted Microbial Source Tracking Reveals Mechanisms of Tropical Cyclone Impacts on Microbial Water Quality in Coastal Environments *Research Square* (2026) - 0 citations
+  DOI: https://doi.org/10.21203/rs.3.rs-8765875/v1
+- Using Graph Networks to Quantify the Cumulative Importance of Riparian Wetlands within a Watershed *Research Square* (2021) - 0 citations
+  DOI: https://doi.org/10.21203/rs.3.rs-249850/v1
+
 Recent Publications (from Dimensions.ai):
 - A comparative study of the secondary benefits of stormwater ponds in economically distinct neighborhoods of Tampa, Florida USA *Discover Water* (2024) - 3 citations
   DOI: https://doi.org/10.1007/s43832-024-00144-3

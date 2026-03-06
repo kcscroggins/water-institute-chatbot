@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 0.87 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- A direct passive method for measuring water and contaminant fluxes in porous media *Journal of Contaminant Hydrology* (2004) - 138 citations
+  DOI: https://doi.org/10.1016/j.jconhyd.2004.06.005
+- Tiered Approach to Resilience Assessment *Risk Analysis* (2018) - 137 citations
+  DOI: https://doi.org/10.1111/risa.12991
+- Partitioning Tracers for Measuring Residual NAPL: Field-Scale Test Results *Journal of Environmental Engineering* (1998) - 120 citations
+  DOI: https://doi.org/10.1061/(asce)0733-9372(1998)124:6(498)
+- Field-Scale Evaluation of the Passive Flux Meter for Simultaneous Measurement of Groundwater and Contaminant Fluxes *Environmental Science and Technology* (2005) - 92 citations
+  DOI: https://doi.org/10.1021/es050074g
+- Features of resilience *Environment Systems and Decisions* (2017) - 83 citations
+  DOI: https://doi.org/10.1007/s10669-017-9634-9
+
 Recent Publications (from Dimensions.ai):
 - Data driven deep learning method for quantifying groundwater flux in deep fractured aquifers with the fractured rock passive flux meter *Advances in Water Resources* (2025) - 1 citations
   DOI: https://doi.org/10.1016/j.advwatres.2025.105058

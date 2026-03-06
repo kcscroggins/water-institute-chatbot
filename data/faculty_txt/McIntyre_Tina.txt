@@ -31,6 +31,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 0.99 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Edible Landscaping Using the Nine Florida-Friendly Landscaping™ Principles: ENH1330/EP594, 10/2020 *EDIS* (2020) - 3 citations
+  DOI: https://doi.org/10.32473/edis-ep594-2020
+- Efficient Irrigation for Florida-Friendly Edible Landscapes: ENH1353/EP617, 2/2022 *EDIS* (2022) - 2 citations
+  DOI: https://doi.org/10.32473/edis-ep617-2022
+- Rethinking Wildlife in Your Florida-Friendly Edible Landscape: EP630/ENH1366, 1/2023 *EDIS* (2023) - 1 citations
+  DOI: https://doi.org/10.32473/edis-ep630-2023
+- Soil Health and Fertility of Florida-Friendly Edible Landscapes: EP624/ENH1360, 8/2022 *EDIS* (2022) - 1 citations
+  DOI: https://doi.org/10.32473/edis-ep624-2022
+- Pruning, Harvesting and Maintenance of Florida-Friendly Edible Landscapes: EP622/ENH1358, 8/2022 *EDIS* (2022) - 1 citations
+  DOI: https://doi.org/10.32473/edis-ep622-2022
+
 Recent Publications (from Dimensions.ai):
 - Efficient Irrigation for Florida-Friendly Edible Landscapes: ENH1353/EP617, 2/2022 *EDIS* (2022) - 2 citations
   DOI: https://doi.org/10.32473/edis-ep617-2022

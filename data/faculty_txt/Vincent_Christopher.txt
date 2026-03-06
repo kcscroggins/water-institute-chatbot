@@ -39,6 +39,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 6.99 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Application of silicon nanoparticles enhances oxidative stress tolerance in salt stressed ‘Valencia’ sweet orange plants *Scientia Horticulturae* (2022) - 66 citations
+  DOI: https://doi.org/10.1016/j.scienta.2021.110856
+- Heat shock protein and aquaporin expression enhance water conserving behavior of citrus under water deficits and high temperature conditions *Environmental and Experimental Botany* (2021) - 65 citations
+  DOI: https://doi.org/10.1016/j.envexpbot.2020.104270
+- A plant pathogenic bacterium exploits the tricarboxylic acid cycle metabolic pathway of its insect vector *Virulence* (2017) - 44 citations
+  DOI: https://doi.org/10.1080/21505594.2017.1339008
+- The response of salt-stressed Valencia sweet orange (Citrus sinensis) to salicylic acid and methyl jasmonate treatments *Plant Physiology Reports* (2021) - 35 citations
+  DOI: https://doi.org/10.1007/s40502-020-00563-z
+- Systemic Uptake of Oxytetracycline and Streptomycin in Huanglongbing-Affected Citrus Groves after Foliar Application and Trunk Injection *Antibiotics* (2022) - 31 citations
+  DOI: https://doi.org/10.3390/antibiotics11081092
+
 Recent Publications (from Dimensions.ai):
 - Application of silicon nanoparticles enhances oxidative stress tolerance in salt stressed ‘Valencia’ sweet orange plants *Scientia Horticulturae* (2022) - 65 citations
   DOI: https://doi.org/10.1016/j.scienta.2021.110856

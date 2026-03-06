@@ -34,6 +34,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.24 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Pyrosequencing enumerates and contrasts soil microbial diversity *The ISME Journal: Multidisciplinary Journal of Microbial Ecology* (2007) - 1595 citations
+  DOI: https://doi.org/10.1038/ismej.2007.53
+- Ammonia-oxidizing archaea are integral to nitrogen cycling in a highly fertile agricultural soil *ISME Communications* (2021) - 101 citations
+  DOI: https://doi.org/10.1038/s43705-021-00020-4
+- Genome Sequence of Candidatus Nitrososphaera evergladensis from Group I.1b Enriched from Everglades Soil Reveals Novel Genomic Features of the Ammonia-Oxidizing Archaea *PLOS ONE* (2014) - 94 citations
+  DOI: https://doi.org/10.1371/journal.pone.0101648
+- Ca. Nitrososphaera and Bradyrhizobium are inversely correlated and related to agricultural practices in long-term field experiments *Frontiers in Microbiology* (2013) - 93 citations
+  DOI: https://doi.org/10.3389/fmicb.2013.00104
+- Characterization of Lead in Soils of a Rifle/Pistol Shooting Range in Central Florida, USA *Soil and Sediment Contamination An International Journal* (2002) - 61 citations
+  DOI: https://doi.org/10.1080/20025891106664
+
 Recent Publications (from Dimensions.ai):
 - Ammonia-oxidizing archaea are integral to nitrogen cycling in a highly fertile agricultural soil *ISME Communications* (2021) - 99 citations
   DOI: https://doi.org/10.1038/s43705-021-00020-4

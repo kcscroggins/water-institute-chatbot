@@ -28,6 +28,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 11.34 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Insights into the Physiological and Biochemical Impacts of Salt Stress on Plant Growth and Development *Agronomy* (2020) - 428 citations
+  DOI: https://doi.org/10.3390/agronomy10070938
+- Paddy Land Pollutants and Their Role in Climate Change *Soil Biology* (2018) - 129 citations
+  DOI: https://doi.org/10.1007/978-3-319-93671-0_7
+- Biochar improves soil physical characteristics and strengthens root architecture in Muscadine grape (Vitis rotundifolia L.) *Chemical and Biological Technologies in Agriculture* (2021) - 97 citations
+  DOI: https://doi.org/10.1186/s40538-020-00204-5
+- Kinnow mandarin plants grafted on tetraploid rootstocks are more tolerant to Cr-toxicity than those grafted on its diploids one *Environmental and Experimental Botany* (2017) - 70 citations
+  DOI: https://doi.org/10.1016/j.envexpbot.2017.05.011
+- Interaction between bacterial endophytes and host plants *Frontiers in Plant Science* (2023) - 69 citations
+  DOI: https://doi.org/10.3389/fpls.2022.1092105
+
 Recent Publications (from Dimensions.ai):
 - Biochar improves soil physical characteristics and strengthens root architecture in Muscadine grape (Vitis rotundifolia L.) *Chemical and Biological Technologies in Agriculture* (2021) - 95 citations
   DOI: https://doi.org/10.1186/s40538-020-00204-5

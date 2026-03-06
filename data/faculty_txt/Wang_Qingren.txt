@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 0.57 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Optimizing the weight loss-on-ignition methodology to quantify organic and carbonate carbon of sediments from diverse sources *Environmental Monitoring and Assessment* (2010) - 189 citations
+  DOI: https://doi.org/10.1007/s10661-010-1454-z
+- Phosphorus adsorption and desorption behavior on sediments of different origins *Journal of Soils and Sediments* (2010) - 110 citations
+  DOI: https://doi.org/10.1007/s11368-010-0211-9
+- Controlled-Release and Slow-Release Fertilizers as Nutrient Management Tools: HS1255/HS1255, 10/2014 *EDIS* (2014) - 53 citations
+  DOI: https://doi.org/10.32473/edis-hs1255-2014
+- Cover Crops and Organic Mulch to Improve Tomato Yields and Soil Fertility *Agronomy Journal* (2009) - 36 citations
+  DOI: https://doi.org/10.2134/agronj2008.0103
+- Cover Crops in Mono- and Biculture for Accumulation of Biomass and Soil Organic Carbon *Journal of Sustainable Agriculture* (2012) - 15 citations
+  DOI: https://doi.org/10.1080/10440046.2011.627991
+
 Recent Publications (from Dimensions.ai):
 - Chapter 10. Minor Vegetable Crop Production: VPH ch. 10, CV294, rev. 6/2023 *EDIS* (2023) - 2 citations
   DOI: https://doi.org/10.32473/edis-cv294-2023

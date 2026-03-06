@@ -49,6 +49,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.04 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Soil carbon distribution in Alaska in relation to soil-forming factors *Geoderma* (2011) - 115 citations
+  DOI: https://doi.org/10.1016/j.geoderma.2011.10.006
+- The Human Rhodopsin Kinase Promoter in an AAV5 Vector Confers Rod- and Cone-Specific Expression in the Primate Retina *Human Gene Therapy* (2012) - 105 citations
+  DOI: https://doi.org/10.1089/hum.2012.125
+- Highly Efficient Delivery of Adeno-Associated Viral Vectors to the Primate Retina *Human Gene Therapy* (2016) - 78 citations
+  DOI: https://doi.org/10.1089/hum.2016.085
+- Paying for environmental services from agricultural lands: an example from the northern Everglades *Frontiers in Ecology and the Environment* (2009) - 76 citations
+  DOI: https://doi.org/10.1890/080107
+- Efficacy of a denitrification wall to treat continuously high nitrate loads *Ecological Engineering* (2012) - 62 citations
+  DOI: https://doi.org/10.1016/j.ecoleng.2012.02.006
+
 Recent Publications (from Dimensions.ai):
 - The Use of Non-Plastic Materials for Oyster Reef and Shoreline Restoration: Understanding What Is Needed and Where the Field Is Headed *Sustainability* (2022) - 28 citations
   DOI: https://doi.org/10.3390/su14138055

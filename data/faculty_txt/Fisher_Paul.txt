@@ -44,6 +44,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 31.88 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Guidelines for the use and interpretation of assays for monitoring autophagy (3rd edition) *Autophagy* (2016) - 4983 citations
+  DOI: https://doi.org/10.1080/15548627.2015.1100356
+- Guidelines for the use and interpretation of assays for monitoring autophagy *Autophagy* (2012) - 3149 citations
+  DOI: https://doi.org/10.4161/auto.19496
+- Guidelines for the use and interpretation of assays for monitoring autophagy (4th edition)1 *Autophagy* (2021) - 2457 citations
+  DOI: https://doi.org/10.1080/15548627.2020.1797280
+- Pediatric Astrocytomas with Monomorphous Pilomyxoid Features and a Less Favorable Outcome *Journal of Neuropathology & Experimental Neurology* (1999) - 298 citations
+  DOI: https://doi.org/10.1097/00005072-199910000-00004
+- Risk-adapted therapy for young children with medulloblastoma (SJYC07): therapeutic and molecular outcomes from a multicentre, phase 2 trial *The Lancet Oncology* (2018) - 219 citations
+  DOI: https://doi.org/10.1016/s1470-2045(18)30204-3
+
 Recent Publications (from Dimensions.ai):
 - Guidelines for the use and interpretation of assays for monitoring autophagy (4th edition)1 *Autophagy* (2021) - 2416 citations
   DOI: https://doi.org/10.1080/15548627.2020.1797280

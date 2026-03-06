@@ -21,6 +21,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 12.55 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Microbiome Composition and Function in Aquatic Vertebrates: Small Organisms Making Big Impacts on Aquatic Animal Health *Frontiers in Microbiology* (2021) - 256 citations
+  DOI: https://doi.org/10.3389/fmicb.2021.567408
+- The bioelectric code: An ancient computational medium for dynamic control of growth and form *Biosystems* (2017) - 206 citations
+  DOI: https://doi.org/10.1016/j.biosystems.2017.08.009
+- The goldfish (Carassius auratus) as a model for neuroendocrine signaling *Molecular and Cellular Endocrinology* (2008) - 158 citations
+  DOI: https://doi.org/10.1016/j.mce.2008.06.017
+- Organochlorine pesticides: Agrochemicals with potent endocrine-disrupting properties in fish *Molecular and Cellular Endocrinology* (2020) - 147 citations
+  DOI: https://doi.org/10.1016/j.mce.2020.110764
+- The gut microbiome and aquatic toxicology: An emerging concept for environmental health *Environmental Toxicology and Chemistry* (2018) - 140 citations
+  DOI: https://doi.org/10.1002/etc.4249
+
 Recent Publications (from Dimensions.ai):
 - Microbiome Composition and Function in Aquatic Vertebrates: Small Organisms Making Big Impacts on Aquatic Animal Health *Frontiers in Microbiology* (2021) - 252 citations
   DOI: https://doi.org/10.3389/fmicb.2021.567408

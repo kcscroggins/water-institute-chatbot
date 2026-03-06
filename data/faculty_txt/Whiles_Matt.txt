@@ -37,6 +37,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.85 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- River fragmentation and flow alteration metrics: a review of methods and directions for future research *Environmental Research Letters* (2020) - 84 citations
+  DOI: https://doi.org/10.1088/1748-9326/abcb37
+- Chapter 24 Freshwater Ecosystems (2020) - 19 citations
+  DOI: https://doi.org/10.1016/b978-0-12-813255-5.00024-7
+- Global patterns of allochthony in stream–riparian meta‐ecosystems *Ecology Letters* (2024) - 18 citations
+  DOI: https://doi.org/10.1111/ele.14401
+- Reciprocal subsidies between temporary ponds and riparian forests *Limnology and Oceanography* (2021) - 16 citations
+  DOI: https://doi.org/10.1002/lno.11868
+- The Music of Rivers: The Mathematics of Waves Reveals Global Structure and Drivers of Streamflow Regime *Water Resources Research* (2023) - 14 citations
+  DOI: https://doi.org/10.1029/2023wr034484
+
 Recent Publications (from Dimensions.ai):
 - Global patterns of allochthony in stream–riparian meta‐ecosystems *Ecology Letters* (2024) - 17 citations
   DOI: https://doi.org/10.1111/ele.14401

@@ -37,6 +37,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.27 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Lessons learned from invasive plant control experiments: a systematic review and meta‐analysis *Journal of Applied Ecology* (2011) - 550 citations
+  DOI: https://doi.org/10.1111/j.1365-2664.2011.01979.x
+- EDITOR'S CHOICE: Application of genetic diversity–ecosystem function research to ecological restoration *Journal of Applied Ecology* (2014) - 154 citations
+  DOI: https://doi.org/10.1111/1365-2664.12202
+- Increasing the Effectiveness of Reed canary grass (Phalaris arundinacea L.) Control in Wet Meadow Restorations *Restoration Ecology* (2006) - 52 citations
+  DOI: https://doi.org/10.1111/j.1526-100x.2006.00152.x
+- Importance of Seed and Microsite Limitation: Native Wildflower Establishment in Non‐native Pasture *Restoration Ecology* (2010) - 26 citations
+  DOI: https://doi.org/10.1111/j.1526-100x.2009.00629.x
+- Seed Biology and Ecology of Natalgrass (Melinis repens) *Weed Science* (2011) - 26 citations
+  DOI: https://doi.org/10.1614/ws-d-11-00028.1
+
 Recent Publications (from Dimensions.ai):
 - Progress on Mechanisms and Impacts of Wetland Plant Invasions: A Twenty-Year Retrospective Analysis and Priorities for the Next Twenty *Critical Reviews in Plant Sciences* (2023) - 20 citations
   DOI: https://doi.org/10.1080/07352689.2023.2233232

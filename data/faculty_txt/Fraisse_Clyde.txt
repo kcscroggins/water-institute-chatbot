@@ -45,6 +45,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.72 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Strawberry Yield Prediction Based on a Deep Neural Network Using High-Resolution Aerial Orthoimages *Remote Sensing* (2019) - 213 citations
+  DOI: https://doi.org/10.3390/rs11131584
+- Management Zone Analyst (MZA) *Agronomy Journal* (2004) - 199 citations
+  DOI: https://doi.org/10.2134/agronj2004.1000
+- Agricultural Reference Index for Drought (ARID) *Agronomy Journal* (2012) - 138 citations
+  DOI: https://doi.org/10.2134/agronj2011.0286
+- Strawberry Maturity Classification from UAV and Near-Ground Imaging Using Deep Learning *Smart Agricultural Technology* (2021) - 108 citations
+  DOI: https://doi.org/10.1016/j.atech.2021.100001
+- Greenhouse gas emissions and carbon sequestration by agroforestry systems in southeastern Brazil *Scientific Reports* (2017) - 85 citations
+  DOI: https://doi.org/10.1038/s41598-017-16821-4
+
 Recent Publications (from Dimensions.ai):
 - Strawberry Maturity Classification from UAV and Near-Ground Imaging Using Deep Learning *Smart Agricultural Technology* (2021) - 105 citations
   DOI: https://doi.org/10.1016/j.atech.2021.100001

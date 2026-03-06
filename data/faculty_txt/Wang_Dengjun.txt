@@ -33,6 +33,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.58 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Humic Acid Facilitates the Transport of ARS-Labeled Hydroxyapatite Nanoparticles in Iron Oxyhydroxide-Coated Sand *Environmental Science and Technology* (2012) - 181 citations
+  DOI: https://doi.org/10.1021/es203784u
+- Transport of perfluorooctanoic acid in unsaturated porous media mediated by SDBS *Journal of Hydrology* (2022) - 27 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2022.127479
+- Realistic and field scale applications of biochar for water remediation: A literature review *Journal of Environmental Management* (2025) - 16 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2025.125524
+- Regeneration of biochars (pristine and modified/engineered) and economic analysis of their use in the removal of per- and polyfluoroalkyl substances (PFAS) from water/wastewater *Frontiers of Environmental Science & Engineering* (2024) - 8 citations
+  DOI: https://doi.org/10.1007/s11783-025-1940-8
+- Explainable machine learning reveals climate warming increases risk of algal blooms in lakes and reservoirs *Water Research* (2025) - 7 citations
+  DOI: https://doi.org/10.1016/j.watres.2025.124460
+
 Recent Publications (from Dimensions.ai):
 - Transport of perfluorooctanoic acid in unsaturated porous media mediated by SDBS *Journal of Hydrology* (2022) - 27 citations
   DOI: https://doi.org/10.1016/j.jhydrol.2022.127479

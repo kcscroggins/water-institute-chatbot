@@ -37,6 +37,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 7.49 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- The Physcomitrella patens chromosome‐scale assembly reveals moss genome structure and evolution *The Plant Journal* (2018) - 465 citations
+  DOI: https://doi.org/10.1111/tpj.13801
+- Are all sex chromosomes created equal? *Trends in Genetics* (2011) - 327 citations
+  DOI: https://doi.org/10.1016/j.tig.2011.05.005
+- Adding loci improves phylogeographic resolution in red mangroves despite increased missing data: comparing microsatellites and RAD-Seq and investigating loci filtering *Scientific Reports* (2017) - 121 citations
+  DOI: https://doi.org/10.1038/s41598-017-16810-7
+- Gene-rich UV sex chromosomes harbor conserved regulators of sexual development *Science Advances* (2021) - 103 citations
+  DOI: https://doi.org/10.1126/sciadv.abh2488
+- Novel bacterial lineages associated with boreal moss species *Environmental Microbiology* (2018) - 103 citations
+  DOI: https://doi.org/10.1111/1462-2920.14288
+
 Recent Publications (from Dimensions.ai):
 - Gene-rich UV sex chromosomes harbor conserved regulators of sexual development *Science Advances* (2021) - 103 citations
   DOI: https://doi.org/10.1126/sciadv.abh2488

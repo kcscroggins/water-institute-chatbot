@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.35 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Pin-pointing groundwater infiltration into urban sewers using chemical tracer in conjunction with physically based optimization model *Water Research* (2020) - 66 citations
+  DOI: https://doi.org/10.1016/j.watres.2020.115689
+- Mapping the US Census Data Using the TIGER/Line Shapefiles *EDIS* (2021) - 12 citations
+  DOI: https://doi.org/10.32473/edis-ae557-2021
+- Development of climate-smart sorghum ideotype for climate resilience in Ethiopia *Field Crops Research* (2023) - 9 citations
+  DOI: https://doi.org/10.1016/j.fcr.2023.109135
+- Potato Farming in the United States and South Korea: Status Comparison of Cultivation Patterns and Agricultural Machinery Use *Journal of Biosystems Engineering* (2024) - 8 citations
+  DOI: https://doi.org/10.1007/s42853-024-00231-2
+- Abatement of Sewer Overflow Pollution Based on Distributed Optimal Control Approach *ACS ES&T Water* (2022) - 8 citations
+  DOI: https://doi.org/10.1021/acsestwater.2c00281
+
 Recent Publications (from Dimensions.ai):
 - Mapping the US Census Data Using the TIGER/Line Shapefiles *EDIS* (2021) - 12 citations
   DOI: https://doi.org/10.32473/edis-ae557-2021

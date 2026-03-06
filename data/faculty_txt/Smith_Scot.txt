@@ -35,6 +35,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.27 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Small Unmanned Aircraft Systems for Low‐Altitude Aerial Surveys *Journal of Wildlife Management* (2010) - 114 citations
+  DOI: https://doi.org/10.1111/j.1937-2817.2010.tb01292.x
+- Mapping orangutan habitat and agricultural areas using Landsat OLI imagery augmented with unmanned aircraft system aerial photography *International Journal of Remote Sensing* (2017) - 99 citations
+  DOI: https://doi.org/10.1080/01431161.2017.1280638
+- Estimating soil total nitrogen in smallholder farm settings using remote sensing spectral indices and regression kriging *Catena* (2018) - 67 citations
+  DOI: https://doi.org/10.1016/j.catena.2017.12.011
+- Impacts of the Aswan High Dam After 50 Years *Water Resources Management* (2015) - 62 citations
+  DOI: https://doi.org/10.1007/s11269-015-0916-z
+- Incorporation of satellite remote sensing pan-sharpened imagery into digital soil prediction and mapping models to characterize soil property variability in small agricultural fields *ISPRS Journal of Photogrammetry and Remote Sensing* (2017) - 59 citations
+  DOI: https://doi.org/10.1016/j.isprsjprs.2016.11.001
+
 Recent Publications (from Dimensions.ai):
 - Effects of multi‐temporal environmental variables on SOC spatial prediction models in coastal wetlands of a Chinese delta *Land Degradation and Development* (2022) - 7 citations
   DOI: https://doi.org/10.1002/ldr.4408

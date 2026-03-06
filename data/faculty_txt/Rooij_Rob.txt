@@ -37,6 +37,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 6.73 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- From rainfall to spring discharge: Coupling conduit flow, subsurface matrix flow and surface flow in karst systems using a discrete–continuum model *Advances in Water Resources* (2013) - 64 citations
+  DOI: https://doi.org/10.1016/j.advwatres.2013.08.009
+- Generation of complex karstic conduit networks with a hydrochemical model *Water Resources Research* (2017) - 33 citations
+  DOI: https://doi.org/10.1002/2017wr020768
+- A particle-tracking scheme for simulating pathlines in coupled surface-subsurface flows *Advances in Water Resources* (2013) - 27 citations
+  DOI: https://doi.org/10.1016/j.advwatres.2012.07.022
+- Probabilistic estimation of tunnel inflow from a karstic conduit network *Engineering Geology* (2023) - 16 citations
+  DOI: https://doi.org/10.1016/j.enggeo.2022.106950
+- What Makes a First‐Magnitude Spring?: Global Sensitivity Analysis of a Speleogenesis Model to Gain Insight into Karst Network and Spring Genesis *Water Resources Research* (2018) - 9 citations
+  DOI: https://doi.org/10.1029/2017wr021950
+
 Recent Publications (from Dimensions.ai):
 - Probabilistic estimation of tunnel inflow from a karstic conduit network *Engineering Geology* (2023) - 15 citations
   DOI: https://doi.org/10.1016/j.enggeo.2022.106950

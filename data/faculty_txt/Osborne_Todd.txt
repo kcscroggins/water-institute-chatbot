@@ -37,6 +37,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 5.13 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Effect of salinity-altering pulsing events on soil organic carbon loss along an intertidal wetland gradient: a laboratory experiment *Biogeochemistry* (2013) - 210 citations
+  DOI: https://doi.org/10.1007/s10533-013-9841-5
+- Short‐Term Response of Carbon Cycling to Salinity Pulses in a Freshwater Wetland *Soil Science Society of America Journal* (2011) - 185 citations
+  DOI: https://doi.org/10.2136/sssaj2011.0026
+- Field Experiments and Meta-analysis Reveal Wetland Vegetation as a Crucial Element in the Coastal Protection Paradigm *Current Biology* (2019) - 73 citations
+  DOI: https://doi.org/10.1016/j.cub.2019.05.017
+- Nitrogen addition alters composition, diversity, and functioning of microbial communities in mangrove soils: An incubation experiment *Soil Biology and Biochemistry* (2021) - 72 citations
+  DOI: https://doi.org/10.1016/j.soilbio.2020.108076
+- Hydrologic Modification and the Loss of Self-organized Patterning in the Ridge–Slough Mosaic of the Everglades *Ecosystems* (2010) - 69 citations
+  DOI: https://doi.org/10.1007/s10021-010-9356-z
+
 Recent Publications (from Dimensions.ai):
 - Nitrogen addition alters composition, diversity, and functioning of microbial communities in mangrove soils: An incubation experiment *Soil Biology and Biochemistry* (2021) - 71 citations
   DOI: https://doi.org/10.1016/j.soilbio.2020.108076

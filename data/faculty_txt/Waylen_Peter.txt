@@ -37,6 +37,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.31 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Annual and inter-annual variability of the present climate in northern South America and southern Mesoamerica *Palaeogeography Palaeoclimatology Palaeoecology* (2006) - 355 citations
+  DOI: https://doi.org/10.1016/j.palaeo.2005.10.031
+- Changes in Extreme Rainfall Events in South Africa *Climatic Change* (1999) - 177 citations
+  DOI: https://doi.org/10.1023/a:1005450924499
+- The changing rainy season climatology of mid-Ghana *Theoretical and Applied Climatology* (2012) - 103 citations
+  DOI: https://doi.org/10.1007/s00704-012-0736-5
+- Seasonal and spatial patterns of erosivity in a tropical watershed of the Colombian Andes *Journal of Hydrology* (2005) - 82 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2005.03.014
+- Annual and seasonal fluctuations of precipitation and streamflow in the Aconcagua River basin, Chile *Journal of Hydrology* (1990) - 61 citations
+  DOI: https://doi.org/10.1016/0022-1694(90)90143-l
+
 Recent Publications (from Dimensions.ai):
 - A spatio-temporal analysis of the role of climatic drivers influencing extreme precipitation events in a Costa Rican basin *Weather and Climate Extremes* (2023) - 7 citations
   DOI: https://doi.org/10.1016/j.wace.2023.100602

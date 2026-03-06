@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.92 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Digitization of Biodiversity Collections Reveals Biggest Data on Biodiversity *BioScience* (2015) - 157 citations
+  DOI: https://doi.org/10.1093/biosci/biv104
+- Phylogenetic Relationships among Bullhead Catfishes of the Genus Ameiurus (Siluriformes: Ictaluridae) *Ichthyology & Herpetology* (2003) - 82 citations
+  DOI: https://doi.org/10.1643/0045-8511(2003)003[0020:prabco]2.0.co;2
+- Taxonomic revision of a radiation of South-east Asian freshwater mussels (Unionidae : Gonideinae : Contradentini+Rectidentini) *Invertebrate Systematics* (2021) - 46 citations
+  DOI: https://doi.org/10.1071/is20044
+- A Computational- and Storage-Cloud for Integration of Biodiversity Collections (2013) - 21 citations
+  DOI: https://doi.org/10.1109/escience.2013.48
+- Timing of clade divergence and discordant estimates of genetic and morphological diversity in the Slender Madtom, Noturus exilis (Ictaluridae) *Molecular Phylogenetics and Evolution* (2012) - 13 citations
+  DOI: https://doi.org/10.1016/j.ympev.2012.10.022
+
 Recent Publications (from Dimensions.ai):
 - Taxonomic revision of a radiation of South-east Asian freshwater mussels (Unionidae : Gonideinae : Contradentini+Rectidentini) *Invertebrate Systematics* (2021) - 44 citations
   DOI: https://doi.org/10.1071/is20044

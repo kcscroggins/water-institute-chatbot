@@ -37,6 +37,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.51 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- High Prevalence of Cefotaxime Resistant Bacteria in Grazing Beef Cattle: A Cross Sectional Study *Frontiers in Microbiology* (2019) - 37 citations
+  DOI: https://doi.org/10.3389/fmicb.2019.00176
+- Fostering researcher identity in STEM distance education: impact of a student-led on-line case study *FEMS Microbiology Letters* (2019) - 12 citations
+  DOI: https://doi.org/10.1093/femsle/fnz068
+- The Influence of Gender on Rural Honduran Women’s Participation and Leadership in Community Groups *Journal of International Agricultural and Extension Education* (2019) - 8 citations
+  DOI: https://doi.org/10.5191/iaee.2019.26204
+- Competing Roles and Expectations: Preliminary Data from an Agricultural Extension Survey on COVID-19 Impacts *Journal of Agromedicine* (2020) - 8 citations
+  DOI: https://doi.org/10.1080/1059924x.2020.1815619
+- Revisiting barriers to implementation of bioinformatics into life sciences education *Frontiers in Education* (2023) - 7 citations
+  DOI: https://doi.org/10.3389/feduc.2023.1317191
+
 Recent Publications (from Dimensions.ai):
 - Revisiting barriers to implementation of bioinformatics into life sciences education *Frontiers in Education* (2023) - 6 citations
   DOI: https://doi.org/10.3389/feduc.2023.1317191

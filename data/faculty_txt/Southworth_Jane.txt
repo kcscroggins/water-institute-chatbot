@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 52.19 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Developing a model for AI Across the curriculum: Transforming the higher education landscape via innovation in AI literacy *Computers and Education Artificial Intelligence* (2023) - 496 citations
+  DOI: https://doi.org/10.1016/j.caeai.2023.100127
+- Remotely sensed spectral heterogeneity as a proxy of species diversity: Recent advances and open challenges *Ecological Informatics* (2010) - 357 citations
+  DOI: https://doi.org/10.1016/j.ecoinf.2010.06.001
+- From pattern to process: landscape fragmentation and the analysis of land use/land cover change *Agriculture Ecosystems & Environment* (2004) - 342 citations
+  DOI: https://doi.org/10.1016/j.agee.2003.09.003
+- Climate change impacts on soil erosion in Midwest United States with changes in crop management *Catena* (2005) - 212 citations
+  DOI: https://doi.org/10.1016/j.catena.2005.03.003
+- Land cover change and landscape fragmentation—comparing the utility of continuous and discrete analyses for a western Honduras region *Agriculture Ecosystems & Environment* (2004) - 165 citations
+  DOI: https://doi.org/10.1016/j.agee.2003.09.011
+
 Recent Publications (from Dimensions.ai):
 - Developing a model for AI Across the curriculum: Transforming the higher education landscape via innovation in AI literacy *Computers and Education Artificial Intelligence* (2023) - 469 citations
   DOI: https://doi.org/10.1016/j.caeai.2023.100127

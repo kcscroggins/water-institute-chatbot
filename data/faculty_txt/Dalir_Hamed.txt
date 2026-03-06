@@ -34,6 +34,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 8.04 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Electrical programmable multilevel nonvolatile photonic random-access memory *Light: Science & Applications* (2023) - 78 citations
+  DOI: https://doi.org/10.1038/s41377-023-01213-3
+- Self-Powered Sb2Te3/MoS2 Heterojunction Broadband Photodetector on Flexible Substrate from Visible to Near Infrared *Nanomaterials* (2023) - 34 citations
+  DOI: https://doi.org/10.3390/nano13131973
+- Multiplexed orbital angular momentum beams demultiplexing using hybrid optical-electronic convolutional neural network *Communications Physics* (2024) - 25 citations
+  DOI: https://doi.org/10.1038/s42005-024-01571-3
+- Comprehensive Study and Design of Graphene Transistor *Micromachines* (2024) - 22 citations
+  DOI: https://doi.org/10.3390/mi15030406
+- Enhancing Focusing and Defocusing Capabilities with a Dynamically Reconfigurable Metalens Utilizing Sb2Se3 Phase-Change Material *Nanomaterials* (2023) - 20 citations
+  DOI: https://doi.org/10.3390/nano13142106
+
 Recent Publications (from Dimensions.ai):
 - Electrical programmable multilevel nonvolatile photonic random-access memory *Light: Science & Applications* (2023) - 75 citations
   DOI: https://doi.org/10.1038/s41377-023-01213-3

@@ -39,6 +39,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 0.91 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Combining metabolic engineering and metabolic evolution to develop nonrecombinant strains of Escherichia coli C that produce succinate and malate *Biotechnology and Bioengineering* (2007) - 310 citations
+  DOI: https://doi.org/10.1002/bit.21694
+- Stable performance of anaerobic digestion in the presence of a high concentration of propionic acid *Bioresource Technology* (2001) - 143 citations
+  DOI: https://doi.org/10.1016/s0960-8524(00)00187-5
+- One-dimensional modeling of secondary clarifiers using a concentration and feed velocity-dependent dispersion coefficient *Water Research* (1996) - 44 citations
+  DOI: https://doi.org/10.1016/0043-1354(96)00024-3
+- Hybrid first‐principles/neural networks model for column flotation *AIChE Journal* (1999) - 37 citations
+  DOI: https://doi.org/10.1002/aic.690450312
+- Modeling of in situ monitored laser reflectance during MOCVD growth of HgCdTe *Journal of Electronic Materials* (1993) - 30 citations
+  DOI: https://doi.org/10.1007/bf02817503
+
 Recent Publications (from Dimensions.ai):
 - Continuous Synthesis of Precision Gold Nanoparticles Using a Flow Reactor *KONA Powder and Particle Journal* (2022) - 9 citations
   DOI: https://doi.org/10.14356/kona.2022011

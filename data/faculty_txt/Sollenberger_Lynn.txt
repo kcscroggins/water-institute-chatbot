@@ -37,6 +37,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.51 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Reporting Forage Allowance in Grazing Experiments *Crop Science* (2005) - 275 citations
+  DOI: https://doi.org/10.2135/cropsci2004.0216
+- Grassland Management Affects Delivery of Regulating and Supporting Ecosystem Services *Crop Science* (2019) - 173 citations
+  DOI: https://doi.org/10.2135/cropsci2018.09.0594
+- Interrelationships among Forage Nutritive Value and Quantity and Individual Animal Performance *Crop Science* (2011) - 104 citations
+  DOI: https://doi.org/10.2135/cropsci2010.07.0408
+- Biomass Production and Composition of Perennial Grasses Grown for Bioenergy in a Subtropical Climate Across Florida, USA *BioEnergy Research* (2013) - 70 citations
+  DOI: https://doi.org/10.1007/s12155-013-9342-3
+- Optimizing Sweet Sorghum Production for Biofuel in the Southeastern USA Through Nitrogen Fertilization and Top Removal *BioEnergy Research* (2011) - 70 citations
+  DOI: https://doi.org/10.1007/s12155-011-9129-3
+
 Recent Publications (from Dimensions.ai):
 - Nutrient excretion from cattle grazing nitrogen‐fertilized grass or grass–legume pastures *Agronomy Journal* (2021) - 31 citations
   DOI: https://doi.org/10.1002/agj2.20675

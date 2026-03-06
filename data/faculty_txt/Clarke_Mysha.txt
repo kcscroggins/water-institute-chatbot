@@ -45,6 +45,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 10.17 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Factors that enhance or hinder social cohesion in urban greenspaces: A literature review *Urban Forestry & Urban Greening* (2023) - 75 citations
+  DOI: https://doi.org/10.1016/j.ufug.2023.127936
+- Conceptualizing social-ecological drivers of change in urban forest patches *Urban Ecosystems* (2020) - 64 citations
+  DOI: https://doi.org/10.1007/s11252-020-00977-5
+- Socio-ecological connectivity differs in magnitude and direction across urban landscapes *Scientific Reports* (2020) - 51 citations
+  DOI: https://doi.org/10.1038/s41598-020-61230-9
+- Understanding invasive plant management on family forestlands: An application of protection motivation theory *Journal of Environmental Management* (2021) - 25 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2021.112161
+- A tale of urban forest patch governance in four eastern US cities *Urban Forestry & Urban Greening* (2022) - 21 citations
+  DOI: https://doi.org/10.1016/j.ufug.2022.127693
+
 Recent Publications (from Dimensions.ai):
 - Factors that enhance or hinder social cohesion in urban greenspaces: A literature review *Urban Forestry & Urban Greening* (2023) - 72 citations
   DOI: https://doi.org/10.1016/j.ufug.2023.127936

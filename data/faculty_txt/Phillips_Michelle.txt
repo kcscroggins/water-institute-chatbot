@@ -37,6 +37,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.25 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- New Soil Index Development and Integration with Econometric Theory *Soil Science Society of America Journal* (2018) - 18 citations
+  DOI: https://doi.org/10.2136/sssaj2017.11.0378
+- The low cost of quality improvements in the electricity distribution sector of Brazil *Energy Policy* (2016) - 16 citations
+  DOI: https://doi.org/10.1016/j.enpol.2016.07.052
+- Sensitivity assessment of metafrontier data envelopment analysis for soil carbon sequestration efficiency *Ecological Indicators* (2021) - 13 citations
+  DOI: https://doi.org/10.1016/j.ecolind.2021.107602
+- THE WAGE IMPACT OF TEACHERS UNIONS: A META‐ANALYSIS *Contemporary Economic Policy* (2017) - 13 citations
+  DOI: https://doi.org/10.1111/coep.12234
+- The Influence of the Regulatory Environment on Chinese Urban Water Utilities *Water Resources Management* (2016) - 11 citations
+  DOI: https://doi.org/10.1007/s11269-016-1519-z
+
 Recent Publications (from Dimensions.ai):
 - Sensitivity assessment of metafrontier data envelopment analysis for soil carbon sequestration efficiency *Ecological Indicators* (2021) - 13 citations
   DOI: https://doi.org/10.1016/j.ecolind.2021.107602

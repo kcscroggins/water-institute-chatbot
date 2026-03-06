@@ -45,6 +45,10 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Average Citations per Paper: 8.0
 - Open Access Publications: 100.0%
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Integrating Urban Digital Twin with Cloud-Based Geospatial Dashboard for Coastal Resilience Planning: A Case Study in Florida *Journal of Planning Education and Research* (2025) - 10 citations
+  DOI: https://doi.org/10.1177/0739456x251316185
+
 Recent Publications (from Dimensions.ai):
 - Integrating Urban Digital Twin with Cloud-Based Geospatial Dashboard for Coastal Resilience Planning: A Case Study in Florida *Journal of Planning Education and Research* (2025) - 8 citations
   DOI: https://doi.org/10.1177/0739456x251316185

@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 14.2 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- The persistent threat of emerging plant disease pandemics to global food security *Proceedings of the National Academy of Sciences of the United States of America* (2021) - 727 citations
+  DOI: https://doi.org/10.1073/pnas.2022239118
+- Three pillars of sustainability in fisheries *Proceedings of the National Academy of Sciences of the United States of America* (2018) - 189 citations
+  DOI: https://doi.org/10.1073/pnas.1807677115
+- The Role of Plant-Associated Bacteria, Fungi, and Viruses in Drought Stress Mitigation *Frontiers in Microbiology* (2021) - 168 citations
+  DOI: https://doi.org/10.3389/fmicb.2021.743512
+- Indicators of climate change in agricultural systems *Climatic Change* (2018) - 155 citations
+  DOI: https://doi.org/10.1007/s10584-018-2222-2
+- Rootstocks Shape the Rhizobiome: Rhizosphere and Endosphere Bacterial Communities in the Grafted Tomato System *Applied and Environmental Microbiology* (2019) - 102 citations
+  DOI: https://doi.org/10.1128/aem.01765-18
+
 Recent Publications (from Dimensions.ai):
 - The persistent threat of emerging plant disease pandemics to global food security *Proceedings of the National Academy of Sciences of the United States of America* (2021) - 705 citations
   DOI: https://doi.org/10.1073/pnas.2022239118

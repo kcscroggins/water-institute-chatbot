@@ -37,6 +37,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 4.87 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Blooms of the picoplanktonic cyanobacterium Synechococcus in Florida Bay, a subtropical inner‐shelf lagoon *Limnology and Oceanography* (1999) - 143 citations
+  DOI: https://doi.org/10.4319/lo.1999.44.4.1166
+- Light availability as a possible regulator of cyanobacteria species composition in a shallow subtropical lake *Freshwater Biology* (1998) - 137 citations
+  DOI: https://doi.org/10.1046/j.1365-2427.1998.00308.x
+- Hurricanes, El Niño and harmful algal blooms in two sub-tropical Florida estuaries: Direct and indirect impacts *Scientific Reports* (2020) - 106 citations
+  DOI: https://doi.org/10.1038/s41598-020-58771-4
+- From Red Tides to Green and Brown Tides: Bloom Dynamics in a Restricted Subtropical Lagoon Under Shifting Climatic Conditions *Estuaries and Coasts* (2014) - 103 citations
+  DOI: https://doi.org/10.1007/s12237-014-9874-6
+- A comparative study of Florida strains of Cylindrospermopsis and Aphanizomenon for cylindrospermopsin production *Toxicon* (2007) - 91 citations
+  DOI: https://doi.org/10.1016/j.toxicon.2007.08.013
+
 Recent Publications (from Dimensions.ai):
 - Cyclical Patterns and a Regime Shift in the Character of Phytoplankton Blooms in a Restricted Sub-Tropical Lagoon, Indian River Lagoon, Florida, United States *Frontiers in Marine Science* (2021) - 39 citations
   DOI: https://doi.org/10.3389/fmars.2021.730934

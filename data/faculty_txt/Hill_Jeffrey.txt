@@ -40,6 +40,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 5.11 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- A global-scale screening of non-native aquatic organisms to identify potentially invasive species under current and future climate conditions *The Science of The Total Environment* (2021) - 136 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2021.147868
+- Assessing Environmental DNA Detection in Controlled Lentic Systems *PLOS ONE* (2014) - 133 citations
+  DOI: https://doi.org/10.1371/journal.pone.0103767
+- High level expression and characterisation of Plasmepsin II, an aspartic proteinase from Plasmodium falciparum *FEBS Letters* (1994) - 117 citations
+  DOI: https://doi.org/10.1016/0014-5793(94)00940-6
+- A global review and meta-analysis of applications of the freshwater Fish Invasiveness Screening Kit *Reviews in Fish Biology and Fisheries* (2019) - 75 citations
+  DOI: https://doi.org/10.1007/s11160-019-09562-2
+- Leaving the fish bowl: the ornamental trade as a global vector for freshwater fish invasions *Aquatic Ecosystem Health & Management* (2019) - 73 citations
+  DOI: https://doi.org/10.1080/14634988.2019.1685849
+
 Recent Publications (from Dimensions.ai):
 - A global-scale screening of non-native aquatic organisms to identify potentially invasive species under current and future climate conditions *The Science of The Total Environment* (2021) - 135 citations
   DOI: https://doi.org/10.1016/j.scitotenv.2021.147868

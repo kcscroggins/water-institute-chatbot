@@ -37,6 +37,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 9.25 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Inequality and the Biosphere *Annual Review of Environment and Resources* (2018) - 125 citations
+  DOI: https://doi.org/10.1146/annurev-environ-102017-025949
+- Assessing coupling interactions in a safe and just operating space for regional sustainability *Nature Communications* (2023) - 123 citations
+  DOI: https://doi.org/10.1038/s41467-023-37073-z
+- Mapping ecosystem service supply and demand dynamics under rapid urban expansion: A case study in the Yangtze River Delta of China *Ecosystem Services* (2022) - 78 citations
+  DOI: https://doi.org/10.1016/j.ecoser.2022.101448
+- The role of food-energy-water nexus analyses in urban growth models for urban sustainability: A review of synergistic framework *Sustainable Cities and Society* (2020) - 77 citations
+  DOI: https://doi.org/10.1016/j.scs.2020.102486
+- Nonlinear groundwater influence on biophysical indicators of ecosystem services *Nature Sustainability* (2019) - 68 citations
+  DOI: https://doi.org/10.1038/s41893-019-0278-2
+
 Recent Publications (from Dimensions.ai):
 - Assessing coupling interactions in a safe and just operating space for regional sustainability *Nature Communications* (2023) - 117 citations
   DOI: https://doi.org/10.1038/s41467-023-37073-z

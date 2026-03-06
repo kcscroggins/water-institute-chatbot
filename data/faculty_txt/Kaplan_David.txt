@@ -42,6 +42,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 79.13 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- The NANOGrav 15 yr Data Set: Evidence for a Gravitational-wave Background *The Astrophysical Journal Letters* (2023) - 1427 citations
+  DOI: https://doi.org/10.3847/2041-8213/acdac6
+- Black holes, gravitational waves and fundamental physics: a roadmap *Classical and Quantum Gravity* (2019) - 713 citations
+  DOI: https://doi.org/10.1088/1361-6382/ab0587
+- The NANOGrav 15 yr Data Set: Search for Signals from New Physics *The Astrophysical Journal Letters* (2023) - 694 citations
+  DOI: https://doi.org/10.3847/2041-8213/acdc91
+- The NANOGrav 15 yr Data Set: Constraints on Supermassive Black Hole Binaries from the Gravitational-wave Background *The Astrophysical Journal Letters* (2023) - 355 citations
+  DOI: https://doi.org/10.3847/2041-8213/ace18b
+- The NANOGrav 15 yr Data Set: Observations and Timing of 68 Millisecond Pulsars *The Astrophysical Journal Letters* (2023) - 320 citations
+  DOI: https://doi.org/10.3847/2041-8213/acda9a
+
 Recent Publications (from Dimensions.ai):
 - The NANOGrav 15 yr Data Set: Evidence for a Gravitational-wave Background *The Astrophysical Journal Letters* (2023) - 1363 citations
   DOI: https://doi.org/10.3847/2041-8213/acdac6

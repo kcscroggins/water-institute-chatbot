@@ -26,6 +26,10 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.8 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Antioxidant-Containing Polymeric Additives for Improved Mechanical Recycling of PET *Macromolecules* (2024) - 11 citations
+  DOI: https://doi.org/10.1021/acs.macromol.4c01311
+
 Recent Publications (from Dimensions.ai):
 - Antioxidant-Containing Polymeric Additives for Improved Mechanical Recycling of PET *Macromolecules* (2024) - 9 citations
   DOI: https://doi.org/10.1021/acs.macromol.4c01311

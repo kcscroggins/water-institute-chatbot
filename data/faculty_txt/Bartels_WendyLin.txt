@@ -43,6 +43,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 7.79 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Warming up to climate change: a participatory approach to engaging with agricultural stakeholders in the Southeast US *Regional Environmental Change* (2012) - 74 citations
+  DOI: https://doi.org/10.1007/s10113-012-0371-9
+- Graduate Students and Knowledge Exchange with Local Stakeholders: Possibilities and Preparation *Biotropica* (2009) - 39 citations
+  DOI: https://doi.org/10.1111/j.1744-7429.2009.00563.x
+- Exploring changes in rainfall intensity and seasonal variability in the Southeastern U.S.: Stakeholder engagement, observations, and adaptation *Climate Risk Management* (2015) - 37 citations
+  DOI: https://doi.org/10.1016/j.crm.2015.02.001
+- In pursuit of a homegrown biofuel: Navigating systems of partnership, stakeholder knowledge, and adoption of Brassica carinata in the Southeast United States *Energy Research & Social Science* (2020) - 20 citations
+  DOI: https://doi.org/10.1016/j.erss.2020.101665
+- Building Community for Participatory Modeling: Network Composition, Trust, and Adaptive Process Design *Society & Natural Resources* (2023) - 16 citations
+  DOI: https://doi.org/10.1080/08941920.2023.2177916
+
 Recent Publications (from Dimensions.ai):
 - Building Community for Participatory Modeling: Network Composition, Trust, and Adaptive Process Design *Society & Natural Resources* (2023) - 15 citations
   DOI: https://doi.org/10.1080/08941920.2023.2177916

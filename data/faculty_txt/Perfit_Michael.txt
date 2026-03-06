@@ -37,6 +37,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 1.97 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Vapour undersaturation in primitive mid-ocean-ridge basalt and the volatile content of Earth's upper mantle *Nature* (2002) - 714 citations
+  DOI: https://doi.org/10.1038/nature01073
+- Magmatism at Mid‐Ocean Ridges: Constraints from Volcanological and Geochemical Investigations *Geophysical Monograph Series* (1998) - 244 citations
+  DOI: https://doi.org/10.1029/gm106p0059
+- The effects of variable sources, processes and contaminants on the composition of northern EPR MORB (8–10°N and 12–14°N): Evidence from volatiles (H2O, CO2, S) and halogens (F, Cl) *Earth and Planetary Science Letters* (2006) - 156 citations
+  DOI: https://doi.org/10.1016/j.epsl.2006.09.012
+- New insights into mid-ocean ridge volcanic processes from the 2005–2006 eruption of the East Pacific Rise, 9°46′N–9°56′N *Geology* (2007) - 138 citations
+  DOI: https://doi.org/10.1130/g23924a.1
+- Phengite-hosted LILE Enrichment in Eclogite and Related Rocks: Implications for Fluid-Mediated Mass Transfer in Subduction Zones and Arc Magma Genesis *Journal of Petrology* (1997) - 134 citations
+  DOI: https://doi.org/10.1093/petroj/38.1.3
+
 Recent Publications (from Dimensions.ai):
 - Using precious metal probes to quantify mid-ocean ridge magmatic processes *Earth and Planetary Science Letters* (2021) - 20 citations
   DOI: https://doi.org/10.1016/j.epsl.2020.116603

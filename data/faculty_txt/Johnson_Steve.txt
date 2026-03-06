@@ -41,6 +41,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 1.44 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Community ecology theory predicts the effects of agrochemical mixtures on aquatic biodiversity and ecosystem properties *Ecology Letters* (2014) - 122 citations
+  DOI: https://doi.org/10.1111/ele.12295
+- Early-life exposure to a herbicide has enduring effects on pathogen-induced mortality *Proceedings of the Royal Society B* (2013) - 103 citations
+  DOI: https://doi.org/10.1098/rspb.2013.1502
+- Agrochemicals increase risk of human schistosomiasis by supporting higher densities of intermediate hosts *Nature Communications* (2018) - 88 citations
+  DOI: https://doi.org/10.1038/s41467-018-03189-w
+- Burrow Use and Survival of Newly Metamorphosed Gopher Frogs (Rana capito) *Journal of Herpetology* (2009) - 42 citations
+  DOI: https://doi.org/10.1670/08-159r.1
+- Effects of Organized Turtle Watches on Loggerhead (Caretta caretta) Nesting Behavior and Hatchling Production in Florida *Conservation Biology* (1996) - 40 citations
+  DOI: https://doi.org/10.1046/j.1523-1739.1996.10020570.x
+
 Recent Publications (from Dimensions.ai):
 - Rat Lungworm (Angiostrongylus cantonensis) in the Invasive Cuban Treefrog (Osteopilus septentrionalis) in Central Florida, USA *Journal of Wildlife Diseases* (2022) - 13 citations
   DOI: https://doi.org/10.7589/jwd-d-21-00140

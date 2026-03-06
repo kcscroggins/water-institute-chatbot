@@ -31,6 +31,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 4.33 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Land use disturbance indicators and water quality variability in the Biscayne Bay Watershed, Florida *Ecological Indicators* (2011) - 110 citations
+  DOI: https://doi.org/10.1016/j.ecolind.2010.12.009
+- Application of multicriteria decision analysis tools to two contaminated sediment case studies *Integrated Environmental Assessment and Management* (2007) - 76 citations
+  DOI: https://doi.org/10.1897/ieam_2006-036.1
+- Network analysis of regional livestock trade in West Africa *PLOS ONE* (2020) - 51 citations
+  DOI: https://doi.org/10.1371/journal.pone.0232681
+- Using the integrated ecosystem assessment framework to build consensus and transfer information to managers *Ecological Indicators* (2014) - 50 citations
+  DOI: https://doi.org/10.1016/j.ecolind.2014.03.024
+- From optimization to adaptation: Shifting paradigms in environmental management and their application to remedial decisions *Integrated Environmental Assessment and Management* (2006) - 47 citations
+  DOI: https://doi.org/10.1002/ieam.5630020116
+
 Recent Publications (from Dimensions.ai):
 - A systematic review of economic assessments for brucellosis control interventions in livestock populations *Preventive Veterinary Medicine* (2023) - 29 citations
   DOI: https://doi.org/10.1016/j.prevetmed.2023.105878

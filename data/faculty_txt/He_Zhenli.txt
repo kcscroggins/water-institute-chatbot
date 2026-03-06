@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 6.2 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Molecular mechanisms of heavy metal hyperaccumulation and phytoremediation *Journal of Trace Elements in Medicine and Biology* (2005) - 474 citations
+  DOI: https://doi.org/10.1016/j.jtemb.2005.02.007
+- Land Application of Biosolids in the USA: A Review *Applied and Environmental Soil Science* (2012) - 403 citations
+  DOI: https://doi.org/10.1155/2012/201462
+- Purifying eutrophic river waters with integrated floating island systems *Ecological Engineering* (2012) - 184 citations
+  DOI: https://doi.org/10.1016/j.ecoleng.2011.12.012
+- Phytoremediation to remove nutrients and improve eutrophic stormwaters using water lettuce (Pistia stratiotes L.) *Environmental Science and Pollution Research* (2008) - 177 citations
+  DOI: https://doi.org/10.1007/s11356-008-0094-0
+- Uptake and distribution of metals by water lettuce (Pistia stratiotes L.) *Environmental Science and Pollution Research* (2011) - 125 citations
+  DOI: https://doi.org/10.1007/s11356-011-0453-0
+
 Recent Publications (from Dimensions.ai):
 - Effects of straw return with N fertilizer reduction on crop yield, plant diseases and pests and potential heavy metal risk in a Chinese rice paddy: A field study of 2 consecutive wheat-rice cycles *Environmental Pollution* (2021) - 112 citations
   DOI: https://doi.org/10.1016/j.envpol.2021.117741

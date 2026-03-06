@@ -40,6 +40,12 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Average Citations per Paper: 3.5
 - Open Access Publications: 100.0%
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Future directions in conservation and development: Incorporating the reality of climate change *Biodiversity* (2008) - 7 citations
+  DOI: https://doi.org/10.1080/14888386.2008.9712914
+- Does Local Context Matter for Case-Based Environmental Education? *Case Studies in the Environment* (2025) - 0 citations
+  DOI: https://doi.org/10.1525/cse.2025.2483291
+
 Recent Publications (from Dimensions.ai):
 - Does Local Context Matter for Case-Based Environmental Education? *Case Studies in the Environment* (2025)
   DOI: https://doi.org/10.1525/cse.2025.2483291

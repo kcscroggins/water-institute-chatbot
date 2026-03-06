@@ -37,6 +37,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 1.94 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Effects of cryptic mortality and the hidden costs of using length limits in fishery management *Fish and Fisheries* (2007) - 210 citations
+  DOI: https://doi.org/10.1111/j.1467-2679.2007.00247.x
+- Nonnative Fish Control in the Colorado River in Grand Canyon, Arizona: An Effective Program or Serendipitous Timing? *Transactions of the American Fisheries Society* (2011) - 74 citations
+  DOI: https://doi.org/10.1080/00028487.2011.572009
+- Population Viability of the Gulf of Mexico Sturgeon: Inferences from Capture–Recapture and Age‐Structured Models *Transactions of the American Fisheries Society* (2001) - 64 citations
+  DOI: https://doi.org/10.1577/1548-8659(2001)130<1164:pvotgo>2.0.co;2
+- Counterintuitive Responses of Fish Populations to Management Actions *Fisheries* (2009) - 54 citations
+  DOI: https://doi.org/10.1577/1548-8446-34.4.165
+- Detecting Fish Population Responses to a Minimum Length Limit: Effects of Variable Recruitment and Duration of Evaluation *North American Journal of Fisheries Management* (2000) - 53 citations
+  DOI: https://doi.org/10.1577/1548-8675(2000)020<0672:dfprta>2.3.co;2
+
 Recent Publications (from Dimensions.ai):
 - Modeling structural mechanics of oyster reef self-organization including environmental constraints and community interactions *Ecological Modelling* (2021) - 17 citations
   DOI: https://doi.org/10.1016/j.ecolmodel.2020.109389

@@ -51,6 +51,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 0.23 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Urban Fertilizer Ordinances in the Context of Environmental Horticulture and Water Quality Extension Programs: Frequently Asked Questions: AE534, 2/2020 *EDIS* (2020) - 2 citations
+  DOI: https://doi.org/10.32473/edis-ae534-2020
+- Frequently Asked Questions about Stormwater Wet Ponds: AEC807/WC468, 8/2024 *EDIS* (2024) - 1 citations
+  DOI: https://doi.org/10.32473/edis-wc468-2024
+- Strategies to Encourage Adoption of Stormwater Pond Best Management Practices (BMPs) by Homeowners: AEC552/WC214, 7/2015 *EDIS* (2015) - 0 citations
+  DOI: https://doi.org/10.32473/edis-wc214-2015
+- Guidelines for Hiring a Florida-Friendly Landscape Professional: ENH1350/EP614, 2/2022 *EDIS* (2022) - 0 citations
+  DOI: https://doi.org/10.32473/edis-ep614-2022
+- Delivering Secure CEU Training Utilizing Zoom: PI286, 9/2020 *EDIS* (2020) - 0 citations
+  DOI: https://doi.org/10.32473/edis-pi286-2020
+
 Recent Publications (from Dimensions.ai):
 - Frequently Asked Questions about Stormwater Wet Ponds: AEC807/WC468, 8/2024 *EDIS* (2024) - 1 citations
   DOI: https://doi.org/10.32473/edis-wc468-2024

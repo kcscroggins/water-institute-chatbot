@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.68 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Stormwater ponds: An overlooked but plentiful urban designer ecosystem provides invasive plant habitat in a subtropical region (Florida, USA) *The Science of The Total Environment* (2019) - 44 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2019.135133
+- Exposure to a common antidepressant alters crayfish behavior and has potential subsequent ecosystem impacts *Ecosphere* (2021) - 35 citations
+  DOI: https://doi.org/10.1002/ecs2.3527
+- Identifying invasive species threats, pathways, and impacts to improve biosecurity *Ecosphere* (2023) - 34 citations
+  DOI: https://doi.org/10.1002/ecs2.4711
+- Revising the Freshwater Thelohania to Astathelohania gen. et comb. nov., and Description of Two New Species *Microorganisms* (2022) - 16 citations
+  DOI: https://doi.org/10.3390/microorganisms10030636
+- Vegetation management and benthic macroinvertebrate communities in urban stormwater ponds: implications for regional biodiversity *Urban Ecosystems* (2020) - 16 citations
+  DOI: https://doi.org/10.1007/s11252-020-01072-5
+
 Recent Publications (from Dimensions.ai):
 - Identifying invasive species threats, pathways, and impacts to improve biosecurity *Ecosphere* (2023) - 34 citations
   DOI: https://doi.org/10.1002/ecs2.4711

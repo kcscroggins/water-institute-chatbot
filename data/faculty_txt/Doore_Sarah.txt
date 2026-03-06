@@ -43,6 +43,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.95 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Host Range Expansion of Shigella Phage Sf6 Evolves through Point Mutations in the Tailspike *Journal of Virology* (2022) - 38 citations
+  DOI: https://doi.org/10.1128/jvi.00929-22
+- Moo19 and B2: Structures of Schitoviridae podophages with T = 9 geometry and tailspikes with esterase activity *Science Advances* (2024) - 9 citations
+  DOI: https://doi.org/10.1126/sciadv.adt0022
+- The structure of Shigella virus Sf14 reveals the presence of two decoration proteins and two long tail fibers *Communications Biology* (2025) - 7 citations
+  DOI: https://doi.org/10.1038/s42003-025-07668-x
+- Shigella viruses Sf22 and KRT47 require outer membrane protein C for infection *Biochimica et Biophysica Acta (BBA) - Biomembranes* (2022) - 5 citations
+  DOI: https://doi.org/10.1016/j.bbamem.2022.183920
+- The inaugural mBio Junior Editorial Board—lessons learned and the path forward toward improving the peer review process *mBio* (2023) - 1 citations
+  DOI: https://doi.org/10.1128/mbio.01991-23
+
 Recent Publications (from Dimensions.ai):
 - Host Range Expansion of Shigella Phage Sf6 Evolves through Point Mutations in the Tailspike *Journal of Virology* (2022) - 34 citations
   DOI: https://doi.org/10.1128/jvi.00929-22

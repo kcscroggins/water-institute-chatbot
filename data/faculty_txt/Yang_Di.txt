@@ -29,6 +29,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.48 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Telecoupling Research: The First Five Years *Sustainability* (2019) - 77 citations
+  DOI: https://doi.org/10.3390/su11041033
+- Open land-use map: a regional land-use mapping strategy for incorporating OpenStreetMap with earth observations *Geo-spatial Information Science* (2017) - 60 citations
+  DOI: https://doi.org/10.1080/10095020.2017.1371385
+- Calibration‐induced uncertainty of the EPIC model to estimate climate change impact on global maize yield *Journal of Advances in Modeling Earth Systems* (2016) - 48 citations
+  DOI: https://doi.org/10.1002/2016ms000625
+- A new difference image creation method based on deep neural networks for change detection in remote-sensing images *International Journal of Remote Sensing* (2017) - 36 citations
+  DOI: https://doi.org/10.1080/01431161.2017.1371861
+- Harnessing the NEON data revolution to advance open environmental science with a diverse and data‐capable community *Ecosphere* (2021) - 29 citations
+  DOI: https://doi.org/10.1002/ecs2.3833
+
 Recent Publications (from Dimensions.ai):
 - Harnessing the NEON data revolution to advance open environmental science with a diverse and data‐capable community *Ecosphere* (2021) - 28 citations
   DOI: https://doi.org/10.1002/ecs2.3833

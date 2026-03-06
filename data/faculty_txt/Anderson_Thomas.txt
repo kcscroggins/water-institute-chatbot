@@ -33,6 +33,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 40.25 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Environmental, economic, and social sustainability in aquaculture: the aquaculture performance indicators *Nature Communications* (2024) - 149 citations
+  DOI: https://doi.org/10.1038/s41467-024-49556-8
+- Aquaculture in the United States: An analysis of seven aquaculture sectors from the aquaculture performance indicators perspective *Aquaculture Economics & Management* (2025) - 15 citations
+  DOI: https://doi.org/10.1080/13657305.2025.2455411
+- Author Correction: Environmental, economic, and social sustainability in aquaculture: the aquaculture performance indicators *Nature Communications* (2024) - 12 citations
+  DOI: https://doi.org/10.1038/s41467-024-50360-7
+- Finer economic margins for farmed salmon *Aquaculture* (2025) - 8 citations
+  DOI: https://doi.org/10.1016/j.aquaculture.2025.742803
+- SNAPSHOT USA 2019–2023: The First Five Years of Data From a Coordinated Camera Trap Survey of the United States *Global Ecology and Biogeography* (2025) - 8 citations
+  DOI: https://doi.org/10.1111/geb.13941
+
 Recent Publications (from Dimensions.ai):
 - Environmental, economic, and social sustainability in aquaculture: the aquaculture performance indicators *Nature Communications* (2024) - 142 citations
   DOI: https://doi.org/10.1038/s41467-024-49556-8

@@ -43,6 +43,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 12.73 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Fish to 2030: The Role and Opportunity for Aquaculture *Aquaculture Economics & Management* (2015) - 357 citations
+  DOI: https://doi.org/10.1080/13657305.2015.994240
+- Three pillars of sustainability in fisheries *Proceedings of the National Academy of Sciences of the United States of America* (2018) - 189 citations
+  DOI: https://doi.org/10.1073/pnas.1807677115
+- The Fishery Performance Indicators: A Management Tool for Triple Bottom Line Outcomes *PLOS ONE* (2015) - 181 citations
+  DOI: https://doi.org/10.1371/journal.pone.0122809
+- Globalization and commoditization: The transformation of the seafood market *Journal of Commodity Markets* (2018) - 153 citations
+  DOI: https://doi.org/10.1016/j.jcomm.2017.12.004
+- Environmental, economic, and social sustainability in aquaculture: the aquaculture performance indicators *Nature Communications* (2024) - 149 citations
+  DOI: https://doi.org/10.1038/s41467-024-49556-8
+
 Recent Publications (from Dimensions.ai):
 - Environmental, economic, and social sustainability in aquaculture: the aquaculture performance indicators *Nature Communications* (2024) - 142 citations
   DOI: https://doi.org/10.1038/s41467-024-49556-8

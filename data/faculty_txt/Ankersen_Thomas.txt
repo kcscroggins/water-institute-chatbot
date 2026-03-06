@@ -50,6 +50,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 1.49 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Towards a bioregional approach to tropical forest conservation: Costa Rica's Greater Osa Bioregion *Futures* (2006) - 19 citations
+  DOI: https://doi.org/10.1016/j.futures.2005.07.017
+- Conservation easements and coastal armoring: Protecting sea turtle nesting habitat through property ownership *Ocean & Coastal Management* (2019) - 10 citations
+  DOI: https://doi.org/10.1016/j.ocecoaman.2019.104944
+- Turtles Without Borders: The International and Domestic Law Basis for the Shared Conservation, Management, and Use of Sea Turtles in Nicaragua, Costa Rica, and Panama *Journal of International Wildlife Law & Policy* (2015) - 9 citations
+  DOI: https://doi.org/10.1080/13880292.2014.957027
+- Coastal Armoring and Sea Turtles: Beachfront Homeowners’ Opinions and Intent *Coastal Management* (2019) - 6 citations
+  DOI: https://doi.org/10.1080/08920753.2019.1669102
+- Tierra y Libertad: The Social Function Doctrine and Land Reform in Latin America (2019) - 2 citations
+  DOI: https://doi.org/10.1007/978-981-13-7189-9_9
+
 Recent Publications (from Dimensions.ai):
 - 3 Ramsar at the national level: Application and incorporation into domestic law (2023) - 1 citations
   DOI: https://doi.org/10.1016/b978-0-12-817803-4.00001-2

@@ -32,6 +32,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 17.98 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Breast Cancer in Limited‐Resource Countries: An Overview of the Breast Health Global Initiative 2005 Guidelines *The Breast Journal* (2006) - 297 citations
+  DOI: https://doi.org/10.1111/j.1075-122x.2006.00199.x
+- Global and regional estimates of orphans attributed to maternal cancer mortality in 2020 *Nature Medicine* (2022) - 170 citations
+  DOI: https://doi.org/10.1038/s41591-022-02109-2
+- Breast cancer treatment: A phased approach to implementation *Cancer* (2020) - 160 citations
+  DOI: https://doi.org/10.1002/cncr.32910
+- The Breast Health Global Initiative 2018 Global Summit on Improving Breast Healthcare Through Resource‐Stratified Phased Implementation: Methods and overview *Cancer* (2020) - 110 citations
+  DOI: https://doi.org/10.1002/cncr.32891
+- Public finance of rotavirus vaccination in India and Ethiopia: An extended cost-effectiveness analysis *Vaccine* (2013) - 97 citations
+  DOI: https://doi.org/10.1016/j.vaccine.2013.07.014
+
 Recent Publications (from Dimensions.ai):
 - Global and regional estimates of orphans attributed to maternal cancer mortality in 2020 *Nature Medicine* (2022) - 164 citations
   DOI: https://doi.org/10.1038/s41591-022-02109-2

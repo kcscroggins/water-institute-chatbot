@@ -50,6 +50,14 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.73 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Landscape Aesthetics and Maintenance Perceptions: Assessing the Relationship between Homeowners’ Visual Attention and Landscape Care Knowledge *Land Use Policy* (2020) - 44 citations
+  DOI: https://doi.org/10.1016/j.landusepol.2020.104645
+- Sustainable Residential Landscapes in Florida: Controlled Comparison of Traditional versus Florida-Friendly Landscaping *Journal of Irrigation and Drainage Engineering* (2021) - 13 citations
+  DOI: https://doi.org/10.1061/(asce)ir.1943-4774.0001577
+- Salvaging Native Plants from Sites Slated for Development: Stop Wasting Resources: FOR373/FR442, 10/2021 *EDIS* (2021) - 0 citations
+  DOI: https://doi.org/10.32473/edis-fr442-2021
+
 Recent Publications (from Dimensions.ai):
 - Sustainable Residential Landscapes in Florida: Controlled Comparison of Traditional versus Florida-Friendly Landscaping *Journal of Irrigation and Drainage Engineering* (2021) - 13 citations
   DOI: https://doi.org/10.1061/(asce)ir.1943-4774.0001577

@@ -23,6 +23,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 27.02 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Federated Learning for Healthcare Informatics *Journal of Healthcare Informatics Research* (2020) - 1338 citations
+  DOI: https://doi.org/10.1007/s41666-020-00082-4
+- Data-driven identification of post-acute SARS-CoV-2 infection subphenotypes *Nature Medicine* (2022) - 182 citations
+  DOI: https://doi.org/10.1038/s41591-022-02116-3
+- Algorithmic fairness in computational medicine *EBioMedicine* (2022) - 145 citations
+  DOI: https://doi.org/10.1016/j.ebiom.2022.104250
+- Early prediction of Alzheimer's disease and related dementias using real‐world electronic health records *Alzheimer's & Dementia* (2023) - 94 citations
+  DOI: https://doi.org/10.1002/alz.12967
+- A translational perspective towards clinical AI fairness *npj Digital Medicine* (2023) - 75 citations
+  DOI: https://doi.org/10.1038/s41746-023-00918-4
+
 Recent Publications (from Dimensions.ai):
 - Data-driven identification of post-acute SARS-CoV-2 infection subphenotypes *Nature Medicine* (2022) - 180 citations
   DOI: https://doi.org/10.1038/s41591-022-02116-3

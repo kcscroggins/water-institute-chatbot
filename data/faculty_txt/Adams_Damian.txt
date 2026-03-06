@@ -45,6 +45,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 1.96 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- When does invasive species removal lead to ecological recovery? Implications for management success *Biological Invasions* (2017) - 186 citations
+  DOI: https://doi.org/10.1007/s10530-017-1542-x
+- Urban forest structure effects on property value *Ecosystem Services* (2015) - 85 citations
+  DOI: https://doi.org/10.1016/j.ecoser.2014.05.002
+- Consumer demand for urban forest ecosystem services and disservices: Examining trade-offs using choice experiments and best-worst scaling *Ecosystem Services* (2018) - 84 citations
+  DOI: https://doi.org/10.1016/j.ecoser.2017.11.009
+- Comparison of revealed comparative advantage indexes with application to trade tendencies of cellulose production from planted forests in Brazil, Canada, China, Sweden, Finland and the United States *Forest Policy and Economics* (2018) - 52 citations
+  DOI: https://doi.org/10.1016/j.forpol.2018.09.007
+- Are keystone species effective umbrellas for habitat conservation? A spatially explicit approach *Journal for Nature Conservation* (2017) - 51 citations
+  DOI: https://doi.org/10.1016/j.jnc.2017.03.003
+
 Recent Publications (from Dimensions.ai):
 - Preinvasion Assessment of Exotic Bark Beetle-Vectored Fungi to Detect Tree-Killing Pathogens. *Phytopathology* (2022) - 17 citations
   DOI: https://doi.org/10.1094/phyto-01-21-0041-r

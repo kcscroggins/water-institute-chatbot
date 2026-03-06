@@ -41,6 +41,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 19.32 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- The broad footprint of climate change from genes to biomes to people *Science* (2016) - 1215 citations
+  DOI: https://doi.org/10.1126/science.aaf7671
+- Forest microclimates and climate change: Importance, drivers and future research agenda *Global Change Biology* (2021) - 801 citations
+  DOI: https://doi.org/10.1111/gcb.15569
+- Global buffering of temperatures under forest canopies *Nature Ecology & Evolution* (2019) - 684 citations
+  DOI: https://doi.org/10.1038/s41559-019-0842-1
+- Global maps of soil temperature *Global Change Biology* (2022) - 275 citations
+  DOI: https://doi.org/10.1111/gcb.16060
+- Managing consequences of climate‐driven species redistribution requires integration of ecology, conservation and social science *Biological Reviews* (2017) - 208 citations
+  DOI: https://doi.org/10.1111/brv.12344
+
 Recent Publications (from Dimensions.ai):
 - Forest microclimates and climate change: Importance, drivers and future research agenda *Global Change Biology* (2021) - 781 citations
   DOI: https://doi.org/10.1111/gcb.15569

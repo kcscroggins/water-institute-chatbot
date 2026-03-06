@@ -48,6 +48,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 5.51 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Comparing fully convolutional networks, random forest, support vector machine, and patch-based deep convolutional neural networks for object-based wetland mapping using images from small unmanned aircraft system *GIScience & Remote Sensing* (2018) - 262 citations
+  DOI: https://doi.org/10.1080/15481603.2018.1426091
+- De-striping hyperspectral imagery using wavelet transform and adaptive frequency domain filtering *ISPRS Journal of Photogrammetry and Remote Sensing* (2011) - 163 citations
+  DOI: https://doi.org/10.1016/j.isprsjprs.2011.04.003
+- Object-based classification of wetland vegetation using very high-resolution unmanned air system imagery *European Journal of Remote Sensing* (2017) - 115 citations
+  DOI: https://doi.org/10.1080/22797254.2017.1373602
+- A remote sensing technique for detecting laurel wilt disease in avocado in presence of other biotic and abiotic stresses *Computers and Electronics in Agriculture* (2019) - 111 citations
+  DOI: https://doi.org/10.1016/j.compag.2018.12.018
+- Deep convolutional neural network training enrichment using multi-view object-based analysis of Unmanned Aerial systems imagery for wetlands classification *ISPRS Journal of Photogrammetry and Remote Sensing* (2018) - 107 citations
+  DOI: https://doi.org/10.1016/j.isprsjprs.2018.03.006
+
 Recent Publications (from Dimensions.ai):
 - Remote Sensing and Machine Learning in Crop Phenotyping and Management, with an Emphasis on Applications in Strawberry Farming *Remote Sensing* (2021) - 104 citations
   DOI: https://doi.org/10.3390/rs13030531

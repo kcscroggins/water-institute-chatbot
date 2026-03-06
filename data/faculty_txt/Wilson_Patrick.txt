@@ -37,6 +37,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 1.33 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Toxicity and bioaccumulation of biosolids‐borne triclosan in food crops *Environmental Toxicology and Chemistry* (2012) - 69 citations
+  DOI: https://doi.org/10.1002/etc.1930
+- Temperature-Dependent Development, Cold Tolerance, and Potential Distribution of Cricotopus lebetis (Diptera: Chironomidae), a Tip Miner of Hydrilla verticillata (Hydrocharitaceae) *Journal of Insect Science* (2014) - 9 citations
+  DOI: https://doi.org/10.1093/jisesa/ieu015
+- Endocrine-Disrupting Compounds in Reclaimed Water and Residential Ponds and Exposure Potential for Dislodgeable Residues in Turf Irrigated With Reclaimed Water *Archives of Environmental Contamination and Toxicology* (2015) - 7 citations
+  DOI: https://doi.org/10.1007/s00244-015-0147-6
+- Effects of drinking water treatment residual amendments to biosolids on plant uptake of per‐ and polyfluoroalkyl substances *Journal of Environmental Quality* (2023) - 6 citations
+  DOI: https://doi.org/10.1002/jeq2.20511
+- Influence of Pesticide Application Method, Timing, and Rate on Contamination of Nectar with Systemic and Nonsystemic Pesticides *Environmental Toxicology and Chemistry* (2024) - 4 citations
+  DOI: https://doi.org/10.1002/etc.5989
+
 Recent Publications (from Dimensions.ai):
 - Effects of drinking water treatment residual amendments to biosolids on plant uptake of per‐ and polyfluoroalkyl substances *Journal of Environmental Quality* (2023) - 6 citations
   DOI: https://doi.org/10.1002/jeq2.20511

@@ -33,6 +33,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.12 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Scientist Online: Entomologists' Experiences Engaging With School Audiences Through Skype in the Classroom *Frontiers in Communication* (2020) - 7 citations
+  DOI: https://doi.org/10.3389/fcomm.2020.576593
+- Rocks Really Rock: electronic field trips via Web Google Earth can generate positive impacts in attitudes toward Earth sciences in middle- and high-school students *Geoscience Communication* (2024) - 6 citations
+  DOI: https://doi.org/10.5194/gc-7-101-2024
+- Conservation conversation: an arts-based approach to examine impacts of a live video webcast on youth viewers’ conceptualizations of forest ecosystems *Applied Environmental Education & Communication* (2022) - 4 citations
+  DOI: https://doi.org/10.1080/1533015x.2022.2034554
+- Using an International Experience to Bridge the Gap Between Culture and Science Literacy *Journal of International Agricultural and Extension Education* (2019) - 4 citations
+  DOI: https://doi.org/10.5191/jiaee.2019.26208
+- Community engagement in coral reef restoration in the Seaflower MPA, Colombia *Restoration Ecology* (2024) - 3 citations
+  DOI: https://doi.org/10.1111/rec.14268
+
 Recent Publications (from Dimensions.ai):
 - Rocks Really Rock: electronic field trips via Web Google Earth can generate positive impacts in attitudes toward Earth sciences in middle- and high-school students *Geoscience Communication* (2024) - 6 citations
   DOI: https://doi.org/10.5194/gc-7-101-2024

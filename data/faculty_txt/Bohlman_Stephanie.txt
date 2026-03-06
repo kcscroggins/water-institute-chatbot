@@ -51,6 +51,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 7.61 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- TRY plant trait database – enhanced coverage and open access *Global Change Biology* (2019) - 1881 citations
+  DOI: https://doi.org/10.1111/gcb.14904
+- Scale‐dependent relationships between tree species richness and ecosystem function in forests *Journal of Ecology* (2013) - 323 citations
+  DOI: https://doi.org/10.1111/1365-2745.12132
+- Individual Tree-Crown Detection in RGB Imagery Using Semi-Supervised Deep Learning Neural Networks *Remote Sensing* (2019) - 317 citations
+  DOI: https://doi.org/10.3390/rs11111309
+- ForestGEO: Understanding forest diversity and dynamics through a global observatory network *Biological Conservation* (2021) - 228 citations
+  DOI: https://doi.org/10.1016/j.biocon.2020.108907
+- Cross-site learning in deep learning RGB tree crown detection *Ecological Informatics* (2020) - 126 citations
+  DOI: https://doi.org/10.1016/j.ecoinf.2020.101061
+
 Recent Publications (from Dimensions.ai):
 - ForestGEO: Understanding forest diversity and dynamics through a global observatory network *Biological Conservation* (2021) - 221 citations
   DOI: https://doi.org/10.1016/j.biocon.2020.108907

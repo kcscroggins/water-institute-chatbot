@@ -42,6 +42,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.1 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Fire as a fundamental ecological process: Research advances and frontiers *Journal of Ecology* (2020) - 626 citations
+  DOI: https://doi.org/10.1111/1365-2745.13403
+- Climate change lengthens southeastern USA lightning‐ignited fire seasons *Global Change Biology* (2019) - 57 citations
+  DOI: https://doi.org/10.1111/gcb.14727
+- Increasing Large Wildfire in the Eastern United States *Geophysical Research Letters* (2023) - 37 citations
+  DOI: https://doi.org/10.1029/2023gl107051
+- Detecting Vegetation Recovery after Fire in A Fire-Frequented Habitat Using Normalized Difference Vegetation Index (NDVI) *Forests* (2020) - 36 citations
+  DOI: https://doi.org/10.3390/f11070749
+- Population projection models for 14 alien plant species in the presence and absence of aboveground competition *Ecology* (2019) - 22 citations
+  DOI: https://doi.org/10.1002/ecy.2681
+
 Recent Publications (from Dimensions.ai):
 - Increasing Large Wildfire in the Eastern United States *Geophysical Research Letters* (2023) - 34 citations
   DOI: https://doi.org/10.1029/2023gl107051

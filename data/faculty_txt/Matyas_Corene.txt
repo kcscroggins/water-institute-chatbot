@@ -39,6 +39,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.11 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Associations between the size of hurricane rain fields at landfall and their surrounding environments *Meteorology and Atmospheric Physics* (2010) - 92 citations
+  DOI: https://doi.org/10.1007/s00703-009-0056-1
+- The influences of ENSO and the subtropical Indian Ocean Dipole on tropical cyclone trajectories in the southwestern Indian Ocean *International Journal of Climatology* (2010) - 71 citations
+  DOI: https://doi.org/10.1002/joc.2249
+- Tropical cyclone formation and motion in the Mozambique Channel *International Journal of Climatology* (2014) - 51 citations
+  DOI: https://doi.org/10.1002/joc.3985
+- A Shape Metric Methodology for Studying the Evolving Geometries of Synoptic-Scale Precipitation Patterns in Tropical Cyclones *Annals of the American Association of Geographers* (2016) - 48 citations
+  DOI: https://doi.org/10.1080/24694452.2016.1206460
+- Modeling hurricane-caused urban forest debris in Houston, Texas *Landscape and Urban Planning* (2011) - 34 citations
+  DOI: https://doi.org/10.1016/j.landurbplan.2011.02.034
+
 Recent Publications (from Dimensions.ai):
 - Regionalization of precipitation associated with tropical cyclones using spatial metrics and satellite precipitation *GIScience & Remote Sensing* (2021) - 22 citations
   DOI: https://doi.org/10.1080/15481603.2021.1908675

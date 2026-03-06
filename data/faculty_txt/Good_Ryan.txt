@@ -31,6 +31,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 8.68 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Sustainable futures in agricultural heritage: Geospatial exploration and predicting groundwater-level variations in Barind tract of Bangladesh *The Science of The Total Environment* (2022) - 47 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2022.161297
+- Spatial pattern analysis of manufacturing industries in Keraniganj, Dhaka, Bangladesh *GeoJournal* (2019) - 24 citations
+  DOI: https://doi.org/10.1007/s10708-018-9961-5
+- The importance of everyday encounters: young scholars reflect on fieldwork in Africa *African Geographical Review* (2012) - 5 citations
+  DOI: https://doi.org/10.1080/19376812.2012.679460
+- Navigating STEMification for critical geography educators: finding leverage in classroom and institutional pedagogies *Journal of Geography in Higher Education* (2023) - 4 citations
+  DOI: https://doi.org/10.1080/03098265.2023.2261863
+- Does Local Context Matter for Case-Based Environmental Education? *Case Studies in the Environment* (2025) - 0 citations
+  DOI: https://doi.org/10.1525/cse.2025.2483291
+
 Recent Publications (from Dimensions.ai):
 - Sustainable futures in agricultural heritage: Geospatial exploration and predicting groundwater-level variations in Barind tract of Bangladesh *The Science of The Total Environment* (2022) - 47 citations
   DOI: https://doi.org/10.1016/j.scitotenv.2022.161297

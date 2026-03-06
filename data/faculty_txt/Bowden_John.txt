@@ -29,6 +29,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 10.29 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Harmonizing lipidomics: NIST interlaboratory comparison exercise for lipidomics using SRM 1950–Metabolites in Frozen Human Plasma[S] *Journal of Lipid Research* (2017) - 392 citations
+  DOI: https://doi.org/10.1194/jlr.m079012
+- LipidMatch: an automated workflow for rule-based lipid identification using untargeted high-resolution tandem mass spectrometry data *BMC Bioinformatics* (2017) - 319 citations
+  DOI: https://doi.org/10.1186/s12859-017-1744-3
+- Lipidomics needs more standardization *Nature Metabolism* (2019) - 199 citations
+  DOI: https://doi.org/10.1038/s42255-019-0094-z
+- Expanding Lipidome Coverage Using LC-MS/MS Data-Dependent Acquisition with Automated Exclusion List Generation *Journal of the American Society for Mass Spectrometry* (2017) - 199 citations
+  DOI: https://doi.org/10.1007/s13361-017-1608-0
+- Optimization of Folch, Bligh-Dyer, and Matyash sample-to-extraction solvent ratios for human plasma-based lipidomics studies *Analytica Chimica Acta* (2018) - 139 citations
+  DOI: https://doi.org/10.1016/j.aca.2018.08.004
+
 Recent Publications (from Dimensions.ai):
 - Reference materials for MS-based untargeted metabolomics and lipidomics: a review by the metabolomics quality assurance and quality control consortium (mQACC) *Metabolomics* (2022) - 106 citations
   DOI: https://doi.org/10.1007/s11306-021-01848-6

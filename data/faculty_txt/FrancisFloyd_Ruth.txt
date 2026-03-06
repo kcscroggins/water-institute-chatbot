@@ -44,6 +44,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 4.19 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- A scuticociliate causes mass mortality of Diadema antillarum in the Caribbean Sea *Science Advances* (2023) - 53 citations
+  DOI: https://doi.org/10.1126/sciadv.adg3200
+- Nitrate‐Induced Goiter in Captive Whitespotted Bamboo Sharks Chiloscyllium plagiosum *Journal of Aquatic Animal Health* (2011) - 49 citations
+  DOI: https://doi.org/10.1080/08997659.2011.574079
+- COMPARISON OF METHODS USED TO DIAGNOSE GENERALIZED INFLAMMATORY DISEASE IN MANATEES (TRICHECHUS MANATUS LATIROSTRIS) *Journal of Zoo and Wildlife Medicine* (2006) - 47 citations
+  DOI: https://doi.org/10.1638/05-023.1
+- Ammonia in Aquatic Systems: FA16/FA031, rev. 2/2009 *EDIS* (2009) - 45 citations
+  DOI: https://doi.org/10.32473/edis-fa031-2009
+- Megalocytivirus infection in orbiculate batfish Platax orbicularis. *Diseases of Aquatic Organisms* (2013) - 38 citations
+  DOI: https://doi.org/10.3354/dao02594
+
 Recent Publications (from Dimensions.ai):
 - A scuticociliate causes mass mortality of Diadema antillarum in the Caribbean Sea *Science Advances* (2023) - 51 citations
   DOI: https://doi.org/10.1126/sciadv.adg3200

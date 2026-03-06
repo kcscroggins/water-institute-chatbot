@@ -32,6 +32,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.77 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Preparation for Full Time Employment: A Capstone Experience for Students in Leadership Programs *Journal of Leadership Education* (2011) - 9 citations
+  DOI: https://doi.org/10.12806/v10/i1/ab1
+- Trying to Relate *Knowledge* (2005) - 9 citations
+  DOI: https://doi.org/10.1177/1075547005278347
+- Scientist Online: Entomologists' Experiences Engaging With School Audiences Through Skype in the Classroom *Frontiers in Communication* (2020) - 7 citations
+  DOI: https://doi.org/10.3389/fcomm.2020.576593
+- Predictors of Knowledge-Sharing Behaviors Among Community-Based Natural Resources Organizations in the Okavango Delta, Botswana *Knowledge* (2013) - 7 citations
+  DOI: https://doi.org/10.1177/1075547012470821
+- Public Perceptions of Mosquitoes and Mosquito Control: AEC694/WC357, 5/2020 *EDIS* (2020) - 6 citations
+  DOI: https://doi.org/10.32473/edis-wc357-2020
+
 Recent Publications (from Dimensions.ai):
 - Bytes and bites: Consumer perceptions toward the power of artificial intelligence for foodborne risk mitigation through traceable food *Current Research in Food Science* (2025) - 2 citations
   DOI: https://doi.org/10.1016/j.crfs.2025.101119

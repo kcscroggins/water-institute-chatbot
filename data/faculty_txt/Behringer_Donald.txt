@@ -33,6 +33,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.82 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Parasite avoidance behaviours in aquatic environments *Philosophical Transactions of the Royal Society B Biological Sciences* (2018) - 109 citations
+  DOI: https://doi.org/10.1098/rstb.2017.0202
+- Host genetics and geography influence microbiome composition in the sponge Ircinia campana *Journal of Animal Ecology* (2019) - 75 citations
+  DOI: https://doi.org/10.1111/1365-2656.13065
+- Biophysical connectivity explains population genetic structure in a highly dispersive marine species *Coral Reefs* (2016) - 70 citations
+  DOI: https://doi.org/10.1007/s00338-016-1516-y
+- A New Family of DNA Viruses Causing Disease in Crustaceans from Diverse Aquatic Biomes *mBio* (2020) - 68 citations
+  DOI: https://doi.org/10.1128/mbio.02938-19
+- Review of Panulirus argus virus 1--a decade after its discovery. *Diseases of Aquatic Organisms* (2011) - 59 citations
+  DOI: https://doi.org/10.3354/dao02326
+
 Recent Publications (from Dimensions.ai):
 - A scuticociliate causes mass mortality of Diadema antillarum in the Caribbean Sea *Science Advances* (2023) - 51 citations
   DOI: https://doi.org/10.1126/sciadv.adg3200

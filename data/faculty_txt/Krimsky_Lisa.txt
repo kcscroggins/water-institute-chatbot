@@ -33,6 +33,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.45 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Sources and concentrations of nutrients in surface runoff from waterfront homes with different landscape practices *The Science of The Total Environment* (2020) - 39 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2020.142320
+- Using a diffusion of innovation lens to understand homeowner support for septic system to sewer system conversions *Journal of Environmental Management* (2022) - 10 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2022.115651
+- A Response to Frequently Asked Questions about the 2018 Lake Okeechobee, Caloosahatchee and St. Lucie Rivers and Estuaries Algal Blooms: ED-2/SG159, 8/2018 *EDIS* (2018) - 8 citations
+  DOI: https://doi.org/10.32473/edis-sg159-2018
+- How COVID-19 Exposed Water Supply Fragility in Florida, USA *Urban Science* (2021) - 7 citations
+  DOI: https://doi.org/10.3390/urbansci5040090
+- Ocean Acidification: Calcifying Marine Organisms: FA220, 3/2020 *EDIS* (2020) - 3 citations
+  DOI: https://doi.org/10.32473/edis-fa220-2020
+
 Recent Publications (from Dimensions.ai):
 - Using a diffusion of innovation lens to understand homeowner support for septic system to sewer system conversions *Journal of Environmental Management* (2022) - 10 citations
   DOI: https://doi.org/10.1016/j.jenvman.2022.115651

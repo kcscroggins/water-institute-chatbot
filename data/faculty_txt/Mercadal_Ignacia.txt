@@ -37,6 +37,16 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 8.45 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Do Markets Reduce Prices? Evidence from the U.S. Electricity Sector *SSRN Electronic Journal* (2021) - 31 citations
+  DOI: https://doi.org/10.2139/ssrn.3793305
+- Dynamic Competition and Arbitrage in Electricity Markets: The Role of Financial Players *American Economic Journal Microeconomics* (2022) - 22 citations
+  DOI: https://doi.org/10.1257/mic.20190276
+- Estimating electricity distribution costs using historical data *Utilities Policy* (2021) - 7 citations
+  DOI: https://doi.org/10.1016/j.jup.2021.101309
+- The role of vertical market structure on subsidy incidence: The case of agricultural markets *Economics Letters* (2025) - 0 citations
+  DOI: https://doi.org/10.1016/j.econlet.2025.112410
+
 Recent Publications (from Dimensions.ai):
 - Do Markets Reduce Prices? Evidence from the U.S. Electricity Sector *SSRN Electronic Journal* (2021) - 31 citations
   DOI: https://doi.org/10.2139/ssrn.3793305

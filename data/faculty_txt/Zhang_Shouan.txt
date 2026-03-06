@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.94 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Characterization of phosphate-solubilizing bacteria isolated from calcareous soils *Applied Soil Ecology* (2015) - 142 citations
+  DOI: https://doi.org/10.1016/j.apsoil.2015.08.003
+- Evaluation of plant growth-promoting rhizobacteria for control of Phytophthora blight on squash under greenhouse conditions *Biological Control* (2010) - 91 citations
+  DOI: https://doi.org/10.1016/j.biocontrol.2009.10.015
+- Oxidative stress, intestinal damage, and cell apoptosis: Toxicity induced by fluopyram in Caenorhabditis elegans *Chemosphere* (2021) - 76 citations
+  DOI: https://doi.org/10.1016/j.chemosphere.2021.131830
+- Basil Downy Mildew (Peronospora belbahrii): Discoveries and Challenges Relative to Its Control. *Phytopathology* (2015) - 75 citations
+  DOI: https://doi.org/10.1094/phyto-02-15-0032-fi
+- Effect of Application Frequency and Reduced Rates of Acibenzolar-S-Methyl on the Field Efficacy of Induced Resistance Against Bacterial Spot on Tomato. *Plant Disease* (2012) - 72 citations
+  DOI: https://doi.org/10.1094/pdis-03-11-0183
+
 Recent Publications (from Dimensions.ai):
 - Oxidative stress, intestinal damage, and cell apoptosis: Toxicity induced by fluopyram in Caenorhabditis elegans *Chemosphere* (2021) - 75 citations
   DOI: https://doi.org/10.1016/j.chemosphere.2021.131830

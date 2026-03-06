@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 1.53 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Country food sharing networks, household structure, and implications for understanding food insecurity in Arctic Canada *Ecology of Food and Nutrition* (2015) - 62 citations
+  DOI: https://doi.org/10.1080/03670244.2015.1072812
+- Climate change through a gendered lens: Examining livestock holder food security *Global Food Security* (2015) - 52 citations
+  DOI: https://doi.org/10.1016/j.gfs.2015.05.001
+- Cultural influences behind cholera transmission in the Far North Region, Republic of Cameroon: a field experience and implications for operational level planning of interventions *Pan African Medical Journal* (2017) - 27 citations
+  DOI: https://doi.org/10.11604/pamj.2017.28.311.13860
+- A Biocultural Framework for Examining Maternal Cravings and Aversions among Pastoral Women in East Africa *Ecology of Food and Nutrition* (2012) - 24 citations
+  DOI: https://doi.org/10.1080/03670244.2012.696013
+- Perceptions and Knowledge About the MenB Vaccine Among Parents of High School Students *Journal of Community Health* (2021) - 12 citations
+  DOI: https://doi.org/10.1007/s10900-020-00954-1
+
 Recent Publications (from Dimensions.ai):
 - Perceptions and Knowledge About the MenB Vaccine Among Parents of High School Students *Journal of Community Health* (2021) - 12 citations
   DOI: https://doi.org/10.1007/s10900-020-00954-1

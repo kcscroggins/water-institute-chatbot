@@ -33,6 +33,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.74 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- X-ray irradiation - nonthermal processing and preservation of fresh winter jujube (Zizyphus jujuba mill. cv. Dalidongzao) *Innovative Food Science & Emerging Technologies* (2022) - 29 citations
+  DOI: https://doi.org/10.1016/j.ifset.2022.103151
+- Long-term quality retention and decay inhibition of chestnut using thymol loaded chitosan nanoparticle *Food Chemistry* (2021) - 26 citations
+  DOI: https://doi.org/10.1016/j.foodchem.2021.131781
+- Surveillance of pathogenic bacteria on a food matrix using machine-learning-enabled paper chromogenic arrays *Biosensors and Bioelectronics* (2024) - 25 citations
+  DOI: https://doi.org/10.1016/j.bios.2024.115999
+- Effect of Protein Adsorption on Air Plastron Behavior of a Superhydrophobic Surface *ACS Applied Materials & Interfaces* (2021) - 23 citations
+  DOI: https://doi.org/10.1021/acsami.1c15981
+- Nondestructive and multiplex differentiation of pathogenic microorganisms from spoilage microflora on seafood using paper chromogenic array and neural network *Food Research International* (2022) - 19 citations
+  DOI: https://doi.org/10.1016/j.foodres.2022.112052
+
 Recent Publications (from Dimensions.ai):
 - X-ray irradiation - nonthermal processing and preservation of fresh winter jujube (Zizyphus jujuba mill. cv. Dalidongzao) *Innovative Food Science & Emerging Technologies* (2022) - 28 citations
   DOI: https://doi.org/10.1016/j.ifset.2022.103151

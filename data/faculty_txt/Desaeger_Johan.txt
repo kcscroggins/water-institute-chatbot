@@ -44,6 +44,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.48 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Evaluation of nematicides for southern root-knot nematode management in lima bean *Crop Protection* (2017) - 79 citations
+  DOI: https://doi.org/10.1016/j.cropro.2017.02.015
+- Methyl Bromide Alternatives for Control of Root-knot Nematode (Meloidogyne spp.) in Tomato Production in Florida *Journal of Nematology* (2017) - 63 citations
+  DOI: https://doi.org/10.21307/jofnem-2017-058
+- Evaluation of non-fumigant chemical and biological nematicides for strawberry production in Florida *Crop Protection* (2019) - 61 citations
+  DOI: https://doi.org/10.1016/j.cropro.2018.11.019
+- Evaluation of new chemical and biological nematicides for managing Meloidogyne javanica in tomato production and associated double‐crops in Florida *Pest Management Science* (2019) - 60 citations
+  DOI: https://doi.org/10.1002/ps.5481
+- Integrated management of root-knot nematode (Meloidogyne spp.) in Florida tomatoes combining host resistance and nematicides *Crop Protection* (2020) - 42 citations
+  DOI: https://doi.org/10.1016/j.cropro.2020.105170
+
 Recent Publications (from Dimensions.ai):
 - The taxonomic status of Aphelenchoides besseyi Christie, 1942 (Nematoda: Aphelenchoididae) populations from the southeastern USA, and description of Aphelenchoides pseudobesseyi sp. n. *Nematology* (2021) - 33 citations
   DOI: https://doi.org/10.1163/15685411-bja10048

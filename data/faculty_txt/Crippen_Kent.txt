@@ -33,6 +33,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 6.82 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Virtual Laboratories in Undergraduate Science and Engineering Courses: a Systematic Review, 2009–2019 *Journal of Science Education and Technology* (2020) - 137 citations
+  DOI: https://doi.org/10.1007/s10956-020-09866-0
+- The varied experience of undergraduate students learning chemistry in virtual reality laboratories *Computers & Education* (2021) - 74 citations
+  DOI: https://doi.org/10.1016/j.compedu.2021.104320
+- Scaffolded Inquiry-Based Instruction with Technology: A Signature Pedagogy for STEM Education *Computers in the Schools* (2012) - 73 citations
+  DOI: https://doi.org/10.1080/07380569.2012.658733
+- Variation theory: A theory of learning and a useful theoretical framework for chemical education research *Chemistry Education Research and Practice* (2013) - 69 citations
+  DOI: https://doi.org/10.1039/c2rp20145c
+- Designing for culturally responsive science education through professional development *International Journal of Science Education* (2016) - 65 citations
+  DOI: https://doi.org/10.1080/09500693.2015.1136756
+
 Recent Publications (from Dimensions.ai):
 - The varied experience of undergraduate students learning chemistry in virtual reality laboratories *Computers & Education* (2021) - 73 citations
   DOI: https://doi.org/10.1016/j.compedu.2021.104320

@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 4.35 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- The Use and Impact of Antibiotics in Plant Agriculture: A Review. *Phytopathology* (2024) - 61 citations
+  DOI: https://doi.org/10.1094/phyto-10-23-0357-ia
+- MODELING NO-TILL ADOPTION BY CORN AND SOYBEAN PRODUCERS: INSIGHTS INTO SUSTAINED ADOPTION *Journal of Agricultural and Applied Economics* (2017) - 40 citations
+  DOI: https://doi.org/10.1017/aae.2016.48
+- Welfare impacts of conservation agriculture adoption on smallholder maize farmers in South Africa *Renewable Agriculture and Food Systems* (2022) - 16 citations
+  DOI: https://doi.org/10.1017/s1742170522000308
+- Past, present, and future: Status of women and minority faculty in agricultural and applied economics *Applied Economic Perspectives and Policy* (2021) - 13 citations
+  DOI: https://doi.org/10.1002/aepp.13191
+- Nitrogen Fertilization Guidelines for Potato Production in Florida: HS1429, 12/2021 *EDIS* (2021) - 11 citations
+  DOI: https://doi.org/10.32473/edis-hs1429-2021
+
 Recent Publications (from Dimensions.ai):
 - The Use and Impact of Antibiotics in Plant Agriculture: A Review. *Phytopathology* (2024) - 58 citations
   DOI: https://doi.org/10.1094/phyto-10-23-0357-ia

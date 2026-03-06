@@ -42,6 +42,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 5.58 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Roles of Eicosanoids in Regulating Inflammation and Neutrophil Migration as an Innate Host Response to Bacterial Infections *Infection and Immunity* (2021) - 106 citations
+  DOI: https://doi.org/10.1128/iai.00095-21
+- Hectd3 promotes pathogenic Th17 lineage through Stat3 activation and Malt1 signaling in neuroinflammation *Nature Communications* (2019) - 82 citations
+  DOI: https://doi.org/10.1038/s41467-019-08605-3
+- Salmonella enterica Serovar Typhimurium Alters the Extracellular Proteome of Macrophages and Leads to the Production of Proinflammatory Exosomes *Infection and Immunity* (2018) - 76 citations
+  DOI: https://doi.org/10.1128/iai.00386-17
+- PGE2 Augments Inflammasome Activation and M1 Polarization in Macrophages Infected With Salmonella Typhimurium and Yersinia enterocolitica *Frontiers in Microbiology* (2018) - 71 citations
+  DOI: https://doi.org/10.3389/fmicb.2018.02447
+- CNS-Targeting Therapies for Lysosomal Storage Diseases: Current Advances and Challenges *Frontiers in Molecular Biosciences* (2020) - 58 citations
+  DOI: https://doi.org/10.3389/fmolb.2020.559804
+
 Recent Publications (from Dimensions.ai):
 - Roles of Eicosanoids in Regulating Inflammation and Neutrophil Migration as an Innate Host Response to Bacterial Infections *Infection and Immunity* (2021) - 103 citations
   DOI: https://doi.org/10.1128/iai.00095-21

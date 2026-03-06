@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.89 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Landscape architecture in rural India - lessons for developing countries from Dhamori village *Landscape Research* (2021) - 6 citations
+  DOI: https://doi.org/10.1080/01426397.2021.1946774
+- Between community and culture: The criticality of landscape infrastructure reuse in India *Journal of Landscape Architecture* (2018) - 6 citations
+  DOI: https://doi.org/10.1080/18626033.2018.1589141
+- The Changing Climate of Practice *Journal of Architectural Education* (2020) - 1 citations
+  DOI: https://doi.org/10.1080/10464883.2020.1693848
+- H2O *Journal of Architectural Education* (2020) - 1 citations
+  DOI: https://doi.org/10.1080/10464883.2020.1697139
+- Fluid Thinking for Resilient Livable Cities *Journal of Architectural Education* (2020) - 1 citations
+  DOI: https://doi.org/10.1080/10464883.2020.1693846
+
 Recent Publications (from Dimensions.ai):
 - Landscape architecture in rural India - lessons for developing countries from Dhamori village *Landscape Research* (2021) - 6 citations
   DOI: https://doi.org/10.1080/01426397.2021.1946774

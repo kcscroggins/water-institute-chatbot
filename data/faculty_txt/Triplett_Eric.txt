@@ -39,6 +39,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 7.42 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Pyrosequencing enumerates and contrasts soil microbial diversity *The ISME Journal: Multidisciplinary Journal of Microbial Ecology* (2007) - 1595 citations
+  DOI: https://doi.org/10.1038/ismej.2007.53
+- Toward defining the autoimmune microbiome for type 1 diabetes *The ISME Journal: Multidisciplinary Journal of Microbial Ecology* (2010) - 742 citations
+  DOI: https://doi.org/10.1038/ismej.2010.92
+- Gut Microbiome Metagenomics Analysis Suggests a Functional Model for the Development of Autoimmunity for Type 1 Diabetes *PLOS ONE* (2011) - 736 citations
+  DOI: https://doi.org/10.1371/journal.pone.0025792
+- Meconium Microbiome Analysis Identifies Bacteria Correlated with Premature Birth *PLOS ONE* (2014) - 410 citations
+  DOI: https://doi.org/10.1371/journal.pone.0090784
+- Three crocodilian genomes reveal ancestral patterns of evolution among archosaurs *Science* (2014) - 338 citations
+  DOI: https://doi.org/10.1126/science.1254449
+
 Recent Publications (from Dimensions.ai):
 - Infant microbes and metabolites point to childhood neurodevelopmental disorders *Cell* (2024) - 91 citations
   DOI: https://doi.org/10.1016/j.cell.2024.02.035

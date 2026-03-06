@@ -44,6 +44,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 0.65 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Chloroplast and microsatellite DNA diversities reveal the introduction history of Brazilian peppertree (Schinus terebinthifolius) in Florida *Molecular Ecology* (2005) - 128 citations
+  DOI: https://doi.org/10.1111/j.1365-294x.2005.02666.x
+- Prioritizing areas in the native range of hygrophila for surveys to collect biological control agents *Biological Control* (2011) - 30 citations
+  DOI: https://doi.org/10.1016/j.biocontrol.2010.11.006
+- Suitability of a New Plant Invader as a Target for Biological Control in Florida *Invasive Plant Science and Management* (2011) - 26 citations
+  DOI: https://doi.org/10.1614/ipsm-d-10-00040.1
+- Integrative taxonomy of Acrapex stem borers (Lepidoptera : Noctuidae : Apameini): combining morphology and Poisson Tree Process analyses *Invertebrate Systematics* (2014) - 22 citations
+  DOI: https://doi.org/10.1071/is13062
+- Temperature-Dependent Development and Potential Distribution of Episimus utilis (Lepidoptera: Tortricidae), a Candidate Biological Control Agent of Brazilian Peppertree (Sapindales: Anacardiaceae) in Florida *Environmental Entomology* (2008) - 21 citations
+  DOI: https://doi.org/10.1093/ee/37.4.862
+
 Recent Publications (from Dimensions.ai):
 - Scaling up experimental stress responses of grass invasion to predictions of continental‐level range suitability *Ecology* (2021) - 9 citations
   DOI: https://doi.org/10.1002/ecy.3417

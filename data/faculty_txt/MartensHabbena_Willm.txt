@@ -27,6 +27,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 6.99 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Nitrosopumilus maritimus gen. nov., sp. nov., Nitrosopumilus cobalaminigenes sp. nov., Nitrosopumilus oxyclinae sp. nov., and Nitrosopumilus ureiphilus sp. nov., four marine ammonia-oxidizing archaea of the phylum Thaumarchaeota *International Journal of Systematic and Evolutionary Microbiology* (2017) - 192 citations
+  DOI: https://doi.org/10.1099/ijsem.0.002416
+- Ammonia-oxidizing archaea are integral to nitrogen cycling in a highly fertile agricultural soil *ISME Communications* (2021) - 101 citations
+  DOI: https://doi.org/10.1038/s43705-021-00020-4
+- Ammonia-oxidizing bacteria and archaea exhibit differential nitrogen source preferences *Nature Microbiology* (2024) - 89 citations
+  DOI: https://doi.org/10.1038/s41564-023-01593-7
+- Bacterial functional prediction tools detect but underestimate metabolic diversity compared to shotgun metagenomics in southwest Florida soils *Applied Soil Ecology* (2021) - 88 citations
+  DOI: https://doi.org/10.1016/j.apsoil.2021.104129
+- Expansion of Thaumarchaeota habitat range is correlated with horizontal transfer of ATPase operons *The ISME Journal: Multidisciplinary Journal of Microbial Ecology* (2019) - 88 citations
+  DOI: https://doi.org/10.1038/s41396-019-0493-x
+
 Recent Publications (from Dimensions.ai):
 - Ammonia-oxidizing archaea are integral to nitrogen cycling in a highly fertile agricultural soil *ISME Communications* (2021) - 99 citations
   DOI: https://doi.org/10.1038/s43705-021-00020-4

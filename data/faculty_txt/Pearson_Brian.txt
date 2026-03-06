@@ -37,6 +37,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 3.47 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- RCRA Toxicity Characterization of Discarded Electronic Devices *Environmental Science and Technology* (2006) - 77 citations
+  DOI: https://doi.org/10.1021/es051557n
+- Plant science decadal vision 2020–2030: Reimagining the potential of plants for a healthy and sustainable future *Plant Direct* (2020) - 60 citations
+  DOI: https://doi.org/10.1002/pld3.252
+- The Derivation of Modern Cannabis Varieties *Critical Reviews in Plant Sciences* (2016) - 33 citations
+  DOI: https://doi.org/10.1080/07352689.2016.1273626
+- Effects of Nutrient Fertility on Growth and Alkaloidal Content in Mitragyna speciosa (Kratom) *Frontiers in Plant Science* (2020) - 29 citations
+  DOI: https://doi.org/10.3389/fpls.2020.597696
+- Variations in mitragynine content in the naturally growing Kratom (Mitragyna speciosa) population of Thailand *Frontiers in Plant Science* (2022) - 27 citations
+  DOI: https://doi.org/10.3389/fpls.2022.1028547
+
 Recent Publications (from Dimensions.ai):
 - Plant growth and phytoactive alkaloid synthesis in kratom [Mitragyna speciosa (Korth.)] in response to varying radiance *PLOS ONE* (2022) - 25 citations
   DOI: https://doi.org/10.1371/journal.pone.0259326

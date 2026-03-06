@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 1.1 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Paying for environmental services from agricultural lands: an example from the northern Everglades *Frontiers in Ecology and the Environment* (2009) - 76 citations
+  DOI: https://doi.org/10.1890/080107
+- Bi-decadal groundwater level trends in a semi-arid south indian region: Declines, causes and management *Journal of Hydrology Regional Studies* (2016) - 73 citations
+  DOI: https://doi.org/10.1016/j.ejrh.2016.09.005
+- Rainfall Intensity-Duration-Frequency Relationships for Andhra Pradesh, India: Changing Rainfall Patterns and Implications for Runoff and Groundwater Recharge *Journal of Hydrologic Engineering* (2012) - 51 citations
+  DOI: https://doi.org/10.1061/(asce)he.1943-5584.0000625
+- Current and future groundwater withdrawals: Effects, management and energy policy options for a semi-arid Indian watershed *Advances in Water Resources* (2017) - 41 citations
+  DOI: https://doi.org/10.1016/j.advwatres.2017.05.014
+- Water Use and Rice Productivity for Irrigation Management Alternatives in Tanzania *Water* (2018) - 39 citations
+  DOI: https://doi.org/10.3390/w10081018
+
 Recent Publications (from Dimensions.ai):
 - Artificial Intelligence (AI) for Crop Yield Forecasting: AE571/AE571, 4/2022 *EDIS* (2022) - 6 citations
   DOI: https://doi.org/10.32473/edis-ae571-2022

@@ -38,6 +38,14 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 0.38 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Metagenomics reveal triclosan-induced changes in the antibiotic resistome of anaerobic digesters *Environmental Pollution* (2018) - 35 citations
+  DOI: https://doi.org/10.1016/j.envpol.2018.06.048
+- Syntroph diversity and abundance in anaerobic digestion revealed through a comparative core microbiome approach *Applied Microbiology and Biotechnology* (2019) - 28 citations
+  DOI: https://doi.org/10.1007/s00253-019-09862-4
+- Characterizing the metabolome and microbiome at giant panda scent marking sites during the mating season *iScience* (2024) - 1 citations
+  DOI: https://doi.org/10.1016/j.isci.2024.110051
+
 Recent Publications (from Dimensions.ai):
 - Characterizing the metabolome and microbiome at giant panda scent marking sites during the mating season *iScience* (2024) - 1 citations
   DOI: https://doi.org/10.1016/j.isci.2024.110051

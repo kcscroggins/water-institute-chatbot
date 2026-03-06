@@ -38,6 +38,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 1.75 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Kinetic effects of temperature on rates of genetic divergence and speciation *Proceedings of the National Academy of Sciences of the United States of America* (2006) - 403 citations
+  DOI: https://doi.org/10.1073/pnas.0603587103
+- Towards an integration of ecological stoichiometry and the metabolic theory of ecology to better understand nutrient cycling *Ecology Letters* (2009) - 304 citations
+  DOI: https://doi.org/10.1111/j.1461-0248.2009.01302.x
+- The Cost of Sex: Quantifying Energetic Investment in Gamete Production by Males and Females *PLOS ONE* (2011) - 273 citations
+  DOI: https://doi.org/10.1371/journal.pone.0016557
+- Scaling of number, size, and metabolic rate of cells with body size in mammals *Proceedings of the National Academy of Sciences of the United States of America* (2007) - 267 citations
+  DOI: https://doi.org/10.1073/pnas.0611235104
+- Assessing latitudinal gradients in speciation rates and biodiversity at the global scale *Ecology Letters* (2006) - 197 citations
+  DOI: https://doi.org/10.1111/j.1461-0248.2006.00946.x
+
 Recent Publications (from Dimensions.ai):
 - Evaluating the tradeoff between offspring number and survivorship across fishes, amphibians, reptiles and mammals *Oikos* (2021) - 13 citations
   DOI: https://doi.org/10.1111/oik.07569

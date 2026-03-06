@@ -42,6 +42,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.0 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Degradation and resilience in Louisiana salt marshes after the BP–Deepwater Horizon oil spill *Proceedings of the National Academy of Sciences of the United States of America* (2012) - 281 citations
+  DOI: https://doi.org/10.1073/pnas.1204922109
+- Development of the Coastal Storm Modeling System (CoSMoS) for predicting the impact of storms on high-energy, active-margin coasts *Natural Hazards* (2014) - 153 citations
+  DOI: https://doi.org/10.1007/s11069-014-1236-y
+- Unraveling the dynamics that scale cross‐shore headland relief on rocky coastlines: 1. Model development *Journal of Geophysical Research Earth Surface* (2014) - 65 citations
+  DOI: https://doi.org/10.1002/2013jf002950
+- Southern California Deep-Water Wave Climate: Characterization and Application to Coastal Processes *Journal of Coastal Research* (2008) - 63 citations
+  DOI: https://doi.org/10.2112/07-0831.1
+- Recent shifts in coastline change and shoreline stabilization linked to storm climate change *Earth Surface Processes and Landforms* (2014) - 62 citations
+  DOI: https://doi.org/10.1002/esp.3650
+
 Recent Publications (from Dimensions.ai):
 - Total water level controls on the trajectory of dune toe retreat *Geomorphology* (2023) - 9 citations
   DOI: https://doi.org/10.1016/j.geomorph.2023.108826

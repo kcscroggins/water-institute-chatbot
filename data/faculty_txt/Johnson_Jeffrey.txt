@@ -40,6 +40,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 2.76 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Open-ended interview questions and saturation *PLOS ONE* (2018) - 466 citations
+  DOI: https://doi.org/10.1371/journal.pone.0198606
+- A Social Wellbeing in Fisheries Tool (SWIFT) to Help Improve Fisheries Performance *Sustainability* (2016) - 28 citations
+  DOI: https://doi.org/10.3390/su8080667
+- Interpreting environmental change in coastal Alaska using traditional and scientific ecological knowledge *Frontiers in Marine Science* (2014) - 23 citations
+  DOI: https://doi.org/10.3389/fmars.2014.00040
+- How inter-state amity and animosity complement migration networks to drive refugee flows: A multi-layer network analysis, 1991–2016 *PLOS ONE* (2021) - 10 citations
+  DOI: https://doi.org/10.1371/journal.pone.0245712
+- The consequences of landscape change on fishing strategies *The Science of The Total Environment* (2016) - 10 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2016.10.052
+
 Recent Publications (from Dimensions.ai):
 - How inter-state amity and animosity complement migration networks to drive refugee flows: A multi-layer network analysis, 1991–2016 *PLOS ONE* (2021) - 10 citations
   DOI: https://doi.org/10.1371/journal.pone.0245712

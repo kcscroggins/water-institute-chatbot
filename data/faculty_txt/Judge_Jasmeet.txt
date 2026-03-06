@@ -41,6 +41,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 5.18 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- Sensitivity of GNSS-R Spaceborne Observations to Soil Moisture and Vegetation *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (2016) - 280 citations
+  DOI: https://doi.org/10.1109/jstars.2016.2588467
+- Assimilation of SMOS Soil Moisture for Quantifying Drought Impacts on Crop Yield in Agricultural Regions *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (2014) - 114 citations
+  DOI: https://doi.org/10.1109/jstars.2014.2315999
+- Yield Forecasting of Spring Maize Using Remote Sensing and Crop Modeling in Faisalabad-Punjab Pakistan *Journal of the Indian Society of Remote Sensing* (2018) - 82 citations
+  DOI: https://doi.org/10.1007/s12524-018-0825-8
+- Assessing the impact of climate variability on maize using simulation modeling under semi-arid environment of Punjab, Pakistan *Environmental Science and Pollution Research* (2018) - 68 citations
+  DOI: https://doi.org/10.1007/s11356-018-2884-3
+- Impact of Diurnal Variation in Vegetation Water Content on Radar Backscatter From Maize During Water Stress *IEEE Transactions on Geoscience and Remote Sensing* (2015) - 68 citations
+  DOI: https://doi.org/10.1109/tgrs.2014.2386142
+
 Recent Publications (from Dimensions.ai):
 - Extending Height Above Nearest Drainage to Model Multiple Fluvial Sources in Flood Inundation Mapping Applications for the U.S. National Water Model *Water Resources Research* (2023) - 39 citations
   DOI: https://doi.org/10.1029/2022wr032039

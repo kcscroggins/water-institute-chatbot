@@ -27,6 +27,18 @@ Dimensions Research Metrics (via Dimensions.ai):
 - Open Access Publications: 100.0%
 - Field Citation Ratio: 1.15 (1.0 = field average)
 
+Top Cited Papers (All Time, from Dimensions.ai):
+- International e-Delphi Consensus Recommendations for the Assessment and Diagnosis of Circadian rest–Activity Rhythm Disorders (CARDs) in Patients with Cancer *Cancers* (2023) - 6 citations
+  DOI: https://doi.org/10.3390/cancers15153784
+- Reference genome of the kidnapper ant, Polyergus mexicanus *Journal of Heredity* (2024) - 1 citations
+  DOI: https://doi.org/10.1093/jhered/esae047
+- Communication, Insects (2026) - 0 citations
+  DOI: https://doi.org/10.1016/b978-0-443-21477-6.00353-9
+- Genome assembly of the winter ant, Prenolepis imparis *Journal of Heredity* (2024) - 0 citations
+  DOI: https://doi.org/10.1093/jhered/esae066
+- Colony discrimination and competition in the eusocial trematode, Himasthla rhigedana *Research Square* (2024) - 0 citations
+  DOI: https://doi.org/10.21203/rs.3.rs-3902857/v1
+
 Recent Publications (from Dimensions.ai):
 - International e-Delphi Consensus Recommendations for the Assessment and Diagnosis of Circadian rest–Activity Rhythm Disorders (CARDs) in Patients with Cancer *Cancers* (2023) - 4 citations
   DOI: https://doi.org/10.3390/cancers15153784
