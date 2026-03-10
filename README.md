@@ -19,6 +19,35 @@ A RAG-powered chatbot that answers questions about the UF Water Institute, inclu
 
 ## Recent Updates
 
+### Google Scholar Profile Verification (March 2026)
+
+Created `backend/verify_scholar.py` to verify Google Scholar profile links in faculty .txt files.
+
+**What It Does:**
+- Fetches each Google Scholar profile page and extracts the profile name
+- Compares against the faculty name using fuzzy matching (difflib)
+- Cross-references publication titles from Scholar against Dimensions publications in the .txt file
+- Outputs a summary report of mismatches, review recommendations, and verified profiles
+
+**Results (272 faculty with Scholar URLs):**
+- 237 verified correct
+- 4 mismatches found (1 real: Zimmerman_Andrew had wrong profile, 3 false positives from name formatting)
+- 18 flagged for review (mostly nickname/abbreviation differences)
+- 4 broken URLs (404 errors)
+
+**Fixes Applied:**
+- `Zimmerman_Andrew.txt` — Corrected Scholar URL from `pRh2pjMAAAAJ` (Jonathan B Martin) to `Dh2TSsQAAAAJ` (Andrew R. Zimmerman)
+
+**Usage:**
+```bash
+cd backend
+python verify_scholar.py                          # Check all faculty (~15-20 min)
+python verify_scholar.py --name "Andrew Zimmerman" # Check single faculty
+python verify_scholar.py --verbose                 # Print each result as checked
+```
+
+---
+
 ### Structured Faculty Data & Performance Caching (March 2026)
 
 Added structured JSON database and startup caching for improved performance and future search enhancements.
