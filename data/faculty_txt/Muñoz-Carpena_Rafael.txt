@@ -1,0 +1,110 @@
+Name: Rafael Muñoz-Carpena
+Role: Affiliate Faculty, UF Water Institute
+Academic Unit: Agricultural and Biological Engineering
+College: IFAS/CALS
+Email: carpena@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=8-GYxFAAAAAJ&hl=en&oi=ao
+Website: http://abe.ufl.edu/carpena
+
+Google Scholar: https://scholar.google.com/citations?user=8-GYxFAAAAAJ&hl=en
+
+Subject Areas:
+Hydrology and water quality modeling, Surface runoff and sediment transport processes, Watershed hydrologic dynamics and nutrient export, Vegetative filter strip design and efficacy modeling, Uncertainty and sensitivity analysis of environmental models, Integration of mechanistic models and AI for hydrology
+
+Education:
+- Ph.D. Agricultural Engineering, University of Florida
+- M.S. Agricultural Engineering, University of Florida
+- B.S. Agricultural Engineering, Polytechnic University of Madrid (Spain)
+
+Research Focus:
+Dr. Munoz-Carpena is a leading hydrologist and water-quality modeler whose research focuses on surface/groundwater hydrology, solute and sediment transport, watershed water quality modeling, and predictive environmental modeling with rigorous uncertainty analysis. He is especially known for developing and advancing hydrologic and water quality models used to quantify pollutant transport and for research on vegetative filter strips and nutrient runoff in agricultural landscapes. His modeling work supports decision support systems and best management practice evaluation for water quality regulators, watershed planners, and agricultural stakeholders. Research systems include agricultural and managed landscapes, Florida watersheds (e.g., C-111 Basin, Everglades), coastal and wetland hydrologic systems, with model applications globally (U.S., Latin America, Europe, Africa). His publication record includes hundreds of peer-reviewed articles.
+
+Notable Publications:
+- Convergence of mechanistic modeling and artificial intelligence in hydrologic science and engineering (PLOS Water, 2023) - integration of AI with hydrologic models
+- Studies quantifying runoff, sediment transport, and watershed resilience to climate extremes using sensor data and nonlinear dynamics
+- Multiyear work on model uncertainty, sensitivity, and parameter estimation in watershed models applicable to water quality policy assessments
+- Research on vegetative filter strip (VFS) effectiveness for sediment control and pesticide exposure reduction in aquatic environments
+- Mechanistic studies of water quantity and quality in watershed-lake systems (e.g., Kissimmee River-Lake Okeechobee)
+- Work on calibrating hydrologic and solute transport models in coastal floodplain forests and wetland zones
+
+Policy Relevance:
+Dr. Munoz-Carpena produces mechanistic and data-driven models that inform nutrient and sediment runoff mitigation strategies, best management practice evaluation, and water quality protection policy for agricultural and watershed systems. His work on solute transport, watershed nutrient modeling, and vegetative filter strip performance directly addresses nutrient export mechanisms from soils to water bodies and informs nutrient loss mitigation strategies. His models quantify hydrologic drivers of runoff, nutrient and sediment transport, and incorporate uncertainty and sensitivity analyses that provide mechanistic understanding of how soil and landscape properties influence nutrient loss processes. Models such as VFSMOD and other hydrologic decision support tools are used in evaluating BMPs and informing nutrient runoff regulation.
+
+Keywords:
+hydrology; water quality modeling; solute transport; sediment transport; watershed modeling; nutrient export; runoff; vegetative filter strips; VFSMOD; uncertainty analysis; sensitivity analysis; BMPs; best management practices; Everglades; Lake Okeechobee; agricultural hydrology; decision support systems
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 128
+- Total Citations: 4500
+- H-Index: 30
+- Average Citations per Paper: 35.2
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 3.75 (1.0 = field average)
+
+Top Cited Papers (All Time, from Dimensions.ai):
+- Performance evaluation of hydrological models: Statistical significance for reducing subjectivity in goodness-of-fit assessments *Journal of Hydrology* (2013) - 859 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2012.12.004
+- Brief history of agricultural systems modeling *Agricultural Systems* (2017) - 570 citations
+  DOI: https://doi.org/10.1016/j.agsy.2016.05.014
+- Toward a new generation of agricultural system data, models, and knowledge products: State of agricultural systems science *Agricultural Systems* (2017) - 380 citations
+  DOI: https://doi.org/10.1016/j.agsy.2016.09.021
+- Tomato yield, biomass accumulation, root distribution and irrigation water use efficiency on a sandy soil, as affected by nitrogen rate and irrigation scheduling *Agricultural Water Management* (2009) - 278 citations
+  DOI: https://doi.org/10.1016/j.agwat.2008.06.007
+- High efficiency and selectivity of MgFe-LDH modified wheat-straw biochar in the removal of nitrate from aqueous solutions *Journal of the Taiwan Institute of Chemical Engineers* (2016) - 181 citations
+  DOI: https://doi.org/10.1016/j.jtice.2016.03.021
+
+Recent Publications (from Dimensions.ai):
+- Quantifying the contribution of external loadings and internal hydrodynamic processes to the water quality of Lake Okeechobee *The Science of The Total Environment* (2023) - 30 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2023.163713
+- Hyperspectral reflectance measurements from UAS under intermittent clouds: Correcting irradiance measurements for sensor tilt *Remote Sensing of Environment* (2021) - 25 citations
+  DOI: https://doi.org/10.1016/j.rse.2021.112719
+- Multi-parameter approaches for improved ensemble prediction accuracy in hydrology and water quality modeling *Journal of Hydrology* (2023) - 22 citations
+  DOI: https://doi.org/10.1016/j.jhydrol.2023.129458
+- Climate change impacts on water quantity and quality of a watershed-lake system using a spatially integrated modeling framework in the Kissimmee River – Lake Okeechobee system *Journal of Hydrology Regional Studies* (2023) - 20 citations
+  DOI: https://doi.org/10.1016/j.ejrh.2023.101408
+- Dynamic prediction of effective runoff sediment particle size for improved assessment of erosion mitigation efficiency with vegetative filter strips *The Science of The Total Environment* (2022) - 18 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2022.159572
+- Effectiveness of vegetative filter strips for sediment control from steep construction landscapes *Catena* (2023) - 13 citations
+  DOI: https://doi.org/10.1016/j.catena.2023.107057
+- Advancing Surface Water Pesticide Exposure Assessments for Ecosystem Protection *Journal of the ASABE* (2021) - 12 citations
+  DOI: https://doi.org/10.13031/trans.14225
+- Model prediction capacity of ephemeral gully evolution in conservation tillage systems *Earth Surface Processes and Landforms* (2021) - 9 citations
+  DOI: https://doi.org/10.1002/esp.5134
+- Quantifying the Importance of Preferential Flow in a Riparian Buffer *Journal of the ASABE* (2021) - 7 citations
+  DOI: https://doi.org/10.13031/trans.14286
+- Hydrological records can be used to reconstruct the resilience of watersheds to climatic extremes *Communications Earth & Environment* (2024) - 6 citations
+  DOI: https://doi.org/10.1038/s43247-023-01181-x
+
+Research Grants (from Dimensions.ai):
+- Collaborative Research Network for Enhancing Airport Resilience Science and Operation (2025-2027) - $357,481
+  Funder: Directorate for Engineering
+- EAGER: IMPRESS-U Adaptive Infrastructure Recovery from Repeated Shocks through Resilience Stress Testing in Ukraine (2024-2026) - $298,348
+  Funder: Office of the Director
+- Modelling the Response of Coastal Ecosystems to Sea Level Rise and Its Impact on Long Term Flood Risks in the Spanish Coast (2021-2021)
+  Funder: Council for International Exchange of Scholars
+- CNH: Global Sensitivity and Uncertainty Analysis in the Evaluation of Social-Ecological Resilience: Theoretical Debates Over Infrastructure Impacts on Livelihoods and Forest Change (2011-2016) - $1,435,000
+  Funder: Directorate for Biological Sciences
+- U.S.-Costa Rican Workshop: Interdisciplinary workgroup on water sustainability in the Tempisque Basin; Palo Verde NP, Costa Rica, April 2012 (2011-2013) - $30,246
+  Funder: Office of the Director
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3707 Hydrology; 41 Environmental Sciences; 30 Agricultural, Veterinary and Food Sciences; 40 Engineering
+
+Key Research Concepts (from Dimensions.ai):
+vegetative filter strips; water quality; filter strips; Vegetative Filter Strip Modeling System; Environmental Fluid Dynamics Code; hydrodynamic processes; Lake Okeechobee; water quality improvement; unmanned aerial systems; hyperspectral images
+
+Top Collaborating Institutions (from Dimensions.ai):
+- Universidad Publica de Navarra
+- Technical University of Denmark
+- North Carolina State University
+- Environmental Protection Agency
+- University of Michigan-Ann Arbor
+
+--- Research Impact Rankings (Updated: 2026-02-18) ---
+Research Impact Score: 2.5/10
+Percentile: Top 10% of Water Institute faculty
+Rankings by Research Category:
+- Hydrology: #3 of 18
+- Engineering: #7 of 53
+- Agricultural, Veterinary and Food Sciences: #10 of 99

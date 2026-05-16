@@ -1,0 +1,108 @@
+Name: Arnoldo Valle-Levinson
+Role: Affiliate Faculty, UF Water Institute
+Academic Unit: Civil and Coastal Engineering
+College: HWCOE
+Email: arnoldo@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=2lZZB4oAAAAJ&hl=en
+Website: https://www.essie.ufl.edu/people/name/arnoldo-valle-levinson/
+Title: Professor
+
+
+Subject Areas:
+Coastal hydrodynamics and physical oceanography, Estuarine exchange and circulation mechanisms, Sea-level variability tides and subtidal flows, Numerical and analytical modeling of coastal flow, Interaction of wind density gradients and tides on transport processes, Impacts of coastal dynamics on nutrient sediment and organism transport
+
+Education:
+- Ph.D. in Physical Oceanography/Coastal Engineering
+- Research focus on coastal hydrodynamics and estuarine circulation
+
+Research Focus:
+Dr. Valle-Levinson is a leading coastal physical oceanographer and hydrodynamic engineer whose research focuses on estuarine and coastal circulation, water exchange processes, tidal and subtidal flows, and coastal ocean dynamics. He integrates field observations, analytical theory, and numerical modeling to understand how waters move within and between estuaries, bays, fjords, lagoons, and the adjacent coastal ocean, including effects of wind, tides, density gradients, bathymetry, and climate variability. He employs field measurements with acoustic Doppler current profilers (ADCPs) and hydrographic instruments, analytical and numerical modeling of fluid mechanics in estuaries and coastal basins, long-term observational analyses of water level and flow variability, and synthesis of dynamics across climatic geographic and hydrologic gradients. Research systems include estuaries semi-enclosed coastal basins and shelves in temperate subtropical and tropical regions, Gulf of Mexico and Atlantic coastal waters in context of sea-level variability and estuarine exchange, and comparative studies spanning fjords lagoons and straits across global settings.
+
+Notable Publications:
+- Studies on tidal and subtidal exchange flows elucidating mechanisms of water and tracer transport in estuaries
+- Research on how atmospheric forcing and remote processes drive sea-level variability along the U.S. Atlantic and Gulf coasts
+- Analyses of bathymetric effects on circulation including impacts of human structures such as bridge piles and complex shoreline geometry
+- Foundational work on numerical and analytical frameworks for coastal flow including textbook and review materials on estuarine hydrodynamics
+- Highly cited internationally in physical oceanography and coastal engineering with hundreds of peer-reviewed papers
+
+Policy Relevance:
+Dr. Valle-Levinson's work provides essential physical insights into how coastal water movement affects estuarine health, nutrient and sediment transport, and sea-level rise responses, informing coastal management, adaptation planning, and environmental regulation. His research unravels the physical processes that govern water movement in estuaries and coastal seas, which are foundational to ecosystem connectivity, nutrient cycling, and responses to climate change including sea-level rise and storm surge. His research influences hydrodynamic frameworks that determine transport and mixing in coastal systems, mechanistic basis for nutrient sediment and organism distribution in estuaries, and scientific foundation for coastal adaptation and water quality management.
+
+Keywords:
+coastal hydrodynamics; physical oceanography; estuarine circulation; tidal flows; subtidal flows; sea-level variability; numerical modeling; ADCP; water exchange; Gulf of Mexico; Atlantic coast; sediment transport; nutrient transport; bathymetry; climate variability; coastal engineering
+
+--- Enriched Data (Updated: 2026-02-13) ---
+Dimensions Research Metrics (via Dimensions.ai):
+- Total Publications: 158
+- Total Citations: 3102
+- H-Index: 29
+- Average Citations per Paper: 19.6
+- Open Access Publications: 100.0%
+- Field Citation Ratio: 2.75 (1.0 = field average)
+
+Top Cited Papers (All Time, from Dimensions.ai):
+- Density‐driven exchange flow in terms of the Kelvin and Ekman numbers *Journal of Geophysical Research* (2008) - 133 citations
+  DOI: https://doi.org/10.1029/2007jc004144
+- Compound flooding in Houston-Galveston Bay during Hurricane Harvey *The Science of The Total Environment* (2020) - 121 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2020.141272
+- Tidal effects on estuarine circulation and outflow plume in the Chesapeake Bay *Continental Shelf Research* (2007) - 117 citations
+  DOI: https://doi.org/10.1016/j.csr.2006.08.009
+- Spatial and temporal variability of sea level rise hot spots over the eastern United States *Geophysical Research Letters* (2017) - 101 citations
+  DOI: https://doi.org/10.1002/2017gl073926
+- Spatial structure of hydrography and flow in a Chilean fjord, Estuario Reloncaví *Estuaries and Coasts* (2007) - 93 citations
+  DOI: https://doi.org/10.1007/bf02782972
+
+Recent Publications (from Dimensions.ai):
+- Natural and anthropogenic effects on microplastic distribution in a hypersaline lagoon *The Science of The Total Environment* (2021) - 49 citations
+  DOI: https://doi.org/10.1016/j.scitotenv.2021.145803
+- Transport Processes in the Gulf of Mexico Along the River-Estuary-Shelf-Ocean Continuum: a Review of Research from the Gulf of Mexico Research Initiative *Estuaries and Coasts* (2021) - 30 citations
+  DOI: https://doi.org/10.1007/s12237-021-01005-1
+- Intraseasonal variation in southeast Pacific blue whale acoustic presence, zooplankton backscatter, and oceanographic variables on a feeding ground in Northern Chilean Patagonia *Progress In Oceanography* (2021) - 19 citations
+  DOI: https://doi.org/10.1016/j.pocean.2021.102709
+- Saltwater intrusion in estuaries with different dynamic depths *Regional Studies in Marine Science* (2022) - 17 citations
+  DOI: https://doi.org/10.1016/j.rsma.2022.102186
+- Dynamics-based classification of semienclosed basins *Regional Studies in Marine Science* (2021) - 17 citations
+  DOI: https://doi.org/10.1016/j.rsma.2021.101866
+- Astronomic link to anomalously high mean sea level in the northern Adriatic Sea *Estuarine Coastal and Shelf Science* (2021) - 17 citations
+  DOI: https://doi.org/10.1016/j.ecss.2021.107418
+- Influence of river discharge on tidal and subtidal flows in a microtidal estuary: Implication on velocity asymmetries *Advances in Water Resources* (2023) - 15 citations
+  DOI: https://doi.org/10.1016/j.advwatres.2023.104446
+- Flows, Transport, and Effective Drag in Intertidal Salt Marsh Creeks *Journal of Geophysical Research - Oceans* (2021) - 14 citations
+  DOI: https://doi.org/10.1029/2021jc017357
+- Compound Flooding in a Subtropical Estuary Caused by Hurricane Irma 2017 *Geophysical Research Letters* (2022) - 13 citations
+  DOI: https://doi.org/10.1029/2022gl099360
+- Longitudinal and lateral circulation and tidal impacts in salt-plug estuaries *Frontiers in Marine Science* (2023) - 10 citations
+  DOI: https://doi.org/10.3389/fmars.2023.1152625
+
+Research Grants (from Dimensions.ai):
+- Fortnightly switching of residual flow drivers in estuaries (2022-2025) - $266,863
+  Funder: Fundação para a Ciência e Tecnologia
+- Turbulent Vertical Mixing and the Formation of Oil Particle Aggregates: LES, Measurements and Modeling (2018-present)
+  Funder: Gulf of Mexico Research Initiative
+- Collaborative Research: Evaluating how abalone populations in the California Current are structured by the interplay of large-scale oceanographic forcing and nearshore variability (2017-2022) - $149,561
+  Funder: Directorate for Geosciences
+- Consortium for Advanced Research on Transport of Hydrocarbon in the Environment II (CARTHE II) (2015-present)
+  Funder: Gulf of Mexico Research Initiative
+- Semidiurnal Perturbations to Storm Surges on the U.S. Eastern Seaboard (2013-2018) - $403,326
+  Funder: Directorate for Geosciences
+
+Research Categories (from Dimensions.ai):
+37 Earth Sciences; 3708 Oceanography; 41 Environmental Sciences; 3707 Hydrology; 3709 Physical Geography and Environmental Geoscience
+
+Key Research Concepts (from Dimensions.ai):
+river discharge; spring tides; coastal lagoons; Gulf of Mexico; wind stress; saltwater intrusion; water level; residual circulation; salt plugs; tidal flow
+
+Top Collaborating Institutions (from Dimensions.ai):
+- University of Concepción
+- Helmholtz-Zentrum Hereon GmbH
+- Louisiana State University
+- Stanford University
+- University of Miami
+
+--- Research Impact Rankings (Updated: 2026-02-18) ---
+Research Impact Score: 2.2/10
+Percentile: Top 15% of Water Institute faculty
+Rankings by Research Category:
+- Oceanography: #1 of 8
+- Physical Geography and Environmental Geoscience: #2 of 11
+- Hydrology: #5 of 18

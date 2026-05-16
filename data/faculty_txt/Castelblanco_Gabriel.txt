@@ -1,0 +1,84 @@
+Name: Gabriel Castelblanco
+Role: Affiliate Faculty, UF Water Institute
+Academic Unit: M.E. Rinker, Sr. School of Construction Management
+College: College of Design, Construction and Planning
+Email: gabriel.castelbl@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=d5ABT1kAAAAJ&hl=en&oi=ao
+Website: https://dcp.ufl.edu/faculties/gabriel-castelblanco/
+
+Subject Areas:
+Sustainable construction, Construction management, Infrastructure resilience, Water-sensitive infrastructure, Environmental performance, Built environment sustainability, Circular economy in construction, Lifecycle assessment, Resilient infrastructure systems, Sustainable urban systems
+
+Education:
+
+Research Focus:
+Gabriel Castelblanco's work sits at the intersection of construction management, sustainability, water systems, infrastructure resilience, and environmental performance in the built environment. His research is highly interdisciplinary and bridges engineering, sustainability science, construction operations, infrastructure systems, and environmental analytics.
+
+His major focus areas include:
+
+1. Sustainability in the Built Environment: understanding how construction systems, infrastructure processes, and urban development can be redesigned for environmental sustainability, resilience, and long-term resource efficiency. This includes reducing environmental impacts, improving resource management, and integrating sustainability metrics into infrastructure planning.
+
+2. Water & Infrastructure Systems: water-sensitive infrastructure, resilient urban systems, stormwater management integration, and sustainable construction practices affecting water systems. This area increasingly overlaps with climate adaptation, resilient cities, and sustainable urban development.
+
+3. Construction Analytics & Systems Thinking: infrastructure performance optimization, lifecycle modeling, sustainability metrics, and decision-support systems for construction and urban infrastructure. This positions him within a growing movement toward data-informed infrastructure management, smart cities, and sustainable systems engineering.
+
+His methodological areas include lifecycle assessment (LCA), sustainability assessment frameworks, infrastructure analytics, simulation/modeling, environmental impact analysis, systems optimization, resilience evaluation, decision-support systems, multi-criteria evaluation, and infrastructure performance analysis.
+
+His Water Institute affiliation connects through modern water challenges that intersect with urban infrastructure, stormwater systems, sustainable development, and resilience planning. Construction and infrastructure decisions directly impact water quality, runoff, flooding, and watershed health.
+
+Notable Publications:
+- Combining Stakeholder and Risk Management: Multilayer Network Analysis for Complex Megaprojects, Journal of Construction Engineering and Management (2023)
+- Stakeholder Dynamics: Rethinking Roles and Responsibilities in User-Pay Transport PPP Projects, Journal of Construction Engineering and Management (2024)
+- Critical review of the drivers and barriers for adopting net zero carbon procurement for construction projects, Sustainable Futures (2024)
+- Network Structures and Project Complexity in Environmental Impact Assessment Outcomes (2024)
+- Harnessing Machine Learning for Improved Water Management: Towards Climate Change Adaptation (2026)
+- Disruptions and resilience in construction supply chains, Automation in Construction (2026)
+
+Keywords:
+sustainable construction; construction management; infrastructure resilience; built environment; lifecycle assessment; sustainable infrastructure; circular economy; urban systems; water-sensitive design; sustainability analytics; environmental performance; smart infrastructure; resilient cities; systems optimization; public-private partnerships
+
+--- Enriched Data (Updated: 2026-05-16) ---
+
+Top Cited Publications (all time, via Dimensions.ai):
+- Combining Stakeholder and Risk Management: Multilayer Network Analysis for Complex Megaprojects *Journal of Construction Engineering and Management* (2023) - 23 citations
+  DOI: https://doi.org/10.1061/jcemd4.coeng-13807
+- Stakeholder Dynamics: Rethinking Roles and Responsibilities in User-Pay Transport PPP Projects *Journal of Construction Engineering and Management* (2024) - 18 citations
+  DOI: https://doi.org/10.1061/jcemd4.coeng-14477
+- Critical review of the drivers and barriers for adopting net zero carbon procurement for construction projects *Sustainable Futures* (2024) - 16 citations
+  DOI: https://doi.org/10.1016/j.sftr.2024.100284
+- Network Structures and Project Complexity in Environmental Impact Assessment Outcomes (2024) - 14 citations
+  DOI: https://doi.org/10.1061/9780784485279.014
+- Navigating PPP Renegotiations in the Wake of COVID-19: Insights from a Toll Road Program *Journal of Legal Affairs and Dispute Resolution in Engineering and Construction* (2023) - 14 citations
+  DOI: https://doi.org/10.1061/jladah.ladr-1082
+- Financial system dynamics model for multidimensional flexibility in toll road PPPs: a life-cycle analysis *Construction Management and Economics* (2024) - 12 citations
+  DOI: https://doi.org/10.1080/01446193.2024.2335566
+- Risk Perception-Based Project Contingency Management Framework *Systems* (2024) - 12 citations
+  DOI: https://doi.org/10.3390/systems12030093
+- Driving Factors of Concession Period in Healthcare Public Private Partnerships *Buildings* (2023) - 12 citations
+  DOI: https://doi.org/10.3390/buildings13102452
+- A System Dynamics Model for a National PPP Program: The Egyptian Project Portfolio (2024) - 10 citations
+  DOI: https://doi.org/10.1061/9780784485286.051
+- Performance of a Large‐Language Model in scoring construction management capstone design projects *Computer Applications in Engineering Education* (2024) - 9 citations
+  DOI: https://doi.org/10.1002/cae.22796
+
+Recent Publications (last 5 years, via Dimensions.ai):
+- A mixed-methods study of multi-stakeholder perspectives in high-rise residential building evacuations in the UK *Safety Science* (2026) - 0 citations
+  DOI: https://doi.org/10.1016/j.ssci.2026.107224
+- The Paradox of Project Performance: The Role of Procurement, Contextual, and Contractor-Related Factors *Journal of Construction Engineering and Management* (2026) - 0 citations
+  DOI: https://doi.org/10.1061/jcemd4.coeng-17366
+- Critical Success Factors in Public-Private Partnership Projects in an Emerging Economy: A Survey in Kazakhstan *Procedia Computer Science* (2026) - 0 citations
+  DOI: https://doi.org/10.1016/j.procs.2026.03.130
+- Filling the Gap in EBD Approaches by Integration of Empirical Data: A Data-Driven EBD Framework and Implementation *Journal of Management in Engineering* (2026) - 1 citations
+  DOI: https://doi.org/10.1061/jmenea.meeng-7155
+- Harnessing Machine Learning for Improved Water Management: Towards Climate Change Adaptation (2026) - 0 citations
+  DOI: https://doi.org/10.1061/9780784486443.019
+- Empowering Senior AEC Students: A Real-Time, LLM-Driven Tool for Technical Writing Feedback (2026) - 0 citations
+  DOI: https://doi.org/10.1061/9780784486443.113
+- Usability Study of VirtuAI: Personalized Situated Learning through Integrating VR and LLMs (2026) - 0 citations
+  DOI: https://doi.org/10.1061/9780784486443.114
+- Disruptions and resilience in construction supply chains *Automation in Construction* (2026) - 3 citations
+  DOI: https://doi.org/10.1016/j.autcon.2025.106577
+- A Systematic Literature Review on Disruptions in Construction Supply Chain: Some Stylized Trends *IFIP Advances in Information and Communication Technology* (2025) - 3 citations
+  DOI: https://doi.org/10.1007/978-3-032-03542-4_8
+- Development of FeedCap: A Tool for Real-Time Writing Feedback in Capstone Design Projects (2025) - 0 citations
+  DOI: https://doi.org/10.18260/1-2--56288

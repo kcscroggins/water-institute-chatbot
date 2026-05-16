@@ -33,48 +33,15 @@ Representative Themes & Expertise:
 Keywords:  
 Watershed hydrology; ecohydrology; wetland restoration; nutrient cycling; hydrologic modelling; ecosystem services; surface‐groundwater linkages; water resource sustainability; restoration ecology; coastal wetland management.
 
---- Enriched Data (Updated: 2026-02-13) ---
-Dimensions Research Metrics (via Dimensions.ai):
-- Total Publications: 110
-- Total Citations: 6902
-- H-Index: 38
-- Average Citations per Paper: 62.7
-- Open Access Publications: 100.0%
-- Field Citation Ratio: 79.13 (1.0 = field average)
+--- Enriched Data (Updated: 2026-05-16) ---
+NOTE: Previous Dimensions data was contaminated with a different David Kaplan (astrophysicist).
+Correct publications for David Kaplan (Watershed Ecology, UF) are listed above in Notable Publications.
 
-Top Cited Papers (All Time, from Dimensions.ai):
-- The NANOGrav 15 yr Data Set: Evidence for a Gravitational-wave Background *The Astrophysical Journal Letters* (2023) - 1427 citations
-  DOI: https://doi.org/10.3847/2041-8213/acdac6
-- Black holes, gravitational waves and fundamental physics: a roadmap *Classical and Quantum Gravity* (2019) - 713 citations
-  DOI: https://doi.org/10.1088/1361-6382/ab0587
-- The NANOGrav 15 yr Data Set: Search for Signals from New Physics *The Astrophysical Journal Letters* (2023) - 694 citations
-  DOI: https://doi.org/10.3847/2041-8213/acdc91
-- The NANOGrav 15 yr Data Set: Constraints on Supermassive Black Hole Binaries from the Gravitational-wave Background *The Astrophysical Journal Letters* (2023) - 355 citations
-  DOI: https://doi.org/10.3847/2041-8213/ace18b
-- The NANOGrav 15 yr Data Set: Observations and Timing of 68 Millisecond Pulsars *The Astrophysical Journal Letters* (2023) - 320 citations
-  DOI: https://doi.org/10.3847/2041-8213/acda9a
-
-Recent Publications (from Dimensions.ai):
-- The NANOGrav 15 yr Data Set: Evidence for a Gravitational-wave Background *The Astrophysical Journal Letters* (2023) - 1363 citations
-  DOI: https://doi.org/10.3847/2041-8213/acdac6
-- The NANOGrav 15 yr Data Set: Search for Signals from New Physics *The Astrophysical Journal Letters* (2023) - 673 citations
-  DOI: https://doi.org/10.3847/2041-8213/acdc91
-- The NANOGrav 15 yr Data Set: Constraints on Supermassive Black Hole Binaries from the Gravitational-wave Background *The Astrophysical Journal Letters* (2023) - 342 citations
-  DOI: https://doi.org/10.3847/2041-8213/ace18b
-- The NANOGrav 15 yr Data Set: Observations and Timing of 68 Millisecond Pulsars *The Astrophysical Journal Letters* (2023) - 306 citations
-  DOI: https://doi.org/10.3847/2041-8213/acda9a
-- The NANOGrav 15 yr Data Set: Detector Characterization and Noise Budget *The Astrophysical Journal Letters* (2023) - 145 citations
-  DOI: https://doi.org/10.3847/2041-8213/acda88
-- The NANOGrav 15 yr Data Set: Bayesian Limits on Gravitational Waves from Individual Supermassive Black Hole Binaries *The Astrophysical Journal Letters* (2023) - 143 citations
-  DOI: https://doi.org/10.3847/2041-8213/ace18a
-- The NANOGrav 15 yr Data Set: Search for Anisotropy in the Gravitational-wave Background *The Astrophysical Journal Letters* (2023) - 81 citations
-  DOI: https://doi.org/10.3847/2041-8213/acf4fd
+Recent Publications (from Dimensions.ai - verified UF Water/Ecology):
 - Nitrogen-enriched discharges from a highly managed watershed intensify red tide (Karenia brevis) blooms in southwest Florida *The Science of The Total Environment* (2022) - 68 citations
   DOI: https://doi.org/10.1016/j.scitotenv.2022.154149
 - Theoretical and empirical evidence against the Budyko catchment trajectory conjecture *Hydrology and Earth System Sciences* (2022) - 50 citations
   DOI: https://doi.org/10.5194/hess-26-1507-2022
-- Erratum: “The NANOGrav 15 yr Data Set: Search for Signals from New Physics” (2023, ApJL 951 L11) *The Astrophysical Journal Letters* (2024) - 45 citations
-  DOI: https://doi.org/10.3847/2041-8213/ad68fc
 
 Research Grants (from Dimensions.ai):
 - A framework for modeling flow over flexible submerged aquatic vegetation (2020-2025) - $498,824

@@ -1,0 +1,66 @@
+Name: Joseph J. Delfino
+Role: Affiliate Faculty, UF Water Institute; Former Interim President, University of Florida
+Academic Unit: Environmental Engineering Sciences
+College: HWCOE
+Email: delfino@ufl.edu
+Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C10&q=Joseph+J+Delfino&btnG=&oq=Joseph+J+Delfino
+Website: https://essie.ufl.edu/people/name/joseph-delfino/
+
+Subject Areas:
+Water quality engineering, Environmental chemistry, Aquatic chemistry, Environmental pollution, Water treatment, Nutrient dynamics, Environmental toxicology, Ecosystem contamination, Environmental systems analysis, Water resource management
+
+Education:
+
+Research Focus:
+Joseph Delfino is a senior environmental engineering and water quality scholar with a long-standing career in environmental chemistry, water quality science, aquatic systems, pollution control, and environmental policy. He is one of the more traditional core water/environmental engineering researchers among the Water Institute affiliates.
+
+His career spans academic research, environmental governance, public policy, engineering education, and scientific advisory leadership. He has also held major university leadership roles at UF, including serving as Interim President of the University of Florida and senior administrative positions in environmental engineering and graduate education.
+
+Major focus areas include:
+
+1. Water Quality & Aquatic Chemistry: chemical processes in aquatic environments, pollutant transport, nutrient cycling, and environmental contamination. Understanding how contaminants move through water systems, how ecosystems respond to pollution, and how engineering interventions improve water quality.
+
+2. Environmental Pollution & Remediation: environmental contaminants, water pollution control, and remediation strategies including nutrient pollution, industrial contaminants, eutrophication, and ecosystem degradation. Especially important in Florida's wetlands, estuaries, groundwater systems, and freshwater ecosystems.
+
+3. Environmental Engineering Systems: integrating chemistry, hydrology, ecology, infrastructure, and policy systems. Systems analysis approaches to environmental management, particularly in complex aquatic environments.
+
+His methodological areas include aquatic chemical analysis, environmental monitoring, systems modeling, water quality assessment, pollutant transport analysis, environmental risk evaluation, ecosystem-scale analysis, regulatory science, and environmental policy.
+
+Notable Publications:
+- Effects of pH and Temperature on the Aqueous Solubility and Dissolution Rate of TNT, RDX, and HMX, Journal of Chemical & Engineering Data (2001)
+- Dissolution rates of three high explosive compounds: TNT, RDX, and HMX, Chemosphere (2002)
+- Hydrologic and biotic influences on nitrate removal in a subtropical spring-fed river, Limnology and Oceanography (2009)
+- Comparison of sediment extract microtox toxicity with semi-volatile organic priority pollutant concentrations, Archives of Environmental Contamination and Toxicology (1993)
+- Determination of aldicarb and its derivatives in groundwater by HPLC with UV detection, Journal of Chromatography (1984)
+- Polychlorinated biphenyls in the fish and sediment of the Lower Fox River, Wisconsin, Bulletin of Environmental Contamination and Toxicology (1983)
+
+Keywords:
+water quality; environmental chemistry; aquatic systems; environmental engineering; pollution control; water treatment; nutrient dynamics; environmental contaminants; ecosystem management; aquatic ecology; environmental monitoring; hydrology; sustainability; water resources; remediation; environmental toxicology
+
+--- Enriched Data (Updated: 2026-05-16) ---
+
+Top Cited Publications (all time, via Dimensions.ai):
+- Effects of pH and Temperature on the Aqueous Solubility and Dissolution Rate of 2,4,6-Trinitrotoluene (TNT), Hexahydro-1,3,5-trinitro-1,3,5-triazine (RDX), and Octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazocine (HMX) *Journal of Chemical & Engineering Data* (2001) - 86 citations
+  DOI: https://doi.org/10.1021/je0101496
+- Dissolution rates of three high explosive compounds: TNT, RDX, and HMX *Chemosphere* (2002) - 85 citations
+  DOI: https://doi.org/10.1016/s0045-6535(02)00035-8
+- Hydrologic and biotic influences on nitrate removal in a subtropical spring‐fed river *Limnology and Oceanography* (2009) - 54 citations
+  DOI: https://doi.org/10.4319/lo.2010.55.1.0249
+- Comparison of sediment extract microtox® toxicity with semi-volatile organic priority pollutant concentrations *Archives of Environmental Contamination and Toxicology* (1993) - 53 citations
+  DOI: https://doi.org/10.1007/bf01146162
+- The toxicity of sulfur to microtox® from acetonitrile extracts of contaminated sediments *Environmental Toxicology and Chemistry* (1992) - 49 citations
+  DOI: https://doi.org/10.1002/etc.5620110810
+- Determination of aldicarb and its derivatives in groundwater by high-performance liquid chromatography with UV detection *Journal of chromatography* (1984) - 39 citations
+  DOI: https://doi.org/10.1016/s0021-9673(01)97841-0
+- Partitioning of organic and inorganic components from motor oil into water *Chemosphere* (1994) - 36 citations
+  DOI: https://doi.org/10.1016/0045-6535(94)90080-9
+- Identification of isopropylbiphenyl, alkyl diphenylmethanes, diisopropylnaphthalene, linear alkyl benzenes and other polychlorinated biphenyl replacement compounds in effluents, sediments and fish in the fox river system, wisconsin *Journal of Mass Spectrometry* (1990) - 35 citations
+  DOI: https://doi.org/10.1002/bms.1200191203
+- Effects of Component Interactions on the Aqueous Solubilities and Dissolution Rates of the Explosive Formulations Octol, Composition B, and LX-14 *Journal of Chemical & Engineering Data* (2002) - 31 citations
+  DOI: https://doi.org/10.1021/je010294j
+- Polychlorinated biphenyls in the fish and sediment of the Lower Fox River, Wisconsin *Bulletin of Environmental Contamination and Toxicology* (1983) - 30 citations
+  DOI: https://doi.org/10.1007/bf01610099
+
+Recent Publications (last 5 years, via Dimensions.ai):
+- Mussels drive polychlorinated biphenyl (PCB) biomagnification in a coastal food web *Scientific Reports* (2021) - 20 citations
+  DOI: https://doi.org/10.1038/s41598-021-88684-9

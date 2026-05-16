@@ -1,0 +1,59 @@
+Name: Mariola Ferraro
+Role: Affiliate Faculty, UF Water Institute
+Academic Unit: Microbiology and Cell Science
+College: IFAS/CALS
+Email: mjferraro@ufl.edu
+Google Scholar: https://scholar.google.com/citations?hl=en&user=9vM5txAAAAAJ&view_op=list_works&sortby=pubdate
+Website: https://microcell.ufl.edu/research/ferraro-lab/
+
+Subject Areas:
+Environmental microbiology, Microbial ecology, Microbiomes, Host-microbe interactions, Aquatic microbial systems, Environmental microbial communities, Ecosystem microbiology, Water-associated microbial systems, Applied microbiology, Molecular microbial ecology
+
+Education:
+
+Research Focus:
+Mariola Ferraro is a microbiologist whose research centers on microbial ecology, environmental microbiology, microbial community interactions, and host-microbe/environment interactions. Her work operates at the interface of microbiology, ecosystems, environmental systems, and applied biological sciences.
+
+Major focus areas include:
+
+1. Microbial Communities as Complex Systems: how microbial communities organize, interact, adapt, and respond to environmental conditions. This includes microbial population dynamics, community structure, environmental perturbations, and ecological interactions. Modern microbiome science treats microbial systems as highly dynamic, networked, multi-agent biological ecosystems.
+
+2. Environmental & Aquatic Microbiology: water-associated microbial systems, aquatic microbiomes, environmental microbial processes, and microbial impacts on ecosystem health. This includes freshwater microbial ecology, nutrient cycling, environmental resilience, contamination response, and ecosystem-associated microbial dynamics. Microbes are foundational to water quality, ecosystem functioning, and biogeochemical cycles.
+
+3. Systems Biology & Ecological Interactions: systems biology, ecological network analysis, and complex adaptive biological systems including emergent behavior, interspecies interactions, ecological stability, and environmental adaptation.
+
+Her Water Institute affiliation reflects the growing importance of microbes in water systems, aquatic ecosystem functioning, and environmental resilience. Microbial processes are essential to water quality, nutrient cycling, pollutant breakdown, and ecosystem recovery.
+
+Her methodological areas include microbiome sequencing, microbial community analysis, metagenomics, molecular ecology, bioinformatics, microbial network analysis, and environmental sampling.
+
+Notable Publications:
+- Evaluating small extracellular vesicle-based vaccination across heterologous Salmonella strains isolated from wastewater, Infection and Immunity (2025)
+- Targeting deubiquitinating enzymes and ubiquitin pathway modulators to enhance host defense against bacterial infections, mBio (2025)
+- Celestial hazards: immunological and pulmonary effects of lunar and Martian regolith simulants, Life Sciences in Space Research (2025)
+- Orally administered extracellular vesicles from Salmonella-infected macrophages confer protective immunity in vivo, Frontiers in Immunology (2025)
+- Extracellular vesicles decoying across host immunity, Journal of Leukocyte Biology (2025)
+
+Keywords:
+microbial ecology; environmental microbiology; microbiomes; aquatic microbiology; metagenomics; microbial communities; ecosystem microbiology; systems biology; environmental systems; host-microbe interactions; molecular ecology; microbial networks; water microbiology; ecological resilience; extracellular vesicles; Salmonella
+
+--- Enriched Data (Updated: 2026-05-16) ---
+
+Top Cited Publications (all time, via Dimensions.ai):
+- Evaluating small extracellular vesicle-based vaccination across heterologous Salmonella strains isolated from wastewater *Infection and Immunity* (2025) - 7 citations
+  DOI: https://doi.org/10.1128/iai.00485-24
+- Targeting deubiquitinating enzymes (DUBs) and ubiquitin pathway modulators to enhance host defense against bacterial infections *bioRxiv* (2025) - 2 citations
+  DOI: https://doi.org/10.1101/2025.01.27.635188
+- Targeting deubiquitinating enzymes and ubiquitin pathway modulators to enhance host defense against bacterial infections *mBio* (2025) - 1 citations
+  DOI: https://doi.org/10.1128/mbio.00312-25
+- Celestial hazards: immunological and pulmonary effects of lunar and Martian regolith simulants *Life Sciences in Space Research* (2025) - 1 citations
+  DOI: https://doi.org/10.1016/j.lssr.2025.07.003
+- 449 A CTS team approach to investigating sEV production in magnetic-responsive scaffolds following Salmonella infection *Journal of Clinical and Translational Science* (2026) - 0 citations
+  DOI: https://doi.org/10.1017/cts.2026.10593
+- Extracellular vesicles decoying across host immunity *Journal of Leukocyte Biology* (2025) - 0 citations
+  DOI: https://doi.org/10.1093/jleuko/qiaf173
+- Oral administration of sEVs from Salmonella-infected macrophages provides antigen-specific adaptive immunity in vivo 4496 *The Journal of Immunology* (2025) - 0 citations
+  DOI: https://doi.org/10.1093/jimmun/vkaf283.2171
+- Salmonella synthesizing 1-monophosphorylated lipopolysaccharide infection challenge induces immunomodulatory innate immune responses in murine antigen presenting cells 4229 *The Journal of Immunology* (2025) - 0 citations
+  DOI: https://doi.org/10.1093/jimmun/vkaf283.1937
+- Orally administered extracellular vesicles from Salmonella-infected macrophages confer protective immunity in vivo *Frontiers in Immunology* (2025) - 0 citations
+  DOI: https://doi.org/10.3389/fimmu.2025.1628756

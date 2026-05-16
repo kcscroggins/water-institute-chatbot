@@ -1,0 +1,67 @@
+Name: Levente Juhász
+Role: Affiliate Faculty, UF Water Institute
+Academic Unit: School of Forest, Fisheries, and Geomatics Sciences
+College: IFAS/CALS
+Email: levente.juhasz@ufl.edu
+Google Scholar: https://scholar.google.com/citations?hl=en&user=NkUrf04AAAAJ
+Website: https://gatorlab.io/
+
+Subject Areas:
+Geospatial analytics, Geographic information science (GIScience), Data visualization, Visual analytics, Human-computer interaction (HCI), Cartography, Spatial computing, Interactive systems, Urban analytics, Environmental informatics, Geovisualization, Computational geography
+
+Education:
+
+Research Focus:
+Levente Juhász is a computationally and technically oriented researcher whose work sits at the intersection of geospatial computing, visualization, spatial analytics, human-computer interaction (HCI), cartography, and data science. His research combines geographic information science (GIScience), visualization systems, interactive analytics, and computational spatial reasoning.
+
+Major focus areas include:
+
+1. Geospatial Visualization & Interactive Analytics: building systems that help humans understand, navigate, and reason about complex spatial data. This includes interactive maps, visual analytics systems, geospatial interfaces, and exploratory spatial analysis tools. His work addresses how humans cognitively interact with large-scale spatial information systems.
+
+2. Human-Centered Spatial Computing: designing interfaces for human reasoning with spatial data, overlapping heavily with HCI, cognitive systems, visualization theory, and decision-support systems. Rather than purely technical GIS pipelines, his work focuses on making complex systems interpretable and usable.
+
+3. Environmental & Urban Spatial Systems: spatial environmental systems, water-related geospatial analysis, urban-environment interactions, and environmental visualization systems. Geospatial analytics is central to watershed analysis, environmental monitoring, disaster resilience, infrastructure planning, and climate adaptation.
+
+His Water Institute affiliation connects through geospatial approaches to water resource management, watershed analysis, environmental monitoring, and spatial decision-support for water systems.
+
+His methodological areas include geospatial data systems, interactive visualization, web-based analytics, spatial machine learning, interface design, user-centered analytics, computational cartography, crowdsourced geographic data, and AI-driven geospatial analysis.
+
+Notable Publications:
+- User Contribution Patterns and Completeness Evaluation of Mapillary, a Crowdsourced Street Level Photo Service, Transactions in GIS (2016)
+- Opportunities and Challenges of Geospatial Analysis for Promoting Urban Livability in the Era of Big Data and Machine Learning, ISPRS International Journal of Geo-Information (2020)
+- Correctness Comparison of ChatGPT-4, Gemini, Claude-3, and Copilot for Spatial Tasks, Transactions in GIS (2024)
+- Advancing AI-Driven Geospatial Analysis and Data Generation: Methods, Applications and Future Directions, ISPRS International Journal of Geo-Information (2025)
+- Cartographic Vandalism in the Era of Location-Based Games—The Case of OpenStreetMap and Pokémon GO, ISPRS International Journal of Geo-Information (2020)
+
+Keywords:
+GIScience; geospatial analytics; visual analytics; human-computer interaction; cartography; spatial computing; interactive visualization; geovisualization; spatial data science; urban informatics; environmental informatics; interactive systems; data-driven decision support; computational geography; crowdsourced data; AI geospatial analysis
+
+--- Enriched Data (Updated: 2026-05-16) ---
+
+Top Cited Publications (all time, via Dimensions.ai):
+- User Contribution Patterns and Completeness Evaluation of Mapillary, a Crowdsourced Street Level Photo Service *Transactions in GIS* (2016) - 66 citations
+  DOI: https://doi.org/10.1111/tgis.12190
+- Opportunities and Challenges of Geospatial Analysis for Promoting Urban Livability in the Era of Big Data and Machine Learning *ISPRS International Journal of Geo-Information* (2020) - 60 citations
+  DOI: https://doi.org/10.3390/ijgi9120752
+- Where to catch 'em all? – a geographic analysis of Pokémon Go locations *Geo-spatial Information Science* (2017) - 42 citations
+  DOI: https://doi.org/10.1080/10095020.2017.1368200
+- Correctness Comparison of ChatGPT‐4, Gemini, Claude‐3, and Copilot for Spatial Tasks *Transactions in GIS* (2024) - 40 citations
+  DOI: https://doi.org/10.1111/tgis.13233
+- Data Quality of Points of Interest in Selected Mapping and Social Media Platforms *Lecture Notes in Geoinformation and Cartography* (2017) - 36 citations
+  DOI: https://doi.org/10.1007/978-3-319-71470-7_15
+- Cartographic Vandalism in the Era of Location-Based Games—The Case of OpenStreetMap and Pokémon GO *ISPRS International Journal of Geo-Information* (2020) - 31 citations
+  DOI: https://doi.org/10.3390/ijgi9040197
+- Advancing AI-Driven Geospatial Analysis and Data Generation: Methods, Applications and Future Directions *ISPRS International Journal of Geo-Information* (2025) - 24 citations
+  DOI: https://doi.org/10.3390/ijgi14020056
+- Mapping Time-Space Brickfield Development Dynamics in Peri-Urban Area of Dhaka, Bangladesh *ISPRS International Journal of Geo-Information* (2019) - 20 citations
+  DOI: https://doi.org/10.3390/ijgi8100447
+- OSM Data Import as an Outreach Tool to Trigger Community Growth? A Case Study in Miami *ISPRS International Journal of Geo-Information* (2018) - 18 citations
+  DOI: https://doi.org/10.3390/ijgi7030113
+- Cross-Linkage Between Mapillary Street Level Photos and OSM Edits *Lecture Notes in Geoinformation and Cartography* (2016) - 17 citations
+  DOI: https://doi.org/10.1007/978-3-319-33783-8_9
+
+Recent Publications (last 5 years, via Dimensions.ai):
+- Change Analysis of Urban Tree Canopy in Miami-Dade County *Forests* (2022) - 6 citations
+  DOI: https://doi.org/10.3390/f13060949
+- Bicycle trips in Endomondo, Google Maps, and MapQuest: A comparison between South Florida and North Holland *Transportation Letters* (2022) - 13 citations
+  DOI: https://doi.org/10.1080/19427867.2022.2050494

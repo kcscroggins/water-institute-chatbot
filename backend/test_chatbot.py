@@ -217,6 +217,103 @@ EDGE_CASE_TESTS = [
     ),
 ]
 
+DEPTH_TESTS = [
+    # Cross-discipline / multi-faculty queries
+    TestCase(
+        category="Depth",
+        query="Which faculty work on both agriculture and water resources?",
+        expected_keywords=["water"],
+    ),
+    TestCase(
+        category="Depth",
+        query="Are there any faculty studying PFAS contamination?",
+        expected_keywords=["PFAS"],
+    ),
+    TestCase(
+        category="Depth",
+        query="Who studies nutrient pollution in Florida?",
+        expected_keywords=["nutrient"],
+    ),
+    TestCase(
+        category="Depth",
+        query="What faculty are in the School of Forest, Fisheries, and Geomatics Sciences?",
+        expected_keywords=["Forest"],
+    ),
+    TestCase(
+        category="Depth",
+        query="Tell me about faculty working on machine learning or AI applications in water research",
+        expected_keywords=["Water Institute"],
+    ),
+    # Specificity - testing that the chatbot gives precise info
+    TestCase(
+        category="Specificity",
+        query="What is Matt Cohen's email address?",
+        expected_keywords=["Cohen", "@ufl.edu"],
+    ),
+    TestCase(
+        category="Specificity",
+        query="What department is David Kaplan in?",
+        expected_keywords=["Kaplan"],
+    ),
+    TestCase(
+        category="Specificity",
+        query="Does Andrew Zimmerman have a Google Scholar profile?",
+        expected_keywords=["Zimmerman", "Scholar"],
+    ),
+    TestCase(
+        category="Specificity",
+        query="What year was the Water Institute established?",
+        expected_keywords=["2006"],
+    ),
+    TestCase(
+        category="Specificity",
+        query="What is the phone number for the Water Institute?",
+        expected_keywords=["352-392-5893"],
+    ),
+    # Conversational / natural phrasing
+    TestCase(
+        category="Conversational",
+        query="I'm interested in groundwater research. Who should I talk to?",
+        expected_keywords=["groundwater"],
+    ),
+    TestCase(
+        category="Conversational",
+        query="I'm a prospective graduate student. What opportunities are available?",
+        expected_keywords=["graduate"],
+    ),
+    TestCase(
+        category="Conversational",
+        query="Can you recommend someone who studies wetlands?",
+        expected_keywords=["wetland"],
+    ),
+    TestCase(
+        category="Conversational",
+        query="How do I get involved with water research at UF?",
+        expected_keywords=["Water Institute"],
+    ),
+    # Robustness - misspellings, abbreviations, vague queries
+    TestCase(
+        category="Robustness",
+        query="Tell me about the HSAC program",
+        expected_keywords=["HSAC"],
+    ),
+    TestCase(
+        category="Robustness",
+        query="Who is the top ranked faculty?",
+        expected_keywords=["Water Institute"],
+    ),
+    TestCase(
+        category="Robustness",
+        query="water institute grants",
+        expected_keywords=["research"],
+    ),
+    TestCase(
+        category="Robustness",
+        query="What does the Water Institute do?",
+        expected_keywords=["Water Institute", "research"],
+    ),
+]
+
 OFF_TOPIC_TESTS = [
     TestCase(
         category="Off-Topic Guard",
@@ -337,6 +434,7 @@ def run_test_suite(api_url: str, verbose: bool = False):
         FACULTY_PROFILE_TESTS +
         GENERAL_INSTITUTE_TESTS +
         EDGE_CASE_TESTS +
+        DEPTH_TESTS +
         OFF_TOPIC_TESTS
     )
 

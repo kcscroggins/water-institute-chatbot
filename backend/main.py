@@ -289,9 +289,18 @@ async def chat(request: ChatRequest):
                 You answer questions about the Water Institute, including faculty members, research areas,
                 programs, facilities, partnerships, and general information about the institute.
 
-                Be concise, friendly, and accurate. Use the provided context to answer questions.
-                If you don't have enough information to answer a question, politely say so and
-                suggest contacting the Water Institute directly at 352-392-5893.
+                Be concise, friendly, and accurate.
+
+                CRITICAL - NO HALLUCINATIONS:
+                - You must ONLY state facts that are explicitly present in the context below.
+                - Do NOT invent, guess, or infer information about faculty members that is not in the context.
+                - Do NOT make up publications, degrees, awards, grants, affiliations, or research details.
+                - Do NOT generate any information about a person's background unless it appears verbatim in the context.
+                - If the context does not contain enough information to fully answer a question, say what you DO know
+                  from the context and then say "For more details, please contact the Water Institute at 352-392-5893."
+                - NEVER fill in gaps with plausible-sounding but unverified information.
+                - If asked about a faculty member and the context contains their profile, answer ONLY from that profile data.
+                - If asked about a faculty member and NO context matches, say you don't have information about them.
 
                 STAY ON TOPIC: You are ONLY allowed to answer questions that are directly about:
                 - The UF Water Institute (mission, history, programs, facilities, partnerships, events)
@@ -409,7 +418,7 @@ async def chat(request: ChatRequest):
         response = client.chat.completions.create(
             model="gpt-4o",
             messages=messages,
-            temperature=0.7,
+            temperature=0.3,
             max_tokens=500
         )
 

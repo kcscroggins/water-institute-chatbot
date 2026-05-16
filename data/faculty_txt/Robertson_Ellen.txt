@@ -1,0 +1,68 @@
+Name: Ellen Robertson
+Role: Affiliate Faculty, UF Water Institute
+Academic Unit: Wildlife Ecology and Conservation
+College: IFAS/CALS
+Email: ellen.robertson@ufl.edu
+Google Scholar: https://scholar.google.com/citations?user=BS8DByoAAAAJ&hl=en
+Website: https://wec.ifas.ufl.edu/people/wec-faculty/
+
+Subject Areas:
+Wildlife ecology, Conservation biology, Ecosystem ecology, Aquatic ecology, Wetland systems, Biodiversity conservation, Habitat dynamics, Ecological resilience, Species interactions, Environmental change, Landscape ecology, Ecosystem management
+
+Education:
+
+Research Focus:
+Ellen Robertson's work sits at the intersection of wildlife ecology, conservation science, ecosystem dynamics, environmental systems, and aquatic/wetland ecology. Her research focuses on how ecological systems function under environmental stress, species-environment interactions, and conservation within changing landscapes.
+
+Major focus areas include:
+
+1. Ecological Systems & Species Interactions: how species interact with ecosystems, how environmental change alters ecological relationships, and how ecosystems maintain resilience. This includes habitat structure, population dynamics, ecosystem responses, and conservation outcomes. Her work treats ecosystems as interconnected adaptive systems rather than isolated species problems.
+
+2. Conservation Under Environmental Stress: ecosystem degradation, habitat fragmentation, climate pressures, hydrologic changes, and biodiversity threats. This places her within resilience science, sustainability, and adaptive ecosystem management.
+
+3. Aquatic & Wetland Ecosystems: freshwater ecosystems, wetland ecology, watershed systems, and hydrologically sensitive habitats. Florida ecosystems involve strong coupling between hydrology, habitat structure, biodiversity, and ecosystem stability, making water systems foundational to wildlife conservation in the region.
+
+Her Water Institute affiliation connects because water systems are deeply connected to habitat quality, biodiversity, species distribution, and ecosystem resilience. She contributes from the perspective of biological systems, ecosystem interactions, and conservation dynamics within water-influenced environments.
+
+Her methodological areas include ecological field studies, spatial ecology, biodiversity monitoring, ecosystem modeling, population analysis, habitat assessment, GIS/spatial analytics, species distribution modeling, connectivity analysis, and conservation data systems.
+
+Notable Publications:
+- A practical guide for combining data to model species distributions, Ecology (2019) - 271 citations
+- Isolating the roles of movement and reproduction on effective connectivity alters conservation priorities for an endangered bird, PNAS (2018)
+- Affinity for natal environments by dispersers impacts reproduction and explains geographical structure of a highly mobile bird, Proceedings of the Royal Society B (2015)
+- The causes of dispersal and the cost of carry-over effects for an endangered bird in a dynamic wetland landscape, Journal of Animal Ecology (2017)
+- Extending isolation by resistance to predict genetic connectivity, Methods in Ecology and Evolution (2022)
+- Conflicting nest survival thresholds across a wetland network alter management benchmarks for an endangered bird, Biological Conservation (2021)
+
+Keywords:
+wildlife ecology; conservation biology; ecosystem ecology; wetlands; biodiversity; habitat conservation; landscape ecology; aquatic ecosystems; ecological resilience; environmental systems; population ecology; watershed ecology; restoration ecology; species interactions; connectivity; species distribution modeling
+
+--- Enriched Data (Updated: 2026-05-16) ---
+
+Top Cited Publications (all time, via Dimensions.ai):
+- A practical guide for combining data to model species distributions *Ecology* (2019) - 271 citations
+  DOI: https://doi.org/10.1002/ecy.2710
+- Affinity for natal environments by dispersers impacts reproduction and explains geographical structure of a highly mobile bird *Proceedings of the Royal Society B* (2015) - 53 citations
+  DOI: https://doi.org/10.1098/rspb.2015.1545
+- Isolating the roles of movement and reproduction on effective connectivity alters conservation priorities for an endangered bird *Proceedings of the National Academy of Sciences of the United States of America* (2018) - 48 citations
+  DOI: https://doi.org/10.1073/pnas.1800183115
+- The matrix alters the role of path redundancy on patch colonization rates *Ecology* (2014) - 33 citations
+  DOI: https://doi.org/10.1890/13-1815.1
+- Individual Movement Strategies Revealed through Novel Clustering of Emergent Movement Patterns *Scientific Reports* (2017) - 24 citations
+  DOI: https://doi.org/10.1038/srep44052
+- The causes of dispersal and the cost of carry‐over effects for an endangered bird in a dynamic wetland landscape *Journal of Animal Ecology* (2017) - 21 citations
+  DOI: https://doi.org/10.1111/1365-2656.12676
+- Behavioral plasticity in nest building increases fecundity in marsh birds *Ornithology* (2014) - 16 citations
+  DOI: https://doi.org/10.1642/auk-14-73.1
+- Extending isolation by resistance to predict genetic connectivity *Methods in Ecology and Evolution* (2022) - 14 citations
+  DOI: https://doi.org/10.1111/2041-210x.13975
+- An invasive prey provides long-lasting silver spoon effects for an endangered predator *Proceedings of the Royal Society B* (2022) - 14 citations
+  DOI: https://doi.org/10.1098/rspb.2022.0820
+- Conflicting nest survival thresholds across a wetland network alter management benchmarks for an endangered bird *Biological Conservation* (2021) - 13 citations
+  DOI: https://doi.org/10.1016/j.biocon.2020.108893
+
+Recent Publications (last 5 years, via Dimensions.ai):
+- An invasive prey and changing climate interact to shape the breeding phenology of an endangered predator *Global Change Biology* (2024) - 6 citations
+  DOI: https://doi.org/10.1111/gcb.17478
+- Rapid prototyping for quantifying belief weights of competing hypotheses about emergent diseases *Journal of Environmental Management* (2023) - 2 citations
+  DOI: https://doi.org/10.1016/j.jenvman.2023.117668

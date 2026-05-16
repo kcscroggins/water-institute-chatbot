@@ -1,0 +1,121 @@
+# Water Institute Chatbot - Q&A Test Suite (100 Questions)
+# Run against production API after deploy to record answers
+# Format: Q/A pairs with sources
+
+## FACULTY PROFILE QUESTIONS (30)
+
+Q1: What is Matt Cohen's research about?
+Q2: What department is Wendy Graham in?
+Q3: What is David Kaplan's email address?
+Q4: Tell me about Andrew Zimmerman's research focus
+Q5: What are Eban Bean's areas of expertise?
+Q6: Who is Gerrit Hoogenboom?
+Q7: What is Young Gu Her's research about?
+Q8: Tell me about Jasmeet Judge's work
+Q9: What publications does Rafael Munoz-Carpena have?
+Q10: What is Arnoldo Valle-Levinson's research focus?
+Q11: Tell me about Ellen Robertson's research
+Q12: What department is Gabriel Castelblanco in?
+Q13: What is Levente Juhasz's expertise?
+Q14: Tell me about Nicholas Aumen's background
+Q15: What does Shannon Carnevale work on?
+Q16: What is Joseph Delfino known for?
+Q17: Tell me about Mariola Ferraro's research
+Q18: What is Natalie Coers' area of expertise?
+Q19: What is Deborah Amberson's research focus?
+Q20: Who is Lisa Krimsky?
+Q21: What does John Bowden research?
+Q22: Tell me about Nancy Denslow
+Q23: What is Kirk Hatfield's expertise?
+Q24: Who is Sabine Grunwald?
+Q25: What is Peter Frederick's research about?
+Q26: Tell me about Christopher McCarty
+Q27: What does Amanda Subalusky study?
+Q28: Who is Mark Clark?
+Q29: What is Sanjay Shukla's research focus?
+Q30: Tell me about Matthew Cohen's education
+
+## RANKING QUESTIONS (20)
+
+Q31: Who are the top researchers at the Water Institute?
+Q32: Who are the top hydrology researchers?
+Q33: Who are the top environmental sciences researchers?
+Q34: Who are the leading PFAS researchers at the Water Institute?
+Q35: Who has the highest h-index at the Water Institute?
+Q36: Who are the top water quality researchers?
+Q37: Who are the top ecology researchers?
+Q38: What is Andrew Zimmerman's research impact score?
+Q39: Tell me about David Kaplan's research ranking
+Q40: How are faculty research scores calculated?
+Q41: Who are the top researchers in agricultural sciences?
+Q42: Who are the leading climate change researchers?
+Q43: Who are the top coastal researchers at the Water Institute?
+Q44: Who are the best wetland researchers?
+Q45: Who are the top geosciences researchers?
+Q46: How is Field Citation Ratio used in rankings?
+Q47: Who are the top researchers in conservation?
+Q48: Who are the top soil science researchers?
+Q49: Who are the leading researchers in watershed management?
+Q50: Who are the top engineering researchers at the Water Institute?
+
+## GENERAL INSTITUTE QUESTIONS (20)
+
+Q51: What is the UF Water Institute?
+Q52: Where is the Water Institute located?
+Q53: Who is the director of the Water Institute?
+Q54: What programs does the Water Institute offer?
+Q55: How much research funding does the Water Institute have?
+Q56: What are the main research areas of the Water Institute?
+Q57: What partnerships does the Water Institute have?
+Q58: How can I contact the Water Institute?
+Q59: What is the Water Institute's phone number?
+Q60: When was the Water Institute established?
+Q61: What is the WIGF program?
+Q62: What is HSAC?
+Q63: Does the Water Institute offer travel awards?
+Q64: What colleges are involved with the Water Institute?
+Q65: How many faculty are affiliated with the Water Institute?
+Q66: What is the Water Institute's mission?
+Q67: Who can apply for the Graduate Fellows Program?
+Q68: What building is the Water Institute in?
+Q69: What field sites does the Water Institute use?
+Q70: Does the Water Institute work with Duke Energy?
+
+## TOPIC/EXPERTISE SEARCH QUESTIONS (15)
+
+Q71: Who studies Everglades restoration?
+Q72: Which faculty work on groundwater?
+Q73: Who researches nutrient pollution in Florida?
+Q74: Are there faculty working on machine learning in water research?
+Q75: Who studies fish ecology at the Water Institute?
+Q76: Which faculty focus on stormwater management?
+Q77: Who works on water conservation education?
+Q78: Which researchers study algal blooms?
+Q79: Who studies sea level rise at UF?
+Q80: Which faculty work on both agriculture and water resources?
+Q81: Who researches environmental contamination?
+Q82: Which faculty study biodiversity?
+Q83: Who works on hydrologic modeling?
+Q84: Are there faculty studying microplastics?
+Q85: Who researches water policy?
+
+## EDGE CASES & CONVERSATIONAL (10)
+
+Q86: I'm a prospective graduate student. What opportunities are available?
+Q87: I'm interested in groundwater research. Who should I talk to?
+Q88: Can you recommend someone who studies wetlands?
+Q89: How do I get involved with water research at UF?
+Q90: Who is John?
+Q91: Tell me about hydrology research at the Water Institute
+Q92: What is the Water Institute doing about climate change?
+Q93: Can you help me find a faculty advisor for my dissertation on water quality?
+Q94: What courses are related to water sciences at UF?
+Q95: Does the Water Institute have any upcoming events?
+
+## OFF-TOPIC & GUARDRAIL TESTS (5)
+
+Q96: What's the weather today?
+Q97: Write me a poem about the ocean
+Q98: What is the meaning of life?
+Q99: Can you help me with my calculus homework?
+Q100: Who won the Super Bowl last year?

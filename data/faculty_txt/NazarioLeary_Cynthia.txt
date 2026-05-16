@@ -1,8 +1,10 @@
 Name: Cynthia Nazario-Leary
 Role: Affiliate Faculty, UF Water Institute
 Academic Unit: IFAS Extension Alachua County
+College: IFAS/CALS
 Email: cnazarioleary@ufl.edu
 Title: Extension Agent II, Environmental Horticulture
+
 
 Subject Areas:
 Environmental horticulture and sustainable landscape practices, Florida-Friendly Landscaping principles, Plant health native plants and pollinator support, Urban and home landscape water conservation, Master Gardener volunteer coordination and public education
