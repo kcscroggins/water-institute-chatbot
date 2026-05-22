@@ -1,0 +1,621 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Events | UF Water Institute</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: #f5f5f5;
+            padding: 20px;
+            color: #333;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .header {
+            background: #0021A5;
+            color: white;
+            padding: 30px;
+            border-radius: 12px 12px 0 0;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            font-size: 16px;
+            opacity: 0.9;
+        }
+
+        .content {
+            background: white;
+            border-radius: 0 0 12px 12px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            padding: 30px;
+        }
+
+        /* View toggle tabs */
+        .view-tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 25px;
+        }
+
+        .view-tab {
+            padding: 10px 20px;
+            background: #f0f0f0;
+            border: none;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.2s;
+        }
+
+        .view-tab:hover {
+            background: #e0e0e0;
+        }
+
+        .view-tab.active {
+            background: #0021A5;
+            color: white;
+        }
+
+        /* List view */
+        .event-card {
+            padding: 20px;
+            margin-bottom: 15px;
+            background: #f9f9f9;
+            border-radius: 8px;
+            border-left: 4px solid #0021A5;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .event-card:hover {
+            transform: translateX(5px);
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        .event-date-badge {
+            display: inline-block;
+            background: #0021A5;
+            color: white;
+            padding: 6px 12px;
+            border-radius: 4px;
+            font-size: 13px;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+
+        .event-title {
+            font-size: 20px;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 8px;
+        }
+
+        .event-title a {
+            color: #333;
+            text-decoration: none;
+        }
+
+        .event-title a:hover {
+            color: #0021A5;
+        }
+
+        .event-meta {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin-bottom: 10px;
+            font-size: 14px;
+            color: #666;
+        }
+
+        .event-meta span::before {
+            margin-right: 5px;
+        }
+
+        .event-description {
+            font-size: 14px;
+            line-height: 1.6;
+            color: #555;
+        }
+
+        .event-categories {
+            margin-top: 10px;
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+
+        .category-tag {
+            display: inline-block;
+            padding: 3px 10px;
+            background: #e8eaf6;
+            color: #0021A5;
+            border-radius: 12px;
+            font-size: 12px;
+            font-weight: 500;
+        }
+
+        /* Calendar view */
+        .calendar-container {
+            display: none;
+        }
+
+        .calendar-container.active {
+            display: block;
+        }
+
+        .list-container.active {
+            display: block;
+        }
+
+        .list-container {
+            display: none;
+        }
+
+        .calendar-nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .calendar-nav h2 {
+            font-size: 22px;
+            color: #0021A5;
+        }
+
+        .calendar-nav button {
+            padding: 8px 16px;
+            background: #f0f0f0;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: background 0.2s;
+        }
+
+        .calendar-nav button:hover {
+            background: #e0e0e0;
+        }
+
+        .calendar-grid {
+            display: grid;
+            grid-template-columns: repeat(7, 1fr);
+            gap: 1px;
+            background: #e0e0e0;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .calendar-header-cell {
+            background: #0021A5;
+            color: white;
+            padding: 10px;
+            text-align: center;
+            font-weight: 600;
+            font-size: 14px;
+        }
+
+        .calendar-cell {
+            background: white;
+            min-height: 80px;
+            padding: 8px;
+            position: relative;
+        }
+
+        .calendar-cell.other-month {
+            background: #fafafa;
+            color: #ccc;
+        }
+
+        .calendar-cell.today {
+            background: #e8eaf6;
+        }
+
+        .day-number {
+            font-size: 14px;
+            font-weight: 500;
+            margin-bottom: 4px;
+        }
+
+        .event-dot {
+            display: block;
+            padding: 2px 5px;
+            margin-top: 2px;
+            background: #0021A5;
+            color: white;
+            border-radius: 3px;
+            font-size: 11px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            cursor: pointer;
+        }
+
+        .event-dot:hover {
+            background: #001580;
+        }
+
+        /* Tooltip for calendar events */
+        .event-tooltip {
+            display: none;
+            position: absolute;
+            z-index: 100;
+            background: white;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 15px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            width: 280px;
+            left: 50%;
+            transform: translateX(-50%);
+            top: 100%;
+        }
+
+        .event-dot:hover + .event-tooltip,
+        .event-tooltip:hover {
+            display: block;
+        }
+
+        .no-events {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+            font-size: 16px;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 50px;
+            color: #666;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-top: 20px;
+            color: #0021A5;
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .back-link:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 600px) {
+            .event-meta {
+                flex-direction: column;
+                gap: 5px;
+            }
+
+            .calendar-cell {
+                min-height: 50px;
+                padding: 4px;
+            }
+
+            .event-dot {
+                font-size: 9px;
+            }
+
+            .day-number {
+                font-size: 12px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Water Institute Events</h1>
+            <p>Upcoming seminars, workshops, and symposia</p>
+        </div>
+
+        <div class="content">
+            <div class="view-tabs">
+                <button class="view-tab active" data-view="list">List View</button>
+                <button class="view-tab" data-view="calendar">Calendar View</button>
+            </div>
+
+            <div class="list-container active" id="listView">
+                <div class="loading">Loading events...</div>
+            </div>
+
+            <div class="calendar-container" id="calendarView">
+                <div class="calendar-nav">
+                    <button id="prevMonth">&larr; Previous</button>
+                    <h2 id="calendarTitle"></h2>
+                    <button id="nextMonth">Next &rarr;</button>
+                </div>
+                <div class="calendar-grid" id="calendarGrid"></div>
+            </div>
+
+            <a href="index.html" class="back-link">&larr; Back to Chatbot</a>
+        </div>
+    </div>
+
+    <script>
+        // Configuration
+        const WP_API_URL = 'https://waterinstitute.ufl.edu/wp-json/tribe/events/v1/events';
+        const FALLBACK_EVENTS_URL = null; // Set to a local JSON file path for testing
+
+        let allEvents = [];
+        let currentMonth = new Date();
+
+        // Sample/fallback events for testing before WordPress is set up
+        const SAMPLE_EVENTS = [
+            {
+                title: "WIGF Seminar Series - Coastal Resilience and Sea Level Rise",
+                start_date: "2026-05-28 15:00:00",
+                end_date: "2026-05-28 16:30:00",
+                venue: { venue: "570 Weil Hall", address: { city: "Gainesville" } },
+                description: "Join us for the latest in the Water Institute Graduate Fellows seminar series. This session focuses on coastal resilience strategies and sea level rise impacts on Florida communities.",
+                url: "https://waterinstitute.ufl.edu/events/wigf-coastal-resilience/",
+                categories: [{ name: "Seminar" }, { name: "WIGF" }]
+            },
+            {
+                title: "Spring Water Symposium 2026",
+                start_date: "2026-06-15 09:00:00",
+                end_date: "2026-06-15 16:00:00",
+                venue: { venue: "Reitz Union", address: { city: "Gainesville" } },
+                description: "The annual Spring Water Symposium brings together researchers, students, and practitioners to share the latest water research at UF. Features poster sessions, oral presentations, and keynote speakers.",
+                url: "https://waterinstitute.ufl.edu/events/spring-symposium-2026/",
+                categories: [{ name: "Symposium" }, { name: "Research" }]
+            },
+            {
+                title: "Water Resources Workshop - PFAS in Florida Waterways",
+                start_date: "2026-06-22 13:00:00",
+                end_date: "2026-06-22 17:00:00",
+                venue: { venue: "Phelps Lab Room 110", address: { city: "Gainesville" } },
+                description: "A hands-on workshop exploring the latest research on PFAS contamination in Florida water systems. Topics include detection methods, remediation strategies, and regulatory updates.",
+                url: "https://waterinstitute.ufl.edu/events/pfas-workshop-2026/",
+                categories: [{ name: "Workshop" }, { name: "Water Quality" }]
+            },
+            {
+                title: "Water Institute Advisory Board Meeting",
+                start_date: "2026-07-10 10:00:00",
+                end_date: "2026-07-10 12:00:00",
+                venue: { venue: "Water Institute Conference Room, Frazier Rogers Hall", address: { city: "Gainesville" } },
+                description: "Quarterly meeting of the Water Institute Advisory Board to discuss strategic priorities, ongoing research initiatives, and partnership opportunities.",
+                url: "https://waterinstitute.ufl.edu/events/advisory-board-july-2026/",
+                categories: [{ name: "Meeting" }]
+            },
+            {
+                title: "Summer Hydrology Field Course",
+                start_date: "2026-07-20 08:00:00",
+                end_date: "2026-08-01 17:00:00",
+                venue: { venue: "UF Campus and field sites", address: { city: "North Central Florida" } },
+                description: "Two-week intensive field course for graduate students covering streamflow measurement, water quality sampling, groundwater monitoring, and data analysis techniques.",
+                url: "https://waterinstitute.ufl.edu/events/hydrology-field-course-2026/",
+                categories: [{ name: "Course" }, { name: "Training" }]
+            }
+        ];
+
+        // Fetch events from WordPress API, fall back to sample data
+        async function loadEvents() {
+            try {
+                const response = await fetch(`${WP_API_URL}?start_date=now&per_page=50&status=publish`);
+                if (response.ok) {
+                    const data = await response.json();
+                    allEvents = (data.events || []).map(normalizeEvent);
+                    renderListView();
+                    renderCalendar();
+                    return;
+                }
+            } catch (e) {
+                console.log('WordPress API not available, using sample events');
+            }
+
+            // Use sample events as fallback
+            allEvents = SAMPLE_EVENTS.map(normalizeEvent);
+            renderListView();
+            renderCalendar();
+        }
+
+        // Normalize event data into a consistent format
+        function normalizeEvent(ev) {
+            const venue = ev.venue || {};
+            const addr = venue.address || {};
+            const locationParts = [];
+            if (venue.venue) locationParts.push(venue.venue);
+            if (addr.city) locationParts.push(addr.city);
+
+            const categories = (ev.categories || []).map(c =>
+                typeof c === 'string' ? c : c.name || ''
+            ).filter(Boolean);
+
+            return {
+                title: stripHtml(ev.title || 'Untitled Event'),
+                startDate: new Date(ev.start_date.replace(' ', 'T')),
+                endDate: ev.end_date ? new Date(ev.end_date.replace(' ', 'T')) : null,
+                location: locationParts.join(', ') || 'TBD',
+                description: stripHtml(ev.description || ''),
+                url: ev.url || '#',
+                categories: categories,
+                cost: ev.cost || ''
+            };
+        }
+
+        function stripHtml(html) {
+            const tmp = document.createElement('div');
+            tmp.innerHTML = html;
+            return tmp.textContent || tmp.innerText || '';
+        }
+
+        function formatDate(date) {
+            return date.toLocaleDateString('en-US', {
+                weekday: 'long',
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric'
+            });
+        }
+
+        function formatTime(date) {
+            return date.toLocaleTimeString('en-US', {
+                hour: 'numeric',
+                minute: '2-digit',
+                hour12: true
+            });
+        }
+
+        function formatEventDateRange(ev) {
+            const start = ev.startDate;
+            const end = ev.endDate;
+
+            let str = formatDate(start) + ', ' + formatTime(start);
+            if (end) {
+                if (start.toDateString() === end.toDateString()) {
+                    str += ' - ' + formatTime(end);
+                } else {
+                    str += ' - ' + formatDate(end) + ', ' + formatTime(end);
+                }
+            }
+            return str;
+        }
+
+        // List view
+        function renderListView() {
+            const container = document.getElementById('listView');
+
+            if (allEvents.length === 0) {
+                container.innerHTML = '<div class="no-events">No upcoming events at this time. Check back soon!</div>';
+                return;
+            }
+
+            // Sort by start date
+            const sorted = [...allEvents].sort((a, b) => a.startDate - b.startDate);
+
+            let html = '';
+            sorted.forEach(ev => {
+                const dateStr = formatEventDateRange(ev);
+                const desc = ev.description.length > 200
+                    ? ev.description.substring(0, 197) + '...'
+                    : ev.description;
+
+                html += `
+                    <div class="event-card">
+                        <span class="event-date-badge">${ev.startDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}</span>
+                        <h3 class="event-title"><a href="${ev.url}" target="_blank" rel="noopener">${ev.title}</a></h3>
+                        <div class="event-meta">
+                            <span>&#128197; ${dateStr}</span>
+                            <span>&#128205; ${ev.location}</span>
+                        </div>
+                        <p class="event-description">${desc}</p>
+                        ${ev.categories.length > 0 ? `
+                            <div class="event-categories">
+                                ${ev.categories.map(c => `<span class="category-tag">${c}</span>`).join('')}
+                            </div>
+                        ` : ''}
+                    </div>
+                `;
+            });
+
+            container.innerHTML = html;
+        }
+
+        // Calendar view
+        function renderCalendar() {
+            const grid = document.getElementById('calendarGrid');
+            const title = document.getElementById('calendarTitle');
+
+            const year = currentMonth.getFullYear();
+            const month = currentMonth.getMonth();
+
+            title.textContent = currentMonth.toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
+
+            const firstDay = new Date(year, month, 1);
+            const lastDay = new Date(year, month + 1, 0);
+            const startPad = firstDay.getDay(); // 0=Sun
+            const daysInMonth = lastDay.getDate();
+
+            const today = new Date();
+
+            // Header row
+            let html = '';
+            ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'].forEach(d => {
+                html += `<div class="calendar-header-cell">${d}</div>`;
+            });
+
+            // Previous month padding
+            const prevMonthLast = new Date(year, month, 0).getDate();
+            for (let i = startPad - 1; i >= 0; i--) {
+                html += `<div class="calendar-cell other-month"><div class="day-number">${prevMonthLast - i}</div></div>`;
+            }
+
+            // Current month days
+            for (let day = 1; day <= daysInMonth; day++) {
+                const date = new Date(year, month, day);
+                const isToday = date.toDateString() === today.toDateString();
+
+                // Find events on this day
+                const dayEvents = allEvents.filter(ev => {
+                    const evStart = new Date(ev.startDate.getFullYear(), ev.startDate.getMonth(), ev.startDate.getDate());
+                    const evEnd = ev.endDate
+                        ? new Date(ev.endDate.getFullYear(), ev.endDate.getMonth(), ev.endDate.getDate())
+                        : evStart;
+                    return date >= evStart && date <= evEnd;
+                });
+
+                html += `<div class="calendar-cell${isToday ? ' today' : ''}">`;
+                html += `<div class="day-number">${day}</div>`;
+                dayEvents.forEach(ev => {
+                    html += `<a class="event-dot" href="${ev.url}" target="_blank" title="${ev.title}">${ev.title}</a>`;
+                });
+                html += '</div>';
+            }
+
+            // Next month padding
+            const totalCells = startPad + daysInMonth;
+            const remaining = (7 - (totalCells % 7)) % 7;
+            for (let i = 1; i <= remaining; i++) {
+                html += `<div class="calendar-cell other-month"><div class="day-number">${i}</div></div>`;
+            }
+
+            grid.innerHTML = html;
+        }
+
+        // View toggle
+        document.querySelectorAll('.view-tab').forEach(tab => {
+            tab.addEventListener('click', () => {
+                document.querySelectorAll('.view-tab').forEach(t => t.classList.remove('active'));
+                tab.classList.add('active');
+
+                const view = tab.dataset.view;
+                document.getElementById('listView').classList.toggle('active', view === 'list');
+                document.getElementById('calendarView').classList.toggle('active', view === 'calendar');
+            });
+        });
+
+        // Calendar navigation
+        document.getElementById('prevMonth').addEventListener('click', () => {
+            currentMonth.setMonth(currentMonth.getMonth() - 1);
+            renderCalendar();
+        });
+
+        document.getElementById('nextMonth').addEventListener('click', () => {
+            currentMonth.setMonth(currentMonth.getMonth() + 1);
+            renderCalendar();
+        });
+
+        // Load on page ready
+        loadEvents();
+    </script>
+</body>
+</html>
