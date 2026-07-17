@@ -4,3 +4,5 @@ chromadb==0.5.23
 openai>=1.0.0
 pydantic>=2.5.3
 python-dotenv==1.0.0
+gspread>=6.0.0
+google-auth>=2.0.0

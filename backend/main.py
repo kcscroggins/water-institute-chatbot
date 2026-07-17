@@ -1,4 +1,4 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, BackgroundTasks
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import chromadb
@@ -7,10 +7,13 @@ from openai import OpenAI
 import os
 import json
 import logging
+import time
 from pathlib import Path
 from functools import lru_cache
 from typing import List, Optional, Dict, Any
 from dotenv import load_dotenv
+
+from chat_logger import ChatLogger
 
 # Load environment variables
 load_dotenv(dotenv_path="../.env")
@@ -127,11 +130,16 @@ collection = chroma_client.get_or_create_collection(
 metadata_cache.load_chromadb_metadata(collection)
 metadata_cache.load_faculty_json()
 
+# Initialize chat logger (no-op if Google Sheets env vars aren't set)
+chat_logger = ChatLogger()
+
 # OpenAI client configured for UF Navigator
 client = OpenAI(
     api_key=os.getenv("NAVIGATOR_UF_API_KEY"),
     base_url=os.getenv("NAVIGATOR_API_ENDPOINT")
 )
+
+MODEL_NAME = "gpt-4o"
 
 class ChatRequest(BaseModel):
     message: str
@@ -204,7 +212,8 @@ async def get_rankings():
 
 
 @app.post("/chat", response_model=ChatResponse)
-async def chat(request: ChatRequest):
+async def chat(request: ChatRequest, background_tasks: BackgroundTasks):
+    start_time = time.perf_counter()
     try:
         # Detect follow-up responses like "yes", "sure", "more" and use previous topic
         follow_up_phrases = {
@@ -464,7 +473,7 @@ async def chat(request: ChatRequest):
 
         # Call OpenAI API (using UF Navigator endpoint)
         response = client.chat.completions.create(
-            model="gpt-4o",
+            model=MODEL_NAME,
             messages=messages,
             temperature=0.3,
             max_tokens=500
@@ -472,9 +481,30 @@ async def chat(request: ChatRequest):
 
         answer = response.choices[0].message.content
 
+        elapsed_ms = int((time.perf_counter() - start_time) * 1000)
+        background_tasks.add_task(
+            chat_logger.log,
+            question=request.message,
+            response=answer,
+            sources=sources,
+            response_time_ms=elapsed_ms,
+            model=MODEL_NAME,
+            error=None,
+        )
+
         return ChatResponse(response=answer, sources=sources)
 
     except Exception as e:
+        elapsed_ms = int((time.perf_counter() - start_time) * 1000)
+        background_tasks.add_task(
+            chat_logger.log,
+            question=request.message,
+            response="",
+            sources=[],
+            response_time_ms=elapsed_ms,
+            model=MODEL_NAME,
+            error=str(e),
+        )
         raise HTTPException(status_code=500, detail=str(e))
 
 if __name__ == "__main__":

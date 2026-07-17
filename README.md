@@ -19,6 +19,62 @@ A RAG-powered chatbot that answers questions about the UF Water Institute, inclu
 
 ## Recent Updates
 
+### Chat Logging to Google Sheets & Expanded Test Suite (June 2026)
+
+Added end-to-end Q&A logging so the team can review what users are asking and where the bot answers poorly. Also broadened `test_chatbot.py` with hallucination, prompt-injection, multi-turn, events, and boundary tests.
+
+**New Files / Changes:**
+- ✅ `backend/chat_logger.py` — `ChatLogger` class that appends rows to a Google Sheet
+- ✅ `backend/main.py` — `/chat` now logs each request via `BackgroundTasks` (zero added latency)
+- ✅ `backend/requirements.txt` — added `gspread>=6.0.0` and `google-auth>=2.0.0`
+- ✅ `backend/test_chatbot.py` — added 5 new categories, `expected_keywords_any` field, and `conversation_history` support per test
+
+**Logged columns:** `timestamp_utc`, `question`, `response`, `sources`, `response_time_ms`, `model`, `error`.
+
+If the env vars below are not set, logging silently no-ops — `/chat` keeps working normally.
+
+**Required environment variables (Render):**
+```
+GOOGLE_SHEETS_CREDENTIALS_JSON   # full service-account JSON, pasted as-is
+GOOGLE_SHEETS_ID                 # spreadsheet ID from the Sheet URL
+GOOGLE_SHEETS_TAB                # tab name, e.g. "Chat Logs" (auto-created if missing)
+```
+
+**One-time Google setup:**
+1. Create a new Google Sheet; copy the ID from its URL
+2. In Google Cloud Console, create a project and enable the **Google Sheets API**
+3. Create a service account; under its **Keys** tab, add a new JSON key (downloads a file)
+4. In the Sheet, share with the service account's `client_email` (Editor access)
+5. Add the three env vars above on Render and redeploy
+
+**Startup log line confirms status:**
+- `Chat logging enabled → sheet '<id>' tab '<tab>'` — working
+- `Chat logging disabled: ...` — reason printed (missing var, bad JSON, share permission, etc.)
+
+**New Test Categories:**
+
+| Category | What it probes |
+|----------|---------------|
+| Hallucination | Fake faculty names, future awards, PII — bot must refuse, not invent |
+| Prompt Injection | "Ignore previous instructions", DAN jailbreak, system-prompt leak |
+| Multi-Turn | Follow-ups like "tell me more about him" using `conversation_history` |
+| Events | Verifies the WordPress events.txt is being surfaced |
+| Boundary | Single-char query, ALL CAPS, repeated text, misspelled names |
+
+**Test framework additions:**
+- `expected_keywords_any: List[str]` — passes if at least ONE matches (for refusal phrasings that legitimately vary)
+- `conversation_history: List[dict]` — sends prior turns with the request so multi-turn behavior can be tested
+
+**Usage:**
+```bash
+cd backend
+python test_chatbot.py              # against production
+python test_chatbot.py --local      # against http://localhost:8000
+python test_chatbot.py --verbose    # show full responses
+```
+
+---
+
 ### Google Scholar Profile Verification (March 2026)
 
 Created `backend/verify_scholar.py` to verify Google Scholar profile links in faculty .txt files.
