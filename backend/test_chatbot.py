@@ -314,6 +314,40 @@ DEPTH_TESTS = [
     ),
 ]
 
+KNOWN_FACTS_TESTS = [
+    TestCase(
+        category="Known Facts",
+        query="Who runs the Water Institute?",
+        expected_keywords=["Cohen"],
+    ),
+    TestCase(
+        category="Known Facts",
+        query="What year was the Water Institute founded?",
+        expected_keywords=["2006"],
+    ),
+    TestCase(
+        category="Known Facts",
+        query="What is the fax number for the Water Institute?",
+        expected_keywords=["352-392-6855"],
+    ),
+    TestCase(
+        category="Known Facts",
+        query="What is the Water Institute's mailing address?",
+        expected_keywords=["Weil Hall", "Gainesville", "32611"],
+    ),
+    TestCase(
+        category="Known Facts",
+        query="How much active research funding does the Water Institute have?",
+        # KNOWN FACTS block requires the "as of 2024-2025" qualifier.
+        expected_keywords=["164", "2024"],
+    ),
+    TestCase(
+        category="Known Facts",
+        query="What is the official website of the Water Institute?",
+        expected_keywords=["waterinstitute.ufl.edu"],
+    ),
+]
+
 OFF_TOPIC_TESTS = [
     TestCase(
         category="Off-Topic Guard",
@@ -435,6 +469,7 @@ def run_test_suite(api_url: str, verbose: bool = False):
         GENERAL_INSTITUTE_TESTS +
         EDGE_CASE_TESTS +
         DEPTH_TESTS +
+        KNOWN_FACTS_TESTS +
         OFF_TOPIC_TESTS
     )
 

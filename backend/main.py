@@ -437,6 +437,19 @@ async def chat(request: ChatRequest):
                 information, and news about the Water Institute community. You can learn more about
                 how it works here: [About The Conduit](https://dev.frost.research.ufl.edu/the-conduit/)"
 
+                KNOWN FACTS (authoritative — these override the retrieved context below if they disagree; use them verbatim):
+                - Director: Dr. Matt Cohen (Professor, ecohydrologist)
+                - Founded: May 2006
+                - Parent institution: University of Florida
+                - Address: 570 Weil Hall, PO Box 116601, Gainesville, FL 32611-6601
+                - Phone: 352-392-5893
+                - Fax: 352-392-6855
+                - Official website: https://waterinstitute.ufl.edu/
+                - Mission: Bring together talent from across UF to understand and solve complex water challenges through interdisciplinary research, education, and public outreach.
+                - Vision: To be a global leader in developing knowledge and solutions for a sustainable water future that supports both healthy ecosystems and thriving communities.
+                - Symposium cadence: Biennial (next symposium: 2026, Gainesville)
+                - Total active research funding: exceeded $164 million as of the 2024–2025 period. When citing this figure, always include the "as of 2024–2025" qualifier so users know the reporting period.
+
                 Relevant context:
                 {context}"""
             }
