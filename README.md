@@ -19,6 +19,28 @@ A RAG-powered chatbot that answers questions about the UF Water Institute, inclu
 
 ## Recent Updates
 
+### Live Events Feed from UF LiveWhale Calendar (July 2026)
+
+Replaced the previous WordPress event fetcher — which was 404-ing (`rest_no_route`) and had been serving stale placeholder data — with a live pull from the official UF calendar and lifted events out of ChromaDB into the system prompt.
+
+**Why the architectural change:** RAG retrieval is lossy for small, time-critical datasets. If someone asked "any events in September?" and the September event's chunk didn't rank in the top K, the LLM would confidently say no. Events are small (≤20 typically), always relevant when asked, and dates must be exact — so they're now injected verbatim into the system prompt alongside the KNOWN FACTS block and marked authoritative.
+
+**New Files / Changes:**
+- ✅ `backend/events_cache.py` — `EventsCache` class (thread-safe, 1h TTL, last-known-good on fetch failure), LiveWhale fetch with browser UA (CloudFront rejects the default), client-side filter on `group_title == "UF Water Institute"` (the `?group=` query param is silently ignored by the endpoint), and `format_for_prompt()` renderer
+- ✅ `backend/main.py` — cache warmed at startup, `{events_block}` injected above KNOWN FACTS, lazy background refresh scheduled on stale `/chat` requests so calendar.ufl.edu never blocks the hot path, new `POST /refresh-events` endpoint, cache status surfaced through `/health`
+- ✅ `backend/main.py` — EVENTS section of the system prompt rewritten to point at the injected block as the sole authoritative source and never draw event details from retrieved context
+- 🗑️ `backend/fetch_events.py` and `data/general_info/events.txt` — removed (superseded)
+
+**Source:** `https://calendar.ufl.edu/live/json/events` (returns the full UF-wide feed, filtered locally). Debug the cached block with `python events_cache.py`.
+
+**Endpoint:**
+```bash
+# Manually refresh when a new event is published (skips the 1h wait)
+curl -X POST https://water-institute-chatbot.onrender.com/refresh-events
+```
+
+---
+
 ### Chat Logging to Google Sheets & Expanded Test Suite (June 2026)
 
 Added end-to-end Q&A logging so the team can review what users are asking and where the bot answers poorly. Also broadened `test_chatbot.py` with hallucination, prompt-injection, multi-turn, events, and boundary tests.
@@ -576,11 +598,13 @@ data/
 ## API Endpoints
 
 - `GET /` - Health check
-- `GET /health` - Check database status and collection count
+- `GET /health` - Check database status, collection count, and events cache status
 - `GET /rankings` - Get faculty research rankings data (JSON)
 - `POST /chat` - Chat endpoint
   - Request: `{"message": "your question", "conversation_history": []}`
   - Response: `{"response": "answer", "sources": ["Faculty Name" or "Water Institute - Topic"]}`
+- `POST /refresh-cache` - Rebuild the ChromaDB metadata / faculty.json caches (call after re-ingestion)
+- `POST /refresh-events` - Immediately re-fetch upcoming events from calendar.ufl.edu (otherwise auto-refreshes hourly)
 
 ## Customization
 
@@ -716,9 +740,10 @@ MCP (Model Context Protocol) is Anthropic's open standard for connecting AI syst
 - ✅ Faculty profiles and expertise (369 faculty members - all enriched)
 - ✅ General Water Institute information (mission, programs, research, facilities, partnerships)
 - ✅ Static data stored in ChromaDB
-- ⚠️ Must manually re-run `ingest_faculty.py` to update information
-- ⚠️ Limited to text files in the `data/` folder
-- ⚠️ No real-time information (events, news, course schedules)
+- ✅ Events fetched live from calendar.ufl.edu (see `events_cache.py`) and refreshed hourly
+- ⚠️ Must manually re-run `ingest_faculty.py` to update faculty / general info
+- ⚠️ Limited to text files in the `data/` folder for the RAG-backed content
+- ⚠️ No real-time information for news or course schedules
 
 ### MCP Benefits
 
