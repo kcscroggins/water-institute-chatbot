@@ -14,6 +14,7 @@ from typing import List, Optional, Dict, Any
 from dotenv import load_dotenv
 
 from chat_logger import ChatLogger
+from events_cache import EventsCache
 
 # Load environment variables
 load_dotenv(dotenv_path="../.env")
@@ -130,6 +131,12 @@ collection = chroma_client.get_or_create_collection(
 metadata_cache.load_chromadb_metadata(collection)
 metadata_cache.load_faculty_json()
 
+# Events cache: fetched from calendar.ufl.edu and injected into the system prompt.
+# Warm at startup so the first /chat request already has fresh events. Fetch
+# failure is logged and the cache stays empty until a later refresh succeeds.
+events_cache = EventsCache()
+events_cache.refresh()
+
 # Initialize chat logger (no-op if Google Sheets env vars aren't set)
 chat_logger = ChatLogger()
 
@@ -168,7 +175,8 @@ async def health():
     return {
         "status": "healthy",
         "collection_count": collection.count(),
-        "cache": cache_status
+        "cache": cache_status,
+        "events_cache": events_cache.status(),
     }
 
 
@@ -185,6 +193,22 @@ async def refresh_cache():
         }
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Cache refresh failed: {str(e)}")
+
+
+@app.post("/refresh-events")
+async def refresh_events():
+    """Manually re-fetch events from calendar.ufl.edu.
+
+    Use this after publishing a new event that shouldn't wait for the
+    hourly background refresh.
+    """
+    ok = events_cache.refresh()
+    if not ok:
+        raise HTTPException(
+            status_code=503,
+            detail=f"Events refresh failed: {events_cache.status().get('last_error')}",
+        )
+    return {"status": "success", **events_cache.status()}
 
 
 @app.get("/rankings")
@@ -215,6 +239,12 @@ async def get_rankings():
 async def chat(request: ChatRequest, background_tasks: BackgroundTasks):
     start_time = time.perf_counter()
     try:
+        # Refresh events in the background if the cache has expired. The current
+        # request still uses the (up-to-1-hour) stale block; the fresh data lands
+        # for the next request. Keeps calendar.ufl.edu off the hot path.
+        if events_cache.is_stale():
+            background_tasks.add_task(events_cache.refresh)
+
         # Detect follow-up responses like "yes", "sure", "more" and use previous topic
         follow_up_phrases = {
             "yes", "yeah", "yep", "sure", "ok", "okay", "please", "more",
@@ -290,6 +320,9 @@ async def chat(request: ChatRequest, background_tasks: BackgroundTasks):
                 if 'source' in metadata and metadata['source'] not in sources:
                     sources.append(metadata['source'])
 
+        # Pull the current events block for injection into the system prompt.
+        events_block = events_cache.format_for_prompt()
+
         # Build conversation messages
         messages = [
             {
@@ -312,11 +345,18 @@ async def chat(request: ChatRequest, background_tasks: BackgroundTasks):
                 - If asked about a faculty member and NO context matches, say you don't have information about them.
 
                 EVENTS: When users ask about upcoming events, seminars, workshops, or symposia:
-                - Look for event information in the context (lines starting with "Event:", "Date:", "Location:")
-                - Always include the event date, time, location, and a brief description
-                - Include the event URL if available so users can register or learn more
-                - If asked "what events are coming up?", list all upcoming events with dates and locations
-                - Format events clearly with the most imminent events first
+                - Use ONLY the UPCOMING EVENTS block below. It is the complete, authoritative
+                  list of upcoming Water Institute events, sourced directly from calendar.ufl.edu.
+                - NEVER invent events, and NEVER use event details from the retrieved context —
+                  the retrieved context may contain stale event references; the UPCOMING EVENTS
+                  block always wins.
+                - When listing events, include the date, time, location, and a brief description.
+                  Include the Registration URL when it's provided; otherwise link to the Event page.
+                - If asked "what events are coming up?", list every event in the block, most
+                  imminent first.
+                - If the block says no events are scheduled, tell the user plainly that there
+                  are no upcoming Water Institute events currently listed on the official
+                  calendar, and offer to help with other questions.
 
                 STAY ON TOPIC: You are ONLY allowed to answer questions that are directly about:
                 - The UF Water Institute (mission, history, programs, facilities, partnerships, events)
@@ -445,6 +485,8 @@ async def chat(request: ChatRequest, background_tasks: BackgroundTasks):
                 It draws on faculty expertise profiles, research productivity metrics, program
                 information, and news about the Water Institute community. You can learn more about
                 how it works here: [About The Conduit](https://dev.frost.research.ufl.edu/the-conduit/)"
+
+                {events_block}
 
                 KNOWN FACTS (authoritative — these override the retrieved context below if they disagree; use them verbatim):
                 - Director: Dr. Matt Cohen (Professor, ecohydrologist)

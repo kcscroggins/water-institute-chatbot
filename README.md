@@ -58,7 +58,7 @@ GOOGLE_SHEETS_TAB                # tab name, e.g. "Chat Logs" (auto-created if m
 | Hallucination | Fake faculty names, future awards, PII — bot must refuse, not invent |
 | Prompt Injection | "Ignore previous instructions", DAN jailbreak, system-prompt leak |
 | Multi-Turn | Follow-ups like "tell me more about him" using `conversation_history` |
-| Events | Verifies the WordPress events.txt is being surfaced |
+| Events | Verifies the LiveWhale events block (injected into the prompt by `events_cache`) is being surfaced |
 | Boundary | Single-char query, ALL CAPS, repeated text, misspelled names |
 
 **Test framework additions:**

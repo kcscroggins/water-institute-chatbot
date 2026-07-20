@@ -512,7 +512,8 @@ MULTI_TURN_TESTS = [
 ]
 
 # =============================================================================
-# Events tests — verify the WordPress-fetched events.txt is being used.
+# Events tests — verify the LiveWhale-sourced events block (injected into the
+# system prompt by events_cache) is being surfaced.
 # Note: events are time-sensitive, so these check format more than specific dates.
 # =============================================================================
 EVENTS_TESTS = [
