@@ -146,7 +146,13 @@ client = OpenAI(
     base_url=os.getenv("NAVIGATOR_API_ENDPOINT")
 )
 
-MODEL_NAME = "gpt-4o"
+MODEL_NAME = os.getenv("NAVIGATOR_MODEL", "gpt-5-mini")
+
+
+def _completion_kwargs(model: str) -> dict:
+    if model.startswith("gpt-5"):
+        return {"max_completion_tokens": 1500}
+    return {"temperature": 0.3, "max_tokens": 500}
 
 class ChatRequest(BaseModel):
     message: str
@@ -517,8 +523,7 @@ async def chat(request: ChatRequest, background_tasks: BackgroundTasks):
         response = client.chat.completions.create(
             model=MODEL_NAME,
             messages=messages,
-            temperature=0.3,
-            max_tokens=500
+            **_completion_kwargs(MODEL_NAME),
         )
 
         answer = response.choices[0].message.content
