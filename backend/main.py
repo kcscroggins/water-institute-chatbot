@@ -151,7 +151,7 @@ MODEL_NAME = os.getenv("NAVIGATOR_MODEL", "gpt-5-mini")
 
 def _completion_kwargs(model: str) -> dict:
     if model.startswith("gpt-5"):
-        return {"max_completion_tokens": 1500}
+        return {"max_completion_tokens": 2000, "reasoning_effort": "minimal"}
     return {"temperature": 0.3, "max_tokens": 500}
 
 class ChatRequest(BaseModel):
