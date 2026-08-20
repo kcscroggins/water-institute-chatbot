@@ -7,6 +7,7 @@ from openai import OpenAI
 import os
 import json
 import logging
+import re
 import time
 from pathlib import Path
 from functools import lru_cache
@@ -154,6 +155,57 @@ def _completion_kwargs(model: str) -> dict:
         return {"max_completion_tokens": 2000, "reasoning_effort": "minimal"}
     return {"temperature": 0.3, "max_tokens": 500}
 
+
+_FOLLOWUP_PRONOUN_RE = re.compile(
+    r"\b(he|she|him|her|his|hers|it|its|they|them|their|theirs|"
+    r"that|this|these|those|one|ones)\b",
+    re.IGNORECASE,
+)
+
+
+def _looks_like_followup(query: str) -> bool:
+    stripped = query.strip()
+    if not stripped:
+        return False
+    if len(stripped.split()) <= 3:
+        return True
+    return bool(_FOLLOWUP_PRONOUN_RE.search(stripped))
+
+
+def _rewrite_followup(query: str, history: List[dict]) -> str:
+    """Resolve pronouns/vague refs in a follow-up query so retrieval has
+    something to match against. Falls back to the original query on any
+    failure — this must never block or corrupt the /chat hot path."""
+    if not history or not _looks_like_followup(query):
+        return query
+    transcript = "\n".join(
+        f"{m.get('role', 'user')}: {m.get('content', '')}"
+        for m in history[-4:]
+        if m.get("content")
+    )
+    if not transcript:
+        return query
+    prompt = (
+        "Given this conversation, rewrite the user's latest question so it is "
+        "self-contained — replace pronouns (he/she/it/that/etc.) with the "
+        "specific person or topic from the earlier turns. If the reference "
+        "is unclear from the conversation, return the question unchanged. "
+        "Return ONLY the rewritten question with no preamble or quotes.\n\n"
+        f"Conversation:\n{transcript}\n\n"
+        f"Latest question: {query}\n\nRewritten question:"
+    )
+    try:
+        response = client.chat.completions.create(
+            model=MODEL_NAME,
+            messages=[{"role": "user", "content": prompt}],
+            **_completion_kwargs(MODEL_NAME),
+            timeout=8,
+        )
+        rewritten = (response.choices[0].message.content or "").strip()
+        return rewritten or query
+    except Exception:
+        return query
+
 class ChatRequest(BaseModel):
     message: str
     conversation_history: Optional[List[dict]] = []
@@ -270,6 +322,12 @@ async def chat(request: ChatRequest, background_tasks: BackgroundTasks):
                         if prev_msg not in follow_up_phrases:
                             query_for_search = msg.get('content', request.message)
                             break
+        elif request.conversation_history:
+            # Pronoun/reference follow-up ("What's his email?"): rewrite via
+            # LLM so the vector query carries the referent, not just "his".
+            query_for_search = _rewrite_followup(
+                request.message, request.conversation_history
+            )
 
         # Query ChromaDB for relevant faculty information
         results = collection.query(
