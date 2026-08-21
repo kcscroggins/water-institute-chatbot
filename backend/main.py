@@ -337,8 +337,9 @@ async def chat(request: ChatRequest, background_tasks: BackgroundTasks):
         )
 
         # Secondary search: check if any word in the query matches a faculty name in metadata
-        # This catches first-name-only or last-name-only queries that vector search may miss
-        query_words = [w.lower().strip(",.?!") for w in request.message.split() if len(w) > 2]
+        # This catches first-name-only or last-name-only queries that vector search may miss.
+        # Uses query_for_search so multi-turn rewrites ("his" → "David Kaplan") benefit here too.
+        query_words = [w.lower().strip(",.?!") for w in query_for_search.split() if len(w) > 2]
         # Exclude common words that would cause false matches
         stop_words = {"tell", "about", "what", "who", "does", "the", "this", "that", "from",
                       "with", "have", "been", "their", "there", "which", "where", "when",
