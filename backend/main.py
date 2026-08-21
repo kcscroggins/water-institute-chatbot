@@ -213,7 +213,6 @@ class ChatRequest(BaseModel):
 class ChatResponse(BaseModel):
     response: str
     sources: List[str]
-    search_query: Optional[str] = None  # debug: the query actually used for retrieval
 
 @app.get("/")
 async def root():
@@ -599,7 +598,7 @@ async def chat(request: ChatRequest, background_tasks: BackgroundTasks):
             error=None,
         )
 
-        return ChatResponse(response=answer, sources=sources, search_query=query_for_search)
+        return ChatResponse(response=answer, sources=sources)
 
     except Exception as e:
         elapsed_ms = int((time.perf_counter() - start_time) * 1000)
