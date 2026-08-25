@@ -1,0 +1,106 @@
+UF Water Institute - Research Projects
+
+Overview:
+
+The UF Water Institute convenes interdisciplinary, multi-stakeholder teams to address complex water challenges through collaborative research. Its work spans terrestrial water systems and their interactions with human, coastal, and atmospheric processes. As of 2025, the Water Institute has coordinated or assisted with 70+ interdisciplinary sponsored projects representing more than $55 million in secured funding. Projects are either led/coordinated by the Water Institute directly, or facilitated/supported by the Water Institute in collaboration with other lead organizations.
+
+---
+
+Current Research Projects:
+
+1. Investigating Dissolved Oxygen in the Upper Floridan Aquifer (FADOS)
+Led/coordinated by the Water Institute.
+This three-year project (2024-2027) explores dissolved oxygen (DO) in the Floridan Aquifer and Florida's springs. Building on evidence that oxygen is a key regulator of springs health, and observations that DO in the aquifer varies in time and space, the project investigates the geological, chemical, and biological drivers of that variation. Work spans three phases: (1) advisory-committee kickoff, spatial data synthesis of DO in Upper Floridan Aquifer wells, temporal analysis at spring vents, and a reduced-complexity model; (2) statistical analyses, time-series analysis of DO variation with discharge and water-quality covariates, model refinement, and field testing of DO monitoring at private wells to inform a citizen-science initiative; (3) end-of-project workshop and final report.
+Project Lead: Dr. Matt Cohen (Water Institute, UF).
+Water Institute Team: James Jawitz (Soil, Water and Ecosystem Sciences), Jonathan Martin (Geological Sciences), Brent Christner (Microbiology and Cell Science), Darlene Velez (Water Institute).
+Funding: Florida Department of Environmental Protection, $677,000 (2024-2027).
+Advisors: Alachua County, AquiferWatch, Florida DEP, Florida DOH, Florida Geological Survey, and all five Florida water management districts.
+
+2. Conservation Hub for Economic Empowerment of Rural Stakeholders (CHEERS)
+Facilitated/supported by the Water Institute.
+CHEERS aims to accelerate adoption of winter cropping systems and support the transition to a profitable climate-smart circular bioeconomy across Florida, Georgia, and Alabama. Millions of acres of Southeast cropland remain fallow during winter — CHEERS convenes farmers, Extension agents, industry, agencies, and researchers to co-develop solutions that boost farm income while protecting soil and water, supporting pollinators, sequestering carbon, and reducing nutrient runoff. The Water Institute supports team-science facilitation, coordinating annual team-integration meetings and advisory-board engagement.
+Project Lead: Jose Dubeux (Agronomy, UF).
+Water Institute Team: Andrea Albertin, Paloma Carton de Grammont, Sadie Hundemer, Hardeep Singh, Chang Zhao, Darlene Velez.
+Funding: USDA National Institute of Food and Agriculture, $9,990,000.
+Partners: American Farmland Trust, Auburn University, Clemson University, Florida A&M University, Tuskegee University, University of Georgia, USDA-ARS, and others.
+Project website: https://cheers-hub.org/
+
+3. Integrating Modeling Tools and Observations for Prediction and Management of Harmful Algal Blooms in the St. Lucie Estuary and Watershed (SLEW)
+Facilitated/supported by the Water Institute.
+The SLEW project (2023-2025) develops an integrated decision-support system that combines water-quality monitoring, forecasting, and advanced modeling to help water managers predict and manage harmful algal blooms (HABs) across Lake Okeechobee, the St. Lucie Estuary and Watershed, and the Caloosahatchee River and Estuary. The Water Institute facilitates the co-production process between researchers and end-users (Florida DEP, South Florida Water Management District, US Army Corps of Engineers) so tools stay relevant, trusted, and useful.
+Project Lead: Mauricio E. Arias (University of South Florida).
+Water Institute Team: Paloma Carton de Grammont, David Kaplan (Environmental Engineering Sciences, UF), Lisa Krimsky (UF/IFAS Extension), Darlene Velez.
+Funding: US Army Corps of Engineers, $2,485,935 (2023-2025).
+Expected outputs: integrated decision-support platform, HAB forecasting tools, water-quality and hydrodynamic models, and eight peer-reviewed publications.
+Project website: http://www.usf.edu/algal-bloom
+
+4. Beneficial Reuse of Wastewater and Solids: Overcoming Barriers and Identifying Opportunities (BREWS)
+Led/coordinated by the Water Institute (2024 Water Scholars cohort).
+The current UF Water Scholars cohort addresses challenges in advancing water reuse — including water quality, emerging contaminants, and risks to both human and ecosystem health across agricultural and urban systems. The cohort spans soil and water science, geochemistry, toxicology, health, STEM learning and science translation, and resource economics, and focuses on developing safe, sustainable, and scalable water reuse solutions co-developed with users, utilities, and decision-makers.
+
+---
+
+Past Flagship Projects:
+
+Past projects led by the Water Institute featuring interdisciplinary collaboration to solve complex water challenges include:
+- FACETS
+- SILA
+- Integrating NASA Earth Systems Data into Decision-Making Tools of Member Utilities of the Florida Water and Climate Alliance
+- Ecological and Economic Impacts of Land Use and Climate Change on Coastal Food Webs and Fisheries
+- Evaluating Potential Risks of Climate Change on Surface Water Quality in the Hillsborough and Alafia River Watersheds
+
+---
+
+Current Working Groups:
+
+Working groups convene scientists, end-users, government agencies, utilities, and private-sector organizations to identify shared research priorities, synthesize existing knowledge, and develop actionable solutions that inform water management and policy.
+
+1. Building Research Initiatives and Dialogue for Greater Everglades Science (BRIDGES)
+The Water Institute and the School of Natural Resources and Environment have partnered with academic units across UF to connect a cohort of UF faculty with the managers, decision-makers, and researchers engaged in the restoration of America's Everglades. Faculty from multiple departments participate in workshops and webinars to strengthen their scientific foundation of the Everglades while building connections with the agencies involved in Everglades restoration.
+
+2. Bridging the Gap: Integrating Water Resource Management and Ecosystem Science for Climate Adaptation in Florida
+Florida faces growing challenges related to changing rainfall patterns, water availability, and ecosystem health — intensified by population growth and land-use change. This working group brings water-resource managers, natural-resource managers, and scientists together to co-produce science-based strategies that support both human and ecological water needs under a changing climate. Builds on the Florida Water and Climate Alliance (FloridaWCA) using structured workshops to identify shared priorities, address knowledge gaps, and develop a coordinated research and management agenda.
+Team: Matt Cohen (PI, Water Institute), Mike Allen (Co-PI, UF/IFAS Nature Coast Biological Station), Tirusew Asefa (Co-PI, Tampa Bay Water), Paloma Carton de Grammont (Co-PI, Water Institute), John Stamm (Co-PI, USGS Caribbean-Florida Water Science Center), Darlene Velez (project manager and facilitator).
+Steering Committee: Jenna Harper (Florida DEP), Jennifer Heckler (Coastal and Heartland National Estuary Partnership), Eric Nagid (FWC).
+Funding: Southeast Climate Adaptation Science Center, $50,606.
+
+3. Florida Water Quality and Quantity Enhanced Synthesis Tools (FLOWQUEST, also FLOW QU2EST)
+Despite substantial investments in water-quality monitoring across Florida, data are fragmented across sources and scales — limiting statewide assessments. FLOWQUEST creates a benchmark statewide water quality and quantity dataset by integrating nutrient measurements, water-quality indicators, watershed characteristics, stream-network attributes, and discharge data from multiple sources. A statewide synthesis working group guides dataset development, identifies priority applications, and explores approaches for generating actionable knowledge about causes, patterns, and management of water-quality challenges.
+Leadership Team: Matt Cohen (Water Institute), Wendy Graham (Agricultural and Biological Engineering), James Jawitz (Soil, Water, and Ecosystem Sciences), David Kaplan (Environmental Engineering Sciences).
+Participants span UF, University of South Florida, University of Central Florida, Florida State University, Florida International University, Florida Atlantic University, and Florida A&M/Florida State.
+Funding: Water Institute with $10,000 in external funding from the Florida Department of Environmental Protection.
+
+---
+
+Past Working Groups:
+
+Carbonate Critical Zone Research Coordination Network (RCN)
+Advanced transdisciplinary and collaborative science to enhance the understanding of carbonate-rich Critical Zones. The network hosted workshops, webinars, training sessions, and coordinated three working groups focused on data synthesis, synthesis papers, identifying future funding opportunities, and presenting results at professional meetings.
+
+---
+
+UF Water Scholars Program (formerly Graduate Fellows Program):
+
+The UF Water Scholars Program advances interdisciplinary research, builds lasting collaborations, and helps secure external funding to address complex water challenges. Since inception, the program has supported six cohorts, engaging 41 students across 13 academic units and contributing to over 68 publications and more than $9 million in externally funded research. Relaunched and renamed in 2024 to reflect its university-wide scope; supported by a collaborative funding model that includes the Office of Research, participating colleges, and faculty.
+
+Cohorts:
+- 2024 — Beneficial Reuse of Wastewater and Solids (BREWS): water reuse, emerging contaminants, and risks to human and ecosystem health across agricultural and urban systems.
+- 2019 — High Latitude Hydrology: how climate change is transforming Arctic water systems (ice melt, permafrost dynamics, hydrologic processes, biogeochemical cycles) and their effects on ecosystems and downstream environments.
+- 2017 — Resilience in Water-Subsidized Systems: building resilience in watersheds affected by water transfers, climate variability, and human activity; used the Tempisque River Basin as a case study; resulted in a formal Memorandum of Understanding with CREHO.
+- 2015 — Amazon Basin Hydrologic Transformation: how large-scale dams and land-use change are transforming hydrology, ecosystems, and human systems in the Amazon Basin; part of the Amazon Dams Network (ADN).
+- 2013 — Sea-Level Change and Coastal Aquifers: how sea-level rise affects coastal aquifers, freshwater availability, and ecosystems; field research in the United States and Mexico.
+- 2011 — Watershed Management and Numeric Nutrient Criteria: managing nutrient pollution and meeting EPA numeric nutrient criteria for Florida's waters.
+
+---
+
+Related Initiatives:
+
+Southeast Climate Adaptation Science Center (SE CASC)
+One of nine regional Climate Adaptation Science Centers within the US Geological Survey's national network. Led by North Carolina State University; brings academic and nonprofit partners across the Southeast together to generate and deliver actionable science that helps fish, wildlife, water, land, and people adapt to climate impacts. The UF Water Institute serves as a focal point for connecting UF's water and climate expertise with the SE CASC consortium. Website: https://secasc.ncsu.edu/
+
+Florida Water and Climate Alliance (FloridaWCA)
+Founded in 2010 and housed within the UF Water Institute. FloridaWCA is a statewide community of practice representing more than 1,100 individual members and 25 collaborating organizations, with public water utilities, water management districts, government and regulatory agencies, and academic organizations working across Florida. To date: 39+ workshops and webinars, 4 co-development projects. Strengthens climate-data-informed water management by sustaining cross-sector collaboration between scientists and stakeholders.
+
+---
+
+Source: https://dev.frost.research.ufl.edu/water-institute-research-projects/ (Water Institute site — subject to change). See also https://waterinstitute.ufl.edu/ for the general Water Institute website.
