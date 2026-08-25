@@ -11,14 +11,39 @@ A RAG-powered chatbot that answers questions about the UF Water Institute, inclu
 ## Current Status (August 2026)
 
 - **Model**: GPT-5 mini (configurable via `NAVIGATOR_MODEL` env var)
-- **Test Pass Rate**: 93.8% (80 tests)
+- **Test Pass Rate**: 95.0% (80 tests)
 - **ChromaDB Chunks**: 421 indexed documents
 - **Faculty Profiles**: 376 enriched profiles with caching enabled
-- **Average Response Time**: ~5.5 seconds
+- **Average Response Time**: ~4.7 seconds
 
 ---
 
 ## Recent Updates
+
+### Multi-Turn Query Rewriting (August 2026)
+
+Fixed the multi-turn RAG failure where pronoun follow-ups like `"What's his email?"` or `"When did she publish that?"` retrieved unrelated faculty because the vector search embedded the follow-up text as-is — with no signal about the referent — while the LLM correctly resolved "his"/"she"/"that" from `conversation_history`.
+
+**The failure mode:** the test case sent `"What's his email?"` after a turn about David Kaplan. The LLM understood "his" = Kaplan (from history), but retrieval returned Burton/Allen/Delfino chunks — Kaplan's profile never made it into the context, so the bot answered `"I don't have information about David Kaplan"`.
+
+**Why the existing follow-up handler didn't catch it:** `main.py` had a heuristic for agreement-style follow-ups (`"yes"`, `"more"`, `"show more"`) that reused the previous user message as the retrieval query. But pronoun follow-ups fell through and used the raw query, which has zero signal for the vector search.
+
+**Fix — LLM query rewriting:** added `_rewrite_followup()` that resolves pronouns via one cheap LLM call before retrieval. If `conversation_history` exists and the query looks like a follow-up (≤3 words or contains a pronoun via a regex `he|she|him|her|his|it|they|that|this|these|those|one` etc.), the helper rewrites `"What's his email?"` + prior Kaplan turn → `"What is Dr. David Kaplan's email?"` and embeds that instead. Wraps the whole thing in `try/except` and an 8s timeout — falls back to the original query on any exception, so the `/chat` hot path is never blocked. Single-turn queries skip the rewrite entirely (fast path unchanged).
+
+**Second, non-obvious bug uncovered by the fix:** the secondary name-match search (`main.py:341`) that injects faculty chunks based on keyword-in-metadata was still tokenizing `request.message`, not the rewritten `query_for_search`. So even after the LLM rewrite fixed the vector search half, the backup missed Kaplan when vector search ranked him outside top-12 — because `"What's his email?"` has no `"kaplan"` or `"david"` token to match against. One-line fix: point the tokenizer at `query_for_search` too.
+
+**Debugging the fix:** temporarily exposed a `search_query` field on `ChatResponse` to verify the rewrite was firing. That's how we found the name-match bug — the rewrite showed the *right* query but retrieval was still wrong. Field removed once verified.
+
+**New Files / Changes:**
+- ✅ `backend/main.py` — added `re` import; `_FOLLOWUP_PRONOUN_RE` regex; `_looks_like_followup()` heuristic; `_rewrite_followup()` LLM-based rewriter (uses the current `MODEL_NAME` and `_completion_kwargs()` so GPT-5's `reasoning_effort="minimal"` applies here too, keeping the extra call fast); wired into the chat handler as an `elif` after the existing agreement-style handler; also swapped the secondary name-match tokenizer to `query_for_search`
+
+**Test results:**
+- Multi-Turn category: **2/3 (67%) → 3/3 (100%)**
+- Overall: 93.8% → **95.0%** (76/80)
+- Avg response time: 5.50s → **4.69s** (most tests are single-turn, so the rewrite doesn't fire; multi-turn queries pay ~1-2s for the extra LLM call)
+- Remaining 4 failures are unrelated: 2 rankings RAG issues (Zimmerman chunk not retrieved for h-index query), 1 keyword-picky test on "Matt Cohen's research", 1 flaky misspelling test at `temperature=1.0`
+
+---
 
 ### Model Swap to GPT-5 Mini (August 2026)
 
@@ -616,9 +641,10 @@ data/
 **How It Works:**
 1. Both folders are ingested into a single ChromaDB collection
 2. Each chunk is tagged with metadata (`type: "faculty"` or `type: "general"`)
-3. When users ask questions, ChromaDB retrieves the most relevant chunks
-4. GPT-5 mini generates answers based on the retrieved context
-5. Sources are displayed to show where the information came from
+3. If the request is a follow-up (short query or contains a pronoun like "his"/"she"/"that"), the query is LLM-rewritten into a self-contained form using `conversation_history` — e.g. `"What's his email?"` → `"What is Dr. David Kaplan's email?"` — so the retrieval has real signal to match against
+4. ChromaDB retrieves the most relevant chunks (vector search + a name-match backup that injects faculty chunks whose metadata contains a token from the query)
+5. GPT-5 mini generates answers based on the retrieved context
+6. Sources are displayed to show where the information came from
 
 ## API Endpoints
 
