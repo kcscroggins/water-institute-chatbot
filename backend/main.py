@@ -352,10 +352,22 @@ async def chat(request: ChatRequest, background_tasks: BackgroundTasks):
                 # Use cached metadata instead of querying on every request
                 all_metadata = metadata_cache.load_chromadb_metadata(collection)
                 for doc, metadata in zip(all_metadata['documents'], all_metadata['metadatas']):
-                    if metadata.get('type') == 'faculty':
+                    doc_type = metadata.get('type', '')
+                    if doc_type == 'faculty':
+                        # Faculty: match query words against the source filename
+                        # (which is the faculty's name).
                         source_name = metadata.get('source', '').lower()
                         name_parts = source_name.split()
                         if any(qw in name_parts for qw in query_words):
+                            name_matched_docs.append((doc, metadata))
+                    elif doc_type == 'general':
+                        # General docs (team.txt, research_projects.txt, etc.):
+                        # match query words against the document text so names
+                        # like "Paloma Carton de Grammont" and acronyms like
+                        # "FADOS" get pulled in when vector search misses them.
+                        doc_lower = doc.lower()
+                        if any(re.search(r'\b' + re.escape(qw) + r'\b', doc_lower)
+                               for qw in query_words):
                             name_matched_docs.append((doc, metadata))
             except Exception as e:
                 logger.warning(f"Name matching failed: {e}")
@@ -423,27 +435,25 @@ async def chat(request: ChatRequest, background_tasks: BackgroundTasks):
                   are no upcoming Water Institute events currently listed on the official
                   calendar, and offer to help with other questions.
 
-                STAY ON TOPIC: You are ONLY allowed to answer questions that are directly about:
-                - The UF Water Institute (mission, history, programs, facilities, partnerships, events)
-                - UF Water Institute faculty members (their research, publications, contact info)
-                - Water-related research at UF
-                - Upcoming events, seminars, workshops, and symposia at the Water Institute
+                STAY ON TOPIC: You help with questions about the UF Water Institute — its
+                mission, history, programs, facilities, partnerships, events, faculty, research
+                projects, working groups, and staff. Default to answering from the context below
+                whenever the query could plausibly relate to the Water Institute, even if the
+                wording is unclear, misspelled, or uses an unfamiliar term or acronym. A user
+                asking about a person by first name, last name, or full name is always a valid
+                query. If the context is thin, answer with what you have and offer to look
+                further — do NOT refuse just because the retrieval was weak.
 
-                IMPORTANT: If the context below contains faculty profile data that matches a name
-                in the user's question, the question IS on-topic — answer it using that context.
-                A user asking about a person by first name, last name, or full name is always
-                a valid faculty query.
-
-                You must REFUSE requests that are clearly unrelated to the institute, such as:
-                - General knowledge questions (e.g., "What is the meaning of life?")
+                Only REFUSE when a request is unambiguously outside this scope:
                 - Creative writing (e.g., "Write me a poem")
                 - Math, coding, or homework help
+                - General knowledge unrelated to water or the institute (e.g., "What is the meaning of life?")
                 - Opinions, advice, or recommendations unrelated to the institute
 
-                For ANY off-topic request, respond ONLY with:
+                For those clearly off-topic requests only, respond ONLY with:
                 "I'm designed to help with questions about the UF Water Institute. Feel free to ask
                 about our faculty, research, programs, or anything else related to the institute!"
-                Do NOT attempt to answer the off-topic question in any way.
+                When in doubt, attempt to answer from the context rather than refuse.
 
                 STRICT URL POLICY: You must NEVER generate, invent, or guess any URL. Only use URLs
                 that appear word-for-word in the provided context below. If no URL is available for

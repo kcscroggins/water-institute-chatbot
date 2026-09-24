@@ -20,6 +20,29 @@ def chunk_text(text: str, chunk_size: int = 500, overlap: int = 50) -> list[str]
 
     return chunks
 
+
+def chunk_by_sections(text: str, separator: str = "---", max_words: int = 800) -> list[str]:
+    """Split text at `---` section separators so each section (a team member,
+    a project, a working group) stays intact in a single chunk. Sections larger
+    than `max_words` fall back to word-based chunking so we don't produce
+    oversize chunks."""
+    sections = [s.strip() for s in text.split(separator)]
+    chunks = []
+    for section in sections:
+        if not section:
+            continue
+        if len(section.split()) <= max_words:
+            chunks.append(section)
+        else:
+            chunks.extend(chunk_text(section))
+    return chunks
+
+
+# General-info files that are structured with `---` separators and should be
+# chunked section-by-section rather than by fixed word count. Keeps each
+# person / project / working group in its own retrievable chunk.
+SECTION_CHUNKED_FILES = {"team.txt", "research_projects.txt"}
+
 def ingest_all_data():
     # Initialize ChromaDB
     chroma_client = chromadb.PersistentClient(path="../chroma/db")
@@ -90,8 +113,13 @@ def ingest_all_data():
             # Extract topic from filename
             topic = file_path.stem.replace('_', ' ').title()
 
-            # Chunk the content
-            chunks = chunk_text(content)
+            # Chunk the content — some files are structured with `---` section
+            # separators (team members, projects) and are better retrieved when
+            # each section is its own chunk.
+            if file_path.name in SECTION_CHUNKED_FILES:
+                chunks = chunk_by_sections(content)
+            else:
+                chunks = chunk_text(content)
 
             print(f"Processing general info: {topic}: {len(chunks)} chunks")
 
