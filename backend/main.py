@@ -420,6 +420,13 @@ async def chat(request: ChatRequest, background_tasks: BackgroundTasks):
                 - NEVER fill in gaps with plausible-sounding but unverified information.
                 - If asked about a faculty member and the context contains their profile, answer ONLY from that profile data.
                 - If asked about a faculty member and NO context matches, say you don't have information about them.
+                - PAPER AUTHORS: Publication entries in the context carry only title, journal,
+                  year, citations, and DOI — they do NOT include author lists. When discussing
+                  a paper that appears under a faculty member's profile, you may say the paper
+                  is from that person's publication record, but DO NOT list co-authors or
+                  attribute authorship to any other named person. If a user asks who wrote or
+                  co-authored a paper, say the full author list isn't in your data and share
+                  the DOI link so they can look it up at the publisher.
 
                 EVENTS: When users ask about upcoming events, seminars, workshops, or symposia:
                 - Use ONLY the UPCOMING EVENTS block below. It is the complete, authoritative
@@ -595,7 +602,15 @@ async def chat(request: ChatRequest, background_tasks: BackgroundTasks):
             **_completion_kwargs(MODEL_NAME),
         )
 
-        answer = response.choices[0].message.content
+        # Guard against None/empty content. gpt-5-mini can return content=None
+        # when reasoning tokens exhaust the budget or when the model emits an
+        # empty completion — raw None would blow up Pydantic validation on
+        # ChatResponse(response: str) and surface as a 500 to the user.
+        answer = response.choices[0].message.content or (
+            "I'm having trouble generating a response right now. Please try "
+            "rephrasing your question, or contact the Water Institute at "
+            "352-392-5893."
+        )
 
         elapsed_ms = int((time.perf_counter() - start_time) * 1000)
         background_tasks.add_task(
