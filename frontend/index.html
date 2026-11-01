@@ -384,14 +384,6 @@
 
             await sendMessage(message);
         });
-
-        // Allow Enter to send, Shift+Enter for new line
-        chatInput.addEventListener('keydown', (e) => {
-            if (e.key === 'Enter' && !e.shiftKey) {
-                e.preventDefault();
-                chatForm.dispatchEvent(new Event('submit'));
-            }
-        });
     </script>
 </body>
 </html>
