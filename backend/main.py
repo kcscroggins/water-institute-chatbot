@@ -206,6 +206,52 @@ def _rewrite_followup(query: str, history: List[dict]) -> str:
     except Exception:
         return query
 
+
+# Markdown link pattern: [visible text](url). Non-greedy on the URL and stopping
+# at `)` is enough here because our prompts never emit nested parens inside URLs.
+_MD_LINK_RE = re.compile(r"\[([^\]]+)\]\((https?://[^)\s]+)\)")
+
+# URLs that live in the system prompt itself (not in retrieved context) and are
+# always valid for the model to emit. Keep this list in sync with the prompt.
+_SYSTEM_PROMPT_URLS = frozenset({
+    "https://waterinstitute.ufl.edu/",
+    "https://waterinstitute.ufl.edu/student-travel-award/",
+    "https://dev.frost.research.ufl.edu/the-conduit/",
+})
+
+
+def _strip_fabricated_urls(response_text: str, retrieved_context: str) -> str:
+    """Drop any markdown link whose URL isn't present verbatim in the retrieved
+    context or the system-prompt whitelist. The model is known to invent URLs
+    by analogy (building plausible-looking paths) or by borrowing URLs from an
+    adjacent faculty profile — both failure modes produce links that point
+    somewhere wrong. For any such link we keep the visible text and drop the
+    `(url)` part so the user still sees the label but doesn't follow a broken
+    link. Note: this does not catch DOI/URL swapping between two valid URLs
+    (both would pass the verbatim check); that failure mode needs per-entry
+    tracking we don't do yet."""
+    stripped: List[str] = []
+
+    def _check(match: "re.Match[str]") -> str:
+        text, url = match.group(1), match.group(2)
+        # Trailing punctuation occasionally sneaks into the captured URL from
+        # the model's output ("…url).", "…url,"). Normalize before checking.
+        url_clean = url.rstrip(".,;)")
+        if url_clean in retrieved_context or url_clean in _SYSTEM_PROMPT_URLS:
+            return match.group(0)
+        stripped.append(url_clean)
+        return text
+
+    cleaned = _MD_LINK_RE.sub(_check, response_text)
+    if stripped:
+        logger.warning(
+            "Stripped %d fabricated URL(s) from LLM response: %s",
+            len(stripped),
+            stripped,
+        )
+    return cleaned
+
+
 class ChatRequest(BaseModel):
     message: str
     conversation_history: Optional[List[dict]] = []
@@ -494,6 +540,14 @@ async def chat(request: ChatRequest, background_tasks: BackgroundTasks):
 
                 - ONLY use URLs that appear EXACTLY in the provided context. Copy them character for character.
                 - If no URL exists in the context for a faculty member, do NOT include a link for them.
+                - NO URL CROSS-CONTAMINATION: Each URL in the context belongs to the ONE
+                  specific faculty member whose profile block it appears in. NEVER copy a
+                  URL from one person's profile and attach it to another person. Do NOT
+                  invent a URL by analogy (e.g., building a plausible "/faculty/<name>/"
+                  path), do NOT substitute a URL from an adjacent profile, and do NOT
+                  reuse the Dr. Matt Cohen example URLs shown below for any other person.
+                  If you are not certain a URL is from the correct person's profile block
+                  in the context, OMIT the link rather than guess.
                 - Always put links on their own line at the very end of your response
                 - NEVER add filler phrases before links such as "For more information, visit...",
                   "You can learn more at...", "Feel free to check out...", or "contact the Water Institute".
@@ -611,6 +665,11 @@ async def chat(request: ChatRequest, background_tasks: BackgroundTasks):
             "rephrasing your question, or contact the Water Institute at "
             "352-392-5893."
         )
+
+        # Last line of defense against the model inventing or cross-contaminating
+        # URLs (faculty X getting faculty Y's Website, fabricated "/faculty/name"
+        # paths, etc.). The prompt forbids this but the model doesn't always obey.
+        answer = _strip_fabricated_urls(answer, context)
 
         elapsed_ms = int((time.perf_counter() - start_time) * 1000)
         background_tasks.add_task(
